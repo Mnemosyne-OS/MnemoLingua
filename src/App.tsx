@@ -13,11 +13,10 @@ import { Session } from './components/Session';
 import { StrokeSetup } from './components/StrokeSetup';
 import { useI18n } from './i18n/useI18n';
 import { glossLangs, indexDeck, resolveGlossLang, viewDeck } from './lib/deck';
-import { hasHost } from './lib/host';
+import { hasHost, openExternal } from './lib/host';
 import { log } from './lib/log';
 import { strokeSourceFor } from './lib/strokes';
 import { REPO_URL, RUNNING_VERSION, useUpdateCheck } from './lib/update';
-import { openExternal } from './lib/host';
 import { useWritingData } from './lib/useWritingData';
 import { cardsDueTomorrow, nextReview, playableRecordsOf } from './lib/progress';
 import {

@@ -3,7 +3,7 @@ import { buildHskDeck, chooseForm, downloadHsk, hskProblem, hskUrl, parseHsk, sh
 import { HANZI_SOURCE, judgeStroke, medianPath, parseHanziWriter, pathPoints, strokeSourceFor } from './strokes';
 import { parseDeck } from './deck';
 import { glyphChars } from './useWritingData';
-import { wordResult } from '../components/WritingPad';
+import { wordResult } from './pad';
 import hsk1 from '../decks/zh/hsk1.json';
 
 // The median of 一, from hanzi-writer-data 2.0.1 (Arphic Public License).

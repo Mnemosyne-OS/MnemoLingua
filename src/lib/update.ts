@@ -20,6 +20,7 @@ import { log } from './log';
 /** The version running, read from the manifest the bundle was built with. */
 export const RUNNING_VERSION: string = manifest.version;
 
+/** The public repo, opened from the update line (« See on GitHub »). */
 export const REPO_URL = 'https://github.com/Mnemosyne-OS/MnemoLingua';
 const MANIFEST_URL = 'https://raw.githubusercontent.com/Mnemosyne-OS/MnemoLingua/main/mnemo-plugin.json';
 
@@ -86,9 +87,10 @@ export type UpdateState =
   | { kind: 'newer'; version: string };
 
 /** The published version, or null when it cannot be read. Never rejects. */
-export async function fetchPublishedVersion(fetchImpl: typeof fetch = fetch): Promise<string | null> {
+export async function fetchPublishedVersion(fetchImpl: typeof fetch = fetch, signal?: AbortSignal): Promise<string | null> {
   try {
-    const res = await fetchImpl(MANIFEST_URL, { signal: AbortSignal.timeout(CHECK_TIMEOUT_MS), cache: 'no-store' });
+    const deadline = AbortSignal.timeout(CHECK_TIMEOUT_MS);
+    const res = await fetchImpl(MANIFEST_URL, { signal: signal ? AbortSignal.any([signal, deadline]) : deadline, cache: 'no-store' });
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     const body: unknown = await res.json();
     const v = (body as { version?: unknown } | null)?.version;
@@ -102,7 +104,10 @@ export async function fetchPublishedVersion(fetchImpl: typeof fetch = fetch): Pr
 
 /** What the published version says about the running one. */
 export function updateStateOf(published: string | null, running = RUNNING_VERSION): UpdateState {
-  if (published === null) return { kind: 'unknown' };
+  // A version that is not plain numbers (« next », « 0.3.0-beta.1 », empty)
+  // cannot be compared: unknown, never « up to date » (compareVersions says 0
+  // for both « equal » and « unreadable »).
+  if (published === null || !/^\d+(\.\d+)*$/.test(published) || !/^\d+(\.\d+)*$/.test(running)) return { kind: 'unknown' };
   return compareVersions(published, running) > 0 ? { kind: 'newer', version: published } : { kind: 'current' };
 }
 
@@ -113,12 +118,13 @@ export function useUpdateCheck(enabled: boolean): UpdateState {
     if (!enabled) return;
     let alive = true;
     let timer: ReturnType<typeof setTimeout> | undefined;
+    const ctrl = new AbortController();
     const memo = readMemo();
     if (memo?.published) setState(updateStateOf(memo.published));
     const check = (): void => {
       const before = readMemo();
       writeMemo({ attemptAt: Date.now(), published: before?.published ?? null });
-      void fetchPublishedVersion().then((v) => {
+      void fetchPublishedVersion(fetch, ctrl.signal).then((v) => {
         // An unreadable check keeps what was known: a newer version found
         // yesterday is still newer when the network drops.
         if (v !== null) writeMemo({ attemptAt: Date.now(), published: v });
@@ -127,7 +133,7 @@ export function useUpdateCheck(enabled: boolean): UpdateState {
       });
     };
     timer = setTimeout(check, msUntilNextCheck(memo, Date.now()));
-    return () => { alive = false; clearTimeout(timer); };
+    return () => { alive = false; clearTimeout(timer); ctrl.abort(); };
   }, [enabled]);
   return state;
 }

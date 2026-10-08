@@ -1,6 +1,6 @@
 /**
  * useWritingData — what a deck needs from the learner's downloads before it
- * can open (doc 138 §13 and §15): the strokes of its characters (KanjiVG),
+ * can open (doc 138 §13, §15 and §16): the strokes of its characters (KanjiVG),
  * and for a pack deck the dictionary its cards are made from (KANJIDIC2).
  *
  * Read from this computer when the deck opens; what is missing goes through
@@ -50,6 +50,7 @@ const errText = (err: unknown): string => {
   return name === 'TimeoutError' ? 'TIMEOUT' : err instanceof Error ? err.message : String(err);
 };
 
+/** The deck as the learner can use it, and what to download first when it cannot. */
 export function useWritingData(raw: Deck | null): WritingData {
   const [strokes, setStrokes] = useState<Record<string, string[]>>({});
   // Each answer is keyed on the deck it was read for: an answer for another
@@ -128,8 +129,13 @@ export function useWritingData(raw: Deck | null): WritingData {
     setPhase(signal.aborted ? { kind: 'intro' } : failed.length > 0 ? { kind: 'failed', failed } : { kind: 'intro' });
   };
 
+  // One download at a time. Two quick presses started two full downloads (184
+  // files for 92), and « Cancel » only stopped the second (verification
+  // 2026-10-08). A ref, not state: the second press can come before a render.
+  const running = useRef(false);
   const download = (): void => {
-    if (!raw) return;
+    if (!raw || running.current) return;
+    running.current = true;
     const ctrl = new AbortController();
     abortRef.current = ctrl;
     const run = async (): Promise<void> => {
@@ -156,14 +162,22 @@ export function useWritingData(raw: Deck | null): WritingData {
       }
       if (!target) return;
       const all = glyphChars(target);
-      const known = await strokeCache().read(all, source).catch(() => ({ found: {}, missing: all }));
+      const known = await strokeCache().read(all, source).catch((err: unknown) => {
+        // The cache could not be read: everything is fetched, and the banner
+        // says the strokes may not be kept.
+        log.warn('strokes', 'this computer cannot keep the strokes', { error: errText(err) });
+        setCacheProblem(errText(err));
+        return { found: {}, missing: all };
+      });
       setStrokes((s) => ({ ...s, ...known.found }));
       await fetchStrokes(target.id, known.missing, ctrl.signal);
     };
-    void run().catch((err: unknown) => {
-      log.error('setup', 'the download stopped', { error: errText(err) });
-      setPhase({ kind: 'packFailed', error: errText(err) });
-    });
+    void run()
+      .catch((err: unknown) => {
+        log.error('setup', 'the download stopped', { error: errText(err) });
+        setPhase({ kind: 'packFailed', error: errText(err) });
+      })
+      .finally(() => { running.current = false; });
   };
 
   let gate: WritingGate = { kind: 'none' };

@@ -12,6 +12,8 @@
  * median. Coordinates live in a 109 × 109 box.
  */
 
+import { log } from './log';
+
 export const KANJIVG = {
   name: 'KanjiVG',
   author: 'Ulrich Apel',
@@ -93,8 +95,8 @@ export const HANZI_SOURCE: StrokeSource = {
   licence: 'Arphic Public License',
   licenceUrl: 'https://github.com/chanind/hanzi-writer-data/blob/master/ARPHICPL.TXT',
   home: 'https://github.com/chanind/hanzi-writer-data',
-  // Estimated from 我 (2 476 bytes), not measured on the whole list.
-  kbPerFile: 2.5,
+  // The mean of the 178 HSK 1 files, measured on 2026-10-08 (2 077 bytes).
+  kbPerFile: 2.1,
   url: (char) => `https://cdn.jsdelivr.net/npm/hanzi-writer-data@2.0.1/${encodeURIComponent(char)}.json`,
   parse: parseHanziWriter,
 };
@@ -128,7 +130,11 @@ export function medianPath(points: readonly (readonly number[])[]): string | nul
  *  file is not one, or a stroke has no usable median. */
 export function parseHanziWriter(text: string): string[] | null {
   let raw: unknown;
-  try { raw = JSON.parse(text); } catch { return null; }
+  try { raw = JSON.parse(text); } catch (err) {
+    // The caller names the file as failed; the log keeps why.
+    log.warn('strokes', 'a hanzi-writer file is not JSON', { error: err instanceof Error ? err.message : String(err) });
+    return null;
+  }
   if (typeof raw !== 'object' || raw === null) return null;
   const medians = (raw as { medians?: unknown }).medians;
   if (!Array.isArray(medians) || medians.length === 0) return null;

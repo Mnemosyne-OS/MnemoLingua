@@ -11,11 +11,11 @@
  */
 import { useEffect, useReducer, useRef, useState, type PointerEvent as ReactPointerEvent } from 'react';
 import { useI18n } from '../i18n/useI18n';
-import { HINT_COST, padReduce, padResult, padStart, type PadResult } from '../lib/pad';
+import { demoMs, HINT_COST, padReduce, padResult, padStart, STROKE_DRAW_S, STROKE_GAP_S, wordResult, type PadResult } from '../lib/pad';
 import { BOX, type Pt } from '../lib/strokes';
 import { small } from '../styles';
 
-/** The character, its strokes drawn one after the other when `animate`. */
+/** The character drawn from its strokes, one after the other when `animate`. */
 export function Glyph({ strokes, size = 160, animate = false, label }: {
   strokes: readonly string[]; size?: number; animate?: boolean; label?: string;
 }): JSX.Element {
@@ -27,7 +27,7 @@ export function Glyph({ strokes, size = 160, animate = false, label }: {
           d={d}
           pathLength={1}
           className={animate ? 'ml-stroke ml-stroke-draw' : 'ml-stroke'}
-          style={animate ? { animationDelay: `${k * 0.55}s` } : undefined}
+          style={animate ? { animationDelay: `${k * STROKE_GAP_S}s`, animationDuration: `${STROKE_DRAW_S}s` } : undefined}
         />
       ))}
     </svg>
@@ -36,13 +36,6 @@ export function Glyph({ strokes, size = 160, animate = false, label }: {
 
 const PAD = 300;
 
-/** Seconds between two strokes of the drawing, and of one stroke (app.css). */
-const STROKE_GAP_S = 0.55;
-const STROKE_DRAW_S = 0.52;
-/** How long the beginner's drawing lasts before the pad is the learner's. */
-export function demoMs(strokeCount: number): number {
-  return Math.round(((strokeCount - 1) * STROKE_GAP_S + STROKE_DRAW_S) * 1000) + 700;
-}
 
 /** The pad: turns pointer strokes into points for lib/pad.ts and reports once, when done. */
 export function WritingPad({ strokes, label, onDone, demo = false }: {
@@ -140,7 +133,7 @@ export function WritingPad({ strokes, label, onDone, demo = false }: {
             d={d}
             pathLength={1}
             className="ml-stroke ml-stroke-demo ml-stroke-draw"
-            style={{ animationDelay: `${k * STROKE_GAP_S}s` }}
+            style={{ animationDelay: `${k * STROKE_GAP_S}s`, animationDuration: `${STROKE_DRAW_S}s` }}
           />
         ))}
         {showing.map((d, k) => (
@@ -149,7 +142,7 @@ export function WritingPad({ strokes, label, onDone, demo = false }: {
             d={d}
             pathLength={1}
             className="ml-stroke ml-stroke-hint ml-stroke-draw"
-            style={{ animationDelay: `${k * 0.55}s` }}
+            style={{ animationDelay: `${k * STROKE_GAP_S}s`, animationDuration: `${STROKE_DRAW_S}s` }}
             data-stroke={showOffset + k + 1}
           />
         ))}
@@ -175,22 +168,14 @@ export function WritingPad({ strokes, label, onDone, demo = false }: {
       {!state.done && !demoing && (
         <div style={{ display: 'flex', gap: '12px', flexWrap: 'wrap', justifyContent: 'center' }}>
           {demo && <button className="ml-btn ml-btn-ghost" onClick={() => setDemoRun((n) => n + 1)}>{t('write.watchAgain')}</button>}
-          <button className="ml-btn ml-btn-ghost" onClick={() => dispatch({ type: 'showOrder' })}>{t('write.showOrder', { n: new Intl.NumberFormat(lang, { maximumFractionDigits: 1 }).format(HINT_COST) })}</button>
+          {/* In box 1 « watch again » shows the same drawing for free: offering
+              « show the order » beside it would sell it for half a point. */}
+          {!demo && <button className="ml-btn ml-btn-ghost" onClick={() => dispatch({ type: 'showOrder' })}>{t('write.showOrder', { n: new Intl.NumberFormat(lang, { maximumFractionDigits: 1 }).format(HINT_COST) })}</button>}
           <button className="ml-btn ml-btn-ghost" onClick={() => dispatch({ type: 'giveUp' })}>{t('write.giveUp')}</button>
         </div>
       )}
     </div>
   );
-}
-
-/** What a word is worth once each of its characters is written: known only
- *  when every one is, points the mean of theirs. Pure, for the tests. */
-export function wordResult(results: readonly PadResult[]): PadResult {
-  if (results.length === 0) return { known: false, points: 0 };
-  return {
-    known: results.every((r) => r.known),
-    points: Math.round((results.reduce((n, r) => n + r.points, 0) / results.length) * 100) / 100,
-  };
 }
 
 /**

@@ -89,3 +89,25 @@ export function padResult(s: PadState): PadResult {
   if (s.gaveUp) return { known: false, points: 0 };
   return { known: !s.hinted, points: s.total === 0 && !s.hinted ? 1 : 1 - HINT_COST };
 }
+
+/** Seconds between the starts of two strokes when a character draws itself,
+ *  and how long one stroke takes. The ONE copy: the components pass both to
+ *  the animation inline, so app.css never holds a second value. */
+export const STROKE_GAP_S = 0.55;
+export const STROKE_DRAW_S = 0.52;
+
+/** How long the beginner's drawing lasts before the pad is the learner's. */
+export function demoMs(strokeCount: number): number {
+  return Math.round(((strokeCount - 1) * STROKE_GAP_S + STROKE_DRAW_S) * 1000) + 700;
+}
+
+/** What a word is worth once each of its characters is written: known only
+ *  when every one is, points the mean of theirs. */
+export function wordResult(results: readonly PadResult[]): PadResult {
+  if (results.length === 0) return { known: false, points: 0 };
+  return {
+    known: results.every((r) => r.known),
+    points: Math.round((results.reduce((n, r) => n + r.points, 0) / results.length) * 100) / 100,
+  };
+}
+

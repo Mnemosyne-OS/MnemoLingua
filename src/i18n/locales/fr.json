@@ -53,7 +53,8 @@
     "strokesSource": "Tracés : {{name}} ({{author}}), version {{tag}}, licence {{licence}}.",
     "packSource": "Sens et lectures : {{name}} ({{author}}), licence {{licence}}.",
     "packChecked": "Sens tirés de {{name}}, que tu as téléchargé. Pas encore relus par une personne de langue maternelle.",
-    "hskSource": "Mots et pinyin : {{name}} ({{licence}}). Traductions écrites pour MnemoLingua, pas encore relues."
+    "hskSource": "Mots et pinyin : {{name}} ({{licence}}). Traductions écrites pour MnemoLingua, pas encore relues.",
+    "hskChecked": "Liste de mots téléchargée, traductions écrites pour MnemoLingua. Pas encore relues par une personne de langue maternelle."
   },
   "theme": {
     "basics": "Les bases",

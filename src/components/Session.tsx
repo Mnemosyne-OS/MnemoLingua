@@ -98,7 +98,10 @@ export function Session({ queue: initial, lang, learningName, targetLang, tomorr
   // The listener is registered once and reads the latest handlers through a
   // ref: re-registering on every render would race the key that caused it.
   const onPad = item?.card.kind === 'glyph' && item.direction === 'produce';
-  const learning = item?.card.kind === 'glyph' && item.direction === 'recognise' && item.record.reps === 0;
+  // Only a sign that can be DRAWN is shown as new: without its strokes the
+  // card says they are missing, and « Got it » would mark it met unseen.
+  const learning = item?.card.kind === 'glyph' && item.direction === 'recognise' && item.record.reps === 0
+    && !!strokesOf && [...item.card.target].every((c) => strokesOf(c) !== undefined);
   /** A new sign was shown: it is met (the box moves on), never scored. */
   const learnNext = (): void => {
     if (!item) return;

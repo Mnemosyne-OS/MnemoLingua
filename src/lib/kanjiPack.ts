@@ -78,7 +78,9 @@ export function parseKanjidic(xml: string, jlpt: number): KanjiEntry[] {
  * there is.
  */
 export function cleanMeanings(meanings: readonly string[]): string[] {
-  const kept = meanings.filter((m) => !/\(n[oº°]\.? ?\d+\)|^radical\b|\bradical\b.*\d/i.test(m));
+  // Only the numbered notation: « radical (chemistry) » or « radical gauche »
+  // are real meanings of some kanji (根, 基, 偏) and must stay.
+  const kept = meanings.filter((m) => !/\(n[oº°]\.? ?\d+\)|\bradical\b[^)]*\d/i.test(m));
   return kept.length > 0 ? kept : [...meanings];
 }
 

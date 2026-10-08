@@ -33,6 +33,7 @@ export function hskUrl(pack: HskPack): string {
   return `https://raw.githubusercontent.com/drkameleon/complete-hsk-vocabulary/${HSK_LIST.commit}/wordlists/exclusive/${pack.list}/${pack.level}.json`;
 }
 
+/** How long the word list may take to arrive before it is named as failed. */
 export const HSK_TIMEOUT_MS = 30_000;
 
 /** Below this, the file is not a level. */
@@ -102,7 +103,8 @@ export function parseHsk(raw: unknown): HskWord[] {
     const chosen = typeof word === 'string' && word ? chooseForm(word, forms) : null;
     if (typeof word !== 'string' || !chosen) continue;
     const pos = Array.isArray((w as { pos?: unknown }).pos) ? ((w as { pos: unknown[] }).pos.filter((p): p is string => typeof p === 'string')) : [];
-    out.push({ word, pinyin: chosen.pinyin, meanings: [chosen.meaning], pos });
+    // The list spaces the syllables (« bà ba »); a word is written as one.
+    out.push({ word, pinyin: chosen.pinyin.replace(/\s+/g, ''), meanings: [chosen.meaning], pos });
   }
   return out;
 }
@@ -125,6 +127,7 @@ export function shortGloss(meanings: readonly string[]): string {
   return senses.slice(0, 2).join('; ') || meanings[0]!;
 }
 
+/** The deck, made from the words: one glyph card per word, themed by part of speech. */
 export function buildHskDeck(base: Deck, pack: HskPack, words: readonly HskWord[]): Deck {
   const themes = new Map<string, DeckCard[]>();
   for (const w of words) {
@@ -141,10 +144,12 @@ export function buildHskDeck(base: Deck, pack: HskPack, words: readonly HskWord[
   return { ...base, pack, themes: order.filter((id) => themes.has(id)).map((id) => ({ id, cards: themes.get(id)! })) };
 }
 
+/** Why the list is not a real level, or null. */
 export function hskProblem(words: readonly HskWord[]): string | null {
   return words.length < MIN_WORDS ? `ONLY_${words.length}_WORDS` : null;
 }
 
+/** Downloads and reads one level's list. Rejects with a named reason. */
 export async function downloadHsk(pack: HskPack, opts: { signal?: AbortSignal; fetchImpl?: typeof fetch; timeoutMs?: number } = {}): Promise<HskWord[]> {
   const deadline = AbortSignal.timeout(opts.timeoutMs ?? HSK_TIMEOUT_MS);
   const signal = opts.signal ? AbortSignal.any([opts.signal, deadline]) : deadline;

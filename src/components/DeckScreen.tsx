@@ -74,7 +74,7 @@ export function DeckScreen(p: Props): JSX.Element {
               {p.deck.reviewedBy && p.deck.reviewedAt
                 ? t('deck.reviewed', { name: p.deck.reviewedBy, date: p.deck.reviewedAt })
                 : fromReference
-                  ? (p.deck.pack ? t('deck.packChecked', { name: p.deck.pack.source === 'hsk' ? HSK_LIST.name : KANJIDIC2.name }) : t('deck.reference', { date: p.deck.checkedAt }))
+                  ? (p.deck.pack?.source === 'hsk' ? t('deck.hskChecked') : p.deck.pack ? t('deck.packChecked', { name: KANJIDIC2.name }) : t('deck.reference', { date: p.deck.checkedAt }))
                   : t('deck.checked', { date: p.deck.checkedAt })}
             </p>
           </div>

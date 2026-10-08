@@ -40,6 +40,22 @@ screen names each source and its licence before you press the button.
 
 The cartridge ships none of this data. It stays on your computer.
 
+The Chinese deck, written by hand:
+
+- **HSK 1**: the 150 words of the 2012 HSK level 1, with their pinyin. A card
+  is a word, and you write each of its characters in turn.
+
+You download the Chinese data once, from the same kind of screen:
+
+- The word list and its pinyin come from
+  [complete-hsk-vocabulary](https://github.com/drkameleon/complete-hsk-vocabulary)
+  by drkameleon, MIT, pinned to a commit.
+- The strokes come from
+  [hanzi-writer-data](https://github.com/chanind/hanzi-writer-data) 2.0.1
+  (Make Me a Hanzi), under the Arphic Public License.
+- The English, French and Spanish translations are written for MnemoLingua and
+  ship in the deck file. They are not reviewed yet.
+
 ## How it works
 
 - Pick the themes you want. New cards come in at 10 a day.
@@ -54,8 +70,8 @@ The cartridge ships none of this data. It stays on your computer.
 
 The speaker button reads a word with a voice installed on your computer, in the
 language you learn. Progress is kept in the host's durable state for this
-cartridge. The English decks work offline from the start. The Japanese decks
-work offline after their download.
+cartridge. The English decks work offline from the start. The Japanese and
+Chinese decks work offline after their download.
 
 ## How the deck was checked
 

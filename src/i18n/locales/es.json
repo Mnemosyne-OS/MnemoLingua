@@ -53,7 +53,8 @@
     "strokesSource": "Trazos: {{name}} ({{author}}), versión {{tag}}, licencia {{licence}}.",
     "packSource": "Significados y lecturas: {{name}} ({{author}}), licencia {{licence}}.",
     "packChecked": "Significados tomados de {{name}}, que descargaste. Aún no revisados por un hablante nativo.",
-    "hskSource": "Palabras y pinyin: {{name}} ({{licence}}). Traducciones escritas para MnemoLingua, aún no revisadas."
+    "hskSource": "Palabras y pinyin: {{name}} ({{licence}}). Traducciones escritas para MnemoLingua, aún no revisadas.",
+    "hskChecked": "Lista de palabras descargada, traducciones escritas para MnemoLingua. Aún no revisadas por un hablante nativo."
   },
   "theme": {
     "basics": "Lo básico",

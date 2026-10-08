@@ -1,14 +1,14 @@
 {
   "name": "@mnemosyne-plugins/mnemo-lingua",
   "displayName": "MnemoLingua",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "vendor": "Mnemosyne Labs",
   "license": "MIT",
-  "description": "Learn English from level A1 to B1, and Japanese: the kana and the N5 kanji, which you write by hand stroke by stroke. Cards come back with spaced repetition, in both directions, with their pronunciation. Japanese needs one download the first time. Then everything works offline.",
+  "description": "Learn English from level A1 to B1, Japanese (the kana and the N5 kanji) and Chinese (the words of HSK 1), which you write by hand stroke by stroke. Cards come back with spaced repetition, in both directions, with their pronunciation. Japanese and Chinese need one download the first time. Then everything works offline.",
   "descriptionI18n": {
-    "en": "Learn English from level A1 to B1, and Japanese: the kana and the N5 kanji, which you write by hand stroke by stroke. Cards come back with spaced repetition, in both directions, with their pronunciation. Japanese needs one download the first time. Then everything works offline.",
-    "fr": "Apprends l'anglais du niveau A1 au B1, et le japonais : les kana et les kanji N5, que tu écris à la main trait par trait. Les cartes reviennent par répétition espacée, dans les deux sens, avec leur prononciation. Le japonais demande un téléchargement la première fois. Ensuite, tout marche hors ligne.",
-    "es": "Aprende inglés del nivel A1 al B1, y japonés: los kana y los kanji N5, que escribes a mano trazo a trazo. Las tarjetas vuelven con repetición espaciada, en los dos sentidos, con su pronunciación. El japonés necesita una descarga la primera vez. Después, todo funciona sin conexión."
+    "en": "Learn English from level A1 to B1, Japanese (the kana and the N5 kanji) and Chinese (the words of HSK 1), which you write by hand stroke by stroke. Cards come back with spaced repetition, in both directions, with their pronunciation. Japanese and Chinese need one download the first time. Then everything works offline.",
+    "fr": "Apprends l'anglais du niveau A1 au B1, le japonais (les kana et les kanji N5) et le chinois (les mots du HSK 1), que tu écris à la main trait par trait. Les cartes reviennent par répétition espacée, dans les deux sens, avec leur prononciation. Le japonais et le chinois demandent un téléchargement la première fois. Ensuite, tout marche hors ligne.",
+    "es": "Aprende inglés del nivel A1 al B1, japonés (los kana y los kanji N5) y chino (las palabras del HSK 1), que escribes a mano trazo a trazo. Las tarjetas vuelven con repetición espaciada, en los dos sentidos, con su pronunciación. El japonés y el chino necesitan una descarga la primera vez. Después, todo funciona sin conexión."
   },
   "keywords": [
     "language",
@@ -16,8 +16,10 @@
     "spaced repetition",
     "english",
     "japanese",
+    "chinese",
     "kana",
     "kanji",
+    "hsk",
     "handwriting",
     "education"
   ],

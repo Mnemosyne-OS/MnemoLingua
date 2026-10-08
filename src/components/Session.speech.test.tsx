@@ -2,7 +2,7 @@ import { afterEach, describe, expect, it, vi } from 'vitest';
 import { act, fireEvent, render, screen } from '@testing-library/react';
 import { pickVoice, type VoiceInfo } from '../lib/speech';
 import { Session } from './Session';
-import { demoMs } from './WritingPad';
+import { demoMs } from '../lib/pad';
 import { setLang } from '../i18n/useI18n';
 import type { QueueItem } from '../lib/session';
 
