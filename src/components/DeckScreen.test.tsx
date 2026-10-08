@@ -18,8 +18,7 @@ function mount(over: Partial<Parameters<typeof DeckScreen>[0]> = {}) {
     <DeckScreen
       deck={deck} view={view} ticked={undefined} dueCount={0} freshCount={1} next={null} canSave
       reports={[]} targetOf={(id) => id} onToggle={() => undefined} onStart={() => undefined}
-      onPutBack={() => undefined} title="Travel" glossLang="fr" glossChoices={['fr']}
-      onChooseGloss={() => undefined} dailyNew={10} onDailyNew={() => undefined}
+      onPutBack={() => undefined} title="Travel" dailyNew={10} onDailyNew={() => undefined}
       {...over}
     />,
   );
@@ -86,5 +85,19 @@ describe('DeckScreen', () => {
   it('says nothing about strokes on a word deck', () => {
     mount();
     expect(screen.queryByText(/KanjiVG/)).not.toBeInTheDocument();
+  });
+
+  it('a writing deck explains itself, open the first time; a word deck does not', () => {
+    const zh: Deck = { ...deck, id: 'zh-hsk1', lang: 'zh', themes: [{ id: 'hsk-nouns', cards: [{ id: 'hsk-爸爸', kind: 'glyph', target: '爸爸', gloss: { fr: 'papa' }, check: 'reference' }] }] };
+    const { unmount } = render(<></>);
+    unmount();
+    mount({ deck: zh, firstTime: true });
+    expect(screen.getByText('How it works').closest('details')).toHaveAttribute('open');
+    expect(screen.getByText(/Pinyin writes the sound/)).toBeInTheDocument();
+  });
+
+  it('a word deck has no such panel', () => {
+    mount();
+    expect(screen.queryByText('How it works')).not.toBeInTheDocument();
   });
 });

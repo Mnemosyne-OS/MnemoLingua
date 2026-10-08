@@ -39,7 +39,6 @@
     "reports": "Reported cards ({{n}})",
     "putBack": "Put back into review",
     "chooseGloss": "In which language do you want the translations?",
-    "glossIn": "Translations in:",
     "level": "Level {{level}}",
     "source": "Word list: {{name}} ({{url}})",
     "nextIn": "Next review in {{days}} day(s): {{n}} card(s).",
@@ -54,7 +53,7 @@
     "strokesSource": "Strokes: {{name}} ({{author}}), release {{tag}}, licence {{licence}}.",
     "packSource": "Meanings and readings: {{name}} ({{author}}), licence {{licence}}.",
     "packChecked": "Meanings taken from {{name}}, which you downloaded. Not yet read by a native speaker.",
-    "hskSource": "Words: {{name}} ({{licence}}), meanings from {{from}} ({{meaningsLicence}})."
+    "hskSource": "Words and pinyin: {{name}} ({{licence}}). Translations written for MnemoLingua, not reviewed yet."
   },
   "theme": {
     "basics": "The basics",
@@ -184,7 +183,9 @@
       "end": "Stroke {{n}}: it does not end there.",
       "shape": "Stroke {{n}}: not this stroke."
     },
-    "charOf": "Character {{n}} of {{total}}"
+    "charOf": "Character {{n}} of {{total}}",
+    "discover": "New: have a look, it will come back.",
+    "gotIt": "Got it, next"
   },
   "setup": {
     "title": "{{deck}}: writing by hand",
@@ -217,10 +218,22 @@
     "ledeHsk": "Each word with its pinyin, its meaning and its characters, drawn stroke by stroke.",
     "hskWhat": "The {{name}} list ({{author}}), about {{kb}} KB: the 150 words of HSK 1, with their pinyin and meaning.",
     "hskLevel": "HSK 1: the list of the 2012 test, the one most learners start with.",
-    "hskEnglish": "The meanings are in English: no open source reachable from here has them in French or Spanish. They come from {{from}}.",
+    "hskEnglish": "The translations into English, French and Spanish are written for MnemoLingua, for the sense HSK 1 teaches. They are not reviewed yet.",
     "hskLicence": "List under the {{licence}} licence, meanings from {{from}} under {{meaningsLicence}}, the source is credited.",
     "packingHsk": "Reading the word list…",
     "hskFailed": "The word list could not be downloaded ({{error}}).",
     "downloadHsk": "Download the word list and the strokes"
+  },
+  "intro": {
+    "title": "How it works",
+    "zh1": "Chinese is written in characters: each one is said as one syllable and carries a meaning. A word like 爸爸 (bàba, dad) has two.",
+    "zh2": "Pinyin writes the sound in Latin letters. Its accents are the tones: ā stays high, á rises, ǎ dips then rises, à falls.",
+    "zh3": "Each new word is shown to you first, drawn stroke by stroke, with its meaning and pinyin. Then you recognise it, then you write it.",
+    "kana1": "Kana write sounds, like an alphabet: each sign is a syllable (か reads ka).",
+    "kana2": "Hiragana write Japanese words, katakana write words from other languages.",
+    "kana3": "Each new sign is shown to you first, drawn stroke by stroke, with its reading. Then you read it, then you write it in stroke order.",
+    "kanji1": "A kanji carries a meaning: 水 means water.",
+    "kanji2": "It often has two readings: on, from Chinese and written in capitals (SUI), and kun, Japanese (mizu).",
+    "kanji3": "Each new kanji is shown to you first, drawn stroke by stroke, with its meaning and readings. Then you recognise it, then you write it."
   }
 }

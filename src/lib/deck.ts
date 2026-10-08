@@ -42,7 +42,17 @@ function readPack(raw: unknown, problems: string[]): DeckPack | undefined {
   }
   if (isObj(raw) && raw.source === 'hsk' && (raw.list === 'old' || raw.list === 'new')
     && typeof raw.level === 'number' && Number.isInteger(raw.level) && raw.level >= 1 && raw.level <= 9) {
-    return { source: 'hsk', list: raw.list, level: raw.level };
+    const pack: DeckPack = { source: 'hsk', list: raw.list, level: raw.level };
+    if (raw.glosses !== undefined) {
+      if (!isObj(raw.glosses)) { problems.push('bad pack glosses'); return undefined; }
+      const glosses: Record<string, Partial<Record<GlossLang, string>>> = {};
+      for (const [word, g] of Object.entries(raw.glosses)) {
+        if (!isObj(g)) { problems.push(`pack gloss ${word}: not an object`); continue; }
+        glosses[word] = readGloss(g, `pack gloss ${word}`, problems);
+      }
+      pack.glosses = glosses;
+    }
+    return pack;
   }
   problems.push('bad pack');
   return undefined;
@@ -233,15 +243,17 @@ export function glossLangs(deck: Deck): GlossLang[] {
 }
 
 /**
- * The translation language to use: the learner's choice when the deck has it,
- * else the app's language when the deck has it, else null and the screen ASKS.
- * It never picks a language on the learner's behalf when the app's own one is
- * not available: guessing French for a Spanish speaker is worse than a question.
+ * The translation language to use. The app's language first: it already says
+ * which language the learner reads (Tony, 2026-10-07: « si la langue de l'app
+ * le dit, pourquoi demander ? »). Only when the deck has none in it (an app in
+ * English, a deck OF English) does the choice the learner made count, then a
+ * deck's only language, else null and the screen ASKS. It never guesses
+ * French for a Spanish speaker: a question is better.
  */
 export function resolveGlossLang(deck: Deck, chosen: GlossLang | null, uiLang: GlossLang): GlossLang | null {
   const available = glossLangs(deck);
-  if (chosen && available.includes(chosen)) return chosen;
   if (available.includes(uiLang)) return uiLang;
+  if (chosen && available.includes(chosen)) return chosen;
   // One language only (the Chinese deck is English-only, doc 138 §16): there
   // is no choice to ask about, and asking would SAVE it as the learner's
   // choice, switching their Japanese decks to English too.
@@ -308,4 +320,11 @@ export function maskExample(card: DeckCard): string | null {
   const re = new RegExp(`(?:${alternatives.join('|')})(?![A-Za-z]|'t(?![A-Za-z]))`, 'gi');
   const masked = card.example.target.replace(re, BLANK);
   return masked === card.example.target ? null : masked;
+}
+
+/** Which « how it works » a writing deck gets (DeckScreen); null for a word deck. */
+export function introKind(deck: Deck): 'zh' | 'kana' | 'kanji' | null {
+  if (deck.lang === 'zh') return 'zh';
+  if (deck.pack?.source === 'kanjidic2') return 'kanji';
+  return deck.themes.some((th) => th.cards.some((c) => c.kind === 'glyph')) ? 'kana' : null;
 }

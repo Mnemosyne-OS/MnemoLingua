@@ -1,6 +1,6 @@
 {
   "name": "@mnemosyne-plugins/mnemo-lingua",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "private": true,
   "type": "module",
   "description": "Learn English from level A1 to B1, and Japanese: the kana and the N5 kanji, which you write by hand stroke by stroke. Cards come back with spaced repetition, in both directions, with their pronunciation. Japanese needs one download the first time. Then everything works offline.",

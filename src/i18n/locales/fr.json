@@ -39,7 +39,6 @@
     "reports": "Cartes signalées ({{n}})",
     "putBack": "Remettre en révision",
     "chooseGloss": "Dans quelle langue veux-tu les traductions ?",
-    "glossIn": "Traductions en :",
     "level": "Niveau {{level}}",
     "source": "Liste de mots : {{name}} ({{url}})",
     "nextIn": "Prochaine révision dans {{days}} jour(s) : {{n}} carte(s).",
@@ -54,7 +53,7 @@
     "strokesSource": "Tracés : {{name}} ({{author}}), version {{tag}}, licence {{licence}}.",
     "packSource": "Sens et lectures : {{name}} ({{author}}), licence {{licence}}.",
     "packChecked": "Sens tirés de {{name}}, que tu as téléchargé. Pas encore relus par une personne de langue maternelle.",
-    "hskSource": "Mots : {{name}} ({{licence}}), sens tirés de {{from}} ({{meaningsLicence}})."
+    "hskSource": "Mots et pinyin : {{name}} ({{licence}}). Traductions écrites pour MnemoLingua, pas encore relues."
   },
   "theme": {
     "basics": "Les bases",
@@ -184,7 +183,9 @@
       "end": "Trait {{n}} : il ne finit pas là.",
       "shape": "Trait {{n}} : ce n'est pas ce trait-là."
     },
-    "charOf": "Caractère {{n}} sur {{total}}"
+    "charOf": "Caractère {{n}} sur {{total}}",
+    "discover": "Nouveau : regarde-le, il reviendra.",
+    "gotIt": "C'est vu, suivant"
   },
   "setup": {
     "title": "{{deck}} : écrire à la main",
@@ -217,10 +218,22 @@
     "ledeHsk": "Chaque mot avec son pinyin, son sens et ses caractères, tracés trait par trait.",
     "hskWhat": "La liste {{name}} ({{author}}), environ {{kb}} Ko : les 150 mots du HSK 1, avec leur pinyin et leur sens.",
     "hskLevel": "HSK 1 : la liste du test de 2012, la plus utilisée pour commencer.",
-    "hskEnglish": "Les sens sont en anglais : aucune source libre téléchargeable ici ne les donne en français ou en espagnol. Ils viennent de {{from}}.",
+    "hskEnglish": "Les traductions en français, espagnol et anglais sont écrites pour MnemoLingua, pour le sens que le HSK 1 enseigne. Elles ne sont pas encore relues.",
     "hskLicence": "Liste sous licence {{licence}}, sens de {{from}} sous licence {{meaningsLicence}}, la source est citée.",
     "packingHsk": "Lecture de la liste des mots…",
     "hskFailed": "La liste des mots n'a pas pu être téléchargée ({{error}}).",
     "downloadHsk": "Télécharger la liste et les tracés"
+  },
+  "intro": {
+    "title": "Comment ça marche",
+    "zh1": "Le chinois s'écrit en caractères : chacun se dit en une syllabe et porte un sens. Un mot comme 爸爸 (bàba, papa) en a deux.",
+    "zh2": "Le pinyin écrit le son en lettres latines. Ses accents sont les tons : ā reste haut, á monte, ǎ descend puis remonte, à descend.",
+    "zh3": "Chaque mot nouveau t'est d'abord montré, tracé trait par trait, avec son sens et son pinyin. Ensuite tu le reconnais, puis tu l'écris.",
+    "kana1": "Les kana notent des sons, comme un alphabet : chaque signe est une syllabe (か se lit ka).",
+    "kana2": "Les hiragana écrivent les mots japonais, les katakana les mots venus d'autres langues.",
+    "kana3": "Chaque signe nouveau t'est d'abord montré, tracé trait par trait, avec sa lecture. Ensuite tu le lis, puis tu l'écris dans l'ordre des traits.",
+    "kanji1": "Un kanji porte un sens : 水 veut dire eau.",
+    "kanji2": "Il a souvent deux lectures : on, venue du chinois et écrite en capitales (SUI), et kun, japonaise (mizu).",
+    "kanji3": "Chaque kanji nouveau t'est d'abord montré, tracé trait par trait, avec son sens et ses lectures. Ensuite tu le reconnais, puis tu l'écris."
   }
 }

@@ -5,10 +5,11 @@
  *
  * The list is complete-hsk-vocabulary (MIT), pinned to a commit, whose
  * meanings come from CC-CEDICT (CC BY-SA). Its words carry the simplified
- * form, the pinyin and the English meanings. 🚨 No open source reachable from
- * the cartridge gives French or Spanish meanings (CFDICT has no CORS copy):
- * the cards are English-only, and the screen says so before the button. A
- * card is never given a meaning the source does not have.
+ * form, the pinyin and the English meanings. No open source reachable from
+ * the cartridge gives French or Spanish meanings (CFDICT has no CORS copy), and
+ * CC-CEDICT's first sense is often not the one HSK 1 teaches (本 « root », 块
+ * « lump »). So the deck file ships a table WE wrote, one line per word in
+ * three languages (doc 138 §18), and the screen says it is not reviewed yet.
  *
  * A card is a WORD (爸爸, 你好), so writing it is writing each of its
  * characters in turn; the strokes are downloaded per character.
@@ -127,8 +128,11 @@ export function shortGloss(meanings: readonly string[]): string {
 export function buildHskDeck(base: Deck, pack: HskPack, words: readonly HskWord[]): Deck {
   const themes = new Map<string, DeckCard[]>();
   for (const w of words) {
+    // Our table first (the sense HSK 1 teaches, in three languages); the
+    // list's CC-CEDICT meaning only as the English of a word it lacks.
     const card: DeckCard = {
-      id: `hsk-${w.word}`, kind: 'glyph', target: w.word, gloss: { en: shortGloss(w.meanings) }, check: 'reference', pinyin: w.pinyin,
+      id: `hsk-${w.word}`, kind: 'glyph', target: w.word,
+      gloss: { en: shortGloss(w.meanings), ...pack.glosses?.[w.word] }, check: 'reference', pinyin: w.pinyin,
     };
     const th = hskTheme(w.pos);
     themes.set(th, [...(themes.get(th) ?? []), card]);

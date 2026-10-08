@@ -80,6 +80,12 @@ export interface HskPack {
   source: 'hsk';
   list: 'old' | 'new';
   level: number;
+  /**
+   * Translations WRITTEN FOR MnemoLingua, keyed by the word, for the sense the
+   * level teaches (doc 138 §18). They come first; the list's own CC-CEDICT
+   * meaning is only the English fallback for a word the table does not have.
+   */
+  glosses?: Record<string, Partial<Record<GlossLang, string>>>;
 }
 
 export type DeckPack = KanjiPack | HskPack;
@@ -153,9 +159,9 @@ export interface LinguaState {
   dailyNew: number;
   reports: CardReport[];
   /**
-   * The language the learner wants translations in. Null until chosen.
-   * 🚨 NOT the app's language: someone learning English may run the app in
-   * English, and a deck of English has no English translations.
+   * The language the learner chose for translations, asked ONLY when the
+   * app's language is the one being learned (an app in English, a deck of
+   * English). Otherwise the app's language is used (deck.ts, resolveGlossLang).
    */
   glossLang: GlossLang | null;
 }

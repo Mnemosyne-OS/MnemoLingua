@@ -1,1 +1,0 @@
-const e="zh-hsk1",s="zh",o=1,d=null,i=null,t="2026-10-07",c={source:"hsk",list:"old",level:1},n=[],l={id:e,lang:s,version:1,reviewedBy:null,reviewedAt:null,checkedAt:t,pack:c,themes:n};export{t as checkedAt,l as default,e as id,s as lang,c as pack,i as reviewedAt,d as reviewedBy,n as themes,o as version};

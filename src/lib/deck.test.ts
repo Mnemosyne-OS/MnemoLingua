@@ -97,8 +97,9 @@ describe('the translation language', () => {
     expect(glossLangs(d)).toEqual(['fr', 'es']);
   });
 
-  it('takes the saved choice, then the app language, and otherwise asks', () => {
-    expect(resolveGlossLang(d, 'es', 'fr')).toBe('es');
+  it('takes the app language, then the saved choice, and otherwise asks', () => {
+    expect(resolveGlossLang(d, 'es', 'fr')).toBe('fr');
+    expect(resolveGlossLang(d, 'es', 'en')).toBe('es');
     expect(resolveGlossLang(d, null, 'fr')).toBe('fr');
     expect(resolveGlossLang(d, null, 'en')).toBeNull();
     const englishOnly = { ...d, lang: 'zh', themes: [{ id: 't', cards: [{ id: 'x', kind: 'glyph' as const, target: '我', gloss: { en: 'I' }, check: 'reference' as const }] }] };

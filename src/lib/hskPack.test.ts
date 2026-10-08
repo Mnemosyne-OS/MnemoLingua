@@ -105,6 +105,24 @@ describe('choosing the reading a beginner learns', () => {
   });
 });
 
+describe('our translation table', () => {
+  it('comes first, in the three languages; the list only fills the English of a word it lacks', () => {
+    const base = parseDeck(hsk1).deck!;
+    const pack = base.pack as import('./types').HskPack;
+    const deck = buildHskDeck(base, pack, parseHsk(LIST.concat([{ simplified: '龘', pos: ['n'], forms: [{ transcriptions: { pinyin: 'dá' }, meanings: ['dragon flying'] }] }])));
+    const cards = deck.themes.flatMap((t) => t.cards);
+    expect(cards.find((c) => c.target === '爸爸')!.gloss).toEqual({ en: 'dad', fr: 'papa', es: 'papá' });
+    expect(cards.find((c) => c.target === '龘')!.gloss).toEqual({ en: 'dragon flying' });
+  });
+
+  it('covers each of the 150 words, in English, French and Spanish', () => {
+    const glosses = (parseDeck(hsk1).deck!.pack as import('./types').HskPack).glosses!;
+    const words = Object.keys(glosses);
+    expect(words).toHaveLength(150);
+    for (const w of words) expect(Object.keys(glosses[w]!).sort(), w).toEqual(['en', 'es', 'fr']);
+  });
+});
+
 describe('the short gloss', () => {
   it('drops the measure words and the bracketed pinyin of CC-CEDICT', () => {
     expect(shortGloss(['to see; to meet; CL:次[ci4]'])).toBe('to see; to meet');

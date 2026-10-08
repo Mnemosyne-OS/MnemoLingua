@@ -10,12 +10,12 @@
  * visible too: citing the CEFR-J list is its condition of use.
  */
 import { useI18n } from '../i18n/useI18n';
-import type { DeckView } from '../lib/deck';
+import { introKind, type DeckView } from '../lib/deck';
 import { KANJIDIC2 } from '../lib/kanjiPack';
 import { HSK_LIST } from '../lib/hskPack';
 import { strokeSourceFor } from '../lib/strokes';
 import { themeIcon } from '../lib/themeIcons';
-import type { CardReport, Deck, GlossLang } from '../lib/types';
+import type { CardReport, Deck } from '../lib/types';
 import { h2, lede, small } from '../styles';
 
 interface Props {
@@ -32,9 +32,6 @@ interface Props {
   /** False when the saved progress is unreadable: nothing would be recorded,
    *  so a session would end on a summary of answers that were never kept. */
   canSave: boolean;
-  glossLang: GlossLang;
-  glossChoices: GlossLang[];
-  onChooseGloss: (lang: GlossLang) => void;
   reports: CardReport[];
   targetOf: (cardId: string) => string;
   onToggle: (themeId: string) => void;
@@ -43,6 +40,8 @@ interface Props {
   onStart: () => void;
   onPutBack: (cardId: string) => void;
   title: string;
+  /** No card of this deck met yet: the « how it works » panel opens itself. */
+  firstTime?: boolean;
 }
 
 export function DeckScreen(p: Props): JSX.Element {
@@ -60,6 +59,7 @@ export function DeckScreen(p: Props): JSX.Element {
   // The strokes are on every card once downloaded: their credit stays on
   // screen, not only on the setup screen seen once (CC BY-SA).
   const drawsStrokes = cards.some((c) => c.kind === 'glyph');
+  const intro = introKind(p.deck);
 
   return (
     <div style={{ display: 'flex', flexDirection: 'column', gap: '24px' }}>
@@ -75,18 +75,6 @@ export function DeckScreen(p: Props): JSX.Element {
                   : t('deck.checked', { date: p.deck.checkedAt })}
             </p>
           </div>
-          {p.glossChoices.length > 1 && (
-            <div style={{ display: 'flex', gap: '8px', alignItems: 'center', flexWrap: 'wrap' }}>
-              <span style={small}>{t('deck.glossIn')}</span>
-              <div className="ml-seg ml-seg-sm">
-                {p.glossChoices.map((l) => (
-                  <button key={l} className="ml-seg-btn" aria-pressed={l === p.glossLang} onClick={() => p.onChooseGloss(l)}>
-                    {t(`glossName.${l}`)}
-                  </button>
-                ))}
-              </div>
-            </div>
-          )}
         </div>
 
         {!p.canSave ? null : glossless ? (
@@ -111,6 +99,16 @@ export function DeckScreen(p: Props): JSX.Element {
           </p>
         )}
       </section>
+
+      {intro && (
+        // A writing deck is not self-explaining: pinyin and tones, kana as
+        // syllables, a kanji's two readings (Tony, 2026-10-07: « faudrait une
+        // explication »). Open the first time, folded once cards are met.
+        <details className="ml-glass ml-panel ml-intro" open={p.firstTime}>
+          <summary style={{ cursor: 'pointer', fontSize: '17px', fontWeight: 600 }}>{t('intro.title')}</summary>
+          {[1, 2, 3].map((n) => <p key={n} style={{ margin: 0, fontSize: '15px', lineHeight: 1.6 }}>{t(`intro.${intro}${n}`)}</p>)}
+        </details>
+      )}
 
       <section className="ml-glass ml-panel" aria-labelledby="ml-themes">
         <div style={{ display: 'flex', gap: '12px', alignItems: 'center', justifyContent: 'space-between', flexWrap: 'wrap' }}>
@@ -157,7 +155,7 @@ export function DeckScreen(p: Props): JSX.Element {
         </div>
         {p.deck.source && <p style={small}>{t('deck.source', { name: p.deck.source.name, url: p.deck.source.url })}</p>}
         {p.deck.pack?.source === 'kanjidic2' && <p style={small}>{t('deck.packSource', { name: KANJIDIC2.name, author: KANJIDIC2.author, licence: KANJIDIC2.licence })}</p>}
-        {p.deck.pack?.source === 'hsk' && <p style={small}>{t('deck.hskSource', { name: HSK_LIST.name, licence: HSK_LIST.licence, from: HSK_LIST.meaningsFrom, meaningsLicence: HSK_LIST.meaningsLicence })}</p>}
+        {p.deck.pack?.source === 'hsk' && <p style={small}>{t('deck.hskSource', { name: HSK_LIST.name, licence: HSK_LIST.licence })}</p>}
         {drawsStrokes && <p style={small}>{t('deck.strokesSource', { name: strokeSourceFor(p.deck.lang).name, author: strokeSourceFor(p.deck.lang).author, licence: strokeSourceFor(p.deck.lang).licence, tag: strokeSourceFor(p.deck.lang).tag })}</p>}
         {p.view.withheld > 0 && <p style={small}>{t('deck.withheld', { n: p.view.withheld })}</p>}
         {p.view.noGloss > 0 && !glossless && <p style={small}>{t('deck.noGloss', { n: p.view.noGloss })}</p>}

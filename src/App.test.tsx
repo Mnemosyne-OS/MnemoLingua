@@ -37,12 +37,21 @@ describe('the translation language', () => {
     expect(screen.queryByText('Dans quelle langue veux-tu les traductions ?')).not.toBeInTheDocument();
   });
 
-  it('keeps a saved choice over the app language', async () => {
+  it('the app language wins over a choice saved earlier, and no selector is shown', async () => {
     host.read.mockResolvedValue({ state: { ...emptyState(), glossLang: 'es' }, updatedAt: 'x' });
     setLang('fr');
     render(<App />);
-    const es = await screen.findByText('Español');
-    expect(es).toHaveAttribute('aria-pressed', 'true');
+    expect(await screen.findByText("Aujourd'hui : 0 à revoir, 10 nouvelle(s)")).toBeInTheDocument();
+    expect(screen.queryByText('Español')).not.toBeInTheDocument();
+    expect(screen.queryByText('Traductions en :')).not.toBeInTheDocument();
+  });
+
+  it('a choice saved earlier still answers when the app is in the language learned', async () => {
+    host.read.mockResolvedValue({ state: { ...emptyState(), glossLang: 'es' }, updatedAt: 'x' });
+    setLang('en');
+    render(<App />);
+    expect(await screen.findByText('Today: 0 to review, 10 new')).toBeInTheDocument();
+    expect(screen.queryByText('In which language do you want the translations?')).not.toBeInTheDocument();
   });
 });
 

@@ -14,6 +14,12 @@
  * whatever language the app runs in (speech.ts). It is offered only on text
  * already on screen: on the « say it » side the word appears with the answer.
  *
+ * A NEW character or word (kana, kanji, Chinese) is not asked: you cannot read
+ * a sign you have never seen (Tony, 2026-10-07, on 爸爸 met cold: « arrivé
+ * directement là-dessus c'est compliqué »). It is SHOWN first, drawn stroke by
+ * stroke with its meaning and reading, and « Got it » moves on; it counts as
+ * met, not as a point. Its « write » side comes later in the same sitting.
+ *
  * Keys: Space shows the answer, 1 = didn't know, 2 = knew it. On the
  * writing pad there is no flip: Space or Enter moves on once it is written. Typing in a
  * field never triggers them.
@@ -92,14 +98,27 @@ export function Session({ queue: initial, lang, learningName, targetLang, tomorr
   // The listener is registered once and reads the latest handlers through a
   // ref: re-registering on every render would race the key that caused it.
   const onPad = item?.card.kind === 'glyph' && item.direction === 'produce';
-  const keys = useRef({ flipped, answer, show: () => setFlipped(true), active: !!item, onPad, written });
-  keys.current = { flipped, answer, show: () => setFlipped(true), active: !!item, onPad, written };
+  const learning = item?.card.kind === 'glyph' && item.direction === 'recognise' && item.record.reps === 0;
+  /** A new sign was shown: it is met (the box moves on), never scored. */
+  const learnNext = (): void => {
+    if (!item) return;
+    onAnswer(item, true);
+    setFlipped(false);
+    setNotice(null);
+    setQueue((q) => q.slice(1));
+  };
+  const keys = useRef({ flipped, answer, show: () => setFlipped(true), active: !!item, onPad, written, learning, learnNext });
+  keys.current = { flipped, answer, show: () => setFlipped(true), active: !!item, onPad, written, learning, learnNext };
   useEffect(() => {
     const onKey = (e: KeyboardEvent): void => {
       const k = keys.current;
       if (!k.active || e.ctrlKey || e.metaKey || e.altKey) return;
       const el = e.target as HTMLElement | null;
       if (el && (el.tagName === 'INPUT' || el.tagName === 'TEXTAREA' || el.tagName === 'SELECT' || el.isContentEditable)) return;
+      if (k.learning) {
+        if (e.code === 'Space' || e.key === 'Enter') { e.preventDefault(); k.learnNext(); }
+        return;
+      }
       if (k.onPad) {
         // The pad has no flip: Space moves on once the character is written.
         if (k.written && (e.code === 'Space' || e.key === 'Enter')) { e.preventDefault(); k.answer(k.written.known, k.written.points); }
@@ -177,7 +196,7 @@ export function Session({ queue: initial, lang, learningName, targetLang, tomorr
       <section className="ml-glass ml-card">
         <span style={small}>
           {isGlyph
-            ? (item.direction === 'recognise' ? t('write.read') : t('write.write'))
+            ? (learning ? t('write.discover') : item.direction === 'recognise' ? t('write.read') : t('write.write'))
             : item.direction === 'recognise' ? t('session.recognise') : t('session.produce', { lang: learningName })}
         </span>
         {isGlyph && item.direction === 'recognise' && !glyphStrokes ? (
@@ -186,7 +205,7 @@ export function Session({ queue: initial, lang, learningName, targetLang, tomorr
           // Drawn from its strokes, never a font (WritingPad.tsx). No 🔊 here:
           // hearing « あ » IS its reading, the answer.
           <div role="img" aria-label={t('write.glyphLabel')} style={{ marginTop: '16px', display: 'flex', gap: '8px', justifyContent: 'center', flexWrap: 'wrap' }}>
-            {glyphStrokes.map((s, k) => <Glyph key={k} strokes={s} size={glyphStrokes.length > 2 ? 110 : 160} />)}
+            {glyphStrokes.map((s, k) => <Glyph key={k} strokes={s} size={glyphStrokes.length > 2 ? 110 : 160} animate={learning} />)}
           </div>
         ) : (
           <p lang={item.direction === 'recognise' ? targetLang : lang} className="ml-front">
@@ -237,7 +256,7 @@ export function Session({ queue: initial, lang, learningName, targetLang, tomorr
             <span className="ml-kbd" aria-hidden="true">{t('session.hintCost', { n: num(HINT_COST) })}</span>
           </button>
         ))}
-        {flipped && (
+        {(flipped || learning) && (
           <div className="ml-back">
             <p lang={item.direction === 'recognise' ? lang : targetLang} style={{ fontSize: '27px', lineHeight: 1.4, margin: 0, fontWeight: 600 }}>
               {back}
@@ -259,7 +278,12 @@ export function Session({ queue: initial, lang, learningName, targetLang, tomorr
         )}
       </section>
 
-      {onPad ? (
+      {learning ? (
+        <button className="ml-btn ml-btn-primary" onClick={learnNext}>
+          <span>{t('write.gotIt')}</span>
+          <kbd className="ml-kbd" aria-hidden="true" style={{ color: 'inherit', borderColor: 'currentColor', background: 'transparent' }}>{t('session.keySpace')}</kbd>
+        </button>
+      ) : onPad ? (
         written && (
           <button className="ml-btn ml-btn-primary" onClick={() => answer(written.known, written.points)}>
             <span>{t('write.next')}</span>

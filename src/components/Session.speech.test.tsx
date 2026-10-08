@@ -81,11 +81,11 @@ describe('the 🔊 in a sitting', () => {
 
 describe('a kana card', () => {
   const A = ['M31,33c10,0,30,-2,42,-3', 'M50,18c2,20,-4,50,0,72'];
-  function kana(direction: 'recognise' | 'produce'): QueueItem {
+  function kana(direction: 'recognise' | 'produce', reps = 1): QueueItem {
     return {
       card: { id: 'hira-a', kind: 'glyph', target: 'あ', pos: 'hiragana', gloss: { fr: 'a' }, check: 'reference' },
       direction,
-      record: { id: `hira-a:${direction}`, courseId: 'ja-kana', front: '', back: '', box: 1, dueAt: '2026-10-07', reps: 0, lapses: 0, lastSeenAt: null },
+      record: { id: `hira-a:${direction}`, courseId: 'ja-kana', front: '', back: '', box: 1, dueAt: '2026-10-07', reps, lapses: 0, lastSeenAt: null },
     };
   }
   function mountKana(q: QueueItem[]) {
@@ -100,6 +100,21 @@ describe('a kana card', () => {
     expect(screen.queryByLabelText('Écouter')).not.toBeInTheDocument();
     fireEvent.click(screen.getByText('Voir la réponse'));
     expect(screen.getByLabelText('Écouter')).toBeInTheDocument();
+  });
+
+  it('a NEW sign is shown with its answer first, never asked cold, and earns no point', () => {
+    installSynth([v('Haruka', 'ja-JP')]);
+    const onAnswer = vi.fn();
+    setLang('fr');
+    render(<Session queue={[kana('recognise', 0), kana('produce', 0)]} lang="fr" learningName="japonais" targetLang="ja" tomorrow={() => 0} onAnswer={onAnswer} onReport={() => undefined} onLeave={() => undefined} strokesOf={(c) => (c === 'あ' ? A : undefined)} />);
+    expect(screen.getByText('Nouveau : regarde-le, il reviendra.')).toBeInTheDocument();
+    expect(screen.getByText('a')).toBeInTheDocument();
+    expect(screen.queryByText('Voir la réponse')).not.toBeInTheDocument();
+    fireEvent.click(screen.getByText("C'est vu, suivant"));
+    expect(onAnswer).toHaveBeenCalledWith(expect.objectContaining({ direction: 'recognise' }), true);
+    expect(screen.getByText('0 pt(s)')).toBeInTheDocument();
+    // Its write side comes next, in the same sitting.
+    expect(screen.getByRole('img', { name: 'Cadre où écrire a' })).toBeInTheDocument();
   });
 
   it('asks to write it on the pad, with no flip to cheat with', () => {

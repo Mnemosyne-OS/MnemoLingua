@@ -267,9 +267,6 @@ export default function App(): JSX.Element {
       dailyNew={state.dailyNew}
       onDailyNew={(n) => report(mutate((s) => setDailyNew(s, n)))}
       canSave={phase.outcome !== 'unreadable'}
-      glossLang={glossLang}
-      glossChoices={choices}
-      onChooseGloss={choose}
       reports={state.reports.filter((r) => r.deckId === deck.id)}
       targetOf={(id) => {
         const c = byId.get(id);
@@ -281,6 +278,7 @@ export default function App(): JSX.Element {
       onStart={start}
       onPutBack={(cardId) => report(mutate((s) => withdrawReport(s, deck.id, cardId)))}
       title={deckTitle(deck, t)}
+      firstTime={playableRecords.length === 0}
     />
   );
 

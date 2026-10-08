@@ -39,7 +39,6 @@
     "reports": "Tarjetas señaladas ({{n}})",
     "putBack": "Volver a repasarla",
     "chooseGloss": "¿En qué idioma quieres las traducciones?",
-    "glossIn": "Traducciones en:",
     "level": "Nivel {{level}}",
     "source": "Lista de palabras: {{name}} ({{url}})",
     "nextIn": "Próximo repaso dentro de {{days}} día(s): {{n}} tarjeta(s).",
@@ -54,7 +53,7 @@
     "strokesSource": "Trazos: {{name}} ({{author}}), versión {{tag}}, licencia {{licence}}.",
     "packSource": "Significados y lecturas: {{name}} ({{author}}), licencia {{licence}}.",
     "packChecked": "Significados tomados de {{name}}, que descargaste. Aún no revisados por un hablante nativo.",
-    "hskSource": "Palabras: {{name}} ({{licence}}), significados de {{from}} ({{meaningsLicence}})."
+    "hskSource": "Palabras y pinyin: {{name}} ({{licence}}). Traducciones escritas para MnemoLingua, aún no revisadas."
   },
   "theme": {
     "basics": "Lo básico",
@@ -184,7 +183,9 @@
       "end": "Trazo {{n}}: no termina ahí.",
       "shape": "Trazo {{n}}: no es este trazo."
     },
-    "charOf": "Carácter {{n}} de {{total}}"
+    "charOf": "Carácter {{n}} de {{total}}",
+    "discover": "Nuevo: míralo, volverá.",
+    "gotIt": "Visto, siguiente"
   },
   "setup": {
     "title": "{{deck}}: escribir a mano",
@@ -217,10 +218,22 @@
     "ledeHsk": "Cada palabra con su pinyin, su significado y sus caracteres, trazados uno a uno.",
     "hskWhat": "La lista {{name}} ({{author}}), unos {{kb}} KB: las 150 palabras del HSK 1, con su pinyin y su significado.",
     "hskLevel": "HSK 1: la lista del examen de 2012, con la que empieza la mayoría.",
-    "hskEnglish": "Los significados están en inglés: ninguna fuente libre que se pueda descargar aquí los da en español o en francés. Vienen de {{from}}.",
+    "hskEnglish": "Las traducciones al español, francés e inglés están escritas para MnemoLingua, para el sentido que enseña el HSK 1. Aún no están revisadas.",
     "hskLicence": "Lista bajo licencia {{licence}}, significados de {{from}} bajo {{meaningsLicence}}, se cita la fuente.",
     "packingHsk": "Leyendo la lista de palabras…",
     "hskFailed": "No se pudo descargar la lista de palabras ({{error}}).",
     "downloadHsk": "Descargar la lista y los trazos"
+  },
+  "intro": {
+    "title": "Cómo funciona",
+    "zh1": "El chino se escribe con caracteres: cada uno se dice en una sílaba y tiene un sentido. Una palabra como 爸爸 (bàba, papá) tiene dos.",
+    "zh2": "El pinyin escribe el sonido con letras latinas. Sus acentos son los tonos: ā se queda alto, á sube, ǎ baja y vuelve a subir, à baja.",
+    "zh3": "Cada palabra nueva se te muestra primero, trazada trazo a trazo, con su sentido y su pinyin. Luego la reconoces, y después la escribes.",
+    "kana1": "Los kana escriben sonidos, como un alfabeto: cada signo es una sílaba (か se lee ka).",
+    "kana2": "Los hiragana escriben las palabras japonesas, los katakana las que vienen de otros idiomas.",
+    "kana3": "Cada signo nuevo se te muestra primero, trazado trazo a trazo, con su lectura. Luego lo lees, y después lo escribes en el orden de los trazos.",
+    "kanji1": "Un kanji tiene un sentido: 水 quiere decir agua.",
+    "kanji2": "A menudo tiene dos lecturas: on, que viene del chino y se escribe en mayúsculas (SUI), y kun, japonesa (mizu).",
+    "kanji3": "Cada kanji nuevo se te muestra primero, trazado trazo a trazo, con su sentido y sus lecturas. Luego lo reconoces, y después lo escribes."
   }
 }
