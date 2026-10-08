@@ -1,0 +1,392 @@
+{
+ "decoys": {
+  "caught": 6,
+  "total": 6,
+  "missed": []
+ },
+ "toReview": 1,
+ "cards": {
+  "ought-to-modal": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "outdoor-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "outdoors-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "outer-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "outlaw-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "outline-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "out-of-date-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "outstanding-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "outward-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "outweigh-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "overcome-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "overjoyed-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "overnight-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "overnight-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "overwhelm-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "overwhelming-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "overwork-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "owe-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "owing-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "own-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "oxygen-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "pace-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "package-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "packing-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "paddle-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "paid-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "pain-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "painful-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "pale-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "palm-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "parachute-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "paradise-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "paralyze-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "parcel-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "pardon-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "parental-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "parking-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "parrot-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "partial-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "participant-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "participate-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "participle-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "particularly-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "part-time-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "part-time-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "passion-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "passive-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "passport-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "password-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "past-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "patience-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "patient-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "patrol-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "pattern-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "pause-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "pause-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "peanut-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "peculiar-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "penniless-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "penny-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "per-prep": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "percent-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "performer-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "permanent-adj": {
+   "check": "to-review",
+   "problems": [
+    "fr word: for a job, natural French is 'fixe' (poste fixe / CDI); 'permanent' is a calque here"
+   ]
+  },
+  "permanently-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "permit-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "personally-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "persuade-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "persuasive-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "phantom-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "pharmacy-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "phenomenon-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "philosopher-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "philosophy-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "phoenix-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "photocopy-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "phrasal-verb-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "phrase-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "physics-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "pick-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "pie-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "piety-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "pillow-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "pin-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "pineapple-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "pipe-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "pit-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "place-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "plain-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "plan-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "plant-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "plastic-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "platform-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "pleasantly-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "please-v": {
+   "check": "two-pass",
+   "problems": []
+  }
+ }
+}

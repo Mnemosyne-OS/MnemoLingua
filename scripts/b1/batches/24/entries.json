@@ -1,0 +1,560 @@
+[
+ {
+  "id": "tendency-n",
+  "headword": "tendency",
+  "pos": "noun"
+ },
+ {
+  "id": "tense-adj",
+  "headword": "tense",
+  "pos": "adjective"
+ },
+ {
+  "id": "tense-n",
+  "headword": "tense",
+  "pos": "noun"
+ },
+ {
+  "id": "tension-n",
+  "headword": "tension",
+  "pos": "noun"
+ },
+ {
+  "id": "tent-n",
+  "headword": "tent",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel and services vocab",
+   "Travel"
+  ]
+ },
+ {
+  "id": "term-n",
+  "headword": "term",
+  "pos": "noun"
+ },
+ {
+  "id": "terminal-n",
+  "headword": "terminal",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping"
+  ]
+ },
+ {
+  "id": "terribly-adv",
+  "headword": "terribly",
+  "pos": "adverb"
+ },
+ {
+  "id": "terrific-adj",
+  "headword": "terrific",
+  "pos": "adjective"
+ },
+ {
+  "id": "terrified-adj",
+  "headword": "terrified",
+  "pos": "adjective"
+ },
+ {
+  "id": "terror-n",
+  "headword": "terror",
+  "pos": "noun"
+ },
+ {
+  "id": "terrorism-n",
+  "headword": "terrorism",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs"
+  ]
+ },
+ {
+  "id": "terrorist-n",
+  "headword": "terrorist",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "thankful-adj",
+  "headword": "thankful",
+  "pos": "adjective"
+ },
+ {
+  "id": "theft-n",
+  "headword": "theft",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "theory-n",
+  "headword": "theory",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education"
+  ]
+ },
+ {
+  "id": "thirst-v",
+  "headword": "thirst",
+  "pos": "verb"
+ },
+ {
+  "id": "thorough-adj",
+  "headword": "thorough",
+  "pos": "adjective"
+ },
+ {
+  "id": "threat-n",
+  "headword": "threat",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs"
+  ]
+ },
+ {
+  "id": "threatening-adj",
+  "headword": "threatening",
+  "pos": "adjective"
+ },
+ {
+  "id": "thriller-n",
+  "headword": "thriller",
+  "pos": "noun",
+  "sourceTopics": [
+   "Books and literature",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "through-adv",
+  "headword": "through",
+  "pos": "adverb"
+ },
+ {
+  "id": "throughout-prep",
+  "headword": "throughout",
+  "pos": "preposition"
+ },
+ {
+  "id": "thumb-n",
+  "headword": "thumb",
+  "pos": "noun",
+  "sourceTopics": [
+   "Health and body care"
+  ]
+ },
+ {
+  "id": "thump-v",
+  "headword": "thump",
+  "pos": "verb"
+ },
+ {
+  "id": "thunder-n",
+  "headword": "thunder",
+  "pos": "noun",
+  "sourceTopics": [
+   "Media",
+   "Weather"
+  ]
+ },
+ {
+  "id": "thunderous-adj",
+  "headword": "thunderous",
+  "pos": "adjective"
+ },
+ {
+  "id": "thus-adv",
+  "headword": "thus",
+  "pos": "adverb"
+ },
+ {
+  "id": "tick-n",
+  "headword": "tick",
+  "pos": "noun"
+ },
+ {
+  "id": "tick-v",
+  "headword": "tick",
+  "pos": "verb"
+ },
+ {
+  "id": "tide-n",
+  "headword": "tide",
+  "pos": "noun",
+  "sourceTopics": [
+   "Media"
+  ]
+ },
+ {
+  "id": "tie-v",
+  "headword": "tie",
+  "pos": "verb"
+ },
+ {
+  "id": "tighten-v",
+  "headword": "tighten",
+  "pos": "verb"
+ },
+ {
+  "id": "tightly-adv",
+  "headword": "tightly",
+  "pos": "adverb"
+ },
+ {
+  "id": "tile-n",
+  "headword": "tile",
+  "pos": "noun"
+ },
+ {
+  "id": "till-conj",
+  "headword": "till",
+  "pos": "conjunction"
+ },
+ {
+  "id": "timely-adj",
+  "headword": "timely",
+  "pos": "adjective"
+ },
+ {
+  "id": "tin-n",
+  "headword": "tin",
+  "pos": "noun"
+ },
+ {
+  "id": "tiny-adj",
+  "headword": "tiny",
+  "pos": "adjective"
+ },
+ {
+  "id": "tire-v",
+  "headword": "tire",
+  "pos": "verb"
+ },
+ {
+  "id": "tiring-adj",
+  "headword": "tiring",
+  "pos": "adjective"
+ },
+ {
+  "id": "tissue-n",
+  "headword": "tissue",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "tobacco-n",
+  "headword": "tobacco",
+  "pos": "noun"
+ },
+ {
+  "id": "tongue-n",
+  "headword": "tongue",
+  "pos": "noun",
+  "sourceTopics": [
+   "Health and body care"
+  ]
+ },
+ {
+  "id": "toothpaste-n",
+  "headword": "toothpaste",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "top-adj",
+  "headword": "top",
+  "pos": "adjective"
+ },
+ {
+  "id": "tornado-n",
+  "headword": "tornado",
+  "pos": "noun",
+  "sourceTopics": [
+   "Weather"
+  ]
+ },
+ {
+  "id": "toss-v",
+  "headword": "toss",
+  "pos": "verb"
+ },
+ {
+  "id": "total-adj",
+  "headword": "total",
+  "pos": "adjective"
+ },
+ {
+  "id": "total-n",
+  "headword": "total",
+  "pos": "noun"
+ },
+ {
+  "id": "totally-adv",
+  "headword": "totally",
+  "pos": "adverb"
+ },
+ {
+  "id": "touch-v",
+  "headword": "touch",
+  "pos": "verb"
+ },
+ {
+  "id": "tour-v",
+  "headword": "tour",
+  "pos": "verb"
+ },
+ {
+  "id": "tourism-n",
+  "headword": "tourism",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel and services vocab",
+   "Travel"
+  ]
+ },
+ {
+  "id": "tournament-n",
+  "headword": "tournament",
+  "pos": "noun"
+ },
+ {
+  "id": "trace-n",
+  "headword": "trace",
+  "pos": "noun"
+ },
+ {
+  "id": "tracksuit-n",
+  "headword": "tracksuit",
+  "pos": "noun"
+ },
+ {
+  "id": "traditionally-adv",
+  "headword": "traditionally",
+  "pos": "adverb"
+ },
+ {
+  "id": "traffic-jam-n",
+  "headword": "traffic jam",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel and services vocab",
+   "Travel"
+  ]
+ },
+ {
+  "id": "tragedy-n",
+  "headword": "tragedy",
+  "pos": "noun",
+  "sourceTopics": [
+   "Books and literature",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "tragic-adj",
+  "headword": "tragic",
+  "pos": "adjective"
+ },
+ {
+  "id": "trail-n",
+  "headword": "trail",
+  "pos": "noun"
+ },
+ {
+  "id": "transfer-v",
+  "headword": "transfer",
+  "pos": "verb"
+ },
+ {
+  "id": "transform-v",
+  "headword": "transform",
+  "pos": "verb"
+ },
+ {
+  "id": "transformation-n",
+  "headword": "transformation",
+  "pos": "noun"
+ },
+ {
+  "id": "transitional-adj",
+  "headword": "transitional",
+  "pos": "adjective"
+ },
+ {
+  "id": "translate-v",
+  "headword": "translate",
+  "pos": "verb"
+ },
+ {
+  "id": "transport-n",
+  "headword": "transport",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel"
+  ]
+ },
+ {
+  "id": "transportation-n",
+  "headword": "transportation",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Travel"
+  ]
+ },
+ {
+  "id": "trash-n",
+  "headword": "trash",
+  "pos": "noun"
+ },
+ {
+  "id": "travel-agent-n",
+  "headword": "travel agent",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "Services"
+  ]
+ },
+ {
+  "id": "treat-n",
+  "headword": "treat",
+  "pos": "noun"
+ },
+ {
+  "id": "treatment-n",
+  "headword": "treatment",
+  "pos": "noun"
+ },
+ {
+  "id": "tremble-v",
+  "headword": "tremble",
+  "pos": "verb"
+ },
+ {
+  "id": "tremendous-adj",
+  "headword": "tremendous",
+  "pos": "adjective"
+ },
+ {
+  "id": "trend-n",
+  "headword": "trend",
+  "pos": "noun"
+ },
+ {
+  "id": "trigger-n",
+  "headword": "trigger",
+  "pos": "noun"
+ },
+ {
+  "id": "trim-n",
+  "headword": "trim",
+  "pos": "noun"
+ },
+ {
+  "id": "triumph-n",
+  "headword": "triumph",
+  "pos": "noun"
+ },
+ {
+  "id": "tropical-adj",
+  "headword": "tropical",
+  "pos": "adjective"
+ },
+ {
+  "id": "trouble-v",
+  "headword": "trouble",
+  "pos": "verb"
+ },
+ {
+  "id": "trumpet-n",
+  "headword": "trumpet",
+  "pos": "noun"
+ },
+ {
+  "id": "trustworthy-adj",
+  "headword": "trustworthy",
+  "pos": "adjective"
+ },
+ {
+  "id": "tumble-v",
+  "headword": "tumble",
+  "pos": "verb"
+ },
+ {
+  "id": "tuna-n",
+  "headword": "tuna",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "turbulence-n",
+  "headword": "turbulence",
+  "pos": "noun"
+ },
+ {
+  "id": "turning-n",
+  "headword": "turning",
+  "pos": "noun"
+ },
+ {
+  "id": "turtle-n",
+  "headword": "turtle",
+  "pos": "noun"
+ },
+ {
+  "id": "twin-n",
+  "headword": "twin",
+  "pos": "noun",
+  "sourceTopics": [
+   "Family life",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "twist-n",
+  "headword": "twist",
+  "pos": "noun"
+ },
+ {
+  "id": "twist-v",
+  "headword": "twist",
+  "pos": "verb"
+ },
+ {
+  "id": "type-v",
+  "headword": "type",
+  "pos": "verb"
+ },
+ {
+  "id": "typical-adj",
+  "headword": "typical",
+  "pos": "adjective"
+ },
+ {
+  "id": "typically-adv",
+  "headword": "typically",
+  "pos": "adverb"
+ },
+ {
+  "id": "unable-adj",
+  "headword": "unable",
+  "pos": "adjective"
+ }
+]

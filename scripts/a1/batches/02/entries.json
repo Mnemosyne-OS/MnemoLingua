@@ -1,0 +1,689 @@
+[
+ {
+  "id": "birth-n",
+  "headword": "birth",
+  "pos": "noun",
+  "sourceTopics": [
+   "Family life",
+   "Daily life"
+  ]
+ },
+ {
+  "id": "birthday-n",
+  "headword": "birthday",
+  "pos": "noun",
+  "sourceTopics": [
+   "Personal information",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "biscuit-n",
+  "headword": "biscuit",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "black-adj",
+  "headword": "black",
+  "pos": "adjective"
+ },
+ {
+  "id": "black-n",
+  "headword": "black",
+  "pos": "noun",
+  "sourceTopics": [
+   "Colours"
+  ]
+ },
+ {
+  "id": "block-n",
+  "headword": "block",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "blow-v",
+  "headword": "blow",
+  "pos": "verb"
+ },
+ {
+  "id": "blue-adj",
+  "headword": "blue",
+  "pos": "adjective"
+ },
+ {
+  "id": "blue-n",
+  "headword": "blue",
+  "pos": "noun",
+  "sourceTopics": [
+   "Colours"
+  ]
+ },
+ {
+  "id": "board-n",
+  "headword": "board",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "boat-n",
+  "headword": "boat",
+  "pos": "noun",
+  "sourceTopics": [
+   "Ways of travelling",
+   "Travel"
+  ]
+ },
+ {
+  "id": "body-n",
+  "headword": "body",
+  "pos": "noun",
+  "sourceTopics": [
+   "Health and body care"
+  ]
+ },
+ {
+  "id": "bone-n",
+  "headword": "bone",
+  "pos": "noun"
+ },
+ {
+  "id": "book-n",
+  "headword": "book",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "bookstore-n",
+  "headword": "bookstore",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "borrow-v",
+  "headword": "borrow",
+  "pos": "verb"
+ },
+ {
+  "id": "both-adv",
+  "headword": "both",
+  "pos": "adverb"
+ },
+ {
+  "id": "both-det",
+  "headword": "both",
+  "pos": "determiner"
+ },
+ {
+  "id": "both-pron",
+  "headword": "both",
+  "pos": "pronoun"
+ },
+ {
+  "id": "bottle-n",
+  "headword": "bottle",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "bottom-n",
+  "headword": "bottom",
+  "pos": "noun"
+ },
+ {
+  "id": "bowl-n",
+  "headword": "bowl",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "box-n",
+  "headword": "box",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "boy-n",
+  "headword": "boy",
+  "pos": "noun",
+  "sourceTopics": [
+   "Personal information",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "boyfriend-n",
+  "headword": "boyfriend",
+  "pos": "noun",
+  "sourceTopics": [
+   "Personal information",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "bread-n",
+  "headword": "bread",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "break-v",
+  "headword": "break",
+  "pos": "verb"
+ },
+ {
+  "id": "breakfast-n",
+  "headword": "breakfast",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "breathe-v",
+  "headword": "breathe",
+  "pos": "verb"
+ },
+ {
+  "id": "bridge-n",
+  "headword": "bridge",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "bright-adj",
+  "headword": "bright",
+  "pos": "adjective"
+ },
+ {
+  "id": "bring-v",
+  "headword": "bring",
+  "pos": "verb"
+ },
+ {
+  "id": "broken-adj",
+  "headword": "broken",
+  "pos": "adjective"
+ },
+ {
+  "id": "brother-n",
+  "headword": "brother",
+  "pos": "noun",
+  "sourceTopics": [
+   "Family life",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "brown-adj",
+  "headword": "brown",
+  "pos": "adjective"
+ },
+ {
+  "id": "brush-v",
+  "headword": "brush",
+  "pos": "verb"
+ },
+ {
+  "id": "bucket-n",
+  "headword": "bucket",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "build-v",
+  "headword": "build",
+  "pos": "verb"
+ },
+ {
+  "id": "building-n",
+  "headword": "building",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "burger-n",
+  "headword": "burger",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "bus-n",
+  "headword": "bus",
+  "pos": "noun",
+  "sourceTopics": [
+   "Ways of travelling",
+   "Travel"
+  ]
+ },
+ {
+  "id": "business-n",
+  "headword": "business",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Daily life"
+  ]
+ },
+ {
+  "id": "busy-adj",
+  "headword": "busy",
+  "pos": "adjective"
+ },
+ {
+  "id": "but-conj",
+  "headword": "but",
+  "pos": "conjunction"
+ },
+ {
+  "id": "butter-n",
+  "headword": "butter",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "button-n",
+  "headword": "button",
+  "pos": "noun",
+  "sourceTopics": [
+   "Clothes",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "buy-v",
+  "headword": "buy",
+  "pos": "verb"
+ },
+ {
+  "id": "by-prep",
+  "headword": "by",
+  "pos": "preposition"
+ },
+ {
+  "id": "bye-n",
+  "headword": "bye",
+  "pos": "noun"
+ },
+ {
+  "id": "cafe-n",
+  "headword": "cafe",
+  "pos": "noun",
+  "variants": [
+   "café"
+  ],
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "cake-n",
+  "headword": "cake",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "call-n",
+  "headword": "call",
+  "pos": "noun",
+  "sourceTopics": [
+   "Services"
+  ]
+ },
+ {
+  "id": "camera-n",
+  "headword": "camera",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Travel"
+  ]
+ },
+ {
+  "id": "camp-n",
+  "headword": "camp",
+  "pos": "noun",
+  "sourceTopics": [
+   "Leisure activities",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "can-modal",
+  "headword": "can",
+  "pos": "modal auxiliary"
+ },
+ {
+  "id": "cap-n",
+  "headword": "cap",
+  "pos": "noun",
+  "sourceTopics": [
+   "Clothes",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "car-n",
+  "headword": "car",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "Travel"
+  ]
+ },
+ {
+  "id": "card-n",
+  "headword": "card",
+  "pos": "noun",
+  "sourceTopics": [
+   "Shopping",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "care-n",
+  "headword": "care",
+  "pos": "noun",
+  "sourceTopics": [
+   "Health and body care"
+  ]
+ },
+ {
+  "id": "careful-adj",
+  "headword": "careful",
+  "pos": "adjective"
+ },
+ {
+  "id": "carefully-adv",
+  "headword": "carefully",
+  "pos": "adverb"
+ },
+ {
+  "id": "carry-v",
+  "headword": "carry",
+  "pos": "verb"
+ },
+ {
+  "id": "cartoon-n",
+  "headword": "cartoon",
+  "pos": "noun",
+  "sourceTopics": [
+   "Hobbies and pastimes",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "case-n",
+  "headword": "case",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms"
+  ]
+ },
+ {
+  "id": "cat-n",
+  "headword": "cat",
+  "pos": "noun"
+ },
+ {
+  "id": "catch-v",
+  "headword": "catch",
+  "pos": "verb"
+ },
+ {
+  "id": "cd-n",
+  "headword": "CD",
+  "pos": "noun",
+  "sourceTopics": [
+   "Hobbies and pastimes",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "cd-player-n",
+  "headword": "CD player",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "celebrate-v",
+  "headword": "celebrate",
+  "pos": "verb"
+ },
+ {
+  "id": "celebration-n",
+  "headword": "celebration",
+  "pos": "noun",
+  "sourceTopics": [
+   "Daily life"
+  ]
+ },
+ {
+  "id": "chair-n",
+  "headword": "chair",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "change-n",
+  "headword": "change",
+  "pos": "noun"
+ },
+ {
+  "id": "change-v",
+  "headword": "change",
+  "pos": "verb"
+ },
+ {
+  "id": "character-n",
+  "headword": "character",
+  "pos": "noun",
+  "sourceTopics": [
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "check-n",
+  "headword": "check",
+  "pos": "noun",
+  "sourceTopics": [
+   "Services"
+  ]
+ },
+ {
+  "id": "chicken-n",
+  "headword": "chicken",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "child-n",
+  "headword": "child",
+  "pos": "noun",
+  "sourceTopics": [
+   "Family life",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "chocolate-n",
+  "headword": "chocolate",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "choose-v",
+  "headword": "choose",
+  "pos": "verb"
+ },
+ {
+  "id": "church-n",
+  "headword": "church",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "cinema-n",
+  "headword": "cinema",
+  "pos": "noun",
+  "sourceTopics": [
+   "Hobbies and pastimes",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "circle-n",
+  "headword": "circle",
+  "pos": "noun"
+ },
+ {
+  "id": "city-n",
+  "headword": "city",
+  "pos": "noun",
+  "sourceTopics": [
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "class-n",
+  "headword": "class",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Education"
+  ]
+ },
+ {
+  "id": "classmate-n",
+  "headword": "classmate",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Relations with other people"
+  ]
+ },
+ {
+  "id": "clean-adj",
+  "headword": "clean",
+  "pos": "adjective"
+ },
+ {
+  "id": "clean-v",
+  "headword": "clean",
+  "pos": "verb"
+ },
+ {
+  "id": "clever-adj",
+  "headword": "clever",
+  "pos": "adjective"
+ },
+ {
+  "id": "climb-n",
+  "headword": "climb",
+  "pos": "noun",
+  "sourceTopics": [
+   "Leisure activities"
+  ]
+ },
+ {
+  "id": "clock-n",
+  "headword": "clock",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "close-adj",
+  "headword": "close",
+  "pos": "adjective"
+ },
+ {
+  "id": "close-v",
+  "headword": "close",
+  "pos": "verb"
+ },
+ {
+  "id": "closed-adj",
+  "headword": "closed",
+  "pos": "adjective"
+ },
+ {
+  "id": "cloth-n",
+  "headword": "cloth",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "clothes-n",
+  "headword": "clothes",
+  "pos": "noun"
+ }
+]

@@ -1,0 +1,566 @@
+[
+ {
+  "id": "organized-adj",
+  "headword": "organized",
+  "pos": "adjective",
+  "example": "She is very organized and always knows where her things are."
+ },
+ {
+  "id": "original-adj",
+  "headword": "original",
+  "pos": "adjective",
+  "example": "Her party idea was very original; nobody had done it before."
+ },
+ {
+  "id": "orphan-n",
+  "headword": "orphan",
+  "pos": "noun",
+  "example": "He became an orphan when his parents died in an accident."
+ },
+ {
+  "id": "other-pron",
+  "headword": "other",
+  "pos": "pronoun",
+  "example": "One of my brothers is tall, and the other is short."
+ },
+ {
+  "id": "ourselves-pron",
+  "headword": "ourselves",
+  "pos": "pronoun",
+  "example": "We painted the kitchen ourselves, without any help."
+ },
+ {
+  "id": "out-of-prep",
+  "headword": "out of",
+  "pos": "preposition",
+  "example": "She took her keys out of her bag."
+ },
+ {
+  "id": "outside-prep",
+  "headword": "outside",
+  "pos": "preposition",
+  "example": "I'll wait for you outside the cinema at eight."
+ },
+ {
+  "id": "oven-n",
+  "headword": "oven",
+  "pos": "noun",
+  "example": "Put the cake in the oven for forty minutes."
+ },
+ {
+  "id": "over-adv",
+  "headword": "over",
+  "pos": "adverb",
+  "example": "The film is over, so we can go home now."
+ },
+ {
+  "id": "overseas-adv",
+  "headword": "overseas",
+  "pos": "adverb",
+  "example": "My uncle works overseas, in Australia."
+ },
+ {
+  "id": "overweight-adj",
+  "headword": "overweight",
+  "pos": "adjective",
+  "example": "The doctor said I was overweight and should eat less sugar."
+ },
+ {
+  "id": "own-pron",
+  "headword": "own",
+  "pos": "pronoun",
+  "example": "I don't share a room; I have my own."
+ },
+ {
+  "id": "pacific-adj",
+  "headword": "pacific",
+  "pos": "adjective",
+  "example": "We flew across the Pacific Ocean to Japan."
+ },
+ {
+  "id": "pack-n",
+  "headword": "pack",
+  "pos": "noun",
+  "example": "I bought a pack of six bottles of water."
+ },
+ {
+  "id": "pack-v",
+  "headword": "pack",
+  "pos": "verb",
+  "example": "I packed my clothes in a suitcase before the holiday."
+ },
+ {
+  "id": "painter-n",
+  "headword": "painter",
+  "pos": "noun",
+  "example": "The painter painted our living room yellow."
+ },
+ {
+  "id": "pal-n",
+  "headword": "pal",
+  "pos": "noun",
+  "example": "Tom is my best pal; we play football every day."
+ },
+ {
+  "id": "pan-n",
+  "headword": "pan",
+  "pos": "noun",
+  "example": "She cooked the eggs in a small pan."
+ },
+ {
+  "id": "panic-n",
+  "headword": "panic",
+  "pos": "noun",
+  "example": "When the fire started, there was panic in the building."
+ },
+ {
+  "id": "park-v",
+  "headword": "park",
+  "pos": "verb",
+  "example": "You can't park your car in front of the hospital."
+ },
+ {
+  "id": "part-n",
+  "headword": "part",
+  "pos": "noun",
+  "example": "The first part of the film was boring; the end was great."
+ },
+ {
+  "id": "partly-adv",
+  "headword": "partly",
+  "pos": "adverb",
+  "example": "The sky was partly blue and partly cloudy."
+ },
+ {
+  "id": "pass-n",
+  "headword": "pass",
+  "pos": "noun",
+  "example": "You need a bus pass to travel for free."
+ },
+ {
+  "id": "pass-v",
+  "headword": "pass",
+  "pos": "verb",
+  "example": "I studied hard and passed my English exam."
+ },
+ {
+  "id": "passage-n",
+  "headword": "passage",
+  "pos": "noun",
+  "example": "Read the passage and answer the questions below."
+ },
+ {
+  "id": "passenger-n",
+  "headword": "passenger",
+  "pos": "noun",
+  "example": "The bus driver said hello to every passenger."
+ },
+ {
+  "id": "pasta-n",
+  "headword": "pasta",
+  "pos": "noun",
+  "example": "We had pasta with tomato sauce for dinner."
+ },
+ {
+  "id": "path-n",
+  "headword": "path",
+  "pos": "noun",
+  "example": "We walked along a narrow path through the forest."
+ },
+ {
+  "id": "patient-n",
+  "headword": "patient",
+  "pos": "noun",
+  "example": "The doctor saw twenty patients at the hospital today."
+ },
+ {
+  "id": "pc-n",
+  "headword": "PC",
+  "pos": "noun",
+  "example": "I do my homework on the PC in my bedroom."
+ },
+ {
+  "id": "pea-n",
+  "headword": "pea",
+  "pos": "noun",
+  "example": "The children don't like green peas with their fish."
+ },
+ {
+  "id": "peaceful-adj",
+  "headword": "peaceful",
+  "pos": "adjective",
+  "example": "The village is very peaceful; there are no cars."
+ },
+ {
+  "id": "pear-n",
+  "headword": "pear",
+  "pos": "noun",
+  "example": "I ate a sweet green pear after lunch."
+ },
+ {
+  "id": "pence-n",
+  "headword": "pence",
+  "pos": "noun",
+  "example": "The newspaper costs ninety pence at the shop."
+ },
+ {
+  "id": "penfriend-n",
+  "headword": "penfriend",
+  "pos": "noun",
+  "example": "I write letters to my penfriend in Canada every month."
+ },
+ {
+  "id": "pepper-n",
+  "headword": "pepper",
+  "pos": "noun",
+  "example": "Can you pass me the salt and pepper, please?"
+ },
+ {
+  "id": "perfect-adj",
+  "headword": "perfect",
+  "pos": "adjective",
+  "example": "The weather was perfect for a day at the beach."
+ },
+ {
+  "id": "perfectly-adv",
+  "headword": "perfectly",
+  "pos": "adverb",
+  "example": "She speaks English perfectly because her mother is English."
+ },
+ {
+  "id": "perform-v",
+  "headword": "perform",
+  "pos": "verb",
+  "example": "The band will perform three new songs tonight."
+ },
+ {
+  "id": "performance-n",
+  "headword": "performance",
+  "pos": "noun",
+  "example": "The actors gave a great performance, and everyone clapped."
+ },
+ {
+  "id": "perfume-n",
+  "headword": "perfume",
+  "pos": "noun",
+  "example": "I bought a bottle of perfume for my mother's birthday."
+ },
+ {
+  "id": "perhaps-adv",
+  "headword": "perhaps",
+  "pos": "adverb",
+  "example": "Perhaps it will rain tomorrow, so take a coat."
+ },
+ {
+  "id": "permission-n",
+  "headword": "permission",
+  "pos": "noun",
+  "example": "You need your parents' permission to go on the school trip."
+ },
+ {
+  "id": "personality-n",
+  "headword": "personality",
+  "pos": "noun",
+  "example": "My sister has a friendly personality, so everyone likes her."
+ },
+ {
+  "id": "petrol-n",
+  "headword": "petrol",
+  "pos": "noun",
+  "example": "The car stopped because there was no petrol in it."
+ },
+ {
+  "id": "petrol-station-n",
+  "headword": "petrol station",
+  "pos": "noun",
+  "example": "We stopped at a petrol station to fill up the car."
+ },
+ {
+  "id": "photograph-n",
+  "headword": "photograph",
+  "pos": "noun",
+  "example": "There is an old photograph of my grandparents on the wall."
+ },
+ {
+  "id": "photographer-n",
+  "headword": "photographer",
+  "pos": "noun",
+  "example": "The photographer took pictures of us at the wedding."
+ },
+ {
+  "id": "photography-n",
+  "headword": "photography",
+  "pos": "noun",
+  "example": "My hobby is photography; I take pictures of birds."
+ },
+ {
+  "id": "physical-adj",
+  "headword": "physical",
+  "pos": "adjective",
+  "example": "Running and swimming are good physical exercise."
+ },
+ {
+  "id": "physically-adv",
+  "headword": "physically",
+  "pos": "adverb",
+  "example": "After the long walk I was physically tired but happy."
+ },
+ {
+  "id": "pile-n",
+  "headword": "pile",
+  "pos": "noun",
+  "example": "There is a big pile of dirty clothes on the floor."
+ },
+ {
+  "id": "pilgrim-n",
+  "headword": "pilgrim",
+  "pos": "noun",
+  "example": "Many pilgrims walk to Santiago de Compostela every year."
+ },
+ {
+  "id": "pill-n",
+  "headword": "pill",
+  "pos": "noun",
+  "example": "Take one pill with water after breakfast."
+ },
+ {
+  "id": "pilot-n",
+  "headword": "pilot",
+  "pos": "noun",
+  "example": "The pilot flew the plane from Madrid to London."
+ },
+ {
+  "id": "pink-n",
+  "headword": "pink",
+  "pos": "noun",
+  "example": "Pink is my favourite colour, so my room is pink."
+ },
+ {
+  "id": "pity-n",
+  "headword": "pity",
+  "pos": "noun",
+  "example": "It's a pity you can't come to the party."
+ },
+ {
+  "id": "planet-n",
+  "headword": "planet",
+  "pos": "noun",
+  "example": "Mars is the red planet near the Earth."
+ },
+ {
+  "id": "plant-n",
+  "headword": "plant",
+  "pos": "noun",
+  "example": "I water the plants in my garden every evening."
+ },
+ {
+  "id": "plastic-adj",
+  "headword": "plastic",
+  "pos": "adjective",
+  "example": "The children drink from plastic cups so they don't break."
+ },
+ {
+  "id": "plate-n",
+  "headword": "plate",
+  "pos": "noun",
+  "example": "Put the food on the plate and bring it to the table."
+ },
+ {
+  "id": "playful-adj",
+  "headword": "playful",
+  "pos": "adjective",
+  "example": "Our puppy is very playful and runs after the ball all day."
+ },
+ {
+  "id": "playground-n",
+  "headword": "playground",
+  "pos": "noun",
+  "example": "The children play on the swings in the playground."
+ },
+ {
+  "id": "pleasant-adj",
+  "headword": "pleasant",
+  "pos": "adjective",
+  "example": "We had a pleasant evening with good food and music."
+ },
+ {
+  "id": "pleased-adj",
+  "headword": "pleased",
+  "pos": "adjective",
+  "example": "My teacher was pleased with my good marks."
+ },
+ {
+  "id": "pleasing-adj",
+  "headword": "pleasing",
+  "pos": "adjective",
+  "example": "The colours of the new room are very pleasing to the eye."
+ },
+ {
+  "id": "plenty-n",
+  "headword": "plenty",
+  "pos": "noun",
+  "example": "Don't hurry; we have plenty of time before the train."
+ },
+ {
+  "id": "plural-n",
+  "headword": "plural",
+  "pos": "noun",
+  "example": "The plural of \"child\" is \"children\"."
+ },
+ {
+  "id": "plus-prep",
+  "headword": "plus",
+  "pos": "preposition",
+  "example": "Three plus four is seven."
+ },
+ {
+  "id": "point-v",
+  "headword": "point",
+  "pos": "verb",
+  "example": "The little boy pointed at the plane in the sky."
+ },
+ {
+  "id": "police-n",
+  "headword": "police",
+  "pos": "noun",
+  "example": "Someone stole my bike, so I called the police."
+ },
+ {
+  "id": "police-officer-n",
+  "headword": "police officer",
+  "pos": "noun",
+  "example": "A police officer helped the old woman cross the road."
+ },
+ {
+  "id": "police-station-n",
+  "headword": "police station",
+  "pos": "noun",
+  "example": "I went to the police station to report my lost wallet."
+ },
+ {
+  "id": "policeman-n",
+  "headword": "policeman",
+  "pos": "noun",
+  "example": "The policeman asked the driver to stop the car."
+ },
+ {
+  "id": "policewoman-n",
+  "headword": "policewoman",
+  "pos": "noun",
+  "example": "A policewoman showed us the way to the station."
+ },
+ {
+  "id": "polite-adj",
+  "headword": "polite",
+  "pos": "adjective",
+  "example": "It is polite to say \"please\" and \"thank you\"."
+ },
+ {
+  "id": "political-adj",
+  "headword": "political",
+  "pos": "adjective",
+  "example": "The two political parties have different ideas about taxes."
+ },
+ {
+  "id": "pollute-v",
+  "headword": "pollute",
+  "pos": "verb",
+  "example": "Old cars pollute the air in big cities."
+ },
+ {
+  "id": "popular-adj",
+  "headword": "popular",
+  "pos": "adjective",
+  "example": "This restaurant is very popular, so it is always full."
+ },
+ {
+  "id": "population-n",
+  "headword": "population",
+  "pos": "noun",
+  "example": "The population of our town is about ten thousand people."
+ },
+ {
+  "id": "portrait-n",
+  "headword": "portrait",
+  "pos": "noun",
+  "example": "The artist painted a portrait of the queen."
+ },
+ {
+  "id": "position-n",
+  "headword": "position",
+  "pos": "noun",
+  "example": "Sit in a comfortable position with your back straight."
+ },
+ {
+  "id": "possible-adj",
+  "headword": "possible",
+  "pos": "adjective",
+  "example": "Is it possible to visit the castle on Sunday?"
+ },
+ {
+  "id": "possibly-adv",
+  "headword": "possibly",
+  "pos": "adverb",
+  "example": "I will possibly be late, so start dinner without me."
+ },
+ {
+  "id": "post-v",
+  "headword": "post",
+  "pos": "verb",
+  "example": "I posted the birthday card to my aunt yesterday."
+ },
+ {
+  "id": "post-office-n",
+  "headword": "post office",
+  "pos": "noun",
+  "example": "I bought stamps at the post office."
+ },
+ {
+  "id": "pour-v",
+  "headword": "pour",
+  "pos": "verb",
+  "example": "She poured some milk into her coffee."
+ },
+ {
+  "id": "power-n",
+  "headword": "power",
+  "pos": "noun",
+  "example": "The storm cut the power, so we had no lights."
+ },
+ {
+  "id": "powerful-adj",
+  "headword": "powerful",
+  "pos": "adjective",
+  "example": "This car has a powerful engine and goes very fast."
+ },
+ {
+  "id": "precise-adj",
+  "headword": "precise",
+  "pos": "adjective",
+  "example": "Can you give me the precise time of the meeting?"
+ },
+ {
+  "id": "predict-v",
+  "headword": "predict",
+  "pos": "verb",
+  "example": "They predict sunny weather for the weekend."
+ },
+ {
+  "id": "prediction-n",
+  "headword": "prediction",
+  "pos": "noun",
+  "example": "My prediction is that our team will win the match."
+ },
+ {
+  "id": "prefer-v",
+  "headword": "prefer",
+  "pos": "verb",
+  "example": "I prefer tea to coffee in the morning."
+ },
+ {
+  "id": "prepare-v",
+  "headword": "prepare",
+  "pos": "verb",
+  "example": "My dad is preparing dinner in the kitchen."
+ }
+]

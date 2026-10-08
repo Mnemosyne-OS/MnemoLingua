@@ -1,0 +1,572 @@
+[
+ {
+  "id": "evening-n",
+  "headword": "evening",
+  "pos": "noun",
+  "example": "I watch TV in the evening."
+ },
+ {
+  "id": "event-n",
+  "headword": "event",
+  "pos": "noun",
+  "example": "The music event is on Saturday."
+ },
+ {
+  "id": "every-det",
+  "headword": "every",
+  "pos": "determiner",
+  "example": "I drink coffee every morning."
+ },
+ {
+  "id": "everybody-pron",
+  "headword": "everybody",
+  "pos": "pronoun",
+  "example": "Everybody in my class likes music."
+ },
+ {
+  "id": "everyday-adj",
+  "headword": "everyday",
+  "pos": "adjective",
+  "example": "Jeans are my everyday clothes."
+ },
+ {
+  "id": "everything-pron",
+  "headword": "everything",
+  "pos": "pronoun",
+  "example": "My bag is open and everything is on the floor."
+ },
+ {
+  "id": "everywhere-adv",
+  "headword": "everywhere",
+  "pos": "adverb",
+  "example": "There are people everywhere in the park."
+ },
+ {
+  "id": "example-n",
+  "headword": "example",
+  "pos": "noun",
+  "example": "The teacher gives us an example on the board."
+ },
+ {
+  "id": "excellent-adj",
+  "headword": "excellent",
+  "pos": "adjective",
+  "example": "This pizza is excellent, I love it!"
+ },
+ {
+  "id": "excited-adj",
+  "headword": "excited",
+  "pos": "adjective",
+  "example": "The children are excited about their holiday."
+ },
+ {
+  "id": "exciting-adj",
+  "headword": "exciting",
+  "pos": "adjective",
+  "example": "This football game is very exciting!"
+ },
+ {
+  "id": "excuse-n",
+  "headword": "excuse",
+  "pos": "noun",
+  "example": "He is late again, and he has a bad excuse."
+ },
+ {
+  "id": "exercise-v",
+  "headword": "exercise",
+  "pos": "verb",
+  "example": "I exercise in the park every day."
+ },
+ {
+  "id": "expensive-adj",
+  "headword": "expensive",
+  "pos": "adjective",
+  "example": "This car is very expensive."
+ },
+ {
+  "id": "eye-n",
+  "headword": "eye",
+  "pos": "noun",
+  "example": "She has blue eyes."
+ },
+ {
+  "id": "factory-n",
+  "headword": "factory",
+  "pos": "noun",
+  "example": "My father makes cars in a big factory."
+ },
+ {
+  "id": "fair-adj",
+  "headword": "fair",
+  "pos": "adjective",
+  "example": "Everybody gets one cake, so it is fair."
+ },
+ {
+  "id": "fairy-n",
+  "headword": "fairy",
+  "pos": "noun",
+  "example": "In the story, a little fairy can fly."
+ },
+ {
+  "id": "false-adj",
+  "headword": "false",
+  "pos": "adjective",
+  "example": "Two and two is five. That is false."
+ },
+ {
+  "id": "family-n",
+  "headword": "family",
+  "pos": "noun",
+  "example": "My family is my mother, my father and my sister."
+ },
+ {
+  "id": "famous-adj",
+  "headword": "famous",
+  "pos": "adjective",
+  "example": "Everybody knows her. She is a famous singer."
+ },
+ {
+  "id": "fan-n",
+  "headword": "fan",
+  "pos": "noun",
+  "example": "It is hot, so I turn on the fan."
+ },
+ {
+  "id": "farm-n",
+  "headword": "farm",
+  "pos": "noun",
+  "example": "There are cows and pigs on the farm."
+ },
+ {
+  "id": "farmer-n",
+  "headword": "farmer",
+  "pos": "noun",
+  "example": "The farmer gets up early to milk the cows."
+ },
+ {
+  "id": "fast-adj",
+  "headword": "fast",
+  "pos": "adjective",
+  "example": "A plane is very fast."
+ },
+ {
+  "id": "fat-adj",
+  "headword": "fat",
+  "pos": "adjective",
+  "example": "My cat eats a lot and she is fat."
+ },
+ {
+  "id": "father-n",
+  "headword": "father",
+  "pos": "noun",
+  "example": "My father is my mother's husband."
+ },
+ {
+  "id": "favorite-adj",
+  "headword": "favorite",
+  "pos": "adjective",
+  "example": "Blue is my favorite color."
+ },
+ {
+  "id": "favorite-n",
+  "headword": "favorite",
+  "pos": "noun",
+  "example": "I like all the songs, but this is my favorite."
+ },
+ {
+  "id": "february-n",
+  "headword": "February",
+  "pos": "noun",
+  "example": "February is the second month of the year."
+ },
+ {
+  "id": "feed-n",
+  "headword": "feed",
+  "pos": "noun",
+  "example": "The farmer buys feed for his chickens."
+ },
+ {
+  "id": "feel-v",
+  "headword": "feel",
+  "pos": "verb",
+  "example": "I feel tired after work."
+ },
+ {
+  "id": "feeling-n",
+  "headword": "feeling",
+  "pos": "noun",
+  "example": "Happiness is a nice feeling."
+ },
+ {
+  "id": "festival-n",
+  "headword": "festival",
+  "pos": "noun",
+  "example": "We dance and listen to music at the festival."
+ },
+ {
+  "id": "fever-n",
+  "headword": "fever",
+  "pos": "noun",
+  "example": "The boy is ill and he has a fever."
+ },
+ {
+  "id": "fight-n",
+  "headword": "fight",
+  "pos": "noun",
+  "example": "The two boys have a fight in the street."
+ },
+ {
+  "id": "file-n",
+  "headword": "file",
+  "pos": "noun",
+  "example": "I save the photo in a file on my computer."
+ },
+ {
+  "id": "fill-v",
+  "headword": "fill",
+  "pos": "verb",
+  "example": "I fill my glass with water."
+ },
+ {
+  "id": "find-v",
+  "headword": "find",
+  "pos": "verb",
+  "example": "I can't find my keys."
+ },
+ {
+  "id": "fine-adj",
+  "headword": "fine",
+  "pos": "adjective",
+  "example": "How are you? I am fine, thank you."
+ },
+ {
+  "id": "finish-n",
+  "headword": "finish",
+  "pos": "noun",
+  "example": "The runners are near the finish now."
+ },
+ {
+  "id": "finish-v",
+  "headword": "finish",
+  "pos": "verb",
+  "example": "I finish work at five o'clock."
+ },
+ {
+  "id": "fire-n",
+  "headword": "fire",
+  "pos": "noun",
+  "example": "It is cold, so we sit near the fire."
+ },
+ {
+  "id": "first-adj",
+  "headword": "first",
+  "pos": "adjective",
+  "example": "January is the first month of the year."
+ },
+ {
+  "id": "first-adv",
+  "headword": "first",
+  "pos": "adverb",
+  "example": "First I wash my hands, then I eat."
+ },
+ {
+  "id": "fishing-n",
+  "headword": "fishing",
+  "pos": "noun",
+  "example": "My grandpa loves fishing at the lake."
+ },
+ {
+  "id": "flag-n",
+  "headword": "flag",
+  "pos": "noun",
+  "example": "The French flag is blue, white and red."
+ },
+ {
+  "id": "flat-n",
+  "headword": "flat",
+  "pos": "noun",
+  "example": "I live in a small flat in the city."
+ },
+ {
+  "id": "floor-n",
+  "headword": "floor",
+  "pos": "noun",
+  "example": "The cat sleeps on the floor."
+ },
+ {
+  "id": "flower-n",
+  "headword": "flower",
+  "pos": "noun",
+  "example": "This red flower smells very nice."
+ },
+ {
+  "id": "fly-n",
+  "headword": "fly",
+  "pos": "noun",
+  "example": "There is a fly on my food."
+ },
+ {
+  "id": "fly-v",
+  "headword": "fly",
+  "pos": "verb",
+  "example": "Birds fly in the sky."
+ },
+ {
+  "id": "focus-v",
+  "headword": "focus",
+  "pos": "verb",
+  "example": "Please be quiet. I want to focus on my homework."
+ },
+ {
+  "id": "foggy-adj",
+  "headword": "foggy",
+  "pos": "adjective",
+  "example": "It is foggy today, so I can't see the trees."
+ },
+ {
+  "id": "following-adj",
+  "headword": "following",
+  "pos": "adjective",
+  "example": "Read the following sentences."
+ },
+ {
+  "id": "football-n",
+  "headword": "football",
+  "pos": "noun",
+  "example": "We play football in the park on Sundays."
+ },
+ {
+  "id": "for-prep",
+  "headword": "for",
+  "pos": "preposition",
+  "example": "This present is for you."
+ },
+ {
+  "id": "foreign-adj",
+  "headword": "foreign",
+  "pos": "adjective",
+  "example": "Italian is a foreign language for me."
+ },
+ {
+  "id": "foreigner-n",
+  "headword": "foreigner",
+  "pos": "noun",
+  "example": "He is a foreigner. He is from Japan."
+ },
+ {
+  "id": "forget-v",
+  "headword": "forget",
+  "pos": "verb",
+  "example": "I often forget my umbrella at home."
+ },
+ {
+  "id": "form-n",
+  "headword": "form",
+  "pos": "noun",
+  "example": "Please write your name on this form."
+ },
+ {
+  "id": "free-adj",
+  "headword": "free",
+  "pos": "adjective",
+  "example": "The museum is free on Sundays. You don't pay."
+ },
+ {
+  "id": "friday-n",
+  "headword": "Friday",
+  "pos": "noun",
+  "example": "Friday is the day after Thursday."
+ },
+ {
+  "id": "friend-n",
+  "headword": "friend",
+  "pos": "noun",
+  "example": "Anna is my best friend."
+ },
+ {
+  "id": "frog-n",
+  "headword": "frog",
+  "pos": "noun",
+  "example": "The green frog jumps into the water."
+ },
+ {
+  "id": "front-adj",
+  "headword": "front",
+  "pos": "adjective",
+  "example": "I always sit in the front seat of the car."
+ },
+ {
+  "id": "fruit-n",
+  "headword": "fruit",
+  "pos": "noun",
+  "example": "Apples and bananas are fruit."
+ },
+ {
+  "id": "full-adj",
+  "headword": "full",
+  "pos": "adjective",
+  "example": "The bus is full. There are no free seats."
+ },
+ {
+  "id": "fun-adj",
+  "headword": "fun",
+  "pos": "adjective",
+  "example": "Our teacher is fun and we laugh a lot."
+ },
+ {
+  "id": "fun-n",
+  "headword": "fun",
+  "pos": "noun",
+  "example": "We have a lot of fun at the beach."
+ },
+ {
+  "id": "funny-adj",
+  "headword": "funny",
+  "pos": "adjective",
+  "example": "This film is very funny. We laugh all the time."
+ },
+ {
+  "id": "future-n",
+  "headword": "future",
+  "pos": "noun",
+  "example": "In the future, I want to be a doctor."
+ },
+ {
+  "id": "game-n",
+  "headword": "game",
+  "pos": "noun",
+  "example": "Chess is my favorite game."
+ },
+ {
+  "id": "garbage-n",
+  "headword": "garbage",
+  "pos": "noun",
+  "example": "Please put the garbage in the bin."
+ },
+ {
+  "id": "garden-n",
+  "headword": "garden",
+  "pos": "noun",
+  "example": "We have flowers and a tree in our garden."
+ },
+ {
+  "id": "ghost-n",
+  "headword": "ghost",
+  "pos": "noun",
+  "example": "The children are afraid of the ghost in the story."
+ },
+ {
+  "id": "gift-n",
+  "headword": "gift",
+  "pos": "noun",
+  "example": "I buy a gift for my mother's birthday."
+ },
+ {
+  "id": "girl-n",
+  "headword": "girl",
+  "pos": "noun",
+  "example": "The little girl plays with her doll."
+ },
+ {
+  "id": "girlfriend-n",
+  "headword": "girlfriend",
+  "pos": "noun",
+  "example": "Tom loves his girlfriend, Sara."
+ },
+ {
+  "id": "give-v",
+  "headword": "give",
+  "pos": "verb",
+  "example": "I give my sister a book."
+ },
+ {
+  "id": "glad-adj",
+  "headword": "glad",
+  "pos": "adjective",
+  "example": "I am glad to see you again!"
+ },
+ {
+  "id": "glass-n",
+  "headword": "glass",
+  "pos": "noun",
+  "example": "Can I have a glass of water, please?"
+ },
+ {
+  "id": "glasses-n",
+  "headword": "glasses",
+  "pos": "noun",
+  "example": "I wear glasses because I can't see well."
+ },
+ {
+  "id": "go-v",
+  "headword": "go",
+  "pos": "verb",
+  "example": "I go to school by bus."
+ },
+ {
+  "id": "goal-n",
+  "headword": "goal",
+  "pos": "noun",
+  "example": "He kicks the ball and scores a goal!"
+ },
+ {
+  "id": "good-adj",
+  "headword": "good",
+  "pos": "adjective",
+  "example": "This cake is very good."
+ },
+ {
+  "id": "good-afternoon-interj",
+  "headword": "good afternoon",
+  "pos": "interjection",
+  "example": "Good afternoon! It's two o'clock."
+ },
+ {
+  "id": "good-morning-interj",
+  "headword": "good morning",
+  "pos": "interjection",
+  "example": "Good morning! Breakfast is ready."
+ },
+ {
+  "id": "good-night-interj",
+  "headword": "good night",
+  "pos": "interjection",
+  "example": "Good night, Mum. I'm going to bed."
+ },
+ {
+  "id": "grade-n",
+  "headword": "grade",
+  "pos": "noun",
+  "example": "I get a good grade in my maths test."
+ },
+ {
+  "id": "grammar-n",
+  "headword": "grammar",
+  "pos": "noun",
+  "example": "English grammar is easy for me."
+ },
+ {
+  "id": "grandfather-n",
+  "headword": "grandfather",
+  "pos": "noun",
+  "example": "My grandfather is my father's father."
+ },
+ {
+  "id": "grandma-n",
+  "headword": "grandma",
+  "pos": "noun",
+  "example": "Grandma makes cookies for us on Sundays."
+ },
+ {
+  "id": "grandmother-n",
+  "headword": "grandmother",
+  "pos": "noun",
+  "example": "My grandmother is my mother's mother."
+ },
+ {
+  "id": "grandpa-n",
+  "headword": "grandpa",
+  "pos": "noun",
+  "example": "Grandpa tells us stories in the evening."
+ }
+]

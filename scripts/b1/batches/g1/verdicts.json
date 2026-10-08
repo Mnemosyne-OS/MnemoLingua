@@ -1,0 +1,172 @@
+{
+ "decoys": {
+  "caught": 6,
+  "total": 6,
+  "missed": []
+ },
+ "toReview": 1,
+ "cards": {
+  "g3-60-1-a": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g3-60-1-b": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g3-62-1-a": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g3-62-1-b": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g3-69-1-a": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g3-69-1-b": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g3-124-a": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g3-124-b": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g3-129-a": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g3-129-b": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g3-135-a": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g3-135-b": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g3-139-1-a": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g3-139-1-b": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g3-141-1-a": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g3-141-1-b": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g3-12-a": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g3-12-b": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g3-23-a": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g3-23-b": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g3-29-a": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g3-29-b": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g3-34-a": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g3-34-b": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g3-89-a": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g3-89-b": {
+   "check": "to-review",
+   "problems": [
+    "fr example: 'ne pas encore oublier' reads as 'not forget yet'; 'again' is lost, use 'encore une fois' / 'de nouveau'"
+   ]
+  },
+  "g3-117-1-a": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g3-117-1-b": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g3-153-a": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g3-153-b": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g3-181-a": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g3-181-b": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g3-201-a": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g3-201-b": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g3-209-a": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g3-209-b": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g3-215-a": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g3-215-b": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g3-87-a": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g3-87-b": {
+   "check": "two-pass",
+   "problems": []
+  }
+ }
+}

@@ -1,0 +1,608 @@
+[
+ {
+  "id": "juice-n",
+  "headword": "juice",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "july-n",
+  "headword": "July",
+  "pos": "noun"
+ },
+ {
+  "id": "jump-v",
+  "headword": "jump",
+  "pos": "verb"
+ },
+ {
+  "id": "june-n",
+  "headword": "June",
+  "pos": "noun"
+ },
+ {
+  "id": "just-adv",
+  "headword": "just",
+  "pos": "adverb"
+ },
+ {
+  "id": "key-adj",
+  "headword": "key",
+  "pos": "adjective"
+ },
+ {
+  "id": "key-n",
+  "headword": "key",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "kick-n",
+  "headword": "kick",
+  "pos": "noun"
+ },
+ {
+  "id": "kick-v",
+  "headword": "kick",
+  "pos": "verb"
+ },
+ {
+  "id": "kid-n",
+  "headword": "kid",
+  "pos": "noun",
+  "sourceTopics": [
+   "Family life",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "kill-v",
+  "headword": "kill",
+  "pos": "verb"
+ },
+ {
+  "id": "kind-n",
+  "headword": "kind",
+  "pos": "noun"
+ },
+ {
+  "id": "king-n",
+  "headword": "king",
+  "pos": "noun",
+  "sourceTopics": [
+   "Nationalities and countries",
+   "Relations with other people"
+  ]
+ },
+ {
+  "id": "kiss-n",
+  "headword": "kiss",
+  "pos": "noun"
+ },
+ {
+  "id": "kitchen-n",
+  "headword": "kitchen",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "knee-n",
+  "headword": "knee",
+  "pos": "noun",
+  "sourceTopics": [
+   "Health and body care"
+  ]
+ },
+ {
+  "id": "knife-n",
+  "headword": "knife",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "know-v",
+  "headword": "know",
+  "pos": "verb"
+ },
+ {
+  "id": "lady-n",
+  "headword": "lady",
+  "pos": "noun",
+  "sourceTopics": [
+   "Personal information",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "language-n",
+  "headword": "language",
+  "pos": "noun",
+  "sourceTopics": [
+   "Nationalities and countries",
+   "Language"
+  ]
+ },
+ {
+  "id": "large-adj",
+  "headword": "large",
+  "pos": "adjective"
+ },
+ {
+  "id": "last-name-n",
+  "headword": "last name",
+  "pos": "noun"
+ },
+ {
+  "id": "late-adj",
+  "headword": "late",
+  "pos": "adjective"
+ },
+ {
+  "id": "late-adv",
+  "headword": "late",
+  "pos": "adverb"
+ },
+ {
+  "id": "later-adv",
+  "headword": "later",
+  "pos": "adverb"
+ },
+ {
+  "id": "lazy-adj",
+  "headword": "lazy",
+  "pos": "adjective"
+ },
+ {
+  "id": "leader-n",
+  "headword": "leader",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Relations with other people"
+  ]
+ },
+ {
+  "id": "leaf-n",
+  "headword": "leaf",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping"
+  ]
+ },
+ {
+  "id": "learn-v",
+  "headword": "learn",
+  "pos": "verb"
+ },
+ {
+  "id": "leave-v",
+  "headword": "leave",
+  "pos": "verb"
+ },
+ {
+  "id": "left-adj",
+  "headword": "left",
+  "pos": "adjective"
+ },
+ {
+  "id": "leg-n",
+  "headword": "leg",
+  "pos": "noun",
+  "sourceTopics": [
+   "Health and body care"
+  ]
+ },
+ {
+  "id": "lesson-n",
+  "headword": "lesson",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Education"
+  ]
+ },
+ {
+  "id": "let-v",
+  "headword": "let",
+  "pos": "verb"
+ },
+ {
+  "id": "letter-n",
+  "headword": "letter",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Services"
+  ]
+ },
+ {
+  "id": "life-n",
+  "headword": "life",
+  "pos": "noun"
+ },
+ {
+  "id": "light-adj",
+  "headword": "light",
+  "pos": "adjective"
+ },
+ {
+  "id": "light-n",
+  "headword": "light",
+  "pos": "noun",
+  "sourceTopics": [
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "like-prep",
+  "headword": "like",
+  "pos": "preposition"
+ },
+ {
+  "id": "like-v",
+  "headword": "like",
+  "pos": "verb"
+ },
+ {
+  "id": "lily-n",
+  "headword": "lily",
+  "pos": "noun"
+ },
+ {
+  "id": "line-n",
+  "headword": "line",
+  "pos": "noun"
+ },
+ {
+  "id": "lion-n",
+  "headword": "lion",
+  "pos": "noun"
+ },
+ {
+  "id": "list-n",
+  "headword": "list",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms"
+  ]
+ },
+ {
+  "id": "listen-v",
+  "headword": "listen",
+  "pos": "verb"
+ },
+ {
+  "id": "little-adv",
+  "headword": "little",
+  "pos": "adverb"
+ },
+ {
+  "id": "live-v",
+  "headword": "live",
+  "pos": "verb"
+ },
+ {
+  "id": "living-adj",
+  "headword": "living",
+  "pos": "adjective"
+ },
+ {
+  "id": "living-room-n",
+  "headword": "living room",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "lonely-adj",
+  "headword": "lonely",
+  "pos": "adjective"
+ },
+ {
+  "id": "long-adj",
+  "headword": "long",
+  "pos": "adjective"
+ },
+ {
+  "id": "look-n",
+  "headword": "look",
+  "pos": "noun"
+ },
+ {
+  "id": "look-v",
+  "headword": "look",
+  "pos": "verb"
+ },
+ {
+  "id": "lot-adv",
+  "headword": "lot",
+  "pos": "adverb"
+ },
+ {
+  "id": "lot-pron",
+  "headword": "lot",
+  "pos": "pronoun"
+ },
+ {
+  "id": "love-v",
+  "headword": "love",
+  "pos": "verb"
+ },
+ {
+  "id": "lovely-adj",
+  "headword": "lovely",
+  "pos": "adjective"
+ },
+ {
+  "id": "luck-n",
+  "headword": "luck",
+  "pos": "noun"
+ },
+ {
+  "id": "lucky-adj",
+  "headword": "lucky",
+  "pos": "adjective"
+ },
+ {
+  "id": "lunch-n",
+  "headword": "lunch",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "m-be",
+  "headword": "'m",
+  "pos": "be-verb"
+ },
+ {
+  "id": "machine-n",
+  "headword": "machine",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Daily life"
+  ]
+ },
+ {
+  "id": "magazine-n",
+  "headword": "magazine",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "mail-n",
+  "headword": "mail",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Services"
+  ]
+ },
+ {
+  "id": "make-v",
+  "headword": "make",
+  "pos": "verb"
+ },
+ {
+  "id": "many-det",
+  "headword": "many",
+  "pos": "determiner"
+ },
+ {
+  "id": "many-pron",
+  "headword": "many",
+  "pos": "pronoun"
+ },
+ {
+  "id": "map-n",
+  "headword": "map",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Travel"
+  ]
+ },
+ {
+  "id": "march-n",
+  "headword": "March",
+  "pos": "noun"
+ },
+ {
+  "id": "match-n",
+  "headword": "match",
+  "pos": "noun",
+  "sourceTopics": [
+   "Hobbies and pastimes",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "math-n",
+  "headword": "math",
+  "pos": "noun",
+  "variants": [
+   "maths"
+  ],
+  "sourceTopics": [
+   "Education",
+   "Education"
+  ]
+ },
+ {
+  "id": "matter-n",
+  "headword": "matter",
+  "pos": "noun"
+ },
+ {
+  "id": "may-modal",
+  "headword": "may",
+  "pos": "modal auxiliary"
+ },
+ {
+  "id": "may-n",
+  "headword": "May",
+  "pos": "noun"
+ },
+ {
+  "id": "maybe-adv",
+  "headword": "maybe",
+  "pos": "adverb"
+ },
+ {
+  "id": "meal-n",
+  "headword": "meal",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "mean-v",
+  "headword": "mean",
+  "pos": "verb"
+ },
+ {
+  "id": "meat-n",
+  "headword": "meat",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "medicine-n",
+  "headword": "medicine",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel and services vocab",
+   "Health and body care"
+  ]
+ },
+ {
+  "id": "meet-v",
+  "headword": "meet",
+  "pos": "verb"
+ },
+ {
+  "id": "meeting-n",
+  "headword": "meeting",
+  "pos": "noun",
+  "sourceTopics": [
+   "Relations with other people"
+  ]
+ },
+ {
+  "id": "memory-n",
+  "headword": "memory",
+  "pos": "noun"
+ },
+ {
+  "id": "merry-adj",
+  "headword": "merry",
+  "pos": "adjective"
+ },
+ {
+  "id": "message-n",
+  "headword": "message",
+  "pos": "noun",
+  "sourceTopics": [
+   "Media",
+   "Services"
+  ]
+ },
+ {
+  "id": "middle-adj",
+  "headword": "middle",
+  "pos": "adjective"
+ },
+ {
+  "id": "mind-n",
+  "headword": "mind",
+  "pos": "noun"
+ },
+ {
+  "id": "mine-pron",
+  "headword": "mine",
+  "pos": "pronoun"
+ },
+ {
+  "id": "minute-n",
+  "headword": "minute",
+  "pos": "noun"
+ },
+ {
+  "id": "miss-n",
+  "headword": "Miss",
+  "pos": "noun",
+  "sourceTopics": [
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "miss-v",
+  "headword": "miss",
+  "pos": "verb"
+ },
+ {
+  "id": "mobile-n",
+  "headword": "mobile",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "mobile-phone-n",
+  "headword": "mobile phone",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "mom-n",
+  "headword": "mom",
+  "pos": "noun",
+  "sourceTopics": [
+   "Family life",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "moment-n",
+  "headword": "moment",
+  "pos": "noun"
+ },
+ {
+  "id": "mommy-n",
+  "headword": "mommy",
+  "pos": "noun",
+  "variants": [
+   "mommie"
+  ]
+ }
+]

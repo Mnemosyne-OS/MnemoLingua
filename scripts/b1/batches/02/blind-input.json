@@ -1,0 +1,572 @@
+[
+ {
+  "id": "anger-n",
+  "headword": "anger",
+  "pos": "noun",
+  "example": "He couldn't hide his anger when he saw the broken window."
+ },
+ {
+  "id": "angle-n",
+  "headword": "angle",
+  "pos": "noun",
+  "example": "The two lines meet at an angle of ninety degrees."
+ },
+ {
+  "id": "animated-adj",
+  "headword": "animated",
+  "pos": "adjective",
+  "example": "The students had an animated discussion about the film."
+ },
+ {
+  "id": "animation-n",
+  "headword": "animation",
+  "pos": "noun",
+  "example": "She wants to study animation and make cartoons for children."
+ },
+ {
+  "id": "announce-v",
+  "headword": "announce",
+  "pos": "verb",
+  "example": "The pilot will announce when we can take off our seat belts."
+ },
+ {
+  "id": "announcement-n",
+  "headword": "announcement",
+  "pos": "noun",
+  "example": "There was an announcement that our train was late."
+ },
+ {
+  "id": "annoyance-n",
+  "headword": "annoyance",
+  "pos": "noun",
+  "example": "To my annoyance, the bus left just before I arrived."
+ },
+ {
+  "id": "annoyed-adj",
+  "headword": "annoyed",
+  "pos": "adjective",
+  "example": "My mother was annoyed because I forgot to call her."
+ },
+ {
+  "id": "annual-adj",
+  "headword": "annual",
+  "pos": "adjective",
+  "example": "The annual music festival takes place every July."
+ },
+ {
+  "id": "annually-adv",
+  "headword": "annually",
+  "pos": "adverb",
+  "example": "The company checks all its machines annually."
+ },
+ {
+  "id": "ant-n",
+  "headword": "ant",
+  "pos": "noun",
+  "example": "There are ants all over the kitchen because of the sugar."
+ },
+ {
+  "id": "anti-adj",
+  "headword": "anti",
+  "pos": "adjective",
+  "example": "She liked the plan, but her husband was anti."
+ },
+ {
+  "id": "antique-n",
+  "headword": "antique",
+  "pos": "noun",
+  "example": "This old table is an antique from the eighteenth century."
+ },
+ {
+  "id": "antonym-n",
+  "headword": "antonym",
+  "pos": "noun",
+  "example": "\"Hot\" is the antonym of \"cold\"."
+ },
+ {
+  "id": "anxiety-n",
+  "headword": "anxiety",
+  "pos": "noun",
+  "example": "Many students feel anxiety before their exams."
+ },
+ {
+  "id": "anxiously-adv",
+  "headword": "anxiously",
+  "pos": "adverb",
+  "example": "We waited anxiously for news from the hospital."
+ },
+ {
+  "id": "anyhow-adv",
+  "headword": "anyhow",
+  "pos": "adverb",
+  "example": "The tickets were expensive, but we went to the concert anyhow."
+ },
+ {
+  "id": "ape-n",
+  "headword": "ape",
+  "pos": "noun",
+  "example": "A gorilla is a large ape that lives in Africa."
+ },
+ {
+  "id": "apology-n",
+  "headword": "apology",
+  "pos": "noun",
+  "example": "I owe you an apology for being late yesterday."
+ },
+ {
+  "id": "apparent-adj",
+  "headword": "apparent",
+  "pos": "adjective",
+  "example": "It was apparent that she was tired, so we left early."
+ },
+ {
+  "id": "appeal-n",
+  "headword": "appeal",
+  "pos": "noun",
+  "example": "The police made an appeal for people who saw the accident."
+ },
+ {
+  "id": "appetite-n",
+  "headword": "appetite",
+  "pos": "noun",
+  "example": "I was ill and had no appetite for two days."
+ },
+ {
+  "id": "applaud-v",
+  "headword": "applaud",
+  "pos": "verb",
+  "example": "The audience stood up to applaud the singer."
+ },
+ {
+  "id": "applause-n",
+  "headword": "applause",
+  "pos": "noun",
+  "example": "The applause continued for several minutes after the show."
+ },
+ {
+  "id": "application-n",
+  "headword": "application",
+  "pos": "noun",
+  "example": "I sent my job application to five different companies."
+ },
+ {
+  "id": "appoint-v",
+  "headword": "appoint",
+  "pos": "verb",
+  "example": "The company appointed a new manager last month."
+ },
+ {
+  "id": "appreciation-n",
+  "headword": "appreciation",
+  "pos": "noun",
+  "example": "We gave our teacher flowers to show our appreciation."
+ },
+ {
+  "id": "approach-n",
+  "headword": "approach",
+  "pos": "noun",
+  "example": "We need a different approach to solve this problem."
+ },
+ {
+  "id": "approval-n",
+  "headword": "approval",
+  "pos": "noun",
+  "example": "You need your parents' approval to go on the school trip."
+ },
+ {
+  "id": "approve-v",
+  "headword": "approve",
+  "pos": "verb",
+  "example": "The bank approved our loan for the new house."
+ },
+ {
+  "id": "approximately-adv",
+  "headword": "approximately",
+  "pos": "adverb",
+  "example": "The journey takes approximately two hours by train."
+ },
+ {
+  "id": "architect-n",
+  "headword": "architect",
+  "pos": "noun",
+  "example": "The architect showed us the plans for our new house."
+ },
+ {
+  "id": "arise-v",
+  "headword": "arise",
+  "pos": "verb",
+  "example": "Call me if any problems arise while I'm away."
+ },
+ {
+  "id": "arithmetic-n",
+  "headword": "arithmetic",
+  "pos": "noun",
+  "example": "My little brother is good at arithmetic but bad at spelling."
+ },
+ {
+  "id": "arm-v",
+  "headword": "arm",
+  "pos": "verb",
+  "example": "The guards at the bank are armed with guns."
+ },
+ {
+  "id": "army-n",
+  "headword": "army",
+  "pos": "noun",
+  "example": "My grandfather was a soldier in the army for twenty years."
+ },
+ {
+  "id": "arrange-v",
+  "headword": "arrange",
+  "pos": "verb",
+  "example": "Can you arrange a meeting with the director for Monday?"
+ },
+ {
+  "id": "arrangement-n",
+  "headword": "arrangement",
+  "pos": "noun",
+  "example": "We made an arrangement to meet at the station at six."
+ },
+ {
+  "id": "arrest-n",
+  "headword": "arrest",
+  "pos": "noun",
+  "example": "The police made two arrests after the fight."
+ },
+ {
+  "id": "arrest-v",
+  "headword": "arrest",
+  "pos": "verb",
+  "example": "The police arrested the man for stealing a car."
+ },
+ {
+  "id": "arrival-n",
+  "headword": "arrival",
+  "pos": "noun",
+  "example": "Please call us on your arrival at the airport."
+ },
+ {
+  "id": "arrow-n",
+  "headword": "arrow",
+  "pos": "noun",
+  "example": "Follow the arrows on the floor to find the exit."
+ },
+ {
+  "id": "artist-n",
+  "headword": "artist",
+  "pos": "noun",
+  "example": "The artist painted a picture of the old harbour."
+ },
+ {
+  "id": "artistic-adj",
+  "headword": "artistic",
+  "pos": "adjective",
+  "example": "My sister is very artistic; she draws and paints beautifully."
+ },
+ {
+  "id": "ashamed-adj",
+  "headword": "ashamed",
+  "pos": "adjective",
+  "example": "He felt ashamed of lying to his best friend."
+ },
+ {
+  "id": "aside-adv",
+  "headword": "aside",
+  "pos": "adverb",
+  "example": "She stepped aside to let the old man pass."
+ },
+ {
+  "id": "aspect-n",
+  "headword": "aspect",
+  "pos": "noun",
+  "example": "The price is the most important aspect for me."
+ },
+ {
+  "id": "aspirin-n",
+  "headword": "aspirin",
+  "pos": "noun",
+  "example": "I took an aspirin because I had a headache."
+ },
+ {
+  "id": "assign-v",
+  "headword": "assign",
+  "pos": "verb",
+  "example": "The teacher assigned each student a different topic."
+ },
+ {
+  "id": "assignment-n",
+  "headword": "assignment",
+  "pos": "noun",
+  "example": "I have to finish my history assignment by Friday."
+ },
+ {
+  "id": "assist-v",
+  "headword": "assist",
+  "pos": "verb",
+  "example": "The nurse will assist the doctor during the operation."
+ },
+ {
+  "id": "assistance-n",
+  "headword": "assistance",
+  "pos": "noun",
+  "example": "If you need any assistance, please ask at the desk."
+ },
+ {
+  "id": "assistant-n",
+  "headword": "assistant",
+  "pos": "noun",
+  "example": "The shop assistant helped me find a jacket in my size."
+ },
+ {
+  "id": "associate-v",
+  "headword": "associate",
+  "pos": "verb",
+  "example": "Many people associate summer with the beach."
+ },
+ {
+  "id": "assume-v",
+  "headword": "assume",
+  "pos": "verb",
+  "example": "I assume you are hungry after your long journey."
+ },
+ {
+  "id": "astronomer-n",
+  "headword": "astronomer",
+  "pos": "noun",
+  "example": "The astronomer studies the stars with a big telescope."
+ },
+ {
+  "id": "athletic-adj",
+  "headword": "athletic",
+  "pos": "adjective",
+  "example": "He is tall and athletic and plays several sports."
+ },
+ {
+  "id": "atlantic-adj",
+  "headword": "Atlantic",
+  "pos": "adjective",
+  "example": "We crossed the Atlantic Ocean by ship."
+ },
+ {
+  "id": "atmosphere-n",
+  "headword": "atmosphere",
+  "pos": "noun",
+  "example": "The restaurant has a warm and friendly atmosphere."
+ },
+ {
+  "id": "atomic-adj",
+  "headword": "atomic",
+  "pos": "adjective",
+  "example": "The city was destroyed by an atomic bomb in 1945."
+ },
+ {
+  "id": "attach-v",
+  "headword": "attach",
+  "pos": "verb",
+  "example": "Please attach a photo to your application form."
+ },
+ {
+  "id": "attachment-n",
+  "headword": "attachment",
+  "pos": "noun",
+  "example": "I sent the photos as an attachment to my email."
+ },
+ {
+  "id": "attain-v",
+  "headword": "attain",
+  "pos": "verb",
+  "example": "She worked hard to attain her goal of becoming a doctor."
+ },
+ {
+  "id": "attempt-v",
+  "headword": "attempt",
+  "pos": "verb",
+  "example": "He attempted to swim across the lake, but it was too far."
+ },
+ {
+  "id": "attend-v",
+  "headword": "attend",
+  "pos": "verb",
+  "example": "More than a hundred people attended the wedding."
+ },
+ {
+  "id": "attract-v",
+  "headword": "attract",
+  "pos": "verb",
+  "example": "The beautiful beaches attract many tourists every summer."
+ },
+ {
+  "id": "attraction-n",
+  "headword": "attraction",
+  "pos": "noun",
+  "example": "The castle is the main tourist attraction in the town."
+ },
+ {
+  "id": "authority-n",
+  "headword": "authority",
+  "pos": "noun",
+  "example": "Only the manager has the authority to give refunds."
+ },
+ {
+  "id": "auxiliary-adj",
+  "headword": "auxiliary",
+  "pos": "adjective",
+  "example": "In \"I have eaten\", \"have\" is an auxiliary verb."
+ },
+ {
+  "id": "available-adj",
+  "headword": "available",
+  "pos": "adjective",
+  "example": "Is this dress available in a smaller size?"
+ },
+ {
+  "id": "avenue-n",
+  "headword": "avenue",
+  "pos": "noun",
+  "example": "There are many expensive shops along this avenue."
+ },
+ {
+  "id": "award-v",
+  "headword": "award",
+  "pos": "verb",
+  "example": "The school will award a prize to the best student."
+ },
+ {
+  "id": "aware-adj",
+  "headword": "aware",
+  "pos": "adjective",
+  "example": "Are you aware that the shop closes early today?"
+ },
+ {
+  "id": "awareness-n",
+  "headword": "awareness",
+  "pos": "noun",
+  "example": "The campaign wants to increase awareness of the dangers of smoking."
+ },
+ {
+  "id": "awesome-adj",
+  "headword": "awesome",
+  "pos": "adjective",
+  "example": "The fireworks last night were awesome!"
+ },
+ {
+  "id": "awkward-adj",
+  "headword": "awkward",
+  "pos": "adjective",
+  "example": "There was an awkward silence after he told the bad joke."
+ },
+ {
+  "id": "babysit-v",
+  "headword": "babysit",
+  "pos": "verb",
+  "example": "I sometimes babysit my neighbour's children on Saturday evenings."
+ },
+ {
+  "id": "babysitter-n",
+  "headword": "babysitter",
+  "pos": "noun",
+  "example": "We need a babysitter so we can go to the cinema."
+ },
+ {
+  "id": "back-v",
+  "headword": "back",
+  "pos": "verb",
+  "example": "All my friends backed me when I decided to change jobs."
+ },
+ {
+  "id": "backache-n",
+  "headword": "backache",
+  "pos": "noun",
+  "example": "Sitting at a computer all day gives me backache."
+ },
+ {
+  "id": "backpack-n",
+  "headword": "backpack",
+  "pos": "noun",
+  "example": "I carry my books and laptop in a backpack."
+ },
+ {
+  "id": "backpacker-n",
+  "headword": "backpacker",
+  "pos": "noun",
+  "example": "The hostel was full of young backpackers from many countries."
+ },
+ {
+  "id": "backpacking-n",
+  "headword": "backpacking",
+  "pos": "noun",
+  "example": "Backpacking is a cheap way to travel around Europe."
+ },
+ {
+  "id": "bacon-n",
+  "headword": "bacon",
+  "pos": "noun",
+  "example": "I had eggs and bacon for breakfast this morning."
+ },
+ {
+  "id": "baggage-n",
+  "headword": "baggage",
+  "pos": "noun",
+  "example": "You can collect your baggage after you leave the plane."
+ },
+ {
+  "id": "baker-n",
+  "headword": "baker",
+  "pos": "noun",
+  "example": "The baker gets up at four to make fresh bread."
+ },
+ {
+  "id": "bakery-n",
+  "headword": "bakery",
+  "pos": "noun",
+  "example": "I buy fresh bread at the bakery every morning."
+ },
+ {
+  "id": "balance-n",
+  "headword": "balance",
+  "pos": "noun",
+  "example": "I lost my balance and fell off my bike."
+ },
+ {
+  "id": "bald-adj",
+  "headword": "bald",
+  "pos": "adjective",
+  "example": "My father started to go bald when he was thirty."
+ },
+ {
+  "id": "bandage-n",
+  "headword": "bandage",
+  "pos": "noun",
+  "example": "The nurse put a bandage on my injured arm."
+ },
+ {
+  "id": "bang-n",
+  "headword": "bang",
+  "pos": "noun",
+  "example": "We heard a loud bang when the tyre exploded."
+ },
+ {
+  "id": "bang-v",
+  "headword": "bang",
+  "pos": "verb",
+  "example": "He banged on the door until someone opened it."
+ },
+ {
+  "id": "bank-account-n",
+  "headword": "bank account",
+  "pos": "noun",
+  "example": "My salary goes into my bank account at the end of the month."
+ },
+ {
+  "id": "bar-v",
+  "headword": "bar",
+  "pos": "verb",
+  "example": "The club will bar anyone who breaks the rules."
+ },
+ {
+  "id": "barbecue-v",
+  "headword": "barbecue",
+  "pos": "verb",
+  "example": "On sunny days we barbecue sausages in the garden."
+ }
+]

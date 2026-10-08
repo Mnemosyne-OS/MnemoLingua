@@ -1,0 +1,572 @@
+[
+ {
+  "id": "a-m-adv",
+  "headword": "a.m.",
+  "pos": "adverb",
+  "example": "I get up at 7 a.m. every day."
+ },
+ {
+  "id": "about-adv",
+  "headword": "about",
+  "pos": "adverb",
+  "example": "I have about ten books."
+ },
+ {
+  "id": "about-prep",
+  "headword": "about",
+  "pos": "preposition",
+  "example": "This book is about cats."
+ },
+ {
+  "id": "above-adv",
+  "headword": "above",
+  "pos": "adverb",
+  "example": "My friend lives in the flat above."
+ },
+ {
+  "id": "above-prep",
+  "headword": "above",
+  "pos": "preposition",
+  "example": "The lamp is above the table."
+ },
+ {
+  "id": "action-n",
+  "headword": "action",
+  "pos": "noun",
+  "example": "Good actions make people happy."
+ },
+ {
+  "id": "activity-n",
+  "headword": "activity",
+  "pos": "noun",
+  "example": "Swimming is my favourite activity."
+ },
+ {
+  "id": "actor-n",
+  "headword": "actor",
+  "pos": "noun",
+  "example": "The actor is in a new film."
+ },
+ {
+  "id": "add-v",
+  "headword": "add",
+  "pos": "verb",
+  "example": "Add some milk to your tea."
+ },
+ {
+  "id": "address-n",
+  "headword": "address",
+  "pos": "noun",
+  "example": "What is your address?"
+ },
+ {
+  "id": "after-prep",
+  "headword": "after",
+  "pos": "preposition",
+  "example": "We play football after school."
+ },
+ {
+  "id": "afternoon-n",
+  "headword": "afternoon",
+  "pos": "noun",
+  "example": "I sleep in the afternoon."
+ },
+ {
+  "id": "again-adv",
+  "headword": "again",
+  "pos": "adverb",
+  "example": "Please say that again."
+ },
+ {
+  "id": "age-n",
+  "headword": "age",
+  "pos": "noun",
+  "example": "Write your name and age here."
+ },
+ {
+  "id": "ago-adv",
+  "headword": "ago",
+  "pos": "adverb",
+  "example": "I met her two years ago."
+ },
+ {
+  "id": "agree-v",
+  "headword": "agree",
+  "pos": "verb",
+  "example": "I agree with you."
+ },
+ {
+  "id": "airplane-n",
+  "headword": "airplane",
+  "pos": "noun",
+  "example": "The airplane flies to London."
+ },
+ {
+  "id": "airport-n",
+  "headword": "airport",
+  "pos": "noun",
+  "example": "We take a taxi to the airport."
+ },
+ {
+  "id": "album-n",
+  "headword": "album",
+  "pos": "noun",
+  "example": "Our family photos are in this album."
+ },
+ {
+  "id": "all-det",
+  "headword": "all",
+  "pos": "determiner",
+  "example": "All my friends like music."
+ },
+ {
+  "id": "all-right-adj",
+  "headword": "all right",
+  "pos": "adjective",
+  "example": "Are you all right? Yes, I am fine."
+ },
+ {
+  "id": "all-right-adv",
+  "headword": "all right",
+  "pos": "adverb",
+  "example": "The computer works all right now."
+ },
+ {
+  "id": "almost-adv",
+  "headword": "almost",
+  "pos": "adverb",
+  "example": "It is almost ten o'clock."
+ },
+ {
+  "id": "alone-adv",
+  "headword": "alone",
+  "pos": "adverb",
+  "example": "My grandmother lives alone."
+ },
+ {
+  "id": "along-adv",
+  "headword": "along",
+  "pos": "adverb",
+  "example": "Bring your dog along to the park."
+ },
+ {
+  "id": "already-adv",
+  "headword": "already",
+  "pos": "adverb",
+  "example": "I already have a ticket."
+ },
+ {
+  "id": "also-adv",
+  "headword": "also",
+  "pos": "adverb",
+  "example": "I speak French. I also speak English."
+ },
+ {
+  "id": "always-adv",
+  "headword": "always",
+  "pos": "adverb",
+  "example": "I always drink coffee in the morning."
+ },
+ {
+  "id": "am-be",
+  "headword": "am",
+  "pos": "be-verb",
+  "example": "I am a student."
+ },
+ {
+  "id": "an-det",
+  "headword": "an",
+  "pos": "determiner",
+  "example": "I eat an apple every day."
+ },
+ {
+  "id": "angry-adj",
+  "headword": "angry",
+  "pos": "adjective",
+  "example": "My mum is angry because I am late."
+ },
+ {
+  "id": "animal-n",
+  "headword": "animal",
+  "pos": "noun",
+  "example": "A cat is a small animal."
+ },
+ {
+  "id": "another-det",
+  "headword": "another",
+  "pos": "determiner",
+  "example": "Can I have another cup of tea?"
+ },
+ {
+  "id": "answer-n",
+  "headword": "answer",
+  "pos": "noun",
+  "example": "I know the answer to this question."
+ },
+ {
+  "id": "answer-v",
+  "headword": "answer",
+  "pos": "verb",
+  "example": "Please answer the teacher's question."
+ },
+ {
+  "id": "any-det",
+  "headword": "any",
+  "pos": "determiner",
+  "example": "Do you have any brothers?"
+ },
+ {
+  "id": "any-pron",
+  "headword": "any",
+  "pos": "pronoun",
+  "example": "I want a biscuit, but there aren't any."
+ },
+ {
+  "id": "anybody-pron",
+  "headword": "anybody",
+  "pos": "pronoun",
+  "example": "Is anybody at home?"
+ },
+ {
+  "id": "anyone-pron",
+  "headword": "anyone",
+  "pos": "pronoun",
+  "example": "I don't know anyone here."
+ },
+ {
+  "id": "anything-pron",
+  "headword": "anything",
+  "pos": "pronoun",
+  "example": "Do you want anything to drink?"
+ },
+ {
+  "id": "april-n",
+  "headword": "April",
+  "pos": "noun",
+  "example": "My birthday is in April."
+ },
+ {
+  "id": "apron-n",
+  "headword": "apron",
+  "pos": "noun",
+  "example": "The cook wears a white apron."
+ },
+ {
+  "id": "are-be",
+  "headword": "are",
+  "pos": "be-verb",
+  "example": "You are my best friend."
+ },
+ {
+  "id": "arm-n",
+  "headword": "arm",
+  "pos": "noun",
+  "example": "My arm hurts."
+ },
+ {
+  "id": "around-prep",
+  "headword": "around",
+  "pos": "preposition",
+  "example": "We walk around the lake."
+ },
+ {
+  "id": "arrive-v",
+  "headword": "arrive",
+  "pos": "verb",
+  "example": "The train arrives at six o'clock."
+ },
+ {
+  "id": "art-n",
+  "headword": "art",
+  "pos": "noun",
+  "example": "I love art and painting."
+ },
+ {
+  "id": "article-n",
+  "headword": "article",
+  "pos": "noun",
+  "example": "I read an article in the newspaper."
+ },
+ {
+  "id": "as-prep",
+  "headword": "as",
+  "pos": "preposition",
+  "example": "She works as a teacher."
+ },
+ {
+  "id": "ask-v",
+  "headword": "ask",
+  "pos": "verb",
+  "example": "I ask my mum where my bag is."
+ },
+ {
+  "id": "august-n",
+  "headword": "August",
+  "pos": "noun",
+  "example": "We go on holiday in August."
+ },
+ {
+  "id": "aunt-n",
+  "headword": "aunt",
+  "pos": "noun",
+  "example": "My aunt is my mother's sister."
+ },
+ {
+  "id": "autumn-n",
+  "headword": "autumn",
+  "pos": "noun",
+  "example": "The leaves fall in autumn."
+ },
+ {
+  "id": "awake-adj",
+  "headword": "awake",
+  "pos": "adjective",
+  "example": "The baby is awake and wants milk."
+ },
+ {
+  "id": "away-adv",
+  "headword": "away",
+  "pos": "adverb",
+  "example": "My grandparents live far away."
+ },
+ {
+  "id": "baby-n",
+  "headword": "baby",
+  "pos": "noun",
+  "example": "The baby sleeps in a small bed."
+ },
+ {
+  "id": "back-adv",
+  "headword": "back",
+  "pos": "adverb",
+  "example": "I come back home at five o'clock."
+ },
+ {
+  "id": "back-n",
+  "headword": "back",
+  "pos": "noun",
+  "example": "My back hurts after work."
+ },
+ {
+  "id": "bad-adj",
+  "headword": "bad",
+  "pos": "adjective",
+  "example": "The weather is bad today."
+ },
+ {
+  "id": "bag-n",
+  "headword": "bag",
+  "pos": "noun",
+  "example": "I carry the shopping in a bag."
+ },
+ {
+  "id": "banana-n",
+  "headword": "banana",
+  "pos": "noun",
+  "example": "Monkeys like to eat bananas."
+ },
+ {
+  "id": "band-n",
+  "headword": "band",
+  "pos": "noun",
+  "example": "She wears a red band in her hair."
+ },
+ {
+  "id": "bank-n",
+  "headword": "bank",
+  "pos": "noun",
+  "example": "I get money from the bank."
+ },
+ {
+  "id": "bar-n",
+  "headword": "bar",
+  "pos": "noun",
+  "example": "We drink coffee in a bar."
+ },
+ {
+  "id": "baseball-n",
+  "headword": "baseball",
+  "pos": "noun",
+  "example": "In baseball, you hit the ball with a bat."
+ },
+ {
+  "id": "basketball-n",
+  "headword": "basketball",
+  "pos": "noun",
+  "example": "My brother is tall and plays basketball."
+ },
+ {
+  "id": "bat-n",
+  "headword": "bat",
+  "pos": "noun",
+  "example": "I hit the ball with my bat."
+ },
+ {
+  "id": "bath-n",
+  "headword": "bath",
+  "pos": "noun",
+  "example": "I take a hot bath every evening."
+ },
+ {
+  "id": "bathroom-n",
+  "headword": "bathroom",
+  "pos": "noun",
+  "example": "I wash my hands in the bathroom."
+ },
+ {
+  "id": "be-be",
+  "headword": "be",
+  "pos": "be-verb",
+  "example": "I want to be a doctor."
+ },
+ {
+  "id": "bean-n",
+  "headword": "bean",
+  "pos": "noun",
+  "example": "I eat beans and rice for lunch."
+ },
+ {
+  "id": "bear-n",
+  "headword": "bear",
+  "pos": "noun",
+  "example": "A big brown bear lives in the forest."
+ },
+ {
+  "id": "beautiful-adj",
+  "headword": "beautiful",
+  "pos": "adjective",
+  "example": "The flowers in the garden are beautiful."
+ },
+ {
+  "id": "because-conj",
+  "headword": "because",
+  "pos": "conjunction",
+  "example": "I eat because I am hungry."
+ },
+ {
+  "id": "become-v",
+  "headword": "become",
+  "pos": "verb",
+  "example": "In spring, the days become longer."
+ },
+ {
+  "id": "bed-n",
+  "headword": "bed",
+  "pos": "noun",
+  "example": "I go to bed at ten o'clock."
+ },
+ {
+  "id": "bedroom-n",
+  "headword": "bedroom",
+  "pos": "noun",
+  "example": "My bed is in my bedroom."
+ },
+ {
+  "id": "bee-n",
+  "headword": "bee",
+  "pos": "noun",
+  "example": "A bee makes honey."
+ },
+ {
+  "id": "beef-n",
+  "headword": "beef",
+  "pos": "noun",
+  "example": "Beef is meat from a cow."
+ },
+ {
+  "id": "before-adv",
+  "headword": "before",
+  "pos": "adverb",
+  "example": "I have seen this film before."
+ },
+ {
+  "id": "begin-v",
+  "headword": "begin",
+  "pos": "verb",
+  "example": "School begins at nine o'clock."
+ },
+ {
+  "id": "behind-adv",
+  "headword": "behind",
+  "pos": "adverb",
+  "example": "My friends walk fast and I stay behind."
+ },
+ {
+  "id": "behind-prep",
+  "headword": "behind",
+  "pos": "preposition",
+  "example": "The cat is behind the sofa."
+ },
+ {
+  "id": "believe-v",
+  "headword": "believe",
+  "pos": "verb",
+  "example": "My little sister believes in Father Christmas."
+ },
+ {
+  "id": "bell-n",
+  "headword": "bell",
+  "pos": "noun",
+  "example": "The school bell rings at nine o'clock."
+ },
+ {
+  "id": "below-adv",
+  "headword": "below",
+  "pos": "adverb",
+  "example": "From the plane, I see the city below."
+ },
+ {
+  "id": "below-prep",
+  "headword": "below",
+  "pos": "preposition",
+  "example": "The temperature is below zero."
+ },
+ {
+  "id": "beside-prep",
+  "headword": "beside",
+  "pos": "preposition",
+  "example": "Sit beside me, please."
+ },
+ {
+  "id": "best-adj",
+  "headword": "best",
+  "pos": "adjective",
+  "example": "She is my best friend."
+ },
+ {
+  "id": "best-adv",
+  "headword": "best",
+  "pos": "adverb",
+  "example": "Of all the seasons, I like summer best."
+ },
+ {
+  "id": "between-prep",
+  "headword": "between",
+  "pos": "preposition",
+  "example": "The bank is between the shop and the school."
+ },
+ {
+  "id": "bicycle-n",
+  "headword": "bicycle",
+  "pos": "noun",
+  "example": "I ride my bicycle to school."
+ },
+ {
+  "id": "big-adj",
+  "headword": "big",
+  "pos": "adjective",
+  "example": "An elephant is a very big animal."
+ },
+ {
+  "id": "bike-n",
+  "headword": "bike",
+  "pos": "noun",
+  "example": "I go to the park on my bike."
+ },
+ {
+  "id": "bird-n",
+  "headword": "bird",
+  "pos": "noun",
+  "example": "A small bird sings in the tree."
+ }
+]

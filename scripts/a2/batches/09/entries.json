@@ -1,0 +1,555 @@
+[
+ {
+  "id": "matter-v",
+  "headword": "matter",
+  "pos": "verb"
+ },
+ {
+  "id": "max-n",
+  "headword": "max",
+  "pos": "noun"
+ },
+ {
+  "id": "mean-adj",
+  "headword": "mean",
+  "pos": "adjective"
+ },
+ {
+  "id": "meaning-n",
+  "headword": "meaning",
+  "pos": "noun"
+ },
+ {
+  "id": "medal-n",
+  "headword": "medal",
+  "pos": "noun"
+ },
+ {
+  "id": "medical-adj",
+  "headword": "medical",
+  "pos": "adjective"
+ },
+ {
+  "id": "melon-n",
+  "headword": "melon",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "member-n",
+  "headword": "member",
+  "pos": "noun",
+  "sourceTopics": [
+   "Relations with other people"
+  ]
+ },
+ {
+  "id": "mention-n",
+  "headword": "mention",
+  "pos": "noun"
+ },
+ {
+  "id": "menu-n",
+  "headword": "menu",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "metal-n",
+  "headword": "metal",
+  "pos": "noun"
+ },
+ {
+  "id": "meter-n",
+  "headword": "meter",
+  "pos": "noun",
+  "variants": [
+   "metre"
+  ]
+ },
+ {
+  "id": "method-n",
+  "headword": "method",
+  "pos": "noun"
+ },
+ {
+  "id": "midday-n",
+  "headword": "midday",
+  "pos": "noun"
+ },
+ {
+  "id": "middle-n",
+  "headword": "middle",
+  "pos": "noun"
+ },
+ {
+  "id": "midnight-n",
+  "headword": "midnight",
+  "pos": "noun"
+ },
+ {
+  "id": "might-modal",
+  "headword": "might",
+  "pos": "modal auxiliary"
+ },
+ {
+  "id": "military-adj",
+  "headword": "military",
+  "pos": "adjective"
+ },
+ {
+  "id": "mind-v",
+  "headword": "mind",
+  "pos": "verb"
+ },
+ {
+  "id": "mineral-water-n",
+  "headword": "mineral water",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "mirror-n",
+  "headword": "mirror",
+  "pos": "noun",
+  "sourceTopics": [
+   "Shopping"
+  ]
+ },
+ {
+  "id": "missing-adj",
+  "headword": "missing",
+  "pos": "adjective"
+ },
+ {
+  "id": "mistake-n",
+  "headword": "mistake",
+  "pos": "noun"
+ },
+ {
+  "id": "mix-v",
+  "headword": "mix",
+  "pos": "verb"
+ },
+ {
+  "id": "mobile-adj",
+  "headword": "mobile",
+  "pos": "adjective"
+ },
+ {
+  "id": "model-n",
+  "headword": "model",
+  "pos": "noun"
+ },
+ {
+  "id": "modern-adj",
+  "headword": "modern",
+  "pos": "adjective"
+ },
+ {
+  "id": "mood-n",
+  "headword": "mood",
+  "pos": "noun"
+ },
+ {
+  "id": "mosque-n",
+  "headword": "mosque",
+  "pos": "noun",
+  "sourceTopics": [
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "most-adv",
+  "headword": "most",
+  "pos": "adverb"
+ },
+ {
+  "id": "most-pron",
+  "headword": "most",
+  "pos": "pronoun"
+ },
+ {
+  "id": "mostly-adv",
+  "headword": "mostly",
+  "pos": "adverb"
+ },
+ {
+  "id": "motorway-n",
+  "headword": "motorway",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel"
+  ]
+ },
+ {
+  "id": "move-v",
+  "headword": "move",
+  "pos": "verb"
+ },
+ {
+  "id": "mp3-player-n",
+  "headword": "MP3 player",
+  "pos": "noun",
+  "sourceTopics": [
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "ms-n",
+  "headword": "Ms.",
+  "pos": "noun",
+  "variants": [
+   "Ms"
+  ],
+  "sourceTopics": [
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "mug-n",
+  "headword": "mug",
+  "pos": "noun",
+  "sourceTopics": [
+   "Shopping"
+  ]
+ },
+ {
+  "id": "murder-n",
+  "headword": "murder",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs",
+   "Relations with other people"
+  ]
+ },
+ {
+  "id": "museum-n",
+  "headword": "museum",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "Places"
+  ]
+ },
+ {
+  "id": "mushroom-n",
+  "headword": "mushroom",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "musical-adj",
+  "headword": "musical",
+  "pos": "adjective"
+ },
+ {
+  "id": "myself-pron",
+  "headword": "myself",
+  "pos": "pronoun"
+ },
+ {
+  "id": "mysterious-adj",
+  "headword": "mysterious",
+  "pos": "adjective"
+ },
+ {
+  "id": "mystery-n",
+  "headword": "mystery",
+  "pos": "noun"
+ },
+ {
+  "id": "napkin-n",
+  "headword": "napkin",
+  "pos": "noun"
+ },
+ {
+  "id": "nation-n",
+  "headword": "nation",
+  "pos": "noun",
+  "sourceTopics": [
+   "Nationalities and countries",
+   "Places"
+  ]
+ },
+ {
+  "id": "national-adj",
+  "headword": "national",
+  "pos": "adjective"
+ },
+ {
+  "id": "native-adj",
+  "headword": "native",
+  "pos": "adjective"
+ },
+ {
+  "id": "natural-adj",
+  "headword": "natural",
+  "pos": "adjective"
+ },
+ {
+  "id": "nature-n",
+  "headword": "nature",
+  "pos": "noun",
+  "sourceTopics": [
+   "Nationalities and countries",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "nearly-adv",
+  "headword": "nearly",
+  "pos": "adverb"
+ },
+ {
+  "id": "necessary-adj",
+  "headword": "necessary",
+  "pos": "adjective"
+ },
+ {
+  "id": "need-v",
+  "headword": "need",
+  "pos": "verb"
+ },
+ {
+  "id": "negative-adj",
+  "headword": "negative",
+  "pos": "adjective"
+ },
+ {
+  "id": "nervous-adj",
+  "headword": "nervous",
+  "pos": "adjective"
+ },
+ {
+  "id": "net-adj",
+  "headword": "net",
+  "pos": "adjective"
+ },
+ {
+  "id": "next-adv",
+  "headword": "next",
+  "pos": "adverb"
+ },
+ {
+  "id": "next-det",
+  "headword": "next",
+  "pos": "determiner"
+ },
+ {
+  "id": "next-to-prep",
+  "headword": "next to",
+  "pos": "preposition"
+ },
+ {
+  "id": "no-one-pron",
+  "headword": "no one",
+  "pos": "pronoun"
+ },
+ {
+  "id": "nobody-pron",
+  "headword": "nobody",
+  "pos": "pronoun"
+ },
+ {
+  "id": "noisy-adj",
+  "headword": "noisy",
+  "pos": "adjective"
+ },
+ {
+  "id": "noon-n",
+  "headword": "noon",
+  "pos": "noun"
+ },
+ {
+  "id": "normal-adj",
+  "headword": "normal",
+  "pos": "adjective"
+ },
+ {
+  "id": "north-adj",
+  "headword": "north",
+  "pos": "adjective"
+ },
+ {
+  "id": "north-adv",
+  "headword": "north",
+  "pos": "adverb"
+ },
+ {
+  "id": "north-n",
+  "headword": "north",
+  "pos": "noun"
+ },
+ {
+  "id": "notice-n",
+  "headword": "notice",
+  "pos": "noun"
+ },
+ {
+  "id": "noun-n",
+  "headword": "noun",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Language"
+  ]
+ },
+ {
+  "id": "novel-n",
+  "headword": "novel",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Education"
+  ]
+ },
+ {
+  "id": "nowadays-adv",
+  "headword": "nowadays",
+  "pos": "adverb"
+ },
+ {
+  "id": "oak-n",
+  "headword": "oak",
+  "pos": "noun"
+ },
+ {
+  "id": "occupation-n",
+  "headword": "occupation",
+  "pos": "noun",
+  "sourceTopics": [
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "off-adv",
+  "headword": "off",
+  "pos": "adverb"
+ },
+ {
+  "id": "offer-n",
+  "headword": "offer",
+  "pos": "noun"
+ },
+ {
+  "id": "offer-v",
+  "headword": "offer",
+  "pos": "verb"
+ },
+ {
+  "id": "official-adj",
+  "headword": "official",
+  "pos": "adjective"
+ },
+ {
+  "id": "oil-n",
+  "headword": "oil",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Services"
+  ]
+ },
+ {
+  "id": "olive-oil-n",
+  "headword": "olive oil",
+  "pos": "noun"
+ },
+ {
+  "id": "olympic-adj",
+  "headword": "Olympic",
+  "pos": "adjective"
+ },
+ {
+  "id": "omelet-n",
+  "headword": "omelet",
+  "pos": "noun",
+  "variants": [
+   "omelette"
+  ],
+  "sourceTopics": [
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "on-adv",
+  "headword": "on",
+  "pos": "adverb"
+ },
+ {
+  "id": "one-pron",
+  "headword": "one",
+  "pos": "pronoun"
+ },
+ {
+  "id": "onion-n",
+  "headword": "onion",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "online-adj",
+  "headword": "online",
+  "pos": "adjective"
+ },
+ {
+  "id": "online-adv",
+  "headword": "online",
+  "pos": "adverb"
+ },
+ {
+  "id": "operate-v",
+  "headword": "operate",
+  "pos": "verb"
+ },
+ {
+  "id": "opinion-n",
+  "headword": "opinion",
+  "pos": "noun"
+ },
+ {
+  "id": "opportunity-n",
+  "headword": "opportunity",
+  "pos": "noun"
+ },
+ {
+  "id": "oppose-v",
+  "headword": "oppose",
+  "pos": "verb"
+ },
+ {
+  "id": "opposite-adj",
+  "headword": "opposite",
+  "pos": "adjective"
+ },
+ {
+  "id": "opposite-prep",
+  "headword": "opposite",
+  "pos": "preposition"
+ },
+ {
+  "id": "order-v",
+  "headword": "order",
+  "pos": "verb"
+ },
+ {
+  "id": "organize-v",
+  "headword": "organize",
+  "pos": "verb",
+  "variants": [
+   "organise"
+  ]
+ }
+]

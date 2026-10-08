@@ -1,0 +1,170 @@
+[
+ {
+  "id": "g2-64-1-a",
+  "headword": "TENSE/ASPECT: PAST (BE)",
+  "pos": "grammar (NEG. DEC.)",
+  "example": "I wasn't at home last night."
+ },
+ {
+  "id": "g2-64-1-b",
+  "headword": "TENSE/ASPECT: PAST (BE)",
+  "pos": "grammar (NEG. DEC.)",
+  "example": "The shops weren't open on Sunday morning."
+ },
+ {
+  "id": "g2-69-a",
+  "headword": "TENSE/ASPECT: FUTURE",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "I will call you tomorrow evening."
+ },
+ {
+  "id": "g2-69-b",
+  "headword": "TENSE/ASPECT: FUTURE",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "The train will arrive at ten o'clock."
+ },
+ {
+  "id": "g2-65-1-a",
+  "headword": "TENSE/ASPECT: PRESENT (lexical verbs)",
+  "pos": "grammar (NEG. DEC.)",
+  "example": "I don't watch TV in the morning."
+ },
+ {
+  "id": "g2-65-1-b",
+  "headword": "TENSE/ASPECT: PRESENT (lexical verbs)",
+  "pos": "grammar (NEG. DEC.)",
+  "example": "My brother doesn't like vegetables."
+ },
+ {
+  "id": "g2-122-a",
+  "headword": "MODAL/AUX: be going to",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "We are going to visit my aunt this weekend."
+ },
+ {
+  "id": "g2-122-b",
+  "headword": "MODAL/AUX: be going to",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "Look at those dark clouds! It's going to rain."
+ },
+ {
+  "id": "g2-136-a",
+  "headword": "MODAL/AUX: need (to)",
+  "pos": "grammar",
+  "example": "I need to buy some milk after work."
+ },
+ {
+  "id": "g2-136-b",
+  "headword": "MODAL/AUX: need (to)",
+  "pos": "grammar",
+  "example": "You don't need to bring anything to the party."
+ },
+ {
+  "id": "g2-141-a",
+  "headword": "MODAL/AUX: will",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "Don't worry, I will help you with your homework."
+ },
+ {
+  "id": "g2-141-b",
+  "headword": "MODAL/AUX: will",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "I think it will be sunny tomorrow."
+ },
+ {
+  "id": "g2-249-a",
+  "headword": "FUNCTIONAL QUESTION: Can you ...?",
+  "pos": "grammar (AFF. INT.)",
+  "example": "Can you open the window, please?"
+ },
+ {
+  "id": "g2-249-b",
+  "headword": "FUNCTIONAL QUESTION: Can you ...?",
+  "pos": "grammar (AFF. INT.)",
+  "example": "Can you tell me the way to the station?"
+ },
+ {
+  "id": "g2-17-a",
+  "headword": "DETERMINER: another",
+  "pos": "grammar",
+  "example": "Can I have another cup of coffee, please?"
+ },
+ {
+  "id": "g2-17-b",
+  "headword": "DETERMINER: another",
+  "pos": "grammar",
+  "example": "We need another chair for our guest."
+ },
+ {
+  "id": "g2-18-a",
+  "headword": "much UNCOUNTABLE NOUN",
+  "pos": "grammar",
+  "example": "We don't have much time before the film."
+ },
+ {
+  "id": "g2-18-b",
+  "headword": "much UNCOUNTABLE NOUN",
+  "pos": "grammar",
+  "example": "How much money do you have in your wallet?"
+ },
+ {
+  "id": "g2-41-a",
+  "headword": "SUPERLATIVE OF SUPERIORITY: most+ADJ/ADV",
+  "pos": "grammar",
+  "example": "This is the most beautiful beach in Spain."
+ },
+ {
+  "id": "g2-41-b",
+  "headword": "SUPERLATIVE OF SUPERIORITY: most+ADJ/ADV",
+  "pos": "grammar",
+  "example": "Maths is the most difficult subject for me."
+ },
+ {
+  "id": "g2-152-a",
+  "headword": "V+that+CLAUSE",
+  "pos": "grammar",
+  "example": "I think that she is right."
+ },
+ {
+  "id": "g2-152-b",
+  "headword": "V+that+CLAUSE",
+  "pos": "grammar",
+  "example": "We hope that you will enjoy your stay."
+ },
+ {
+  "id": "g2-157-a",
+  "headword": "ADVERBIAL CLAUSE: as",
+  "pos": "grammar",
+  "example": "As it was raining, we stayed inside."
+ },
+ {
+  "id": "g2-157-b",
+  "headword": "ADVERBIAL CLAUSE: as",
+  "pos": "grammar",
+  "example": "As I was leaving the house, the phone rang."
+ },
+ {
+  "id": "g2-200-a",
+  "headword": "INDIRECT SPEECH: SAY/EXPLAIN/REPORT",
+  "pos": "grammar",
+  "example": "She said that she was tired."
+ },
+ {
+  "id": "g2-200-b",
+  "headword": "INDIRECT SPEECH: SAY/EXPLAIN/REPORT",
+  "pos": "grammar",
+  "example": "The teacher explained that the test was on Friday."
+ },
+ {
+  "id": "g2-206-a",
+  "headword": "HAVE/LET/MAKE+NP+INFINITIVE",
+  "pos": "grammar",
+  "example": "My mum let me stay up late on Saturday."
+ },
+ {
+  "id": "g2-206-b",
+  "headword": "HAVE/LET/MAKE+NP+INFINITIVE",
+  "pos": "grammar",
+  "example": "That sad film made me cry."
+ }
+]

@@ -1,0 +1,952 @@
+{
+  "anger-n": {
+    "gloss": {
+      "fr": "la colère",
+      "es": "la ira"
+    },
+    "exampleGloss": {
+      "fr": "Il n'a pas pu cacher sa colère quand il a vu la fenêtre cassée.",
+      "es": "No pudo ocultar su enfado cuando vio la ventana rota."
+    }
+  },
+  "angle-n": {
+    "gloss": {
+      "fr": "l'angle",
+      "es": "el ángulo"
+    },
+    "exampleGloss": {
+      "fr": "Les deux lignes se coupent à un angle de quatre-vingt-dix degrés.",
+      "es": "Las dos líneas se cortan formando un ángulo de noventa grados."
+    }
+  },
+  "animated-adj": {
+    "gloss": {
+      "fr": "animé",
+      "es": "animado"
+    },
+    "exampleGloss": {
+      "fr": "Les étudiants ont eu une discussion animée sur le film.",
+      "es": "Los estudiantes tuvieron una discusión animada sobre la película."
+    }
+  },
+  "animation-n": {
+    "gloss": {
+      "fr": "l'animation",
+      "es": "la animación"
+    },
+    "exampleGloss": {
+      "fr": "Elle veut étudier l'animation et faire des dessins animés pour les enfants.",
+      "es": "Quiere estudiar animación y hacer dibujos animados para niños."
+    }
+  },
+  "announce-v": {
+    "gloss": {
+      "fr": "annoncer",
+      "es": "anunciar"
+    },
+    "exampleGloss": {
+      "fr": "Le pilote annoncera quand nous pourrons détacher nos ceintures.",
+      "es": "El piloto anunciará cuándo podemos quitarnos el cinturón."
+    }
+  },
+  "announcement-n": {
+    "gloss": {
+      "fr": "l'annonce",
+      "es": "el anuncio"
+    },
+    "exampleGloss": {
+      "fr": "On a annoncé que notre train avait du retard.",
+      "es": "Anunciaron que nuestro tren llevaba retraso."
+    }
+  },
+  "annoyance-n": {
+    "gloss": {
+      "fr": "l'agacement",
+      "es": "el fastidio"
+    },
+    "exampleGloss": {
+      "fr": "À mon grand agacement, le bus est parti juste avant mon arrivée.",
+      "es": "Para mi fastidio, el autobús salió justo antes de que yo llegara."
+    }
+  },
+  "annoyed-adj": {
+    "gloss": {
+      "fr": "agacé",
+      "es": "molesto"
+    },
+    "exampleGloss": {
+      "fr": "Ma mère était agacée parce que j'avais oublié de l'appeler.",
+      "es": "Mi madre estaba molesta porque se me olvidó llamarla."
+    }
+  },
+  "annual-adj": {
+    "gloss": {
+      "fr": "annuel",
+      "es": "anual"
+    },
+    "exampleGloss": {
+      "fr": "Le festival de musique annuel a lieu chaque année en juillet.",
+      "es": "El festival anual de música se celebra todos los meses de julio."
+    }
+  },
+  "annually-adv": {
+    "gloss": {
+      "fr": "chaque année",
+      "es": "anualmente"
+    },
+    "exampleGloss": {
+      "fr": "L'entreprise vérifie toutes ses machines chaque année.",
+      "es": "La empresa revisa todas sus máquinas anualmente."
+    }
+  },
+  "ant-n": {
+    "gloss": {
+      "fr": "la fourmi",
+      "es": "la hormiga"
+    },
+    "exampleGloss": {
+      "fr": "Il y a des fourmis partout dans la cuisine à cause du sucre.",
+      "es": "Hay hormigas por toda la cocina por culpa del azúcar."
+    }
+  },
+  "anti-adj": {
+    "gloss": {
+      "fr": "contre",
+      "es": "en contra"
+    },
+    "exampleGloss": {
+      "fr": "Elle aimait le projet, mais son mari était contre.",
+      "es": "A ella le gustaba el plan, pero su marido estaba en contra."
+    }
+  },
+  "antique-n": {
+    "gloss": {
+      "fr": "l'objet ancien",
+      "es": "la antigüedad"
+    },
+    "exampleGloss": {
+      "fr": "Cette vieille table est un meuble ancien du dix-huitième siècle.",
+      "es": "Esta mesa vieja es una antigüedad del siglo dieciocho."
+    }
+  },
+  "antonym-n": {
+    "gloss": {
+      "fr": "l'antonyme",
+      "es": "el antónimo"
+    },
+    "exampleGloss": {
+      "fr": "« Hot » est l'antonyme de « cold ».",
+      "es": "«Hot» es el antónimo de «cold»."
+    }
+  },
+  "anxiety-n": {
+    "gloss": {
+      "fr": "l'anxiété",
+      "es": "la ansiedad"
+    },
+    "exampleGloss": {
+      "fr": "Beaucoup d'étudiants ressentent de l'anxiété avant leurs examens.",
+      "es": "Muchos estudiantes sienten ansiedad antes de los exámenes."
+    }
+  },
+  "anxiously-adv": {
+    "gloss": {
+      "fr": "avec inquiétude",
+      "es": "con inquietud"
+    },
+    "exampleGloss": {
+      "fr": "Nous avons attendu avec inquiétude des nouvelles de l'hôpital.",
+      "es": "Esperamos con inquietud noticias del hospital."
+    }
+  },
+  "anyhow-adv": {
+    "gloss": {
+      "fr": "quand même",
+      "es": "de todos modos"
+    },
+    "exampleGloss": {
+      "fr": "Les billets étaient chers, mais nous sommes allés au concert quand même.",
+      "es": "Las entradas eran caras, pero fuimos al concierto de todos modos."
+    }
+  },
+  "ape-n": {
+    "gloss": {
+      "fr": "le grand singe",
+      "es": "el simio"
+    },
+    "exampleGloss": {
+      "fr": "Le gorille est un grand singe qui vit en Afrique.",
+      "es": "El gorila es un simio grande que vive en África."
+    }
+  },
+  "apology-n": {
+    "gloss": {
+      "fr": "les excuses",
+      "es": "la disculpa"
+    },
+    "exampleGloss": {
+      "fr": "Je te dois des excuses pour mon retard d'hier.",
+      "es": "Te debo una disculpa por llegar tarde ayer."
+    }
+  },
+  "apparent-adj": {
+    "gloss": {
+      "fr": "évident",
+      "es": "evidente"
+    },
+    "exampleGloss": {
+      "fr": "Il était évident qu'elle était fatiguée, alors nous sommes partis tôt.",
+      "es": "Era evidente que estaba cansada, así que nos fuimos pronto."
+    }
+  },
+  "appeal-n": {
+    "gloss": {
+      "fr": "l'appel",
+      "es": "el llamamiento"
+    },
+    "exampleGloss": {
+      "fr": "La police a lancé un appel aux témoins de l'accident.",
+      "es": "La policía hizo un llamamiento a quienes vieron el accidente."
+    }
+  },
+  "appetite-n": {
+    "gloss": {
+      "fr": "l'appétit",
+      "es": "el apetito"
+    },
+    "exampleGloss": {
+      "fr": "J'étais malade et je n'ai pas eu d'appétit pendant deux jours.",
+      "es": "Estuve enfermo y no tuve apetito durante dos días."
+    }
+  },
+  "applaud-v": {
+    "gloss": {
+      "fr": "applaudir",
+      "es": "aplaudir"
+    },
+    "exampleGloss": {
+      "fr": "Le public s'est levé pour applaudir le chanteur.",
+      "es": "El público se puso de pie para aplaudir al cantante."
+    }
+  },
+  "applause-n": {
+    "gloss": {
+      "fr": "les applaudissements",
+      "es": "los aplausos"
+    },
+    "exampleGloss": {
+      "fr": "Les applaudissements ont continué plusieurs minutes après le spectacle.",
+      "es": "Los aplausos continuaron varios minutos después del espectáculo."
+    }
+  },
+  "application-n": {
+    "gloss": {
+      "fr": "la candidature",
+      "es": "la solicitud"
+    },
+    "exampleGloss": {
+      "fr": "J'ai envoyé ma candidature à cinq entreprises différentes.",
+      "es": "Envié mi solicitud de empleo a cinco empresas diferentes."
+    }
+  },
+  "appoint-v": {
+    "gloss": {
+      "fr": "nommer",
+      "es": "nombrar"
+    },
+    "exampleGloss": {
+      "fr": "L'entreprise a nommé un nouveau directeur le mois dernier.",
+      "es": "La empresa nombró un nuevo gerente el mes pasado."
+    }
+  },
+  "appreciation-n": {
+    "gloss": {
+      "fr": "la reconnaissance",
+      "es": "el agradecimiento"
+    },
+    "exampleGloss": {
+      "fr": "Nous avons offert des fleurs à notre professeur pour lui montrer notre reconnaissance.",
+      "es": "Le regalamos flores a nuestra profesora para mostrarle nuestro agradecimiento."
+    }
+  },
+  "approach-n": {
+    "gloss": {
+      "fr": "l'approche",
+      "es": "el enfoque"
+    },
+    "exampleGloss": {
+      "fr": "Nous avons besoin d'une approche différente pour résoudre ce problème.",
+      "es": "Necesitamos un enfoque diferente para resolver este problema."
+    }
+  },
+  "approval-n": {
+    "gloss": {
+      "fr": "l'autorisation",
+      "es": "el permiso"
+    },
+    "exampleGloss": {
+      "fr": "Il faut l'autorisation de tes parents pour participer à la sortie scolaire.",
+      "es": "Necesitas el permiso de tus padres para ir a la excursión del colegio."
+    }
+  },
+  "approve-v": {
+    "gloss": {
+      "fr": "accorder",
+      "es": "aprobar"
+    },
+    "exampleGloss": {
+      "fr": "La banque nous a accordé le prêt pour la nouvelle maison.",
+      "es": "El banco nos aprobó el préstamo para la casa nueva."
+    }
+  },
+  "approximately-adv": {
+    "gloss": {
+      "fr": "environ",
+      "es": "aproximadamente"
+    },
+    "exampleGloss": {
+      "fr": "Le trajet dure environ deux heures en train.",
+      "es": "El viaje dura aproximadamente dos horas en tren."
+    }
+  },
+  "architect-n": {
+    "gloss": {
+      "fr": "l'architecte",
+      "es": "el arquitecto"
+    },
+    "exampleGloss": {
+      "fr": "L'architecte nous a montré les plans de notre nouvelle maison.",
+      "es": "El arquitecto nos enseñó los planos de nuestra casa nueva."
+    }
+  },
+  "arise-v": {
+    "gloss": {
+      "fr": "survenir",
+      "es": "surgir"
+    },
+    "exampleGloss": {
+      "fr": "Appelle-moi si un problème survient pendant mon absence.",
+      "es": "Llámame si surge algún problema mientras estoy fuera."
+    }
+  },
+  "arithmetic-n": {
+    "gloss": {
+      "fr": "le calcul",
+      "es": "la aritmética"
+    },
+    "exampleGloss": {
+      "fr": "Mon petit frère est bon en calcul mais mauvais en orthographe.",
+      "es": "A mi hermano pequeño se le da bien la aritmética pero mal la ortografía."
+    }
+  },
+  "arm-v": {
+    "gloss": {
+      "fr": "armer",
+      "es": "armar"
+    },
+    "exampleGloss": {
+      "fr": "Les gardes de la banque sont armés de pistolets.",
+      "es": "Los guardias del banco van armados con pistolas."
+    }
+  },
+  "army-n": {
+    "gloss": {
+      "fr": "l'armée",
+      "es": "el ejército"
+    },
+    "exampleGloss": {
+      "fr": "Mon grand-père a été soldat dans l'armée pendant vingt ans.",
+      "es": "Mi abuelo fue soldado en el ejército durante veinte años."
+    }
+  },
+  "arrange-v": {
+    "gloss": {
+      "fr": "organiser",
+      "es": "organizar"
+    },
+    "exampleGloss": {
+      "fr": "Tu peux organiser une réunion avec le directeur pour lundi ?",
+      "es": "¿Puedes organizar una reunión con el director para el lunes?"
+    }
+  },
+  "arrangement-n": {
+    "gloss": {
+      "fr": "l'arrangement",
+      "es": "el acuerdo"
+    },
+    "exampleGloss": {
+      "fr": "Nous avons convenu de nous retrouver à la gare à six heures.",
+      "es": "Quedamos en vernos en la estación a las seis."
+    }
+  },
+  "arrest-n": {
+    "gloss": {
+      "fr": "l'arrestation",
+      "es": "la detención"
+    },
+    "exampleGloss": {
+      "fr": "La police a procédé à deux arrestations après la bagarre.",
+      "es": "La policía realizó dos detenciones después de la pelea."
+    }
+  },
+  "arrest-v": {
+    "gloss": {
+      "fr": "arrêter",
+      "es": "detener"
+    },
+    "exampleGloss": {
+      "fr": "La police a arrêté l'homme pour vol de voiture.",
+      "es": "La policía detuvo al hombre por robar un coche."
+    }
+  },
+  "arrival-n": {
+    "gloss": {
+      "fr": "l'arrivée",
+      "es": "la llegada"
+    },
+    "exampleGloss": {
+      "fr": "Appelez-nous dès votre arrivée à l'aéroport.",
+      "es": "Llámanos cuando llegues al aeropuerto."
+    }
+  },
+  "arrow-n": {
+    "gloss": {
+      "fr": "la flèche",
+      "es": "la flecha"
+    },
+    "exampleGloss": {
+      "fr": "Suivez les flèches au sol pour trouver la sortie.",
+      "es": "Siga las flechas del suelo para encontrar la salida."
+    }
+  },
+  "artist-n": {
+    "gloss": {
+      "fr": "l'artiste",
+      "es": "el artista"
+    },
+    "exampleGloss": {
+      "fr": "L'artiste a peint un tableau du vieux port.",
+      "es": "El artista pintó un cuadro del viejo puerto."
+    }
+  },
+  "artistic-adj": {
+    "gloss": {
+      "fr": "artiste",
+      "es": "artístico"
+    },
+    "exampleGloss": {
+      "fr": "Ma sœur est très artiste ; elle dessine et peint magnifiquement.",
+      "es": "Mi hermana tiene mucha sensibilidad artística; dibuja y pinta de maravilla."
+    }
+  },
+  "ashamed-adj": {
+    "gloss": {
+      "fr": "honteux",
+      "es": "avergonzado"
+    },
+    "exampleGloss": {
+      "fr": "Il avait honte d'avoir menti à son meilleur ami.",
+      "es": "Se sentía avergonzado de haberle mentido a su mejor amigo."
+    }
+  },
+  "aside-adv": {
+    "gloss": {
+      "fr": "de côté",
+      "es": "a un lado"
+    },
+    "exampleGloss": {
+      "fr": "Elle s'est écartée pour laisser passer le vieil homme.",
+      "es": "Se hizo a un lado para dejar pasar al anciano."
+    }
+  },
+  "aspect-n": {
+    "gloss": {
+      "fr": "l'aspect",
+      "es": "el aspecto"
+    },
+    "exampleGloss": {
+      "fr": "Le prix est l'aspect le plus important pour moi.",
+      "es": "El precio es el aspecto más importante para mí."
+    }
+  },
+  "aspirin-n": {
+    "gloss": {
+      "fr": "l'aspirine",
+      "es": "la aspirina"
+    },
+    "exampleGloss": {
+      "fr": "J'ai pris une aspirine parce que j'avais mal à la tête.",
+      "es": "Me tomé una aspirina porque me dolía la cabeza."
+    }
+  },
+  "assign-v": {
+    "gloss": {
+      "fr": "attribuer",
+      "es": "asignar"
+    },
+    "exampleGloss": {
+      "fr": "Le professeur a attribué un sujet différent à chaque élève.",
+      "es": "El profesor asignó un tema diferente a cada alumno."
+    }
+  },
+  "assignment-n": {
+    "gloss": {
+      "fr": "le devoir",
+      "es": "el trabajo"
+    },
+    "exampleGloss": {
+      "fr": "Je dois finir mon devoir d'histoire d'ici vendredi.",
+      "es": "Tengo que terminar el trabajo de historia para el viernes."
+    }
+  },
+  "assist-v": {
+    "gloss": {
+      "fr": "assister",
+      "es": "asistir"
+    },
+    "exampleGloss": {
+      "fr": "L'infirmière assistera le médecin pendant l'opération.",
+      "es": "La enfermera asistirá al médico durante la operación."
+    }
+  },
+  "assistance-n": {
+    "gloss": {
+      "fr": "l'aide",
+      "es": "la ayuda"
+    },
+    "exampleGloss": {
+      "fr": "Si vous avez besoin d'aide, adressez-vous à l'accueil.",
+      "es": "Si necesita ayuda, pregunte en el mostrador."
+    }
+  },
+  "assistant-n": {
+    "gloss": {
+      "fr": "le vendeur",
+      "es": "el dependiente"
+    },
+    "exampleGloss": {
+      "fr": "Le vendeur m'a aidé à trouver une veste à ma taille.",
+      "es": "El dependiente me ayudó a encontrar una chaqueta de mi talla."
+    }
+  },
+  "associate-v": {
+    "gloss": {
+      "fr": "associer",
+      "es": "asociar"
+    },
+    "exampleGloss": {
+      "fr": "Beaucoup de gens associent l'été à la plage.",
+      "es": "Mucha gente asocia el verano con la playa."
+    }
+  },
+  "assume-v": {
+    "gloss": {
+      "fr": "supposer",
+      "es": "suponer"
+    },
+    "exampleGloss": {
+      "fr": "Je suppose que tu as faim après ce long voyage.",
+      "es": "Supongo que tendrás hambre después de un viaje tan largo."
+    }
+  },
+  "astronomer-n": {
+    "gloss": {
+      "fr": "l'astronome",
+      "es": "el astrónomo"
+    },
+    "exampleGloss": {
+      "fr": "L'astronome étudie les étoiles avec un grand télescope.",
+      "es": "El astrónomo estudia las estrellas con un gran telescopio."
+    }
+  },
+  "athletic-adj": {
+    "gloss": {
+      "fr": "athlétique",
+      "es": "atlético"
+    },
+    "exampleGloss": {
+      "fr": "Il est grand et athlétique, et il pratique plusieurs sports.",
+      "es": "Es alto y atlético, y practica varios deportes."
+    }
+  },
+  "atlantic-adj": {
+    "gloss": {
+      "fr": "atlantique",
+      "es": "atlántico"
+    },
+    "exampleGloss": {
+      "fr": "Nous avons traversé l'océan Atlantique en bateau.",
+      "es": "Cruzamos el océano Atlántico en barco."
+    }
+  },
+  "atmosphere-n": {
+    "gloss": {
+      "fr": "l'ambiance",
+      "es": "el ambiente"
+    },
+    "exampleGloss": {
+      "fr": "Le restaurant a une ambiance chaleureuse et conviviale.",
+      "es": "El restaurante tiene un ambiente cálido y acogedor."
+    }
+  },
+  "atomic-adj": {
+    "gloss": {
+      "fr": "atomique",
+      "es": "atómico"
+    },
+    "exampleGloss": {
+      "fr": "La ville a été détruite par une bombe atomique en 1945.",
+      "es": "La ciudad fue destruida por una bomba atómica en 1945."
+    }
+  },
+  "attach-v": {
+    "gloss": {
+      "fr": "joindre",
+      "es": "adjuntar"
+    },
+    "exampleGloss": {
+      "fr": "Merci de joindre une photo à votre formulaire de candidature.",
+      "es": "Por favor, adjunte una foto a su formulario de solicitud."
+    }
+  },
+  "attachment-n": {
+    "gloss": {
+      "fr": "la pièce jointe",
+      "es": "el archivo adjunto"
+    },
+    "exampleGloss": {
+      "fr": "J'ai envoyé les photos en pièce jointe de mon e-mail.",
+      "es": "Envié las fotos como archivo adjunto en mi correo."
+    }
+  },
+  "attain-v": {
+    "gloss": {
+      "fr": "atteindre",
+      "es": "alcanzar"
+    },
+    "exampleGloss": {
+      "fr": "Elle a travaillé dur pour atteindre son objectif de devenir médecin.",
+      "es": "Trabajó mucho para alcanzar su meta de ser médica."
+    }
+  },
+  "attempt-v": {
+    "gloss": {
+      "fr": "essayer",
+      "es": "intentar"
+    },
+    "exampleGloss": {
+      "fr": "Il a essayé de traverser le lac à la nage, mais c'était trop loin.",
+      "es": "Intentó cruzar el lago a nado, pero estaba demasiado lejos."
+    }
+  },
+  "attend-v": {
+    "gloss": {
+      "fr": "assister à",
+      "es": "asistir a"
+    },
+    "exampleGloss": {
+      "fr": "Plus de cent personnes ont assisté au mariage.",
+      "es": "Más de cien personas asistieron a la boda."
+    }
+  },
+  "attract-v": {
+    "gloss": {
+      "fr": "attirer",
+      "es": "atraer"
+    },
+    "exampleGloss": {
+      "fr": "Les belles plages attirent de nombreux touristes chaque été.",
+      "es": "Las playas preciosas atraen a muchos turistas cada verano."
+    }
+  },
+  "attraction-n": {
+    "gloss": {
+      "fr": "l'attraction",
+      "es": "la atracción"
+    },
+    "exampleGloss": {
+      "fr": "Le château est la principale attraction touristique de la ville.",
+      "es": "El castillo es la principal atracción turística del pueblo."
+    }
+  },
+  "authority-n": {
+    "gloss": {
+      "fr": "l'autorité",
+      "es": "la autoridad"
+    },
+    "exampleGloss": {
+      "fr": "Seul le directeur a l'autorité pour accorder des remboursements.",
+      "es": "Solo el gerente tiene autoridad para hacer devoluciones."
+    }
+  },
+  "auxiliary-adj": {
+    "gloss": {
+      "fr": "auxiliaire",
+      "es": "auxiliar"
+    },
+    "exampleGloss": {
+      "fr": "Dans « I have eaten », « have » est un verbe auxiliaire.",
+      "es": "En «I have eaten», «have» es un verbo auxiliar."
+    }
+  },
+  "available-adj": {
+    "gloss": {
+      "fr": "disponible",
+      "es": "disponible"
+    },
+    "exampleGloss": {
+      "fr": "Est-ce que cette robe est disponible dans une taille plus petite ?",
+      "es": "¿Tiene este vestido en una talla más pequeña?"
+    }
+  },
+  "avenue-n": {
+    "gloss": {
+      "fr": "l'avenue",
+      "es": "la avenida"
+    },
+    "exampleGloss": {
+      "fr": "Il y a beaucoup de magasins chers le long de cette avenue.",
+      "es": "Hay muchas tiendas caras a lo largo de esta avenida."
+    }
+  },
+  "award-v": {
+    "gloss": {
+      "fr": "décerner",
+      "es": "conceder"
+    },
+    "exampleGloss": {
+      "fr": "L'école décernera un prix au meilleur élève.",
+      "es": "El colegio concederá un premio al mejor alumno."
+    }
+  },
+  "aware-adj": {
+    "gloss": {
+      "fr": "au courant",
+      "es": "consciente"
+    },
+    "exampleGloss": {
+      "fr": "Tu sais que le magasin ferme tôt aujourd'hui ?",
+      "es": "¿Sabes que la tienda cierra pronto hoy?"
+    }
+  },
+  "awareness-n": {
+    "gloss": {
+      "fr": "la sensibilisation",
+      "es": "la conciencia"
+    },
+    "exampleGloss": {
+      "fr": "La campagne veut sensibiliser davantage aux dangers du tabac.",
+      "es": "La campaña quiere aumentar la conciencia sobre los peligros de fumar."
+    }
+  },
+  "awesome-adj": {
+    "gloss": {
+      "fr": "génial",
+      "es": "impresionante"
+    },
+    "exampleGloss": {
+      "fr": "Le feu d'artifice d'hier soir était génial !",
+      "es": "¡Los fuegos artificiales de anoche fueron impresionantes!"
+    }
+  },
+  "awkward-adj": {
+    "gloss": {
+      "fr": "gêné",
+      "es": "incómodo"
+    },
+    "exampleGloss": {
+      "fr": "Il y a eu un silence gêné après sa mauvaise blague.",
+      "es": "Hubo un silencio incómodo después de que contara el chiste malo."
+    }
+  },
+  "babysit-v": {
+    "gloss": {
+      "fr": "faire du baby-sitting",
+      "es": "cuidar niños"
+    },
+    "exampleGloss": {
+      "fr": "Je garde parfois les enfants de mon voisin le samedi soir.",
+      "es": "A veces cuido a los niños de mi vecino los sábados por la noche."
+    }
+  },
+  "babysitter-n": {
+    "gloss": {
+      "fr": "la baby-sitter",
+      "es": "la canguro"
+    },
+    "exampleGloss": {
+      "fr": "Il nous faut une baby-sitter pour pouvoir aller au cinéma.",
+      "es": "Necesitamos una canguro para poder ir al cine."
+    }
+  },
+  "back-v": {
+    "gloss": {
+      "fr": "soutenir",
+      "es": "apoyar"
+    },
+    "exampleGloss": {
+      "fr": "Tous mes amis m'ont soutenu quand j'ai décidé de changer de travail.",
+      "es": "Todos mis amigos me apoyaron cuando decidí cambiar de trabajo."
+    }
+  },
+  "backache-n": {
+    "gloss": {
+      "fr": "le mal de dos",
+      "es": "el dolor de espalda"
+    },
+    "exampleGloss": {
+      "fr": "Rester assis devant un ordinateur toute la journée me donne mal au dos.",
+      "es": "Pasar todo el día sentado delante del ordenador me da dolor de espalda."
+    }
+  },
+  "backpack-n": {
+    "gloss": {
+      "fr": "le sac à dos",
+      "es": "la mochila"
+    },
+    "exampleGloss": {
+      "fr": "Je transporte mes livres et mon ordinateur portable dans un sac à dos.",
+      "es": "Llevo los libros y el portátil en una mochila."
+    }
+  },
+  "backpacker-n": {
+    "gloss": {
+      "fr": "le routard",
+      "es": "el mochilero"
+    },
+    "exampleGloss": {
+      "fr": "L'auberge était pleine de jeunes routards venus de nombreux pays.",
+      "es": "El albergue estaba lleno de jóvenes mochileros de muchos países."
+    }
+  },
+  "backpacking-n": {
+    "gloss": {
+      "fr": "le voyage sac au dos",
+      "es": "viajar de mochilero"
+    },
+    "exampleGloss": {
+      "fr": "Voyager sac au dos est une façon économique de parcourir l'Europe.",
+      "es": "Viajar de mochilero es una forma barata de recorrer Europa."
+    }
+  },
+  "bacon-n": {
+    "gloss": {
+      "fr": "le bacon",
+      "es": "el beicon"
+    },
+    "exampleGloss": {
+      "fr": "J'ai mangé des œufs au bacon ce matin au petit-déjeuner.",
+      "es": "Esta mañana he desayunado huevos con beicon."
+    }
+  },
+  "baggage-n": {
+    "gloss": {
+      "fr": "les bagages",
+      "es": "el equipaje"
+    },
+    "exampleGloss": {
+      "fr": "Vous pouvez récupérer vos bagages après être descendu de l'avion.",
+      "es": "Puede recoger su equipaje después de bajar del avión."
+    }
+  },
+  "baker-n": {
+    "gloss": {
+      "fr": "le boulanger",
+      "es": "el panadero"
+    },
+    "exampleGloss": {
+      "fr": "Le boulanger se lève à quatre heures pour faire du pain frais.",
+      "es": "El panadero se levanta a las cuatro para hacer pan recién hecho."
+    }
+  },
+  "bakery-n": {
+    "gloss": {
+      "fr": "la boulangerie",
+      "es": "la panadería"
+    },
+    "exampleGloss": {
+      "fr": "J'achète du pain frais à la boulangerie tous les matins.",
+      "es": "Compro pan recién hecho en la panadería todas las mañanas."
+    }
+  },
+  "balance-n": {
+    "gloss": {
+      "fr": "l'équilibre",
+      "es": "el equilibrio"
+    },
+    "exampleGloss": {
+      "fr": "J'ai perdu l'équilibre et je suis tombé de mon vélo.",
+      "es": "Perdí el equilibrio y me caí de la bici."
+    }
+  },
+  "bald-adj": {
+    "gloss": {
+      "fr": "chauve",
+      "es": "calvo"
+    },
+    "exampleGloss": {
+      "fr": "Mon père a commencé à devenir chauve à trente ans.",
+      "es": "Mi padre empezó a quedarse calvo a los treinta."
+    }
+  },
+  "bandage-n": {
+    "gloss": {
+      "fr": "le bandage",
+      "es": "la venda"
+    },
+    "exampleGloss": {
+      "fr": "L'infirmière a mis un bandage sur mon bras blessé.",
+      "es": "La enfermera me puso una venda en el brazo herido."
+    }
+  },
+  "bang-n": {
+    "gloss": {
+      "fr": "la détonation",
+      "es": "el estallido"
+    },
+    "exampleGloss": {
+      "fr": "Nous avons entendu une forte détonation quand le pneu a éclaté.",
+      "es": "Oímos un fuerte estallido cuando reventó la rueda."
+    }
+  },
+  "bang-v": {
+    "gloss": {
+      "fr": "cogner",
+      "es": "aporrear"
+    },
+    "exampleGloss": {
+      "fr": "Il a cogné à la porte jusqu'à ce que quelqu'un ouvre.",
+      "es": "Aporreó la puerta hasta que alguien abrió."
+    }
+  },
+  "bank-account-n": {
+    "gloss": {
+      "fr": "le compte bancaire",
+      "es": "la cuenta bancaria"
+    },
+    "exampleGloss": {
+      "fr": "Mon salaire est versé sur mon compte bancaire à la fin du mois.",
+      "es": "Mi sueldo entra en mi cuenta bancaria a final de mes."
+    }
+  },
+  "bar-v": {
+    "gloss": {
+      "fr": "exclure",
+      "es": "prohibir la entrada"
+    },
+    "exampleGloss": {
+      "fr": "Le club exclura toute personne qui enfreint le règlement.",
+      "es": "El club prohibirá la entrada a cualquiera que incumpla las normas."
+    }
+  },
+  "barbecue-v": {
+    "gloss": {
+      "fr": "faire griller au barbecue",
+      "es": "asar a la barbacoa"
+    },
+    "exampleGloss": {
+      "fr": "Les jours de soleil, nous faisons griller des saucisses au barbecue dans le jardin.",
+      "es": "Los días de sol asamos salchichas a la barbacoa en el jardín."
+    }
+  }
+}

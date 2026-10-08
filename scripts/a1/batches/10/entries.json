@@ -1,0 +1,620 @@
+[
+ {
+  "id": "sun-n",
+  "headword": "sun",
+  "pos": "noun",
+  "sourceTopics": [
+   "Weather"
+  ]
+ },
+ {
+  "id": "sunday-n",
+  "headword": "Sunday",
+  "pos": "noun"
+ },
+ {
+  "id": "sunny-adj",
+  "headword": "sunny",
+  "pos": "adjective"
+ },
+ {
+  "id": "sunshine-n",
+  "headword": "sunshine",
+  "pos": "noun",
+  "sourceTopics": [
+   "Weather"
+  ]
+ },
+ {
+  "id": "super-adj",
+  "headword": "super",
+  "pos": "adjective"
+ },
+ {
+  "id": "sure-adj",
+  "headword": "sure",
+  "pos": "adjective"
+ },
+ {
+  "id": "surf-n",
+  "headword": "surf",
+  "pos": "noun",
+  "sourceTopics": [
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "surprise-n",
+  "headword": "surprise",
+  "pos": "noun"
+ },
+ {
+  "id": "survey-n",
+  "headword": "survey",
+  "pos": "noun"
+ },
+ {
+  "id": "sweet-adj",
+  "headword": "sweet",
+  "pos": "adjective"
+ },
+ {
+  "id": "swim-n",
+  "headword": "swim",
+  "pos": "noun",
+  "sourceTopics": [
+   "Leisure activities",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "swim-v",
+  "headword": "swim",
+  "pos": "verb"
+ },
+ {
+  "id": "swimming-n",
+  "headword": "swimming",
+  "pos": "noun",
+  "sourceTopics": [
+   "Leisure activities",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "swimming-pool-n",
+  "headword": "swimming pool",
+  "pos": "noun",
+  "sourceTopics": [
+   "Leisure activities",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "table-n",
+  "headword": "table",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "talk-v",
+  "headword": "talk",
+  "pos": "verb"
+ },
+ {
+  "id": "tall-adj",
+  "headword": "tall",
+  "pos": "adjective"
+ },
+ {
+  "id": "taxi-n",
+  "headword": "taxi",
+  "pos": "noun",
+  "sourceTopics": [
+   "Ways of travelling",
+   "Travel"
+  ]
+ },
+ {
+  "id": "tea-n",
+  "headword": "tea",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "teach-v",
+  "headword": "teach",
+  "pos": "verb"
+ },
+ {
+  "id": "teacher-n",
+  "headword": "teacher",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Education"
+  ]
+ },
+ {
+  "id": "team-n",
+  "headword": "team",
+  "pos": "noun",
+  "sourceTopics": [
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "technology-n",
+  "headword": "technology",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs"
+  ]
+ },
+ {
+  "id": "telephone-n",
+  "headword": "telephone",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Services"
+  ]
+ },
+ {
+  "id": "television-n",
+  "headword": "television",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "temple-n",
+  "headword": "temple",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "tennis-n",
+  "headword": "tennis",
+  "pos": "noun",
+  "sourceTopics": [
+   "Leisure activities",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "terrible-adj",
+  "headword": "terrible",
+  "pos": "adjective"
+ },
+ {
+  "id": "test-n",
+  "headword": "test",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Education"
+  ]
+ },
+ {
+  "id": "than-conj",
+  "headword": "than",
+  "pos": "conjunction"
+ },
+ {
+  "id": "than-prep",
+  "headword": "than",
+  "pos": "preposition"
+ },
+ {
+  "id": "thank-v",
+  "headword": "thank",
+  "pos": "verb"
+ },
+ {
+  "id": "thanks-n",
+  "headword": "thanks",
+  "pos": "noun"
+ },
+ {
+  "id": "that-conj",
+  "headword": "that",
+  "pos": "conjunction"
+ },
+ {
+  "id": "that-det",
+  "headword": "that",
+  "pos": "determiner"
+ },
+ {
+  "id": "the-det",
+  "headword": "the",
+  "pos": "determiner"
+ },
+ {
+  "id": "theater-n",
+  "headword": "theater",
+  "pos": "noun",
+  "variants": [
+   "theatre"
+  ],
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "their-det",
+  "headword": "their",
+  "pos": "determiner"
+ },
+ {
+  "id": "them-pron",
+  "headword": "them",
+  "pos": "pronoun"
+ },
+ {
+  "id": "then-adv",
+  "headword": "then",
+  "pos": "adverb"
+ },
+ {
+  "id": "there-adv",
+  "headword": "there",
+  "pos": "adverb"
+ },
+ {
+  "id": "these-det",
+  "headword": "these",
+  "pos": "determiner"
+ },
+ {
+  "id": "these-pron",
+  "headword": "these",
+  "pos": "pronoun"
+ },
+ {
+  "id": "they-pron",
+  "headword": "they",
+  "pos": "pronoun"
+ },
+ {
+  "id": "thick-adj",
+  "headword": "thick",
+  "pos": "adjective"
+ },
+ {
+  "id": "thing-n",
+  "headword": "thing",
+  "pos": "noun"
+ },
+ {
+  "id": "think-v",
+  "headword": "think",
+  "pos": "verb"
+ },
+ {
+  "id": "this-det",
+  "headword": "this",
+  "pos": "determiner"
+ },
+ {
+  "id": "this-pron",
+  "headword": "this",
+  "pos": "pronoun"
+ },
+ {
+  "id": "those-det",
+  "headword": "those",
+  "pos": "determiner"
+ },
+ {
+  "id": "those-pron",
+  "headword": "those",
+  "pos": "pronoun"
+ },
+ {
+  "id": "through-prep",
+  "headword": "through",
+  "pos": "preposition"
+ },
+ {
+  "id": "throw-n",
+  "headword": "throw",
+  "pos": "noun"
+ },
+ {
+  "id": "thursday-n",
+  "headword": "Thursday",
+  "pos": "noun"
+ },
+ {
+  "id": "ticket-n",
+  "headword": "ticket",
+  "pos": "noun",
+  "sourceTopics": [
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "tight-adj",
+  "headword": "tight",
+  "pos": "adjective"
+ },
+ {
+  "id": "time-n",
+  "headword": "time",
+  "pos": "noun"
+ },
+ {
+  "id": "tired-adj",
+  "headword": "tired",
+  "pos": "adjective"
+ },
+ {
+  "id": "to-to",
+  "headword": "to",
+  "pos": "infinitive-to"
+ },
+ {
+  "id": "to-prep",
+  "headword": "to",
+  "pos": "preposition"
+ },
+ {
+  "id": "today-adv",
+  "headword": "today",
+  "pos": "adverb"
+ },
+ {
+  "id": "today-n",
+  "headword": "today",
+  "pos": "noun"
+ },
+ {
+  "id": "together-adv",
+  "headword": "together",
+  "pos": "adverb"
+ },
+ {
+  "id": "toilet-n",
+  "headword": "toilet",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "tomato-n",
+  "headword": "tomato",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "tomorrow-n",
+  "headword": "tomorrow",
+  "pos": "noun"
+ },
+ {
+  "id": "tonight-adv",
+  "headword": "tonight",
+  "pos": "adverb"
+ },
+ {
+  "id": "too-adv",
+  "headword": "too",
+  "pos": "adverb"
+ },
+ {
+  "id": "tool-n",
+  "headword": "tool",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms"
+  ]
+ },
+ {
+  "id": "tooth-n",
+  "headword": "tooth",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel and services vocab",
+   "Health and body care"
+  ]
+ },
+ {
+  "id": "top-n",
+  "headword": "top",
+  "pos": "noun"
+ },
+ {
+  "id": "topic-n",
+  "headword": "topic",
+  "pos": "noun"
+ },
+ {
+  "id": "touch-n",
+  "headword": "touch",
+  "pos": "noun"
+ },
+ {
+  "id": "towel-n",
+  "headword": "towel",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "tower-n",
+  "headword": "tower",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "toy-n",
+  "headword": "toy",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "train-n",
+  "headword": "train",
+  "pos": "noun",
+  "sourceTopics": [
+   "Ways of travelling",
+   "Travel"
+  ]
+ },
+ {
+  "id": "travel-v",
+  "headword": "travel",
+  "pos": "verb"
+ },
+ {
+  "id": "tree-n",
+  "headword": "tree",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "trip-n",
+  "headword": "trip",
+  "pos": "noun",
+  "sourceTopics": [
+   "Hobbies and pastimes",
+   "Travel"
+  ]
+ },
+ {
+  "id": "trousers-n",
+  "headword": "trousers",
+  "pos": "noun",
+  "sourceTopics": [
+   "Clothes",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "truck-n",
+  "headword": "truck",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "Travel"
+  ]
+ },
+ {
+  "id": "true-adj",
+  "headword": "true",
+  "pos": "adjective"
+ },
+ {
+  "id": "try-n",
+  "headword": "try",
+  "pos": "noun"
+ },
+ {
+  "id": "t-shirt-n",
+  "headword": "T-shirt",
+  "pos": "noun",
+  "variants": [
+   "tee-shirt"
+  ],
+  "sourceTopics": [
+   "Clothes",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "tuesday-n",
+  "headword": "Tuesday",
+  "pos": "noun"
+ },
+ {
+  "id": "turkey-n",
+  "headword": "turkey",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "turn-n",
+  "headword": "turn",
+  "pos": "noun"
+ },
+ {
+  "id": "turn-v",
+  "headword": "turn",
+  "pos": "verb"
+ },
+ {
+  "id": "tv-n",
+  "headword": "TV",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "type-n",
+  "headword": "type",
+  "pos": "noun"
+ },
+ {
+  "id": "ugly-adj",
+  "headword": "ugly",
+  "pos": "adjective"
+ },
+ {
+  "id": "umbrella-n",
+  "headword": "umbrella",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "uncle-n",
+  "headword": "uncle",
+  "pos": "noun",
+  "sourceTopics": [
+   "Family life",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "under-prep",
+  "headword": "under",
+  "pos": "preposition"
+ }
+]

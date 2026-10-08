@@ -1,0 +1,512 @@
+{
+ "tiger-n": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A"
+ },
+ "fast-adv": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A"
+ },
+ "design-n": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A"
+ },
+ "singer-n": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A"
+ },
+ "poor-adj": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A"
+ },
+ "what-pron": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A"
+ },
+ "r001": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "wake-v"
+ },
+ "r002": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "ward-n"
+ },
+ "r003": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "wardrobe-n"
+ },
+ "r004": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "warm-v"
+ },
+ "r005": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "warmly-adv"
+ },
+ "r006": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "warmth-n"
+ },
+ "r007": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "warn-v"
+ },
+ "r008": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "warning-n"
+ },
+ "r009": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "warranty-n"
+ },
+ "r010": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "warrior-n"
+ },
+ "r011": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A",
+  "cardId": "washbowl-n"
+ },
+ "r012": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "waste-adj"
+ },
+ "r013": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A",
+  "cardId": "waste-n"
+ },
+ "r014": {
+  "decoy": {
+   "kind": "word",
+   "lang": "es"
+  },
+  "fr": "A",
+  "es": "A",
+  "cardId": "x04-singer-n"
+ },
+ "r015": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A",
+  "cardId": "waste-v"
+ },
+ "r016": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "wasteful-adj"
+ },
+ "r017": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "waterfall-n"
+ },
+ "r018": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A",
+  "cardId": "wave-v"
+ },
+ "r019": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "wax-n"
+ },
+ "r020": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A",
+  "cardId": "wax-v"
+ },
+ "r021": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "weakness-n"
+ },
+ "r022": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "weapon-n"
+ },
+ "r023": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A",
+  "cardId": "weather-forecast-n"
+ },
+ "r024": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "webcam-n"
+ },
+ "r025": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A",
+  "cardId": "weird-adj"
+ },
+ "r026": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A",
+  "cardId": "welcome-adj"
+ },
+ "r027": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "well-dressed-adj"
+ },
+ "r028": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "westward-adv"
+ },
+ "r029": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "wetland-n"
+ },
+ "r030": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "whale-n"
+ },
+ "r031": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "whatever-pron"
+ },
+ "r032": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "whenever-adv"
+ },
+ "r033": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "whenever-conj"
+ },
+ "r034": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "wherever-conj"
+ },
+ "r035": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "whether-conj"
+ },
+ "r036": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "whichever-det"
+ },
+ "r037": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A",
+  "cardId": "while-n"
+ },
+ "r038": {
+  "decoy": {
+   "kind": "exampleGloss",
+   "lang": "fr"
+  },
+  "fr": "A",
+  "es": "A",
+  "cardId": "x05-poor-adj"
+ },
+ "r039": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "whisper-n"
+ },
+ "r040": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A",
+  "cardId": "whistle-n"
+ },
+ "r041": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A",
+  "cardId": "whoever-pron"
+ },
+ "r042": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "whole-n"
+ },
+ "r043": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "widespread-adj"
+ },
+ "r044": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "wildlife-n"
+ },
+ "r045": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "wildly-adv"
+ },
+ "r046": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "willingness-n"
+ },
+ "r047": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "windscreen-n"
+ },
+ "r048": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "windsurfing-n"
+ },
+ "r049": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A",
+  "cardId": "wing-n"
+ },
+ "r050": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "wire-n"
+ },
+ "r051": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "wither-v"
+ },
+ "r052": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "witness-v"
+ },
+ "r053": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A",
+  "cardId": "wizard-adj"
+ },
+ "r054": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "wonder-n"
+ },
+ "r055": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "working-adj"
+ },
+ "r056": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "workout-n"
+ },
+ "r057": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A",
+  "cardId": "workplace-n"
+ },
+ "r058": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A",
+  "cardId": "workshop-n"
+ },
+ "r059": {
+  "decoy": {
+   "kind": "exampleGloss",
+   "lang": "es"
+  },
+  "fr": "A",
+  "es": "A",
+  "cardId": "x06-what-pron"
+ },
+ "r060": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "worn-adj"
+ },
+ "r061": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "worst-n"
+ },
+ "r062": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "worth-adj"
+ },
+ "r063": {
+  "decoy": {
+   "kind": "example",
+   "lang": "fr"
+  },
+  "fr": "A",
+  "es": "A",
+  "cardId": "x01-tiger-n"
+ },
+ "r064": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "worthwhile-adj"
+ },
+ "r065": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "worthy-adj"
+ },
+ "r066": {
+  "decoy": {
+   "kind": "example",
+   "lang": "es"
+  },
+  "fr": "A",
+  "es": "A",
+  "cardId": "x02-fast-adv"
+ },
+ "r067": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "wound-n"
+ },
+ "r068": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "wrap-n"
+ },
+ "r069": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "wrap-v"
+ },
+ "r070": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "wrapping-n"
+ },
+ "r071": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "wrist-n"
+ },
+ "r072": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "wristwatch-n"
+ },
+ "r073": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "written-adj"
+ },
+ "r074": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "yell-n"
+ },
+ "r075": {
+  "decoy": {
+   "kind": "word",
+   "lang": "fr"
+  },
+  "fr": "A",
+  "es": "A",
+  "cardId": "x03-design-n"
+ },
+ "r076": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "yet-conj"
+ },
+ "r077": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "yoga-n"
+ }
+}

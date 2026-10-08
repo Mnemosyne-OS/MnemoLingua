@@ -1,0 +1,618 @@
+[
+ {
+  "id": "ginger-n",
+  "headword": "ginger",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "giraffe-n",
+  "headword": "giraffe",
+  "pos": "noun"
+ },
+ {
+  "id": "glance-n",
+  "headword": "glance",
+  "pos": "noun"
+ },
+ {
+  "id": "glance-v",
+  "headword": "glance",
+  "pos": "verb"
+ },
+ {
+  "id": "glide-n",
+  "headword": "glide",
+  "pos": "noun"
+ },
+ {
+  "id": "glimpse-n",
+  "headword": "glimpse",
+  "pos": "noun"
+ },
+ {
+  "id": "glint-n",
+  "headword": "glint",
+  "pos": "noun"
+ },
+ {
+  "id": "global-adj",
+  "headword": "global",
+  "pos": "adjective"
+ },
+ {
+  "id": "glorious-adj",
+  "headword": "glorious",
+  "pos": "adjective"
+ },
+ {
+  "id": "glory-n",
+  "headword": "glory",
+  "pos": "noun"
+ },
+ {
+  "id": "go-n",
+  "headword": "go",
+  "pos": "noun"
+ },
+ {
+  "id": "goalkeeper-n",
+  "headword": "goalkeeper",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "goddess-n",
+  "headword": "goddess",
+  "pos": "noun",
+  "sourceTopics": [
+   "Books and literature"
+  ]
+ },
+ {
+  "id": "golfer-n",
+  "headword": "golfer",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "goodness-interj",
+  "headword": "goodness",
+  "pos": "interjection"
+ },
+ {
+  "id": "goods-n",
+  "headword": "goods",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "gorgeous-adj",
+  "headword": "gorgeous",
+  "pos": "adjective"
+ },
+ {
+  "id": "gorilla-n",
+  "headword": "gorilla",
+  "pos": "noun"
+ },
+ {
+  "id": "gossip-n",
+  "headword": "gossip",
+  "pos": "noun",
+  "sourceTopics": [
+   "Media",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "govern-v",
+  "headword": "govern",
+  "pos": "verb"
+ },
+ {
+  "id": "governor-n",
+  "headword": "governor",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "gown-n",
+  "headword": "gown",
+  "pos": "noun",
+  "sourceTopics": [
+   "Clothes",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "grab-v",
+  "headword": "grab",
+  "pos": "verb"
+ },
+ {
+  "id": "graceful-adj",
+  "headword": "graceful",
+  "pos": "adjective"
+ },
+ {
+  "id": "graduate-n",
+  "headword": "graduate",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Education"
+  ]
+ },
+ {
+  "id": "graduation-n",
+  "headword": "graduation",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Education"
+  ]
+ },
+ {
+  "id": "grant-n",
+  "headword": "grant",
+  "pos": "noun"
+ },
+ {
+  "id": "grant-v",
+  "headword": "grant",
+  "pos": "verb"
+ },
+ {
+  "id": "graph-n",
+  "headword": "graph",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education"
+  ]
+ },
+ {
+  "id": "graphic-adj",
+  "headword": "graphic",
+  "pos": "adjective"
+ },
+ {
+  "id": "graphics-n",
+  "headword": "graphics",
+  "pos": "noun"
+ },
+ {
+  "id": "gratitude-n",
+  "headword": "gratitude",
+  "pos": "noun"
+ },
+ {
+  "id": "grave-n",
+  "headword": "grave",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "gravy-n",
+  "headword": "gravy",
+  "pos": "noun"
+ },
+ {
+  "id": "greenhouse-n",
+  "headword": "greenhouse",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "greeting-n",
+  "headword": "greeting",
+  "pos": "noun"
+ },
+ {
+  "id": "grill-n",
+  "headword": "grill",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "grill-v",
+  "headword": "grill",
+  "pos": "verb"
+ },
+ {
+  "id": "groom-n",
+  "headword": "groom",
+  "pos": "noun",
+  "sourceTopics": [
+   "Family life"
+  ]
+ },
+ {
+  "id": "ground-floor-n",
+  "headword": "ground floor",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "group-v",
+  "headword": "group",
+  "pos": "verb"
+ },
+ {
+  "id": "grouping-n",
+  "headword": "grouping",
+  "pos": "noun"
+ },
+ {
+  "id": "growth-n",
+  "headword": "growth",
+  "pos": "noun"
+ },
+ {
+  "id": "guarantee-n",
+  "headword": "guarantee",
+  "pos": "noun"
+ },
+ {
+  "id": "guess-n",
+  "headword": "guess",
+  "pos": "noun"
+ },
+ {
+  "id": "guidance-n",
+  "headword": "guidance",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education"
+  ]
+ },
+ {
+  "id": "guide-n",
+  "headword": "guide",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel and services vocab",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "guide-v",
+  "headword": "guide",
+  "pos": "verb"
+ },
+ {
+  "id": "guilt-n",
+  "headword": "guilt",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs"
+  ]
+ },
+ {
+  "id": "guilty-adj",
+  "headword": "guilty",
+  "pos": "adjective"
+ },
+ {
+  "id": "guitarist-n",
+  "headword": "guitarist",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "gym-n",
+  "headword": "gym",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "gymnastics-n",
+  "headword": "gymnastics",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Education"
+  ]
+ },
+ {
+  "id": "habitat-n",
+  "headword": "habitat",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education"
+  ]
+ },
+ {
+  "id": "hairdresser-n",
+  "headword": "hairdresser",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "hairdryer-n",
+  "headword": "hairdryer",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "half-adv",
+  "headword": "half",
+  "pos": "adverb"
+ },
+ {
+  "id": "hammer-n",
+  "headword": "hammer",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "handball-n",
+  "headword": "handball",
+  "pos": "noun",
+  "sourceTopics": [
+   "Leisure activities",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "hand-held-adj",
+  "headword": "hand-held",
+  "pos": "adjective"
+ },
+ {
+  "id": "handkerchief-n",
+  "headword": "handkerchief",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "handle-v",
+  "headword": "handle",
+  "pos": "verb"
+ },
+ {
+  "id": "handshake-n",
+  "headword": "handshake",
+  "pos": "noun"
+ },
+ {
+  "id": "handwriting-n",
+  "headword": "handwriting",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Education"
+  ]
+ },
+ {
+  "id": "handy-adj",
+  "headword": "handy",
+  "pos": "adjective"
+ },
+ {
+  "id": "hang-v",
+  "headword": "hang",
+  "pos": "verb"
+ },
+ {
+  "id": "hanging-adj",
+  "headword": "hanging",
+  "pos": "adjective"
+ },
+ {
+  "id": "harbor-n",
+  "headword": "harbor",
+  "pos": "noun",
+  "variants": [
+   "harbour"
+  ],
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "hardship-n",
+  "headword": "hardship",
+  "pos": "noun"
+ },
+ {
+  "id": "hard-working-adj",
+  "headword": "hard-working",
+  "pos": "adjective"
+ },
+ {
+  "id": "harness-n",
+  "headword": "harness",
+  "pos": "noun"
+ },
+ {
+  "id": "hasty-adj",
+  "headword": "hasty",
+  "pos": "adjective"
+ },
+ {
+  "id": "hatch-n",
+  "headword": "hatch",
+  "pos": "noun"
+ },
+ {
+  "id": "hate-n",
+  "headword": "hate",
+  "pos": "noun"
+ },
+ {
+  "id": "hatred-n",
+  "headword": "hatred",
+  "pos": "noun"
+ },
+ {
+  "id": "haunt-n",
+  "headword": "haunt",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "haven-n",
+  "headword": "haven",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "hazard-n",
+  "headword": "hazard",
+  "pos": "noun"
+ },
+ {
+  "id": "headline-n",
+  "headword": "headline",
+  "pos": "noun",
+  "sourceTopics": [
+   "Media",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "heal-v",
+  "headword": "heal",
+  "pos": "verb"
+ },
+ {
+  "id": "healing-adj",
+  "headword": "healing",
+  "pos": "adjective"
+ },
+ {
+  "id": "hearing-n",
+  "headword": "hearing",
+  "pos": "noun"
+ },
+ {
+  "id": "heart-attack-n",
+  "headword": "heart attack",
+  "pos": "noun"
+ },
+ {
+  "id": "hearted-adj",
+  "headword": "hearted",
+  "pos": "adjective"
+ },
+ {
+  "id": "hearty-adj",
+  "headword": "hearty",
+  "pos": "adjective"
+ },
+ {
+  "id": "heat-v",
+  "headword": "heat",
+  "pos": "verb"
+ },
+ {
+  "id": "heater-n",
+  "headword": "heater",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "heaven-n",
+  "headword": "heaven",
+  "pos": "noun"
+ },
+ {
+  "id": "heavenly-adj",
+  "headword": "heavenly",
+  "pos": "adjective"
+ },
+ {
+  "id": "heel-n",
+  "headword": "heel",
+  "pos": "noun",
+  "sourceTopics": [
+   "Clothes",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "height-n",
+  "headword": "height",
+  "pos": "noun"
+ },
+ {
+  "id": "helmet-n",
+  "headword": "helmet",
+  "pos": "noun",
+  "sourceTopics": [
+   "Clothes",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "helpless-adj",
+  "headword": "helpless",
+  "pos": "adjective"
+ },
+ {
+  "id": "herd-n",
+  "headword": "herd",
+  "pos": "noun"
+ },
+ {
+  "id": "hesitate-v",
+  "headword": "hesitate",
+  "pos": "verb"
+ }
+]

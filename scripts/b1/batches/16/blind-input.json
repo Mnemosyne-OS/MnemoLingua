@@ -1,0 +1,572 @@
+[
+ {
+  "id": "near-adv",
+  "headword": "near",
+  "pos": "adverb",
+  "example": "Come near so you can see the picture better."
+ },
+ {
+  "id": "nearby-adj",
+  "headword": "nearby",
+  "pos": "adjective",
+  "example": "We had lunch in a nearby restaurant."
+ },
+ {
+  "id": "nearby-adv",
+  "headword": "nearby",
+  "pos": "adverb",
+  "example": "My parents live nearby, so I visit them often."
+ },
+ {
+  "id": "necklace-n",
+  "headword": "necklace",
+  "pos": "noun",
+  "example": "She wore a silver necklace with a small heart."
+ },
+ {
+  "id": "nectar-n",
+  "headword": "nectar",
+  "pos": "noun",
+  "example": "Bees collect nectar from flowers to make honey."
+ },
+ {
+  "id": "needle-n",
+  "headword": "needle",
+  "pos": "noun",
+  "example": "I need a needle and some thread to fix this button."
+ },
+ {
+  "id": "negotiate-v",
+  "headword": "negotiate",
+  "pos": "verb",
+  "example": "The workers negotiated a better salary with their boss."
+ },
+ {
+  "id": "negotiation-n",
+  "headword": "negotiation",
+  "pos": "noun",
+  "example": "After long negotiations, the two companies signed the contract."
+ },
+ {
+  "id": "neighborhood-n",
+  "headword": "neighborhood",
+  "pos": "noun",
+  "example": "We live in a quiet neighborhood with a lot of parks."
+ },
+ {
+  "id": "nephew-n",
+  "headword": "nephew",
+  "pos": "noun",
+  "example": "My nephew is my sister's son."
+ },
+ {
+  "id": "nervousness-n",
+  "headword": "nervousness",
+  "pos": "noun",
+  "example": "He couldn't hide his nervousness before the job interview."
+ },
+ {
+  "id": "ness-n",
+  "headword": "ness",
+  "pos": "noun",
+  "example": "We walked to the end of the ness to see the sea."
+ },
+ {
+  "id": "net-n",
+  "headword": "net",
+  "pos": "noun",
+  "example": "The fishermen pulled the net full of fish onto the boat."
+ },
+ {
+  "id": "network-n",
+  "headword": "network",
+  "pos": "noun",
+  "example": "The city has a good network of buses and trams."
+ },
+ {
+  "id": "neutral-adj",
+  "headword": "neutral",
+  "pos": "adjective",
+  "example": "I don't want to take sides; I'll stay neutral."
+ },
+ {
+  "id": "nevertheless-adv",
+  "headword": "nevertheless",
+  "pos": "adverb",
+  "example": "It was raining; nevertheless, we went for a walk."
+ },
+ {
+  "id": "newborn-adj",
+  "headword": "newborn",
+  "pos": "adjective",
+  "example": "The newborn baby slept all afternoon in her mother's arms."
+ },
+ {
+  "id": "newcomer-n",
+  "headword": "newcomer",
+  "pos": "noun",
+  "example": "The teacher introduced the newcomer to the rest of the class."
+ },
+ {
+  "id": "newly-adv",
+  "headword": "newly",
+  "pos": "adverb",
+  "example": "The newly opened library is already very popular."
+ },
+ {
+  "id": "next-door-adv",
+  "headword": "next door",
+  "pos": "adverb",
+  "example": "A young couple with two children lives next door."
+ },
+ {
+  "id": "next-door-adj",
+  "headword": "next-door",
+  "pos": "adjective",
+  "example": "Our next-door neighbour waters our plants when we're away."
+ },
+ {
+  "id": "nickname-n",
+  "headword": "nickname",
+  "pos": "noun",
+  "example": "His real name is Robert, but his nickname is Bob."
+ },
+ {
+  "id": "niece-n",
+  "headword": "niece",
+  "pos": "noun",
+  "example": "My niece is my brother's daughter."
+ },
+ {
+  "id": "nightlife-n",
+  "headword": "nightlife",
+  "pos": "noun",
+  "example": "Madrid has a great nightlife with bars open until late."
+ },
+ {
+  "id": "nod-n",
+  "headword": "nod",
+  "pos": "noun",
+  "example": "He answered my question with a small nod."
+ },
+ {
+  "id": "noisily-adv",
+  "headword": "noisily",
+  "pos": "adverb",
+  "example": "The children ran noisily down the stairs."
+ },
+ {
+  "id": "none-pron",
+  "headword": "none",
+  "pos": "pronoun",
+  "example": "I bought three apples, but none of them were good."
+ },
+ {
+  "id": "nonetheless-adv",
+  "headword": "nonetheless",
+  "pos": "adverb",
+  "example": "The test was hard; nonetheless, most students passed."
+ },
+ {
+  "id": "nonsense-n",
+  "headword": "nonsense",
+  "pos": "noun",
+  "example": "Don't believe him, he's talking nonsense."
+ },
+ {
+  "id": "nor-conj",
+  "headword": "nor",
+  "pos": "conjunction",
+  "example": "She doesn't eat meat, nor does she drink milk."
+ },
+ {
+  "id": "normally-adv",
+  "headword": "normally",
+  "pos": "adverb",
+  "example": "I normally go to work by bike."
+ },
+ {
+  "id": "northeast-adj",
+  "headword": "northeast",
+  "pos": "adjective",
+  "example": "A cold northeast wind blew all day."
+ },
+ {
+  "id": "northeast-n",
+  "headword": "northeast",
+  "pos": "noun",
+  "example": "The storm will arrive from the northeast tonight."
+ },
+ {
+  "id": "northeastern-adj",
+  "headword": "northeastern",
+  "pos": "adjective",
+  "example": "They live in a small town in northeastern Spain."
+ },
+ {
+  "id": "northern-adj",
+  "headword": "northern",
+  "pos": "adjective",
+  "example": "It is often colder in the northern part of the country."
+ },
+ {
+  "id": "northwest-adj",
+  "headword": "northwest",
+  "pos": "adjective",
+  "example": "We drove along the northwest coast of France."
+ },
+ {
+  "id": "northwest-n",
+  "headword": "northwest",
+  "pos": "noun",
+  "example": "The city is in the northwest of the country."
+ },
+ {
+  "id": "northwestern-adj",
+  "headword": "northwestern",
+  "pos": "adjective",
+  "example": "Galicia is a region in northwestern Spain."
+ },
+ {
+  "id": "notice-v",
+  "headword": "notice",
+  "pos": "verb",
+  "example": "Did you notice that Tom has a new haircut?"
+ },
+ {
+  "id": "noticeable-adj",
+  "headword": "noticeable",
+  "pos": "adjective",
+  "example": "There was a noticeable change in his health after the operation."
+ },
+ {
+  "id": "noticeboard-n",
+  "headword": "noticeboard",
+  "pos": "noun",
+  "example": "The exam results are on the noticeboard outside the classroom."
+ },
+ {
+  "id": "notion-n",
+  "headword": "notion",
+  "pos": "noun",
+  "example": "I had no notion of how difficult the job would be."
+ },
+ {
+  "id": "notorious-adj",
+  "headword": "notorious",
+  "pos": "adjective",
+  "example": "This road is notorious for its traffic jams."
+ },
+ {
+  "id": "novelist-n",
+  "headword": "novelist",
+  "pos": "noun",
+  "example": "The novelist wrote her first book when she was twenty."
+ },
+ {
+  "id": "nowhere-adv",
+  "headword": "nowhere",
+  "pos": "adverb",
+  "example": "I looked for my keys, but they were nowhere in the house."
+ },
+ {
+  "id": "nuclear-adj",
+  "headword": "nuclear",
+  "pos": "adjective",
+  "example": "France produces a lot of its electricity in nuclear power stations."
+ },
+ {
+  "id": "nucleus-n",
+  "headword": "nucleus",
+  "pos": "noun",
+  "example": "The nucleus is in the centre of the cell."
+ },
+ {
+  "id": "numerous-adj",
+  "headword": "numerous",
+  "pos": "adjective",
+  "example": "I have visited Paris on numerous occasions."
+ },
+ {
+  "id": "nurse-v",
+  "headword": "nurse",
+  "pos": "verb",
+  "example": "She nursed her sick father at home for months."
+ },
+ {
+  "id": "nutrient-n",
+  "headword": "nutrient",
+  "pos": "noun",
+  "example": "Plants take nutrients from the soil."
+ },
+ {
+  "id": "nutrition-n",
+  "headword": "nutrition",
+  "pos": "noun",
+  "example": "Good nutrition is important for growing children."
+ },
+ {
+  "id": "nutritious-adj",
+  "headword": "nutritious",
+  "pos": "adjective",
+  "example": "Soup with vegetables is a cheap and nutritious meal."
+ },
+ {
+  "id": "object-n",
+  "headword": "object",
+  "pos": "noun",
+  "example": "There was a strange object on the table, like a small metal box."
+ },
+ {
+  "id": "objection-n",
+  "headword": "objection",
+  "pos": "noun",
+  "example": "Does anyone have an objection to the new plan?"
+ },
+ {
+  "id": "objective-n",
+  "headword": "objective",
+  "pos": "noun",
+  "example": "Our main objective this year is to find more customers."
+ },
+ {
+  "id": "observation-n",
+  "headword": "observation",
+  "pos": "noun",
+  "example": "The patient stayed in hospital one night for observation."
+ },
+ {
+  "id": "observe-v",
+  "headword": "observe",
+  "pos": "verb",
+  "example": "The students observed the birds through binoculars."
+ },
+ {
+  "id": "obstacle-n",
+  "headword": "obstacle",
+  "pos": "noun",
+  "example": "Not speaking the language was the biggest obstacle to finding a job."
+ },
+ {
+  "id": "obtain-v",
+  "headword": "obtain",
+  "pos": "verb",
+  "example": "You must obtain a visa before you travel to that country."
+ },
+ {
+  "id": "obvious-adj",
+  "headword": "obvious",
+  "pos": "adjective",
+  "example": "It was obvious that she was tired, because she kept yawning."
+ },
+ {
+  "id": "obviously-adv",
+  "headword": "obviously",
+  "pos": "adverb",
+  "example": "He was obviously happy with his exam results."
+ },
+ {
+  "id": "occasion-n",
+  "headword": "occasion",
+  "pos": "noun",
+  "example": "We only use the best plates on special occasions."
+ },
+ {
+  "id": "occasion-v",
+  "headword": "occasion",
+  "pos": "verb",
+  "example": "The new rule occasioned a lot of discussion among the staff."
+ },
+ {
+  "id": "occasional-adj",
+  "headword": "occasional",
+  "pos": "adjective",
+  "example": "I don't smoke, but I enjoy an occasional glass of wine."
+ },
+ {
+  "id": "occasionally-adv",
+  "headword": "occasionally",
+  "pos": "adverb",
+  "example": "We occasionally eat out, but usually we cook at home."
+ },
+ {
+  "id": "occupy-v",
+  "headword": "occupy",
+  "pos": "verb",
+  "example": "Our company will occupy the second floor of the new building."
+ },
+ {
+  "id": "occur-v",
+  "headword": "occur",
+  "pos": "verb",
+  "example": "The accident occurred at about six o'clock in the evening."
+ },
+ {
+  "id": "ocean-n",
+  "headword": "ocean",
+  "pos": "noun",
+  "example": "Whales live in the deep waters of the ocean."
+ },
+ {
+  "id": "off-prep",
+  "headword": "off",
+  "pos": "preposition",
+  "example": "The cat jumped off the table when I came in."
+ },
+ {
+  "id": "offensive-adj",
+  "headword": "offensive",
+  "pos": "adjective",
+  "example": "Some people found his jokes offensive and left the room."
+ },
+ {
+  "id": "officially-adv",
+  "headword": "officially",
+  "pos": "adverb",
+  "example": "The new bridge will officially open next Monday."
+ },
+ {
+  "id": "oily-adj",
+  "headword": "oily",
+  "pos": "adjective",
+  "example": "The fried fish was too oily for me."
+ },
+ {
+  "id": "old-fashioned-adj",
+  "headword": "old-fashioned",
+  "pos": "adjective",
+  "example": "My grandparents' kitchen looks very old-fashioned."
+ },
+ {
+  "id": "oneself-pron",
+  "headword": "oneself",
+  "pos": "pronoun",
+  "example": "It is important to take care of oneself."
+ },
+ {
+  "id": "onstage-adj",
+  "headword": "onstage",
+  "pos": "adjective",
+  "example": "The singer changed her onstage costume three times during the concert."
+ },
+ {
+  "id": "onto-prep",
+  "headword": "onto",
+  "pos": "preposition",
+  "example": "The children climbed onto the roof of the shed."
+ },
+ {
+  "id": "opening-n",
+  "headword": "opening",
+  "pos": "noun",
+  "example": "Hundreds of people came to the opening of the new shopping centre."
+ },
+ {
+  "id": "operation-n",
+  "headword": "operation",
+  "pos": "noun",
+  "example": "My mother needs an operation on her knee."
+ },
+ {
+  "id": "opposite-adv",
+  "headword": "opposite",
+  "pos": "adverb",
+  "example": "The woman who lives opposite is a doctor."
+ },
+ {
+  "id": "opposite-n",
+  "headword": "opposite",
+  "pos": "noun",
+  "example": "Hot is the opposite of cold."
+ },
+ {
+  "id": "opposition-n",
+  "headword": "opposition",
+  "pos": "noun",
+  "example": "There was strong opposition to the plan to close the hospital."
+ },
+ {
+  "id": "oppress-v",
+  "headword": "oppress",
+  "pos": "verb",
+  "example": "The king oppressed the poor and took their land."
+ },
+ {
+  "id": "oppression-n",
+  "headword": "oppression",
+  "pos": "noun",
+  "example": "The people fought for many years against oppression."
+ },
+ {
+  "id": "option-n",
+  "headword": "option",
+  "pos": "noun",
+  "example": "You can pay in cash or by card; both options are fine."
+ },
+ {
+  "id": "oral-n",
+  "headword": "oral",
+  "pos": "noun",
+  "example": "I have my English oral tomorrow, and I'm very nervous."
+ },
+ {
+  "id": "orbit-n",
+  "headword": "orbit",
+  "pos": "noun",
+  "example": "The Moon takes about a month to complete its orbit around the Earth."
+ },
+ {
+  "id": "orchestra-n",
+  "headword": "orchestra",
+  "pos": "noun",
+  "example": "My cousin plays the violin in the city orchestra."
+ },
+ {
+  "id": "orderly-adj",
+  "headword": "orderly",
+  "pos": "adjective",
+  "example": "The passengers left the plane in an orderly way."
+ },
+ {
+  "id": "ordinary-adj",
+  "headword": "ordinary",
+  "pos": "adjective",
+  "example": "It was just an ordinary day, nothing special happened."
+ },
+ {
+  "id": "organ-n",
+  "headword": "organ",
+  "pos": "noun",
+  "example": "The heart is the organ that pumps blood around the body."
+ },
+ {
+  "id": "organic-adj",
+  "headword": "organic",
+  "pos": "adjective",
+  "example": "We buy organic vegetables from a local farm."
+ },
+ {
+  "id": "organism-n",
+  "headword": "organism",
+  "pos": "noun",
+  "example": "Bacteria are very small organisms that live everywhere."
+ },
+ {
+  "id": "organization-n",
+  "headword": "organization",
+  "pos": "noun",
+  "example": "She works for an organization that helps homeless people."
+ },
+ {
+  "id": "origin-n",
+  "headword": "origin",
+  "pos": "noun",
+  "example": "The origin of this tradition is still a mystery."
+ },
+ {
+  "id": "otherwise-adv",
+  "headword": "otherwise",
+  "pos": "adverb",
+  "example": "Take an umbrella, otherwise you'll get wet."
+ }
+]

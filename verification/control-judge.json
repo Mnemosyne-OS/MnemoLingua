@@ -1,0 +1,466 @@
+{
+ "b01.fr": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "b01.es": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "b02.fr": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "b02.es": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "b03.fr": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "b03.es": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "b04.fr": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "b04.es": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "b05.fr": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "b05.es": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "b06.fr": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "b06.es": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "b07.fr": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "b07.es": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "b08.fr": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "b08.es": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "b09.fr": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "b09.es": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "b10.fr": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "b10.es": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "d01.fr": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "d01.es": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "d02.fr": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "d02.es": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "d03.fr": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "d03.es": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "d04.fr": {
+  "A": "ok",
+  "B": "says turn right instead of left"
+ },
+ "d04.es": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "d05.fr": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "d05.es": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "d06.fr": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "d06.es": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "d07.fr": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "d07.es": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "d08.fr": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "d08.es": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "t01.fr": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "t01.es": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "t02.fr": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "t02.es": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "t03.fr": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "t03.es": {
+  "A": "llega means arrive, not leave (sale)",
+  "B": "ok"
+ },
+ "t04.fr": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "t04.es": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "t05.fr": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "t05.es": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "t06.fr": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "t06.es": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "t07.fr": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "t07.es": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "t08.fr": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "t08.es": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "h01.fr": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "h01.es": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "h02.fr": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "h02.es": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "h03.fr": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "h03.es": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "h04.fr": {
+  "A": "spelling: compri should be compris",
+  "B": "ok"
+ },
+ "h04.es": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "h05.fr": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "h05.es": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "h06.fr": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "h06.es": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "h07.fr": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "h07.es": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "h08.fr": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "h08.es": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "r01.fr": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "r01.es": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "r02.fr": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "r02.es": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "r03.fr": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "r03.es": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "r04.fr": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "r04.es": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "r05.fr": {
+  "A": "noisettes de veau is a veal cut, not nuts (fruits a coque)",
+  "B": "ok"
+ },
+ "r05.es": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "r06.fr": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "r06.es": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "r07.fr": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "r07.es": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "r08.fr": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "r08.es": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "s01.fr": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "s01.es": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "s02.fr": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "s02.es": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "s03.fr": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "s03.es": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "s04.fr": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "s04.es": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "s05.fr": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "s05.es": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "s06.fr": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "s06.es": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "s07.fr": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "s07.es": {
+  "A": "barato means cheap, opposite meaning (caro)",
+  "B": "ok"
+ },
+ "s08.fr": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "s08.es": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "e01.fr": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "e01.es": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "e02.fr": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "e02.es": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "e03.fr": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "e03.es": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "e04.fr": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "e04.es": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "e05.fr": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "e05.es": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "e06.fr": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "e06.es": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "e07.fr": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "e07.es": {
+  "A": "ok",
+  "B": "tio is overly familiar/rude to a stranger; estacion de policia is not the usual term in Spain (comisaria)"
+ },
+ "e08.fr": {
+  "A": "ok",
+  "B": "ok"
+ },
+ "e08.es": {
+  "A": "ok",
+  "B": "ok"
+ }
+}

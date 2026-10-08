@@ -1,0 +1,565 @@
+[
+ {
+  "id": "leadership-n",
+  "headword": "leadership",
+  "pos": "noun"
+ },
+ {
+  "id": "leading-adj",
+  "headword": "leading",
+  "pos": "adjective"
+ },
+ {
+  "id": "league-n",
+  "headword": "league",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "lean-adj",
+  "headword": "lean",
+  "pos": "adjective"
+ },
+ {
+  "id": "leap-v",
+  "headword": "leap",
+  "pos": "verb"
+ },
+ {
+  "id": "least-adv",
+  "headword": "least",
+  "pos": "adverb"
+ },
+ {
+  "id": "leave-n",
+  "headword": "leave",
+  "pos": "noun"
+ },
+ {
+  "id": "lecture-n",
+  "headword": "lecture",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Education"
+  ]
+ },
+ {
+  "id": "legal-adj",
+  "headword": "legal",
+  "pos": "adjective"
+ },
+ {
+  "id": "legally-adv",
+  "headword": "legally",
+  "pos": "adverb"
+ },
+ {
+  "id": "length-n",
+  "headword": "length",
+  "pos": "noun"
+ },
+ {
+  "id": "lessen-v",
+  "headword": "lessen",
+  "pos": "verb"
+ },
+ {
+  "id": "lettuce-n",
+  "headword": "lettuce",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "level-adj",
+  "headword": "level",
+  "pos": "adjective"
+ },
+ {
+  "id": "liar-n",
+  "headword": "liar",
+  "pos": "noun",
+  "sourceTopics": [
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "liberate-v",
+  "headword": "liberate",
+  "pos": "verb"
+ },
+ {
+  "id": "liberation-n",
+  "headword": "liberation",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs"
+  ]
+ },
+ {
+  "id": "librarian-n",
+  "headword": "librarian",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "lie-n",
+  "headword": "lie",
+  "pos": "noun"
+ },
+ {
+  "id": "lifeguard-n",
+  "headword": "lifeguard",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "lifelong-adj",
+  "headword": "lifelong",
+  "pos": "adjective"
+ },
+ {
+  "id": "lift-n",
+  "headword": "lift",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "Travel"
+  ]
+ },
+ {
+  "id": "lift-v",
+  "headword": "lift",
+  "pos": "verb"
+ },
+ {
+  "id": "light-v",
+  "headword": "light",
+  "pos": "verb"
+ },
+ {
+  "id": "lighter-n",
+  "headword": "lighter",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "lightly-adv",
+  "headword": "lightly",
+  "pos": "adverb"
+ },
+ {
+  "id": "lightning-n",
+  "headword": "lightning",
+  "pos": "noun"
+ },
+ {
+  "id": "like-conj",
+  "headword": "like",
+  "pos": "conjunction"
+ },
+ {
+  "id": "likeness-n",
+  "headword": "likeness",
+  "pos": "noun"
+ },
+ {
+  "id": "limit-n",
+  "headword": "limit",
+  "pos": "noun"
+ },
+ {
+  "id": "limit-v",
+  "headword": "limit",
+  "pos": "verb"
+ },
+ {
+  "id": "limitation-n",
+  "headword": "limitation",
+  "pos": "noun"
+ },
+ {
+  "id": "limited-adj",
+  "headword": "limited",
+  "pos": "adjective"
+ },
+ {
+  "id": "limp-v",
+  "headword": "limp",
+  "pos": "verb"
+ },
+ {
+  "id": "link-n",
+  "headword": "link",
+  "pos": "noun"
+ },
+ {
+  "id": "link-v",
+  "headword": "link",
+  "pos": "verb"
+ },
+ {
+  "id": "liquid-adj",
+  "headword": "liquid",
+  "pos": "adjective"
+ },
+ {
+  "id": "liquid-n",
+  "headword": "liquid",
+  "pos": "noun"
+ },
+ {
+  "id": "literary-adj",
+  "headword": "literary",
+  "pos": "adjective"
+ },
+ {
+  "id": "literature-n",
+  "headword": "literature",
+  "pos": "noun",
+  "sourceTopics": [
+   "Books and literature",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "little-det",
+  "headword": "little",
+  "pos": "determiner"
+ },
+ {
+  "id": "little-pron",
+  "headword": "little",
+  "pos": "pronoun"
+ },
+ {
+  "id": "live-adj",
+  "headword": "live",
+  "pos": "adjective"
+ },
+ {
+  "id": "liver-n",
+  "headword": "liver",
+  "pos": "noun"
+ },
+ {
+  "id": "loaf-n",
+  "headword": "loaf",
+  "pos": "noun"
+ },
+ {
+  "id": "locate-v",
+  "headword": "locate",
+  "pos": "verb"
+ },
+ {
+  "id": "location-n",
+  "headword": "location",
+  "pos": "noun"
+ },
+ {
+  "id": "lock-v",
+  "headword": "lock",
+  "pos": "verb"
+ },
+ {
+  "id": "lodge-n",
+  "headword": "lodge",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "log-n",
+  "headword": "log",
+  "pos": "noun"
+ },
+ {
+  "id": "logic-n",
+  "headword": "logic",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Education"
+  ]
+ },
+ {
+  "id": "logo-n",
+  "headword": "logo",
+  "pos": "noun"
+ },
+ {
+  "id": "lorry-n",
+  "headword": "lorry",
+  "pos": "noun"
+ },
+ {
+  "id": "loss-n",
+  "headword": "loss",
+  "pos": "noun"
+ },
+ {
+  "id": "lottery-n",
+  "headword": "lottery",
+  "pos": "noun"
+ },
+ {
+  "id": "loud-adj",
+  "headword": "loud",
+  "pos": "adjective"
+ },
+ {
+  "id": "loud-adv",
+  "headword": "loud",
+  "pos": "adverb"
+ },
+ {
+  "id": "loudspeaker-n",
+  "headword": "loudspeaker",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "lovingly-adv",
+  "headword": "lovingly",
+  "pos": "adverb"
+ },
+ {
+  "id": "loyal-adj",
+  "headword": "loyal",
+  "pos": "adjective"
+ },
+ {
+  "id": "loyalty-n",
+  "headword": "loyalty",
+  "pos": "noun"
+ },
+ {
+  "id": "luggage-n",
+  "headword": "luggage",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel and services vocab",
+   "Travel"
+  ]
+ },
+ {
+  "id": "lung-n",
+  "headword": "lung",
+  "pos": "noun",
+  "sourceTopics": [
+   "Health and body care"
+  ]
+ },
+ {
+  "id": "luxury-n",
+  "headword": "luxury",
+  "pos": "noun"
+ },
+ {
+  "id": "magical-adj",
+  "headword": "magical",
+  "pos": "adjective"
+ },
+ {
+  "id": "magician-n",
+  "headword": "magician",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "magnificent-adj",
+  "headword": "magnificent",
+  "pos": "adjective"
+ },
+ {
+  "id": "mail-v",
+  "headword": "mail",
+  "pos": "verb"
+ },
+ {
+  "id": "mailbox-n",
+  "headword": "mailbox",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Services"
+  ]
+ },
+ {
+  "id": "main-adj",
+  "headword": "main",
+  "pos": "adjective"
+ },
+ {
+  "id": "maintain-v",
+  "headword": "maintain",
+  "pos": "verb"
+ },
+ {
+  "id": "maintenance-n",
+  "headword": "maintenance",
+  "pos": "noun"
+ },
+ {
+  "id": "majority-n",
+  "headword": "majority",
+  "pos": "noun"
+ },
+ {
+  "id": "male-adj",
+  "headword": "male",
+  "pos": "adjective"
+ },
+ {
+  "id": "management-n",
+  "headword": "management",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Services"
+  ]
+ },
+ {
+  "id": "mankind-n",
+  "headword": "mankind",
+  "pos": "noun",
+  "sourceTopics": [
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "maple-n",
+  "headword": "maple",
+  "pos": "noun"
+ },
+ {
+  "id": "marble-n",
+  "headword": "marble",
+  "pos": "noun"
+ },
+ {
+  "id": "march-n",
+  "headword": "march",
+  "pos": "noun"
+ },
+ {
+  "id": "march-v",
+  "headword": "march",
+  "pos": "verb"
+ },
+ {
+  "id": "marine-adj",
+  "headword": "marine",
+  "pos": "adjective"
+ },
+ {
+  "id": "marked-adj",
+  "headword": "marked",
+  "pos": "adjective"
+ },
+ {
+  "id": "market-v",
+  "headword": "market",
+  "pos": "verb"
+ },
+ {
+  "id": "marriage-n",
+  "headword": "marriage",
+  "pos": "noun",
+  "sourceTopics": [
+   "Family life",
+   "Relations with other people"
+  ]
+ },
+ {
+  "id": "mash-v",
+  "headword": "mash",
+  "pos": "verb"
+ },
+ {
+  "id": "mass-adj",
+  "headword": "mass",
+  "pos": "adjective"
+ },
+ {
+  "id": "massive-adj",
+  "headword": "massive",
+  "pos": "adjective"
+ },
+ {
+  "id": "match-v",
+  "headword": "match",
+  "pos": "verb"
+ },
+ {
+  "id": "mathematician-n",
+  "headword": "mathematician",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "mathematics-n",
+  "headword": "mathematics",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Education"
+  ]
+ },
+ {
+  "id": "maximum-adj",
+  "headword": "maximum",
+  "pos": "adjective"
+ },
+ {
+  "id": "maximum-n",
+  "headword": "maximum",
+  "pos": "noun"
+ },
+ {
+  "id": "mayor-n",
+  "headword": "mayor",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "meaningful-adj",
+  "headword": "meaningful",
+  "pos": "adjective"
+ },
+ {
+  "id": "meanwhile-adv",
+  "headword": "meanwhile",
+  "pos": "adverb"
+ }
+]

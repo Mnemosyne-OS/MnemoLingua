@@ -1,0 +1,388 @@
+{
+ "decoys": {
+  "caught": 6,
+  "total": 6,
+  "missed": []
+ },
+ "toReview": 1,
+ "cards": {
+  "issue-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "it-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "itself-pron": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "jam-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "jelly-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "joke-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "journey-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "joy-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "junior-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "junk-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "killer-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "kilo-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "kilogram-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "kilometer-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "kind-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "kindly-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "kingdom-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "kit-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "knock-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "knowledge-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "labor-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "lack-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "lake-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "lamp-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "land-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "landscape-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "lane-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "last-det": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "last-pron": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "latest-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "latter-adv": {
+   "check": "to-review",
+   "problems": [
+    "english: pos mismatch: 'latter' in 'the latter half' is an adjective, not an adverb"
+   ]
+  },
+  "latter-pron": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "law-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "lawyer-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "laziness-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "lead-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "learner-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "least-det": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "leather-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "left-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "left-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "left-hand-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "leisure-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "lemon-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "lemonade-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "lend-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "less-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "less-det": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "less-pron": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "level-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "liberty-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "license-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "lie-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "lifestyle-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "likely-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "lip-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "liter-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "lively-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "load-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "local-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "lock-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "logical-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "long-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "loose-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "lose-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "lost-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "lot-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "loudly-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "lover-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "low-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "low-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "luckily-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "lunchtime-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "lyric-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "mad-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "magic-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "magic-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "main-course-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "mainly-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "major-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "maker-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "make-up-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "male-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "mall-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "manage-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "manager-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "manner-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "mark-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "mark-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "market-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "married-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "marry-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "marvelous-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "material-n": {
+   "check": "two-pass",
+   "problems": []
+  }
+ }
+}

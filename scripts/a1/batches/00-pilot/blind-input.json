@@ -1,0 +1,602 @@
+[
+ {
+  "id": "a-det",
+  "headword": "a",
+  "pos": "determiner",
+  "example": "I have a dog."
+ },
+ {
+  "id": "afraid-adj",
+  "headword": "afraid",
+  "pos": "adjective",
+  "example": "My sister is afraid of dogs."
+ },
+ {
+  "id": "all-pron",
+  "headword": "all",
+  "pos": "pronoun",
+  "example": "All of my friends like music."
+ },
+ {
+  "id": "and-conj",
+  "headword": "and",
+  "pos": "conjunction",
+  "example": "I like tea and coffee."
+ },
+ {
+  "id": "apple-n",
+  "headword": "apple",
+  "pos": "noun",
+  "example": "I eat an apple every day."
+ },
+ {
+  "id": "at-prep",
+  "headword": "at",
+  "pos": "preposition",
+  "example": "I am at home now."
+ },
+ {
+  "id": "ball-n",
+  "headword": "ball",
+  "pos": "noun",
+  "example": "The children play with a ball."
+ },
+ {
+  "id": "beach-n",
+  "headword": "beach",
+  "pos": "noun",
+  "example": "We swim at the beach in summer."
+ },
+ {
+  "id": "before-prep",
+  "headword": "before",
+  "pos": "preposition",
+  "example": "I wash my hands before dinner."
+ },
+ {
+  "id": "better-adj",
+  "headword": "better",
+  "pos": "adjective",
+  "example": "This book is better than that book."
+ },
+ {
+  "id": "blank-adj",
+  "headword": "blank",
+  "pos": "adjective",
+  "example": "The page is blank. There are no words."
+ },
+ {
+  "id": "boring-adj",
+  "headword": "boring",
+  "pos": "adjective",
+  "example": "This film is very boring."
+ },
+ {
+  "id": "brain-n",
+  "headword": "brain",
+  "pos": "noun",
+  "example": "We think with our brain."
+ },
+ {
+  "id": "brush-n",
+  "headword": "brush",
+  "pos": "noun",
+  "example": "I use a brush for my hair."
+ },
+ {
+  "id": "butterfly-n",
+  "headword": "butterfly",
+  "pos": "noun",
+  "example": "A yellow butterfly is on the flower."
+ },
+ {
+  "id": "candy-n",
+  "headword": "candy",
+  "pos": "noun",
+  "example": "The child eats a lot of candy."
+ },
+ {
+  "id": "catch-n",
+  "headword": "catch",
+  "pos": "noun",
+  "example": "Look at my catch: three big fish!"
+ },
+ {
+  "id": "cheese-n",
+  "headword": "cheese",
+  "pos": "noun",
+  "example": "I like bread with cheese."
+ },
+ {
+  "id": "classroom-n",
+  "headword": "classroom",
+  "pos": "noun",
+  "example": "Our classroom has twenty desks."
+ },
+ {
+  "id": "cloud-n",
+  "headword": "cloud",
+  "pos": "noun",
+  "example": "There is a big grey cloud in the sky."
+ },
+ {
+  "id": "collection-n",
+  "headword": "collection",
+  "pos": "noun",
+  "example": "My brother has a big stamp collection."
+ },
+ {
+  "id": "cookie-n",
+  "headword": "cookie",
+  "pos": "noun",
+  "example": "I eat a chocolate cookie with milk."
+ },
+ {
+  "id": "cover-n",
+  "headword": "cover",
+  "pos": "noun",
+  "example": "The book has a red cover."
+ },
+ {
+  "id": "dance-n",
+  "headword": "dance",
+  "pos": "noun",
+  "example": "The tango is a dance from Argentina."
+ },
+ {
+  "id": "design-n",
+  "headword": "design",
+  "pos": "noun",
+  "example": "I like the design of your T-shirt."
+ },
+ {
+  "id": "discuss-v",
+  "headword": "discuss",
+  "pos": "verb",
+  "example": "We discuss the lesson in class."
+ },
+ {
+  "id": "drama-n",
+  "headword": "drama",
+  "pos": "noun",
+  "example": "We act in plays in our drama club."
+ },
+ {
+  "id": "due-adj",
+  "headword": "due",
+  "pos": "adjective",
+  "example": "The homework is due on Monday."
+ },
+ {
+  "id": "elementary-adj",
+  "headword": "elementary",
+  "pos": "adjective",
+  "example": "My little brother goes to elementary school."
+ },
+ {
+  "id": "everyone-pron",
+  "headword": "everyone",
+  "pos": "pronoun",
+  "example": "Everyone in my class likes pizza."
+ },
+ {
+  "id": "face-n",
+  "headword": "face",
+  "pos": "noun",
+  "example": "She washes her face in the morning."
+ },
+ {
+  "id": "fast-adv",
+  "headword": "fast",
+  "pos": "adverb",
+  "example": "My dog runs very fast."
+ },
+ {
+  "id": "field-n",
+  "headword": "field",
+  "pos": "noun",
+  "example": "The cows are in the green field."
+ },
+ {
+  "id": "fish-n",
+  "headword": "fish",
+  "pos": "noun",
+  "example": "We eat fish on Fridays."
+ },
+ {
+  "id": "food-n",
+  "headword": "food",
+  "pos": "noun",
+  "example": "The food in this restaurant is very good."
+ },
+ {
+  "id": "from-prep",
+  "headword": "from",
+  "pos": "preposition",
+  "example": "I am from Spain."
+ },
+ {
+  "id": "get-v",
+  "headword": "get",
+  "pos": "verb",
+  "example": "I get a letter from my friend."
+ },
+ {
+  "id": "gold-adj",
+  "headword": "gold",
+  "pos": "adjective",
+  "example": "She has a gold ring."
+ },
+ {
+  "id": "grandparent-n",
+  "headword": "grandparent",
+  "pos": "noun",
+  "example": "My grandparents live in a small village."
+ },
+ {
+  "id": "guess-v",
+  "headword": "guess",
+  "pos": "verb",
+  "example": "Can you guess my name?"
+ },
+ {
+  "id": "hand-n",
+  "headword": "hand",
+  "pos": "noun",
+  "example": "I write with my right hand."
+ },
+ {
+  "id": "head-n",
+  "headword": "head",
+  "pos": "noun",
+  "example": "I wear a hat on my head."
+ },
+ {
+  "id": "here-adv",
+  "headword": "here",
+  "pos": "adverb",
+  "example": "Come here, please!"
+ },
+ {
+  "id": "hold-n",
+  "headword": "hold",
+  "pos": "noun",
+  "example": "Take hold of my hand on the stairs."
+ },
+ {
+  "id": "hour-n",
+  "headword": "hour",
+  "pos": "noun",
+  "example": "The film is two hours long."
+ },
+ {
+  "id": "ideal-adj",
+  "headword": "ideal",
+  "pos": "adjective",
+  "example": "This small house is ideal for us."
+ },
+ {
+  "id": "interviewer-n",
+  "headword": "interviewer",
+  "pos": "noun",
+  "example": "The interviewer asks me many questions."
+ },
+ {
+  "id": "jeans-n",
+  "headword": "jeans",
+  "pos": "noun",
+  "example": "I wear blue jeans every day."
+ },
+ {
+  "id": "keep-v",
+  "headword": "keep",
+  "pos": "verb",
+  "example": "You can keep the book. It is yours."
+ },
+ {
+  "id": "kite-n",
+  "headword": "kite",
+  "pos": "noun",
+  "example": "The children fly a kite on the beach."
+ },
+ {
+  "id": "laugh-v",
+  "headword": "laugh",
+  "pos": "verb",
+  "example": "We laugh at the funny clown."
+ },
+ {
+  "id": "library-n",
+  "headword": "library",
+  "pos": "noun",
+  "example": "I read books at the library."
+ },
+ {
+  "id": "little-adj",
+  "headword": "little",
+  "pos": "adjective",
+  "example": "We have a little cat."
+ },
+ {
+  "id": "love-n",
+  "headword": "love",
+  "pos": "noun",
+  "example": "A mother's love for her child is big."
+ },
+ {
+  "id": "man-n",
+  "headword": "man",
+  "pos": "noun",
+  "example": "The man has a black beard."
+ },
+ {
+  "id": "me-pron",
+  "headword": "me",
+  "pos": "pronoun",
+  "example": "Can you help me, please?"
+ },
+ {
+  "id": "milk-n",
+  "headword": "milk",
+  "pos": "noun",
+  "example": "I drink a glass of milk."
+ },
+ {
+  "id": "monday-n",
+  "headword": "Monday",
+  "pos": "noun",
+  "example": "Monday is the first day of the week."
+ },
+ {
+  "id": "mouse-n",
+  "headword": "mouse",
+  "pos": "noun",
+  "example": "The cat runs after a little mouse."
+ },
+ {
+  "id": "musician-n",
+  "headword": "musician",
+  "pos": "noun",
+  "example": "The musician plays the guitar every night."
+ },
+ {
+  "id": "news-n",
+  "headword": "news",
+  "pos": "noun",
+  "example": "I watch the news on TV every evening."
+ },
+ {
+  "id": "notebook-n",
+  "headword": "notebook",
+  "pos": "noun",
+  "example": "I write the new words in my notebook."
+ },
+ {
+  "id": "officer-n",
+  "headword": "officer",
+  "pos": "noun",
+  "example": "The police officer helps the old woman."
+ },
+ {
+  "id": "open-adj",
+  "headword": "open",
+  "pos": "adjective",
+  "example": "The shop is open on Sunday."
+ },
+ {
+  "id": "outside-adv",
+  "headword": "outside",
+  "pos": "adverb",
+  "example": "The children play outside in the garden."
+ },
+ {
+  "id": "pants-n",
+  "headword": "pants",
+  "pos": "noun",
+  "example": "He wears black pants to work."
+ },
+ {
+  "id": "pay-v",
+  "headword": "pay",
+  "pos": "verb",
+  "example": "I pay for the bread at the shop."
+ },
+ {
+  "id": "photo-n",
+  "headword": "photo",
+  "pos": "noun",
+  "example": "This is a photo of my family."
+ },
+ {
+  "id": "plane-n",
+  "headword": "plane",
+  "pos": "noun",
+  "example": "We go to London by plane."
+ },
+ {
+  "id": "poor-adj",
+  "headword": "poor",
+  "pos": "adjective",
+  "example": "The poor family has no money."
+ },
+ {
+  "id": "prince-n",
+  "headword": "prince",
+  "pos": "noun",
+  "example": "The prince lives in a big castle."
+ },
+ {
+  "id": "rabbit-n",
+  "headword": "rabbit",
+  "pos": "noun",
+  "example": "The white rabbit eats a carrot."
+ },
+ {
+  "id": "real-adj",
+  "headword": "real",
+  "pos": "adjective",
+  "example": "Is that a real flower or a plastic one?"
+ },
+ {
+  "id": "ribbon-n",
+  "headword": "ribbon",
+  "pos": "noun",
+  "example": "She has a red ribbon in her hair."
+ },
+ {
+  "id": "rose-n",
+  "headword": "rose",
+  "pos": "noun",
+  "example": "A red rose is a beautiful flower."
+ },
+ {
+  "id": "sale-n",
+  "headword": "sale",
+  "pos": "noun",
+  "example": "Today the shoes are cheap in the sale."
+ },
+ {
+  "id": "scientist-n",
+  "headword": "scientist",
+  "pos": "noun",
+  "example": "The scientist studies plants and animals."
+ },
+ {
+  "id": "shake-n",
+  "headword": "shake",
+  "pos": "noun",
+  "example": "I drink a chocolate shake at the café."
+ },
+ {
+  "id": "short-adv",
+  "headword": "short",
+  "pos": "adverb",
+  "example": "She cuts her hair short in summer."
+ },
+ {
+  "id": "singer-n",
+  "headword": "singer",
+  "pos": "noun",
+  "example": "The singer has a beautiful voice."
+ },
+ {
+  "id": "small-adj",
+  "headword": "small",
+  "pos": "adjective",
+  "example": "A mouse is a small animal."
+ },
+ {
+  "id": "soccer-n",
+  "headword": "soccer",
+  "pos": "noun",
+  "example": "We play soccer in the park on Saturday."
+ },
+ {
+  "id": "sorry-adj",
+  "headword": "sorry",
+  "pos": "adjective",
+  "example": "I am sorry. I am late."
+ },
+ {
+  "id": "stage-n",
+  "headword": "stage",
+  "pos": "noun",
+  "example": "The singer stands on the stage."
+ },
+ {
+  "id": "stop-v",
+  "headword": "stop",
+  "pos": "verb",
+  "example": "The bus stops in front of the school."
+ },
+ {
+  "id": "subway-n",
+  "headword": "subway",
+  "pos": "noun",
+  "example": "I take the subway to work."
+ },
+ {
+  "id": "supermarket-n",
+  "headword": "supermarket",
+  "pos": "noun",
+  "example": "We buy food at the supermarket."
+ },
+ {
+  "id": "take-v",
+  "headword": "take",
+  "pos": "verb",
+  "example": "I take my umbrella when it rains."
+ },
+ {
+  "id": "tell-v",
+  "headword": "tell",
+  "pos": "verb",
+  "example": "Please tell me your name."
+ },
+ {
+  "id": "that-pron",
+  "headword": "that",
+  "pos": "pronoun",
+  "example": "What is that? It is a bird."
+ },
+ {
+  "id": "thin-adj",
+  "headword": "thin",
+  "pos": "adjective",
+  "example": "The cat is very thin. It needs food."
+ },
+ {
+  "id": "tiger-n",
+  "headword": "tiger",
+  "pos": "noun",
+  "example": "The tiger is orange with black stripes."
+ },
+ {
+  "id": "tomorrow-adv",
+  "headword": "tomorrow",
+  "pos": "adverb",
+  "example": "Today is Monday, so tomorrow is Tuesday."
+ },
+ {
+  "id": "town-n",
+  "headword": "town",
+  "pos": "noun",
+  "example": "I live in a small town near the sea."
+ },
+ {
+  "id": "tube-n",
+  "headword": "tube",
+  "pos": "noun",
+  "example": "I need a new tube of toothpaste."
+ },
+ {
+  "id": "underline-n",
+  "headword": "underline",
+  "pos": "noun",
+  "example": "The title has a red underline."
+ },
+ {
+  "id": "visit-n",
+  "headword": "visit",
+  "pos": "noun",
+  "example": "Our visit to the zoo is on Saturday."
+ },
+ {
+  "id": "want-v",
+  "headword": "want",
+  "pos": "verb",
+  "example": "I want a glass of water."
+ },
+ {
+  "id": "wear-v",
+  "headword": "wear",
+  "pos": "verb",
+  "example": "She wears a red dress today."
+ },
+ {
+  "id": "what-pron",
+  "headword": "what",
+  "pos": "pronoun",
+  "example": "What do you want for dinner?"
+ }
+]

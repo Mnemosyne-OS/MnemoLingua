@@ -1,0 +1,572 @@
+[
+ {
+  "id": "abandon-v",
+  "headword": "abandon",
+  "pos": "verb",
+  "example": "They had to abandon the car in the snow and walk home."
+ },
+ {
+  "id": "able-adj",
+  "headword": "able",
+  "pos": "adjective",
+  "example": "After the operation, she was able to walk again."
+ },
+ {
+  "id": "abnormal-adj",
+  "headword": "abnormal",
+  "pos": "adjective",
+  "example": "The doctor said the test results were abnormal and wanted more tests."
+ },
+ {
+  "id": "aboard-adv",
+  "headword": "aboard",
+  "pos": "adverb",
+  "example": "All the passengers are now aboard, so the ship can leave."
+ },
+ {
+  "id": "aborigine-n",
+  "headword": "aborigine",
+  "pos": "noun",
+  "example": "An aborigine showed us the old paintings on the rocks in Australia."
+ },
+ {
+  "id": "above-adj",
+  "headword": "above",
+  "pos": "adjective",
+  "example": "Please send your answers to the above address."
+ },
+ {
+  "id": "absence-n",
+  "headword": "absence",
+  "pos": "noun",
+  "example": "Nobody noticed his absence from the meeting."
+ },
+ {
+  "id": "absent-adj",
+  "headword": "absent",
+  "pos": "adjective",
+  "example": "Three students were absent from class today because they were ill."
+ },
+ {
+  "id": "absolute-adj",
+  "headword": "absolute",
+  "pos": "adjective",
+  "example": "The party was an absolute disaster because nobody came."
+ },
+ {
+  "id": "absolutely-adv",
+  "headword": "absolutely",
+  "pos": "adverb",
+  "example": "You are absolutely right, I made a mistake."
+ },
+ {
+  "id": "absorb-v",
+  "headword": "absorb",
+  "pos": "verb",
+  "example": "This towel can absorb a lot of water."
+ },
+ {
+  "id": "abstract-adj",
+  "headword": "abstract",
+  "pos": "adjective",
+  "example": "I don't understand abstract paintings with only lines and colours."
+ },
+ {
+  "id": "abundance-n",
+  "headword": "abundance",
+  "pos": "noun",
+  "example": "In summer there is an abundance of fresh fruit at the market."
+ },
+ {
+  "id": "abundant-adj",
+  "headword": "abundant",
+  "pos": "adjective",
+  "example": "Fish are abundant in this river, so many people come here."
+ },
+ {
+  "id": "academic-adj",
+  "headword": "academic",
+  "pos": "adjective",
+  "example": "She has a good academic record and wants to study medicine."
+ },
+ {
+  "id": "academy-n",
+  "headword": "academy",
+  "pos": "noun",
+  "example": "He studied music at an academy in Vienna."
+ },
+ {
+  "id": "accent-n",
+  "headword": "accent",
+  "pos": "noun",
+  "example": "She speaks English with a strong French accent."
+ },
+ {
+  "id": "acceptance-n",
+  "headword": "acceptance",
+  "pos": "noun",
+  "example": "He was happy to receive a letter of acceptance from the university."
+ },
+ {
+  "id": "access-n",
+  "headword": "access",
+  "pos": "noun",
+  "example": "The only access to the beach is down a narrow path."
+ },
+ {
+  "id": "accessible-adj",
+  "headword": "accessible",
+  "pos": "adjective",
+  "example": "The museum is accessible by bus from the city centre."
+ },
+ {
+  "id": "accessory-n",
+  "headword": "accessory",
+  "pos": "noun",
+  "example": "A nice belt is a useful accessory for this dress."
+ },
+ {
+  "id": "accidental-adj",
+  "headword": "accidental",
+  "pos": "adjective",
+  "example": "The fire was accidental; nobody started it on purpose."
+ },
+ {
+  "id": "accidentally-adv",
+  "headword": "accidentally",
+  "pos": "adverb",
+  "example": "I accidentally deleted all my photos from the computer."
+ },
+ {
+  "id": "accompany-v",
+  "headword": "accompany",
+  "pos": "verb",
+  "example": "Children must accompany their parents when they visit the zoo."
+ },
+ {
+  "id": "accomplish-v",
+  "headword": "accomplish",
+  "pos": "verb",
+  "example": "We accomplished a lot of work in just one week."
+ },
+ {
+  "id": "according-to-prep",
+  "headword": "according to",
+  "pos": "preposition",
+  "example": "According to the weather forecast, it will rain tomorrow."
+ },
+ {
+  "id": "account-v",
+  "headword": "account",
+  "pos": "verb",
+  "example": "Students account for half of the people living in this town."
+ },
+ {
+  "id": "accountant-n",
+  "headword": "accountant",
+  "pos": "noun",
+  "example": "My accountant helps me with my taxes every year."
+ },
+ {
+  "id": "accuracy-n",
+  "headword": "accuracy",
+  "pos": "noun",
+  "example": "Please check the accuracy of these numbers before you send the report."
+ },
+ {
+  "id": "accurate-adj",
+  "headword": "accurate",
+  "pos": "adjective",
+  "example": "This clock is very accurate; it never loses a minute."
+ },
+ {
+  "id": "accurately-adv",
+  "headword": "accurately",
+  "pos": "adverb",
+  "example": "The nurse measured my height accurately."
+ },
+ {
+  "id": "accuse-v",
+  "headword": "accuse",
+  "pos": "verb",
+  "example": "They accuse him of stealing money from the shop."
+ },
+ {
+  "id": "accustom-v",
+  "headword": "accustom",
+  "pos": "verb",
+  "example": "It took weeks to accustom myself to the cold weather."
+ },
+ {
+  "id": "ache-n",
+  "headword": "ache",
+  "pos": "noun",
+  "example": "I have an ache in my back after carrying those boxes."
+ },
+ {
+  "id": "achievement-n",
+  "headword": "achievement",
+  "pos": "noun",
+  "example": "Passing the exam was a great achievement for her."
+ },
+ {
+  "id": "acknowledge-v",
+  "headword": "acknowledge",
+  "pos": "verb",
+  "example": "He finally acknowledged that he was wrong."
+ },
+ {
+  "id": "acknowledgment-n",
+  "headword": "acknowledgment",
+  "pos": "noun",
+  "example": "I sent my application but I haven't received an acknowledgment yet."
+ },
+ {
+  "id": "acquaintance-n",
+  "headword": "acquaintance",
+  "pos": "noun",
+  "example": "He isn't really a friend, just an acquaintance from work."
+ },
+ {
+  "id": "acquire-v",
+  "headword": "acquire",
+  "pos": "verb",
+  "example": "You can acquire new skills by taking an online course."
+ },
+ {
+  "id": "act-v",
+  "headword": "act",
+  "pos": "verb",
+  "example": "We must act quickly before the fire spreads."
+ },
+ {
+  "id": "active-adj",
+  "headword": "active",
+  "pos": "adjective",
+  "example": "My grandmother is still very active and walks every day."
+ },
+ {
+  "id": "actress-n",
+  "headword": "actress",
+  "pos": "noun",
+  "example": "The actress won a prize for her role in the film."
+ },
+ {
+  "id": "ad-n",
+  "headword": "ad",
+  "pos": "noun",
+  "example": "I saw an ad for a cheap flat in the newspaper."
+ },
+ {
+  "id": "adapt-v",
+  "headword": "adapt",
+  "pos": "verb",
+  "example": "It was hard to adapt to life in a new country."
+ },
+ {
+  "id": "address-v",
+  "headword": "address",
+  "pos": "verb",
+  "example": "Please address the letter to the manager."
+ },
+ {
+  "id": "addressee-n",
+  "headword": "addressee",
+  "pos": "noun",
+  "example": "Write the name of the addressee clearly on the envelope."
+ },
+ {
+  "id": "administration-n",
+  "headword": "administration",
+  "pos": "noun",
+  "example": "She works in the administration of a large hospital."
+ },
+ {
+  "id": "admiration-n",
+  "headword": "admiration",
+  "pos": "noun",
+  "example": "I have great admiration for doctors and nurses."
+ },
+ {
+  "id": "admission-n",
+  "headword": "admission",
+  "pos": "noun",
+  "example": "Admission to the museum is free on Sundays."
+ },
+ {
+  "id": "adopt-v",
+  "headword": "adopt",
+  "pos": "verb",
+  "example": "They decided to adopt a little girl from another country."
+ },
+ {
+  "id": "adorable-adj",
+  "headword": "adorable",
+  "pos": "adjective",
+  "example": "Look at that adorable little puppy!"
+ },
+ {
+  "id": "advance-v",
+  "headword": "advance",
+  "pos": "verb",
+  "example": "The soldiers advanced slowly towards the city."
+ },
+ {
+  "id": "adverb-n",
+  "headword": "adverb",
+  "pos": "noun",
+  "example": "In the sentence \"She runs quickly\", \"quickly\" is an adverb."
+ },
+ {
+  "id": "adverbial-adj",
+  "headword": "adverbial",
+  "pos": "adjective",
+  "example": "\"In the morning\" is an adverbial phrase that tells us when."
+ },
+ {
+  "id": "advert-n",
+  "headword": "advert",
+  "pos": "noun",
+  "example": "There is an advert for a new phone on TV."
+ },
+ {
+  "id": "advertise-v",
+  "headword": "advertise",
+  "pos": "verb",
+  "example": "The shop advertises its sales in the local newspaper."
+ },
+ {
+  "id": "adviser-n",
+  "headword": "adviser",
+  "pos": "noun",
+  "example": "My adviser at the university helped me choose my courses."
+ },
+ {
+  "id": "aerobics-n",
+  "headword": "aerobics",
+  "pos": "noun",
+  "example": "She does aerobics at the gym twice a week."
+ },
+ {
+  "id": "affect-v",
+  "headword": "affect",
+  "pos": "verb",
+  "example": "The bad weather will affect our plans for the weekend."
+ },
+ {
+  "id": "affection-n",
+  "headword": "affection",
+  "pos": "noun",
+  "example": "She showed her affection by giving her son a big hug."
+ },
+ {
+  "id": "afford-v",
+  "headword": "afford",
+  "pos": "verb",
+  "example": "We can't afford a new car this year."
+ },
+ {
+  "id": "after-conj",
+  "headword": "after",
+  "pos": "conjunction",
+  "example": "We went for a walk after we finished dinner."
+ },
+ {
+  "id": "afterward-adv",
+  "headword": "afterward",
+  "pos": "adverb",
+  "example": "We watched a film and afterward we had pizza."
+ },
+ {
+  "id": "afterwards-adv",
+  "headword": "afterwards",
+  "pos": "adverb",
+  "example": "I'm busy now, but I can call you afterwards."
+ },
+ {
+  "id": "agenda-n",
+  "headword": "agenda",
+  "pos": "noun",
+  "example": "The first point on the agenda is the new budget."
+ },
+ {
+  "id": "aggressive-adj",
+  "headword": "aggressive",
+  "pos": "adjective",
+  "example": "Be careful, that dog can be aggressive with strangers."
+ },
+ {
+  "id": "agreement-n",
+  "headword": "agreement",
+  "pos": "noun",
+  "example": "The two companies signed an agreement to work together."
+ },
+ {
+  "id": "agricultural-adj",
+  "headword": "agricultural",
+  "pos": "adjective",
+  "example": "This region is famous for its agricultural products, like wine and cheese."
+ },
+ {
+  "id": "agriculture-n",
+  "headword": "agriculture",
+  "pos": "noun",
+  "example": "Many people in the village work in agriculture."
+ },
+ {
+  "id": "aid-n",
+  "headword": "aid",
+  "pos": "noun",
+  "example": "The country sent food and medical aid after the earthquake."
+ },
+ {
+  "id": "aid-v",
+  "headword": "aid",
+  "pos": "verb",
+  "example": "These exercises will aid your recovery after the accident."
+ },
+ {
+  "id": "aim-n",
+  "headword": "aim",
+  "pos": "noun",
+  "example": "My aim is to speak English well by next summer."
+ },
+ {
+  "id": "air-conditioning-n",
+  "headword": "air conditioning",
+  "pos": "noun",
+  "example": "It was so hot that we turned on the air conditioning."
+ },
+ {
+  "id": "air-force-n",
+  "headword": "air force",
+  "pos": "noun",
+  "example": "Her brother is a pilot in the air force."
+ },
+ {
+  "id": "airline-n",
+  "headword": "airline",
+  "pos": "noun",
+  "example": "Which airline are you flying with to London?"
+ },
+ {
+  "id": "alarm-v",
+  "headword": "alarm",
+  "pos": "verb",
+  "example": "The news about the storm alarmed many people on the coast."
+ },
+ {
+  "id": "alcohol-n",
+  "headword": "alcohol",
+  "pos": "noun",
+  "example": "You shouldn't drink alcohol if you are going to drive."
+ },
+ {
+  "id": "alcoholic-adj",
+  "headword": "alcoholic",
+  "pos": "adjective",
+  "example": "They only serve fruit juice, no alcoholic drinks."
+ },
+ {
+  "id": "alike-adj",
+  "headword": "alike",
+  "pos": "adjective",
+  "example": "The two sisters are so alike that people often confuse them."
+ },
+ {
+  "id": "alike-adv",
+  "headword": "alike",
+  "pos": "adverb",
+  "example": "The twins always dress alike for parties."
+ },
+ {
+  "id": "allergic-adj",
+  "headword": "allergic",
+  "pos": "adjective",
+  "example": "I can't eat this cake because I'm allergic to nuts."
+ },
+ {
+  "id": "allowance-n",
+  "headword": "allowance",
+  "pos": "noun",
+  "example": "My parents give me a small allowance every week."
+ },
+ {
+  "id": "aloud-adv",
+  "headword": "aloud",
+  "pos": "adverb",
+  "example": "The teacher asked me to read the story aloud."
+ },
+ {
+  "id": "alphabet-n",
+  "headword": "alphabet",
+  "pos": "noun",
+  "example": "Children learn the letters of the alphabet at school."
+ },
+ {
+  "id": "alternative-adj",
+  "headword": "alternative",
+  "pos": "adjective",
+  "example": "The road is closed, so we need to find an alternative route."
+ },
+ {
+  "id": "alternative-n",
+  "headword": "alternative",
+  "pos": "noun",
+  "example": "If you don't like meat, the restaurant offers a vegetarian alternative."
+ },
+ {
+  "id": "altogether-adv",
+  "headword": "altogether",
+  "pos": "adverb",
+  "example": "There were twenty people at the party altogether."
+ },
+ {
+  "id": "amazed-adj",
+  "headword": "amazed",
+  "pos": "adjective",
+  "example": "I was amazed at how quickly she learned to swim."
+ },
+ {
+  "id": "amazing-adj",
+  "headword": "amazing",
+  "pos": "adjective",
+  "example": "The view from the top of the mountain was amazing."
+ },
+ {
+  "id": "ambitious-adj",
+  "headword": "ambitious",
+  "pos": "adjective",
+  "example": "She is very ambitious and wants to start her own company."
+ },
+ {
+  "id": "ambulance-n",
+  "headword": "ambulance",
+  "pos": "noun",
+  "example": "Call an ambulance, this man is hurt!"
+ },
+ {
+  "id": "amount-n",
+  "headword": "amount",
+  "pos": "noun",
+  "example": "He spent a large amount of money on his holiday."
+ },
+ {
+  "id": "amusing-adj",
+  "headword": "amusing",
+  "pos": "adjective",
+  "example": "He told us an amusing story about his first day at work."
+ },
+ {
+  "id": "analysis-n",
+  "headword": "analysis",
+  "pos": "noun",
+  "example": "The scientists did a careful analysis of the water samples."
+ },
+ {
+  "id": "analyze-v",
+  "headword": "analyze",
+  "pos": "verb",
+  "example": "We need to analyze the results before we make a decision."
+ }
+]

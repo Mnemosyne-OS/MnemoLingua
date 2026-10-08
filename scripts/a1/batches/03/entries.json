@@ -1,0 +1,671 @@
+[
+ {
+  "id": "cloudy-adj",
+  "headword": "cloudy",
+  "pos": "adjective"
+ },
+ {
+  "id": "club-n",
+  "headword": "club",
+  "pos": "noun",
+  "sourceTopics": [
+   "Hobbies and pastimes",
+   "Relations with other people"
+  ]
+ },
+ {
+  "id": "coach-n",
+  "headword": "coach",
+  "pos": "noun",
+  "sourceTopics": [
+   "Ways of travelling",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "coat-n",
+  "headword": "coat",
+  "pos": "noun",
+  "sourceTopics": [
+   "Clothes",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "code-n",
+  "headword": "code",
+  "pos": "noun"
+ },
+ {
+  "id": "coffee-n",
+  "headword": "coffee",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "coke-n",
+  "headword": "coke",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "cold-adj",
+  "headword": "cold",
+  "pos": "adjective"
+ },
+ {
+  "id": "cold-n",
+  "headword": "cold",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel and services vocab",
+   "Weather"
+  ]
+ },
+ {
+  "id": "collect-v",
+  "headword": "collect",
+  "pos": "verb"
+ },
+ {
+  "id": "college-n",
+  "headword": "college",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Education"
+  ]
+ },
+ {
+  "id": "color-n",
+  "headword": "color",
+  "pos": "noun",
+  "variants": [
+   "colour"
+  ],
+  "sourceTopics": [
+   "Colours"
+  ]
+ },
+ {
+  "id": "color-v",
+  "headword": "color",
+  "pos": "verb",
+  "variants": [
+   "colour"
+  ],
+  "sourceTopics": [
+   "Colours"
+  ]
+ },
+ {
+  "id": "come-v",
+  "headword": "come",
+  "pos": "verb"
+ },
+ {
+  "id": "computer-n",
+  "headword": "computer",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "concert-n",
+  "headword": "concert",
+  "pos": "noun",
+  "sourceTopics": [
+   "Hobbies and pastimes",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "contest-n",
+  "headword": "contest",
+  "pos": "noun"
+ },
+ {
+  "id": "conversation-n",
+  "headword": "conversation",
+  "pos": "noun"
+ },
+ {
+  "id": "cook-n",
+  "headword": "cook",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "cook-v",
+  "headword": "cook",
+  "pos": "verb"
+ },
+ {
+  "id": "cool-adj",
+  "headword": "cool",
+  "pos": "adjective"
+ },
+ {
+  "id": "cop-n",
+  "headword": "cop",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "copy-n",
+  "headword": "copy",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Services"
+  ]
+ },
+ {
+  "id": "corn-n",
+  "headword": "corn",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "corner-n",
+  "headword": "corner",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "correct-adj",
+  "headword": "correct",
+  "pos": "adjective"
+ },
+ {
+  "id": "couch-n",
+  "headword": "couch",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "could-modal",
+  "headword": "could",
+  "pos": "modal auxiliary"
+ },
+ {
+  "id": "course-n",
+  "headword": "course",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Education"
+  ]
+ },
+ {
+  "id": "cousin-n",
+  "headword": "cousin",
+  "pos": "noun",
+  "sourceTopics": [
+   "Family life",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "cow-n",
+  "headword": "cow",
+  "pos": "noun"
+ },
+ {
+  "id": "cream-n",
+  "headword": "cream",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "credit-card-n",
+  "headword": "credit card",
+  "pos": "noun",
+  "sourceTopics": [
+   "Shopping",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "cry-n",
+  "headword": "cry",
+  "pos": "noun"
+ },
+ {
+  "id": "culture-n",
+  "headword": "culture",
+  "pos": "noun",
+  "sourceTopics": [
+   "Nationalities and countries",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "cup-n",
+  "headword": "cup",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "cut-v",
+  "headword": "cut",
+  "pos": "verb"
+ },
+ {
+  "id": "cute-adj",
+  "headword": "cute",
+  "pos": "adjective"
+ },
+ {
+  "id": "dad-n",
+  "headword": "dad",
+  "pos": "noun",
+  "sourceTopics": [
+   "Family life",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "daddy-n",
+  "headword": "daddy",
+  "pos": "noun"
+ },
+ {
+  "id": "dance-v",
+  "headword": "dance",
+  "pos": "verb"
+ },
+ {
+  "id": "dancing-n",
+  "headword": "dancing",
+  "pos": "noun",
+  "sourceTopics": [
+   "Hobbies and pastimes",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "dark-adj",
+  "headword": "dark",
+  "pos": "adjective"
+ },
+ {
+  "id": "date-n",
+  "headword": "date",
+  "pos": "noun",
+  "sourceTopics": [
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "daughter-n",
+  "headword": "daughter",
+  "pos": "noun",
+  "sourceTopics": [
+   "Family life",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "day-n",
+  "headword": "day",
+  "pos": "noun"
+ },
+ {
+  "id": "dear-adj",
+  "headword": "dear",
+  "pos": "adjective"
+ },
+ {
+  "id": "december-n",
+  "headword": "December",
+  "pos": "noun"
+ },
+ {
+  "id": "delicious-adj",
+  "headword": "delicious",
+  "pos": "adjective"
+ },
+ {
+  "id": "describe-v",
+  "headword": "describe",
+  "pos": "verb"
+ },
+ {
+  "id": "desk-n",
+  "headword": "desk",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "dictionary-n",
+  "headword": "dictionary",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Education"
+  ]
+ },
+ {
+  "id": "did-do",
+  "headword": "did",
+  "pos": "do-verb"
+ },
+ {
+  "id": "difference-n",
+  "headword": "difference",
+  "pos": "noun"
+ },
+ {
+  "id": "different-adj",
+  "headword": "different",
+  "pos": "adjective"
+ },
+ {
+  "id": "difficult-adj",
+  "headword": "difficult",
+  "pos": "adjective"
+ },
+ {
+  "id": "dig-n",
+  "headword": "dig",
+  "pos": "noun"
+ },
+ {
+  "id": "dining-room-n",
+  "headword": "dining room",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "dinner-n",
+  "headword": "dinner",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "dirty-adj",
+  "headword": "dirty",
+  "pos": "adjective"
+ },
+ {
+  "id": "dish-n",
+  "headword": "dish",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "do-do",
+  "headword": "do",
+  "pos": "do-verb"
+ },
+ {
+  "id": "doctor-n",
+  "headword": "doctor",
+  "pos": "noun",
+  "variants": [
+   "Dr.",
+   "Dr"
+  ],
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "does-do",
+  "headword": "does",
+  "pos": "do-verb"
+ },
+ {
+  "id": "dog-n",
+  "headword": "dog",
+  "pos": "noun"
+ },
+ {
+  "id": "doing-do",
+  "headword": "doing",
+  "pos": "do-verb"
+ },
+ {
+  "id": "doll-n",
+  "headword": "doll",
+  "pos": "noun",
+  "sourceTopics": [
+   "Hobbies and pastimes",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "dollar-n",
+  "headword": "dollar",
+  "pos": "noun",
+  "sourceTopics": [
+   "Shopping",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "door-n",
+  "headword": "door",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "down-adv",
+  "headword": "down",
+  "pos": "adverb"
+ },
+ {
+  "id": "draw-v",
+  "headword": "draw",
+  "pos": "verb"
+ },
+ {
+  "id": "dream-n",
+  "headword": "dream",
+  "pos": "noun"
+ },
+ {
+  "id": "dress-n",
+  "headword": "dress",
+  "pos": "noun",
+  "sourceTopics": [
+   "Clothes",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "drink-n",
+  "headword": "drink",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "drink-v",
+  "headword": "drink",
+  "pos": "verb"
+ },
+ {
+  "id": "drive-n",
+  "headword": "drive",
+  "pos": "noun",
+  "sourceTopics": [
+   "Hobbies and pastimes",
+   "Travel"
+  ]
+ },
+ {
+  "id": "driver-n",
+  "headword": "driver",
+  "pos": "noun",
+  "sourceTopics": [
+   "Hobbies and pastimes",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "drop-v",
+  "headword": "drop",
+  "pos": "verb"
+ },
+ {
+  "id": "drum-n",
+  "headword": "drum",
+  "pos": "noun",
+  "sourceTopics": [
+   "Leisure activities",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "dry-adj",
+  "headword": "dry",
+  "pos": "adjective"
+ },
+ {
+  "id": "dvd-n",
+  "headword": "DVD",
+  "pos": "noun",
+  "sourceTopics": [
+   "Hobbies and pastimes",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "each-det",
+  "headword": "each",
+  "pos": "determiner"
+ },
+ {
+  "id": "each-pron",
+  "headword": "each",
+  "pos": "pronoun"
+ },
+ {
+  "id": "each-other-pron",
+  "headword": "each other",
+  "pos": "pronoun"
+ },
+ {
+  "id": "ear-n",
+  "headword": "ear",
+  "pos": "noun",
+  "sourceTopics": [
+   "Health and body care"
+  ]
+ },
+ {
+  "id": "early-adv",
+  "headword": "early",
+  "pos": "adverb"
+ },
+ {
+  "id": "easy-adj",
+  "headword": "easy",
+  "pos": "adjective"
+ },
+ {
+  "id": "eat-v",
+  "headword": "eat",
+  "pos": "verb"
+ },
+ {
+  "id": "egg-n",
+  "headword": "egg",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "either-adv",
+  "headword": "either",
+  "pos": "adverb"
+ },
+ {
+  "id": "else-adv",
+  "headword": "else",
+  "pos": "adverb"
+ },
+ {
+  "id": "email-n",
+  "headword": "email",
+  "pos": "noun",
+  "variants": [
+   "e-mail",
+   "E-mail"
+  ],
+  "sourceTopics": [
+   "Media",
+   "Services"
+  ]
+ },
+ {
+  "id": "end-n",
+  "headword": "end",
+  "pos": "noun"
+ },
+ {
+  "id": "engineer-n",
+  "headword": "engineer",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "enjoy-v",
+  "headword": "enjoy",
+  "pos": "verb"
+ }
+]

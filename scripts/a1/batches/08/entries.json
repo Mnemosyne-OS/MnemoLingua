@@ -1,0 +1,656 @@
+[
+ {
+  "id": "person-n",
+  "headword": "person",
+  "pos": "noun",
+  "sourceTopics": [
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "personal-adj",
+  "headword": "personal",
+  "pos": "adjective"
+ },
+ {
+  "id": "pet-n",
+  "headword": "pet",
+  "pos": "noun",
+  "sourceTopics": [
+   "Family life"
+  ]
+ },
+ {
+  "id": "phone-n",
+  "headword": "phone",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Services"
+  ]
+ },
+ {
+  "id": "phone-v",
+  "headword": "phone",
+  "pos": "verb"
+ },
+ {
+  "id": "piano-n",
+  "headword": "piano",
+  "pos": "noun",
+  "sourceTopics": [
+   "Hobbies and pastimes",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "pick-v",
+  "headword": "pick",
+  "pos": "verb"
+ },
+ {
+  "id": "picnic-n",
+  "headword": "picnic",
+  "pos": "noun",
+  "sourceTopics": [
+   "Leisure activities",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "picture-n",
+  "headword": "picture",
+  "pos": "noun",
+  "sourceTopics": [
+   "Hobbies and pastimes",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "piece-n",
+  "headword": "piece",
+  "pos": "noun"
+ },
+ {
+  "id": "pig-n",
+  "headword": "pig",
+  "pos": "noun"
+ },
+ {
+  "id": "pink-adj",
+  "headword": "pink",
+  "pos": "adjective"
+ },
+ {
+  "id": "pizza-n",
+  "headword": "pizza",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "place-n",
+  "headword": "place",
+  "pos": "noun",
+  "sourceTopics": [
+   "Places"
+  ]
+ },
+ {
+  "id": "plan-n",
+  "headword": "plan",
+  "pos": "noun",
+  "sourceTopics": [
+   "Holidays"
+  ]
+ },
+ {
+  "id": "play-n",
+  "headword": "play",
+  "pos": "noun",
+  "sourceTopics": [
+   "Hobbies and pastimes",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "play-v",
+  "headword": "play",
+  "pos": "verb"
+ },
+ {
+  "id": "player-n",
+  "headword": "player",
+  "pos": "noun",
+  "sourceTopics": [
+   "Hobbies and pastimes",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "please-adv",
+  "headword": "please",
+  "pos": "adverb"
+ },
+ {
+  "id": "pleasure-n",
+  "headword": "pleasure",
+  "pos": "noun"
+ },
+ {
+  "id": "pocket-n",
+  "headword": "pocket",
+  "pos": "noun",
+  "sourceTopics": [
+   "Clothes",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "poem-n",
+  "headword": "poem",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Education"
+  ]
+ },
+ {
+  "id": "point-n",
+  "headword": "point",
+  "pos": "noun"
+ },
+ {
+  "id": "pollution-n",
+  "headword": "pollution",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "pool-n",
+  "headword": "pool",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "pop-n",
+  "headword": "pop",
+  "pos": "noun",
+  "sourceTopics": [
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "post-n",
+  "headword": "post",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "Services"
+  ]
+ },
+ {
+  "id": "poster-n",
+  "headword": "poster",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "potato-n",
+  "headword": "potato",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "practice-n",
+  "headword": "practice",
+  "pos": "noun",
+  "sourceTopics": [
+   "Hobbies and pastimes"
+  ]
+ },
+ {
+  "id": "practice-v",
+  "headword": "practice",
+  "pos": "verb",
+  "variants": [
+   "practise"
+  ]
+ },
+ {
+  "id": "pray-v",
+  "headword": "pray",
+  "pos": "verb"
+ },
+ {
+  "id": "present-n",
+  "headword": "present",
+  "pos": "noun",
+  "sourceTopics": [
+   "Shopping"
+  ]
+ },
+ {
+  "id": "pretty-adj",
+  "headword": "pretty",
+  "pos": "adjective"
+ },
+ {
+  "id": "price-n",
+  "headword": "price",
+  "pos": "noun",
+  "sourceTopics": [
+   "Shopping",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "princess-n",
+  "headword": "princess",
+  "pos": "noun",
+  "sourceTopics": [
+   "Nationalities and countries",
+   "Relations with other people"
+  ]
+ },
+ {
+  "id": "problem-n",
+  "headword": "problem",
+  "pos": "noun",
+  "sourceTopics": [
+   "Relations with other people"
+  ]
+ },
+ {
+  "id": "program-n",
+  "headword": "program",
+  "pos": "noun",
+  "variants": [
+   "programme"
+  ],
+  "sourceTopics": [
+   "Hobbies and pastimes",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "purple-n",
+  "headword": "purple",
+  "pos": "noun",
+  "sourceTopics": [
+   "Colours"
+  ]
+ },
+ {
+  "id": "push-v",
+  "headword": "push",
+  "pos": "verb"
+ },
+ {
+  "id": "put-v",
+  "headword": "put",
+  "pos": "verb"
+ },
+ {
+  "id": "quarter-n",
+  "headword": "quarter",
+  "pos": "noun"
+ },
+ {
+  "id": "question-n",
+  "headword": "question",
+  "pos": "noun",
+  "sourceTopics": [
+   "Language"
+  ]
+ },
+ {
+  "id": "quickly-adv",
+  "headword": "quickly",
+  "pos": "adverb"
+ },
+ {
+  "id": "quiet-adj",
+  "headword": "quiet",
+  "pos": "adjective"
+ },
+ {
+  "id": "radio-n",
+  "headword": "radio",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "rain-n",
+  "headword": "rain",
+  "pos": "noun",
+  "sourceTopics": [
+   "Media",
+   "Weather"
+  ]
+ },
+ {
+  "id": "rain-v",
+  "headword": "rain",
+  "pos": "verb"
+ },
+ {
+  "id": "rainy-adj",
+  "headword": "rainy",
+  "pos": "adjective"
+ },
+ {
+  "id": "rat-n",
+  "headword": "rat",
+  "pos": "noun"
+ },
+ {
+  "id": "re-be",
+  "headword": "'re",
+  "pos": "be-verb"
+ },
+ {
+  "id": "read-v",
+  "headword": "read",
+  "pos": "verb"
+ },
+ {
+  "id": "reader-n",
+  "headword": "reader",
+  "pos": "noun",
+  "sourceTopics": [
+   "Hobbies and pastimes",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "reading-n",
+  "headword": "reading",
+  "pos": "noun",
+  "sourceTopics": [
+   "Hobbies and pastimes",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "ready-adj",
+  "headword": "ready",
+  "pos": "adjective"
+ },
+ {
+  "id": "real-adv",
+  "headword": "real",
+  "pos": "adverb"
+ },
+ {
+  "id": "really-adv",
+  "headword": "really",
+  "pos": "adverb"
+ },
+ {
+  "id": "reason-n",
+  "headword": "reason",
+  "pos": "noun"
+ },
+ {
+  "id": "red-adj",
+  "headword": "red",
+  "pos": "adjective"
+ },
+ {
+  "id": "remember-v",
+  "headword": "remember",
+  "pos": "verb"
+ },
+ {
+  "id": "repeat-v",
+  "headword": "repeat",
+  "pos": "verb"
+ },
+ {
+  "id": "reporter-n",
+  "headword": "reporter",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "restaurant-n",
+  "headword": "restaurant",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "result-n",
+  "headword": "result",
+  "pos": "noun"
+ },
+ {
+  "id": "review-n",
+  "headword": "review",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education"
+  ]
+ },
+ {
+  "id": "rice-n",
+  "headword": "rice",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "rich-adj",
+  "headword": "rich",
+  "pos": "adjective"
+ },
+ {
+  "id": "ride-n",
+  "headword": "ride",
+  "pos": "noun",
+  "sourceTopics": [
+   "Ways of travelling",
+   "Travel"
+  ]
+ },
+ {
+  "id": "ride-v",
+  "headword": "ride",
+  "pos": "verb"
+ },
+ {
+  "id": "right-adj",
+  "headword": "right",
+  "pos": "adjective"
+ },
+ {
+  "id": "right-adv",
+  "headword": "right",
+  "pos": "adverb"
+ },
+ {
+  "id": "ring-v",
+  "headword": "ring",
+  "pos": "verb"
+ },
+ {
+  "id": "river-n",
+  "headword": "river",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "role-n",
+  "headword": "role",
+  "pos": "noun"
+ },
+ {
+  "id": "room-n",
+  "headword": "room",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "row-n",
+  "headword": "row",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel"
+  ]
+ },
+ {
+  "id": "rude-adj",
+  "headword": "rude",
+  "pos": "adjective"
+ },
+ {
+  "id": "rule-n",
+  "headword": "rule",
+  "pos": "noun"
+ },
+ {
+  "id": "ruler-n",
+  "headword": "ruler",
+  "pos": "noun",
+  "sourceTopics": [
+   "Shopping"
+  ]
+ },
+ {
+  "id": "run-n",
+  "headword": "run",
+  "pos": "noun",
+  "sourceTopics": [
+   "Hobbies and pastimes",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "run-v",
+  "headword": "run",
+  "pos": "verb"
+ },
+ {
+  "id": "s-be",
+  "headword": "'s",
+  "pos": "be-verb"
+ },
+ {
+  "id": "sad-adj",
+  "headword": "sad",
+  "pos": "adjective"
+ },
+ {
+  "id": "sailor-n",
+  "headword": "sailor",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "salad-n",
+  "headword": "salad",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "same-adj",
+  "headword": "same",
+  "pos": "adjective"
+ },
+ {
+  "id": "same-adv",
+  "headword": "same",
+  "pos": "adverb"
+ },
+ {
+  "id": "same-pron",
+  "headword": "same",
+  "pos": "pronoun"
+ },
+ {
+  "id": "sandwich-n",
+  "headword": "sandwich",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "saturday-n",
+  "headword": "Saturday",
+  "pos": "noun"
+ },
+ {
+  "id": "save-v",
+  "headword": "save",
+  "pos": "verb"
+ },
+ {
+  "id": "saw-n",
+  "headword": "saw",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms"
+  ]
+ },
+ {
+  "id": "say-v",
+  "headword": "say",
+  "pos": "verb"
+ },
+ {
+  "id": "school-n",
+  "headword": "school",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping"
+  ]
+ },
+ {
+  "id": "science-n",
+  "headword": "science",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Education"
+  ]
+ }
+]

@@ -1,0 +1,414 @@
+{
+ "decoys": {
+  "caught": 6,
+  "total": 6,
+  "missed": []
+ },
+ "toReview": 2,
+ "cards": {
+  "a-det": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "afraid-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "all-pron": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "and-conj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "apple-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "at-prep": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "ball-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "beach-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "before-prep": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "better-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "blank-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "boring-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "brain-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "brush-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "butterfly-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "candy-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "catch-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "cheese-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "classroom-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "cloud-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "collection-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "cookie-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "cover-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "dance-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "design-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "discuss-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "drama-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "due-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "elementary-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "everyone-pron": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "face-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "fast-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "field-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "fish-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "food-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "from-prep": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "get-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "gold-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "grandparent-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "guess-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "hand-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "head-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "here-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "hold-n": {
+   "check": "to-review",
+   "problems": [
+    "english: \"take hold of\" is an idiom above A1; the noun sense of \"hold\" is not visible to a learner"
+   ]
+  },
+  "hour-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "ideal-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "interviewer-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "jeans-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "keep-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "kite-n": {
+   "check": "to-review",
+   "problems": [
+    "es example: \"vuelan una cometa\" is a calque; natural in Spain: \"hacen volar una cometa\""
+   ]
+  },
+  "laugh-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "library-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "little-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "love-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "man-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "me-pron": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "milk-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "monday-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "mouse-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "musician-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "news-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "notebook-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "officer-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "open-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "outside-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "pants-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "pay-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "photo-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "plane-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "poor-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "prince-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "rabbit-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "real-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "ribbon-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "rose-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "sale-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "scientist-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "shake-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "short-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "singer-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "small-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "soccer-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "sorry-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "stage-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "stop-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "subway-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "supermarket-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "take-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "tell-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "that-pron": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "thin-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "tiger-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "tomorrow-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "town-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "tube-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "underline-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "visit-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "want-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "wear-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "what-pron": {
+   "check": "two-pass",
+   "problems": []
+  }
+ }
+}

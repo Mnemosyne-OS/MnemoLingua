@@ -1,0 +1,408 @@
+{
+ "source": "CEFR-J Grammar Profile 20180315",
+ "themes": [
+  {
+   "id": "g-be",
+   "items": [
+    {
+     "id": "1",
+     "level": "A1.1",
+     "item": "I am",
+     "type": "AFF. DEC."
+    },
+    {
+     "id": "1-1",
+     "level": "A1.1",
+     "item": "I am not",
+     "type": "NEG. DEC."
+    },
+    {
+     "id": "2-2",
+     "level": "A1.3",
+     "item": "Are you ...?",
+     "type": "AFF. INT."
+    },
+    {
+     "id": "3",
+     "level": "A1.1",
+     "item": "he/she is",
+     "type": "AFF. DEC."
+    },
+    {
+     "id": "4",
+     "level": "A1.1",
+     "item": "we are",
+     "type": "AFF. DEC."
+    },
+    {
+     "id": "5",
+     "level": "A1.1",
+     "item": "they are",
+     "type": "AFF. DEC."
+    },
+    {
+     "id": "8",
+     "level": "A1.1",
+     "item": "This/That is",
+     "type": "AFF. DEC."
+    },
+    {
+     "id": "10",
+     "level": "A1.1",
+     "item": "It is",
+     "type": "AFF. DEC."
+    },
+    {
+     "id": "58",
+     "level": "A1.1",
+     "item": "TENSE/ASPECT: PRESENT (BE)",
+     "type": "AFF. DEC."
+    },
+    {
+     "id": "58-1",
+     "level": "A1.1",
+     "item": "TENSE/ASPECT: PRESENT (BE)",
+     "type": "NEG. DEC."
+    },
+    {
+     "id": "58-2",
+     "level": "A1.1",
+     "item": "TENSE/ASPECT: PRESENT (BE)",
+     "type": "AFF. INT."
+    },
+    {
+     "id": "64",
+     "level": "A1.3",
+     "item": "TENSE/ASPECT: PAST (BE)",
+     "type": "AFF. DEC."
+    }
+   ]
+  },
+  {
+   "id": "g-present",
+   "items": [
+    {
+     "id": "59",
+     "level": "A1.1",
+     "item": "TENSE/ASPECT: PRESENT (lexical verbs)",
+     "type": "AFF. DEC."
+    },
+    {
+     "id": "59-1",
+     "level": "A1.2",
+     "item": "TENSE/ASPECT: PRESENT (lexical verbs)",
+     "type": "NEG. DEC."
+    },
+    {
+     "id": "59-2",
+     "level": "A1.2",
+     "item": "TENSE/ASPECT: PRESENT (lexicalverbs)",
+     "type": "AFF. INT."
+    },
+    {
+     "id": "60",
+     "level": "A1.1",
+     "item": "TENSE/ASPECT: PRESENT (lexical verbs; third person & singular)",
+     "type": "AFF. DEC."
+    },
+    {
+     "id": "61",
+     "level": "A1.3",
+     "item": "TENSE/ASPECT: PRESENT PROGRESSIVE",
+     "type": "AFF. DEC."
+    }
+   ]
+  },
+  {
+   "id": "g-can",
+   "items": [
+    {
+     "id": "123",
+     "level": "A1.2",
+     "item": "MODAL/AUX: can",
+     "type": "AFF. DEC."
+    },
+    {
+     "id": "123-2",
+     "level": "A1.2",
+     "item": "MODAL/AUX: can",
+     "type": "AFF. INT."
+    },
+    {
+     "id": "146",
+     "level": "A1.2",
+     "item": "there+be",
+     "type": "AFF. DEC."
+    },
+    {
+     "id": "117",
+     "level": "A1.1",
+     "item": "IMPERATIVE: AFFIRMATIVE (lexical verbs)",
+     "type": "AFF. IMP."
+    },
+    {
+     "id": "120",
+     "level": "A1.3",
+     "item": "let's (not followed by 'not')",
+     "type": "AFF. DEC."
+    }
+   ]
+  },
+  {
+   "id": "g-words",
+   "items": [
+    {
+     "id": "6",
+     "level": "A1.1",
+     "item": "my/our/your/her/their (except for 'his' and 'its')",
+     "type": ""
+    },
+    {
+     "id": "7",
+     "level": "A1.1",
+     "item": "me/us/him/her/them (except for 'you' and 'it')",
+     "type": ""
+    },
+    {
+     "id": "13",
+     "level": "A1.1",
+     "item": "INDEFINITE ARTICLES",
+     "type": ""
+    },
+    {
+     "id": "14",
+     "level": "A1.1",
+     "item": "DEFINITE ARTICLES",
+     "type": ""
+    },
+    {
+     "id": "15",
+     "level": "A1.1",
+     "item": "DETERMINERS: some/any",
+     "type": ""
+    },
+    {
+     "id": "16",
+     "level": "A1.2",
+     "item": "DETERMINER: no",
+     "type": ""
+    },
+    {
+     "id": "21",
+     "level": "A1.1",
+     "item": "PREPOSITIONS",
+     "type": ""
+    },
+    {
+     "id": "24",
+     "level": "A1.2",
+     "item": "INDEFINITE PRONOUNS",
+     "type": ""
+    }
+   ]
+  },
+  {
+   "id": "g-compare",
+   "items": [
+    {
+     "id": "32",
+     "level": "A1.2",
+     "item": "ADVERBS OF FREQUENCY: always/usually/often/frequently/occasionally/sometimes/rarely",
+     "type": ""
+    },
+    {
+     "id": "33",
+     "level": "A1.1",
+     "item": "ADVERBS: INTENSIFIERS: extremely/greatly/really/so/terribly/too/unbelievably/very",
+     "type": ""
+    },
+    {
+     "id": "35",
+     "level": "A1.2",
+     "item": "ADVERBS OF NEGATION: never",
+     "type": ""
+    },
+    {
+     "id": "38",
+     "level": "A1.3",
+     "item": "COMPARATIVE OF SUPERIORITY: -er",
+     "type": ""
+    },
+    {
+     "id": "40",
+     "level": "A1.1",
+     "item": "SUPERLATIVE OF SUPERIORITY: -est",
+     "type": ""
+    }
+   ]
+  },
+  {
+   "id": "g-questions",
+   "items": [
+    {
+     "id": "235",
+     "level": "A1.2",
+     "item": "WH- QUESTION: Why ...?",
+     "type": "AFF. INT./NEG. INT."
+    },
+    {
+     "id": "239",
+     "level": "A1.1",
+     "item": "WH- QUESTION: What ...?",
+     "type": "AFF. INT./NEG. INT."
+    },
+    {
+     "id": "245",
+     "level": "A1.3",
+     "item": "WH- QUESTION: Where ...?",
+     "type": "AFF. INT./NEG. INT."
+    },
+    {
+     "id": "246",
+     "level": "A1.1",
+     "item": "WH- QUESTION: How ...?",
+     "type": "AFF. INT./NEG. INT."
+    },
+    {
+     "id": "247",
+     "level": "A1.1",
+     "item": "WH- QUESTION: How ADJ/ADV ...?",
+     "type": "AFF. INT./NEG. INT."
+    },
+    {
+     "id": "196-2",
+     "level": "A1.2",
+     "item": "SENTENCE PATTERN: SUBJECT+V+OBJECT",
+     "type": "AFF. INT."
+    }
+   ]
+  },
+  {
+   "id": "g-sentences",
+   "items": [
+    {
+     "id": "150",
+     "level": "A1.1",
+     "item": "COORDINATING CONJUNCTIONS",
+     "type": ""
+    },
+    {
+     "id": "155",
+     "level": "A1.2",
+     "item": "ADVERBIAL CLAUSE: when",
+     "type": ""
+    },
+    {
+     "id": "161",
+     "level": "A1.1",
+     "item": "SUBORDINATE CLAUSE: after/albeit/although/because/before/despite/except/for/lest/like/once/since/so/than/though/till/unless/until/where/whereas/wheresoever/whether/while/whilst tagged as IN",
+     "type": ""
+    },
+    {
+     "id": "162",
+     "level": "A1.2",
+     "item": "hope/know/think+CLAUSE (without 'that')",
+     "type": ""
+    },
+    {
+     "id": "88",
+     "level": "A1.1",
+     "item": "TO-INFINITIVE: to DO (not preceded by 'not')",
+     "type": ""
+    },
+    {
+     "id": "101",
+     "level": "A1.2",
+     "item": "VERB to DO",
+     "type": ""
+    },
+    {
+     "id": "103",
+     "level": "A1.2",
+     "item": "VERB OBJECT to DO",
+     "type": ""
+    },
+    {
+     "id": "105",
+     "level": "A1.1",
+     "item": "V-ING (not preceded by 'not')",
+     "type": ""
+    },
+    {
+     "id": "112",
+     "level": "A1.2",
+     "item": "VERB V-ING",
+     "type": ""
+    },
+    {
+     "id": "55",
+     "level": "A1.1",
+     "item": "PHRASAL VERBS (V+PARTICLE)",
+     "type": ""
+    }
+   ]
+  }
+ ],
+ "left": [
+  {
+   "id": "57",
+   "item": "PHRASAL VERBS (V+PARTICLE+PREP+NP)",
+   "why": "phrasal verb + preposition + object: a pattern, not a form a beginner names"
+  },
+  {
+   "id": "65",
+   "item": "TENSE/ASPECT: PRESENT (lexical verbs)",
+   "why": "duplicate of 59 (present, lexical verbs, affirmative)"
+  },
+  {
+   "id": "73",
+   "item": "PASSIVE: PRESENT",
+   "why": "present passive: listed A1.2 by CEFR-J but taught at A2 in most courses"
+  },
+  {
+   "id": "110",
+   "item": "PREP+V-ING",
+   "why": "preposition + -ing: B1 in most courses"
+  },
+  {
+   "id": "169",
+   "item": "POSTMODIFYING PRESENT",
+   "why": "post-modifying present participle: a linguist category"
+  },
+  {
+   "id": "170",
+   "item": "PREMODIFYING PAST PARTICIPLE",
+   "why": "pre-modifying past participle: a linguist category"
+  },
+  {
+   "id": "171",
+   "item": "POSTMODIFYING PAST PARTICIPLE",
+   "why": "post-modifying past participle: a linguist category"
+  },
+  {
+   "id": "172",
+   "item": "NOMINATIVE RELATIVE PRONOUN: who",
+   "why": "relative pronoun who: A2 in most courses"
+  },
+  {
+   "id": "174",
+   "item": "NOMINATIVE RELATIVE PRONOUN:",
+   "why": "nominative relative pronoun, unnamed: no form to teach"
+  },
+  {
+   "id": "179",
+   "item": "ELLIPTICAL ACCUSATIVE RELATIVE PRONOUN",
+   "why": "elliptical relative pronoun: a linguist category"
+  },
+  {
+   "id": "189",
+   "item": "PREPOSITION STRANDING",
+   "why": "preposition stranding: a linguist category"
+  },
+  {
+   "id": "196",
+   "item": "SENTENCE PATTERN: SUBJECT+V+OBJECT",
+   "why": "subject + verb + object: every sentence already shows it"
+  }
+ ]
+}

@@ -1,0 +1,393 @@
+{
+ "decoys": {
+  "caught": 6,
+  "total": 6,
+  "missed": []
+ },
+ "toReview": 1,
+ "cards": {
+  "bunch-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "burden-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "bureau-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "burglar-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "burn-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "burning-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "burst-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "bust-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "but-prep": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "butcher-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "buyer-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "cabbage-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "cabin-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "cage-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "calculate-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "calculation-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "calculator-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "calf-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "caller-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "calm-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "calmness-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "camel-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "campsite-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "canal-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "cancel-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "cancer-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "candle-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "canned-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "canteen-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "capable-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "capacity-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "capsule-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "capture-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "capture-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "care-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "career-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "careless-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "carelessly-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "carelessness-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "carpet-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "carriage-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "carton-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "cashpoint-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "casual-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "categorize-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "category-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "cattle-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "caution-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "cautious-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "cave-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "cd-rom-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "celebrity-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "cell-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "central-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "central-heating-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "ceremony-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "certainty-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "challenging-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "champion-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "channel-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "chaos-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "characteristic-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "characterize-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "charge-n": {
+   "check": "to-review",
+   "problems": [
+    "es word: 'el cargo' is a bank/account charge; for an entry price 'el coste' / 'no se cobra' is natural",
+    "es example: unnatural calque 'no hay ningún cargo para los niños'; natural: 'los niños no pagan' / 'no hay ningún coste'"
+   ]
+  },
+  "charge-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "chariot-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "charity-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "charm-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "chase-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "chat-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "chat-show-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "check-in-counter-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "check-in-desk-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "checkout-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "cheerful-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "chemical-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "chemist-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "chemistry-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "cherish-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "chest-of-drawers-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "chewing-gum-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "chief-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "choir-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "choke-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "christian-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "chronological-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "chuckle-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "circle-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "circular-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "circus-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "citizenship-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "civil-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "civilization-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "claim-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "classical-adj": {
+   "check": "two-pass",
+   "problems": []
+  }
+ }
+}

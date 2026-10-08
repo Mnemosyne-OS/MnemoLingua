@@ -1,0 +1,572 @@
+[
+ {
+  "id": "stressful-adj",
+  "headword": "stressful",
+  "pos": "adjective",
+  "example": "Moving to a new city can be very stressful."
+ },
+ {
+  "id": "stretch-v",
+  "headword": "stretch",
+  "pos": "verb",
+  "example": "I always stretch my legs before I go running."
+ },
+ {
+  "id": "stricken-adj",
+  "headword": "stricken",
+  "pos": "adjective",
+  "example": "Help was sent to the stricken town after the earthquake."
+ },
+ {
+  "id": "strike-v",
+  "headword": "strike",
+  "pos": "verb",
+  "example": "Lightning can strike tall trees during a storm."
+ },
+ {
+  "id": "strip-n",
+  "headword": "strip",
+  "pos": "noun",
+  "example": "She wrote her phone number on a strip of paper."
+ },
+ {
+  "id": "stripe-n",
+  "headword": "stripe",
+  "pos": "noun",
+  "example": "He was wearing a blue shirt with white stripes."
+ },
+ {
+  "id": "struggle-n",
+  "headword": "struggle",
+  "pos": "noun",
+  "example": "Learning to read was a long struggle for him."
+ },
+ {
+  "id": "stubborn-adj",
+  "headword": "stubborn",
+  "pos": "adjective",
+  "example": "My brother is so stubborn that he never changes his mind."
+ },
+ {
+  "id": "stuck-adj",
+  "headword": "stuck",
+  "pos": "adjective",
+  "example": "We were stuck in traffic for two hours."
+ },
+ {
+  "id": "studio-n",
+  "headword": "studio",
+  "pos": "noun",
+  "example": "The band recorded their new album in a small studio."
+ },
+ {
+  "id": "stuffed-adj",
+  "headword": "stuffed",
+  "pos": "adjective",
+  "example": "We had stuffed peppers with rice and meat for dinner."
+ },
+ {
+  "id": "stumble-v",
+  "headword": "stumble",
+  "pos": "verb",
+  "example": "She stumbled on the stairs and almost fell."
+ },
+ {
+  "id": "stun-v",
+  "headword": "stun",
+  "pos": "verb",
+  "example": "The news of his death stunned everyone in the village."
+ },
+ {
+  "id": "stunning-adj",
+  "headword": "stunning",
+  "pos": "adjective",
+  "example": "From the hotel we had a stunning view of the sea."
+ },
+ {
+  "id": "stupid-adj",
+  "headword": "stupid",
+  "pos": "adjective",
+  "example": "It was stupid of me to leave my keys in the car."
+ },
+ {
+  "id": "stylish-adj",
+  "headword": "stylish",
+  "pos": "adjective",
+  "example": "She always wears stylish clothes to work."
+ },
+ {
+  "id": "subconscious-adj",
+  "headword": "subconscious",
+  "pos": "adjective",
+  "example": "Many of our choices are based on subconscious feelings."
+ },
+ {
+  "id": "submarine-n",
+  "headword": "submarine",
+  "pos": "noun",
+  "example": "The submarine stayed under the water for three weeks."
+ },
+ {
+  "id": "substantial-adj",
+  "headword": "substantial",
+  "pos": "adjective",
+  "example": "He received a substantial amount of money from his uncle."
+ },
+ {
+  "id": "substitute-n",
+  "headword": "substitute",
+  "pos": "noun",
+  "example": "You can use honey as a substitute for sugar."
+ },
+ {
+  "id": "suddenly-adv",
+  "headword": "suddenly",
+  "pos": "adverb",
+  "example": "Suddenly the lights went out and the room was dark."
+ },
+ {
+  "id": "suffer-v",
+  "headword": "suffer",
+  "pos": "verb",
+  "example": "My grandmother suffers from back pain every winter."
+ },
+ {
+  "id": "sufficient-adj",
+  "headword": "sufficient",
+  "pos": "adjective",
+  "example": "We did not have sufficient time to finish the test."
+ },
+ {
+  "id": "suffix-n",
+  "headword": "suffix",
+  "pos": "noun",
+  "example": "The suffix \"-ness\" turns \"happy\" into \"happiness\"."
+ },
+ {
+  "id": "suicide-n",
+  "headword": "suicide",
+  "pos": "noun",
+  "example": "The film tells the sad story of a young man's suicide."
+ },
+ {
+  "id": "summarize-v",
+  "headword": "summarize",
+  "pos": "verb",
+  "example": "Can you summarize the story in three sentences?"
+ },
+ {
+  "id": "summit-n",
+  "headword": "summit",
+  "pos": "noun",
+  "example": "After six hours of climbing, we reached the summit."
+ },
+ {
+  "id": "sunbathe-v",
+  "headword": "sunbathe",
+  "pos": "verb",
+  "example": "Tourists like to sunbathe on the beach all afternoon."
+ },
+ {
+  "id": "sundial-n",
+  "headword": "sundial",
+  "pos": "noun",
+  "example": "Before clocks, people used a sundial to tell the time."
+ },
+ {
+  "id": "sunrise-n",
+  "headword": "sunrise",
+  "pos": "noun",
+  "example": "We got up early to watch the sunrise over the mountains."
+ },
+ {
+  "id": "sunset-n",
+  "headword": "sunset",
+  "pos": "noun",
+  "example": "The sky turns orange and pink at sunset."
+ },
+ {
+  "id": "superior-adj",
+  "headword": "superior",
+  "pos": "adjective",
+  "example": "This camera is superior to the cheaper model."
+ },
+ {
+  "id": "superstition-n",
+  "headword": "superstition",
+  "pos": "noun",
+  "example": "There is an old superstition that black cats bring bad luck."
+ },
+ {
+  "id": "supply-n",
+  "headword": "supply",
+  "pos": "noun",
+  "example": "The hospital needs a regular supply of clean water."
+ },
+ {
+  "id": "support-v",
+  "headword": "support",
+  "pos": "verb",
+  "example": "My parents always support me when I have problems."
+ },
+ {
+  "id": "supporter-n",
+  "headword": "supporter",
+  "pos": "noun",
+  "example": "Thousands of supporters came to watch the final match."
+ },
+ {
+  "id": "supportive-adj",
+  "headword": "supportive",
+  "pos": "adjective",
+  "example": "My boss was very supportive when my father was ill."
+ },
+ {
+  "id": "suppose-v",
+  "headword": "suppose",
+  "pos": "verb",
+  "example": "I suppose he missed the bus, because he is late again."
+ },
+ {
+  "id": "supposedly-adv",
+  "headword": "supposedly",
+  "pos": "adverb",
+  "example": "This restaurant is supposedly the best in town."
+ },
+ {
+  "id": "surely-adv",
+  "headword": "surely",
+  "pos": "adverb",
+  "example": "Surely you don't want to walk home in this rain?"
+ },
+ {
+  "id": "surface-n",
+  "headword": "surface",
+  "pos": "noun",
+  "example": "Leaves were floating on the surface of the lake."
+ },
+ {
+  "id": "surgeon-n",
+  "headword": "surgeon",
+  "pos": "noun",
+  "example": "The surgeon operated on his heart for five hours."
+ },
+ {
+  "id": "surgery-n",
+  "headword": "surgery",
+  "pos": "noun",
+  "example": "She needed surgery on her knee after the accident."
+ },
+ {
+  "id": "surprise-v",
+  "headword": "surprise",
+  "pos": "verb",
+  "example": "We want to surprise Mum with a cake for her birthday."
+ },
+ {
+  "id": "surprisingly-adv",
+  "headword": "surprisingly",
+  "pos": "adverb",
+  "example": "The exam was surprisingly easy, so everyone passed."
+ },
+ {
+  "id": "surround-v",
+  "headword": "surround",
+  "pos": "verb",
+  "example": "Tall trees surround the small house in the forest."
+ },
+ {
+  "id": "surrounding-adj",
+  "headword": "surrounding",
+  "pos": "adjective",
+  "example": "We visited the town and the surrounding villages."
+ },
+ {
+  "id": "survival-n",
+  "headword": "survival",
+  "pos": "noun",
+  "example": "Water is necessary for the survival of all plants."
+ },
+ {
+  "id": "survivor-n",
+  "headword": "survivor",
+  "pos": "noun",
+  "example": "Rescue teams found two survivors in the damaged building."
+ },
+ {
+  "id": "suspect-n",
+  "headword": "suspect",
+  "pos": "noun",
+  "example": "The police arrested a suspect after the robbery."
+ },
+ {
+  "id": "suspicion-n",
+  "headword": "suspicion",
+  "pos": "noun",
+  "example": "She looked at the stranger with suspicion."
+ },
+ {
+  "id": "swarm-n",
+  "headword": "swarm",
+  "pos": "noun",
+  "example": "A swarm of bees flew out of the old tree."
+ },
+ {
+  "id": "swear-v",
+  "headword": "swear",
+  "pos": "verb",
+  "example": "I swear I didn't take your phone."
+ },
+ {
+  "id": "sweat-n",
+  "headword": "sweat",
+  "pos": "noun",
+  "example": "After the race, his face was covered in sweat."
+ },
+ {
+  "id": "sweatshirt-n",
+  "headword": "sweatshirt",
+  "pos": "noun",
+  "example": "It was cold, so I put on a warm sweatshirt."
+ },
+ {
+  "id": "swell-v",
+  "headword": "swell",
+  "pos": "verb",
+  "example": "My ankle started to swell after I fell."
+ },
+ {
+  "id": "swimmer-n",
+  "headword": "swimmer",
+  "pos": "noun",
+  "example": "She is a strong swimmer and can swim across the lake."
+ },
+ {
+  "id": "switch-n",
+  "headword": "switch",
+  "pos": "noun",
+  "example": "The light switch is next to the door."
+ },
+ {
+  "id": "switch-v",
+  "headword": "switch",
+  "pos": "verb",
+  "example": "Please switch off your phones during the film."
+ },
+ {
+  "id": "swollen-adj",
+  "headword": "swollen",
+  "pos": "adjective",
+  "example": "His eyes were red and swollen from crying."
+ },
+ {
+  "id": "sword-n",
+  "headword": "sword",
+  "pos": "noun",
+  "example": "The knight pulled his sword out and began to fight."
+ },
+ {
+  "id": "sympathy-n",
+  "headword": "sympathy",
+  "pos": "noun",
+  "example": "We felt great sympathy for the family who lost their home."
+ },
+ {
+  "id": "symptom-n",
+  "headword": "symptom",
+  "pos": "noun",
+  "example": "A high temperature is a common symptom of flu."
+ },
+ {
+  "id": "syndrome-n",
+  "headword": "syndrome",
+  "pos": "noun",
+  "example": "The doctor said she has a rare syndrome that affects her skin."
+ },
+ {
+  "id": "systematic-adj",
+  "headword": "systematic",
+  "pos": "adjective",
+  "example": "She has a systematic way of organizing her notes."
+ },
+ {
+  "id": "tablet-n",
+  "headword": "tablet",
+  "pos": "noun",
+  "example": "Take one tablet with water after each meal."
+ },
+ {
+  "id": "take-n",
+  "headword": "take",
+  "pos": "noun",
+  "example": "The actor had to do the scene again because the first take was bad."
+ },
+ {
+  "id": "takeaway-n",
+  "headword": "takeaway",
+  "pos": "noun",
+  "example": "We were tired, so we ordered a Chinese takeaway."
+ },
+ {
+  "id": "takeoff-n",
+  "headword": "takeoff",
+  "pos": "noun",
+  "example": "Please keep your seatbelt on during takeoff."
+ },
+ {
+  "id": "tale-n",
+  "headword": "tale",
+  "pos": "noun",
+  "example": "My grandfather told us a tale about a magic forest."
+ },
+ {
+  "id": "talented-adj",
+  "headword": "talented",
+  "pos": "adjective",
+  "example": "She is a talented singer and wants to go professional."
+ },
+ {
+  "id": "talk-n",
+  "headword": "talk",
+  "pos": "noun",
+  "example": "A famous scientist gave a talk at our school yesterday."
+ },
+ {
+  "id": "talkative-adj",
+  "headword": "talkative",
+  "pos": "adjective",
+  "example": "My little sister is very talkative and never stops asking questions."
+ },
+ {
+  "id": "tank-n",
+  "headword": "tank",
+  "pos": "noun",
+  "example": "We need to fill the car's tank before the long drive."
+ },
+ {
+  "id": "tape-v",
+  "headword": "tape",
+  "pos": "verb",
+  "example": "He taped a note to the fridge door."
+ },
+ {
+  "id": "taste-n",
+  "headword": "taste",
+  "pos": "noun",
+  "example": "This soup has a strong taste of garlic."
+ },
+ {
+  "id": "taste-v",
+  "headword": "taste",
+  "pos": "verb",
+  "example": "Can I taste the sauce before you add more salt?"
+ },
+ {
+  "id": "tasteless-adj",
+  "headword": "tasteless",
+  "pos": "adjective",
+  "example": "The vegetables were overcooked and completely tasteless."
+ },
+ {
+  "id": "tasty-adj",
+  "headword": "tasty",
+  "pos": "adjective",
+  "example": "My mum makes a very tasty chicken curry."
+ },
+ {
+  "id": "tax-n",
+  "headword": "tax",
+  "pos": "noun",
+  "example": "The price of the shoes includes tax."
+ },
+ {
+  "id": "teaching-n",
+  "headword": "teaching",
+  "pos": "noun",
+  "example": "She loves children, so she chose a career in teaching."
+ },
+ {
+  "id": "teammate-n",
+  "headword": "teammate",
+  "pos": "noun",
+  "example": "He passed the ball to a teammate who scored a goal."
+ },
+ {
+  "id": "teamwork-n",
+  "headword": "teamwork",
+  "pos": "noun",
+  "example": "Good teamwork helped us finish the project on time."
+ },
+ {
+  "id": "tear-v",
+  "headword": "tear",
+  "pos": "verb",
+  "example": "Be careful not to tear the page when you turn it."
+ },
+ {
+  "id": "tease-n",
+  "headword": "tease",
+  "pos": "noun",
+  "example": "Don't be angry, he is just a tease who likes to joke."
+ },
+ {
+  "id": "technique-n",
+  "headword": "technique",
+  "pos": "noun",
+  "example": "The coach showed us a new technique for kicking the ball."
+ },
+ {
+  "id": "technological-adj",
+  "headword": "technological",
+  "pos": "adjective",
+  "example": "Phones have changed a lot because of technological progress."
+ },
+ {
+  "id": "teen-n",
+  "headword": "teen",
+  "pos": "noun",
+  "example": "The new café is popular with teens after school."
+ },
+ {
+  "id": "telecommunications-n",
+  "headword": "telecommunications",
+  "pos": "noun",
+  "example": "My uncle works for a big telecommunications company."
+ },
+ {
+  "id": "telegram-n",
+  "headword": "telegram",
+  "pos": "noun",
+  "example": "In the past, people sent a telegram to share urgent news."
+ },
+ {
+  "id": "teller-n",
+  "headword": "teller",
+  "pos": "noun",
+  "example": "The bank teller counted the money and gave me a receipt."
+ },
+ {
+  "id": "temper-n",
+  "headword": "temper",
+  "pos": "noun",
+  "example": "He has a bad temper and gets angry very quickly."
+ },
+ {
+  "id": "temporary-adj",
+  "headword": "temporary",
+  "pos": "adjective",
+  "example": "He found a temporary job for the summer holidays."
+ },
+ {
+  "id": "tempt-v",
+  "headword": "tempt",
+  "pos": "verb",
+  "example": "The smell of fresh bread tempted me to buy some."
+ },
+ {
+  "id": "tend-v",
+  "headword": "tend",
+  "pos": "verb",
+  "example": "I tend to drink more coffee when I am tired."
+ }
+]

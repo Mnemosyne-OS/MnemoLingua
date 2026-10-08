@@ -1,0 +1,625 @@
+{
+  "id": "en-travel",
+  "lang": "en",
+  "version": 1,
+  "reviewedBy": null,
+  "reviewedAt": null,
+  "checkedAt": "2026-10-05",
+  "themes": [
+    {
+      "id": "basics",
+      "cards": [
+        {
+          "id": "b01",
+          "kind": "phrase",
+          "target": "Hello, how are you?",
+          "gloss": {
+            "fr": "Bonjour, comment allez-vous ?",
+            "es": "Hola, ¿cómo está?"
+          },
+          "check": "two-pass"
+        },
+        {
+          "id": "b02",
+          "kind": "phrase",
+          "target": "Thank you very much.",
+          "gloss": {
+            "fr": "Merci beaucoup.",
+            "es": "Muchas gracias."
+          },
+          "check": "two-pass"
+        },
+        {
+          "id": "b03",
+          "kind": "phrase",
+          "target": "Excuse me.",
+          "gloss": {
+            "fr": "Excusez-moi.",
+            "es": "Disculpe."
+          },
+          "check": "two-pass"
+        },
+        {
+          "id": "b04",
+          "kind": "phrase",
+          "target": "I'm sorry, I don't understand.",
+          "gloss": {
+            "fr": "Désolé, je ne comprends pas.",
+            "es": "Lo siento, no entiendo."
+          },
+          "check": "two-pass"
+        },
+        {
+          "id": "b05",
+          "kind": "phrase",
+          "target": "Could you speak more slowly, please?",
+          "gloss": {
+            "fr": "Pourriez-vous parler plus lentement, s'il vous plaît ?",
+            "es": "¿Podría hablar más despacio, por favor?"
+          },
+          "check": "two-pass"
+        },
+        {
+          "id": "b06",
+          "kind": "phrase",
+          "target": "Can you help me, please?",
+          "gloss": {
+            "fr": "Pouvez-vous m'aider, s'il vous plaît ?",
+            "es": "¿Me puede ayudar, por favor?"
+          },
+          "check": "two-pass"
+        },
+        {
+          "id": "b07",
+          "kind": "phrase",
+          "target": "My name is…",
+          "gloss": {
+            "fr": "Je m'appelle…",
+            "es": "Me llamo…"
+          },
+          "check": "two-pass"
+        },
+        {
+          "id": "b08",
+          "kind": "phrase",
+          "target": "Yes, please.",
+          "gloss": {
+            "fr": "Oui, s'il vous plaît.",
+            "es": "Sí, por favor."
+          },
+          "check": "two-pass"
+        },
+        {
+          "id": "b09",
+          "kind": "phrase",
+          "target": "No, thank you.",
+          "gloss": {
+            "fr": "Non, merci.",
+            "es": "No, gracias."
+          },
+          "check": "two-pass"
+        },
+        {
+          "id": "b10",
+          "kind": "phrase",
+          "target": "Goodbye, have a nice day!",
+          "gloss": {
+            "fr": "Au revoir, bonne journée !",
+            "es": "¡Adiós, que tenga un buen día!"
+          },
+          "check": "two-pass"
+        }
+      ]
+    },
+    {
+      "id": "directions",
+      "cards": [
+        {
+          "id": "d01",
+          "kind": "phrase",
+          "target": "Where is the train station?",
+          "gloss": {
+            "fr": "Où est la gare ?",
+            "es": "¿Dónde está la estación de tren?"
+          },
+          "check": "two-pass"
+        },
+        {
+          "id": "d02",
+          "kind": "phrase",
+          "target": "How do I get to the city centre?",
+          "gloss": {
+            "fr": "Comment aller au centre-ville ?",
+            "es": "¿Cómo llego al centro de la ciudad?"
+          },
+          "check": "two-pass"
+        },
+        {
+          "id": "d03",
+          "kind": "phrase",
+          "target": "Is it far from here?",
+          "gloss": {
+            "fr": "Est-ce que c'est loin d'ici ?",
+            "es": "¿Está lejos de aquí?"
+          },
+          "check": "two-pass"
+        },
+        {
+          "id": "d04",
+          "kind": "phrase",
+          "target": "Turn left.",
+          "gloss": {
+            "fr": "Tournez à gauche.",
+            "es": "Gire a la izquierda."
+          },
+          "check": "two-pass"
+        },
+        {
+          "id": "d05",
+          "kind": "phrase",
+          "target": "Turn right.",
+          "gloss": {
+            "fr": "Tournez à droite.",
+            "es": "Gire a la derecha."
+          },
+          "check": "two-pass"
+        },
+        {
+          "id": "d06",
+          "kind": "phrase",
+          "target": "Go straight ahead.",
+          "gloss": {
+            "fr": "Allez tout droit.",
+            "es": "Siga recto."
+          },
+          "check": "two-pass"
+        },
+        {
+          "id": "d07",
+          "kind": "phrase",
+          "target": "Can you show me on the map?",
+          "gloss": {
+            "fr": "Pouvez-vous me montrer sur la carte ?",
+            "es": "¿Me lo puede enseñar en el mapa?"
+          },
+          "check": "two-pass"
+        },
+        {
+          "id": "d08",
+          "kind": "phrase",
+          "target": "I'm lost.",
+          "gloss": {
+            "fr": "Je suis perdu.",
+            "es": "Estoy perdido."
+          },
+          "check": "two-pass"
+        }
+      ]
+    },
+    {
+      "id": "transport",
+      "cards": [
+        {
+          "id": "t01",
+          "kind": "phrase",
+          "target": "A ticket to London, please.",
+          "gloss": {
+            "fr": "Un billet pour Londres, s'il vous plaît.",
+            "es": "Un billete para Londres, por favor."
+          },
+          "check": "two-pass"
+        },
+        {
+          "id": "t02",
+          "kind": "phrase",
+          "target": "A return ticket, please.",
+          "gloss": {
+            "fr": "Un aller-retour, s'il vous plaît.",
+            "es": "Un billete de ida y vuelta, por favor."
+          },
+          "check": "two-pass"
+        },
+        {
+          "id": "t03",
+          "kind": "phrase",
+          "target": "What time does the next train leave?",
+          "gloss": {
+            "fr": "À quelle heure part le prochain train ?",
+            "es": "¿A qué hora sale el próximo tren?"
+          },
+          "check": "two-pass"
+        },
+        {
+          "id": "t04",
+          "kind": "phrase",
+          "target": "Which platform is it?",
+          "gloss": {
+            "fr": "C'est quel quai ?",
+            "es": "¿Qué andén es?"
+          },
+          "check": "two-pass"
+        },
+        {
+          "id": "t05",
+          "kind": "phrase",
+          "target": "Does this bus go to the airport?",
+          "gloss": {
+            "fr": "Est-ce que ce bus va à l'aéroport ?",
+            "es": "¿Este autobús va al aeropuerto?"
+          },
+          "check": "two-pass"
+        },
+        {
+          "id": "t06",
+          "kind": "phrase",
+          "target": "Where can I get a taxi?",
+          "gloss": {
+            "fr": "Où est-ce que je peux prendre un taxi ?",
+            "es": "¿Dónde puedo tomar un taxi?"
+          },
+          "check": "two-pass"
+        },
+        {
+          "id": "t07",
+          "kind": "phrase",
+          "target": "How much is the fare?",
+          "gloss": {
+            "fr": "Combien coûte le trajet ?",
+            "es": "¿Cuánto cuesta el trayecto?"
+          },
+          "check": "two-pass"
+        },
+        {
+          "id": "t08",
+          "kind": "phrase",
+          "target": "My flight is delayed.",
+          "gloss": {
+            "fr": "Mon vol est retardé.",
+            "es": "Mi vuelo está retrasado."
+          },
+          "check": "two-pass"
+        }
+      ]
+    },
+    {
+      "id": "hotel",
+      "cards": [
+        {
+          "id": "h01",
+          "kind": "phrase",
+          "target": "I have a reservation.",
+          "gloss": {
+            "fr": "J'ai une réservation.",
+            "es": "Tengo una reserva."
+          },
+          "check": "two-pass"
+        },
+        {
+          "id": "h02",
+          "kind": "phrase",
+          "target": "Do you have a room for tonight?",
+          "gloss": {
+            "fr": "Avez-vous une chambre pour ce soir ?",
+            "es": "¿Tiene una habitación para esta noche?"
+          },
+          "check": "two-pass"
+        },
+        {
+          "id": "h03",
+          "kind": "phrase",
+          "target": "For two nights, please.",
+          "gloss": {
+            "fr": "Pour deux nuits, s'il vous plaît.",
+            "es": "Para dos noches, por favor."
+          },
+          "check": "two-pass"
+        },
+        {
+          "id": "h04",
+          "kind": "phrase",
+          "target": "Is breakfast included?",
+          "gloss": {
+            "fr": "Le petit-déjeuner est-il compris ?",
+            "es": "¿Está incluido el desayuno?"
+          },
+          "check": "two-pass"
+        },
+        {
+          "id": "h05",
+          "kind": "phrase",
+          "target": "What time is check-out?",
+          "gloss": {
+            "fr": "À quelle heure faut-il libérer la chambre ?",
+            "es": "¿A qué hora hay que dejar la habitación?"
+          },
+          "check": "two-pass"
+        },
+        {
+          "id": "h06",
+          "kind": "phrase",
+          "target": "What is the Wi-Fi password?",
+          "gloss": {
+            "fr": "Quel est le mot de passe du wifi ?",
+            "es": "¿Cuál es la contraseña del wifi?"
+          },
+          "check": "two-pass"
+        },
+        {
+          "id": "h07",
+          "kind": "phrase",
+          "target": "The air conditioning doesn't work.",
+          "gloss": {
+            "fr": "La climatisation ne marche pas.",
+            "es": "El aire acondicionado no funciona."
+          },
+          "check": "two-pass"
+        },
+        {
+          "id": "h08",
+          "kind": "phrase",
+          "target": "Can I leave my luggage here?",
+          "gloss": {
+            "fr": "Est-ce que je peux laisser mes bagages ici ?",
+            "es": "¿Puedo dejar mi equipaje aquí?"
+          },
+          "check": "two-pass"
+        }
+      ]
+    },
+    {
+      "id": "restaurant",
+      "cards": [
+        {
+          "id": "r01",
+          "kind": "phrase",
+          "target": "A table for two, please.",
+          "gloss": {
+            "fr": "Une table pour deux, s'il vous plaît.",
+            "es": "Una mesa para dos, por favor."
+          },
+          "check": "two-pass"
+        },
+        {
+          "id": "r02",
+          "kind": "phrase",
+          "target": "Can I see the menu, please?",
+          "gloss": {
+            "fr": "Je peux voir la carte, s'il vous plaît ?",
+            "es": "¿Puedo ver la carta, por favor?"
+          },
+          "check": "two-pass"
+        },
+        {
+          "id": "r03",
+          "kind": "phrase",
+          "target": "I'd like the chicken, please.",
+          "gloss": {
+            "fr": "Je voudrais le poulet, s'il vous plaît.",
+            "es": "Quisiera el pollo, por favor."
+          },
+          "check": "two-pass"
+        },
+        {
+          "id": "r04",
+          "kind": "phrase",
+          "target": "I'm vegetarian.",
+          "gloss": {
+            "fr": "Je suis végétarien.",
+            "es": "Soy vegetariano."
+          },
+          "check": "two-pass"
+        },
+        {
+          "id": "r05",
+          "kind": "phrase",
+          "target": "I'm allergic to nuts.",
+          "gloss": {
+            "fr": "Je suis allergique aux fruits à coque.",
+            "es": "Soy alérgico a los frutos secos."
+          },
+          "check": "two-pass"
+        },
+        {
+          "id": "r06",
+          "kind": "phrase",
+          "target": "A glass of water, please.",
+          "gloss": {
+            "fr": "Un verre d'eau, s'il vous plaît.",
+            "es": "Un vaso de agua, por favor."
+          },
+          "check": "two-pass"
+        },
+        {
+          "id": "r07",
+          "kind": "phrase",
+          "target": "Could I have the bill, please?",
+          "gloss": {
+            "fr": "L'addition, s'il vous plaît.",
+            "es": "La cuenta, por favor."
+          },
+          "check": "two-pass"
+        },
+        {
+          "id": "r08",
+          "kind": "phrase",
+          "target": "It was delicious.",
+          "gloss": {
+            "fr": "C'était délicieux.",
+            "es": "Estaba delicioso."
+          },
+          "check": "two-pass"
+        }
+      ]
+    },
+    {
+      "id": "shopping",
+      "cards": [
+        {
+          "id": "s01",
+          "kind": "phrase",
+          "target": "How much is this?",
+          "gloss": {
+            "fr": "Combien ça coûte ?",
+            "es": "¿Cuánto cuesta esto?"
+          },
+          "check": "two-pass"
+        },
+        {
+          "id": "s02",
+          "kind": "phrase",
+          "target": "Can I pay by card?",
+          "gloss": {
+            "fr": "Je peux payer par carte ?",
+            "es": "¿Puedo pagar con tarjeta?"
+          },
+          "check": "two-pass"
+        },
+        {
+          "id": "s03",
+          "kind": "phrase",
+          "target": "Do you take cash?",
+          "gloss": {
+            "fr": "Vous acceptez les espèces ?",
+            "es": "¿Aceptan efectivo?"
+          },
+          "check": "two-pass"
+        },
+        {
+          "id": "s04",
+          "kind": "phrase",
+          "target": "I'm just looking, thank you.",
+          "gloss": {
+            "fr": "Je regarde seulement, merci.",
+            "es": "Solo estoy mirando, gracias."
+          },
+          "check": "two-pass"
+        },
+        {
+          "id": "s05",
+          "kind": "phrase",
+          "target": "Do you have this in a smaller size?",
+          "gloss": {
+            "fr": "Vous l'avez dans une taille plus petite ?",
+            "es": "¿Lo tiene en una talla más pequeña?"
+          },
+          "check": "two-pass"
+        },
+        {
+          "id": "s06",
+          "kind": "phrase",
+          "target": "Can I try it on?",
+          "gloss": {
+            "fr": "Je peux l'essayer ?",
+            "es": "¿Me lo puedo probar?"
+          },
+          "check": "two-pass"
+        },
+        {
+          "id": "s07",
+          "kind": "phrase",
+          "target": "That's too expensive.",
+          "gloss": {
+            "fr": "C'est trop cher.",
+            "es": "Es demasiado caro."
+          },
+          "check": "two-pass"
+        },
+        {
+          "id": "s08",
+          "kind": "phrase",
+          "target": "Where is the nearest cash machine?",
+          "gloss": {
+            "fr": "Où est le distributeur de billets le plus proche ?",
+            "es": "¿Dónde está el cajero automático más cercano?"
+          },
+          "check": "two-pass"
+        }
+      ]
+    },
+    {
+      "id": "emergency",
+      "cards": [
+        {
+          "id": "e01",
+          "kind": "phrase",
+          "target": "Help!",
+          "gloss": {
+            "fr": "Au secours !",
+            "es": "¡Socorro!"
+          },
+          "check": "two-pass"
+        },
+        {
+          "id": "e02",
+          "kind": "phrase",
+          "target": "Call an ambulance!",
+          "gloss": {
+            "fr": "Appelez une ambulance !",
+            "es": "¡Llame a una ambulancia!"
+          },
+          "check": "two-pass"
+        },
+        {
+          "id": "e03",
+          "kind": "phrase",
+          "target": "I need a doctor.",
+          "gloss": {
+            "fr": "J'ai besoin d'un médecin.",
+            "es": "Necesito un médico."
+          },
+          "check": "two-pass"
+        },
+        {
+          "id": "e04",
+          "kind": "phrase",
+          "target": "Where is the nearest hospital?",
+          "gloss": {
+            "fr": "Où est l'hôpital le plus proche ?",
+            "es": "¿Dónde está el hospital más cercano?"
+          },
+          "check": "two-pass"
+        },
+        {
+          "id": "e05",
+          "kind": "phrase",
+          "target": "I've lost my passport.",
+          "gloss": {
+            "fr": "J'ai perdu mon passeport.",
+            "es": "He perdido mi pasaporte."
+          },
+          "check": "two-pass"
+        },
+        {
+          "id": "e06",
+          "kind": "phrase",
+          "target": "My wallet has been stolen.",
+          "gloss": {
+            "fr": "On m'a volé mon portefeuille.",
+            "es": "Me han robado la cartera."
+          },
+          "check": "two-pass"
+        },
+        {
+          "id": "e07",
+          "kind": "phrase",
+          "target": "Where is the police station?",
+          "gloss": {
+            "fr": "Où est le commissariat ?",
+            "es": "¿Dónde está la comisaría?"
+          },
+          "check": "two-pass"
+        },
+        {
+          "id": "e08",
+          "kind": "phrase",
+          "target": "It hurts here.",
+          "gloss": {
+            "fr": "J'ai mal ici.",
+            "es": "Me duele aquí."
+          },
+          "check": "two-pass"
+        }
+      ]
+    }
+  ]
+}

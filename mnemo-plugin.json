@@ -1,0 +1,39 @@
+{
+  "name": "@mnemosyne-plugins/mnemo-lingua",
+  "displayName": "MnemoLingua",
+  "version": "0.1.0",
+  "vendor": "Mnemosyne Labs",
+  "license": "MIT",
+  "description": "Learn English from level A1 to B1, and Japanese: the kana and the N5 kanji, which you write by hand stroke by stroke. Cards come back with spaced repetition, in both directions, with their pronunciation. Japanese needs one download the first time. Then everything works offline.",
+  "descriptionI18n": {
+    "en": "Learn English from level A1 to B1, and Japanese: the kana and the N5 kanji, which you write by hand stroke by stroke. Cards come back with spaced repetition, in both directions, with their pronunciation. Japanese needs one download the first time. Then everything works offline.",
+    "fr": "Apprends l'anglais du niveau A1 au B1, et le japonais : les kana et les kanji N5, que tu écris à la main trait par trait. Les cartes reviennent par répétition espacée, dans les deux sens, avec leur prononciation. Le japonais demande un téléchargement la première fois. Ensuite, tout marche hors ligne.",
+    "es": "Aprende inglés del nivel A1 al B1, y japonés: los kana y los kanji N5, que escribes a mano trazo a trazo. Las tarjetas vuelven con repetición espaciada, en los dos sentidos, con su pronunciación. El japonés necesita una descarga la primera vez. Después, todo funciona sin conexión."
+  },
+  "keywords": [
+    "language",
+    "flashcards",
+    "spaced repetition",
+    "english",
+    "japanese",
+    "kana",
+    "kanji",
+    "handwriting",
+    "education"
+  ],
+  "permissions": [],
+  "updateStrategy": "git",
+  "entrypoints": {
+    "renderer": "index.html"
+  },
+  "widgets": [
+    {
+      "id": "mnemo-lingua-main",
+      "icon": "🗣️",
+      "name": "MnemoLingua",
+      "route": "index.html",
+      "defaultWidth": 900,
+      "defaultHeight": 700
+    }
+  ]
+}

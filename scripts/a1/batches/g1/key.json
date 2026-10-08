@@ -1,0 +1,388 @@
+{
+ "g-7-a": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A"
+ },
+ "g-247-b": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A"
+ },
+ "g-150-b": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A"
+ },
+ "g-14-b": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A"
+ },
+ "r001": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A",
+  "cardId": "g-1-a"
+ },
+ "r002": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "g-1-b"
+ },
+ "r003": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A",
+  "cardId": "g-2-2-a"
+ },
+ "r004": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A",
+  "cardId": "g-2-2-b"
+ },
+ "r005": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A",
+  "cardId": "g-4-a"
+ },
+ "r006": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A",
+  "cardId": "g-4-b"
+ },
+ "r007": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "g-8-a"
+ },
+ "r008": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A",
+  "cardId": "g-8-b"
+ },
+ "r009": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "g-58-a"
+ },
+ "r010": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "g-58-b"
+ },
+ "r011": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "g-58-2-a"
+ },
+ "r012": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A",
+  "cardId": "g-58-2-b"
+ },
+ "r013": {
+  "decoy": {
+   "kind": "exampleGloss",
+   "lang": "es"
+  },
+  "fr": "A",
+  "es": "A",
+  "cardId": "x04-g-14-b"
+ },
+ "r014": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A",
+  "cardId": "g-59-a"
+ },
+ "r015": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "g-59-b"
+ },
+ "r016": {
+  "decoy": {
+   "kind": "example",
+   "lang": "fr"
+  },
+  "fr": "A",
+  "es": "A",
+  "cardId": "x03-g-150-b"
+ },
+ "r017": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "g-59-2-a"
+ },
+ "r018": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "g-59-2-b"
+ },
+ "r019": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "g-61-a"
+ },
+ "r020": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "g-61-b"
+ },
+ "r021": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "g-123-2-a"
+ },
+ "r022": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "g-123-2-b"
+ },
+ "r023": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A",
+  "cardId": "g-117-a"
+ },
+ "r024": {
+  "decoy": {
+   "kind": "exampleGloss",
+   "lang": "fr"
+  },
+  "fr": "A",
+  "es": "A",
+  "cardId": "x05-g-7-a"
+ },
+ "r025": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "g-117-b"
+ },
+ "r026": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "g-6-a"
+ },
+ "r027": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "g-6-b"
+ },
+ "r028": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "g-13-a"
+ },
+ "r029": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A",
+  "cardId": "g-13-b"
+ },
+ "r030": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "g-15-a"
+ },
+ "r031": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "g-15-b"
+ },
+ "r032": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A",
+  "cardId": "g-21-a"
+ },
+ "r033": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "g-21-b"
+ },
+ "r034": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A",
+  "cardId": "g-32-a"
+ },
+ "r035": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "g-32-b"
+ },
+ "r036": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "g-35-a"
+ },
+ "r037": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "g-35-b"
+ },
+ "r038": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "g-40-a"
+ },
+ "r039": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A",
+  "cardId": "g-40-b"
+ },
+ "r040": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "g-239-a"
+ },
+ "r041": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "g-239-b"
+ },
+ "r042": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "g-246-a"
+ },
+ "r043": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "g-246-b"
+ },
+ "r044": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "g-196-2-a"
+ },
+ "r045": {
+  "decoy": {
+   "kind": "example",
+   "lang": "es"
+  },
+  "fr": "A",
+  "es": "A",
+  "cardId": "x02-g-247-b"
+ },
+ "r046": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "g-196-2-b"
+ },
+ "r047": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A",
+  "cardId": "g-155-a"
+ },
+ "r048": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "g-155-b"
+ },
+ "r049": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A",
+  "cardId": "g-162-a"
+ },
+ "r050": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A",
+  "cardId": "g-162-b"
+ },
+ "r051": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A",
+  "cardId": "g-101-a"
+ },
+ "r052": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "g-101-b"
+ },
+ "r053": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "g-105-a"
+ },
+ "r054": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "g-105-b"
+ },
+ "r055": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "g-55-a"
+ },
+ "r056": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "g-55-b"
+ },
+ "r057": {
+  "decoy": {
+   "kind": "exampleGloss",
+   "lang": "es"
+  },
+  "fr": "A",
+  "es": "A",
+  "cardId": "x06-g-14-b"
+ },
+ "r058": {
+  "decoy": {
+   "kind": "example",
+   "lang": "fr"
+  },
+  "fr": "A",
+  "es": "A",
+  "cardId": "x01-g-7-a"
+ }
+}

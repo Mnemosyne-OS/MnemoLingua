@@ -1,0 +1,572 @@
+[
+ {
+  "id": "hidden-adj",
+  "headword": "hidden",
+  "pos": "adjective",
+  "example": "The children found a hidden door behind the bookcase."
+ },
+ {
+  "id": "highlight-v",
+  "headword": "highlight",
+  "pos": "verb",
+  "example": "Highlight the important words in yellow."
+ },
+ {
+  "id": "highly-adv",
+  "headword": "highly",
+  "pos": "adverb",
+  "example": "I highly recommend this restaurant; the food is excellent."
+ },
+ {
+  "id": "hip-n",
+  "headword": "hip",
+  "pos": "noun",
+  "example": "My grandmother fell and broke her hip."
+ },
+ {
+  "id": "hire-v",
+  "headword": "hire",
+  "pos": "verb",
+  "example": "We hired a car for a week in Spain."
+ },
+ {
+  "id": "historian-n",
+  "headword": "historian",
+  "pos": "noun",
+  "example": "The historian wrote a book about the Second World War."
+ },
+ {
+  "id": "historic-adj",
+  "headword": "historic",
+  "pos": "adjective",
+  "example": "The first moon landing was a historic moment."
+ },
+ {
+  "id": "historical-adj",
+  "headword": "historical",
+  "pos": "adjective",
+  "example": "I enjoy reading historical novels about ancient Rome."
+ },
+ {
+  "id": "hit-n",
+  "headword": "hit",
+  "pos": "noun",
+  "example": "Their new song was a big hit all over Europe."
+ },
+ {
+  "id": "hiv-n",
+  "headword": "HIV",
+  "pos": "noun",
+  "example": "Doctors can now treat HIV with modern medicines."
+ },
+ {
+  "id": "holy-adj",
+  "headword": "holy",
+  "pos": "adjective",
+  "example": "Jerusalem is a holy city for many religions."
+ },
+ {
+  "id": "homeless-adj",
+  "headword": "homeless",
+  "pos": "adjective",
+  "example": "Many homeless people sleep in the streets in winter."
+ },
+ {
+  "id": "honest-adj",
+  "headword": "honest",
+  "pos": "adjective",
+  "example": "Please be honest and tell me what you really think."
+ },
+ {
+  "id": "honestly-adv",
+  "headword": "honestly",
+  "pos": "adverb",
+  "example": "I honestly don't know where your keys are."
+ },
+ {
+  "id": "honesty-n",
+  "headword": "honesty",
+  "pos": "noun",
+  "example": "I admire her honesty; she never tells lies."
+ },
+ {
+  "id": "honeymoon-n",
+  "headword": "honeymoon",
+  "pos": "noun",
+  "example": "They went to Greece on their honeymoon."
+ },
+ {
+  "id": "hop-n",
+  "headword": "hop",
+  "pos": "noun",
+  "example": "The rabbit crossed the path in one quick hop."
+ },
+ {
+  "id": "hope-v",
+  "headword": "hope",
+  "pos": "verb",
+  "example": "I hope you have a lovely holiday."
+ },
+ {
+  "id": "hopeful-adj",
+  "headword": "hopeful",
+  "pos": "adjective",
+  "example": "The doctors are hopeful that she will get better soon."
+ },
+ {
+  "id": "hopefully-adv",
+  "headword": "hopefully",
+  "pos": "adverb",
+  "example": "Hopefully the rain will stop before the match."
+ },
+ {
+  "id": "hopeless-adj",
+  "headword": "hopeless",
+  "pos": "adjective",
+  "example": "I'm hopeless at maths; I always get bad marks."
+ },
+ {
+  "id": "horizon-n",
+  "headword": "horizon",
+  "pos": "noun",
+  "example": "We watched the sun go down below the horizon."
+ },
+ {
+  "id": "horn-n",
+  "headword": "horn",
+  "pos": "noun",
+  "example": "The driver sounded his horn at the cyclist."
+ },
+ {
+  "id": "horrible-adj",
+  "headword": "horrible",
+  "pos": "adjective",
+  "example": "The weather was horrible, so we stayed at home."
+ },
+ {
+  "id": "horrify-v",
+  "headword": "horrify",
+  "pos": "verb",
+  "example": "The pictures of the accident horrified everyone."
+ },
+ {
+  "id": "hostel-n",
+  "headword": "hostel",
+  "pos": "noun",
+  "example": "We stayed in a cheap hostel near the station."
+ },
+ {
+  "id": "household-n",
+  "headword": "household",
+  "pos": "noun",
+  "example": "Every household in the town received a letter."
+ },
+ {
+  "id": "housework-n",
+  "headword": "housework",
+  "pos": "noun",
+  "example": "We share the housework, so I do the cleaning."
+ },
+ {
+  "id": "huge-adj",
+  "headword": "huge",
+  "pos": "adjective",
+  "example": "They live in a huge house with ten bedrooms."
+ },
+ {
+  "id": "human-n",
+  "headword": "human",
+  "pos": "noun",
+  "example": "Dogs can hear sounds that humans cannot hear."
+ },
+ {
+  "id": "humanity-n",
+  "headword": "humanity",
+  "pos": "noun",
+  "example": "War is a crime against humanity."
+ },
+ {
+  "id": "humid-adj",
+  "headword": "humid",
+  "pos": "adjective",
+  "example": "It is very hot and humid in the summer here."
+ },
+ {
+  "id": "humor-n",
+  "headword": "humor",
+  "pos": "noun",
+  "example": "My brother has a great sense of humor."
+ },
+ {
+  "id": "humorous-adj",
+  "headword": "humorous",
+  "pos": "adjective",
+  "example": "He gave a humorous speech that made everyone laugh."
+ },
+ {
+  "id": "hunger-n",
+  "headword": "hunger",
+  "pos": "noun",
+  "example": "Millions of people in the world suffer from hunger."
+ },
+ {
+  "id": "hunt-n",
+  "headword": "hunt",
+  "pos": "noun",
+  "example": "After a long hunt, we finally found a flat."
+ },
+ {
+  "id": "hunt-v",
+  "headword": "hunt",
+  "pos": "verb",
+  "example": "Lions hunt zebras and other animals."
+ },
+ {
+  "id": "hurriedly-adv",
+  "headword": "hurriedly",
+  "pos": "adverb",
+  "example": "She hurriedly packed her bag and left for the airport."
+ },
+ {
+  "id": "hurt-adj",
+  "headword": "hurt",
+  "pos": "adjective",
+  "example": "Two people were badly hurt in the car accident."
+ },
+ {
+  "id": "hut-n",
+  "headword": "hut",
+  "pos": "noun",
+  "example": "We slept in a small wooden hut in the mountains."
+ },
+ {
+  "id": "ice-hockey-n",
+  "headword": "ice hockey",
+  "pos": "noun",
+  "example": "Ice hockey is very popular in Canada."
+ },
+ {
+  "id": "ice-skating-n",
+  "headword": "ice skating",
+  "pos": "noun",
+  "example": "We went ice skating on the frozen lake."
+ },
+ {
+  "id": "identity-n",
+  "headword": "identity",
+  "pos": "noun",
+  "example": "The police still don't know the identity of the thief."
+ },
+ {
+  "id": "identity-card-n",
+  "headword": "identity card",
+  "pos": "noun",
+  "example": "You need your identity card to open a bank account."
+ },
+ {
+  "id": "idiom-n",
+  "headword": "idiom",
+  "pos": "noun",
+  "example": "An idiom is a group of words with a special meaning."
+ },
+ {
+  "id": "idol-n",
+  "headword": "idol",
+  "pos": "noun",
+  "example": "The singer was my idol when I was a teenager."
+ },
+ {
+  "id": "ignore-v",
+  "headword": "ignore",
+  "pos": "verb",
+  "example": "He ignored my message and didn't reply."
+ },
+ {
+  "id": "illegally-adv",
+  "headword": "illegally",
+  "pos": "adverb",
+  "example": "The car was parked illegally in front of the hospital."
+ },
+ {
+  "id": "illness-n",
+  "headword": "illness",
+  "pos": "noun",
+  "example": "He missed two weeks of school because of illness."
+ },
+ {
+  "id": "illuminate-v",
+  "headword": "illuminate",
+  "pos": "verb",
+  "example": "Hundreds of small lights illuminated the garden."
+ },
+ {
+  "id": "imaginary-adj",
+  "headword": "imaginary",
+  "pos": "adjective",
+  "example": "When she was little, she had an imaginary friend."
+ },
+ {
+  "id": "imitate-v",
+  "headword": "imitate",
+  "pos": "verb",
+  "example": "My son loves to imitate the voices of famous people."
+ },
+ {
+  "id": "immediate-adj",
+  "headword": "immediate",
+  "pos": "adjective",
+  "example": "The new rules will have an immediate effect on prices."
+ },
+ {
+  "id": "immediately-adv",
+  "headword": "immediately",
+  "pos": "adverb",
+  "example": "Call an ambulance immediately!"
+ },
+ {
+  "id": "immigrate-v",
+  "headword": "immigrate",
+  "pos": "verb",
+  "example": "Her parents immigrated to Canada in the 1990s."
+ },
+ {
+  "id": "immigration-n",
+  "headword": "immigration",
+  "pos": "noun",
+  "example": "The government wants to change its rules on immigration."
+ },
+ {
+  "id": "impair-v",
+  "headword": "impair",
+  "pos": "verb",
+  "example": "Drinking alcohol can impair your ability to drive."
+ },
+ {
+  "id": "impression-n",
+  "headword": "impression",
+  "pos": "noun",
+  "example": "She made a good impression at her job interview."
+ },
+ {
+  "id": "impressive-adj",
+  "headword": "impressive",
+  "pos": "adjective",
+  "example": "The view from the top of the tower is impressive."
+ },
+ {
+  "id": "improper-adj",
+  "headword": "improper",
+  "pos": "adjective",
+  "example": "It is improper to use your phone during the meeting."
+ },
+ {
+  "id": "improvement-n",
+  "headword": "improvement",
+  "pos": "noun",
+  "example": "There has been a big improvement in your English."
+ },
+ {
+  "id": "incident-n",
+  "headword": "incident",
+  "pos": "noun",
+  "example": "The police are looking into an incident at the bank."
+ },
+ {
+  "id": "including-prep",
+  "headword": "including",
+  "pos": "preposition",
+  "example": "Six people came to the party, including my brother."
+ },
+ {
+  "id": "income-n",
+  "headword": "income",
+  "pos": "noun",
+  "example": "Their income is not enough to pay the rent."
+ },
+ {
+  "id": "inconvenient-adj",
+  "headword": "inconvenient",
+  "pos": "adjective",
+  "example": "Is Monday morning an inconvenient time for a meeting?"
+ },
+ {
+  "id": "incorrect-adj",
+  "headword": "incorrect",
+  "pos": "adjective",
+  "example": "Two of your answers in the test were incorrect."
+ },
+ {
+  "id": "increase-n",
+  "headword": "increase",
+  "pos": "noun",
+  "example": "There has been an increase in the price of petrol."
+ },
+ {
+  "id": "increasingly-adv",
+  "headword": "increasingly",
+  "pos": "adverb",
+  "example": "Online shopping is becoming increasingly popular."
+ },
+ {
+  "id": "incredible-adj",
+  "headword": "incredible",
+  "pos": "adjective",
+  "example": "The view from the mountain was incredible."
+ },
+ {
+  "id": "incredibly-adv",
+  "headword": "incredibly",
+  "pos": "adverb",
+  "example": "The exam was incredibly difficult."
+ },
+ {
+  "id": "indefinite-article-n",
+  "headword": "indefinite article",
+  "pos": "noun",
+  "example": "In English, \"a\" and \"an\" are the indefinite article."
+ },
+ {
+  "id": "independent-adj",
+  "headword": "independent",
+  "pos": "adjective",
+  "example": "She is very independent and lives on her own."
+ },
+ {
+  "id": "indirect-adj",
+  "headword": "indirect",
+  "pos": "adjective",
+  "example": "We took an indirect route to avoid the traffic."
+ },
+ {
+  "id": "indirectly-adv",
+  "headword": "indirectly",
+  "pos": "adverb",
+  "example": "The new factory will indirectly create more jobs in the town."
+ },
+ {
+  "id": "individual-adj",
+  "headword": "individual",
+  "pos": "adjective",
+  "example": "The teacher gives individual help to each student."
+ },
+ {
+  "id": "indoors-adv",
+  "headword": "indoors",
+  "pos": "adverb",
+  "example": "It started to rain, so we went indoors."
+ },
+ {
+  "id": "industrial-adj",
+  "headword": "industrial",
+  "pos": "adjective",
+  "example": "Manchester was an important industrial city in the past."
+ },
+ {
+  "id": "industry-n",
+  "headword": "industry",
+  "pos": "noun",
+  "example": "My uncle works in the car industry."
+ },
+ {
+  "id": "inevitable-adj",
+  "headword": "inevitable",
+  "pos": "adjective",
+  "example": "With so much rain, floods were inevitable."
+ },
+ {
+  "id": "infection-n",
+  "headword": "infection",
+  "pos": "noun",
+  "example": "The doctor gave me medicine for my ear infection."
+ },
+ {
+  "id": "infinitive-n",
+  "headword": "infinitive",
+  "pos": "noun",
+  "example": "\"To swim\" is the infinitive of the verb \"swim\"."
+ },
+ {
+  "id": "inform-v",
+  "headword": "inform",
+  "pos": "verb",
+  "example": "Please inform the staff if you see anything strange."
+ },
+ {
+  "id": "informative-adj",
+  "headword": "informative",
+  "pos": "adjective",
+  "example": "The museum tour was very informative."
+ },
+ {
+  "id": "ingredient-n",
+  "headword": "ingredient",
+  "pos": "noun",
+  "example": "Flour, eggs and milk are the main ingredients of pancakes."
+ },
+ {
+  "id": "inhabitant-n",
+  "headword": "inhabitant",
+  "pos": "noun",
+  "example": "The town has about ten thousand inhabitants."
+ },
+ {
+  "id": "inhale-v",
+  "headword": "inhale",
+  "pos": "verb",
+  "example": "Inhale slowly through your nose, then breathe out."
+ },
+ {
+  "id": "initial-n",
+  "headword": "initial",
+  "pos": "noun",
+  "example": "He wrote his initials at the bottom of the page."
+ },
+ {
+  "id": "initially-adv",
+  "headword": "initially",
+  "pos": "adverb",
+  "example": "Initially I didn't like the job, but now I love it."
+ },
+ {
+  "id": "inject-v",
+  "headword": "inject",
+  "pos": "verb",
+  "example": "The nurse injected the medicine into my arm."
+ },
+ {
+  "id": "injury-n",
+  "headword": "injury",
+  "pos": "noun",
+  "example": "The player can't play because of a knee injury."
+ },
+ {
+  "id": "ink-n",
+  "headword": "ink",
+  "pos": "noun",
+  "example": "My pen has run out of ink."
+ },
+ {
+  "id": "innermost-adj",
+  "headword": "innermost",
+  "pos": "adjective",
+  "example": "She wrote her innermost thoughts in her diary."
+ },
+ {
+  "id": "innocent-adj",
+  "headword": "innocent",
+  "pos": "adjective",
+  "example": "The judge decided that the man was innocent."
+ },
+ {
+  "id": "innovator-n",
+  "headword": "innovator",
+  "pos": "noun",
+  "example": "Steve Jobs was a great innovator in technology."
+ },
+ {
+  "id": "inquiry-n",
+  "headword": "inquiry",
+  "pos": "noun",
+  "example": "I made an inquiry about train times at the station."
+ }
+]

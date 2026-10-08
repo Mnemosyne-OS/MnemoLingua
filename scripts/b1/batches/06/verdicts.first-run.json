@@ -1,0 +1,401 @@
+{
+ "decoys": {
+  "caught": 5,
+  "total": 6,
+  "missed": [
+   "x01-a-det"
+  ]
+ },
+ "toReview": 4,
+ "cards": {
+  "counseling-n": {
+   "check": "to-review",
+   "problems": [
+    "fr example: 'suivre un soutien psychologique' is unnatural ('bénéficier d'un soutien psychologique' / 'consulter')"
+   ]
+  },
+  "count-n": {
+   "check": "to-review",
+   "problems": [
+    "fr example: 'au dernier compte' is unnatural; 'au dernier décompte/pointage'"
+   ]
+  },
+  "counter-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "countless-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "county-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "courage-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "courageous-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "courgette-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "craft-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "crash-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "crash-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "creator-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "criminal-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "crisis-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "critic-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "critical-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "crop-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "crossing-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "crossroads-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "crow-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "cruel-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "crush-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "cucumber-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "cultivate-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "cultural-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "cure-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "curiosity-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "curious-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "curiously-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "curly-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "currency-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "current-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "currently-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "curriculum-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "curtain-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "curve-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "cushion-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "customs-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "cut-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "cv-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "cycle-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "cycle-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "daisy-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "damage-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "damage-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "damaged-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "damp-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "dangerously-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "dare-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "darkness-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "date-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "dating-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "daze-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "dazzle-n": {
+   "check": "to-review",
+   "problems": [
+    "english: 'the dazzle of the lights' is unnatural for B1; 'glare' is the usual word"
+   ]
+  },
+  "deadline-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "deadly-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "deaf-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "deal-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "dealer-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "debris-n": {
+   "check": "to-review",
+   "problems": [
+    "es word: 'escombros' is building rubble; debris on a beach is 'restos'",
+    "es example: 'escombros' is building rubble; on a beach 'restos'"
+   ]
+  },
+  "debt-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "decision-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "declaration-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "declare-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "decline-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "decrease-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "decrease-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "dedicate-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "deed-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "defeat-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "defend-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "defender-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "defense-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "deficiency-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "define-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "definite-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "definite-article-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "definitely-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "definition-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "delay-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "delete-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "delicate-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "delight-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "delighted-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "delightful-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "deliver-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "delivery-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "demand-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "demand-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "democracy-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "democratic-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "demonstrate-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "demonstration-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "deny-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "depart-v": {
+   "check": "two-pass",
+   "problems": []
+  }
+ }
+}

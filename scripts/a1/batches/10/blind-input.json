@@ -1,0 +1,572 @@
+[
+ {
+  "id": "sun-n",
+  "headword": "sun",
+  "pos": "noun",
+  "example": "The sun is hot in summer."
+ },
+ {
+  "id": "sunday-n",
+  "headword": "Sunday",
+  "pos": "noun",
+  "example": "On Sunday, I stay at home with my family."
+ },
+ {
+  "id": "sunny-adj",
+  "headword": "sunny",
+  "pos": "adjective",
+  "example": "It is sunny today, so we go to the beach."
+ },
+ {
+  "id": "sunshine-n",
+  "headword": "sunshine",
+  "pos": "noun",
+  "example": "I like to sit in the sunshine."
+ },
+ {
+  "id": "super-adj",
+  "headword": "super",
+  "pos": "adjective",
+  "example": "This is a super film!"
+ },
+ {
+  "id": "sure-adj",
+  "headword": "sure",
+  "pos": "adjective",
+  "example": "I am sure the shop is open."
+ },
+ {
+  "id": "surf-n",
+  "headword": "surf",
+  "pos": "noun",
+  "example": "The surf is very big today."
+ },
+ {
+  "id": "surprise-n",
+  "headword": "surprise",
+  "pos": "noun",
+  "example": "We have a surprise for you!"
+ },
+ {
+  "id": "survey-n",
+  "headword": "survey",
+  "pos": "noun",
+  "example": "At school, we do a survey about sport."
+ },
+ {
+  "id": "sweet-adj",
+  "headword": "sweet",
+  "pos": "adjective",
+  "example": "This cake is very sweet."
+ },
+ {
+  "id": "swim-n",
+  "headword": "swim",
+  "pos": "noun",
+  "example": "I go for a swim every morning."
+ },
+ {
+  "id": "swim-v",
+  "headword": "swim",
+  "pos": "verb",
+  "example": "I swim in the sea in summer."
+ },
+ {
+  "id": "swimming-n",
+  "headword": "swimming",
+  "pos": "noun",
+  "example": "Swimming is my favourite sport."
+ },
+ {
+  "id": "swimming-pool-n",
+  "headword": "swimming pool",
+  "pos": "noun",
+  "example": "The children play in the swimming pool."
+ },
+ {
+  "id": "table-n",
+  "headword": "table",
+  "pos": "noun",
+  "example": "The plates are on the kitchen table."
+ },
+ {
+  "id": "talk-v",
+  "headword": "talk",
+  "pos": "verb",
+  "example": "I talk to my friend on the phone."
+ },
+ {
+  "id": "tall-adj",
+  "headword": "tall",
+  "pos": "adjective",
+  "example": "My brother is very tall."
+ },
+ {
+  "id": "taxi-n",
+  "headword": "taxi",
+  "pos": "noun",
+  "example": "We take a taxi to the station."
+ },
+ {
+  "id": "tea-n",
+  "headword": "tea",
+  "pos": "noun",
+  "example": "I drink a cup of tea every morning."
+ },
+ {
+  "id": "teach-v",
+  "headword": "teach",
+  "pos": "verb",
+  "example": "She teaches English at a school."
+ },
+ {
+  "id": "teacher-n",
+  "headword": "teacher",
+  "pos": "noun",
+  "example": "Our teacher is very kind."
+ },
+ {
+  "id": "team-n",
+  "headword": "team",
+  "pos": "noun",
+  "example": "My football team plays on Saturday."
+ },
+ {
+  "id": "technology-n",
+  "headword": "technology",
+  "pos": "noun",
+  "example": "Phones and computers are new technology."
+ },
+ {
+  "id": "telephone-n",
+  "headword": "telephone",
+  "pos": "noun",
+  "example": "The telephone is ringing in the kitchen."
+ },
+ {
+  "id": "television-n",
+  "headword": "television",
+  "pos": "noun",
+  "example": "We watch television in the living room."
+ },
+ {
+  "id": "temple-n",
+  "headword": "temple",
+  "pos": "noun",
+  "example": "There is an old temple in the city."
+ },
+ {
+  "id": "tennis-n",
+  "headword": "tennis",
+  "pos": "noun",
+  "example": "I play tennis with my sister."
+ },
+ {
+  "id": "terrible-adj",
+  "headword": "terrible",
+  "pos": "adjective",
+  "example": "The weather is terrible today."
+ },
+ {
+  "id": "test-n",
+  "headword": "test",
+  "pos": "noun",
+  "example": "We have an English test tomorrow."
+ },
+ {
+  "id": "than-conj",
+  "headword": "than",
+  "pos": "conjunction",
+  "example": "My brother is taller than I am."
+ },
+ {
+  "id": "than-prep",
+  "headword": "than",
+  "pos": "preposition",
+  "example": "A car is faster than a bike."
+ },
+ {
+  "id": "thank-v",
+  "headword": "thank",
+  "pos": "verb",
+  "example": "I thank my teacher for her help."
+ },
+ {
+  "id": "thanks-n",
+  "headword": "thanks",
+  "pos": "noun",
+  "example": "Many thanks for your help."
+ },
+ {
+  "id": "that-conj",
+  "headword": "that",
+  "pos": "conjunction",
+  "example": "I think that she is nice."
+ },
+ {
+  "id": "that-det",
+  "headword": "that",
+  "pos": "determiner",
+  "example": "That car over there is red."
+ },
+ {
+  "id": "the-det",
+  "headword": "the",
+  "pos": "determiner",
+  "example": "The dog is in the garden."
+ },
+ {
+  "id": "theater-n",
+  "headword": "theater",
+  "pos": "noun",
+  "example": "We watch a show at the theater."
+ },
+ {
+  "id": "their-det",
+  "headword": "their",
+  "pos": "determiner",
+  "example": "Their house is very big."
+ },
+ {
+  "id": "them-pron",
+  "headword": "them",
+  "pos": "pronoun",
+  "example": "My parents are nice. I love them."
+ },
+ {
+  "id": "then-adv",
+  "headword": "then",
+  "pos": "adverb",
+  "example": "I eat breakfast, then I go to work."
+ },
+ {
+  "id": "there-adv",
+  "headword": "there",
+  "pos": "adverb",
+  "example": "Look, my school is there."
+ },
+ {
+  "id": "these-det",
+  "headword": "these",
+  "pos": "determiner",
+  "example": "These shoes are new."
+ },
+ {
+  "id": "these-pron",
+  "headword": "these",
+  "pos": "pronoun",
+  "example": "These are my friends, Tom and Anna."
+ },
+ {
+  "id": "they-pron",
+  "headword": "they",
+  "pos": "pronoun",
+  "example": "They are my brothers."
+ },
+ {
+  "id": "thick-adj",
+  "headword": "thick",
+  "pos": "adjective",
+  "example": "This book is very thick."
+ },
+ {
+  "id": "thing-n",
+  "headword": "thing",
+  "pos": "noun",
+  "example": "What is this thing on the table?"
+ },
+ {
+  "id": "think-v",
+  "headword": "think",
+  "pos": "verb",
+  "example": "I think it is cold today."
+ },
+ {
+  "id": "this-det",
+  "headword": "this",
+  "pos": "determiner",
+  "example": "This book is very good."
+ },
+ {
+  "id": "this-pron",
+  "headword": "this",
+  "pos": "pronoun",
+  "example": "This is my sister, Maria."
+ },
+ {
+  "id": "those-det",
+  "headword": "those",
+  "pos": "determiner",
+  "example": "Those birds in the tree are very big."
+ },
+ {
+  "id": "those-pron",
+  "headword": "those",
+  "pos": "pronoun",
+  "example": "Those are my keys over there."
+ },
+ {
+  "id": "through-prep",
+  "headword": "through",
+  "pos": "preposition",
+  "example": "The cat comes in through the window."
+ },
+ {
+  "id": "throw-n",
+  "headword": "throw",
+  "pos": "noun",
+  "example": "What a good throw! The ball goes far."
+ },
+ {
+  "id": "thursday-n",
+  "headword": "Thursday",
+  "pos": "noun",
+  "example": "I have a piano lesson on Thursday."
+ },
+ {
+  "id": "ticket-n",
+  "headword": "ticket",
+  "pos": "noun",
+  "example": "I have two tickets for the cinema."
+ },
+ {
+  "id": "tight-adj",
+  "headword": "tight",
+  "pos": "adjective",
+  "example": "These jeans are too tight for me."
+ },
+ {
+  "id": "time-n",
+  "headword": "time",
+  "pos": "noun",
+  "example": "What time is it? It is three o'clock."
+ },
+ {
+  "id": "tired-adj",
+  "headword": "tired",
+  "pos": "adjective",
+  "example": "I am tired after work."
+ },
+ {
+  "id": "to-to",
+  "headword": "to",
+  "pos": "infinitive-to",
+  "example": "I want to eat now."
+ },
+ {
+  "id": "to-prep",
+  "headword": "to",
+  "pos": "preposition",
+  "example": "I go to school by bus."
+ },
+ {
+  "id": "today-adv",
+  "headword": "today",
+  "pos": "adverb",
+  "example": "It is very hot today."
+ },
+ {
+  "id": "today-n",
+  "headword": "today",
+  "pos": "noun",
+  "example": "Today is Monday."
+ },
+ {
+  "id": "together-adv",
+  "headword": "together",
+  "pos": "adverb",
+  "example": "My family eats dinner together every day."
+ },
+ {
+  "id": "toilet-n",
+  "headword": "toilet",
+  "pos": "noun",
+  "example": "Excuse me, where is the toilet?"
+ },
+ {
+  "id": "tomato-n",
+  "headword": "tomato",
+  "pos": "noun",
+  "example": "I put a red tomato in the salad."
+ },
+ {
+  "id": "tomorrow-n",
+  "headword": "tomorrow",
+  "pos": "noun",
+  "example": "Tomorrow is my birthday."
+ },
+ {
+  "id": "tonight-adv",
+  "headword": "tonight",
+  "pos": "adverb",
+  "example": "We watch a film at home tonight."
+ },
+ {
+  "id": "too-adv",
+  "headword": "too",
+  "pos": "adverb",
+  "example": "This coffee is too hot to drink."
+ },
+ {
+  "id": "tool-n",
+  "headword": "tool",
+  "pos": "noun",
+  "example": "My dad keeps his tools in the garage."
+ },
+ {
+  "id": "tooth-n",
+  "headword": "tooth",
+  "pos": "noun",
+  "example": "My tooth hurts, so I see a dentist."
+ },
+ {
+  "id": "top-n",
+  "headword": "top",
+  "pos": "noun",
+  "example": "Write your name at the top of the page."
+ },
+ {
+  "id": "topic-n",
+  "headword": "topic",
+  "pos": "noun",
+  "example": "The topic of today's lesson is food."
+ },
+ {
+  "id": "touch-n",
+  "headword": "touch",
+  "pos": "noun",
+  "example": "I feel a touch on my arm."
+ },
+ {
+  "id": "towel-n",
+  "headword": "towel",
+  "pos": "noun",
+  "example": "I need a towel after my shower."
+ },
+ {
+  "id": "tower-n",
+  "headword": "tower",
+  "pos": "noun",
+  "example": "The old tower is very tall."
+ },
+ {
+  "id": "toy-n",
+  "headword": "toy",
+  "pos": "noun",
+  "example": "The child plays with a new toy."
+ },
+ {
+  "id": "train-n",
+  "headword": "train",
+  "pos": "noun",
+  "example": "The train leaves the station at nine."
+ },
+ {
+  "id": "travel-v",
+  "headword": "travel",
+  "pos": "verb",
+  "example": "I travel to work by train."
+ },
+ {
+  "id": "tree-n",
+  "headword": "tree",
+  "pos": "noun",
+  "example": "There is a big tree in our garden."
+ },
+ {
+  "id": "trip-n",
+  "headword": "trip",
+  "pos": "noun",
+  "example": "We go on a trip to the sea."
+ },
+ {
+  "id": "trousers-n",
+  "headword": "trousers",
+  "pos": "noun",
+  "example": "I wear black trousers to work."
+ },
+ {
+  "id": "truck-n",
+  "headword": "truck",
+  "pos": "noun",
+  "example": "A big truck carries food to the shops."
+ },
+ {
+  "id": "true-adj",
+  "headword": "true",
+  "pos": "adjective",
+  "example": "Is this story true? Yes, it is."
+ },
+ {
+  "id": "try-n",
+  "headword": "try",
+  "pos": "noun",
+  "example": "This game is hard. Can I have a try?"
+ },
+ {
+  "id": "t-shirt-n",
+  "headword": "T-shirt",
+  "pos": "noun",
+  "example": "I wear a white T-shirt in summer."
+ },
+ {
+  "id": "tuesday-n",
+  "headword": "Tuesday",
+  "pos": "noun",
+  "example": "I go swimming on Tuesday."
+ },
+ {
+  "id": "turkey-n",
+  "headword": "turkey",
+  "pos": "noun",
+  "example": "We eat turkey at Christmas."
+ },
+ {
+  "id": "turn-n",
+  "headword": "turn",
+  "pos": "noun",
+  "example": "It is your turn to play."
+ },
+ {
+  "id": "turn-v",
+  "headword": "turn",
+  "pos": "verb",
+  "example": "Turn left at the bank."
+ },
+ {
+  "id": "tv-n",
+  "headword": "TV",
+  "pos": "noun",
+  "example": "The TV is in the living room."
+ },
+ {
+  "id": "type-n",
+  "headword": "type",
+  "pos": "noun",
+  "example": "What type of music do you like?"
+ },
+ {
+  "id": "ugly-adj",
+  "headword": "ugly",
+  "pos": "adjective",
+  "example": "That hat is very ugly."
+ },
+ {
+  "id": "umbrella-n",
+  "headword": "umbrella",
+  "pos": "noun",
+  "example": "It is raining, so I take my umbrella."
+ },
+ {
+  "id": "uncle-n",
+  "headword": "uncle",
+  "pos": "noun",
+  "example": "My uncle is my mother's brother."
+ },
+ {
+  "id": "under-prep",
+  "headword": "under",
+  "pos": "preposition",
+  "example": "The cat is under the bed."
+ }
+]

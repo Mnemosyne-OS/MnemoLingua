@@ -1,0 +1,604 @@
+[
+ {
+  "id": "control-n",
+  "headword": "control",
+  "pos": "noun"
+ },
+ {
+  "id": "convenience-n",
+  "headword": "convenience",
+  "pos": "noun"
+ },
+ {
+  "id": "convenient-adj",
+  "headword": "convenient",
+  "pos": "adjective"
+ },
+ {
+  "id": "cooker-n",
+  "headword": "cooker",
+  "pos": "noun",
+  "sourceTopics": [
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "cooking-n",
+  "headword": "cooking",
+  "pos": "noun"
+ },
+ {
+  "id": "cooler-n",
+  "headword": "cooler",
+  "pos": "noun"
+ },
+ {
+  "id": "copy-v",
+  "headword": "copy",
+  "pos": "verb"
+ },
+ {
+  "id": "correctly-adv",
+  "headword": "correctly",
+  "pos": "adverb"
+ },
+ {
+  "id": "cost-n",
+  "headword": "cost",
+  "pos": "noun"
+ },
+ {
+  "id": "cost-v",
+  "headword": "cost",
+  "pos": "verb"
+ },
+ {
+  "id": "count-v",
+  "headword": "count",
+  "pos": "verb"
+ },
+ {
+  "id": "country-n",
+  "headword": "country",
+  "pos": "noun",
+  "sourceTopics": [
+   "Nationalities and countries",
+   "Places"
+  ]
+ },
+ {
+  "id": "countryside-n",
+  "headword": "countryside",
+  "pos": "noun",
+  "sourceTopics": [
+   "Nationalities and countries",
+   "Places"
+  ]
+ },
+ {
+  "id": "couple-n",
+  "headword": "couple",
+  "pos": "noun",
+  "sourceTopics": [
+   "Family life",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "court-n",
+  "headword": "court",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "Relations with other people"
+  ]
+ },
+ {
+  "id": "cover-v",
+  "headword": "cover",
+  "pos": "verb"
+ },
+ {
+  "id": "crazy-adj",
+  "headword": "crazy",
+  "pos": "adjective"
+ },
+ {
+  "id": "cream-adj",
+  "headword": "cream",
+  "pos": "adjective"
+ },
+ {
+  "id": "create-v",
+  "headword": "create",
+  "pos": "verb"
+ },
+ {
+  "id": "creative-adj",
+  "headword": "creative",
+  "pos": "adjective"
+ },
+ {
+  "id": "creativity-n",
+  "headword": "creativity",
+  "pos": "noun"
+ },
+ {
+  "id": "creature-n",
+  "headword": "creature",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education"
+  ]
+ },
+ {
+  "id": "credit-n",
+  "headword": "credit",
+  "pos": "noun",
+  "sourceTopics": [
+   "Shopping",
+   "Services"
+  ]
+ },
+ {
+  "id": "cricket-n",
+  "headword": "cricket",
+  "pos": "noun",
+  "sourceTopics": [
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "crime-n",
+  "headword": "crime",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs",
+   "Relations with other people"
+  ]
+ },
+ {
+  "id": "crisp-n",
+  "headword": "crisp",
+  "pos": "noun"
+ },
+ {
+  "id": "criticize-v",
+  "headword": "criticize",
+  "pos": "verb",
+  "variants": [
+   "criticise"
+  ]
+ },
+ {
+  "id": "cross-n",
+  "headword": "cross",
+  "pos": "noun",
+  "sourceTopics": [
+   "Books and literature"
+  ]
+ },
+ {
+  "id": "cross-v",
+  "headword": "cross",
+  "pos": "verb"
+ },
+ {
+  "id": "crowd-n",
+  "headword": "crowd",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "Travel"
+  ]
+ },
+ {
+  "id": "crowded-adj",
+  "headword": "crowded",
+  "pos": "adjective"
+ },
+ {
+  "id": "crown-n",
+  "headword": "crown",
+  "pos": "noun"
+ },
+ {
+  "id": "cruise-n",
+  "headword": "cruise",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel and services vocab",
+   "Travel"
+  ]
+ },
+ {
+  "id": "cry-v",
+  "headword": "cry",
+  "pos": "verb"
+ },
+ {
+  "id": "cupboard-n",
+  "headword": "cupboard",
+  "pos": "noun",
+  "sourceTopics": [
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "curry-n",
+  "headword": "curry",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "curse-n",
+  "headword": "curse",
+  "pos": "noun",
+  "sourceTopics": [
+   "Books and literature",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "custom-n",
+  "headword": "custom",
+  "pos": "noun",
+  "sourceTopics": [
+   "Nationalities and countries",
+   "Places"
+  ]
+ },
+ {
+  "id": "customer-n",
+  "headword": "customer",
+  "pos": "noun",
+  "sourceTopics": [
+   "Shopping",
+   "Services"
+  ]
+ },
+ {
+  "id": "cycling-n",
+  "headword": "cycling",
+  "pos": "noun",
+  "sourceTopics": [
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "daily-adj",
+  "headword": "daily",
+  "pos": "adjective"
+ },
+ {
+  "id": "daily-adv",
+  "headword": "daily",
+  "pos": "adverb"
+ },
+ {
+  "id": "dam-n",
+  "headword": "dam",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Places"
+  ]
+ },
+ {
+  "id": "dancer-n",
+  "headword": "dancer",
+  "pos": "noun",
+  "sourceTopics": [
+   "Hobbies and pastimes",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "danger-n",
+  "headword": "danger",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs",
+   "Travel"
+  ]
+ },
+ {
+  "id": "dangerous-adj",
+  "headword": "dangerous",
+  "pos": "adjective"
+ },
+ {
+  "id": "daylight-n",
+  "headword": "daylight",
+  "pos": "noun"
+ },
+ {
+  "id": "dead-adj",
+  "headword": "dead",
+  "pos": "adjective"
+ },
+ {
+  "id": "deal-n",
+  "headword": "deal",
+  "pos": "noun",
+  "sourceTopics": [
+   "Collocation",
+   "Language"
+  ]
+ },
+ {
+  "id": "death-n",
+  "headword": "death",
+  "pos": "noun"
+ },
+ {
+  "id": "debate-n",
+  "headword": "debate",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Education"
+  ]
+ },
+ {
+  "id": "decide-v",
+  "headword": "decide",
+  "pos": "verb"
+ },
+ {
+  "id": "deep-adv",
+  "headword": "deep",
+  "pos": "adverb"
+ },
+ {
+  "id": "deeply-adv",
+  "headword": "deeply",
+  "pos": "adverb"
+ },
+ {
+  "id": "degree-n",
+  "headword": "degree",
+  "pos": "noun"
+ },
+ {
+  "id": "delay-n",
+  "headword": "delay",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel and services vocab"
+  ]
+ },
+ {
+  "id": "dentist-n",
+  "headword": "dentist",
+  "pos": "noun",
+  "sourceTopics": [
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "department-store-n",
+  "headword": "department store",
+  "pos": "noun",
+  "sourceTopics": [
+   "Shopping"
+  ]
+ },
+ {
+  "id": "depend-v",
+  "headword": "depend",
+  "pos": "verb"
+ },
+ {
+  "id": "description-n",
+  "headword": "description",
+  "pos": "noun"
+ },
+ {
+  "id": "desert-n",
+  "headword": "desert",
+  "pos": "noun",
+  "sourceTopics": [
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "dessert-n",
+  "headword": "dessert",
+  "pos": "noun",
+  "sourceTopics": [
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "destroy-v",
+  "headword": "destroy",
+  "pos": "verb"
+ },
+ {
+  "id": "detail-n",
+  "headword": "detail",
+  "pos": "noun"
+ },
+ {
+  "id": "develop-v",
+  "headword": "develop",
+  "pos": "verb"
+ },
+ {
+  "id": "developed-adj",
+  "headword": "developed",
+  "pos": "adjective"
+ },
+ {
+  "id": "diamond-n",
+  "headword": "diamond",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "diary-n",
+  "headword": "diary",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "die-v",
+  "headword": "die",
+  "pos": "verb"
+ },
+ {
+  "id": "diet-n",
+  "headword": "diet",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "differently-adv",
+  "headword": "differently",
+  "pos": "adverb"
+ },
+ {
+  "id": "difficulty-n",
+  "headword": "difficulty",
+  "pos": "noun"
+ },
+ {
+  "id": "digital-camera-n",
+  "headword": "digital camera",
+  "pos": "noun",
+  "sourceTopics": [
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "dinosaur-n",
+  "headword": "dinosaur",
+  "pos": "noun"
+ },
+ {
+  "id": "direct-adj",
+  "headword": "direct",
+  "pos": "adjective"
+ },
+ {
+  "id": "direction-n",
+  "headword": "direction",
+  "pos": "noun"
+ },
+ {
+  "id": "director-n",
+  "headword": "director",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "disadvantage-n",
+  "headword": "disadvantage",
+  "pos": "noun"
+ },
+ {
+  "id": "disagree-v",
+  "headword": "disagree",
+  "pos": "verb"
+ },
+ {
+  "id": "disappear-v",
+  "headword": "disappear",
+  "pos": "verb"
+ },
+ {
+  "id": "disappointed-adj",
+  "headword": "disappointed",
+  "pos": "adjective"
+ },
+ {
+  "id": "disappointing-adj",
+  "headword": "disappointing",
+  "pos": "adjective"
+ },
+ {
+  "id": "disco-n",
+  "headword": "disco",
+  "pos": "noun",
+  "sourceTopics": [
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "discover-v",
+  "headword": "discover",
+  "pos": "verb"
+ },
+ {
+  "id": "discussion-n",
+  "headword": "discussion",
+  "pos": "noun"
+ },
+ {
+  "id": "dishonest-adj",
+  "headword": "dishonest",
+  "pos": "adjective"
+ },
+ {
+  "id": "dislike-n",
+  "headword": "dislike",
+  "pos": "noun",
+  "sourceTopics": [
+   "Personal information",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "display-n",
+  "headword": "display",
+  "pos": "noun",
+  "sourceTopics": [
+   "Shopping"
+  ]
+ },
+ {
+  "id": "disturb-v",
+  "headword": "disturb",
+  "pos": "verb"
+ },
+ {
+  "id": "divide-v",
+  "headword": "divide",
+  "pos": "verb"
+ },
+ {
+  "id": "dizzy-adj",
+  "headword": "dizzy",
+  "pos": "adjective"
+ },
+ {
+  "id": "done-do",
+  "headword": "done",
+  "pos": "do-verb"
+ },
+ {
+  "id": "double-adj",
+  "headword": "double",
+  "pos": "adjective"
+ },
+ {
+  "id": "doubt-n",
+  "headword": "doubt",
+  "pos": "noun"
+ }
+]

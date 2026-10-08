@@ -1,0 +1,1224 @@
+[
+ {
+  "id": "control-n",
+  "example": "The driver lost control of the car on the ice.",
+  "gloss": {
+   "fr": "le contrôle",
+   "es": "el control"
+  },
+  "exampleGloss": {
+   "fr": "Le conducteur a perdu le contrôle de la voiture sur le verglas.",
+   "es": "El conductor perdió el control del coche en el hielo."
+  },
+  "topic": "transport"
+ },
+ {
+  "id": "convenience-n",
+  "example": "I like the convenience of buying food online.",
+  "gloss": {
+   "fr": "le côté pratique",
+   "es": "la comodidad"
+  },
+  "exampleGloss": {
+   "fr": "J'aime le côté pratique des courses en ligne.",
+   "es": "Me gusta la comodidad de comprar comida por internet."
+  },
+  "topic": "shopping"
+ },
+ {
+  "id": "convenient-adj",
+  "example": "The hotel is very convenient, right next to the station.",
+  "gloss": {
+   "fr": "pratique",
+   "es": "práctico"
+  },
+  "exampleGloss": {
+   "fr": "L'hôtel est très pratique, juste à côté de la gare.",
+   "es": "El hotel es muy práctico, justo al lado de la estación."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "cooker-n",
+  "example": "Put the pan on the cooker and heat the milk.",
+  "gloss": {
+   "fr": "la cuisinière",
+   "es": "la cocina"
+  },
+  "exampleGloss": {
+   "fr": "Mets la casserole sur la cuisinière et fais chauffer le lait.",
+   "es": "Pon el cazo en la cocina y calienta la leche."
+  },
+  "topic": "home"
+ },
+ {
+  "id": "cooking-n",
+  "example": "My grandmother's cooking is the best in the world.",
+  "gloss": {
+   "fr": "la cuisine",
+   "es": "la cocina"
+  },
+  "exampleGloss": {
+   "fr": "La cuisine de ma grand-mère est la meilleure du monde.",
+   "es": "La cocina de mi abuela es la mejor del mundo."
+  },
+  "topic": "food"
+ },
+ {
+  "id": "cooler-n",
+  "example": "We put cold drinks in the cooler for the beach.",
+  "gloss": {
+   "fr": "la glacière",
+   "es": "la nevera portátil"
+  },
+  "exampleGloss": {
+   "fr": "On a mis des boissons fraîches dans la glacière pour la plage.",
+   "es": "Metimos bebidas frías en la nevera portátil para la playa."
+  },
+  "topic": "home"
+ },
+ {
+  "id": "copy-v",
+  "example": "Copy the new words from the board into your notebook.",
+  "gloss": {
+   "fr": "recopier",
+   "es": "copiar"
+  },
+  "exampleGloss": {
+   "fr": "Recopiez les nouveaux mots du tableau dans votre cahier.",
+   "es": "Copiad las palabras nuevas de la pizarra en vuestro cuaderno."
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "correctly-adv",
+  "example": "She answered all the questions correctly and got full marks.",
+  "gloss": {
+   "fr": "correctement",
+   "es": "correctamente"
+  },
+  "exampleGloss": {
+   "fr": "Elle a répondu correctement à toutes les questions et a eu la note maximale.",
+   "es": "Respondió correctamente a todas las preguntas y sacó la nota máxima."
+  },
+  "topic": "smallwords"
+ },
+ {
+  "id": "cost-n",
+  "example": "The cost of the trip is two hundred euros.",
+  "gloss": {
+   "fr": "le coût",
+   "es": "el coste"
+  },
+  "exampleGloss": {
+   "fr": "Le coût du voyage est de deux cents euros.",
+   "es": "El coste del viaje es de doscientos euros."
+  },
+  "topic": "shopping"
+ },
+ {
+  "id": "cost-v",
+  "example": "How much did your new bike cost?",
+  "gloss": {
+   "fr": "coûter",
+   "es": "costar"
+  },
+  "exampleGloss": {
+   "fr": "Combien a coûté ton nouveau vélo ?",
+   "es": "¿Cuánto te costó la bici nueva?"
+  },
+  "topic": "shopping"
+ },
+ {
+  "id": "count-v",
+  "example": "The little girl can count from one to twenty.",
+  "gloss": {
+   "fr": "compter",
+   "es": "contar"
+  },
+  "exampleGloss": {
+   "fr": "La petite fille sait compter de un à vingt.",
+   "es": "La niña sabe contar del uno al veinte."
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "country-n",
+  "example": "Spain is a sunny country in the south of Europe.",
+  "gloss": {
+   "fr": "le pays",
+   "es": "el país"
+  },
+  "exampleGloss": {
+   "fr": "L'Espagne est un pays ensoleillé du sud de l'Europe.",
+   "es": "España es un país soleado del sur de Europa."
+  },
+  "topic": "town"
+ },
+ {
+  "id": "countryside-n",
+  "example": "We left the city and went for a walk in the countryside.",
+  "gloss": {
+   "fr": "la campagne",
+   "es": "el campo"
+  },
+  "exampleGloss": {
+   "fr": "On a quitté la ville pour aller se promener à la campagne.",
+   "es": "Salimos de la ciudad y fuimos a pasear por el campo."
+  },
+  "topic": "nature"
+ },
+ {
+  "id": "couple-n",
+  "example": "The young couple got married last summer.",
+  "gloss": {
+   "fr": "le couple",
+   "es": "la pareja"
+  },
+  "exampleGloss": {
+   "fr": "Le jeune couple s'est marié l'été dernier.",
+   "es": "La joven pareja se casó el verano pasado."
+  },
+  "topic": "people"
+ },
+ {
+  "id": "court-n",
+  "example": "The man went to court because he stole a car.",
+  "gloss": {
+   "fr": "le tribunal",
+   "es": "el tribunal"
+  },
+  "exampleGloss": {
+   "fr": "L'homme est passé au tribunal parce qu'il avait volé une voiture.",
+   "es": "El hombre fue a juicio porque había robado un coche."
+  },
+  "topic": "town"
+ },
+ {
+  "id": "cover-v",
+  "example": "Cover the bowl with a plate to keep the soup hot.",
+  "gloss": {
+   "fr": "couvrir",
+   "es": "tapar"
+  },
+  "exampleGloss": {
+   "fr": "Couvre le bol avec une assiette pour garder la soupe chaude.",
+   "es": "Tapa el cuenco con un plato para que la sopa no se enfríe."
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "crazy-adj",
+  "example": "Swimming in the sea in January is crazy!",
+  "gloss": {
+   "fr": "fou",
+   "es": "loco"
+  },
+  "exampleGloss": {
+   "fr": "Se baigner dans la mer en janvier, c'est de la folie !",
+   "es": "¡Bañarse en el mar en enero es una locura!"
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "cream-adj",
+  "example": "She bought a cream jacket, not a white one.",
+  "gloss": {
+   "fr": "crème",
+   "es": "color crema"
+  },
+  "exampleGloss": {
+   "fr": "Elle a acheté une veste crème, pas une blanche.",
+   "es": "Se compró una chaqueta color crema, no una blanca."
+  },
+  "topic": "nature"
+ },
+ {
+  "id": "create-v",
+  "example": "The children created a beautiful picture with paper and paint.",
+  "gloss": {
+   "fr": "créer",
+   "es": "crear"
+  },
+  "exampleGloss": {
+   "fr": "Les enfants ont créé une belle image avec du papier et de la peinture.",
+   "es": "Los niños crearon un dibujo precioso con papel y pintura."
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "creative-adj",
+  "example": "My sister is very creative; she writes songs and paints.",
+  "gloss": {
+   "fr": "créatif",
+   "es": "creativo"
+  },
+  "exampleGloss": {
+   "fr": "Ma sœur est très créative : elle écrit des chansons et elle peint.",
+   "es": "Mi hermana es muy creativa: escribe canciones y pinta."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "creativity-n",
+  "example": "Art classes help children develop their creativity.",
+  "gloss": {
+   "fr": "la créativité",
+   "es": "la creatividad"
+  },
+  "exampleGloss": {
+   "fr": "Les cours d'art aident les enfants à développer leur créativité.",
+   "es": "Las clases de arte ayudan a los niños a desarrollar su creatividad."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "creature-n",
+  "example": "The whale is the biggest creature in the sea.",
+  "gloss": {
+   "fr": "la créature",
+   "es": "la criatura"
+  },
+  "exampleGloss": {
+   "fr": "La baleine est la plus grande créature de la mer.",
+   "es": "La ballena es la criatura más grande del mar."
+  },
+  "topic": "animals"
+ },
+ {
+  "id": "credit-n",
+  "example": "We bought the new TV on credit and pay every month.",
+  "gloss": {
+   "fr": "le crédit",
+   "es": "el crédito"
+  },
+  "exampleGloss": {
+   "fr": "On a acheté la nouvelle télé à crédit et on paie tous les mois.",
+   "es": "Compramos la tele nueva a crédito y pagamos cada mes."
+  },
+  "topic": "shopping"
+ },
+ {
+  "id": "cricket-n",
+  "example": "Cricket is a very popular sport in England and India.",
+  "gloss": {
+   "fr": "le cricket",
+   "es": "el críquet"
+  },
+  "exampleGloss": {
+   "fr": "Le cricket est un sport très populaire en Angleterre et en Inde.",
+   "es": "El críquet es un deporte muy popular en Inglaterra y la India."
+  },
+  "topic": "leisure"
+ },
+ {
+  "id": "crime-n",
+  "example": "Stealing a car is a serious crime.",
+  "gloss": {
+   "fr": "le délit",
+   "es": "el delito"
+  },
+  "exampleGloss": {
+   "fr": "Voler une voiture est un délit grave.",
+   "es": "Robar un coche es un delito grave."
+  },
+  "topic": "people"
+ },
+ {
+  "id": "crisp-n",
+  "example": "He ate a packet of crisps with his sandwich.",
+  "gloss": {
+   "fr": "la chips",
+   "es": "la patata frita"
+  },
+  "exampleGloss": {
+   "fr": "Il a mangé un paquet de chips avec son sandwich.",
+   "es": "Se comió una bolsa de patatas fritas con el bocadillo."
+  },
+  "topic": "food"
+ },
+ {
+  "id": "criticize-v",
+  "example": "My boss criticized my work, but he was polite.",
+  "gloss": {
+   "fr": "critiquer",
+   "es": "criticar"
+  },
+  "exampleGloss": {
+   "fr": "Mon chef a critiqué mon travail, mais il est resté poli.",
+   "es": "Mi jefe criticó mi trabajo, pero fue educado."
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "cross-n",
+  "example": "Put a cross next to the correct answer.",
+  "gloss": {
+   "fr": "la croix",
+   "es": "la cruz"
+  },
+  "exampleGloss": {
+   "fr": "Mets une croix à côté de la bonne réponse.",
+   "es": "Pon una cruz al lado de la respuesta correcta."
+  },
+  "topic": "school"
+ },
+ {
+  "id": "cross-v",
+  "example": "Look left and right before you cross the road.",
+  "gloss": {
+   "fr": "traverser",
+   "es": "cruzar"
+  },
+  "exampleGloss": {
+   "fr": "Regarde à gauche et à droite avant de traverser la rue.",
+   "es": "Mira a la izquierda y a la derecha antes de cruzar la calle."
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "crowd-n",
+  "example": "A big crowd waited outside the stadium for the singer.",
+  "gloss": {
+   "fr": "la foule",
+   "es": "la multitud"
+  },
+  "exampleGloss": {
+   "fr": "Une grande foule attendait le chanteur devant le stade.",
+   "es": "Una gran multitud esperaba al cantante fuera del estadio."
+  },
+  "topic": "town"
+ },
+ {
+  "id": "crowded-adj",
+  "example": "The bus was so crowded that I couldn't sit down.",
+  "gloss": {
+   "fr": "bondé",
+   "es": "abarrotado"
+  },
+  "exampleGloss": {
+   "fr": "Le bus était tellement bondé que je n'ai pas pu m'asseoir.",
+   "es": "El autobús iba tan abarrotado que no pude sentarme."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "crown-n",
+  "example": "The queen wore a gold crown on her head.",
+  "gloss": {
+   "fr": "la couronne",
+   "es": "la corona"
+  },
+  "exampleGloss": {
+   "fr": "La reine portait une couronne en or sur la tête.",
+   "es": "La reina llevaba una corona de oro en la cabeza."
+  },
+  "topic": "clothes"
+ },
+ {
+  "id": "cruise-n",
+  "example": "They went on a cruise around the Greek islands.",
+  "gloss": {
+   "fr": "la croisière",
+   "es": "el crucero"
+  },
+  "exampleGloss": {
+   "fr": "Ils ont fait une croisière autour des îles grecques.",
+   "es": "Hicieron un crucero por las islas griegas."
+  },
+  "topic": "transport"
+ },
+ {
+  "id": "cry-v",
+  "example": "The baby started to cry because she was hungry.",
+  "gloss": {
+   "fr": "pleurer",
+   "es": "llorar"
+  },
+  "exampleGloss": {
+   "fr": "Le bébé s'est mis à pleurer parce qu'elle avait faim.",
+   "es": "La bebé empezó a llorar porque tenía hambre."
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "cupboard-n",
+  "example": "The cups and plates are in the kitchen cupboard.",
+  "gloss": {
+   "fr": "le placard",
+   "es": "el armario"
+  },
+  "exampleGloss": {
+   "fr": "Les tasses et les assiettes sont dans le placard de la cuisine.",
+   "es": "Las tazas y los platos están en el armario de la cocina."
+  },
+  "topic": "home"
+ },
+ {
+  "id": "curry-n",
+  "example": "We ate a hot chicken curry with rice.",
+  "gloss": {
+   "fr": "le curry",
+   "es": "el curry"
+  },
+  "exampleGloss": {
+   "fr": "On a mangé un curry de poulet épicé avec du riz.",
+   "es": "Comimos un curry de pollo picante con arroz."
+  },
+  "topic": "food"
+ },
+ {
+  "id": "curse-n",
+  "example": "In the story, a witch put a curse on the princess.",
+  "gloss": {
+   "fr": "la malédiction",
+   "es": "la maldición"
+  },
+  "exampleGloss": {
+   "fr": "Dans l'histoire, une sorcière a jeté une malédiction sur la princesse.",
+   "es": "En el cuento, una bruja le echó una maldición a la princesa."
+  },
+  "topic": "leisure"
+ },
+ {
+  "id": "custom-n",
+  "example": "In Spain, people have a custom of eating grapes at New Year.",
+  "gloss": {
+   "fr": "la coutume",
+   "es": "la costumbre"
+  },
+  "exampleGloss": {
+   "fr": "En Espagne, on a la coutume de manger des raisins au Nouvel An.",
+   "es": "En España existe la costumbre de comer uvas en Nochevieja."
+  },
+  "topic": "people"
+ },
+ {
+  "id": "customer-n",
+  "example": "The shop assistant smiled at every customer.",
+  "gloss": {
+   "fr": "le client",
+   "es": "el cliente"
+  },
+  "exampleGloss": {
+   "fr": "La vendeuse souriait à chaque client.",
+   "es": "La dependienta sonreía a cada cliente."
+  },
+  "topic": "shopping"
+ },
+ {
+  "id": "cycling-n",
+  "example": "Cycling is a good way to stay fit.",
+  "gloss": {
+   "fr": "le vélo",
+   "es": "el ciclismo"
+  },
+  "exampleGloss": {
+   "fr": "Le vélo, c'est un bon moyen de rester en forme.",
+   "es": "El ciclismo es una buena forma de mantenerse en forma."
+  },
+  "topic": "leisure"
+ },
+ {
+  "id": "daily-adj",
+  "example": "Walking the dog is part of my daily routine.",
+  "gloss": {
+   "fr": "quotidien",
+   "es": "diario"
+  },
+  "exampleGloss": {
+   "fr": "Promener le chien fait partie de ma routine quotidienne.",
+   "es": "Pasear al perro es parte de mi rutina diaria."
+  },
+  "topic": "time"
+ },
+ {
+  "id": "daily-adv",
+  "example": "The museum is open daily from nine to five.",
+  "gloss": {
+   "fr": "tous les jours",
+   "es": "todos los días"
+  },
+  "exampleGloss": {
+   "fr": "Le musée est ouvert tous les jours de neuf heures à dix-sept heures.",
+   "es": "El museo abre todos los días de nueve a cinco."
+  },
+  "topic": "time"
+ },
+ {
+  "id": "dam-n",
+  "example": "They built a dam across the river to make electricity.",
+  "gloss": {
+   "fr": "le barrage",
+   "es": "la presa"
+  },
+  "exampleGloss": {
+   "fr": "Ils ont construit un barrage sur la rivière pour produire de l'électricité.",
+   "es": "Construyeron una presa en el río para producir electricidad."
+  },
+  "topic": "nature"
+ },
+ {
+  "id": "dancer-n",
+  "example": "She is a dancer and performs in a ballet company.",
+  "gloss": {
+   "fr": "la danseuse",
+   "es": "la bailarina"
+  },
+  "exampleGloss": {
+   "fr": "C'est une danseuse, elle se produit dans une compagnie de ballet.",
+   "es": "Es bailarina y actúa en una compañía de ballet."
+  },
+  "topic": "people"
+ },
+ {
+  "id": "danger-n",
+  "example": "The sign says: danger, deep water, no swimming.",
+  "gloss": {
+   "fr": "le danger",
+   "es": "el peligro"
+  },
+  "exampleGloss": {
+   "fr": "Le panneau dit : danger, eau profonde, baignade interdite.",
+   "es": "El cartel dice: peligro, agua profunda, prohibido bañarse."
+  },
+  "topic": "smallwords"
+ },
+ {
+  "id": "dangerous-adj",
+  "example": "It is dangerous to ride a bike without a helmet.",
+  "gloss": {
+   "fr": "dangereux",
+   "es": "peligroso"
+  },
+  "exampleGloss": {
+   "fr": "C'est dangereux de faire du vélo sans casque.",
+   "es": "Es peligroso ir en bici sin casco."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "daylight-n",
+  "example": "We must get home before the daylight goes.",
+  "gloss": {
+   "fr": "la lumière du jour",
+   "es": "la luz del día"
+  },
+  "exampleGloss": {
+   "fr": "On doit rentrer avant la fin de la lumière du jour.",
+   "es": "Tenemos que llegar a casa antes de que se vaya la luz del día."
+  },
+  "topic": "time"
+ },
+ {
+  "id": "dead-adj",
+  "example": "I forgot to water the plant, and now it is dead.",
+  "gloss": {
+   "fr": "mort",
+   "es": "muerto"
+  },
+  "exampleGloss": {
+   "fr": "J'ai oublié d'arroser la plante, et maintenant elle est morte.",
+   "es": "Se me olvidó regar la planta y ahora está muerta."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "deal-n",
+  "example": "Two pizzas for ten euros is a really good deal.",
+  "gloss": {
+   "fr": "l'affaire",
+   "es": "la oferta"
+  },
+  "exampleGloss": {
+   "fr": "Deux pizzas pour dix euros, c'est vraiment une bonne affaire.",
+   "es": "Dos pizzas por diez euros es una oferta muy buena."
+  },
+  "topic": "shopping"
+ },
+ {
+  "id": "death-n",
+  "example": "Everyone was very sad after the death of his grandfather.",
+  "gloss": {
+   "fr": "la mort",
+   "es": "la muerte"
+  },
+  "exampleGloss": {
+   "fr": "Tout le monde était très triste après la mort de son grand-père.",
+   "es": "Todos estaban muy tristes tras la muerte de su abuelo."
+  },
+  "topic": "people"
+ },
+ {
+  "id": "debate-n",
+  "example": "Our class had a debate about school uniforms.",
+  "gloss": {
+   "fr": "le débat",
+   "es": "el debate"
+  },
+  "exampleGloss": {
+   "fr": "Notre classe a fait un débat sur l'uniforme scolaire.",
+   "es": "Nuestra clase hizo un debate sobre los uniformes escolares."
+  },
+  "topic": "school"
+ },
+ {
+  "id": "decide-v",
+  "example": "We decided to stay at home because it was raining.",
+  "gloss": {
+   "fr": "décider",
+   "es": "decidir"
+  },
+  "exampleGloss": {
+   "fr": "On a décidé de rester à la maison parce qu'il pleuvait.",
+   "es": "Decidimos quedarnos en casa porque llovía."
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "deep-adv",
+  "example": "The children dug deep into the sand.",
+  "gloss": {
+   "fr": "profond",
+   "es": "hondo"
+  },
+  "exampleGloss": {
+   "fr": "Les enfants ont creusé profond dans le sable.",
+   "es": "Los niños cavaron hondo en la arena."
+  },
+  "topic": "smallwords"
+ },
+ {
+  "id": "deeply-adv",
+  "example": "He was deeply sorry for breaking her phone.",
+  "gloss": {
+   "fr": "profondément",
+   "es": "profundamente"
+  },
+  "exampleGloss": {
+   "fr": "Il était profondément désolé d'avoir cassé son téléphone.",
+   "es": "Lamentaba profundamente haberle roto el móvil."
+  },
+  "topic": "smallwords"
+ },
+ {
+  "id": "degree-n",
+  "example": "It is thirty degrees today, so let's go to the beach.",
+  "gloss": {
+   "fr": "le degré",
+   "es": "el grado"
+  },
+  "exampleGloss": {
+   "fr": "Il fait trente degrés aujourd'hui, alors allons à la plage.",
+   "es": "Hoy hace treinta grados, así que vamos a la playa."
+  },
+  "topic": "nature"
+ },
+ {
+  "id": "delay-n",
+  "example": "There was a two-hour delay because of the snow.",
+  "gloss": {
+   "fr": "le retard",
+   "es": "el retraso"
+  },
+  "exampleGloss": {
+   "fr": "Il y a eu deux heures de retard à cause de la neige.",
+   "es": "Hubo un retraso de dos horas por la nieve."
+  },
+  "topic": "transport"
+ },
+ {
+  "id": "dentist-n",
+  "example": "I went to the dentist because my tooth hurt.",
+  "gloss": {
+   "fr": "le dentiste",
+   "es": "el dentista"
+  },
+  "exampleGloss": {
+   "fr": "Je suis allé chez le dentiste parce que j'avais mal à une dent.",
+   "es": "Fui al dentista porque me dolía una muela."
+  },
+  "topic": "people"
+ },
+ {
+  "id": "department-store-n",
+  "example": "You can buy clothes, toys and books in a department store.",
+  "gloss": {
+   "fr": "le grand magasin",
+   "es": "los grandes almacenes"
+  },
+  "exampleGloss": {
+   "fr": "Dans un grand magasin, on peut acheter des vêtements, des jouets et des livres.",
+   "es": "En unos grandes almacenes puedes comprar ropa, juguetes y libros."
+  },
+  "topic": "town"
+ },
+ {
+  "id": "depend-v",
+  "example": "We may go to the park, but it depends on the weather.",
+  "gloss": {
+   "fr": "dépendre",
+   "es": "depender"
+  },
+  "exampleGloss": {
+   "fr": "On ira peut-être au parc, mais ça dépend du temps.",
+   "es": "Quizá vayamos al parque, pero depende del tiempo."
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "description-n",
+  "example": "The police asked for a description of the thief.",
+  "gloss": {
+   "fr": "la description",
+   "es": "la descripción"
+  },
+  "exampleGloss": {
+   "fr": "La police a demandé une description du voleur.",
+   "es": "La policía pidió una descripción del ladrón."
+  },
+  "topic": "smallwords"
+ },
+ {
+  "id": "desert-n",
+  "example": "It almost never rains in the desert.",
+  "gloss": {
+   "fr": "le désert",
+   "es": "el desierto"
+  },
+  "exampleGloss": {
+   "fr": "Il ne pleut presque jamais dans le désert.",
+   "es": "En el desierto casi nunca llueve."
+  },
+  "topic": "nature"
+ },
+ {
+  "id": "dessert-n",
+  "example": "For dessert, we had chocolate cake and ice cream.",
+  "gloss": {
+   "fr": "le dessert",
+   "es": "el postre"
+  },
+  "exampleGloss": {
+   "fr": "Comme dessert, on a eu du gâteau au chocolat et de la glace.",
+   "es": "De postre tomamos tarta de chocolate y helado."
+  },
+  "topic": "food"
+ },
+ {
+  "id": "destroy-v",
+  "example": "The fire destroyed the old house completely.",
+  "gloss": {
+   "fr": "détruire",
+   "es": "destruir"
+  },
+  "exampleGloss": {
+   "fr": "Le feu a complètement détruit la vieille maison.",
+   "es": "El fuego destruyó por completo la casa vieja."
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "detail-n",
+  "example": "Tell me every detail about your trip to Japan.",
+  "gloss": {
+   "fr": "le détail",
+   "es": "el detalle"
+  },
+  "exampleGloss": {
+   "fr": "Raconte-moi chaque détail de ton voyage au Japon.",
+   "es": "Cuéntame todos los detalles de tu viaje a Japón."
+  },
+  "topic": "smallwords"
+ },
+ {
+  "id": "develop-v",
+  "example": "Children develop very quickly in their first years.",
+  "gloss": {
+   "fr": "se développer",
+   "es": "desarrollarse"
+  },
+  "exampleGloss": {
+   "fr": "Les enfants se développent très vite pendant leurs premières années.",
+   "es": "Los niños se desarrollan muy rápido en sus primeros años."
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "developed-adj",
+  "example": "Japan is a developed country with modern cities.",
+  "gloss": {
+   "fr": "développé",
+   "es": "desarrollado"
+  },
+  "exampleGloss": {
+   "fr": "Le Japon est un pays développé aux villes modernes.",
+   "es": "Japón es un país desarrollado con ciudades modernas."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "diamond-n",
+  "example": "He gave her a ring with a small diamond.",
+  "gloss": {
+   "fr": "le diamant",
+   "es": "el diamante"
+  },
+  "exampleGloss": {
+   "fr": "Il lui a offert une bague avec un petit diamant.",
+   "es": "Le regaló un anillo con un diamante pequeño."
+  },
+  "topic": "shopping"
+ },
+ {
+  "id": "diary-n",
+  "example": "Every evening, she writes about her day in her diary.",
+  "gloss": {
+   "fr": "le journal intime",
+   "es": "el diario"
+  },
+  "exampleGloss": {
+   "fr": "Tous les soirs, elle raconte sa journée dans son journal intime.",
+   "es": "Todas las noches escribe sobre su día en su diario."
+  },
+  "topic": "home"
+ },
+ {
+  "id": "die-v",
+  "example": "My old cat died last year when she was eighteen.",
+  "gloss": {
+   "fr": "mourir",
+   "es": "morir"
+  },
+  "exampleGloss": {
+   "fr": "Ma vieille chatte est morte l'année dernière, à dix-huit ans.",
+   "es": "Mi gata vieja murió el año pasado, con dieciocho años."
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "diet-n",
+  "example": "A healthy diet has lots of fruit and vegetables.",
+  "gloss": {
+   "fr": "l'alimentation",
+   "es": "la dieta"
+  },
+  "exampleGloss": {
+   "fr": "Une alimentation saine comporte beaucoup de fruits et de légumes.",
+   "es": "Una dieta sana tiene mucha fruta y verdura."
+  },
+  "topic": "food"
+ },
+ {
+  "id": "differently-adv",
+  "example": "My brother and I think very differently about money.",
+  "gloss": {
+   "fr": "différemment",
+   "es": "de forma distinta"
+  },
+  "exampleGloss": {
+   "fr": "Mon frère et moi, on voit l'argent très différemment.",
+   "es": "Mi hermano y yo pensamos de forma muy distinta sobre el dinero."
+  },
+  "topic": "smallwords"
+ },
+ {
+  "id": "difficulty-n",
+  "example": "He had difficulty reading the small letters without glasses.",
+  "gloss": {
+   "fr": "la difficulté",
+   "es": "la dificultad"
+  },
+  "exampleGloss": {
+   "fr": "Il avait des difficultés à lire les petites lettres sans lunettes.",
+   "es": "Tenía dificultad para leer las letras pequeñas sin gafas."
+  },
+  "topic": "smallwords"
+ },
+ {
+  "id": "digital-camera-n",
+  "example": "I took lots of photos with my new digital camera.",
+  "gloss": {
+   "fr": "l'appareil photo numérique",
+   "es": "la cámara digital"
+  },
+  "exampleGloss": {
+   "fr": "J'ai pris plein de photos avec mon nouvel appareil photo numérique.",
+   "es": "Hice muchas fotos con mi cámara digital nueva."
+  },
+  "topic": "leisure"
+ },
+ {
+  "id": "dinosaur-n",
+  "example": "We saw the bones of a huge dinosaur at the museum.",
+  "gloss": {
+   "fr": "le dinosaure",
+   "es": "el dinosaurio"
+  },
+  "exampleGloss": {
+   "fr": "On a vu les os d'un énorme dinosaure au musée.",
+   "es": "Vimos los huesos de un dinosaurio enorme en el museo."
+  },
+  "topic": "animals"
+ },
+ {
+  "id": "direct-adj",
+  "example": "We took a direct flight from Madrid to London.",
+  "gloss": {
+   "fr": "direct",
+   "es": "directo"
+  },
+  "exampleGloss": {
+   "fr": "On a pris un vol direct de Madrid à Londres.",
+   "es": "Cogimos un vuelo directo de Madrid a Londres."
+  },
+  "topic": "transport"
+ },
+ {
+  "id": "direction-n",
+  "example": "Excuse me, is the station in this direction?",
+  "gloss": {
+   "fr": "la direction",
+   "es": "la dirección"
+  },
+  "exampleGloss": {
+   "fr": "Excusez-moi, la gare est dans cette direction ?",
+   "es": "Perdone, ¿la estación está en esta dirección?"
+  },
+  "topic": "transport"
+ },
+ {
+  "id": "director-n",
+  "example": "The director of the film won an important prize.",
+  "gloss": {
+   "fr": "le réalisateur",
+   "es": "el director"
+  },
+  "exampleGloss": {
+   "fr": "Le réalisateur du film a gagné un prix important.",
+   "es": "El director de la película ganó un premio importante."
+  },
+  "topic": "people"
+ },
+ {
+  "id": "disadvantage-n",
+  "example": "One disadvantage of living in the city is the noise.",
+  "gloss": {
+   "fr": "l'inconvénient",
+   "es": "la desventaja"
+  },
+  "exampleGloss": {
+   "fr": "Un des inconvénients de la vie en ville, c'est le bruit.",
+   "es": "Una desventaja de vivir en la ciudad es el ruido."
+  },
+  "topic": "smallwords"
+ },
+ {
+  "id": "disagree-v",
+  "example": "I disagree with you; I think the film was boring.",
+  "gloss": {
+   "fr": "ne pas être d'accord",
+   "es": "no estar de acuerdo"
+  },
+  "exampleGloss": {
+   "fr": "Je ne suis pas d'accord avec toi : je trouve que le film était ennuyeux.",
+   "es": "No estoy de acuerdo contigo: creo que la película fue aburrida."
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "disappear-v",
+  "example": "The sun disappeared behind the clouds.",
+  "gloss": {
+   "fr": "disparaître",
+   "es": "desaparecer"
+  },
+  "exampleGloss": {
+   "fr": "Le soleil a disparu derrière les nuages.",
+   "es": "El sol desapareció detrás de las nubes."
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "disappointed-adj",
+  "example": "I was disappointed because the concert was cancelled.",
+  "gloss": {
+   "fr": "déçu",
+   "es": "decepcionado"
+  },
+  "exampleGloss": {
+   "fr": "J'étais déçu parce que le concert a été annulé.",
+   "es": "Me quedé decepcionado porque cancelaron el concierto."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "disappointing-adj",
+  "example": "The food was disappointing; it was cold and had no taste.",
+  "gloss": {
+   "fr": "décevant",
+   "es": "decepcionante"
+  },
+  "exampleGloss": {
+   "fr": "Le repas était décevant : froid et sans goût.",
+   "es": "La comida fue decepcionante: estaba fría y no sabía a nada."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "disco-n",
+  "example": "On Saturday night, we went dancing at the disco.",
+  "gloss": {
+   "fr": "la discothèque",
+   "es": "la discoteca"
+  },
+  "exampleGloss": {
+   "fr": "Samedi soir, on est allés danser en discothèque.",
+   "es": "El sábado por la noche fuimos a bailar a la discoteca."
+  },
+  "topic": "leisure"
+ },
+ {
+  "id": "discover-v",
+  "example": "We discovered a small beach that nobody knew about.",
+  "gloss": {
+   "fr": "découvrir",
+   "es": "descubrir"
+  },
+  "exampleGloss": {
+   "fr": "On a découvert une petite plage que personne ne connaissait.",
+   "es": "Descubrimos una playa pequeña que nadie conocía."
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "discussion-n",
+  "example": "We had a long discussion about where to go on holiday.",
+  "gloss": {
+   "fr": "la discussion",
+   "es": "la conversación"
+  },
+  "exampleGloss": {
+   "fr": "On a eu une longue discussion sur le lieu de nos vacances.",
+   "es": "Tuvimos una larga conversación sobre adónde ir de vacaciones."
+  },
+  "topic": "smallwords"
+ },
+ {
+  "id": "dishonest-adj",
+  "example": "It was dishonest of him to keep the money he found.",
+  "gloss": {
+   "fr": "malhonnête",
+   "es": "deshonesto"
+  },
+  "exampleGloss": {
+   "fr": "C'était malhonnête de sa part de garder l'argent qu'il avait trouvé.",
+   "es": "Fue deshonesto por su parte quedarse el dinero que encontró."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "dislike-n",
+  "example": "He has a strong dislike of cold weather.",
+  "gloss": {
+   "fr": "l'aversion",
+   "es": "la aversión"
+  },
+  "exampleGloss": {
+   "fr": "Il a horreur du froid.",
+   "es": "Siente una gran aversión al frío."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "display-n",
+  "example": "There was a display of new phones near the shop door.",
+  "gloss": {
+   "fr": "l'étalage",
+   "es": "la exposición"
+  },
+  "exampleGloss": {
+   "fr": "Il y avait un étalage de nouveaux téléphones près de l'entrée du magasin.",
+   "es": "Había una exposición de móviles nuevos junto a la puerta de la tienda."
+  },
+  "topic": "shopping"
+ },
+ {
+  "id": "disturb-v",
+  "example": "Please don't disturb me, I'm working.",
+  "gloss": {
+   "fr": "déranger",
+   "es": "molestar"
+  },
+  "exampleGloss": {
+   "fr": "Ne me dérange pas, s'il te plaît, je travaille.",
+   "es": "No me molestes, por favor, que estoy trabajando."
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "divide-v",
+  "example": "Divide the cake into eight pieces.",
+  "gloss": {
+   "fr": "diviser",
+   "es": "dividir"
+  },
+  "exampleGloss": {
+   "fr": "Coupe le gâteau en huit parts.",
+   "es": "Divide la tarta en ocho trozos."
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "dizzy-adj",
+  "example": "I felt dizzy after the long ride on the roller coaster.",
+  "gloss": {
+   "fr": "pris de vertige",
+   "es": "mareado"
+  },
+  "exampleGloss": {
+   "fr": "J'avais la tête qui tournait après ce long tour de montagnes russes.",
+   "es": "Me sentí mareado después del largo viaje en la montaña rusa."
+  },
+  "topic": "body"
+ },
+ {
+  "id": "done-do",
+  "example": "Have you done your homework yet?",
+  "gloss": {
+   "fr": "fait",
+   "es": "hecho"
+  },
+  "exampleGloss": {
+   "fr": "Tu as déjà fait tes devoirs ?",
+   "es": "¿Ya has hecho los deberes?"
+  },
+  "topic": "smallwords"
+ },
+ {
+  "id": "double-adj",
+  "example": "We booked a double room for two people.",
+  "gloss": {
+   "fr": "double",
+   "es": "doble"
+  },
+  "exampleGloss": {
+   "fr": "On a réservé une chambre double pour deux personnes.",
+   "es": "Reservamos una habitación doble para dos personas."
+  },
+  "topic": "transport"
+ },
+ {
+  "id": "doubt-n",
+  "example": "There is no doubt that she is the best player.",
+  "gloss": {
+   "fr": "le doute",
+   "es": "la duda"
+  },
+  "exampleGloss": {
+   "fr": "Il n'y a aucun doute : c'est la meilleure joueuse.",
+   "es": "No hay duda de que es la mejor jugadora."
+  },
+  "topic": "smallwords"
+ }
+]

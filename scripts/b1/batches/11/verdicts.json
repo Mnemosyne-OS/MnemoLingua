@@ -1,0 +1,392 @@
+{
+ "decoys": {
+  "caught": 6,
+  "total": 6,
+  "missed": []
+ },
+ "toReview": 1,
+ "cards": {
+  "ginger-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "giraffe-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "glance-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "glance-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "glide-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "glimpse-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "glint-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "global-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "glorious-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "glory-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "go-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "goalkeeper-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "goddess-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "golfer-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "goodness-interj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "goods-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "gorgeous-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "gorilla-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "gossip-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "govern-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "governor-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "gown-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "grab-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "graceful-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "graduate-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "graduation-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "grant-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "grant-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "graph-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "graphic-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "graphics-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "gratitude-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "grave-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "gravy-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "greenhouse-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "greeting-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "grill-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "grill-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "groom-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "ground-floor-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "group-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "grouping-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "growth-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "guarantee-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "guess-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "guidance-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "guide-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "guide-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "guilt-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "guilty-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "guitarist-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "gym-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "gymnastics-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "habitat-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "hairdresser-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "hairdryer-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "half-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "hammer-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "handball-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "hand-held-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "handkerchief-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "handle-v": {
+   "check": "to-review",
+   "problems": [
+    "es example: unnatural calque 'manejó al cliente'; say 'Atendió/Trató al cliente enfadado con mucha calma'"
+   ]
+  },
+  "handshake-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "handwriting-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "handy-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "hang-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "hanging-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "harbor-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "hardship-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "hard-working-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "harness-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "hasty-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "hatch-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "hate-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "hatred-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "haunt-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "haven-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "hazard-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "headline-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "heal-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "healing-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "hearing-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "heart-attack-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "hearted-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "hearty-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "heat-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "heater-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "heaven-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "heavenly-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "heel-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "height-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "helmet-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "helpless-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "herd-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "hesitate-v": {
+   "check": "two-pass",
+   "problems": []
+  }
+ }
+}

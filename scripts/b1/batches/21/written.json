@@ -1,0 +1,1237 @@
+[
+ {
+  "id": "scare-v",
+  "example": "Loud thunder can scare small children at night.",
+  "gloss": {
+   "fr": "effrayer",
+   "es": "asustar"
+  },
+  "exampleGloss": {
+   "fr": "Le tonnerre fort peut effrayer les jeunes enfants la nuit.",
+   "es": "Los truenos fuertes pueden asustar a los niños pequeños por la noche."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "scared-adj",
+  "example": "My sister is scared of spiders and never touches them.",
+  "gloss": {
+   "fr": "effrayé",
+   "es": "asustado"
+  },
+  "exampleGloss": {
+   "fr": "Ma sœur a peur des araignées et ne les touche jamais.",
+   "es": "Mi hermana tiene miedo de las arañas y nunca las toca."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "scary-adj",
+  "example": "We watched a scary film and couldn't sleep afterwards.",
+  "gloss": {
+   "fr": "effrayant",
+   "es": "de miedo"
+  },
+  "exampleGloss": {
+   "fr": "Nous avons regardé un film effrayant et nous n'avons pas pu dormir ensuite.",
+   "es": "Vimos una película de miedo y después no pudimos dormir."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "scatter-v",
+  "example": "The wind scattered the leaves all over the garden.",
+  "gloss": {
+   "fr": "éparpiller",
+   "es": "esparcir"
+  },
+  "exampleGloss": {
+   "fr": "Le vent a éparpillé les feuilles dans tout le jardin.",
+   "es": "El viento esparció las hojas por todo el jardín."
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "scenic-adj",
+  "example": "We took the scenic road along the coast to enjoy the views.",
+  "gloss": {
+   "fr": "pittoresque",
+   "es": "pintoresco"
+  },
+  "exampleGloss": {
+   "fr": "Nous avons pris la route pittoresque le long de la côte pour profiter de la vue.",
+   "es": "Tomamos la carretera pintoresca de la costa para disfrutar de las vistas."
+  },
+  "topic": "nature"
+ },
+ {
+  "id": "scholar-n",
+  "example": "The old scholar spent his life studying ancient Greek texts.",
+  "gloss": {
+   "fr": "l'érudit",
+   "es": "el erudito"
+  },
+  "exampleGloss": {
+   "fr": "Le vieil érudit a passé sa vie à étudier des textes grecs anciens.",
+   "es": "El viejo erudito pasó su vida estudiando textos griegos antiguos."
+  },
+  "topic": "school"
+ },
+ {
+  "id": "scholarship-n",
+  "example": "She won a scholarship, so her university studies are free.",
+  "gloss": {
+   "fr": "la bourse",
+   "es": "la beca"
+  },
+  "exampleGloss": {
+   "fr": "Elle a obtenu une bourse, donc ses études à l'université sont gratuites.",
+   "es": "Ganó una beca, así que sus estudios universitarios son gratis."
+  },
+  "topic": "school"
+ },
+ {
+  "id": "schoolmate-n",
+  "example": "I met an old schoolmate who sat next to me in class.",
+  "gloss": {
+   "fr": "le camarade de classe",
+   "es": "el compañero de colegio"
+  },
+  "exampleGloss": {
+   "fr": "J'ai croisé un ancien camarade de classe qui était assis à côté de moi.",
+   "es": "Me encontré con un antiguo compañero de colegio que se sentaba a mi lado."
+  },
+  "topic": "school"
+ },
+ {
+  "id": "schoolteacher-n",
+  "example": "My aunt is a schoolteacher and teaches young children to read.",
+  "gloss": {
+   "fr": "l'instituteur",
+   "es": "el maestro"
+  },
+  "exampleGloss": {
+   "fr": "Ma tante est institutrice et apprend à lire aux jeunes enfants.",
+   "es": "Mi tía es maestra y enseña a leer a los niños pequeños."
+  },
+  "topic": "school"
+ },
+ {
+  "id": "science-fiction-n",
+  "example": "He loves science fiction, especially stories about travel to other planets.",
+  "gloss": {
+   "fr": "la science-fiction",
+   "es": "la ciencia ficción"
+  },
+  "exampleGloss": {
+   "fr": "Il adore la science-fiction, surtout les histoires de voyages vers d'autres planètes.",
+   "es": "Le encanta la ciencia ficción, sobre todo las historias de viajes a otros planetas."
+  },
+  "topic": "leisure"
+ },
+ {
+  "id": "scold-v",
+  "example": "The teacher scolded the boys for being late again.",
+  "gloss": {
+   "fr": "gronder",
+   "es": "regañar"
+  },
+  "exampleGloss": {
+   "fr": "Le professeur a grondé les garçons parce qu'ils étaient encore en retard.",
+   "es": "El profesor regañó a los chicos por llegar tarde otra vez."
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "scope-n",
+  "example": "This question is outside the scope of our project.",
+  "gloss": {
+   "fr": "le champ",
+   "es": "el alcance"
+  },
+  "exampleGloss": {
+   "fr": "Cette question sort du champ de notre projet.",
+   "es": "Esta cuestión está fuera del alcance de nuestro proyecto."
+  },
+  "topic": "work"
+ },
+ {
+  "id": "score-n",
+  "example": "She got a score of ninety percent on the English test.",
+  "gloss": {
+   "fr": "la note",
+   "es": "la nota"
+  },
+  "exampleGloss": {
+   "fr": "Elle a eu une note de quatre-vingt-dix pour cent au contrôle d'anglais.",
+   "es": "Sacó una nota del noventa por ciento en el examen de inglés."
+  },
+  "topic": "school"
+ },
+ {
+  "id": "score-v",
+  "example": "Our best player scored two goals in the second half.",
+  "gloss": {
+   "fr": "marquer",
+   "es": "marcar"
+  },
+  "exampleGloss": {
+   "fr": "Notre meilleur joueur a marqué deux buts en deuxième mi-temps.",
+   "es": "Nuestro mejor jugador marcó dos goles en la segunda parte."
+  },
+  "topic": "leisure"
+ },
+ {
+  "id": "scratch-n",
+  "example": "The cat left a long scratch on my arm.",
+  "gloss": {
+   "fr": "l'égratignure",
+   "es": "el arañazo"
+  },
+  "exampleGloss": {
+   "fr": "Le chat m'a laissé une longue égratignure sur le bras.",
+   "es": "El gato me dejó un arañazo largo en el brazo."
+  },
+  "topic": "body"
+ },
+ {
+  "id": "scream-v",
+  "example": "People screamed when the roller coaster suddenly dropped.",
+  "gloss": {
+   "fr": "crier",
+   "es": "gritar"
+  },
+  "exampleGloss": {
+   "fr": "Les gens ont crié quand les montagnes russes ont plongé d'un coup.",
+   "es": "La gente gritó cuando la montaña rusa bajó de repente."
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "sculpture-n",
+  "example": "There is a large stone sculpture of a horse in the park.",
+  "gloss": {
+   "fr": "la sculpture",
+   "es": "la escultura"
+  },
+  "exampleGloss": {
+   "fr": "Il y a une grande sculpture en pierre représentant un cheval dans le parc.",
+   "es": "Hay una gran escultura de piedra de un caballo en el parque."
+  },
+  "topic": "leisure"
+ },
+ {
+  "id": "search-v",
+  "example": "We searched the whole house for my keys.",
+  "gloss": {
+   "fr": "fouiller",
+   "es": "buscar"
+  },
+  "exampleGloss": {
+   "fr": "Nous avons fouillé toute la maison pour trouver mes clés.",
+   "es": "Buscamos mis llaves por toda la casa."
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "season-n",
+  "example": "Summer is my favourite season because the days are long.",
+  "gloss": {
+   "fr": "la saison",
+   "es": "la estación"
+  },
+  "exampleGloss": {
+   "fr": "L'été est ma saison préférée parce que les journées sont longues.",
+   "es": "El verano es mi estación favorita porque los días son largos."
+  },
+  "topic": "time"
+ },
+ {
+  "id": "seawater-n",
+  "example": "You can't drink seawater because it contains too much salt.",
+  "gloss": {
+   "fr": "l'eau de mer",
+   "es": "el agua de mar"
+  },
+  "exampleGloss": {
+   "fr": "On ne peut pas boire l'eau de mer car elle contient trop de sel.",
+   "es": "No se puede beber agua de mar porque tiene demasiada sal."
+  },
+  "topic": "nature"
+ },
+ {
+  "id": "seaweed-n",
+  "example": "In Japan, people often eat rice wrapped in seaweed.",
+  "gloss": {
+   "fr": "l'algue",
+   "es": "el alga"
+  },
+  "exampleGloss": {
+   "fr": "Au Japon, on mange souvent du riz enroulé dans des algues.",
+   "es": "En Japón la gente come a menudo arroz envuelto en algas."
+  },
+  "topic": "food"
+ },
+ {
+  "id": "second-adv",
+  "example": "First, the hotel is too expensive; second, it is far from the beach.",
+  "gloss": {
+   "fr": "deuxièmement",
+   "es": "en segundo lugar"
+  },
+  "exampleGloss": {
+   "fr": "Premièrement, l'hôtel est trop cher ; deuxièmement, il est loin de la plage.",
+   "es": "En primer lugar, el hotel es demasiado caro; en segundo lugar, está lejos de la playa."
+  },
+  "topic": "smallwords"
+ },
+ {
+  "id": "secondary-school-n",
+  "example": "Children start secondary school when they are about eleven.",
+  "gloss": {
+   "fr": "le collège",
+   "es": "el instituto"
+  },
+  "exampleGloss": {
+   "fr": "Les enfants entrent au collège vers onze ans.",
+   "es": "Los niños empiezan el instituto hacia los once o doce años."
+  },
+  "topic": "school"
+ },
+ {
+  "id": "second-hand-adj",
+  "example": "I bought a second-hand car because new ones are too expensive.",
+  "gloss": {
+   "fr": "d'occasion",
+   "es": "de segunda mano"
+  },
+  "exampleGloss": {
+   "fr": "J'ai acheté une voiture d'occasion parce que les neuves sont trop chères.",
+   "es": "Compré un coche de segunda mano porque los nuevos son demasiado caros."
+  },
+  "topic": "shopping"
+ },
+ {
+  "id": "second-hand-adv",
+  "example": "Students often buy their books second-hand to save money.",
+  "gloss": {
+   "fr": "d'occasion",
+   "es": "de segunda mano"
+  },
+  "exampleGloss": {
+   "fr": "Les étudiants achètent souvent leurs livres d'occasion pour économiser.",
+   "es": "Los estudiantes suelen comprar los libros de segunda mano para ahorrar."
+  },
+  "topic": "shopping"
+ },
+ {
+  "id": "secret-adj",
+  "example": "They kept the party secret until her birthday.",
+  "gloss": {
+   "fr": "secret",
+   "es": "secreto"
+  },
+  "exampleGloss": {
+   "fr": "Ils ont gardé la fête secrète jusqu'à son anniversaire.",
+   "es": "Mantuvieron la fiesta en secreto hasta su cumpleaños."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "secretly-adv",
+  "example": "He secretly read his sister's diary while she was out.",
+  "gloss": {
+   "fr": "en secret",
+   "es": "en secreto"
+  },
+  "exampleGloss": {
+   "fr": "Il a lu en secret le journal intime de sa sœur pendant qu'elle était sortie.",
+   "es": "Leyó en secreto el diario de su hermana mientras ella había salido."
+  },
+  "topic": "smallwords"
+ },
+ {
+  "id": "secure-adj",
+  "example": "Keep your passport in a secure place, like the hotel safe.",
+  "gloss": {
+   "fr": "sûr",
+   "es": "seguro"
+  },
+  "exampleGloss": {
+   "fr": "Gardez votre passeport dans un endroit sûr, comme le coffre de l'hôtel.",
+   "es": "Guarda el pasaporte en un lugar seguro, como la caja fuerte del hotel."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "security-n",
+  "example": "Airport security checked our bags very carefully.",
+  "gloss": {
+   "fr": "la sécurité",
+   "es": "la seguridad"
+  },
+  "exampleGloss": {
+   "fr": "La sécurité de l'aéroport a fouillé nos sacs très attentivement.",
+   "es": "El control de seguridad del aeropuerto revisó nuestras bolsas con mucho cuidado."
+  },
+  "topic": "transport"
+ },
+ {
+  "id": "seize-v",
+  "example": "The police seized the stolen phones from the shop.",
+  "gloss": {
+   "fr": "saisir",
+   "es": "incautarse de"
+  },
+  "exampleGloss": {
+   "fr": "La police a saisi les téléphones volés dans le magasin.",
+   "es": "La policía se incautó de los móviles robados en la tienda."
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "select-adj",
+  "example": "Only a select group of students was invited to meet the president.",
+  "gloss": {
+   "fr": "restreint",
+   "es": "selecto"
+  },
+  "exampleGloss": {
+   "fr": "Seul un groupe restreint d'élèves a été invité à rencontrer le président.",
+   "es": "Solo un grupo selecto de estudiantes fue invitado a conocer al presidente."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "selection-n",
+  "example": "The shop has a large selection of cheeses from France.",
+  "gloss": {
+   "fr": "le choix",
+   "es": "la selección"
+  },
+  "exampleGloss": {
+   "fr": "Le magasin propose un grand choix de fromages français.",
+   "es": "La tienda tiene una gran selección de quesos franceses."
+  },
+  "topic": "shopping"
+ },
+ {
+  "id": "selfish-adj",
+  "example": "It was selfish of him to eat all the cake alone.",
+  "gloss": {
+   "fr": "égoïste",
+   "es": "egoísta"
+  },
+  "exampleGloss": {
+   "fr": "C'était égoïste de sa part de manger tout le gâteau tout seul.",
+   "es": "Fue muy egoísta por su parte comerse toda la tarta él solo."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "self-service-adj",
+  "example": "It's a self-service restaurant, so you carry your own tray.",
+  "gloss": {
+   "fr": "en libre-service",
+   "es": "de autoservicio"
+  },
+  "exampleGloss": {
+   "fr": "C'est un restaurant en libre-service, donc on porte soi-même son plateau.",
+   "es": "Es un restaurante de autoservicio, así que llevas tu propia bandeja."
+  },
+  "topic": "food"
+ },
+ {
+  "id": "sensation-n",
+  "example": "I had a strange sensation in my fingers after the cold swim.",
+  "gloss": {
+   "fr": "la sensation",
+   "es": "la sensación"
+  },
+  "exampleGloss": {
+   "fr": "J'ai ressenti une sensation étrange dans les doigts après la baignade dans l'eau froide.",
+   "es": "Noté una sensación extraña en los dedos después de nadar en agua fría."
+  },
+  "topic": "body"
+ },
+ {
+  "id": "separation-n",
+  "example": "After a long separation, the two brothers were happy to meet again.",
+  "gloss": {
+   "fr": "la séparation",
+   "es": "la separación"
+  },
+  "exampleGloss": {
+   "fr": "Après une longue séparation, les deux frères étaient heureux de se retrouver.",
+   "es": "Después de una larga separación, los dos hermanos se alegraron de volver a verse."
+  },
+  "topic": "people"
+ },
+ {
+  "id": "sequence-n",
+  "example": "Put the pictures in the right sequence to tell the story.",
+  "gloss": {
+   "fr": "l'ordre",
+   "es": "el orden"
+  },
+  "exampleGloss": {
+   "fr": "Mettez les images dans le bon ordre pour raconter l'histoire.",
+   "es": "Pon las imágenes en el orden correcto para contar la historia."
+  },
+  "topic": "school"
+ },
+ {
+  "id": "series-n",
+  "example": "We watched the whole TV series in one weekend.",
+  "gloss": {
+   "fr": "la série",
+   "es": "la serie"
+  },
+  "exampleGloss": {
+   "fr": "Nous avons regardé toute la série télé en un week-end.",
+   "es": "Vimos toda la serie de televisión en un fin de semana."
+  },
+  "topic": "leisure"
+ },
+ {
+  "id": "serious-adj",
+  "example": "Nobody was hurt, but it was a serious accident.",
+  "gloss": {
+   "fr": "grave",
+   "es": "grave"
+  },
+  "exampleGloss": {
+   "fr": "Personne n'a été blessé, mais c'était un accident grave.",
+   "es": "Nadie resultó herido, pero fue un accidente grave."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "server-n",
+  "example": "The website was down because the server stopped working.",
+  "gloss": {
+   "fr": "le serveur",
+   "es": "el servidor"
+  },
+  "exampleGloss": {
+   "fr": "Le site était inaccessible parce que le serveur a cessé de fonctionner.",
+   "es": "La web no funcionaba porque el servidor dejó de funcionar."
+  },
+  "topic": "work"
+ },
+ {
+  "id": "service-n",
+  "example": "The food was good, but the service in the restaurant was slow.",
+  "gloss": {
+   "fr": "le service",
+   "es": "el servicio"
+  },
+  "exampleGloss": {
+   "fr": "La nourriture était bonne, mais le service du restaurant était lent.",
+   "es": "La comida estaba buena, pero el servicio del restaurante era lento."
+  },
+  "topic": "town"
+ },
+ {
+  "id": "service-v",
+  "example": "The garage will service my car before our long trip.",
+  "gloss": {
+   "fr": "réviser",
+   "es": "revisar"
+  },
+  "exampleGloss": {
+   "fr": "Le garage va réviser ma voiture avant notre long voyage.",
+   "es": "El taller va a revisar mi coche antes de nuestro viaje largo."
+  },
+  "topic": "transport"
+ },
+ {
+  "id": "session-n",
+  "example": "The training session lasts two hours every Monday evening.",
+  "gloss": {
+   "fr": "la séance",
+   "es": "la sesión"
+  },
+  "exampleGloss": {
+   "fr": "La séance d'entraînement dure deux heures tous les lundis soir.",
+   "es": "La sesión de entrenamiento dura dos horas todos los lunes por la tarde."
+  },
+  "topic": "leisure"
+ },
+ {
+  "id": "setting-n",
+  "example": "The story has a beautiful setting in a small mountain village.",
+  "gloss": {
+   "fr": "le cadre",
+   "es": "el escenario"
+  },
+  "exampleGloss": {
+   "fr": "L'histoire se déroule dans un très beau cadre, un petit village de montagne.",
+   "es": "La historia tiene un escenario precioso en un pueblecito de montaña."
+  },
+  "topic": "leisure"
+ },
+ {
+  "id": "settle-v",
+  "example": "My grandparents settled in Canada after the war.",
+  "gloss": {
+   "fr": "s'installer",
+   "es": "establecerse"
+  },
+  "exampleGloss": {
+   "fr": "Mes grands-parents se sont installés au Canada après la guerre.",
+   "es": "Mis abuelos se establecieron en Canadá después de la guerra."
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "settlement-n",
+  "example": "The first settlement on the island was a small fishing village.",
+  "gloss": {
+   "fr": "la colonie",
+   "es": "el asentamiento"
+  },
+  "exampleGloss": {
+   "fr": "La première colonie de l'île était un petit village de pêcheurs.",
+   "es": "El primer asentamiento de la isla fue un pequeño pueblo de pescadores."
+  },
+  "topic": "town"
+ },
+ {
+  "id": "settler-n",
+  "example": "The early settlers built their houses from wood near the river.",
+  "gloss": {
+   "fr": "le colon",
+   "es": "el colono"
+  },
+  "exampleGloss": {
+   "fr": "Les premiers colons ont construit leurs maisons en bois près de la rivière.",
+   "es": "Los primeros colonos construyeron sus casas de madera cerca del río."
+  },
+  "topic": "people"
+ },
+ {
+  "id": "severe-adj",
+  "example": "The severe storm closed all the roads in the north.",
+  "gloss": {
+   "fr": "violent",
+   "es": "fuerte"
+  },
+  "exampleGloss": {
+   "fr": "La violente tempête a fermé toutes les routes du nord.",
+   "es": "La fuerte tormenta cerró todas las carreteras del norte."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "severely-adv",
+  "example": "The old bridge was severely damaged by the flood.",
+  "gloss": {
+   "fr": "gravement",
+   "es": "gravemente"
+  },
+  "exampleGloss": {
+   "fr": "Le vieux pont a été gravement endommagé par l'inondation.",
+   "es": "El puente viejo quedó gravemente dañado por la inundación."
+  },
+  "topic": "smallwords"
+ },
+ {
+  "id": "sex-n",
+  "example": "Please write your name, age and sex on the form.",
+  "gloss": {
+   "fr": "le sexe",
+   "es": "el sexo"
+  },
+  "exampleGloss": {
+   "fr": "Veuillez indiquer votre nom, votre âge et votre sexe sur le formulaire.",
+   "es": "Por favor, escriba su nombre, edad y sexo en el formulario."
+  },
+  "topic": "people"
+ },
+ {
+  "id": "shadow-v",
+  "example": "The police shadowed the man for three days before arresting him.",
+  "gloss": {
+   "fr": "filer",
+   "es": "seguir"
+  },
+  "exampleGloss": {
+   "fr": "La police a filé l'homme pendant trois jours avant de l'arrêter.",
+   "es": "La policía siguió al hombre durante tres días antes de detenerlo."
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "shadowy-adj",
+  "example": "A shadowy figure stood at the end of the dark street.",
+  "gloss": {
+   "fr": "indistinct",
+   "es": "borroso"
+  },
+  "exampleGloss": {
+   "fr": "Une silhouette indistincte se tenait au bout de la rue sombre.",
+   "es": "Una figura borrosa estaba al final de la calle oscura."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "shake-v",
+  "example": "Shake the bottle well before you pour the juice.",
+  "gloss": {
+   "fr": "secouer",
+   "es": "agitar"
+  },
+  "exampleGloss": {
+   "fr": "Secouez bien la bouteille avant de verser le jus.",
+   "es": "Agita bien la botella antes de servir el zumo."
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "shallow-adj",
+  "example": "The water is shallow here, so small children can play safely.",
+  "gloss": {
+   "fr": "peu profond",
+   "es": "poco profundo"
+  },
+  "exampleGloss": {
+   "fr": "L'eau est peu profonde ici, donc les jeunes enfants peuvent jouer sans danger.",
+   "es": "Aquí el agua es poco profunda, así que los niños pequeños pueden jugar sin peligro."
+  },
+  "topic": "nature"
+ },
+ {
+  "id": "shame-n",
+  "example": "He felt deep shame after lying to his best friend.",
+  "gloss": {
+   "fr": "la honte",
+   "es": "la vergüenza"
+  },
+  "exampleGloss": {
+   "fr": "Il a ressenti une profonde honte après avoir menti à son meilleur ami.",
+   "es": "Sintió una profunda vergüenza después de mentir a su mejor amigo."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "shameful-adj",
+  "example": "Leaving the dog alone in the hot car was shameful.",
+  "gloss": {
+   "fr": "honteux",
+   "es": "vergonzoso"
+  },
+  "exampleGloss": {
+   "fr": "Laisser le chien seul dans la voiture en pleine chaleur, c'était honteux.",
+   "es": "Dejar al perro solo en el coche con tanto calor fue vergonzoso."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "shape-v",
+  "example": "She shaped the clay into a small bowl.",
+  "gloss": {
+   "fr": "façonner",
+   "es": "dar forma"
+  },
+  "exampleGloss": {
+   "fr": "Elle a façonné l'argile pour en faire un petit bol.",
+   "es": "Le dio forma de cuenco pequeño a la arcilla."
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "sharp-adj",
+  "example": "Be careful, that knife is very sharp.",
+  "gloss": {
+   "fr": "tranchant",
+   "es": "afilado"
+  },
+  "exampleGloss": {
+   "fr": "Fais attention, ce couteau est très tranchant.",
+   "es": "Ten cuidado, ese cuchillo está muy afilado."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "shave-v",
+  "example": "My dad shaves every morning before breakfast.",
+  "gloss": {
+   "fr": "se raser",
+   "es": "afeitarse"
+  },
+  "exampleGloss": {
+   "fr": "Mon père se rase tous les matins avant le petit-déjeuner.",
+   "es": "Mi padre se afeita todas las mañanas antes del desayuno."
+  },
+  "topic": "body"
+ },
+ {
+  "id": "sheer-adj",
+  "example": "She won the race through sheer hard work.",
+  "gloss": {
+   "fr": "pur",
+   "es": "puro"
+  },
+  "exampleGloss": {
+   "fr": "Elle a gagné la course à force de pur travail.",
+   "es": "Ganó la carrera a base de puro esfuerzo."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "sheet-n",
+  "example": "I put clean sheets on the bed this morning.",
+  "gloss": {
+   "fr": "le drap",
+   "es": "la sábana"
+  },
+  "exampleGloss": {
+   "fr": "J'ai mis des draps propres sur le lit ce matin.",
+   "es": "Esta mañana puse sábanas limpias en la cama."
+  },
+  "topic": "home"
+ },
+ {
+  "id": "shelter-n",
+  "example": "We found shelter from the rain under a big tree.",
+  "gloss": {
+   "fr": "l'abri",
+   "es": "el refugio"
+  },
+  "exampleGloss": {
+   "fr": "Nous avons trouvé un abri contre la pluie sous un grand arbre.",
+   "es": "Encontramos refugio de la lluvia debajo de un árbol grande."
+  },
+  "topic": "home"
+ },
+ {
+  "id": "sheriff-n",
+  "example": "The sheriff arrested the thief in the small American town.",
+  "gloss": {
+   "fr": "le shérif",
+   "es": "el sheriff"
+  },
+  "exampleGloss": {
+   "fr": "Le shérif a arrêté le voleur dans la petite ville américaine.",
+   "es": "El sheriff detuvo al ladrón en el pequeño pueblo estadounidense."
+  },
+  "topic": "work"
+ },
+ {
+  "id": "shift-v",
+  "example": "Can you help me shift this heavy table to the window?",
+  "gloss": {
+   "fr": "déplacer",
+   "es": "mover"
+  },
+  "exampleGloss": {
+   "fr": "Tu peux m'aider à déplacer cette table lourde près de la fenêtre ?",
+   "es": "¿Me ayudas a mover esta mesa pesada hacia la ventana?"
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "shiny-adj",
+  "example": "He cleaned his shoes until they were shiny.",
+  "gloss": {
+   "fr": "brillant",
+   "es": "brillante"
+  },
+  "exampleGloss": {
+   "fr": "Il a ciré ses chaussures jusqu'à ce qu'elles soient brillantes.",
+   "es": "Limpió los zapatos hasta que quedaron brillantes."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "ship-v",
+  "example": "The company will ship your order within three days.",
+  "gloss": {
+   "fr": "expédier",
+   "es": "enviar"
+  },
+  "exampleGloss": {
+   "fr": "L'entreprise expédiera votre commande sous trois jours.",
+   "es": "La empresa enviará su pedido en un plazo de tres días."
+  },
+  "topic": "shopping"
+ },
+ {
+  "id": "shiver-v",
+  "example": "We shivered at the bus stop in the freezing wind.",
+  "gloss": {
+   "fr": "frissonner",
+   "es": "tiritar"
+  },
+  "exampleGloss": {
+   "fr": "Nous frissonnions à l'arrêt de bus dans le vent glacial.",
+   "es": "Tiritábamos en la parada del autobús con aquel viento helado."
+  },
+  "topic": "body"
+ },
+ {
+  "id": "shocked-adj",
+  "example": "I was shocked when I saw the price of the tickets.",
+  "gloss": {
+   "fr": "choqué",
+   "es": "impactado"
+  },
+  "exampleGloss": {
+   "fr": "J'ai été choqué quand j'ai vu le prix des billets.",
+   "es": "Me quedé impactado cuando vi el precio de las entradas."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "shocking-adj",
+  "example": "The news about the accident was shocking.",
+  "gloss": {
+   "fr": "choquant",
+   "es": "impactante"
+  },
+  "exampleGloss": {
+   "fr": "La nouvelle de l'accident était choquante.",
+   "es": "La noticia del accidente fue impactante."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "shop-v",
+  "example": "We usually shop for food on Saturday morning.",
+  "gloss": {
+   "fr": "faire les courses",
+   "es": "hacer la compra"
+  },
+  "exampleGloss": {
+   "fr": "Nous faisons généralement les courses le samedi matin.",
+   "es": "Normalmente hacemos la compra el sábado por la mañana."
+  },
+  "topic": "shopping"
+ },
+ {
+  "id": "shopper-n",
+  "example": "The streets were full of shoppers before Christmas.",
+  "gloss": {
+   "fr": "le client",
+   "es": "el comprador"
+  },
+  "exampleGloss": {
+   "fr": "Les rues étaient pleines de gens venus faire leurs achats avant Noël.",
+   "es": "Las calles estaban llenas de compradores antes de Navidad."
+  },
+  "topic": "shopping"
+ },
+ {
+  "id": "shortage-n",
+  "example": "There is a shortage of water in the village this summer.",
+  "gloss": {
+   "fr": "la pénurie",
+   "es": "la escasez"
+  },
+  "exampleGloss": {
+   "fr": "Il y a une pénurie d'eau dans le village cet été.",
+   "es": "Este verano hay escasez de agua en el pueblo."
+  },
+  "topic": "work"
+ },
+ {
+  "id": "shortly-adv",
+  "example": "The doctor will see you shortly, please take a seat.",
+  "gloss": {
+   "fr": "bientôt",
+   "es": "enseguida"
+  },
+  "exampleGloss": {
+   "fr": "Le médecin va bientôt vous recevoir, asseyez-vous, s'il vous plaît.",
+   "es": "El médico le atenderá enseguida, siéntese, por favor."
+  },
+  "topic": "time"
+ },
+ {
+  "id": "shout-v",
+  "example": "Don't shout, I can hear you perfectly.",
+  "gloss": {
+   "fr": "crier",
+   "es": "gritar"
+  },
+  "exampleGloss": {
+   "fr": "Ne crie pas, je t'entends parfaitement.",
+   "es": "No grites, te oigo perfectamente."
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "shrimp-n",
+  "example": "I ordered a salad with grilled shrimp and lemon.",
+  "gloss": {
+   "fr": "la crevette",
+   "es": "la gamba"
+  },
+  "exampleGloss": {
+   "fr": "J'ai commandé une salade aux crevettes grillées et au citron.",
+   "es": "Pedí una ensalada con gambas a la plancha y limón."
+  },
+  "topic": "food"
+ },
+ {
+  "id": "shut-adj",
+  "example": "The bank is shut on Sundays, so go on Monday.",
+  "gloss": {
+   "fr": "fermé",
+   "es": "cerrado"
+  },
+  "exampleGloss": {
+   "fr": "La banque est fermée le dimanche, alors vas-y lundi.",
+   "es": "El banco está cerrado los domingos, así que ve el lunes."
+  },
+  "topic": "town"
+ },
+ {
+  "id": "sickness-n",
+  "example": "She took a pill for travel sickness before the boat trip.",
+  "gloss": {
+   "fr": "le mal des transports",
+   "es": "el mareo"
+  },
+  "exampleGloss": {
+   "fr": "Elle a pris un comprimé contre le mal des transports avant la traversée en bateau.",
+   "es": "Se tomó una pastilla contra el mareo antes del viaje en barco."
+  },
+  "topic": "body"
+ },
+ {
+  "id": "sidewalk-n",
+  "example": "Children should walk on the sidewalk, not in the road.",
+  "gloss": {
+   "fr": "le trottoir",
+   "es": "la acera"
+  },
+  "exampleGloss": {
+   "fr": "Les enfants doivent marcher sur le trottoir, pas sur la chaussée.",
+   "es": "Los niños deben ir por la acera, no por la calzada."
+  },
+  "topic": "town"
+ },
+ {
+  "id": "sigh-n",
+  "example": "She gave a long sigh and closed her tired eyes.",
+  "gloss": {
+   "fr": "le soupir",
+   "es": "el suspiro"
+  },
+  "exampleGloss": {
+   "fr": "Elle a poussé un long soupir et a fermé ses yeux fatigués.",
+   "es": "Dio un largo suspiro y cerró los ojos cansados."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "sign-v",
+  "example": "Please sign your name at the bottom of the page.",
+  "gloss": {
+   "fr": "signer",
+   "es": "firmar"
+  },
+  "exampleGloss": {
+   "fr": "Veuillez signer en bas de la page.",
+   "es": "Por favor, firme al final de la página."
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "signal-n",
+  "example": "I can't call you because there is no signal here.",
+  "gloss": {
+   "fr": "le réseau",
+   "es": "la cobertura"
+  },
+  "exampleGloss": {
+   "fr": "Je ne peux pas t'appeler parce qu'il n'y a pas de réseau ici.",
+   "es": "No puedo llamarte porque aquí no hay cobertura."
+  },
+  "topic": "work"
+ },
+ {
+  "id": "signature-n",
+  "example": "The letter is not valid without your signature.",
+  "gloss": {
+   "fr": "la signature",
+   "es": "la firma"
+  },
+  "exampleGloss": {
+   "fr": "La lettre n'est pas valable sans votre signature.",
+   "es": "La carta no es válida sin su firma."
+  },
+  "topic": "work"
+ },
+ {
+  "id": "significance-n",
+  "example": "Few people understood the significance of his discovery at the time.",
+  "gloss": {
+   "fr": "l'importance",
+   "es": "la importancia"
+  },
+  "exampleGloss": {
+   "fr": "Peu de gens ont compris l'importance de sa découverte à l'époque.",
+   "es": "Pocas personas entendieron entonces la importancia de su descubrimiento."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "signpost-n",
+  "example": "Follow the signpost to the beach and turn left.",
+  "gloss": {
+   "fr": "le panneau indicateur",
+   "es": "el poste indicador"
+  },
+  "exampleGloss": {
+   "fr": "Suivez le panneau indicateur vers la plage et tournez à gauche.",
+   "es": "Sigue el poste indicador hacia la playa y gira a la izquierda."
+  },
+  "topic": "town"
+ },
+ {
+  "id": "silent-adj",
+  "example": "The classroom was silent during the exam.",
+  "gloss": {
+   "fr": "silencieux",
+   "es": "en silencio"
+  },
+  "exampleGloss": {
+   "fr": "La salle de classe était silencieuse pendant l'examen.",
+   "es": "El aula estaba en silencio durante el examen."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "silk-n",
+  "example": "Her scarf is made of soft silk from China.",
+  "gloss": {
+   "fr": "la soie",
+   "es": "la seda"
+  },
+  "exampleGloss": {
+   "fr": "Son foulard est en soie douce venue de Chine.",
+   "es": "Su pañuelo es de seda suave de China."
+  },
+  "topic": "clothes"
+ },
+ {
+  "id": "similarity-n",
+  "example": "There is a strong similarity between the two sisters.",
+  "gloss": {
+   "fr": "la ressemblance",
+   "es": "el parecido"
+  },
+  "exampleGloss": {
+   "fr": "Il y a une forte ressemblance entre les deux sœurs.",
+   "es": "Hay un gran parecido entre las dos hermanas."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "similarly-adv",
+  "example": "The twins dress similarly, so people often confuse them.",
+  "gloss": {
+   "fr": "de la même façon",
+   "es": "de forma parecida"
+  },
+  "exampleGloss": {
+   "fr": "Les jumeaux s'habillent de la même façon, alors on les confond souvent.",
+   "es": "Los gemelos se visten de forma parecida, así que la gente los confunde a menudo."
+  },
+  "topic": "smallwords"
+ },
+ {
+  "id": "simplify-v",
+  "example": "Short sentences simplify the text for young readers.",
+  "gloss": {
+   "fr": "simplifier",
+   "es": "simplificar"
+  },
+  "exampleGloss": {
+   "fr": "Les phrases courtes simplifient le texte pour les jeunes lecteurs.",
+   "es": "Las frases cortas simplifican el texto para los lectores jóvenes."
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "simultaneously-adv",
+  "example": "Two people answered the phone simultaneously and laughed.",
+  "gloss": {
+   "fr": "simultanément",
+   "es": "simultáneamente"
+  },
+  "exampleGloss": {
+   "fr": "Deux personnes ont décroché le téléphone simultanément et ont ri.",
+   "es": "Dos personas contestaron el teléfono simultáneamente y se rieron."
+  },
+  "topic": "time"
+ },
+ {
+  "id": "since-conj",
+  "example": "I have lived in this town since I was a child.",
+  "gloss": {
+   "fr": "depuis que",
+   "es": "desde que"
+  },
+  "exampleGloss": {
+   "fr": "J'habite dans cette ville depuis que je suis enfant.",
+   "es": "Vivo en esta ciudad desde que era niño."
+  },
+  "topic": "smallwords"
+ },
+ {
+  "id": "single-n",
+  "example": "The club organises parties for singles who want to meet people.",
+  "gloss": {
+   "fr": "le célibataire",
+   "es": "el soltero"
+  },
+  "exampleGloss": {
+   "fr": "Le club organise des soirées pour les célibataires qui veulent faire des rencontres.",
+   "es": "El club organiza fiestas para solteros que quieren conocer gente."
+  },
+  "topic": "people"
+ },
+ {
+  "id": "sink-v",
+  "example": "If you drop a stone in the lake, it will sink.",
+  "gloss": {
+   "fr": "couler",
+   "es": "hundirse"
+  },
+  "exampleGloss": {
+   "fr": "Si tu laisses tomber une pierre dans le lac, elle va couler.",
+   "es": "Si dejas caer una piedra en el lago, se hundirá."
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "skate-v",
+  "example": "In winter we skate on the frozen lake.",
+  "gloss": {
+   "fr": "patiner",
+   "es": "patinar"
+  },
+  "exampleGloss": {
+   "fr": "En hiver, nous patinons sur le lac gelé.",
+   "es": "En invierno patinamos en el lago helado."
+  },
+  "topic": "leisure"
+ },
+ {
+  "id": "skeleton-n",
+  "example": "The human skeleton has more than two hundred bones.",
+  "gloss": {
+   "fr": "le squelette",
+   "es": "el esqueleto"
+  },
+  "exampleGloss": {
+   "fr": "Le squelette humain compte plus de deux cents os.",
+   "es": "El esqueleto humano tiene más de doscientos huesos."
+  },
+  "topic": "body"
+ }
+]

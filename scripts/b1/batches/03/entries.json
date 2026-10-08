@@ -1,0 +1,591 @@
+[
+ {
+  "id": "bare-adj",
+  "headword": "bare",
+  "pos": "adjective"
+ },
+ {
+  "id": "barely-adv",
+  "headword": "barely",
+  "pos": "adverb"
+ },
+ {
+  "id": "bark-n",
+  "headword": "bark",
+  "pos": "noun"
+ },
+ {
+  "id": "barman-n",
+  "headword": "barman",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "barrel-n",
+  "headword": "barrel",
+  "pos": "noun"
+ },
+ {
+  "id": "base-v",
+  "headword": "base",
+  "pos": "verb"
+ },
+ {
+  "id": "basement-n",
+  "headword": "basement",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "basin-n",
+  "headword": "basin",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "basis-n",
+  "headword": "basis",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education"
+  ]
+ },
+ {
+  "id": "bat-v",
+  "headword": "bat",
+  "pos": "verb"
+ },
+ {
+  "id": "bathe-v",
+  "headword": "bathe",
+  "pos": "verb"
+ },
+ {
+  "id": "battle-n",
+  "headword": "battle",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs",
+   "Relations with other people"
+  ]
+ },
+ {
+  "id": "beard-n",
+  "headword": "beard",
+  "pos": "noun",
+  "sourceTopics": [
+   "Health and body care"
+  ]
+ },
+ {
+  "id": "beast-n",
+  "headword": "beast",
+  "pos": "noun"
+ },
+ {
+  "id": "beat-v",
+  "headword": "beat",
+  "pos": "verb"
+ },
+ {
+  "id": "beautifully-adv",
+  "headword": "beautifully",
+  "pos": "adverb"
+ },
+ {
+  "id": "beaver-n",
+  "headword": "beaver",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education"
+  ]
+ },
+ {
+  "id": "because-of-prep",
+  "headword": "because of",
+  "pos": "preposition"
+ },
+ {
+  "id": "bedside-n",
+  "headword": "bedside",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms"
+  ]
+ },
+ {
+  "id": "behalf-n",
+  "headword": "behalf",
+  "pos": "noun"
+ },
+ {
+  "id": "behave-v",
+  "headword": "behave",
+  "pos": "verb"
+ },
+ {
+  "id": "belief-n",
+  "headword": "belief",
+  "pos": "noun"
+ },
+ {
+  "id": "beloved-adj",
+  "headword": "beloved",
+  "pos": "adjective"
+ },
+ {
+  "id": "beneath-prep",
+  "headword": "beneath",
+  "pos": "preposition"
+ },
+ {
+  "id": "benefit-n",
+  "headword": "benefit",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs"
+  ]
+ },
+ {
+  "id": "bent-adj",
+  "headword": "bent",
+  "pos": "adjective"
+ },
+ {
+  "id": "besides-prep",
+  "headword": "besides",
+  "pos": "preposition"
+ },
+ {
+  "id": "bet-v",
+  "headword": "bet",
+  "pos": "verb"
+ },
+ {
+  "id": "bilingual-adj",
+  "headword": "bilingual",
+  "pos": "adjective"
+ },
+ {
+  "id": "bill-v",
+  "headword": "bill",
+  "pos": "verb"
+ },
+ {
+  "id": "bin-n",
+  "headword": "bin",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "biochemistry-n",
+  "headword": "biochemistry",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Education"
+  ]
+ },
+ {
+  "id": "biography-n",
+  "headword": "biography",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education"
+  ]
+ },
+ {
+  "id": "biology-n",
+  "headword": "biology",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Education"
+  ]
+ },
+ {
+  "id": "bishop-n",
+  "headword": "bishop",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "bite-v",
+  "headword": "bite",
+  "pos": "verb"
+ },
+ {
+  "id": "bitter-adj",
+  "headword": "bitter",
+  "pos": "adjective"
+ },
+ {
+  "id": "blame-n",
+  "headword": "blame",
+  "pos": "noun"
+ },
+ {
+  "id": "bleed-v",
+  "headword": "bleed",
+  "pos": "verb"
+ },
+ {
+  "id": "blend-v",
+  "headword": "blend",
+  "pos": "verb"
+ },
+ {
+  "id": "bless-v",
+  "headword": "bless",
+  "pos": "verb"
+ },
+ {
+  "id": "blessing-n",
+  "headword": "blessing",
+  "pos": "noun"
+ },
+ {
+  "id": "blind-adj",
+  "headword": "blind",
+  "pos": "adjective"
+ },
+ {
+  "id": "block-v",
+  "headword": "block",
+  "pos": "verb"
+ },
+ {
+  "id": "blog-n",
+  "headword": "blog",
+  "pos": "noun",
+  "sourceTopics": [
+   "Hobbies and pastimes",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "blogger-n",
+  "headword": "blogger",
+  "pos": "noun",
+  "sourceTopics": [
+   "Hobbies and pastimes",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "blush-n",
+  "headword": "blush",
+  "pos": "noun"
+ },
+ {
+  "id": "board-v",
+  "headword": "board",
+  "pos": "verb"
+ },
+ {
+  "id": "boast-v",
+  "headword": "boast",
+  "pos": "verb"
+ },
+ {
+  "id": "bold-adj",
+  "headword": "bold",
+  "pos": "adjective"
+ },
+ {
+  "id": "boldly-adv",
+  "headword": "boldly",
+  "pos": "adverb"
+ },
+ {
+  "id": "bomb-n",
+  "headword": "bomb",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs",
+   "Relations with other people"
+  ]
+ },
+ {
+  "id": "bomb-v",
+  "headword": "bomb",
+  "pos": "verb"
+ },
+ {
+  "id": "bond-n",
+  "headword": "bond",
+  "pos": "noun"
+ },
+ {
+  "id": "book-v",
+  "headword": "book",
+  "pos": "verb"
+ },
+ {
+  "id": "booking-n",
+  "headword": "booking",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel and services vocab",
+   "Travel"
+  ]
+ },
+ {
+  "id": "boom-n",
+  "headword": "boom",
+  "pos": "noun"
+ },
+ {
+  "id": "boot-n",
+  "headword": "boot",
+  "pos": "noun",
+  "sourceTopics": [
+   "Clothes",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "border-n",
+  "headword": "border",
+  "pos": "noun"
+ },
+ {
+  "id": "bore-v",
+  "headword": "bore",
+  "pos": "verb"
+ },
+ {
+  "id": "boredom-n",
+  "headword": "boredom",
+  "pos": "noun"
+ },
+ {
+  "id": "bother-n",
+  "headword": "bother",
+  "pos": "noun"
+ },
+ {
+  "id": "bounce-v",
+  "headword": "bounce",
+  "pos": "verb"
+ },
+ {
+  "id": "bound-adj",
+  "headword": "bound",
+  "pos": "adjective"
+ },
+ {
+  "id": "bow-n",
+  "headword": "bow",
+  "pos": "noun",
+  "sourceTopics": [
+   "Hobbies and pastimes"
+  ]
+ },
+ {
+  "id": "bowl-v",
+  "headword": "bowl",
+  "pos": "verb"
+ },
+ {
+  "id": "boxing-n",
+  "headword": "boxing",
+  "pos": "noun",
+  "sourceTopics": [
+   "Leisure activities",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "bracelet-n",
+  "headword": "bracelet",
+  "pos": "noun",
+  "sourceTopics": [
+   "Clothes",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "brainstorming-n",
+  "headword": "brainstorming",
+  "pos": "noun"
+ },
+ {
+  "id": "branch-v",
+  "headword": "branch",
+  "pos": "verb"
+ },
+ {
+  "id": "brand-new-adj",
+  "headword": "brand-new",
+  "pos": "adjective"
+ },
+ {
+  "id": "brass-n",
+  "headword": "brass",
+  "pos": "noun"
+ },
+ {
+  "id": "bravely-adv",
+  "headword": "bravely",
+  "pos": "adverb"
+ },
+ {
+  "id": "breakthrough-n",
+  "headword": "breakthrough",
+  "pos": "noun"
+ },
+ {
+  "id": "breast-n",
+  "headword": "breast",
+  "pos": "noun",
+  "sourceTopics": [
+   "Health and body care"
+  ]
+ },
+ {
+  "id": "breath-n",
+  "headword": "breath",
+  "pos": "noun",
+  "sourceTopics": [
+   "Health and body care"
+  ]
+ },
+ {
+  "id": "breathless-adj",
+  "headword": "breathless",
+  "pos": "adjective"
+ },
+ {
+  "id": "breed-v",
+  "headword": "breed",
+  "pos": "verb"
+ },
+ {
+  "id": "breeding-n",
+  "headword": "breeding",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education"
+  ]
+ },
+ {
+  "id": "brick-n",
+  "headword": "brick",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms"
+  ]
+ },
+ {
+  "id": "brief-adj",
+  "headword": "brief",
+  "pos": "adjective"
+ },
+ {
+  "id": "briefly-adv",
+  "headword": "briefly",
+  "pos": "adverb"
+ },
+ {
+  "id": "brightly-adv",
+  "headword": "brightly",
+  "pos": "adverb"
+ },
+ {
+  "id": "broad-adj",
+  "headword": "broad",
+  "pos": "adjective"
+ },
+ {
+  "id": "broadcast-n",
+  "headword": "broadcast",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "broccoli-n",
+  "headword": "broccoli",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "bronze-n",
+  "headword": "bronze",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education"
+  ]
+ },
+ {
+  "id": "brotherhood-n",
+  "headword": "brotherhood",
+  "pos": "noun",
+  "sourceTopics": [
+   "Family life"
+  ]
+ },
+ {
+  "id": "bubble-n",
+  "headword": "bubble",
+  "pos": "noun"
+ },
+ {
+  "id": "buddy-n",
+  "headword": "buddy",
+  "pos": "noun"
+ },
+ {
+  "id": "builder-n",
+  "headword": "builder",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "bull-n",
+  "headword": "bull",
+  "pos": "noun"
+ },
+ {
+  "id": "bullet-n",
+  "headword": "bullet",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs"
+  ]
+ },
+ {
+  "id": "bulletin-n",
+  "headword": "bulletin",
+  "pos": "noun"
+ },
+ {
+  "id": "bump-v",
+  "headword": "bump",
+  "pos": "verb"
+ }
+]

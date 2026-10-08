@@ -1,0 +1,394 @@
+{
+ "decoys": {
+  "caught": 6,
+  "total": 6,
+  "missed": []
+ },
+ "toReview": 2,
+ "cards": {
+  "person-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "personal-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "pet-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "phone-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "phone-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "piano-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "pick-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "picnic-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "picture-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "piece-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "pig-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "pink-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "pizza-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "place-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "plan-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "play-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "play-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "player-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "please-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "pleasure-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "pocket-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "poem-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "point-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "pollution-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "pool-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "pop-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "post-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "poster-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "potato-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "practice-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "practice-v": {
+   "check": "to-review",
+   "problems": [
+    "english: headword is spelled 'practice' but the example uses British 'practise'; spelling mismatch confuses a learner"
+   ]
+  },
+  "pray-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "present-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "pretty-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "price-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "princess-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "problem-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "program-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "purple-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "push-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "put-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "quarter-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "question-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "quickly-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "quiet-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "radio-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "rain-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "rain-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "rainy-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "rat-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "re-be": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "read-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "reader-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "reading-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "ready-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "real-adv": {
+   "check": "to-review",
+   "problems": [
+    "english: 'real good' is nonstandard/slang; not a model sentence for A1 learners"
+   ]
+  },
+  "really-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "reason-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "red-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "remember-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "repeat-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "reporter-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "restaurant-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "result-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "review-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "rice-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "rich-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "ride-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "ride-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "right-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "right-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "ring-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "river-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "role-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "room-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "row-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "rude-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "rule-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "ruler-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "run-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "run-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "s-be": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "sad-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "sailor-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "salad-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "same-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "same-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "same-pron": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "sandwich-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "saturday-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "save-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "saw-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "say-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "school-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "science-n": {
+   "check": "two-pass",
+   "problems": []
+  }
+ }
+}

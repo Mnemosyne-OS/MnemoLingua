@@ -1,0 +1,478 @@
+[
+ {
+  "id": "r001",
+  "headword": "TENSE/ASPECT: PRESENT PERFECT",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "I have visited London three times.",
+  "fr": {
+   "exampleA": "J'ai visité Londres trois fois.",
+   "exampleB": "J'ai visité Londres trois fois."
+  },
+  "es": {
+   "exampleA": "He visitado Londres tres veces.",
+   "exampleB": "He visitado Londres tres veces."
+  }
+ },
+ {
+  "id": "r002",
+  "headword": "TENSE/ASPECT: PRESENT PERFECT",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "She has lost her keys again.",
+  "fr": {
+   "exampleA": "Elle a encore perdu ses clés.",
+   "exampleB": "Elle a encore perdu ses clés."
+  },
+  "es": {
+   "exampleA": "Ha vuelto a perder las llaves.",
+   "exampleB": "Ha vuelto a perder las llaves."
+  }
+ },
+ {
+  "id": "r003",
+  "headword": "TENSE/ASPECT: PAST PROGRESSIVE",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "I was cooking dinner when you called.",
+  "fr": {
+   "exampleA": "J'étais en train de préparer le dîner quand tu as appelé.",
+   "exampleB": "J'étais en train de préparer le dîner quand tu as appelé."
+  },
+  "es": {
+   "exampleA": "Estaba haciendo la cena cuando llamaste.",
+   "exampleB": "Estaba preparando la cena cuando llamaste."
+  }
+ },
+ {
+  "id": "r004",
+  "headword": "TENSE/ASPECT: PAST PROGRESSIVE",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "At five o'clock, the children were playing in the garden.",
+  "fr": {
+   "exampleA": "À cinq heures, les enfants jouaient dans le jardin.",
+   "exampleB": "À cinq heures, les enfants jouaient dans le jardin."
+  },
+  "es": {
+   "exampleA": "A las cinco, los niños estaban jugando en el jardín.",
+   "exampleB": "A las cinco, los niños estaban jugando en el jardín."
+  }
+ },
+ {
+  "id": "r005",
+  "headword": "PASSIVE: PAST",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "This house was built in 1920.",
+  "fr": {
+   "exampleA": "Cette maison a été construite en 1920.",
+   "exampleB": "Cette maison a été construite en 1920."
+  },
+  "es": {
+   "exampleA": "Esta casa se construyó en 1920.",
+   "exampleB": "Esta casa se construyó en 1920."
+  }
+ },
+ {
+  "id": "r006",
+  "headword": "PASSIVE: PAST",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "The letters were sent yesterday morning.",
+  "fr": {
+   "exampleA": "Les lettres ont été envoyées hier matin.",
+   "exampleB": "Les lettres ont été envoyées hier matin."
+  },
+  "es": {
+   "exampleA": "Las cartas se enviaron ayer por la mañana.",
+   "exampleB": "Las cartas se enviaron ayer por la mañana."
+  }
+ },
+ {
+  "id": "r007",
+  "headword": "HAVE/LET/MAKE+NP+INFINITIVE",
+  "pos": "grammar",
+  "example": "That sad film made me cry.",
+  "fr": {
+   "exampleA": "Je ne regarde pas la télé le matin.",
+   "exampleB": "Ce film triste m'a fait pleurer."
+  },
+  "es": {
+   "exampleA": "Esa película triste me hizo llorar.",
+   "exampleB": "Esa película triste me hizo llorar."
+  }
+ },
+ {
+  "id": "r008",
+  "headword": "TENSE/ASPECT: PRESENT (lexical verbs)",
+  "pos": "grammar (AFF. INT.)",
+  "example": "Do you like chocolate ice cream?",
+  "fr": {
+   "exampleA": "Tu aimes la glace au chocolat ?",
+   "exampleB": "Tu aimes la glace au chocolat ?"
+  },
+  "es": {
+   "exampleA": "¿Te gusta el helado de chocolate?",
+   "exampleB": "¿Te gusta el helado de chocolate?"
+  }
+ },
+ {
+  "id": "r009",
+  "headword": "TENSE/ASPECT: PRESENT (lexical verbs)",
+  "pos": "grammar (AFF. INT.)",
+  "example": "Does your brother play football on Saturdays?",
+  "fr": {
+   "exampleA": "Ton frère joue au foot le samedi ?",
+   "exampleB": "Est-ce que ton frère joue au foot le samedi ?"
+  },
+  "es": {
+   "exampleA": "¿Tu hermano juega al fútbol los sábados?",
+   "exampleB": "¿Tu hermano juega al fútbol los sábados?"
+  }
+ },
+ {
+  "id": "r010",
+  "headword": "MODAL/AUX: have to",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "I have to get up at six tomorrow.",
+  "fr": {
+   "exampleA": "Je dois me lever à six heures demain.",
+   "exampleB": "Je dois me lever à six heures demain."
+  },
+  "es": {
+   "exampleA": "Mañana tengo que levantarme a las seis.",
+   "exampleB": "Mañana tengo que levantarme a las seis."
+  }
+ },
+ {
+  "id": "r011",
+  "headword": "MODAL/AUX: have to",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "She has to wear a uniform at work.",
+  "fr": {
+   "exampleA": "Elle doit porter un uniforme au travail.",
+   "exampleB": "Elle doit porter un uniforme au travail."
+  },
+  "es": {
+   "exampleA": "Tiene que llevar uniforme en el trabajo.",
+   "exampleB": "Tiene que llevar uniforme en el trabajo."
+  }
+ },
+ {
+  "id": "r012",
+  "headword": "MODAL/AUX: should",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "You should drink more water every day.",
+  "fr": {
+   "exampleA": "Tu devrais boire plus d'eau tous les jours.",
+   "exampleB": "Tu devrais boire plus d'eau tous les jours."
+  },
+  "es": {
+   "exampleA": "Deberías beber más agua todos los días.",
+   "exampleB": "Deberías beber más agua todos los días."
+  }
+ },
+ {
+  "id": "r013",
+  "headword": "MODAL/AUX: should",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "We should leave now, or we will be late.",
+  "fr": {
+   "exampleA": "On devrait partir maintenant, sinon on va être en retard.",
+   "exampleB": "On devrait partir maintenant, sinon on va être en retard."
+  },
+  "es": {
+   "exampleA": "Deberíamos irnos ya o llegaremos tarde.",
+   "exampleB": "Deberíamos irnos ya, o llegaremos tarde."
+  }
+ },
+ {
+  "id": "r014",
+  "headword": "MODAL/AUX: would",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "I would like a cup of tea, please.",
+  "fr": {
+   "exampleA": "Je voudrais une tasse de thé, s'il vous plaît.",
+   "exampleB": "Je voudrais une tasse de thé, s'il vous plaît."
+  },
+  "es": {
+   "exampleA": "Me gustaría una taza de té, por favor.",
+   "exampleB": "Querría una taza de té, por favor."
+  }
+ },
+ {
+  "id": "r015",
+  "headword": "MODAL/AUX: would",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "She would love to visit Japan one day.",
+  "fr": {
+   "exampleA": "Elle adorerait visiter le Japon un jour.",
+   "exampleB": "Elle adorerait visiter le Japon un jour."
+  },
+  "es": {
+   "exampleA": "A ella le encantaría visitar Japón algún día.",
+   "exampleB": "Le encantaría visitar Japón algún día."
+  }
+ },
+ {
+  "id": "r016",
+  "headword": "This/That N",
+  "pos": "grammar (AFF. DEC./NEG. DEC.)",
+  "example": "This bag is very heavy.",
+  "fr": {
+   "exampleA": "Ce sac est très lourd.",
+   "exampleB": "Ce sac est très lourd."
+  },
+  "es": {
+   "exampleA": "Esta bolsa pesa mucho.",
+   "exampleB": "Esta bolsa pesa mucho."
+  }
+ },
+ {
+  "id": "r017",
+  "headword": "This/That N",
+  "pos": "grammar (AFF. DEC./NEG. DEC.)",
+  "example": "That restaurant isn't open on Sundays.",
+  "fr": {
+   "exampleA": "Ce restaurant n'est pas ouvert le dimanche.",
+   "exampleB": "Ce restaurant n'est pas ouvert le dimanche."
+  },
+  "es": {
+   "exampleA": "Ese restaurante no abre los domingos.",
+   "exampleB": "Ese restaurante no abre los domingos."
+  }
+ },
+ {
+  "id": "r018",
+  "headword": "INDEFINITE PRONOUN/PROP-WORDS: ones (except for 'one')",
+  "pos": "grammar",
+  "example": "I don't like the red shoes. I prefer the black ones.",
+  "fr": {
+   "exampleA": "Je n'aime pas les chaussures rouges. Je préfère les noires.",
+   "exampleB": "Je n'aime pas les chaussures rouges. Je préfère les noires."
+  },
+  "es": {
+   "exampleA": "No me gustan los zapatos rojos. Prefiero los negros.",
+   "exampleB": "No me gustan los zapatos rojos. Prefiero los negros."
+  }
+ },
+ {
+  "id": "r019",
+  "headword": "INDEFINITE PRONOUN/PROP-WORDS: ones (except for 'one')",
+  "pos": "grammar",
+  "example": "Which cakes do you want? The small ones, please.",
+  "fr": {
+   "exampleA": "Quels gâteaux voulez-vous ? Les petits, s'il vous plaît.",
+   "exampleB": "Quels gâteaux veux-tu ? Les petits, s'il te plaît."
+  },
+  "es": {
+   "exampleA": "¿Qué pasteles quiere? Los pequeños, por favor.",
+   "exampleB": "¿Qué pasteles quieres? Los pequeños, por favor."
+  }
+ },
+ {
+  "id": "r020",
+  "headword": "DETERMINER: another",
+  "pos": "grammar",
+  "example": "I need to buy some milk after work.",
+  "fr": {
+   "exampleA": "Il nous faut une autre chaise pour notre invité.",
+   "exampleB": "Il nous faut une autre chaise pour notre invité."
+  },
+  "es": {
+   "exampleA": "Necesitamos otra silla para nuestro invitado.",
+   "exampleB": "Necesitamos otra silla para nuestro invitado."
+  }
+ },
+ {
+  "id": "r021",
+  "headword": "COMPARATIVE OF SUPERIORITY: more+ADJ/ADV",
+  "pos": "grammar",
+  "example": "This book is more interesting than the film.",
+  "fr": {
+   "exampleA": "Ce livre est plus intéressant que le film.",
+   "exampleB": "Ce livre est plus intéressant que le film."
+  },
+  "es": {
+   "exampleA": "Este libro es más interesante que la película.",
+   "exampleB": "Este libro es más interesante que la película."
+  }
+ },
+ {
+  "id": "r022",
+  "headword": "COMPARATIVE OF SUPERIORITY: more+ADJ/ADV",
+  "pos": "grammar",
+  "example": "Could you speak more slowly, please?",
+  "fr": {
+   "exampleA": "Pourriez-vous parler plus lentement, s'il vous plaît ?",
+   "exampleB": "Vous pourriez parler plus lentement, s'il vous plaît ?"
+  },
+  "es": {
+   "exampleA": "¿Podría hablar más despacio, por favor?",
+   "exampleB": "¿Podría hablar más despacio, por favor?"
+  }
+ },
+ {
+  "id": "r023",
+  "headword": "PHRASAL VERBS (V+NP+PARTICLE)",
+  "pos": "grammar",
+  "example": "Please turn the TV off before you go to bed.",
+  "fr": {
+   "exampleA": "Éteins la télé avant d'aller te coucher, s'il te plaît.",
+   "exampleB": "Éteins la télé avant d'aller te coucher, s'il te plaît."
+  },
+  "es": {
+   "exampleA": "Apaga la tele antes de irte a la cama, por favor.",
+   "exampleB": "Por favor, apaga la tele antes de irte a la cama."
+  }
+ },
+ {
+  "id": "r024",
+  "headword": "MODAL/AUX: need (to)",
+  "pos": "grammar",
+  "example": "I think it will be sunny tomorrow.",
+  "fr": {
+   "exampleA": "Tu n'as rien besoin d'apporter à la fête.",
+   "exampleB": "Tu n'as rien besoin d'apporter à la fête."
+  },
+  "es": {
+   "exampleA": "No hace falta que traigas nada a la fiesta.",
+   "exampleB": "No hace falta que traigas nada a la fiesta."
+  }
+ },
+ {
+  "id": "r025",
+  "headword": "PHRASAL VERBS (V+NP+PARTICLE)",
+  "pos": "grammar",
+  "example": "Put your coat on. It's cold outside.",
+  "fr": {
+   "exampleA": "Mets ton manteau. Il fait froid dehors.",
+   "exampleB": "Mets ton manteau. Il fait froid dehors."
+  },
+  "es": {
+   "exampleA": "Ponte el abrigo. Hace frío fuera.",
+   "exampleB": "Ponte el abrigo. Hace frío fuera."
+  }
+ },
+ {
+  "id": "r026",
+  "headword": "ADVERBIAL CLAUSE: if",
+  "pos": "grammar",
+  "example": "If it rains tomorrow, we will stay at home.",
+  "fr": {
+   "exampleA": "S'il pleut demain, on restera à la maison.",
+   "exampleB": "S'il pleut demain, on restera à la maison."
+  },
+  "es": {
+   "exampleA": "Si llueve mañana, nos quedaremos en casa.",
+   "exampleB": "Si llueve mañana, nos quedaremos en casa."
+  }
+ },
+ {
+  "id": "r027",
+  "headword": "ADVERBIAL CLAUSE: if",
+  "pos": "grammar",
+  "example": "If you are hungry, there is bread in the kitchen.",
+  "fr": {
+   "exampleA": "Si tu as faim, il y a du pain dans la cuisine.",
+   "exampleB": "Si tu as faim, il y a du pain dans la cuisine."
+  },
+  "es": {
+   "exampleA": "Si tienes hambre, hay pan en la cocina.",
+   "exampleB": "Si tienes hambre, hay pan en la cocina."
+  }
+ },
+ {
+  "id": "r028",
+  "headword": "MODAL/AUX: need (to)",
+  "pos": "grammar",
+  "example": "I need to buy some milk after work.",
+  "fr": {
+   "exampleA": "Il faut que j'achète du lait après le travail.",
+   "exampleB": "Il faut que j'achète du lait après le travail."
+  },
+  "es": {
+   "exampleA": "Necesitamos otra silla para nuestro invitado.",
+   "exampleB": "Necesito comprar leche después del trabajo."
+  }
+ },
+ {
+  "id": "r029",
+  "headword": "SENTENCE PATTERN: SUBJECT+V+OBJECT",
+  "pos": "grammar (NEG. DEC.)",
+  "example": "I don't eat meat on Fridays.",
+  "fr": {
+   "exampleA": "Je ne mange pas de viande le vendredi.",
+   "exampleB": "Je ne mange pas de viande le vendredi."
+  },
+  "es": {
+   "exampleA": "No como carne los viernes.",
+   "exampleB": "No como carne los viernes."
+  }
+ },
+ {
+  "id": "r030",
+  "headword": "SENTENCE PATTERN: SUBJECT+V+OBJECT",
+  "pos": "grammar (NEG. DEC.)",
+  "example": "My sister didn't finish her homework yesterday.",
+  "fr": {
+   "exampleA": "Ma sœur n'a pas fini ses devoirs hier.",
+   "exampleB": "Ma sœur n'a pas fini ses devoirs hier."
+  },
+  "es": {
+   "exampleA": "Mi hermana no terminó los deberes ayer.",
+   "exampleB": "Mi hermana no terminó los deberes ayer."
+  }
+ },
+ {
+  "id": "r031",
+  "headword": "SUPERLATIVE OF SUPERIORITY: most+ADJ/ADV",
+  "pos": "grammar",
+  "example": "Maths is the most difficult subject for me.",
+  "fr": {
+   "exampleA": "Les maths, c'est la matière la plus difficile pour moi.",
+   "exampleB": "Les maths, c'est la matière la plus difficile pour moi."
+  },
+  "es": {
+   "exampleA": "Te llamaré mañana por la noche.",
+   "exampleB": "Las matemáticas son la asignatura más difícil para mí."
+  }
+ },
+ {
+  "id": "r032",
+  "headword": "MODAL/AUX: will",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "My mum let me stay up late on Saturday.",
+  "fr": {
+   "exampleA": "Je pense qu'il fera beau demain.",
+   "exampleB": "Je pense qu'il fera beau demain."
+  },
+  "es": {
+   "exampleA": "Creo que mañana hará sol.",
+   "exampleB": "Creo que mañana hará sol."
+  }
+ },
+ {
+  "id": "r033",
+  "headword": "INDIRECT QUESTION: DECIDE/EXPLAIN/KNOW/LEARN/SEE/UNDERSTAND/WONDER",
+  "pos": "grammar",
+  "example": "I don't know where the station is.",
+  "fr": {
+   "exampleA": "Je ne sais pas où est la gare.",
+   "exampleB": "Je ne sais pas où est la gare."
+  },
+  "es": {
+   "exampleA": "No sé dónde está la estación.",
+   "exampleB": "No sé dónde está la estación."
+  }
+ },
+ {
+  "id": "r034",
+  "headword": "INDIRECT QUESTION: DECIDE/EXPLAIN/KNOW/LEARN/SEE/UNDERSTAND/WONDER",
+  "pos": "grammar",
+  "example": "She wonders why her friend didn't call her.",
+  "fr": {
+   "exampleA": "Elle se demande pourquoi son amie ne l'a pas appelée.",
+   "exampleB": "Elle se demande pourquoi son amie ne l'a pas appelée."
+  },
+  "es": {
+   "exampleA": "Se pregunta por qué su amiga no la llamó.",
+   "exampleB": "Se pregunta por qué su amiga no la llamó."
+  }
+ }
+]

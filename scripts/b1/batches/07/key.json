@@ -1,0 +1,656 @@
+{
+ "everyone-pron": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A"
+ },
+ "grandparent-n": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A"
+ },
+ "guess-v": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A"
+ },
+ "thin-adj": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A"
+ },
+ "butterfly-n": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A"
+ },
+ "boring-adj": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A"
+ },
+ "r001": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "department-n"
+ },
+ "r002": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "departure-n"
+ },
+ "r003": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "dependent-adj"
+ },
+ "r004": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "deposit-n"
+ },
+ "r005": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A",
+  "cardId": "depressed-adj"
+ },
+ "r006": {
+  "decoy": {
+   "kind": "example",
+   "lang": "es"
+  },
+  "fr": "A",
+  "es": "A",
+  "cardId": "x02-grandparent-n"
+ },
+ "r007": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "depressing-adj"
+ },
+ "r008": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A",
+  "cardId": "depression-n"
+ },
+ "r009": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "deprive-v"
+ },
+ "r010": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A",
+  "cardId": "depth-n"
+ },
+ "r011": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "derive-v"
+ },
+ "r012": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "deserve-v"
+ },
+ "r013": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "design-v"
+ },
+ "r014": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A",
+  "cardId": "designer-n"
+ },
+ "r015": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "desire-n"
+ },
+ "r016": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "despair-n"
+ },
+ "r017": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "desperate-adj"
+ },
+ "r018": {
+  "decoy": {
+   "kind": "example",
+   "lang": "fr"
+  },
+  "fr": "A",
+  "es": "A",
+  "cardId": "x01-everyone-pron"
+ },
+ "r019": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "despite-prep"
+ },
+ "r020": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "destination-n"
+ },
+ "r021": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "destruction-n"
+ },
+ "r022": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "destructive-adj"
+ },
+ "r023": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "detective-n"
+ },
+ "r024": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A",
+  "cardId": "determination-n"
+ },
+ "r025": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "determine-v"
+ },
+ "r026": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "devastate-v"
+ },
+ "r027": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "devastating-adj"
+ },
+ "r028": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "development-n"
+ },
+ "r029": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "device-n"
+ },
+ "r030": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "devotion-n"
+ },
+ "r031": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "diagram-n"
+ },
+ "r032": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "dial-n"
+ },
+ "r033": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "dial-v"
+ },
+ "r034": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A",
+  "cardId": "dialog-n"
+ },
+ "r035": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "diameter-n"
+ },
+ "r036": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A",
+  "cardId": "diaper-n"
+ },
+ "r037": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "differ-v"
+ },
+ "r038": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A",
+  "cardId": "dig-v"
+ },
+ "r039": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "digital-adj"
+ },
+ "r040": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "diligence-n"
+ },
+ "r041": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "diligent-adj"
+ },
+ "r042": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A",
+  "cardId": "dioxide-n"
+ },
+ "r043": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "direct-v"
+ },
+ "r044": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "directly-adv"
+ },
+ "r045": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "dirt-n"
+ },
+ "r046": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "disability-n"
+ },
+ "r047": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "disable-v"
+ },
+ "r048": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "disabled-adj"
+ },
+ "r049": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "disagreement-n"
+ },
+ "r050": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "disappoint-v"
+ },
+ "r051": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "disappointment-n"
+ },
+ "r052": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "disaster-n"
+ },
+ "r053": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "disastrous-adj"
+ },
+ "r054": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "disc-jockey-n"
+ },
+ "r055": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A",
+  "cardId": "discomfort-n"
+ },
+ "r056": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "discount-n"
+ },
+ "r057": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "discourage-v"
+ },
+ "r058": {
+  "decoy": {
+   "kind": "exampleGloss",
+   "lang": "es"
+  },
+  "fr": "A",
+  "es": "A",
+  "cardId": "x06-boring-adj"
+ },
+ "r059": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A",
+  "cardId": "discovery-n"
+ },
+ "r060": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "discrimination-n"
+ },
+ "r061": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "disease-n"
+ },
+ "r062": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "disgusting-adj"
+ },
+ "r063": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "dishwasher-n"
+ },
+ "r064": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "disk-n"
+ },
+ "r065": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "dislike-v"
+ },
+ "r066": {
+  "decoy": {
+   "kind": "word",
+   "lang": "es"
+  },
+  "fr": "A",
+  "es": "A",
+  "cardId": "x04-thin-adj"
+ },
+ "r067": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "display-v"
+ },
+ "r068": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "dissolve-v"
+ },
+ "r069": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "distance-n"
+ },
+ "r070": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A",
+  "cardId": "distant-adj"
+ },
+ "r071": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "distinction-n"
+ },
+ "r072": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A",
+  "cardId": "distinctly-adv"
+ },
+ "r073": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "distinguish-v"
+ },
+ "r074": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "distribute-v"
+ },
+ "r075": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A",
+  "cardId": "distribution-n"
+ },
+ "r076": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A",
+  "cardId": "district-n"
+ },
+ "r077": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A",
+  "cardId": "disturbance-n"
+ },
+ "r078": {
+  "decoy": {
+   "kind": "word",
+   "lang": "fr"
+  },
+  "fr": "A",
+  "es": "A",
+  "cardId": "x03-guess-v"
+ },
+ "r079": {
+  "decoy": {
+   "kind": "exampleGloss",
+   "lang": "fr"
+  },
+  "fr": "A",
+  "es": "A",
+  "cardId": "x05-butterfly-n"
+ },
+ "r080": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "dive-n"
+ },
+ "r081": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "dive-v"
+ },
+ "r082": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "diver-n"
+ },
+ "r083": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "diverse-adj"
+ },
+ "r084": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "divide-n"
+ },
+ "r085": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "divine-adj"
+ },
+ "r086": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "diving-n"
+ },
+ "r087": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A",
+  "cardId": "divorced-adj"
+ },
+ "r088": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "dj-n"
+ },
+ "r089": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "doc-n"
+ },
+ "r090": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "document-n"
+ },
+ "r091": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "documentary-n"
+ },
+ "r092": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "dolphin-n"
+ },
+ "r093": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A",
+  "cardId": "dot-n"
+ },
+ "r094": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "downstairs-adj"
+ },
+ "r095": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "downward-adj"
+ },
+ "r096": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "doze-n"
+ },
+ "r097": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "dozen-det"
+ },
+ "r098": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A",
+  "cardId": "dozen-n"
+ },
+ "r099": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A",
+  "cardId": "drag-v"
+ },
+ "r100": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "dramatic-adj"
+ },
+ "r101": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "drown-v"
+ }
+}

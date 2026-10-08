@@ -1,0 +1,572 @@
+[
+ {
+  "id": "bare-adj",
+  "headword": "bare",
+  "pos": "adjective",
+  "example": "The walls of his room were bare, with no pictures."
+ },
+ {
+  "id": "barely-adv",
+  "headword": "barely",
+  "pos": "adverb",
+  "example": "I was so tired that I could barely keep my eyes open."
+ },
+ {
+  "id": "bark-n",
+  "headword": "bark",
+  "pos": "noun",
+  "example": "The bark of this old tree is thick and rough."
+ },
+ {
+  "id": "barman-n",
+  "headword": "barman",
+  "pos": "noun",
+  "example": "The barman poured us two glasses of orange juice."
+ },
+ {
+  "id": "barrel-n",
+  "headword": "barrel",
+  "pos": "noun",
+  "example": "The farmer keeps rainwater in a large wooden barrel."
+ },
+ {
+  "id": "base-v",
+  "headword": "base",
+  "pos": "verb",
+  "example": "The film is based on a true story."
+ },
+ {
+  "id": "basement-n",
+  "headword": "basement",
+  "pos": "noun",
+  "example": "We keep our old bikes in the basement."
+ },
+ {
+  "id": "basin-n",
+  "headword": "basin",
+  "pos": "noun",
+  "example": "She filled the basin with warm water to wash her face."
+ },
+ {
+  "id": "basis-n",
+  "headword": "basis",
+  "pos": "noun",
+  "example": "Her research provides the basis for our new project."
+ },
+ {
+  "id": "bat-v",
+  "headword": "bat",
+  "pos": "verb",
+  "example": "In cricket, each team takes turns to bat."
+ },
+ {
+  "id": "bathe-v",
+  "headword": "bathe",
+  "pos": "verb",
+  "example": "The children bathe in the lake every summer."
+ },
+ {
+  "id": "battle-n",
+  "headword": "battle",
+  "pos": "noun",
+  "example": "Many soldiers died in the battle near the river."
+ },
+ {
+  "id": "beard-n",
+  "headword": "beard",
+  "pos": "noun",
+  "example": "My grandfather has a long white beard."
+ },
+ {
+  "id": "beast-n",
+  "headword": "beast",
+  "pos": "noun",
+  "example": "In the story, a terrible beast lived in the forest."
+ },
+ {
+  "id": "beat-v",
+  "headword": "beat",
+  "pos": "verb",
+  "example": "Our team beat the champions two goals to one."
+ },
+ {
+  "id": "beautifully-adv",
+  "headword": "beautifully",
+  "pos": "adverb",
+  "example": "She sings beautifully, and everyone loves listening to her."
+ },
+ {
+  "id": "beaver-n",
+  "headword": "beaver",
+  "pos": "noun",
+  "example": "The beaver uses its strong teeth to cut down trees."
+ },
+ {
+  "id": "because-of-prep",
+  "headword": "because of",
+  "pos": "preposition",
+  "example": "The match was cancelled because of the heavy rain."
+ },
+ {
+  "id": "bedside-n",
+  "headword": "bedside",
+  "pos": "noun",
+  "example": "He sat at her bedside all night when she was ill."
+ },
+ {
+  "id": "behalf-n",
+  "headword": "behalf",
+  "pos": "noun",
+  "example": "I am writing on behalf of my sister, who is ill."
+ },
+ {
+  "id": "behave-v",
+  "headword": "behave",
+  "pos": "verb",
+  "example": "The children behaved very well at the restaurant."
+ },
+ {
+  "id": "belief-n",
+  "headword": "belief",
+  "pos": "noun",
+  "example": "It is a common belief that carrots help you see better."
+ },
+ {
+  "id": "beloved-adj",
+  "headword": "beloved",
+  "pos": "adjective",
+  "example": "He returned to his beloved village after many years abroad."
+ },
+ {
+  "id": "beneath-prep",
+  "headword": "beneath",
+  "pos": "preposition",
+  "example": "The cat was sleeping beneath the kitchen table."
+ },
+ {
+  "id": "benefit-n",
+  "headword": "benefit",
+  "pos": "noun",
+  "example": "One benefit of cycling to work is that it keeps you fit."
+ },
+ {
+  "id": "bent-adj",
+  "headword": "bent",
+  "pos": "adjective",
+  "example": "The old nail was bent, so I couldn't use it."
+ },
+ {
+  "id": "besides-prep",
+  "headword": "besides",
+  "pos": "preposition",
+  "example": "Besides English, she also speaks French and German."
+ },
+ {
+  "id": "bet-v",
+  "headword": "bet",
+  "pos": "verb",
+  "example": "I bet my brother ten euros that our team would win."
+ },
+ {
+  "id": "bilingual-adj",
+  "headword": "bilingual",
+  "pos": "adjective",
+  "example": "Their children are bilingual because they speak Spanish and English at home."
+ },
+ {
+  "id": "bill-v",
+  "headword": "bill",
+  "pos": "verb",
+  "example": "The hotel will bill you for the extra night."
+ },
+ {
+  "id": "bin-n",
+  "headword": "bin",
+  "pos": "noun",
+  "example": "Please put your empty bottles in the green bin."
+ },
+ {
+  "id": "biochemistry-n",
+  "headword": "biochemistry",
+  "pos": "noun",
+  "example": "My cousin is studying biochemistry at university."
+ },
+ {
+  "id": "biography-n",
+  "headword": "biography",
+  "pos": "noun",
+  "example": "I am reading a biography of a famous scientist."
+ },
+ {
+  "id": "biology-n",
+  "headword": "biology",
+  "pos": "noun",
+  "example": "In biology class we learned how plants make food."
+ },
+ {
+  "id": "bishop-n",
+  "headword": "bishop",
+  "pos": "noun",
+  "example": "The bishop gave a speech in the old cathedral."
+ },
+ {
+  "id": "bite-v",
+  "headword": "bite",
+  "pos": "verb",
+  "example": "Be careful, that dog might bite you."
+ },
+ {
+  "id": "bitter-adj",
+  "headword": "bitter",
+  "pos": "adjective",
+  "example": "This coffee tastes bitter without any sugar."
+ },
+ {
+  "id": "blame-n",
+  "headword": "blame",
+  "pos": "noun",
+  "example": "The manager took the blame for the team's mistake."
+ },
+ {
+  "id": "bleed-v",
+  "headword": "bleed",
+  "pos": "verb",
+  "example": "Your knee is bleeding, so let me clean it."
+ },
+ {
+  "id": "blend-v",
+  "headword": "blend",
+  "pos": "verb",
+  "example": "Blend the bananas and milk to make a smoothie."
+ },
+ {
+  "id": "bless-v",
+  "headword": "bless",
+  "pos": "verb",
+  "example": "The priest blessed the young couple at their wedding."
+ },
+ {
+  "id": "blessing-n",
+  "headword": "blessing",
+  "pos": "noun",
+  "example": "Good health is a blessing that we should not forget."
+ },
+ {
+  "id": "blind-adj",
+  "headword": "blind",
+  "pos": "adjective",
+  "example": "The blind man walked with his guide dog."
+ },
+ {
+  "id": "block-v",
+  "headword": "block",
+  "pos": "verb",
+  "example": "A fallen tree blocked the road after the storm."
+ },
+ {
+  "id": "blog-n",
+  "headword": "blog",
+  "pos": "noun",
+  "example": "She writes a blog about travelling with her dog."
+ },
+ {
+  "id": "blogger-n",
+  "headword": "blogger",
+  "pos": "noun",
+  "example": "The blogger posts a new recipe every Monday."
+ },
+ {
+  "id": "blush-n",
+  "headword": "blush",
+  "pos": "noun",
+  "example": "A blush appeared on her face when he smiled at her."
+ },
+ {
+  "id": "board-v",
+  "headword": "board",
+  "pos": "verb",
+  "example": "Passengers can board the plane at gate twelve."
+ },
+ {
+  "id": "boast-v",
+  "headword": "boast",
+  "pos": "verb",
+  "example": "He always boasts about his expensive car."
+ },
+ {
+  "id": "bold-adj",
+  "headword": "bold",
+  "pos": "adjective",
+  "example": "It was a bold decision to leave her job and travel."
+ },
+ {
+  "id": "boldly-adv",
+  "headword": "boldly",
+  "pos": "adverb",
+  "example": "The young player boldly asked the coach for a chance."
+ },
+ {
+  "id": "bomb-n",
+  "headword": "bomb",
+  "pos": "noun",
+  "example": "The police found a bomb near the station and closed it."
+ },
+ {
+  "id": "bomb-v",
+  "headword": "bomb",
+  "pos": "verb",
+  "example": "Enemy planes bombed the city during the war."
+ },
+ {
+  "id": "bond-n",
+  "headword": "bond",
+  "pos": "noun",
+  "example": "There is a strong bond between the two sisters."
+ },
+ {
+  "id": "book-v",
+  "headword": "book",
+  "pos": "verb",
+  "example": "I booked a table for four at the Italian restaurant."
+ },
+ {
+  "id": "booking-n",
+  "headword": "booking",
+  "pos": "noun",
+  "example": "We made a booking for two nights at the hotel."
+ },
+ {
+  "id": "boom-n",
+  "headword": "boom",
+  "pos": "noun",
+  "example": "There was a boom in tourism after the new airport opened."
+ },
+ {
+  "id": "boot-n",
+  "headword": "boot",
+  "pos": "noun",
+  "example": "Put your boots on because it is snowing outside."
+ },
+ {
+  "id": "border-n",
+  "headword": "border",
+  "pos": "noun",
+  "example": "We showed our passports when we crossed the border."
+ },
+ {
+  "id": "bore-v",
+  "headword": "bore",
+  "pos": "verb",
+  "example": "His long stories about fishing bore everyone at dinner."
+ },
+ {
+  "id": "boredom-n",
+  "headword": "boredom",
+  "pos": "noun",
+  "example": "I started drawing on long train journeys to fight boredom."
+ },
+ {
+  "id": "bother-n",
+  "headword": "bother",
+  "pos": "noun",
+  "example": "We had a lot of bother with the car last winter."
+ },
+ {
+  "id": "bounce-v",
+  "headword": "bounce",
+  "pos": "verb",
+  "example": "The ball bounced twice before it went into the goal."
+ },
+ {
+  "id": "bound-adj",
+  "headword": "bound",
+  "pos": "adjective",
+  "example": "He works so hard that he is bound to succeed."
+ },
+ {
+  "id": "bow-n",
+  "headword": "bow",
+  "pos": "noun",
+  "example": "He practises with a bow and arrows every weekend."
+ },
+ {
+  "id": "bowl-v",
+  "headword": "bowl",
+  "pos": "verb",
+  "example": "In cricket, he bowled the ball very fast."
+ },
+ {
+  "id": "boxing-n",
+  "headword": "boxing",
+  "pos": "noun",
+  "example": "My brother does boxing twice a week to stay fit."
+ },
+ {
+  "id": "bracelet-n",
+  "headword": "bracelet",
+  "pos": "noun",
+  "example": "She wore a silver bracelet on her wrist."
+ },
+ {
+  "id": "brainstorming-n",
+  "headword": "brainstorming",
+  "pos": "noun",
+  "example": "We did some brainstorming to find ideas for the school party."
+ },
+ {
+  "id": "branch-v",
+  "headword": "branch",
+  "pos": "verb",
+  "example": "The road branches into two smaller paths after the bridge."
+ },
+ {
+  "id": "brand-new-adj",
+  "headword": "brand-new",
+  "pos": "adjective",
+  "example": "He drove his brand-new car to work this morning."
+ },
+ {
+  "id": "brass-n",
+  "headword": "brass",
+  "pos": "noun",
+  "example": "The old door handle is made of brass."
+ },
+ {
+  "id": "bravely-adv",
+  "headword": "bravely",
+  "pos": "adverb",
+  "example": "The firefighter bravely ran into the burning house."
+ },
+ {
+  "id": "breakthrough-n",
+  "headword": "breakthrough",
+  "pos": "noun",
+  "example": "The doctors made a breakthrough in the fight against cancer."
+ },
+ {
+  "id": "breast-n",
+  "headword": "breast",
+  "pos": "noun",
+  "example": "The mother held the baby close to her breast."
+ },
+ {
+  "id": "breath-n",
+  "headword": "breath",
+  "pos": "noun",
+  "example": "Take a deep breath before you jump into the water."
+ },
+ {
+  "id": "breathless-adj",
+  "headword": "breathless",
+  "pos": "adjective",
+  "example": "After running up the stairs, I was breathless."
+ },
+ {
+  "id": "breed-v",
+  "headword": "breed",
+  "pos": "verb",
+  "example": "This farmer breeds sheep and goats on the hills."
+ },
+ {
+  "id": "breeding-n",
+  "headword": "breeding",
+  "pos": "noun",
+  "example": "The zoo has a breeding programme for rare tigers."
+ },
+ {
+  "id": "brick-n",
+  "headword": "brick",
+  "pos": "noun",
+  "example": "The old school is built of red brick."
+ },
+ {
+  "id": "brief-adj",
+  "headword": "brief",
+  "pos": "adjective",
+  "example": "The teacher gave a brief explanation before the test."
+ },
+ {
+  "id": "briefly-adv",
+  "headword": "briefly",
+  "pos": "adverb",
+  "example": "She spoke briefly about her trip and then sat down."
+ },
+ {
+  "id": "brightly-adv",
+  "headword": "brightly",
+  "pos": "adverb",
+  "example": "The sun was shining brightly over the beach."
+ },
+ {
+  "id": "broad-adj",
+  "headword": "broad",
+  "pos": "adjective",
+  "example": "The river is very broad near the sea."
+ },
+ {
+  "id": "broadcast-n",
+  "headword": "broadcast",
+  "pos": "noun",
+  "example": "We watched the live broadcast of the concert on TV."
+ },
+ {
+  "id": "broccoli-n",
+  "headword": "broccoli",
+  "pos": "noun",
+  "example": "Steam the broccoli for five minutes until it is soft."
+ },
+ {
+  "id": "bronze-n",
+  "headword": "bronze",
+  "pos": "noun",
+  "example": "The statue in the square is made of bronze."
+ },
+ {
+  "id": "brotherhood-n",
+  "headword": "brotherhood",
+  "pos": "noun",
+  "example": "There is a strong feeling of brotherhood in our village."
+ },
+ {
+  "id": "bubble-n",
+  "headword": "bubble",
+  "pos": "noun",
+  "example": "Small bubbles rose to the top of the glass of water."
+ },
+ {
+  "id": "buddy-n",
+  "headword": "buddy",
+  "pos": "noun",
+  "example": "He went to the cinema with his old school buddy."
+ },
+ {
+  "id": "builder-n",
+  "headword": "builder",
+  "pos": "noun",
+  "example": "The builder finished our new kitchen in two weeks."
+ },
+ {
+  "id": "bull-n",
+  "headword": "bull",
+  "pos": "noun",
+  "example": "The bull in the field looked big and dangerous."
+ },
+ {
+  "id": "bullet-n",
+  "headword": "bullet",
+  "pos": "noun",
+  "example": "The police found a bullet in the wall of the house."
+ },
+ {
+  "id": "bulletin-n",
+  "headword": "bulletin",
+  "pos": "noun",
+  "example": "We heard the news on the evening bulletin."
+ },
+ {
+  "id": "bump-v",
+  "headword": "bump",
+  "pos": "verb",
+  "example": "I bumped my head on the low door."
+ }
+]

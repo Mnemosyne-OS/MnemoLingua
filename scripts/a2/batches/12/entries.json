@@ -1,0 +1,571 @@
+[
+ {
+  "id": "rock-n",
+  "headword": "rock",
+  "pos": "noun"
+ },
+ {
+  "id": "roll-n",
+  "headword": "roll",
+  "pos": "noun"
+ },
+ {
+  "id": "romance-n",
+  "headword": "romance",
+  "pos": "noun"
+ },
+ {
+  "id": "romantic-adj",
+  "headword": "romantic",
+  "pos": "adjective"
+ },
+ {
+  "id": "roof-n",
+  "headword": "roof",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "root-n",
+  "headword": "root",
+  "pos": "noun"
+ },
+ {
+  "id": "rope-n",
+  "headword": "rope",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "roughly-adv",
+  "headword": "roughly",
+  "pos": "adverb"
+ },
+ {
+  "id": "round-adv",
+  "headword": "round",
+  "pos": "adverb"
+ },
+ {
+  "id": "roundabout-n",
+  "headword": "roundabout",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel"
+  ]
+ },
+ {
+  "id": "royal-adj",
+  "headword": "royal",
+  "pos": "adjective"
+ },
+ {
+  "id": "rugby-n",
+  "headword": "rugby",
+  "pos": "noun",
+  "sourceTopics": [
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "ruin-v",
+  "headword": "ruin",
+  "pos": "verb"
+ },
+ {
+  "id": "rumor-n",
+  "headword": "rumor",
+  "pos": "noun",
+  "variants": [
+   "rumour"
+  ]
+ },
+ {
+  "id": "runner-n",
+  "headword": "runner",
+  "pos": "noun",
+  "sourceTopics": [
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "running-n",
+  "headword": "running",
+  "pos": "noun",
+  "sourceTopics": [
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "rush-n",
+  "headword": "rush",
+  "pos": "noun"
+ },
+ {
+  "id": "sadly-adv",
+  "headword": "sadly",
+  "pos": "adverb"
+ },
+ {
+  "id": "safe-adj",
+  "headword": "safe",
+  "pos": "adjective"
+ },
+ {
+  "id": "sailing-n",
+  "headword": "sailing",
+  "pos": "noun",
+  "sourceTopics": [
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "sake-n",
+  "headword": "sake",
+  "pos": "noun"
+ },
+ {
+  "id": "salt-n",
+  "headword": "salt",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "sample-n",
+  "headword": "sample",
+  "pos": "noun",
+  "sourceTopics": [
+   "Shopping",
+   "Services"
+  ]
+ },
+ {
+  "id": "sandy-adj",
+  "headword": "sandy",
+  "pos": "adjective"
+ },
+ {
+  "id": "satisfy-v",
+  "headword": "satisfy",
+  "pos": "verb"
+ },
+ {
+  "id": "sauce-n",
+  "headword": "sauce",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "sausage-n",
+  "headword": "sausage",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "scale-n",
+  "headword": "scale",
+  "pos": "noun"
+ },
+ {
+  "id": "scarf-n",
+  "headword": "scarf",
+  "pos": "noun",
+  "sourceTopics": [
+   "Shopping"
+  ]
+ },
+ {
+  "id": "scene-n",
+  "headword": "scene",
+  "pos": "noun",
+  "sourceTopics": [
+   "Books and literature",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "scenery-n",
+  "headword": "scenery",
+  "pos": "noun"
+ },
+ {
+  "id": "schedule-n",
+  "headword": "schedule",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel and services vocab",
+   "Daily life"
+  ]
+ },
+ {
+  "id": "schoolchild-n",
+  "headword": "schoolchild",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education"
+  ]
+ },
+ {
+  "id": "schoolwork-n",
+  "headword": "schoolwork",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Education"
+  ]
+ },
+ {
+  "id": "scientific-adj",
+  "headword": "scientific",
+  "pos": "adjective"
+ },
+ {
+  "id": "scissors-n",
+  "headword": "scissors",
+  "pos": "noun",
+  "sourceTopics": [
+   "Shopping"
+  ]
+ },
+ {
+  "id": "scream-n",
+  "headword": "scream",
+  "pos": "noun"
+ },
+ {
+  "id": "screen-n",
+  "headword": "screen",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "screw-n",
+  "headword": "screw",
+  "pos": "noun"
+ },
+ {
+  "id": "script-n",
+  "headword": "script",
+  "pos": "noun"
+ },
+ {
+  "id": "seafood-n",
+  "headword": "seafood",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "search-n",
+  "headword": "search",
+  "pos": "noun"
+ },
+ {
+  "id": "seaside-n",
+  "headword": "seaside",
+  "pos": "noun",
+  "sourceTopics": [
+   "Nationalities and countries",
+   "Places"
+  ]
+ },
+ {
+  "id": "second-n",
+  "headword": "second",
+  "pos": "noun"
+ },
+ {
+  "id": "second-pron",
+  "headword": "second",
+  "pos": "pronoun"
+ },
+ {
+  "id": "secret-n",
+  "headword": "secret",
+  "pos": "noun"
+ },
+ {
+  "id": "secretary-n",
+  "headword": "secretary",
+  "pos": "noun",
+  "sourceTopics": [
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "seed-n",
+  "headword": "seed",
+  "pos": "noun"
+ },
+ {
+  "id": "seek-v",
+  "headword": "seek",
+  "pos": "verb"
+ },
+ {
+  "id": "seem-v",
+  "headword": "seem",
+  "pos": "verb"
+ },
+ {
+  "id": "semester-n",
+  "headword": "semester",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Education"
+  ]
+ },
+ {
+  "id": "send-v",
+  "headword": "send",
+  "pos": "verb"
+ },
+ {
+  "id": "senior-adj",
+  "headword": "senior",
+  "pos": "adjective"
+ },
+ {
+  "id": "senior-n",
+  "headword": "senior",
+  "pos": "noun"
+ },
+ {
+  "id": "sense-n",
+  "headword": "sense",
+  "pos": "noun"
+ },
+ {
+  "id": "separate-adj",
+  "headword": "separate",
+  "pos": "adjective"
+ },
+ {
+  "id": "seriously-adv",
+  "headword": "seriously",
+  "pos": "adverb"
+ },
+ {
+  "id": "serve-v",
+  "headword": "serve",
+  "pos": "verb"
+ },
+ {
+  "id": "set-n",
+  "headword": "set",
+  "pos": "noun"
+ },
+ {
+  "id": "several-det",
+  "headword": "several",
+  "pos": "determiner"
+ },
+ {
+  "id": "several-pron",
+  "headword": "several",
+  "pos": "pronoun"
+ },
+ {
+  "id": "sew-v",
+  "headword": "sew",
+  "pos": "verb"
+ },
+ {
+  "id": "shade-n",
+  "headword": "shade",
+  "pos": "noun"
+ },
+ {
+  "id": "shadow-n",
+  "headword": "shadow",
+  "pos": "noun"
+ },
+ {
+  "id": "shall-modal",
+  "headword": "shall",
+  "pos": "modal auxiliary"
+ },
+ {
+  "id": "shampoo-n",
+  "headword": "shampoo",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "shape-n",
+  "headword": "shape",
+  "pos": "noun"
+ },
+ {
+  "id": "share-n",
+  "headword": "share",
+  "pos": "noun"
+ },
+ {
+  "id": "shell-n",
+  "headword": "shell",
+  "pos": "noun"
+ },
+ {
+  "id": "shine-v",
+  "headword": "shine",
+  "pos": "verb"
+ },
+ {
+  "id": "shock-n",
+  "headword": "shock",
+  "pos": "noun"
+ },
+ {
+  "id": "shoot-v",
+  "headword": "shoot",
+  "pos": "verb"
+ },
+ {
+  "id": "shop-assistant-n",
+  "headword": "shop assistant",
+  "pos": "noun",
+  "sourceTopics": [
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "shore-n",
+  "headword": "shore",
+  "pos": "noun"
+ },
+ {
+  "id": "shorts-n",
+  "headword": "shorts",
+  "pos": "noun"
+ },
+ {
+  "id": "shot-n",
+  "headword": "shot",
+  "pos": "noun"
+ },
+ {
+  "id": "shout-n",
+  "headword": "shout",
+  "pos": "noun"
+ },
+ {
+  "id": "show-n",
+  "headword": "show",
+  "pos": "noun",
+  "sourceTopics": [
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "shut-v",
+  "headword": "shut",
+  "pos": "verb"
+ },
+ {
+  "id": "sightseeing-n",
+  "headword": "sightseeing",
+  "pos": "noun",
+  "sourceTopics": [
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "significant-adj",
+  "headword": "significant",
+  "pos": "adjective"
+ },
+ {
+  "id": "silence-n",
+  "headword": "silence",
+  "pos": "noun"
+ },
+ {
+  "id": "silently-adv",
+  "headword": "silently",
+  "pos": "adverb"
+ },
+ {
+  "id": "silly-adj",
+  "headword": "silly",
+  "pos": "adjective"
+ },
+ {
+  "id": "silver-adj",
+  "headword": "silver",
+  "pos": "adjective"
+ },
+ {
+  "id": "silver-n",
+  "headword": "silver",
+  "pos": "noun"
+ },
+ {
+  "id": "similar-adj",
+  "headword": "similar",
+  "pos": "adjective"
+ },
+ {
+  "id": "simple-adj",
+  "headword": "simple",
+  "pos": "adjective"
+ },
+ {
+  "id": "simply-adv",
+  "headword": "simply",
+  "pos": "adverb"
+ },
+ {
+  "id": "since-prep",
+  "headword": "since",
+  "pos": "preposition"
+ },
+ {
+  "id": "singing-n",
+  "headword": "singing",
+  "pos": "noun",
+  "sourceTopics": [
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "single-adj",
+  "headword": "single",
+  "pos": "adjective"
+ },
+ {
+  "id": "singular-adj",
+  "headword": "singular",
+  "pos": "adjective"
+ },
+ {
+  "id": "singular-n",
+  "headword": "singular",
+  "pos": "noun",
+  "sourceTopics": [
+   "Language"
+  ]
+ }
+]

@@ -1,0 +1,388 @@
+{
+ "decoys": {
+  "caught": 6,
+  "total": 6,
+  "missed": []
+ },
+ "toReview": 1,
+ "cards": {
+  "pressure-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "pretend-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "pretty-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "prevent-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "pride-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "principal-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "print-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "printer-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "private-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "pro-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "probably-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "produce-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "product-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "production-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "professional-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "progressive-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "promise-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "pronounce-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "pronunciation-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "proper-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "provide-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "psychologist-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "public-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "publish-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "pull-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "punctuation-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "purple-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "purpose-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "pursue-v": {
+   "check": "to-review",
+   "problems": [
+    "es example: 'siguió una carrera' reads as studying a degree; e.g. 'hizo carrera en la música'"
+   ]
+  },
+  "quality-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "queen-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "quick-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "quietly-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "quit-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "quite-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "quiz-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "racket-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "raincoat-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "raise-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "range-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "rap-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "rate-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "rather-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "rating-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "raw-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "ray-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "reach-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "realize-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "receipt-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "receive-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "recent-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "recently-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "receptionist-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "record-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "recycle-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "red-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "refer-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "reflect-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "refrigerator-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "regret-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "regular-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "regularly-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "relax-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "relaxed-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "release-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "remain-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "remind-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "remote-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "rent-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "rent-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "repair-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "repair-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "replace-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "reply-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "report-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "represent-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "request-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "research-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "response-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "retire-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "retired-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "return-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "return-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "reunion-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "reveal-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "rhythm-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "right-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "right-hand-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "ring-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "road-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "roast-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "rob-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "robbery-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "robin-n": {
+   "check": "two-pass",
+   "problems": []
+  }
+ }
+}

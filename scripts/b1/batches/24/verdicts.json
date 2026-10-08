@@ -1,0 +1,398 @@
+{
+ "decoys": {
+  "caught": 6,
+  "total": 6,
+  "missed": []
+ },
+ "toReview": 4,
+ "cards": {
+  "tendency-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "tense-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "tense-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "tension-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "tent-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "term-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "terminal-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "terribly-adv": {
+   "check": "to-review",
+   "problems": [
+    "es word: unnatural with 'sorry': Spanish says 'lo siento muchísimo', not 'terriblemente'"
+   ]
+  },
+  "terrific-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "terrified-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "terror-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "terrorism-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "terrorist-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "thankful-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "theft-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "theory-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "thirst-v": {
+   "check": "to-review",
+   "problems": [
+    "english: 'thirst' as a verb is literary, above B1"
+   ]
+  },
+  "thorough-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "threat-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "threatening-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "thriller-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "through-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "throughout-prep": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "thumb-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "thump-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "thunder-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "thunderous-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "thus-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "tick-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "tick-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "tide-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "tie-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "tighten-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "tightly-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "tile-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "till-conj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "timely-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "tin-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "tiny-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "tire-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "tiring-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "tissue-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "tobacco-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "tongue-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "toothpaste-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "top-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "tornado-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "toss-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "total-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "total-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "totally-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "touch-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "tour-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "tourism-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "tournament-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "trace-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "tracksuit-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "traditionally-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "traffic-jam-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "tragedy-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "tragic-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "trail-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "transfer-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "transform-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "transformation-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "transitional-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "translate-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "transport-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "transportation-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "trash-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "travel-agent-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "treat-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "treatment-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "tremble-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "tremendous-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "trend-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "trigger-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "trim-n": {
+   "check": "to-review",
+   "problems": [
+    "es example: unnatural: 'necesito un recorte' (say 'cortarme las puntas')"
+   ]
+  },
+  "triumph-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "tropical-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "trouble-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "trumpet-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "trustworthy-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "tumble-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "tuna-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "turbulence-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "turning-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "turtle-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "twin-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "twist-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "twist-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "type-v": {
+   "check": "to-review",
+   "problems": [
+    "es word: wrong sense: 'escribir a máquina' is typewriter, example is a computer"
+   ]
+  },
+  "typical-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "typically-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "unable-adj": {
+   "check": "two-pass",
+   "problems": []
+  }
+ }
+}

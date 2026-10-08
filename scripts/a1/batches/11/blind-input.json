@@ -1,0 +1,524 @@
+[
+ {
+  "id": "until-prep",
+  "headword": "until",
+  "pos": "preposition",
+  "example": "The shop is open until six o'clock."
+ },
+ {
+  "id": "up-prep",
+  "headword": "up",
+  "pos": "preposition",
+  "example": "We walk up the hill to the house."
+ },
+ {
+  "id": "us-pron",
+  "headword": "us",
+  "pos": "pronoun",
+  "example": "Please come to the park with us."
+ },
+ {
+  "id": "use-v",
+  "headword": "use",
+  "pos": "verb",
+  "example": "I use a pen to write."
+ },
+ {
+  "id": "usually-adv",
+  "headword": "usually",
+  "pos": "adverb",
+  "example": "I usually have coffee in the morning."
+ },
+ {
+  "id": "vacation-n",
+  "headword": "vacation",
+  "pos": "noun",
+  "example": "We go to the beach on vacation."
+ },
+ {
+  "id": "vase-n",
+  "headword": "vase",
+  "pos": "noun",
+  "example": "The flowers are in a blue vase."
+ },
+ {
+  "id": "vegetable-n",
+  "headword": "vegetable",
+  "pos": "noun",
+  "example": "A carrot is an orange vegetable."
+ },
+ {
+  "id": "very-adv",
+  "headword": "very",
+  "pos": "adverb",
+  "example": "It is very hot today."
+ },
+ {
+  "id": "video-n",
+  "headword": "video",
+  "pos": "noun",
+  "example": "We watch a funny video on my phone."
+ },
+ {
+  "id": "visit-v",
+  "headword": "visit",
+  "pos": "verb",
+  "example": "I visit my grandmother every Sunday."
+ },
+ {
+  "id": "volleyball-n",
+  "headword": "volleyball",
+  "pos": "noun",
+  "example": "We play volleyball on the beach."
+ },
+ {
+  "id": "vote-n",
+  "headword": "vote",
+  "pos": "noun",
+  "example": "Every person in the class has one vote."
+ },
+ {
+  "id": "wait-v",
+  "headword": "wait",
+  "pos": "verb",
+  "example": "I wait for the bus at the bus stop."
+ },
+ {
+  "id": "waiter-n",
+  "headword": "waiter",
+  "pos": "noun",
+  "example": "The waiter brings us our food."
+ },
+ {
+  "id": "waitress-n",
+  "headword": "waitress",
+  "pos": "noun",
+  "example": "The waitress gives me the menu."
+ },
+ {
+  "id": "wake-n",
+  "headword": "wake",
+  "pos": "noun",
+  "example": "The family has a wake for Grandpa."
+ },
+ {
+  "id": "walk-n",
+  "headword": "walk",
+  "pos": "noun",
+  "example": "We go for a walk in the park."
+ },
+ {
+  "id": "walk-v",
+  "headword": "walk",
+  "pos": "verb",
+  "example": "I walk to school every day."
+ },
+ {
+  "id": "wall-n",
+  "headword": "wall",
+  "pos": "noun",
+  "example": "There is a picture on the wall."
+ },
+ {
+  "id": "war-n",
+  "headword": "war",
+  "pos": "noun",
+  "example": "My grandfather tells stories about the war."
+ },
+ {
+  "id": "warm-adj",
+  "headword": "warm",
+  "pos": "adjective",
+  "example": "The water in the pool is warm."
+ },
+ {
+  "id": "was-be",
+  "headword": "was",
+  "pos": "be-verb",
+  "example": "I was at home yesterday."
+ },
+ {
+  "id": "wash-n",
+  "headword": "wash",
+  "pos": "noun",
+  "example": "The car is dirty. It needs a wash."
+ },
+ {
+  "id": "wash-v",
+  "headword": "wash",
+  "pos": "verb",
+  "example": "I wash my hands before dinner."
+ },
+ {
+  "id": "watch-n",
+  "headword": "watch",
+  "pos": "noun",
+  "example": "My watch says it is three o'clock."
+ },
+ {
+  "id": "watch-v",
+  "headword": "watch",
+  "pos": "verb",
+  "example": "I watch TV in the evening."
+ },
+ {
+  "id": "water-n",
+  "headword": "water",
+  "pos": "noun",
+  "example": "Can I have a glass of water, please?"
+ },
+ {
+  "id": "way-n",
+  "headword": "way",
+  "pos": "noun",
+  "example": "Is this the way to the station?"
+ },
+ {
+  "id": "we-pron",
+  "headword": "we",
+  "pos": "pronoun",
+  "example": "We are brother and sister."
+ },
+ {
+  "id": "weather-n",
+  "headword": "weather",
+  "pos": "noun",
+  "example": "The weather is sunny and hot today."
+ },
+ {
+  "id": "wednesday-n",
+  "headword": "Wednesday",
+  "pos": "noun",
+  "example": "Wednesday is the day after Tuesday."
+ },
+ {
+  "id": "week-n",
+  "headword": "week",
+  "pos": "noun",
+  "example": "There are seven days in a week."
+ },
+ {
+  "id": "weekend-n",
+  "headword": "weekend",
+  "pos": "noun",
+  "example": "I don't work on the weekend."
+ },
+ {
+  "id": "welcome-interj",
+  "headword": "welcome",
+  "pos": "interjection",
+  "example": "Welcome to our house! Come in."
+ },
+ {
+  "id": "welcome-v",
+  "headword": "welcome",
+  "pos": "verb",
+  "example": "The teacher welcomes the new students."
+ },
+ {
+  "id": "well-adj",
+  "headword": "well",
+  "pos": "adjective",
+  "example": "I am not well. I have a cold."
+ },
+ {
+  "id": "well-adv",
+  "headword": "well",
+  "pos": "adverb",
+  "example": "She speaks English very well."
+ },
+ {
+  "id": "were-be",
+  "headword": "were",
+  "pos": "be-verb",
+  "example": "We were at the park yesterday."
+ },
+ {
+  "id": "what-det",
+  "headword": "what",
+  "pos": "determiner",
+  "example": "What colour is your car?"
+ },
+ {
+  "id": "wheel-n",
+  "headword": "wheel",
+  "pos": "noun",
+  "example": "A bike has two wheels."
+ },
+ {
+  "id": "when-adv",
+  "headword": "when",
+  "pos": "adverb",
+  "example": "When is your birthday?"
+ },
+ {
+  "id": "when-conj",
+  "headword": "when",
+  "pos": "conjunction",
+  "example": "I am happy when it is sunny."
+ },
+ {
+  "id": "where-adv",
+  "headword": "where",
+  "pos": "adverb",
+  "example": "Where is the bathroom, please?"
+ },
+ {
+  "id": "where-conj",
+  "headword": "where",
+  "pos": "conjunction",
+  "example": "This is the house where I live."
+ },
+ {
+  "id": "which-det",
+  "headword": "which",
+  "pos": "determiner",
+  "example": "Which bus goes to the station?"
+ },
+ {
+  "id": "which-pron",
+  "headword": "which",
+  "pos": "pronoun",
+  "example": "Here are two bags. Which is yours?"
+ },
+ {
+  "id": "white-adj",
+  "headword": "white",
+  "pos": "adjective",
+  "example": "Snow is white and cold."
+ },
+ {
+  "id": "white-n",
+  "headword": "white",
+  "pos": "noun",
+  "example": "White is my favourite colour."
+ },
+ {
+  "id": "who-pron",
+  "headword": "who",
+  "pos": "pronoun",
+  "example": "Who is that man at the door?"
+ },
+ {
+  "id": "whose-det",
+  "headword": "whose",
+  "pos": "determiner",
+  "example": "Whose bag is this?"
+ },
+ {
+  "id": "whose-pron",
+  "headword": "whose",
+  "pos": "pronoun",
+  "example": "This pen is not mine. Whose is it?"
+ },
+ {
+  "id": "why-adv",
+  "headword": "why",
+  "pos": "adverb",
+  "example": "Why are you sad today?"
+ },
+ {
+  "id": "wife-n",
+  "headword": "wife",
+  "pos": "noun",
+  "example": "Tom and his wife have two children."
+ },
+ {
+  "id": "will-modal",
+  "headword": "will",
+  "pos": "modal auxiliary",
+  "example": "I will call you tomorrow."
+ },
+ {
+  "id": "win-v",
+  "headword": "win",
+  "pos": "verb",
+  "example": "Our team wins the game."
+ },
+ {
+  "id": "wind-n",
+  "headword": "wind",
+  "pos": "noun",
+  "example": "The wind is very strong today."
+ },
+ {
+  "id": "window-n",
+  "headword": "window",
+  "pos": "noun",
+  "example": "Please open the window. It is hot."
+ },
+ {
+  "id": "winter-n",
+  "headword": "winter",
+  "pos": "noun",
+  "example": "It is cold and it snows in winter."
+ },
+ {
+  "id": "wish-n",
+  "headword": "wish",
+  "pos": "noun",
+  "example": "Make a wish and blow out the candles!"
+ },
+ {
+  "id": "with-prep",
+  "headword": "with",
+  "pos": "preposition",
+  "example": "I live with my parents."
+ },
+ {
+  "id": "woman-n",
+  "headword": "woman",
+  "pos": "noun",
+  "example": "That woman is my teacher."
+ },
+ {
+  "id": "wonderful-adj",
+  "headword": "wonderful",
+  "pos": "adjective",
+  "example": "The view from the mountain is wonderful."
+ },
+ {
+  "id": "word-n",
+  "headword": "word",
+  "pos": "noun",
+  "example": "\"Cat\" is a short word."
+ },
+ {
+  "id": "work-n",
+  "headword": "work",
+  "pos": "noun",
+  "example": "I go to work by bus."
+ },
+ {
+  "id": "work-v",
+  "headword": "work",
+  "pos": "verb",
+  "example": "My mother works in a hospital."
+ },
+ {
+  "id": "worker-n",
+  "headword": "worker",
+  "pos": "noun",
+  "example": "The workers build a new house."
+ },
+ {
+  "id": "world-n",
+  "headword": "world",
+  "pos": "noun",
+  "example": "China is a big country in the world."
+ },
+ {
+  "id": "worry-n",
+  "headword": "worry",
+  "pos": "noun",
+  "example": "Money is a big worry for my dad."
+ },
+ {
+  "id": "would-modal",
+  "headword": "would",
+  "pos": "modal auxiliary",
+  "example": "I would like a cup of tea, please."
+ },
+ {
+  "id": "write-v",
+  "headword": "write",
+  "pos": "verb",
+  "example": "I write a letter to my friend."
+ },
+ {
+  "id": "writer-n",
+  "headword": "writer",
+  "pos": "noun",
+  "example": "She is a writer. She writes books."
+ },
+ {
+  "id": "wrong-adj",
+  "headword": "wrong",
+  "pos": "adjective",
+  "example": "Two and two is five? No, that is wrong."
+ },
+ {
+  "id": "yard-n",
+  "headword": "yard",
+  "pos": "noun",
+  "example": "The children play in the yard behind the house."
+ },
+ {
+  "id": "year-n",
+  "headword": "year",
+  "pos": "noun",
+  "example": "There are twelve months in a year."
+ },
+ {
+  "id": "yellow-adj",
+  "headword": "yellow",
+  "pos": "adjective",
+  "example": "A banana is yellow."
+ },
+ {
+  "id": "yellow-n",
+  "headword": "yellow",
+  "pos": "noun",
+  "example": "Yellow is the colour of the sun."
+ },
+ {
+  "id": "yes-adv",
+  "headword": "yes",
+  "pos": "adverb",
+  "example": "Do you like tea? Yes, I do."
+ },
+ {
+  "id": "yesterday-adv",
+  "headword": "yesterday",
+  "pos": "adverb",
+  "example": "Today is Monday, so yesterday was Sunday."
+ },
+ {
+  "id": "yet-adv",
+  "headword": "yet",
+  "pos": "adverb",
+  "example": "Dinner is not ready yet."
+ },
+ {
+  "id": "yogurt-n",
+  "headword": "yogurt",
+  "pos": "noun",
+  "example": "I eat a strawberry yogurt for breakfast."
+ },
+ {
+  "id": "you-pron",
+  "headword": "you",
+  "pos": "pronoun",
+  "example": "Are you a student?"
+ },
+ {
+  "id": "young-adj",
+  "headword": "young",
+  "pos": "adjective",
+  "example": "My brother is young. He is five."
+ },
+ {
+  "id": "your-det",
+  "headword": "your",
+  "pos": "determiner",
+  "example": "Is this your phone?"
+ },
+ {
+  "id": "yours-pron",
+  "headword": "yours",
+  "pos": "pronoun",
+  "example": "This bag is not mine. It is yours."
+ },
+ {
+  "id": "yourself-pron",
+  "headword": "yourself",
+  "pos": "pronoun",
+  "example": "Look at yourself in the mirror."
+ },
+ {
+  "id": "zoo-n",
+  "headword": "zoo",
+  "pos": "noun",
+  "example": "We see lions and monkeys at the zoo."
+ }
+]

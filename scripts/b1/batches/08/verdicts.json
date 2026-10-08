@@ -1,0 +1,393 @@
+{
+ "decoys": {
+  "caught": 6,
+  "total": 6,
+  "missed": []
+ },
+ "toReview": 1,
+ "cards": {
+  "drunk-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "dude-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "dull-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "dump-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "dump-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "dustbin-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "dusty-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "duty-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "duty-free-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "duvet-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "dynasty-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "eager-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "eagerness-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "earache-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "earnest-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "eastern-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "easygoing-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "eco-n": {
+   "check": "to-review",
+   "problems": [
+    "english: 'eco' here works as a modifier (adjective-like), not as a noun",
+    "es example: 'equipo ecológico' reads as eco-friendly equipment; 'equipo de ecología'"
+   ]
+  },
+  "ecological-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "ecology-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "economic-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "economics-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "economy-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "ecosystem-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "ecstasy-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "edge-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "edition-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "educate-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "effective-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "efficiency-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "efficient-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "either-det": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "either-pron": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "elbow-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "election-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "electrical-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "electricity-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "electron-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "electronic-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "element-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "eliminate-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "embarrass-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "embarrassed-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "embarrassment-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "emerge-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "emotion-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "emotional-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "emotionally-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "emperor-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "emphasis-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "emphasize-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "empire-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "employment-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "enable-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "enclose-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "encounter-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "encouragement-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "encouraging-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "encyclopedia-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "endanger-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "endless-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "endure-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "enemy-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "engage-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "engaged-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "engine-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "engineering-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "englishman-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "enjoyable-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "enjoyment-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "enrich-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "ensure-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "entertain-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "entertainer-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "enthusiasm-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "enthusiast-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "enthusiastic-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "entire-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "entirely-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "entry-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "environmental-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "environmentalist-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "equal-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "equality-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "equally-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "equipment-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "era-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "escape-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "essence-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "essential-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "establishment-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "estimate-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "eternal-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "eternity-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "even-adj": {
+   "check": "two-pass",
+   "problems": []
+  }
+ }
+}

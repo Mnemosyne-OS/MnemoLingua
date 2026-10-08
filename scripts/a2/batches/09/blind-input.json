@@ -1,0 +1,566 @@
+[
+ {
+  "id": "matter-v",
+  "headword": "matter",
+  "pos": "verb",
+  "example": "It doesn't matter if you are late, we can wait."
+ },
+ {
+  "id": "max-n",
+  "headword": "max",
+  "pos": "noun",
+  "example": "The car park holds a max of fifty cars."
+ },
+ {
+  "id": "mean-adj",
+  "headword": "mean",
+  "pos": "adjective",
+  "example": "He was mean to his little sister and made her cry."
+ },
+ {
+  "id": "meaning-n",
+  "headword": "meaning",
+  "pos": "noun",
+  "example": "I don't know the meaning of this word."
+ },
+ {
+  "id": "medal-n",
+  "headword": "medal",
+  "pos": "noun",
+  "example": "She won a gold medal in the swimming race."
+ },
+ {
+  "id": "medical-adj",
+  "headword": "medical",
+  "pos": "adjective",
+  "example": "My brother is studying at a medical school to become a doctor."
+ },
+ {
+  "id": "melon-n",
+  "headword": "melon",
+  "pos": "noun",
+  "example": "In summer I like to eat cold melon for breakfast."
+ },
+ {
+  "id": "member-n",
+  "headword": "member",
+  "pos": "noun",
+  "example": "Every member of the club pays twenty euros a year."
+ },
+ {
+  "id": "mention-n",
+  "headword": "mention",
+  "pos": "noun",
+  "example": "There was no mention of the party in his email."
+ },
+ {
+  "id": "menu-n",
+  "headword": "menu",
+  "pos": "noun",
+  "example": "The waiter gave us the menu and we chose our food."
+ },
+ {
+  "id": "metal-n",
+  "headword": "metal",
+  "pos": "noun",
+  "example": "This old door is made of metal, so it is very heavy."
+ },
+ {
+  "id": "meter-n",
+  "headword": "meter",
+  "pos": "noun",
+  "example": "The swimming pool is twenty-five meters long."
+ },
+ {
+  "id": "method-n",
+  "headword": "method",
+  "pos": "noun",
+  "example": "Her method of learning words is to write them on cards."
+ },
+ {
+  "id": "midday-n",
+  "headword": "midday",
+  "pos": "noun",
+  "example": "We stopped for lunch at midday."
+ },
+ {
+  "id": "middle-n",
+  "headword": "middle",
+  "pos": "noun",
+  "example": "There is a big table in the middle of the room."
+ },
+ {
+  "id": "midnight-n",
+  "headword": "midnight",
+  "pos": "noun",
+  "example": "The party finished at midnight, so we went home late."
+ },
+ {
+  "id": "might-modal",
+  "headword": "might",
+  "pos": "modal auxiliary",
+  "example": "Take an umbrella because it might rain later."
+ },
+ {
+  "id": "military-adj",
+  "headword": "military",
+  "pos": "adjective",
+  "example": "His father wore a military uniform in the army."
+ },
+ {
+  "id": "mind-v",
+  "headword": "mind",
+  "pos": "verb",
+  "example": "Do you mind if I open the window?"
+ },
+ {
+  "id": "mineral-water-n",
+  "headword": "mineral water",
+  "pos": "noun",
+  "example": "I'd like a bottle of mineral water, please."
+ },
+ {
+  "id": "mirror-n",
+  "headword": "mirror",
+  "pos": "noun",
+  "example": "She looked at her new dress in the mirror."
+ },
+ {
+  "id": "missing-adj",
+  "headword": "missing",
+  "pos": "adjective",
+  "example": "My keys are missing; I can't find them anywhere."
+ },
+ {
+  "id": "mistake-n",
+  "headword": "mistake",
+  "pos": "noun",
+  "example": "I made a mistake in my homework, so I corrected it."
+ },
+ {
+  "id": "mix-v",
+  "headword": "mix",
+  "pos": "verb",
+  "example": "Mix the eggs and the milk in a big bowl."
+ },
+ {
+  "id": "mobile-adj",
+  "headword": "mobile",
+  "pos": "adjective",
+  "example": "A mobile library visits our village in a van every week."
+ },
+ {
+  "id": "model-n",
+  "headword": "model",
+  "pos": "noun",
+  "example": "My son is building a model of a plane."
+ },
+ {
+  "id": "modern-adj",
+  "headword": "modern",
+  "pos": "adjective",
+  "example": "They live in a modern flat with big windows."
+ },
+ {
+  "id": "mood-n",
+  "headword": "mood",
+  "pos": "noun",
+  "example": "She is in a good mood because it's her birthday."
+ },
+ {
+  "id": "mosque-n",
+  "headword": "mosque",
+  "pos": "noun",
+  "example": "Many people go to the mosque to pray on Fridays."
+ },
+ {
+  "id": "most-adv",
+  "headword": "most",
+  "pos": "adverb",
+  "example": "This is the most beautiful beach I have ever seen."
+ },
+ {
+  "id": "most-pron",
+  "headword": "most",
+  "pos": "pronoun",
+  "example": "I invited twenty friends and most came to the party."
+ },
+ {
+  "id": "mostly-adv",
+  "headword": "mostly",
+  "pos": "adverb",
+  "example": "Our class is mostly girls; there are only three boys."
+ },
+ {
+  "id": "motorway-n",
+  "headword": "motorway",
+  "pos": "noun",
+  "example": "We drove fast on the motorway to London."
+ },
+ {
+  "id": "move-v",
+  "headword": "move",
+  "pos": "verb",
+  "example": "Can you help me move this chair to the kitchen?"
+ },
+ {
+  "id": "mp3-player-n",
+  "headword": "MP3 player",
+  "pos": "noun",
+  "example": "I listen to music on my MP3 player on the bus."
+ },
+ {
+  "id": "ms-n",
+  "headword": "Ms.",
+  "pos": "noun",
+  "example": "The letter was for Ms. Brown, our new teacher."
+ },
+ {
+  "id": "mug-n",
+  "headword": "mug",
+  "pos": "noun",
+  "example": "He drinks his coffee from a big blue mug."
+ },
+ {
+  "id": "murder-n",
+  "headword": "murder",
+  "pos": "noun",
+  "example": "The police are looking for the man who did the murder."
+ },
+ {
+  "id": "museum-n",
+  "headword": "museum",
+  "pos": "noun",
+  "example": "We saw old paintings at the art museum."
+ },
+ {
+  "id": "mushroom-n",
+  "headword": "mushroom",
+  "pos": "noun",
+  "example": "I put mushrooms and cheese on my pizza."
+ },
+ {
+  "id": "musical-adj",
+  "headword": "musical",
+  "pos": "adjective",
+  "example": "The piano and the guitar are musical instruments."
+ },
+ {
+  "id": "myself-pron",
+  "headword": "myself",
+  "pos": "pronoun",
+  "example": "I cut myself with a knife in the kitchen."
+ },
+ {
+  "id": "mysterious-adj",
+  "headword": "mysterious",
+  "pos": "adjective",
+  "example": "A mysterious man in a black coat waited outside."
+ },
+ {
+  "id": "mystery-n",
+  "headword": "mystery",
+  "pos": "noun",
+  "example": "Where my cat goes at night is a mystery."
+ },
+ {
+  "id": "napkin-n",
+  "headword": "napkin",
+  "pos": "noun",
+  "example": "He cleaned his mouth with a paper napkin."
+ },
+ {
+  "id": "nation-n",
+  "headword": "nation",
+  "pos": "noun",
+  "example": "Many nations sent sportsmen to the games."
+ },
+ {
+  "id": "national-adj",
+  "headword": "national",
+  "pos": "adjective",
+  "example": "Football is the national sport of Brazil."
+ },
+ {
+  "id": "native-adj",
+  "headword": "native",
+  "pos": "adjective",
+  "example": "Her native language is Spanish, but she speaks English well."
+ },
+ {
+  "id": "natural-adj",
+  "headword": "natural",
+  "pos": "adjective",
+  "example": "This juice has no sugar; it is completely natural."
+ },
+ {
+  "id": "nature-n",
+  "headword": "nature",
+  "pos": "noun",
+  "example": "I love walking in the forest and being close to nature."
+ },
+ {
+  "id": "nearly-adv",
+  "headword": "nearly",
+  "pos": "adverb",
+  "example": "It's nearly ten o'clock, so we must go now."
+ },
+ {
+  "id": "necessary-adj",
+  "headword": "necessary",
+  "pos": "adjective",
+  "example": "Is it necessary to bring a passport for the trip?"
+ },
+ {
+  "id": "need-v",
+  "headword": "need",
+  "pos": "verb",
+  "example": "I need some money to buy a new bike."
+ },
+ {
+  "id": "negative-adj",
+  "headword": "negative",
+  "pos": "adjective",
+  "example": "He is always negative and never sees the good side."
+ },
+ {
+  "id": "nervous-adj",
+  "headword": "nervous",
+  "pos": "adjective",
+  "example": "I felt nervous before my first day at the new job."
+ },
+ {
+  "id": "net-adj",
+  "headword": "net",
+  "pos": "adjective",
+  "example": "The net weight of the bag of rice is one kilo."
+ },
+ {
+  "id": "next-adv",
+  "headword": "next",
+  "pos": "adverb",
+  "example": "First we had dinner, and next we watched a film."
+ },
+ {
+  "id": "next-det",
+  "headword": "next",
+  "pos": "determiner",
+  "example": "We are going to Paris next week."
+ },
+ {
+  "id": "next-to-prep",
+  "headword": "next to",
+  "pos": "preposition",
+  "example": "The bank is next to the post office."
+ },
+ {
+  "id": "no-one-pron",
+  "headword": "no one",
+  "pos": "pronoun",
+  "example": "I called, but no one answered the phone."
+ },
+ {
+  "id": "nobody-pron",
+  "headword": "nobody",
+  "pos": "pronoun",
+  "example": "The shop was empty; nobody was inside."
+ },
+ {
+  "id": "noisy-adj",
+  "headword": "noisy",
+  "pos": "adjective",
+  "example": "The street is very noisy because of the traffic."
+ },
+ {
+  "id": "noon-n",
+  "headword": "noon",
+  "pos": "noun",
+  "example": "The train leaves at noon, so we eat lunch on it."
+ },
+ {
+  "id": "normal-adj",
+  "headword": "normal",
+  "pos": "adjective",
+  "example": "It's normal to feel tired after a long day."
+ },
+ {
+  "id": "north-adj",
+  "headword": "north",
+  "pos": "adjective",
+  "example": "It is very cold on the north coast in winter."
+ },
+ {
+  "id": "north-adv",
+  "headword": "north",
+  "pos": "adverb",
+  "example": "We drove north for three hours to the mountains."
+ },
+ {
+  "id": "north-n",
+  "headword": "north",
+  "pos": "noun",
+  "example": "Scotland is in the north of Great Britain."
+ },
+ {
+  "id": "notice-n",
+  "headword": "notice",
+  "pos": "noun",
+  "example": "A notice on the door said the shop was closed."
+ },
+ {
+  "id": "noun-n",
+  "headword": "noun",
+  "pos": "noun",
+  "example": "In the sentence \"The dog runs\", \"dog\" is a noun."
+ },
+ {
+  "id": "novel-n",
+  "headword": "novel",
+  "pos": "noun",
+  "example": "She read a long novel about a family in Spain."
+ },
+ {
+  "id": "nowadays-adv",
+  "headword": "nowadays",
+  "pos": "adverb",
+  "example": "Nowadays most people have a phone in their pocket."
+ },
+ {
+  "id": "oak-n",
+  "headword": "oak",
+  "pos": "noun",
+  "example": "A big old oak grows in the middle of the park."
+ },
+ {
+  "id": "occupation-n",
+  "headword": "occupation",
+  "pos": "noun",
+  "example": "Write your name, age and occupation on the form."
+ },
+ {
+  "id": "off-adv",
+  "headword": "off",
+  "pos": "adverb",
+  "example": "Please turn the lights off when you leave the room."
+ },
+ {
+  "id": "offer-n",
+  "headword": "offer",
+  "pos": "noun",
+  "example": "There is a special offer: two pizzas for ten euros."
+ },
+ {
+  "id": "offer-v",
+  "headword": "offer",
+  "pos": "verb",
+  "example": "She offered me a cup of tea when I arrived."
+ },
+ {
+  "id": "official-adj",
+  "headword": "official",
+  "pos": "adjective",
+  "example": "English and French are the official languages of Canada."
+ },
+ {
+  "id": "oil-n",
+  "headword": "oil",
+  "pos": "noun",
+  "example": "Put some oil in the pan before you cook the eggs."
+ },
+ {
+  "id": "olive-oil-n",
+  "headword": "olive oil",
+  "pos": "noun",
+  "example": "I always make salad with olive oil and lemon."
+ },
+ {
+  "id": "olympic-adj",
+  "headword": "Olympic",
+  "pos": "adjective",
+  "example": "He won a race at the Olympic Games in 2012."
+ },
+ {
+  "id": "omelet-n",
+  "headword": "omelet",
+  "pos": "noun",
+  "example": "I made an omelet with three eggs and some cheese."
+ },
+ {
+  "id": "on-adv",
+  "headword": "on",
+  "pos": "adverb",
+  "example": "Is the TV on? I can hear music."
+ },
+ {
+  "id": "one-pron",
+  "headword": "one",
+  "pos": "pronoun",
+  "example": "I don't like this shirt, but I like the blue one."
+ },
+ {
+  "id": "onion-n",
+  "headword": "onion",
+  "pos": "noun",
+  "example": "Cutting an onion always makes me cry."
+ },
+ {
+  "id": "online-adj",
+  "headword": "online",
+  "pos": "adjective",
+  "example": "I did an online course to learn Italian."
+ },
+ {
+  "id": "online-adv",
+  "headword": "online",
+  "pos": "adverb",
+  "example": "I bought my train tickets online last night."
+ },
+ {
+  "id": "operate-v",
+  "headword": "operate",
+  "pos": "verb",
+  "example": "Can you show me how to operate this machine?"
+ },
+ {
+  "id": "opinion-n",
+  "headword": "opinion",
+  "pos": "noun",
+  "example": "In my opinion, this is the best film of the year."
+ },
+ {
+  "id": "opportunity-n",
+  "headword": "opportunity",
+  "pos": "noun",
+  "example": "Living in London is a great opportunity to practise English."
+ },
+ {
+  "id": "oppose-v",
+  "headword": "oppose",
+  "pos": "verb",
+  "example": "Many people oppose the plan to close the hospital."
+ },
+ {
+  "id": "opposite-adj",
+  "headword": "opposite",
+  "pos": "adjective",
+  "example": "She lives on the opposite side of the street."
+ },
+ {
+  "id": "opposite-prep",
+  "headword": "opposite",
+  "pos": "preposition",
+  "example": "The café is opposite the station, across the road."
+ },
+ {
+  "id": "order-v",
+  "headword": "order",
+  "pos": "verb",
+  "example": "We ordered two pizzas and a salad at the restaurant."
+ },
+ {
+  "id": "organize-v",
+  "headword": "organize",
+  "pos": "verb",
+  "example": "My sister organized a big party for my birthday."
+ }
+]

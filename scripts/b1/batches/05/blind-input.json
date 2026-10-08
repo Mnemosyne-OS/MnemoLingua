@@ -1,0 +1,572 @@
+[
+ {
+  "id": "classify-v",
+  "headword": "classify",
+  "pos": "verb",
+  "example": "Scientists classify animals into groups by the way they live."
+ },
+ {
+  "id": "clear-v",
+  "headword": "clear",
+  "pos": "verb",
+  "example": "Can you help me clear the table after dinner?"
+ },
+ {
+  "id": "click-n",
+  "headword": "click",
+  "pos": "noun",
+  "example": "I heard a click when the door locked behind me."
+ },
+ {
+  "id": "cliff-n",
+  "headword": "cliff",
+  "pos": "noun",
+  "example": "We walked along the top of the cliff above the sea."
+ },
+ {
+  "id": "climate-n",
+  "headword": "climate",
+  "pos": "noun",
+  "example": "Spain has a warm climate, so it rarely snows on the coast."
+ },
+ {
+  "id": "climber-n",
+  "headword": "climber",
+  "pos": "noun",
+  "example": "The climber reached the top of the mountain after six hours."
+ },
+ {
+  "id": "clinic-n",
+  "headword": "clinic",
+  "pos": "noun",
+  "example": "She went to the clinic because she had a bad cough."
+ },
+ {
+  "id": "clip-n",
+  "headword": "clip",
+  "pos": "noun",
+  "example": "He showed us a short video clip of his holiday."
+ },
+ {
+  "id": "closely-adv",
+  "headword": "closely",
+  "pos": "adverb",
+  "example": "Watch closely, because I will only show you once."
+ },
+ {
+  "id": "coal-n",
+  "headword": "coal",
+  "pos": "noun",
+  "example": "In the past, many houses were heated with coal."
+ },
+ {
+  "id": "coast-v",
+  "headword": "coast",
+  "pos": "verb",
+  "example": "I stopped pedalling and let my bike coast down the hill."
+ },
+ {
+  "id": "coastal-adj",
+  "headword": "coastal",
+  "pos": "adjective",
+  "example": "They live in a small coastal town with a beautiful beach."
+ },
+ {
+  "id": "cod-n",
+  "headword": "cod",
+  "pos": "noun",
+  "example": "We had cod and chips at a restaurant by the sea."
+ },
+ {
+  "id": "coffin-n",
+  "headword": "coffin",
+  "pos": "noun",
+  "example": "Six men carried the coffin into the church."
+ },
+ {
+  "id": "collapse-n",
+  "headword": "collapse",
+  "pos": "noun",
+  "example": "The collapse of the old bridge closed the road for months."
+ },
+ {
+  "id": "collar-n",
+  "headword": "collar",
+  "pos": "noun",
+  "example": "The collar of this shirt is too tight for me."
+ },
+ {
+  "id": "columnist-n",
+  "headword": "columnist",
+  "pos": "noun",
+  "example": "She is a columnist who writes about food for a newspaper."
+ },
+ {
+  "id": "combination-n",
+  "headword": "combination",
+  "pos": "noun",
+  "example": "Green is a combination of blue and yellow."
+ },
+ {
+  "id": "combine-v",
+  "headword": "combine",
+  "pos": "verb",
+  "example": "Combine the flour and the eggs in a large bowl."
+ },
+ {
+  "id": "comedian-n",
+  "headword": "comedian",
+  "pos": "noun",
+  "example": "The comedian told jokes and everyone laughed all night."
+ },
+ {
+  "id": "comedy-n",
+  "headword": "comedy",
+  "pos": "noun",
+  "example": "I want to watch a comedy tonight because I need a laugh."
+ },
+ {
+  "id": "comet-n",
+  "headword": "comet",
+  "pos": "noun",
+  "example": "A comet with a long bright tail crossed the night sky."
+ },
+ {
+  "id": "comfort-n",
+  "headword": "comfort",
+  "pos": "noun",
+  "example": "These shoes are made for comfort, not for style."
+ },
+ {
+  "id": "comma-n",
+  "headword": "comma",
+  "pos": "noun",
+  "example": "You need a comma between the two parts of this sentence."
+ },
+ {
+  "id": "command-n",
+  "headword": "command",
+  "pos": "noun",
+  "example": "The dog sat down when it heard its owner's command."
+ },
+ {
+  "id": "comment-n",
+  "headword": "comment",
+  "pos": "noun",
+  "example": "She left a nice comment under my photo."
+ },
+ {
+  "id": "commercial-adj",
+  "headword": "commercial",
+  "pos": "adjective",
+  "example": "The old factory is now a busy commercial centre with many shops."
+ },
+ {
+  "id": "commit-v",
+  "headword": "commit",
+  "pos": "verb",
+  "example": "The police believe he did not commit the crime."
+ },
+ {
+  "id": "common-sense-n",
+  "headword": "common sense",
+  "pos": "noun",
+  "example": "Use your common sense and take an umbrella if it looks cloudy."
+ },
+ {
+  "id": "commonly-adv",
+  "headword": "commonly",
+  "pos": "adverb",
+  "example": "This plant is commonly found in gardens across Europe."
+ },
+ {
+  "id": "companion-n",
+  "headword": "companion",
+  "pos": "noun",
+  "example": "His dog was his only companion after his wife died."
+ },
+ {
+  "id": "comparison-n",
+  "headword": "comparison",
+  "pos": "noun",
+  "example": "In comparison with London, our town is very quiet."
+ },
+ {
+  "id": "compete-v",
+  "headword": "compete",
+  "pos": "verb",
+  "example": "Twenty runners will compete in the race on Sunday."
+ },
+ {
+  "id": "competitive-adj",
+  "headword": "competitive",
+  "pos": "adjective",
+  "example": "My brother is very competitive and hates losing at games."
+ },
+ {
+  "id": "competitor-n",
+  "headword": "competitor",
+  "pos": "noun",
+  "example": "Each competitor must wear a number on their shirt."
+ },
+ {
+  "id": "complement-n",
+  "headword": "complement",
+  "pos": "noun",
+  "example": "In the sentence 'She is a doctor', 'a doctor' is the complement."
+ },
+ {
+  "id": "complete-v",
+  "headword": "complete",
+  "pos": "verb",
+  "example": "Please complete the form and give it back to me."
+ },
+ {
+  "id": "completely-adv",
+  "headword": "completely",
+  "pos": "adverb",
+  "example": "I completely forgot about your birthday, I'm so sorry!"
+ },
+ {
+  "id": "complex-adj",
+  "headword": "complex",
+  "pos": "adjective",
+  "example": "The human brain is a very complex organ."
+ },
+ {
+  "id": "complicate-v",
+  "headword": "complicate",
+  "pos": "verb",
+  "example": "Please don't complicate things by changing the plan again."
+ },
+ {
+  "id": "complicated-adj",
+  "headword": "complicated",
+  "pos": "adjective",
+  "example": "The instructions were too complicated, so I asked for help."
+ },
+ {
+  "id": "compliment-n",
+  "headword": "compliment",
+  "pos": "noun",
+  "example": "He paid me a compliment on my new haircut."
+ },
+ {
+  "id": "compose-v",
+  "headword": "compose",
+  "pos": "verb",
+  "example": "Mozart started to compose music when he was five."
+ },
+ {
+  "id": "composition-n",
+  "headword": "composition",
+  "pos": "noun",
+  "example": "The students wrote a composition about their summer holidays."
+ },
+ {
+  "id": "compound-n",
+  "headword": "compound",
+  "pos": "noun",
+  "example": "Water is a compound of hydrogen and oxygen."
+ },
+ {
+  "id": "compromise-n",
+  "headword": "compromise",
+  "pos": "noun",
+  "example": "After a long discussion, we finally reached a compromise."
+ },
+ {
+  "id": "concentration-n",
+  "headword": "concentration",
+  "pos": "noun",
+  "example": "This difficult exercise needs a lot of concentration."
+ },
+ {
+  "id": "concept-n",
+  "headword": "concept",
+  "pos": "noun",
+  "example": "The concept of time is hard to explain to small children."
+ },
+ {
+  "id": "concerned-adj",
+  "headword": "concerned",
+  "pos": "adjective",
+  "example": "Her parents were concerned because she came home very late."
+ },
+ {
+  "id": "conclude-v",
+  "headword": "conclude",
+  "pos": "verb",
+  "example": "The teacher will conclude the lesson with a short test."
+ },
+ {
+  "id": "conclusion-n",
+  "headword": "conclusion",
+  "pos": "noun",
+  "example": "In the conclusion of your essay, repeat your main idea."
+ },
+ {
+  "id": "conduct-n",
+  "headword": "conduct",
+  "pos": "noun",
+  "example": "The player was sent off for bad conduct during the match."
+ },
+ {
+  "id": "confidence-n",
+  "headword": "confidence",
+  "pos": "noun",
+  "example": "Speaking in public gave her more confidence."
+ },
+ {
+  "id": "confirm-v",
+  "headword": "confirm",
+  "pos": "verb",
+  "example": "Please call the hotel to confirm our booking."
+ },
+ {
+  "id": "confirmation-n",
+  "headword": "confirmation",
+  "pos": "noun",
+  "example": "You will receive an email confirmation of your flight."
+ },
+ {
+  "id": "conflict-n",
+  "headword": "conflict",
+  "pos": "noun",
+  "example": "The conflict between the two countries lasted ten years."
+ },
+ {
+  "id": "confusing-adj",
+  "headword": "confusing",
+  "pos": "adjective",
+  "example": "The signs at the station were confusing, so we got lost."
+ },
+ {
+  "id": "confusion-n",
+  "headword": "confusion",
+  "pos": "noun",
+  "example": "There was some confusion about the time of the meeting."
+ },
+ {
+  "id": "congratulate-v",
+  "headword": "congratulate",
+  "pos": "verb",
+  "example": "We all wanted to congratulate her on her new job."
+ },
+ {
+  "id": "connect-v",
+  "headword": "connect",
+  "pos": "verb",
+  "example": "First, connect the printer to your computer with this cable."
+ },
+ {
+  "id": "connection-n",
+  "headword": "connection",
+  "pos": "noun",
+  "example": "The internet connection in this hotel is very slow."
+ },
+ {
+  "id": "conquer-v",
+  "headword": "conquer",
+  "pos": "verb",
+  "example": "The Romans wanted to conquer the whole of Britain."
+ },
+ {
+  "id": "conscious-adj",
+  "headword": "conscious",
+  "pos": "adjective",
+  "example": "After the accident, the driver was still conscious and could speak."
+ },
+ {
+  "id": "consequently-adv",
+  "headword": "consequently",
+  "pos": "adverb",
+  "example": "It rained all week; consequently, the match was cancelled."
+ },
+ {
+  "id": "conservation-n",
+  "headword": "conservation",
+  "pos": "noun",
+  "example": "The group works on the conservation of forests and wild animals."
+ },
+ {
+  "id": "conservative-adj",
+  "headword": "conservative",
+  "pos": "adjective",
+  "example": "My grandparents are quite conservative and don't like big changes."
+ },
+ {
+  "id": "considerable-adj",
+  "headword": "considerable",
+  "pos": "adjective",
+  "example": "Moving to another country costs a considerable amount of money."
+ },
+ {
+  "id": "consideration-n",
+  "headword": "consideration",
+  "pos": "noun",
+  "example": "After careful consideration, we decided to buy the smaller house."
+ },
+ {
+  "id": "consonant-n",
+  "headword": "consonant",
+  "pos": "noun",
+  "example": "The letter 'b' is a consonant, but 'a' is a vowel."
+ },
+ {
+  "id": "constantly-adv",
+  "headword": "constantly",
+  "pos": "adverb",
+  "example": "The baby cried constantly during the long flight."
+ },
+ {
+  "id": "constitute-v",
+  "headword": "constitute",
+  "pos": "verb",
+  "example": "Women constitute more than half of the workers in this company."
+ },
+ {
+  "id": "constitution-n",
+  "headword": "constitution",
+  "pos": "noun",
+  "example": "The constitution gives every citizen the right to vote."
+ },
+ {
+  "id": "construct-v",
+  "headword": "construct",
+  "pos": "verb",
+  "example": "They plan to construct a new bridge across the river."
+ },
+ {
+  "id": "construction-n",
+  "headword": "construction",
+  "pos": "noun",
+  "example": "The construction of the new hospital will take two years."
+ },
+ {
+  "id": "consume-v",
+  "headword": "consume",
+  "pos": "verb",
+  "example": "Old cars consume much more petrol than new ones."
+ },
+ {
+  "id": "consumer-n",
+  "headword": "consumer",
+  "pos": "noun",
+  "example": "Every consumer has the right to return a broken product."
+ },
+ {
+  "id": "consumption-n",
+  "headword": "consumption",
+  "pos": "noun",
+  "example": "We are trying to reduce our consumption of electricity at home."
+ },
+ {
+  "id": "contain-v",
+  "headword": "contain",
+  "pos": "verb",
+  "example": "This box contains old photos of my family."
+ },
+ {
+  "id": "content-n",
+  "headword": "content",
+  "pos": "noun",
+  "example": "The content of the course was interesting but quite difficult."
+ },
+ {
+  "id": "continual-adj",
+  "headword": "continual",
+  "pos": "adjective",
+  "example": "I can't work with these continual phone calls."
+ },
+ {
+  "id": "continually-adv",
+  "headword": "continually",
+  "pos": "adverb",
+  "example": "My neighbour continually complains about the noise."
+ },
+ {
+  "id": "continuous-adj",
+  "headword": "continuous",
+  "pos": "adjective",
+  "example": "There was continuous rain for three days."
+ },
+ {
+  "id": "continuously-adv",
+  "headword": "continuously",
+  "pos": "adverb",
+  "example": "The machine works continuously, day and night."
+ },
+ {
+  "id": "contrary-adj",
+  "headword": "contrary",
+  "pos": "adjective",
+  "example": "She always has a contrary opinion to mine."
+ },
+ {
+  "id": "contribute-v",
+  "headword": "contribute",
+  "pos": "verb",
+  "example": "Everyone will contribute ten euros for the teacher's present."
+ },
+ {
+  "id": "contribution-n",
+  "headword": "contribution",
+  "pos": "noun",
+  "example": "Thank you for your contribution to the school library."
+ },
+ {
+  "id": "control-v",
+  "headword": "control",
+  "pos": "verb",
+  "example": "You can control the lights in this room with your phone."
+ },
+ {
+  "id": "controversial-adj",
+  "headword": "controversial",
+  "pos": "adjective",
+  "example": "The new law is controversial, and many people disagree with it."
+ },
+ {
+  "id": "convey-v",
+  "headword": "convey",
+  "pos": "verb",
+  "example": "Music can convey feelings that words cannot express."
+ },
+ {
+  "id": "convince-v",
+  "headword": "convince",
+  "pos": "verb",
+  "example": "I tried to convince my dad to buy a dog."
+ },
+ {
+  "id": "copyright-n",
+  "headword": "copyright",
+  "pos": "noun",
+  "example": "You can't copy this book because the writer owns the copyright."
+ },
+ {
+  "id": "correction-n",
+  "headword": "correction",
+  "pos": "noun",
+  "example": "The teacher made a correction in red at the top of my page."
+ },
+ {
+  "id": "cotton-n",
+  "headword": "cotton",
+  "pos": "noun",
+  "example": "This T-shirt is made of soft cotton."
+ },
+ {
+  "id": "cough-v",
+  "headword": "cough",
+  "pos": "verb",
+  "example": "The smoke made me cough all night."
+ },
+ {
+  "id": "council-n",
+  "headword": "council",
+  "pos": "noun",
+  "example": "The town council decided to build a new park."
+ }
+]

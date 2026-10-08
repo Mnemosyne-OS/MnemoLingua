@@ -1,0 +1,1820 @@
+[
+ {
+  "id": "r001",
+  "headword": "plenty",
+  "pos": "pronoun",
+  "example": "Don't buy more bread. We have plenty at home.",
+  "fr": {
+   "wordA": "largement assez",
+   "wordB": "beaucoup",
+   "exampleA": "N'achète pas plus de pain. On en a largement assez à la maison.",
+   "exampleB": "N'achète pas plus de pain. On en a plein à la maison."
+  },
+  "es": {
+   "wordA": "de sobra",
+   "wordB": "de sobra",
+   "exampleA": "No compres más pan. Tenemos de sobra en casa.",
+   "exampleB": "No compres más pan. Tenemos de sobra en casa."
+  }
+ },
+ {
+  "id": "r002",
+  "headword": "plug",
+  "pos": "noun",
+  "example": "The plug on this lamp doesn't fit the socket in Spain.",
+  "fr": {
+   "wordA": "la prise (fiche)",
+   "wordB": "la prise",
+   "exampleA": "La prise de cette lampe ne rentre pas dans les prises espagnoles.",
+   "exampleB": "La prise de cette lampe ne rentre pas dans les prises espagnoles."
+  },
+  "es": {
+   "wordA": "el enchufe",
+   "wordB": "el enchufe",
+   "exampleA": "El enchufe de esta lámpara no encaja en los enchufes de España.",
+   "exampleB": "El enchufe de esta lámpara no encaja en los enchufes de España."
+  }
+ },
+ {
+  "id": "r003",
+  "headword": "plus",
+  "pos": "conjunction",
+  "example": "The hotel was cheap, plus it was close to the beach.",
+  "fr": {
+   "wordA": "en plus",
+   "wordB": "en plus",
+   "exampleA": "L'hôtel n'était pas cher, et en plus il était près de la plage.",
+   "exampleB": "L'hôtel n'était pas cher, et en plus il était près de la plage."
+  },
+  "es": {
+   "wordA": "además",
+   "wordB": "además",
+   "exampleA": "El hotel era barato y, además, estaba cerca de la playa.",
+   "exampleB": "El hotel era barato y, además, estaba cerca de la playa."
+  }
+ },
+ {
+  "id": "r004",
+  "headword": "pocket money",
+  "pos": "noun",
+  "example": "My parents give me ten euros of pocket money every week.",
+  "fr": {
+   "wordA": "l'argent de poche",
+   "wordB": "l'argent de poche",
+   "exampleA": "Mes parents me donnent dix euros d'argent de poche par semaine.",
+   "exampleB": "Mes parents me donnent dix euros d'argent de poche chaque semaine."
+  },
+  "es": {
+   "wordA": "la paga",
+   "wordB": "la paga",
+   "exampleA": "Mis padres me dan diez euros de paga cada semana.",
+   "exampleB": "Mis padres me dan diez euros de paga cada semana."
+  }
+ },
+ {
+  "id": "r005",
+  "headword": "poet",
+  "pos": "noun",
+  "example": "The poet read his new poems to a small audience.",
+  "fr": {
+   "wordA": "le poète",
+   "wordB": "le poète",
+   "exampleA": "Le poète a lu ses nouveaux poèmes devant un petit public.",
+   "exampleB": "Le poète a lu ses nouveaux poèmes devant un petit public."
+  },
+  "es": {
+   "wordA": "el poeta",
+   "wordB": "el poeta",
+   "exampleA": "El poeta leyó sus nuevos poemas ante un público reducido.",
+   "exampleB": "El poeta leyó sus nuevos poemas ante un público reducido."
+  }
+ },
+ {
+  "id": "r006",
+  "headword": "poetry",
+  "pos": "noun",
+  "example": "She enjoys reading poetry, especially poems about nature.",
+  "fr": {
+   "wordA": "la poésie",
+   "wordB": "la poésie",
+   "exampleA": "Elle aime lire de la poésie, surtout des poèmes sur la nature.",
+   "exampleB": "Elle aime lire de la poésie, surtout des poèmes sur la nature."
+  },
+  "es": {
+   "wordA": "la poesía",
+   "wordB": "la poesía",
+   "exampleA": "Le gusta leer poesía, sobre todo poemas sobre la naturaleza.",
+   "exampleB": "Le gusta leer poesía, sobre todo poemas sobre la naturaleza."
+  }
+ },
+ {
+  "id": "r007",
+  "headword": "poison",
+  "pos": "noun",
+  "example": "Keep the rat poison away from children and pets.",
+  "fr": {
+   "wordA": "le poison",
+   "wordB": "le poison",
+   "exampleA": "Garde la mort-aux-rats hors de portée des enfants et des animaux.",
+   "exampleB": "Garde la mort-aux-rats hors de portée des enfants et des animaux."
+  },
+  "es": {
+   "wordA": "el veneno",
+   "wordB": "el veneno",
+   "exampleA": "Mantén el veneno para ratas lejos de los niños y las mascotas.",
+   "exampleB": "Mantén el veneno para ratas lejos de los niños y las mascotas."
+  }
+ },
+ {
+  "id": "r008",
+  "headword": "hand",
+  "pos": "noun",
+  "example": "I write with my right hand.",
+  "fr": {
+   "wordA": "la main",
+   "wordB": "la main",
+   "exampleA": "Qu'est-ce que c'est, ça ? C'est un oiseau.",
+   "exampleB": "J'écris avec la main droite."
+  },
+  "es": {
+   "wordA": "la mano",
+   "wordB": "la mano",
+   "exampleA": "Escribo con la mano derecha.",
+   "exampleB": "Escribo con la mano derecha."
+  }
+ },
+ {
+  "id": "r009",
+  "headword": "poisonous",
+  "pos": "adjective",
+  "example": "Don't eat those mushrooms because some of them are poisonous.",
+  "fr": {
+   "wordA": "vénéneux",
+   "wordB": "toxique",
+   "exampleA": "Ne mange pas ces champignons, certains sont vénéneux.",
+   "exampleB": "Ne mange pas ces champignons, certains sont toxiques."
+  },
+  "es": {
+   "wordA": "venenoso",
+   "wordB": "venenoso",
+   "exampleA": "No comas esas setas porque algunas son venenosas.",
+   "exampleB": "No comas esas setas, porque algunas son venenosas."
+  }
+ },
+ {
+  "id": "r010",
+  "headword": "pole",
+  "pos": "noun",
+  "example": "They hung the flag at the top of a tall pole.",
+  "fr": {
+   "wordA": "le mât",
+   "wordB": "le mât",
+   "exampleA": "Ils ont hissé le drapeau en haut d'un grand mât.",
+   "exampleB": "Ils ont hissé le drapeau en haut d'un grand mât."
+  },
+  "es": {
+   "wordA": "el mástil",
+   "wordB": "el mástil",
+   "exampleA": "Colgaron la bandera en lo alto de un mástil alto.",
+   "exampleB": "Colgaron la bandera en lo alto de un mástil alto."
+  }
+ },
+ {
+  "id": "r011",
+  "headword": "policy",
+  "pos": "noun",
+  "example": "The company has a new policy on working from home.",
+  "fr": {
+   "wordA": "la politique",
+   "wordB": "la politique (règle)",
+   "exampleA": "L'entreprise a une nouvelle politique sur le télétravail.",
+   "exampleB": "L'entreprise a une nouvelle politique sur le télétravail."
+  },
+  "es": {
+   "wordA": "la política",
+   "wordB": "la política",
+   "exampleA": "La empresa tiene una nueva política sobre el teletrabajo.",
+   "exampleB": "La empresa tiene una nueva política sobre el teletrabajo."
+  }
+ },
+ {
+  "id": "r012",
+  "headword": "politely",
+  "pos": "adverb",
+  "example": "He politely asked the waiter for another glass of water.",
+  "fr": {
+   "wordA": "poliment",
+   "wordB": "poliment",
+   "exampleA": "Il a poliment demandé un autre verre d'eau au serveur.",
+   "exampleB": "Il a poliment demandé un autre verre d'eau au serveur."
+  },
+  "es": {
+   "wordA": "educadamente",
+   "wordB": "educadamente",
+   "exampleA": "Le pidió educadamente otro vaso de agua al camarero.",
+   "exampleB": "Le pidió educadamente otro vaso de agua al camarero."
+  }
+ },
+ {
+  "id": "r013",
+  "headword": "politician",
+  "pos": "noun",
+  "example": "The politician promised to build a new hospital in the town.",
+  "fr": {
+   "wordA": "l'homme politique",
+   "wordB": "l'homme politique",
+   "exampleA": "L'homme politique a promis de construire un nouvel hôpital dans la ville.",
+   "exampleB": "L'homme politique a promis de construire un nouvel hôpital en ville."
+  },
+  "es": {
+   "wordA": "el político",
+   "wordB": "el político",
+   "exampleA": "El político prometió construir un hospital nuevo en el pueblo.",
+   "exampleB": "El político prometió construir un nuevo hospital en la ciudad."
+  }
+ },
+ {
+  "id": "r014",
+  "headword": "politics",
+  "pos": "noun",
+  "example": "My uncle loves talking about politics at family dinners.",
+  "fr": {
+   "wordA": "la politique",
+   "wordB": "la politique",
+   "exampleA": "Mon oncle adore parler de politique aux repas de famille.",
+   "exampleB": "Mon oncle adore parler de politique pendant les repas de famille."
+  },
+  "es": {
+   "wordA": "la política",
+   "wordB": "la política",
+   "exampleA": "A mi tío le encanta hablar de política en las comidas familiares.",
+   "exampleB": "A mi tío le encanta hablar de política en las comidas familiares."
+  }
+ },
+ {
+  "id": "r015",
+  "headword": "pollutant",
+  "pos": "noun",
+  "example": "Cars produce pollutants that make the air dirty.",
+  "fr": {
+   "wordA": "le polluant",
+   "wordB": "le polluant",
+   "exampleA": "Les voitures produisent des polluants qui salissent l'air.",
+   "exampleB": "Les voitures produisent des polluants qui salissent l'air."
+  },
+  "es": {
+   "wordA": "el contaminante",
+   "wordB": "el contaminante",
+   "exampleA": "Los coches producen contaminantes que ensucian el aire.",
+   "exampleB": "Los coches producen contaminantes que ensucian el aire."
+  }
+ },
+ {
+  "id": "r016",
+  "headword": "pond",
+  "pos": "noun",
+  "example": "There are fish and frogs in the pond in the park.",
+  "fr": {
+   "wordA": "l'étang",
+   "wordB": "l'étang",
+   "exampleA": "Il y a des poissons et des grenouilles dans l'étang du parc.",
+   "exampleB": "Il y a des poissons et des grenouilles dans l'étang du parc."
+  },
+  "es": {
+   "wordA": "el estanque",
+   "wordB": "el estanque",
+   "exampleA": "Hay peces y ranas en el estanque del parque.",
+   "exampleB": "Hay peces y ranas en el estanque del parque."
+  }
+ },
+ {
+  "id": "r017",
+  "headword": "popcorn",
+  "pos": "noun",
+  "example": "We always buy a big box of popcorn at the cinema.",
+  "fr": {
+   "wordA": "le pop-corn",
+   "wordB": "le pop-corn",
+   "exampleA": "On achète toujours une grande boîte de pop-corn au cinéma.",
+   "exampleB": "On achète toujours une grande boîte de pop-corn au cinéma."
+  },
+  "es": {
+   "wordA": "las palomitas",
+   "wordB": "las palomitas",
+   "exampleA": "Siempre compramos una caja grande de palomitas en el cine.",
+   "exampleB": "Siempre compramos una caja grande de palomitas en el cine."
+  }
+ },
+ {
+  "id": "r018",
+  "headword": "pork",
+  "pos": "noun",
+  "example": "We had roast pork with potatoes for Sunday lunch.",
+  "fr": {
+   "wordA": "le porc",
+   "wordB": "le porc",
+   "exampleA": "Nous avons mangé du rôti de porc avec des pommes de terre au déjeuner du dimanche.",
+   "exampleB": "Nous avons mangé du rôti de porc avec des pommes de terre le dimanche midi."
+  },
+  "es": {
+   "wordA": "el cerdo",
+   "wordB": "el cerdo",
+   "exampleA": "Comimos cerdo asado con patatas el domingo a mediodía.",
+   "exampleB": "Comimos cerdo asado con patatas en la comida del domingo."
+  }
+ },
+ {
+  "id": "r019",
+  "headword": "port",
+  "pos": "noun",
+  "example": "The ship stayed in the port for two days.",
+  "fr": {
+   "wordA": "le port",
+   "wordB": "le port",
+   "exampleA": "Le navire est resté deux jours au port.",
+   "exampleB": "Le bateau est resté au port pendant deux jours."
+  },
+  "es": {
+   "wordA": "el puerto",
+   "wordB": "el puerto",
+   "exampleA": "El barco se quedó en el puerto dos días.",
+   "exampleB": "El barco se quedó dos días en el puerto."
+  }
+ },
+ {
+  "id": "r020",
+  "headword": "positive",
+  "pos": "adjective",
+  "example": "Try to stay positive, even when things go wrong.",
+  "fr": {
+   "wordA": "positif",
+   "wordB": "positif",
+   "exampleA": "Essaie de rester positif, même quand les choses tournent mal.",
+   "exampleB": "Essaie de rester positif, même quand les choses tournent mal."
+  },
+  "es": {
+   "wordA": "positivo",
+   "wordB": "positivo",
+   "exampleA": "Intenta mantenerte positivo, incluso cuando las cosas salen mal.",
+   "exampleB": "Intenta ser positivo, incluso cuando las cosas van mal."
+  }
+ },
+ {
+  "id": "r021",
+  "headword": "positively",
+  "pos": "adverb",
+  "example": "The students reacted positively to the new timetable.",
+  "fr": {
+   "wordA": "positivement",
+   "wordB": "positivement",
+   "exampleA": "Les élèves ont réagi positivement au nouvel emploi du temps.",
+   "exampleB": "Les élèves ont réagi positivement au nouvel emploi du temps."
+  },
+  "es": {
+   "wordA": "positivamente",
+   "wordB": "positivamente",
+   "exampleA": "Los alumnos reaccionaron positivamente al nuevo horario.",
+   "exampleB": "Los alumnos reaccionaron positivamente al nuevo horario."
+  }
+ },
+ {
+  "id": "r022",
+  "headword": "possess",
+  "pos": "verb",
+  "example": "He doesn't possess a car, so he goes everywhere by bike.",
+  "fr": {
+   "wordA": "posséder",
+   "wordB": "posséder",
+   "exampleA": "Il ne possède pas de voiture, alors il se déplace partout à vélo.",
+   "exampleB": "Il ne possède pas de voiture, alors il va partout à vélo."
+  },
+  "es": {
+   "wordA": "poseer",
+   "wordB": "tener",
+   "exampleA": "No tiene coche, así que va a todas partes en bici.",
+   "exampleB": "No tiene coche, así que va a todas partes en bici."
+  }
+ },
+ {
+  "id": "r023",
+  "headword": "possession",
+  "pos": "noun",
+  "example": "The old watch is my most valuable possession.",
+  "fr": {
+   "wordA": "le bien",
+   "wordB": "le bien",
+   "exampleA": "Cette vieille montre est mon bien le plus précieux.",
+   "exampleB": "Cette vieille montre est mon bien le plus précieux."
+  },
+  "es": {
+   "wordA": "la posesión",
+   "wordB": "la posesión",
+   "exampleA": "El reloj viejo es mi posesión más valiosa.",
+   "exampleB": "El reloj viejo es mi posesión más valiosa."
+  }
+ },
+ {
+  "id": "r024",
+  "headword": "possessive",
+  "pos": "adjective",
+  "example": "She left him because he was too possessive and jealous.",
+  "fr": {
+   "wordA": "possessif",
+   "wordB": "possessif",
+   "exampleA": "Elle l'a quitté parce qu'il était trop possessif et jaloux.",
+   "exampleB": "Elle l'a quitté parce qu'il était trop possessif et jaloux."
+  },
+  "es": {
+   "wordA": "posesivo",
+   "wordB": "posesivo",
+   "exampleA": "Lo dejó porque era demasiado posesivo y celoso.",
+   "exampleB": "Lo dejó porque era demasiado posesivo y celoso."
+  }
+ },
+ {
+  "id": "r025",
+  "headword": "possibility",
+  "pos": "noun",
+  "example": "There is a possibility of rain this afternoon.",
+  "fr": {
+   "wordA": "la possibilité",
+   "wordB": "la possibilité",
+   "exampleA": "Il est possible qu'il pleuve cet après-midi.",
+   "exampleB": "Il y a un risque de pluie cet après-midi."
+  },
+  "es": {
+   "wordA": "la posibilidad",
+   "wordB": "la posibilidad",
+   "exampleA": "Hay posibilidad de lluvia esta tarde.",
+   "exampleB": "Hay posibilidad de lluvia esta tarde."
+  }
+ },
+ {
+  "id": "r026",
+  "headword": "postcard",
+  "pos": "noun",
+  "example": "I sent my grandmother a postcard from the beach.",
+  "fr": {
+   "wordA": "la carte postale",
+   "wordB": "la carte postale",
+   "exampleA": "J'ai envoyé une carte postale de la plage à ma grand-mère.",
+   "exampleB": "J'ai envoyé une carte postale de la plage à ma grand-mère."
+  },
+  "es": {
+   "wordA": "la postal",
+   "wordB": "la postal",
+   "exampleA": "Le mandé una postal a mi abuela desde la playa.",
+   "exampleB": "Le mandé una postal a mi abuela desde la playa."
+  }
+ },
+ {
+  "id": "r027",
+  "headword": "postman",
+  "pos": "noun",
+  "example": "The postman brings our letters at ten every morning.",
+  "fr": {
+   "wordA": "le facteur",
+   "wordB": "le facteur",
+   "exampleA": "Le facteur nous apporte le courrier tous les matins à dix heures.",
+   "exampleB": "Le facteur apporte notre courrier tous les matins à dix heures."
+  },
+  "es": {
+   "wordA": "el cartero",
+   "wordB": "el cartero",
+   "exampleA": "El cartero nos trae las cartas todas las mañanas a las diez.",
+   "exampleB": "El cartero nos trae las cartas cada mañana a las diez."
+  }
+ },
+ {
+  "id": "r028",
+  "headword": "pot",
+  "pos": "noun",
+  "example": "She cooked the soup in a large pot.",
+  "fr": {
+   "wordA": "la marmite",
+   "wordB": "la marmite",
+   "exampleA": "Elle a fait cuire la soupe dans une grande marmite.",
+   "exampleB": "Elle a fait cuire la soupe dans une grande marmite."
+  },
+  "es": {
+   "wordA": "la olla",
+   "wordB": "la olla",
+   "exampleA": "Hizo la sopa en una olla grande.",
+   "exampleB": "Hizo la sopa en una olla grande."
+  }
+ },
+ {
+  "id": "r029",
+  "headword": "potential",
+  "pos": "noun",
+  "example": "The coach thinks the young player has great potential.",
+  "fr": {
+   "wordA": "le potentiel",
+   "wordB": "le potentiel",
+   "exampleA": "L'entraîneur pense que le jeune joueur a un grand potentiel.",
+   "exampleB": "L'entraîneur pense que le jeune joueur a un grand potentiel."
+  },
+  "es": {
+   "wordA": "el potencial",
+   "wordB": "el potencial",
+   "exampleA": "El entrenador cree que el joven jugador tiene mucho potencial.",
+   "exampleB": "El entrenador cree que el joven jugador tiene mucho potencial."
+  }
+ },
+ {
+  "id": "r030",
+  "headword": "pottery",
+  "pos": "noun",
+  "example": "We bought some beautiful pottery at the market in Greece.",
+  "fr": {
+   "wordA": "la poterie",
+   "wordB": "la poterie",
+   "exampleA": "Nous avons acheté de belles poteries au marché en Grèce.",
+   "exampleB": "Nous avons acheté de belles poteries au marché en Grèce."
+  },
+  "es": {
+   "wordA": "la cerámica",
+   "wordB": "la cerámica",
+   "exampleA": "Compramos cerámica preciosa en el mercado en Grecia.",
+   "exampleB": "Compramos una cerámica preciosa en el mercado en Grecia."
+  }
+ },
+ {
+  "id": "r031",
+  "headword": "pound",
+  "pos": "noun",
+  "example": "This sandwich costs four pounds in London.",
+  "fr": {
+   "wordA": "la livre",
+   "wordB": "la livre",
+   "exampleA": "Ce sandwich coûte quatre livres à Londres.",
+   "exampleB": "Ce sandwich coûte quatre livres à Londres."
+  },
+  "es": {
+   "wordA": "la libra",
+   "wordB": "la libra",
+   "exampleA": "Este sándwich cuesta cuatro libras en Londres.",
+   "exampleB": "Este bocadillo cuesta cuatro libras en Londres."
+  }
+ },
+ {
+  "id": "r032",
+  "headword": "poverty",
+  "pos": "noun",
+  "example": "Many families in the city live in poverty.",
+  "fr": {
+   "wordA": "la pauvreté",
+   "wordB": "la pauvreté",
+   "exampleA": "Beaucoup de familles de la ville vivent dans la pauvreté.",
+   "exampleB": "Beaucoup de familles de la ville vivent dans la pauvreté."
+  },
+  "es": {
+   "wordA": "la pobreza",
+   "wordB": "la pobreza",
+   "exampleA": "Muchas familias de la ciudad viven en la pobreza.",
+   "exampleB": "Muchas familias de la ciudad viven en la pobreza."
+  }
+ },
+ {
+  "id": "r033",
+  "headword": "powder",
+  "pos": "noun",
+  "example": "Put two spoons of washing powder in the machine.",
+  "fr": {
+   "wordA": "la poudre",
+   "wordB": "la poudre",
+   "exampleA": "Mets deux cuillères de lessive en poudre dans la machine.",
+   "exampleB": "Mets deux cuillerées de lessive en poudre dans la machine."
+  },
+  "es": {
+   "wordA": "el polvo",
+   "wordB": "el polvo",
+   "exampleA": "Echa dos cucharadas de detergente en polvo en la lavadora.",
+   "exampleB": "Echa dos cucharadas de detergente en polvo en la lavadora."
+  }
+ },
+ {
+  "id": "r034",
+  "headword": "practical",
+  "pos": "adjective",
+  "example": "Trainers are more practical than high heels for a long walk.",
+  "fr": {
+   "wordA": "pratique",
+   "wordB": "pratique",
+   "exampleA": "Les baskets sont plus pratiques que les talons hauts pour une longue marche.",
+   "exampleB": "Les baskets sont plus pratiques que les talons pour une longue marche."
+  },
+  "es": {
+   "wordA": "práctico",
+   "wordB": "práctico",
+   "exampleA": "Las zapatillas son más prácticas que los tacones para un paseo largo.",
+   "exampleB": "Las zapatillas son más prácticas que los tacones para una caminata larga."
+  }
+ },
+ {
+  "id": "r035",
+  "headword": "praise",
+  "pos": "noun",
+  "example": "The young chef received a lot of praise for his cooking.",
+  "fr": {
+   "wordA": "les éloges",
+   "wordB": "les éloges",
+   "exampleA": "Le jeune chef a reçu beaucoup d'éloges pour sa cuisine.",
+   "exampleB": "Le jeune chef a reçu beaucoup d'éloges pour sa cuisine."
+  },
+  "es": {
+   "wordA": "los elogios",
+   "wordB": "los elogios",
+   "exampleA": "El joven cocinero recibió muchos elogios por su cocina.",
+   "exampleB": "El joven chef recibió muchos elogios por su cocina."
+  }
+ },
+ {
+  "id": "r036",
+  "headword": "prayer",
+  "pos": "noun",
+  "example": "Before dinner, the family says a short prayer.",
+  "fr": {
+   "wordA": "la prière",
+   "wordB": "la prière",
+   "exampleA": "Avant le dîner, la famille dit une courte prière.",
+   "exampleB": "Avant le dîner, la famille dit une courte prière."
+  },
+  "es": {
+   "wordA": "la oración",
+   "wordB": "la oración",
+   "exampleA": "Antes de cenar, la familia reza una breve oración.",
+   "exampleB": "Antes de cenar, la familia reza una breve oración."
+  }
+ },
+ {
+  "id": "r037",
+  "headword": "precious",
+  "pos": "adjective",
+  "example": "Gold and silver are precious metals.",
+  "fr": {
+   "wordA": "précieux",
+   "wordB": "précieux",
+   "exampleA": "L'or et l'argent sont des métaux précieux.",
+   "exampleB": "L'or et l'argent sont des métaux précieux."
+  },
+  "es": {
+   "wordA": "precioso",
+   "wordB": "precioso",
+   "exampleA": "El oro y la plata son metales preciosos.",
+   "exampleB": "El oro y la plata son metales preciosos."
+  }
+ },
+ {
+  "id": "r038",
+  "headword": "preference",
+  "pos": "noun",
+  "example": "Do you have a preference for the window or the aisle seat?",
+  "fr": {
+   "wordA": "la préférence",
+   "wordB": "la préférence",
+   "exampleA": "Vous avez une préférence pour la place côté hublot ou côté couloir ?",
+   "exampleB": "Vous avez une préférence entre côté hublot et côté couloir ?"
+  },
+  "es": {
+   "wordA": "la preferencia",
+   "wordB": "la preferencia",
+   "exampleA": "¿Tiene preferencia por el asiento de ventanilla o de pasillo?",
+   "exampleB": "¿Tiene preferencia por el asiento de ventanilla o de pasillo?"
+  }
+ },
+ {
+  "id": "r039",
+  "headword": "prefix",
+  "pos": "noun",
+  "example": "The prefix 'un' changes 'happy' into 'unhappy'.",
+  "fr": {
+   "wordA": "le préfixe",
+   "wordB": "le préfixe",
+   "exampleA": "Le préfixe « un » transforme « happy » en « unhappy ».",
+   "exampleB": "Le préfixe « un » transforme « happy » en « unhappy »."
+  },
+  "es": {
+   "wordA": "el prefijo",
+   "wordB": "el prefijo",
+   "exampleA": "El prefijo «un» convierte «happy» en «unhappy».",
+   "exampleB": "El prefijo «un» convierte «happy» en «unhappy»."
+  }
+ },
+ {
+  "id": "r040",
+  "headword": "pregnant",
+  "pos": "adjective",
+  "example": "My sister is pregnant and the baby will arrive in May.",
+  "fr": {
+   "wordA": "enceinte",
+   "wordB": "enceinte",
+   "exampleA": "Ma sœur est enceinte et le bébé arrivera en mai.",
+   "exampleB": "Ma sœur est enceinte et le bébé arrivera en mai."
+  },
+  "es": {
+   "wordA": "embarazada",
+   "wordB": "embarazada",
+   "exampleA": "Mi hermana está embarazada y el bebé llegará en mayo.",
+   "exampleB": "Mi hermana está embarazada y el bebé llegará en mayo."
+  }
+ },
+ {
+  "id": "r041",
+  "headword": "prejudice",
+  "pos": "noun",
+  "example": "We should fight prejudice against people from other countries.",
+  "fr": {
+   "wordA": "les préjugés",
+   "wordB": "le préjugé",
+   "exampleA": "Nous devons lutter contre les préjugés envers les personnes venues d'autres pays.",
+   "exampleB": "Nous devons lutter contre les préjugés envers les gens d'autres pays."
+  },
+  "es": {
+   "wordA": "el prejuicio",
+   "wordB": "los prejuicios",
+   "exampleA": "Debemos luchar contra los prejuicios hacia las personas de otros países.",
+   "exampleB": "Debemos luchar contra los prejuicios hacia la gente de otros países."
+  }
+ },
+ {
+  "id": "r042",
+  "headword": "preparation",
+  "pos": "noun",
+  "example": "Good preparation is the key to passing your exams.",
+  "fr": {
+   "wordA": "la préparation",
+   "wordB": "la préparation",
+   "exampleA": "Une bonne préparation est la clé pour réussir ses examens.",
+   "exampleB": "Une bonne préparation est la clé pour réussir ses examens."
+  },
+  "es": {
+   "wordA": "la preparación",
+   "wordB": "la preparación",
+   "exampleA": "Una buena preparación es la clave para aprobar los exámenes.",
+   "exampleB": "Una buena preparación es la clave para aprobar los exámenes."
+  }
+ },
+ {
+  "id": "r043",
+  "headword": "prepared",
+  "pos": "adjective",
+  "example": "Are you prepared for the job interview tomorrow?",
+  "fr": {
+   "wordA": "prêt",
+   "wordB": "prêt",
+   "exampleA": "Tu es prêt pour l'entretien d'embauche de demain ?",
+   "exampleB": "Tu es prêt pour l'entretien d'embauche de demain ?"
+  },
+  "es": {
+   "wordA": "preparado",
+   "wordB": "preparado",
+   "exampleA": "¿Estás preparado para la entrevista de trabajo de mañana?",
+   "exampleB": "¿Estás preparado para la entrevista de trabajo de mañana?"
+  }
+ },
+ {
+  "id": "r044",
+  "headword": "preposition",
+  "pos": "noun",
+  "example": "'On' is the correct preposition in 'on Monday'.",
+  "fr": {
+   "wordA": "la préposition",
+   "wordB": "la préposition",
+   "exampleA": "« On » est la bonne préposition dans « on Monday ».",
+   "exampleB": "« On » est la bonne préposition dans « on Monday »."
+  },
+  "es": {
+   "wordA": "la preposición",
+   "wordB": "la preposición",
+   "exampleA": "«On» es la preposición correcta en «on Monday».",
+   "exampleB": "«On» es la preposición correcta en «on Monday»."
+  }
+ },
+ {
+  "id": "r045",
+  "headword": "what",
+  "pos": "pronoun",
+  "example": "We think with our brain.",
+  "fr": {
+   "wordA": "que, quoi",
+   "wordB": "que, quoi",
+   "exampleA": "Qu'est-ce que tu veux pour le dîner ?",
+   "exampleB": "Qu'est-ce que tu veux pour le dîner ?"
+  },
+  "es": {
+   "wordA": "qué",
+   "wordB": "qué",
+   "exampleA": "¿Qué quieres para cenar?",
+   "exampleB": "¿Qué quieres para cenar?"
+  }
+ },
+ {
+  "id": "r046",
+  "headword": "preschool",
+  "pos": "adjective",
+  "example": "Preschool children learn through songs and games.",
+  "fr": {
+   "wordA": "d'âge préscolaire",
+   "wordB": "d'âge préscolaire",
+   "exampleA": "Les enfants d'âge préscolaire apprennent avec des chansons et des jeux.",
+   "exampleB": "Les enfants d'âge préscolaire apprennent avec des chansons et des jeux."
+  },
+  "es": {
+   "wordA": "preescolar",
+   "wordB": "en edad preescolar",
+   "exampleA": "Los niños en edad preescolar aprenden con canciones y juegos.",
+   "exampleB": "Los niños en edad preescolar aprenden con canciones y juegos."
+  }
+ },
+ {
+  "id": "r047",
+  "headword": "prescription",
+  "pos": "noun",
+  "example": "The doctor gave me a prescription for some antibiotics.",
+  "fr": {
+   "wordA": "l'ordonnance",
+   "wordB": "l'ordonnance",
+   "exampleA": "Le médecin m'a fait une ordonnance pour des antibiotiques.",
+   "exampleB": "Le médecin m'a fait une ordonnance pour des antibiotiques."
+  },
+  "es": {
+   "wordA": "la receta",
+   "wordB": "la receta",
+   "exampleA": "El médico me dio una receta para unos antibióticos.",
+   "exampleB": "El médico me dio una receta para unos antibióticos."
+  }
+ },
+ {
+  "id": "r048",
+  "headword": "presence",
+  "pos": "noun",
+  "example": "The presence of the police made everyone feel safer.",
+  "fr": {
+   "wordA": "la présence",
+   "wordB": "la présence",
+   "exampleA": "La présence de la police rassurait tout le monde.",
+   "exampleB": "La présence de la police a rassuré tout le monde."
+  },
+  "es": {
+   "wordA": "la presencia",
+   "wordB": "la presencia",
+   "exampleA": "La presencia de la policía hizo que todos se sintieran más seguros.",
+   "exampleB": "La presencia de la policía hizo que todos se sintieran más seguros."
+  }
+ },
+ {
+  "id": "r049",
+  "headword": "present",
+  "pos": "adjective",
+  "example": "Twenty students were present at the meeting.",
+  "fr": {
+   "wordA": "présent",
+   "wordB": "présent",
+   "exampleA": "Vingt élèves étaient présents à la réunion.",
+   "exampleB": "Vingt élèves étaient présents à la réunion."
+  },
+  "es": {
+   "wordA": "presente",
+   "wordB": "presente",
+   "exampleA": "Había veinte alumnos presentes en la reunión.",
+   "exampleB": "Había veinte alumnos presentes en la reunión."
+  }
+ },
+ {
+  "id": "r050",
+  "headword": "presentation",
+  "pos": "noun",
+  "example": "Tomorrow I have to give a presentation to the whole class.",
+  "fr": {
+   "wordA": "l'exposé",
+   "wordB": "l'exposé",
+   "exampleA": "Demain, je dois faire un exposé devant toute la classe.",
+   "exampleB": "Demain, je dois faire un exposé devant toute la classe."
+  },
+  "es": {
+   "wordA": "la presentación",
+   "wordB": "la presentación",
+   "exampleA": "Mañana tengo que hacer una presentación delante de toda la clase.",
+   "exampleB": "Mañana tengo que hacer una presentación delante de toda la clase."
+  }
+ },
+ {
+  "id": "r051",
+  "headword": "preservation",
+  "pos": "noun",
+  "example": "The group works for the preservation of old buildings.",
+  "fr": {
+   "wordA": "la préservation",
+   "wordB": "la préservation",
+   "exampleA": "L'association œuvre pour la préservation des bâtiments anciens.",
+   "exampleB": "Le groupe œuvre pour la préservation des bâtiments anciens."
+  },
+  "es": {
+   "wordA": "la conservación",
+   "wordB": "la conservación",
+   "exampleA": "El grupo trabaja por la conservación de los edificios antiguos.",
+   "exampleB": "El grupo trabaja por la conservación de los edificios antiguos."
+  }
+ },
+ {
+  "id": "r052",
+  "headword": "preserve",
+  "pos": "verb",
+  "example": "Salt helps to preserve fish for a long time.",
+  "fr": {
+   "wordA": "conserver",
+   "wordB": "conserver",
+   "exampleA": "Le sel aide à conserver le poisson longtemps.",
+   "exampleB": "Le sel aide à conserver le poisson longtemps."
+  },
+  "es": {
+   "wordA": "conservar",
+   "wordB": "conservar",
+   "exampleA": "La sal ayuda a conservar el pescado mucho tiempo.",
+   "exampleB": "La sal ayuda a conservar el pescado durante mucho tiempo."
+  }
+ },
+ {
+  "id": "r053",
+  "headword": "president",
+  "pos": "noun",
+  "example": "The president will visit our country next month.",
+  "fr": {
+   "wordA": "le président",
+   "wordB": "le président",
+   "exampleA": "Le président va se rendre dans notre pays le mois prochain.",
+   "exampleB": "Le président se rendra dans notre pays le mois prochain."
+  },
+  "es": {
+   "wordA": "el presidente",
+   "wordB": "el presidente",
+   "exampleA": "El presidente visitará nuestro país el mes que viene.",
+   "exampleB": "El presidente visitará nuestro país el mes que viene."
+  }
+ },
+ {
+  "id": "r054",
+  "headword": "brush",
+  "pos": "noun",
+  "example": "I use a brush for my hair.",
+  "fr": {
+   "wordA": "la brosse",
+   "wordB": "la brosse",
+   "exampleA": "J'utilise une brosse pour mes cheveux.",
+   "exampleB": "J'utilise une brosse pour mes cheveux."
+  },
+  "es": {
+   "wordA": "el cepillo",
+   "wordB": "el cepillo",
+   "exampleA": "El gato está muy flaco. Necesita comida.",
+   "exampleB": "Uso un cepillo para el pelo."
+  }
+ },
+ {
+  "id": "r055",
+  "headword": "press",
+  "pos": "noun",
+  "example": "The actor refused to talk to the press about his marriage.",
+  "fr": {
+   "wordA": "la presse",
+   "wordB": "la presse",
+   "exampleA": "L'acteur a refusé de parler de son mariage à la presse.",
+   "exampleB": "L'acteur a refusé de parler de son mariage à la presse."
+  },
+  "es": {
+   "wordA": "la prensa",
+   "wordB": "la prensa",
+   "exampleA": "El actor se negó a hablar con la prensa sobre su matrimonio.",
+   "exampleB": "El actor se negó a hablar de su matrimonio con la prensa."
+  }
+ },
+ {
+  "id": "r056",
+  "headword": "press",
+  "pos": "verb",
+  "example": "Press the green button to start the machine.",
+  "fr": {
+   "wordA": "appuyer sur",
+   "wordB": "appuyer sur",
+   "exampleA": "Appuie sur le bouton vert pour mettre la machine en marche.",
+   "exampleB": "Appuie sur le bouton vert pour démarrer la machine."
+  },
+  "es": {
+   "wordA": "pulsar",
+   "wordB": "pulsar",
+   "exampleA": "Pulsa el botón verde para poner en marcha la máquina.",
+   "exampleB": "Pulsa el botón verde para encender la máquina."
+  }
+ },
+ {
+  "id": "r057",
+  "headword": "previous",
+  "pos": "adjective",
+  "example": "I liked my previous job more than this one.",
+  "fr": {
+   "wordA": "précédent",
+   "wordB": "précédent",
+   "exampleA": "J'aimais plus mon emploi précédent que celui-ci.",
+   "exampleB": "J'aimais plus mon travail précédent que celui-ci."
+  },
+  "es": {
+   "wordA": "anterior",
+   "wordB": "anterior",
+   "exampleA": "Me gustaba más mi trabajo anterior que este.",
+   "exampleB": "Me gustaba más mi trabajo anterior que este."
+  }
+ },
+ {
+  "id": "r058",
+  "headword": "priest",
+  "pos": "noun",
+  "example": "The priest married the young couple in the village church.",
+  "fr": {
+   "wordA": "le prêtre",
+   "wordB": "le prêtre",
+   "exampleA": "Le prêtre a marié le jeune couple dans l'église du village.",
+   "exampleB": "Le prêtre a marié le jeune couple dans l'église du village."
+  },
+  "es": {
+   "wordA": "el sacerdote",
+   "wordB": "el cura",
+   "exampleA": "El sacerdote casó a la joven pareja en la iglesia del pueblo.",
+   "exampleB": "El cura casó a la joven pareja en la iglesia del pueblo."
+  }
+ },
+ {
+  "id": "r059",
+  "headword": "primarily",
+  "pos": "adverb",
+  "example": "This app is primarily for students, but anyone can use it.",
+  "fr": {
+   "wordA": "principalement",
+   "wordB": "principalement",
+   "exampleA": "Cette appli est principalement destinée aux étudiants, mais tout le monde peut l'utiliser.",
+   "exampleB": "Cette appli est principalement destinée aux étudiants, mais tout le monde peut l'utiliser."
+  },
+  "es": {
+   "wordA": "principalmente",
+   "wordB": "principalmente",
+   "exampleA": "Esta aplicación es principalmente para estudiantes, pero cualquiera puede usarla.",
+   "exampleB": "Esta aplicación es principalmente para estudiantes, pero cualquiera puede usarla."
+  }
+ },
+ {
+  "id": "r060",
+  "headword": "primary school",
+  "pos": "noun",
+  "example": "My little brother goes to the primary school near our house.",
+  "fr": {
+   "wordA": "l'école primaire",
+   "wordB": "l'école primaire",
+   "exampleA": "Mon petit frère va à l'école primaire près de chez nous.",
+   "exampleB": "Mon petit frère va à l'école primaire près de chez nous."
+  },
+  "es": {
+   "wordA": "la escuela primaria",
+   "wordB": "el colegio de primaria",
+   "exampleA": "Mi hermano pequeño va a la escuela primaria cerca de casa.",
+   "exampleB": "Mi hermano pequeño va al colegio de primaria cerca de casa."
+  }
+ },
+ {
+  "id": "r061",
+  "headword": "primitive",
+  "pos": "adjective",
+  "example": "Early people used primitive tools made of stone.",
+  "fr": {
+   "wordA": "primitif",
+   "wordB": "primitif",
+   "exampleA": "Les premiers hommes utilisaient des outils primitifs en pierre.",
+   "exampleB": "Les premiers hommes utilisaient des outils primitifs en pierre."
+  },
+  "es": {
+   "wordA": "primitivo",
+   "wordB": "primitivo",
+   "exampleA": "Los primeros seres humanos usaban herramientas primitivas de piedra.",
+   "exampleB": "Los primeros seres humanos usaban herramientas primitivas de piedra."
+  }
+ },
+ {
+  "id": "r062",
+  "headword": "principle",
+  "pos": "noun",
+  "example": "He never lies because honesty is an important principle for him.",
+  "fr": {
+   "wordA": "le principe",
+   "wordB": "le principe",
+   "exampleA": "Il ne ment jamais, car l'honnêteté est un principe important pour lui.",
+   "exampleB": "Il ne ment jamais, car l'honnêteté est un principe important pour lui."
+  },
+  "es": {
+   "wordA": "el principio",
+   "wordB": "el principio",
+   "exampleA": "Nunca miente porque la honestidad es un principio importante para él.",
+   "exampleB": "Nunca miente porque la honradez es un principio importante para él."
+  }
+ },
+ {
+  "id": "r063",
+  "headword": "print",
+  "pos": "noun",
+  "example": "The print in this book is too small for me to read.",
+  "fr": {
+   "wordA": "les caractères",
+   "wordB": "les caractères",
+   "exampleA": "Les caractères de ce livre sont trop petits pour que je puisse le lire.",
+   "exampleB": "Les caractères de ce livre sont trop petits pour que je puisse lire."
+  },
+  "es": {
+   "wordA": "la letra",
+   "wordB": "la letra",
+   "exampleA": "La letra de este libro es demasiado pequeña para que yo la lea.",
+   "exampleB": "La letra de este libro es demasiado pequeña para que yo la lea."
+  }
+ },
+ {
+  "id": "r064",
+  "headword": "prison",
+  "pos": "noun",
+  "example": "The thief spent five years in prison.",
+  "fr": {
+   "wordA": "la prison",
+   "wordB": "la prison",
+   "exampleA": "Le voleur a passé cinq ans en prison.",
+   "exampleB": "Le voleur a passé cinq ans en prison."
+  },
+  "es": {
+   "wordA": "la cárcel",
+   "wordB": "la cárcel",
+   "exampleA": "El ladrón pasó cinco años en la cárcel.",
+   "exampleB": "El ladrón pasó cinco años en la cárcel."
+  }
+ },
+ {
+  "id": "r065",
+  "headword": "prisoner",
+  "pos": "noun",
+  "example": "Two prisoners escaped from the prison last night.",
+  "fr": {
+   "wordA": "le prisonnier",
+   "wordB": "le prisonnier",
+   "exampleA": "Deux prisonniers se sont évadés de la prison la nuit dernière.",
+   "exampleB": "Deux prisonniers se sont évadés de la prison la nuit dernière."
+  },
+  "es": {
+   "wordA": "el preso",
+   "wordB": "el preso",
+   "exampleA": "Dos presos se escaparon de la cárcel anoche.",
+   "exampleB": "Dos presos se escaparon de la cárcel anoche."
+  }
+ },
+ {
+  "id": "r066",
+  "headword": "privacy",
+  "pos": "noun",
+  "example": "Teenagers need some privacy, so knock before you enter.",
+  "fr": {
+   "wordA": "l'intimité",
+   "wordB": "l'intimité",
+   "exampleA": "Les ados ont besoin d'intimité, alors frappe avant d'entrer.",
+   "exampleB": "Les ados ont besoin d'un peu d'intimité, alors frappe avant d'entrer."
+  },
+  "es": {
+   "wordA": "la intimidad",
+   "wordB": "la intimidad",
+   "exampleA": "Los adolescentes necesitan algo de intimidad, así que llama antes de entrar.",
+   "exampleB": "Los adolescentes necesitan algo de intimidad, así que llama antes de entrar."
+  }
+ },
+ {
+  "id": "r067",
+  "headword": "prize",
+  "pos": "noun",
+  "example": "She won first prize in the photography competition.",
+  "fr": {
+   "wordA": "le prix",
+   "wordB": "le prix",
+   "exampleA": "Elle a gagné le premier prix du concours de photographie.",
+   "exampleB": "Elle a gagné le premier prix du concours de photographie."
+  },
+  "es": {
+   "wordA": "el premio",
+   "wordB": "el premio",
+   "exampleA": "Ganó el primer premio del concurso de fotografía.",
+   "exampleB": "Ganó el primer premio en el concurso de fotografía."
+  }
+ },
+ {
+  "id": "r068",
+  "headword": "probability",
+  "pos": "noun",
+  "example": "The probability of winning the lottery is very small.",
+  "fr": {
+   "wordA": "la probabilité",
+   "wordB": "la probabilité",
+   "exampleA": "La probabilité de gagner au loto est très faible.",
+   "exampleB": "La probabilité de gagner au loto est très faible."
+  },
+  "es": {
+   "wordA": "la probabilidad",
+   "wordB": "la probabilidad",
+   "exampleA": "La probabilidad de ganar la lotería es muy pequeña.",
+   "exampleB": "La probabilidad de ganar la lotería es muy pequeña."
+  }
+ },
+ {
+  "id": "r069",
+  "headword": "proceed",
+  "pos": "verb",
+  "example": "Passengers for Madrid should proceed to gate twelve.",
+  "fr": {
+   "wordA": "se rendre",
+   "wordB": "se rendre",
+   "exampleA": "Les passagers à destination de Madrid sont priés de se rendre à la porte douze.",
+   "exampleB": "Les passagers à destination de Madrid sont priés de se rendre à la porte douze."
+  },
+  "es": {
+   "wordA": "dirigirse",
+   "wordB": "dirigirse",
+   "exampleA": "Los pasajeros con destino a Madrid deben dirigirse a la puerta doce.",
+   "exampleB": "Los pasajeros con destino a Madrid deben dirigirse a la puerta doce."
+  }
+ },
+ {
+  "id": "r070",
+  "headword": "process",
+  "pos": "noun",
+  "example": "Learning a language is a slow process.",
+  "fr": {
+   "wordA": "le processus",
+   "wordB": "le processus",
+   "exampleA": "Apprendre une langue est un processus lent.",
+   "exampleB": "Apprendre une langue est un processus lent."
+  },
+  "es": {
+   "wordA": "el proceso",
+   "wordB": "el proceso",
+   "exampleA": "Aprender un idioma es un proceso lento.",
+   "exampleB": "Aprender un idioma es un proceso lento."
+  }
+ },
+ {
+  "id": "r071",
+  "headword": "proclaim",
+  "pos": "verb",
+  "example": "After the war, the people proclaimed a new republic.",
+  "fr": {
+   "wordA": "proclamer",
+   "wordB": "proclamer",
+   "exampleA": "Après la guerre, le peuple a proclamé une nouvelle république.",
+   "exampleB": "Après la guerre, le peuple a proclamé une nouvelle république."
+  },
+  "es": {
+   "wordA": "proclamar",
+   "wordB": "proclamar",
+   "exampleA": "Después de la guerra, el pueblo proclamó una nueva república.",
+   "exampleB": "Después de la guerra, el pueblo proclamó una nueva república."
+  }
+ },
+ {
+  "id": "r072",
+  "headword": "face",
+  "pos": "noun",
+  "example": "She washes her face in the morning.",
+  "fr": {
+   "wordA": "le nuage",
+   "wordB": "le visage",
+   "exampleA": "Elle se lave le visage le matin.",
+   "exampleB": "Elle se lave le visage le matin."
+  },
+  "es": {
+   "wordA": "la cara",
+   "wordB": "la cara",
+   "exampleA": "Se lava la cara por la mañana.",
+   "exampleB": "Se lava la cara por la mañana."
+  }
+ },
+ {
+  "id": "r073",
+  "headword": "procrastination",
+  "pos": "noun",
+  "example": "Procrastination means I always do my homework at the last minute.",
+  "fr": {
+   "wordA": "la procrastination",
+   "wordB": "la procrastination",
+   "exampleA": "À cause de la procrastination, je fais toujours mes devoirs à la dernière minute.",
+   "exampleB": "À cause de la procrastination, je fais toujours mes devoirs à la dernière minute."
+  },
+  "es": {
+   "wordA": "la procrastinación",
+   "wordB": "la procrastinación",
+   "exampleA": "Por culpa de la procrastinación, siempre hago los deberes en el último momento.",
+   "exampleB": "Por culpa de la procrastinación, siempre hago los deberes en el último momento."
+  }
+ },
+ {
+  "id": "r074",
+  "headword": "producer",
+  "pos": "noun",
+  "example": "The film producer is looking for money for his next movie.",
+  "fr": {
+   "wordA": "le producteur",
+   "wordB": "le producteur",
+   "exampleA": "Le producteur cherche de l'argent pour son prochain film.",
+   "exampleB": "Le producteur de cinéma cherche de l'argent pour son prochain film."
+  },
+  "es": {
+   "wordA": "el productor",
+   "wordB": "el productor",
+   "exampleA": "El productor de cine busca dinero para su próxima película.",
+   "exampleB": "El productor de cine está buscando dinero para su próxima película."
+  }
+ },
+ {
+  "id": "r075",
+  "headword": "productive",
+  "pos": "adjective",
+  "example": "I had a productive morning and finished all my emails.",
+  "fr": {
+   "wordA": "productif",
+   "wordB": "productif",
+   "exampleA": "J'ai eu une matinée productive et j'ai répondu à tous mes e-mails.",
+   "exampleB": "J'ai eu une matinée productive et j'ai répondu à tous mes e-mails."
+  },
+  "es": {
+   "wordA": "productivo",
+   "wordB": "productivo",
+   "exampleA": "He tenido una mañana productiva y he terminado todos los correos.",
+   "exampleB": "He tenido una mañana productiva y he terminado todos los correos."
+  }
+ },
+ {
+  "id": "r076",
+  "headword": "profession",
+  "pos": "noun",
+  "example": "Nursing is a difficult but rewarding profession.",
+  "fr": {
+   "wordA": "la profession",
+   "wordB": "la profession",
+   "exampleA": "Infirmier est une profession difficile mais gratifiante.",
+   "exampleB": "Infirmier est une profession difficile mais gratifiante."
+  },
+  "es": {
+   "wordA": "la profesión",
+   "wordB": "la profesión",
+   "exampleA": "La enfermería es una profesión difícil pero gratificante.",
+   "exampleB": "La enfermería es una profesión difícil pero gratificante."
+  }
+ },
+ {
+  "id": "r077",
+  "headword": "professor",
+  "pos": "noun",
+  "example": "Our history professor writes books about ancient Rome.",
+  "fr": {
+   "wordA": "le professeur (d'université)",
+   "wordB": "le professeur d'université",
+   "exampleA": "Notre professeur d'histoire écrit des livres sur la Rome antique.",
+   "exampleB": "Notre professeur d'histoire à l'université écrit des livres sur la Rome antique."
+  },
+  "es": {
+   "wordA": "el profesor (de universidad)",
+   "wordB": "el catedrático",
+   "exampleA": "Nuestro profesor de historia escribe libros sobre la antigua Roma.",
+   "exampleB": "Nuestro catedrático de historia escribe libros sobre la antigua Roma."
+  }
+ },
+ {
+  "id": "r078",
+  "headword": "program",
+  "pos": "verb",
+  "example": "You can program the oven to start cooking at six.",
+  "fr": {
+   "wordA": "programmer",
+   "wordB": "programmer",
+   "exampleA": "On peut programmer le four pour qu'il commence à cuire à six heures.",
+   "exampleB": "Tu peux programmer le four pour qu'il commence la cuisson à six heures."
+  },
+  "es": {
+   "wordA": "programar",
+   "wordB": "programar",
+   "exampleA": "Puedes programar el horno para que empiece a cocinar a las seis.",
+   "exampleB": "Puedes programar el horno para que empiece a cocinar a las seis."
+  }
+ },
+ {
+  "id": "r079",
+  "headword": "progress",
+  "pos": "noun",
+  "example": "My English teacher says I am making good progress.",
+  "fr": {
+   "wordA": "les progrès",
+   "wordB": "les progrès",
+   "exampleA": "Mon professeur d'anglais dit que je fais de bons progrès.",
+   "exampleB": "Mon professeur d'anglais dit que je fais de bons progrès."
+  },
+  "es": {
+   "wordA": "el progreso",
+   "wordB": "el progreso",
+   "exampleA": "Mi profesor de inglés dice que estoy progresando mucho.",
+   "exampleB": "Mi profesor de inglés dice que estoy progresando mucho."
+  }
+ },
+ {
+  "id": "r080",
+  "headword": "prohibition",
+  "pos": "noun",
+  "example": "There is a prohibition on fishing in this river.",
+  "fr": {
+   "wordA": "l'interdiction",
+   "wordB": "l'interdiction",
+   "exampleA": "Il y a une interdiction de pêcher dans cette rivière.",
+   "exampleB": "La pêche est interdite dans cette rivière."
+  },
+  "es": {
+   "wordA": "la prohibición",
+   "wordB": "la prohibición",
+   "exampleA": "Está prohibido pescar en este río.",
+   "exampleB": "Hay una prohibición de pescar en este río."
+  }
+ },
+ {
+  "id": "r081",
+  "headword": "prominent",
+  "pos": "adjective",
+  "example": "Her father is a prominent doctor in the city.",
+  "fr": {
+   "wordA": "éminent",
+   "wordB": "éminent",
+   "exampleA": "Son père est un médecin éminent de la ville.",
+   "exampleB": "Son père est un médecin éminent de la ville."
+  },
+  "es": {
+   "wordA": "destacado",
+   "wordB": "destacado",
+   "exampleA": "Su padre es un médico destacado de la ciudad.",
+   "exampleB": "Su padre es un médico destacado de la ciudad."
+  }
+ },
+ {
+  "id": "r082",
+  "headword": "promise",
+  "pos": "verb",
+  "example": "I promise to call you when I arrive.",
+  "fr": {
+   "wordA": "promettre",
+   "wordB": "promettre",
+   "exampleA": "Je te promets de t'appeler quand j'arrive.",
+   "exampleB": "Je te promets de t'appeler quand j'arrive."
+  },
+  "es": {
+   "wordA": "prometer",
+   "wordB": "prometer",
+   "exampleA": "Te prometo que te llamaré cuando llegue.",
+   "exampleB": "Te prometo que te llamaré cuando llegue."
+  }
+ },
+ {
+  "id": "r083",
+  "headword": "promote",
+  "pos": "verb",
+  "example": "The singer is travelling around Europe to promote her new album.",
+  "fr": {
+   "wordA": "promouvoir",
+   "wordB": "promouvoir",
+   "exampleA": "La chanteuse fait le tour de l'Europe pour promouvoir son nouvel album.",
+   "exampleB": "La chanteuse voyage à travers l'Europe pour promouvoir son nouvel album."
+  },
+  "es": {
+   "wordA": "promocionar",
+   "wordB": "promocionar",
+   "exampleA": "La cantante está viajando por Europa para promocionar su nuevo disco.",
+   "exampleB": "La cantante está recorriendo Europa para promocionar su nuevo disco."
+  }
+ },
+ {
+  "id": "r084",
+  "headword": "promotion",
+  "pos": "noun",
+  "example": "After three years, she got a promotion and a higher salary.",
+  "fr": {
+   "wordA": "la promotion",
+   "wordB": "la promotion",
+   "exampleA": "Au bout de trois ans, elle a obtenu une promotion et un meilleur salaire.",
+   "exampleB": "Au bout de trois ans, elle a obtenu une promotion et un meilleur salaire."
+  },
+  "es": {
+   "wordA": "el ascenso",
+   "wordB": "el ascenso",
+   "exampleA": "A los tres años, consiguió un ascenso y un sueldo más alto.",
+   "exampleB": "Después de tres años, consiguió un ascenso y un sueldo más alto."
+  }
+ },
+ {
+  "id": "r085",
+  "headword": "pronoun",
+  "pos": "noun",
+  "example": "'She' is a pronoun that we use for a woman or a girl.",
+  "fr": {
+   "wordA": "le pronom",
+   "wordB": "le pronom",
+   "exampleA": "« She » est un pronom qu'on utilise pour une femme ou une fille.",
+   "exampleB": "« She » est un pronom qu'on utilise pour une femme ou une fille."
+  },
+  "es": {
+   "wordA": "el pronombre",
+   "wordB": "el pronombre",
+   "exampleA": "«She» es un pronombre que usamos para una mujer o una niña.",
+   "exampleB": "«She» es un pronombre que usamos para una mujer o una niña."
+  }
+ },
+ {
+  "id": "r086",
+  "headword": "proof",
+  "pos": "noun",
+  "example": "You need proof of your address to open a bank account.",
+  "fr": {
+   "wordA": "le justificatif",
+   "wordB": "le justificatif",
+   "exampleA": "Il faut un justificatif de domicile pour ouvrir un compte bancaire.",
+   "exampleB": "Il faut un justificatif de domicile pour ouvrir un compte bancaire."
+  },
+  "es": {
+   "wordA": "el justificante",
+   "wordB": "el justificante",
+   "exampleA": "Necesitas un justificante de domicilio para abrir una cuenta bancaria.",
+   "exampleB": "Necesitas un justificante de domicilio para abrir una cuenta bancaria."
+  }
+ },
+ {
+  "id": "r087",
+  "headword": "properly",
+  "pos": "adverb",
+  "example": "Close the door properly, or the cold air will come in.",
+  "fr": {
+   "wordA": "correctement",
+   "wordB": "correctement",
+   "exampleA": "Ferme bien la porte, sinon l'air froid va entrer.",
+   "exampleB": "Ferme bien la porte, sinon l'air froid va entrer."
+  },
+  "es": {
+   "wordA": "bien",
+   "wordB": "bien",
+   "exampleA": "Cierra bien la puerta o entrará el aire frío.",
+   "exampleB": "Cierra bien la puerta o entrará el aire frío."
+  }
+ },
+ {
+  "id": "r088",
+  "headword": "property",
+  "pos": "noun",
+  "example": "Please don't touch that bag; it is my property.",
+  "fr": {
+   "wordA": "la propriété",
+   "wordB": "la propriété",
+   "exampleA": "Ne touchez pas à ce sac, s'il vous plaît, il m'appartient.",
+   "exampleB": "Ne touchez pas à ce sac, s'il vous plaît, il m'appartient."
+  },
+  "es": {
+   "wordA": "la propiedad",
+   "wordB": "la propiedad",
+   "exampleA": "No toque esa bolsa, por favor; es de mi propiedad.",
+   "exampleB": "Por favor, no toques esa bolsa; es de mi propiedad."
+  }
+ },
+ {
+  "id": "r089",
+  "headword": "proportion",
+  "pos": "noun",
+  "example": "A large proportion of the students come by bus.",
+  "fr": {
+   "wordA": "la proportion",
+   "wordB": "la proportion",
+   "exampleA": "Une grande proportion des élèves vient en bus.",
+   "exampleB": "Une grande proportion des élèves vient en bus."
+  },
+  "es": {
+   "wordA": "la proporción",
+   "wordB": "la proporción",
+   "exampleA": "Una gran proporción de los alumnos viene en autobús.",
+   "exampleB": "Una gran proporción de los alumnos viene en autobús."
+  }
+ },
+ {
+  "id": "r090",
+  "headword": "proposal",
+  "pos": "noun",
+  "example": "The council accepted our proposal for a new playground.",
+  "fr": {
+   "wordA": "la proposition",
+   "wordB": "la proposition",
+   "exampleA": "La mairie a accepté notre proposition de nouvelle aire de jeux.",
+   "exampleB": "La mairie a accepté notre proposition d'une nouvelle aire de jeux."
+  },
+  "es": {
+   "wordA": "la propuesta",
+   "wordB": "la propuesta",
+   "exampleA": "El ayuntamiento aceptó nuestra propuesta de un nuevo parque infantil.",
+   "exampleB": "El ayuntamiento aceptó nuestra propuesta de un nuevo parque infantil."
+  }
+ },
+ {
+  "id": "r091",
+  "headword": "propose",
+  "pos": "verb",
+  "example": "I propose that we meet again next Friday.",
+  "fr": {
+   "wordA": "proposer",
+   "wordB": "proposer",
+   "exampleA": "Je propose qu'on se revoie vendredi prochain.",
+   "exampleB": "Je propose qu'on se revoie vendredi prochain."
+  },
+  "es": {
+   "wordA": "proponer",
+   "wordB": "proponer",
+   "exampleA": "Propongo que volvamos a reunirnos el viernes que viene.",
+   "exampleB": "Propongo que volvamos a reunirnos el viernes que viene."
+  }
+ },
+ {
+  "id": "r092",
+  "headword": "prosperity",
+  "pos": "noun",
+  "example": "The new factory brought prosperity to the small town.",
+  "fr": {
+   "wordA": "la prospérité",
+   "wordB": "la prospérité",
+   "exampleA": "La nouvelle usine a apporté la prospérité à la petite ville.",
+   "exampleB": "La nouvelle usine a apporté la prospérité à la petite ville."
+  },
+  "es": {
+   "wordA": "la prosperidad",
+   "wordB": "la prosperidad",
+   "exampleA": "La nueva fábrica trajo prosperidad al pueblo.",
+   "exampleB": "La nueva fábrica trajo prosperidad al pueblo."
+  }
+ },
+ {
+  "id": "r093",
+  "headword": "prosperous",
+  "pos": "adjective",
+  "example": "The town became prosperous after the new port opened.",
+  "fr": {
+   "wordA": "prospère",
+   "wordB": "prospère",
+   "exampleA": "La ville est devenue prospère après l'ouverture du nouveau port.",
+   "exampleB": "La ville est devenue prospère après l'ouverture du nouveau port."
+  },
+  "es": {
+   "wordA": "próspero",
+   "wordB": "próspero",
+   "exampleA": "La ciudad se volvió próspera después de que abrieran el nuevo puerto.",
+   "exampleB": "La ciudad se volvió próspera después de que abriera el nuevo puerto."
+  }
+ },
+ {
+  "id": "r094",
+  "headword": "protect",
+  "pos": "verb",
+  "example": "Wear sunglasses to protect your eyes from the sun.",
+  "fr": {
+   "wordA": "protéger",
+   "wordB": "protéger",
+   "exampleA": "Porte des lunettes de soleil pour protéger tes yeux du soleil.",
+   "exampleB": "Porte des lunettes de soleil pour te protéger les yeux du soleil."
+  },
+  "es": {
+   "wordA": "proteger",
+   "wordB": "proteger",
+   "exampleA": "Ponte gafas de sol para protegerte los ojos del sol.",
+   "exampleB": "Ponte gafas de sol para protegerte los ojos del sol."
+  }
+ },
+ {
+  "id": "r095",
+  "headword": "cheese",
+  "pos": "noun",
+  "example": "I get a letter from my friend.",
+  "fr": {
+   "wordA": "le fromage",
+   "wordB": "le fromage",
+   "exampleA": "J'aime le pain avec du fromage.",
+   "exampleB": "J'aime le pain avec du fromage."
+  },
+  "es": {
+   "wordA": "el queso",
+   "wordB": "el queso",
+   "exampleA": "Me gusta el pan con queso.",
+   "exampleB": "Me gusta el pan con queso."
+  }
+ },
+ {
+  "id": "r096",
+  "headword": "blank",
+  "pos": "adjective",
+  "example": "The page is blank. There are no words.",
+  "fr": {
+   "wordA": "blanc, vierge",
+   "wordB": "blanc, vierge",
+   "exampleA": "La page est blanche. Il n'y a pas de mots.",
+   "exampleB": "La page est blanche. Il n'y a pas de mots."
+  },
+  "es": {
+   "wordA": "el músico",
+   "wordB": "en blanco",
+   "exampleA": "La página está en blanco. No hay palabras.",
+   "exampleB": "La página está en blanco. No hay palabras."
+  }
+ },
+ {
+  "id": "r097",
+  "headword": "protection",
+  "pos": "noun",
+  "example": "This cream gives good protection against the sun.",
+  "fr": {
+   "wordA": "la protection",
+   "wordB": "la protection",
+   "exampleA": "Cette crème offre une bonne protection contre le soleil.",
+   "exampleB": "Cette crème offre une bonne protection contre le soleil."
+  },
+  "es": {
+   "wordA": "la protección",
+   "wordB": "la protección",
+   "exampleA": "Esta crema ofrece una buena protección contra el sol.",
+   "exampleB": "Esta crema da buena protección contra el sol."
+  }
+ },
+ {
+  "id": "r098",
+  "headword": "protective",
+  "pos": "adjective",
+  "example": "Workers must wear protective glasses in the factory.",
+  "fr": {
+   "wordA": "de protection",
+   "wordB": "de protection",
+   "exampleA": "Les ouvriers doivent porter des lunettes de protection dans l'usine.",
+   "exampleB": "Les ouvriers doivent porter des lunettes de protection à l'usine."
+  },
+  "es": {
+   "wordA": "protector",
+   "wordB": "protector",
+   "exampleA": "Los trabajadores deben llevar gafas protectoras en la fábrica.",
+   "exampleB": "Los trabajadores tienen que llevar gafas protectoras en la fábrica."
+  }
+ },
+ {
+  "id": "r099",
+  "headword": "protest",
+  "pos": "noun",
+  "example": "Thousands of people joined the protest against the new law.",
+  "fr": {
+   "wordA": "la manifestation",
+   "wordB": "la manifestation",
+   "exampleA": "Des milliers de personnes ont rejoint la manifestation contre la nouvelle loi.",
+   "exampleB": "Des milliers de personnes ont rejoint la manifestation contre la nouvelle loi."
+  },
+  "es": {
+   "wordA": "la protesta",
+   "wordB": "la manifestación",
+   "exampleA": "Miles de personas se unieron a la protesta contra la nueva ley.",
+   "exampleB": "Miles de personas se unieron a la manifestación contra la nueva ley."
+  }
+ },
+ {
+  "id": "r100",
+  "headword": "proud",
+  "pos": "adjective",
+  "example": "Her parents were very proud when she finished university.",
+  "fr": {
+   "wordA": "fier",
+   "wordB": "fier",
+   "exampleA": "Ses parents étaient très fiers quand elle a terminé l'université.",
+   "exampleB": "Ses parents étaient très fiers quand elle a terminé ses études."
+  },
+  "es": {
+   "wordA": "orgulloso",
+   "wordB": "orgulloso",
+   "exampleA": "Sus padres estaban muy orgullosos cuando terminó la carrera.",
+   "exampleB": "Sus padres estaban muy orgullosos cuando terminó la carrera."
+  }
+ },
+ {
+  "id": "r101",
+  "headword": "prove",
+  "pos": "verb",
+  "example": "Can you prove that you were at home last night?",
+  "fr": {
+   "wordA": "prouver",
+   "wordB": "prouver",
+   "exampleA": "Tu peux prouver que tu étais chez toi hier soir ?",
+   "exampleB": "Tu peux prouver que tu étais chez toi hier soir ?"
+  },
+  "es": {
+   "wordA": "demostrar",
+   "wordB": "demostrar",
+   "exampleA": "¿Puedes demostrar que estabas en casa anoche?",
+   "exampleB": "¿Puedes demostrar que estabas en casa anoche?"
+  }
+ }
+]

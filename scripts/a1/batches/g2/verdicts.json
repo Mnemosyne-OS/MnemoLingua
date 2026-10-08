@@ -1,0 +1,212 @@
+{
+ "decoys": {
+  "caught": 6,
+  "total": 6,
+  "missed": []
+ },
+ "toReview": 1,
+ "cards": {
+  "g-1-1-a": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g-1-1-b": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g-3-a": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g-3-b": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g-5-a": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g-5-b": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g-10-a": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g-10-b": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g-58-1-a": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g-58-1-b": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g-64-a": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g-64-b": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g-59-1-a": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g-59-1-b": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g-60-a": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g-60-b": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g-123-a": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g-123-b": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g-146-a": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g-146-b": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g-120-a": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g-120-b": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g-7-a": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g-7-b": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g-14-a": {
+   "check": "to-review",
+   "problems": [
+    "es example: unnatural calque: 'El sol está caliente'; natural is 'El sol quema' / 'calienta'"
+   ]
+  },
+  "g-14-b": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g-16-a": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g-16-b": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g-24-a": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g-24-b": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g-33-a": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g-33-b": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g-38-a": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g-38-b": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g-235-a": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g-235-b": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g-245-a": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g-245-b": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g-247-a": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g-247-b": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g-150-a": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g-150-b": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g-161-a": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g-161-b": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g-88-a": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g-88-b": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g-103-a": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g-103-b": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g-112-a": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g-112-b": {
+   "check": "two-pass",
+   "problems": []
+  }
+ }
+}

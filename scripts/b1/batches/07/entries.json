@@ -1,0 +1,580 @@
+[
+ {
+  "id": "department-n",
+  "headword": "department",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Services"
+  ]
+ },
+ {
+  "id": "departure-n",
+  "headword": "departure",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel and services vocab"
+  ]
+ },
+ {
+  "id": "dependent-adj",
+  "headword": "dependent",
+  "pos": "adjective"
+ },
+ {
+  "id": "deposit-n",
+  "headword": "deposit",
+  "pos": "noun"
+ },
+ {
+  "id": "depressed-adj",
+  "headword": "depressed",
+  "pos": "adjective"
+ },
+ {
+  "id": "depressing-adj",
+  "headword": "depressing",
+  "pos": "adjective"
+ },
+ {
+  "id": "depression-n",
+  "headword": "depression",
+  "pos": "noun"
+ },
+ {
+  "id": "deprive-v",
+  "headword": "deprive",
+  "pos": "verb"
+ },
+ {
+  "id": "depth-n",
+  "headword": "depth",
+  "pos": "noun",
+  "sourceTopics": [
+   "Dimensions"
+  ]
+ },
+ {
+  "id": "derive-v",
+  "headword": "derive",
+  "pos": "verb"
+ },
+ {
+  "id": "deserve-v",
+  "headword": "deserve",
+  "pos": "verb"
+ },
+ {
+  "id": "design-v",
+  "headword": "design",
+  "pos": "verb"
+ },
+ {
+  "id": "designer-n",
+  "headword": "designer",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "desire-n",
+  "headword": "desire",
+  "pos": "noun"
+ },
+ {
+  "id": "despair-n",
+  "headword": "despair",
+  "pos": "noun"
+ },
+ {
+  "id": "desperate-adj",
+  "headword": "desperate",
+  "pos": "adjective"
+ },
+ {
+  "id": "despite-prep",
+  "headword": "despite",
+  "pos": "preposition"
+ },
+ {
+  "id": "destination-n",
+  "headword": "destination",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel and services vocab"
+  ]
+ },
+ {
+  "id": "destruction-n",
+  "headword": "destruction",
+  "pos": "noun"
+ },
+ {
+  "id": "destructive-adj",
+  "headword": "destructive",
+  "pos": "adjective"
+ },
+ {
+  "id": "detective-n",
+  "headword": "detective",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "determination-n",
+  "headword": "determination",
+  "pos": "noun"
+ },
+ {
+  "id": "determine-v",
+  "headword": "determine",
+  "pos": "verb"
+ },
+ {
+  "id": "devastate-v",
+  "headword": "devastate",
+  "pos": "verb"
+ },
+ {
+  "id": "devastating-adj",
+  "headword": "devastating",
+  "pos": "adjective"
+ },
+ {
+  "id": "development-n",
+  "headword": "development",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education"
+  ]
+ },
+ {
+  "id": "device-n",
+  "headword": "device",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms"
+  ]
+ },
+ {
+  "id": "devotion-n",
+  "headword": "devotion",
+  "pos": "noun"
+ },
+ {
+  "id": "diagram-n",
+  "headword": "diagram",
+  "pos": "noun"
+ },
+ {
+  "id": "dial-n",
+  "headword": "dial",
+  "pos": "noun"
+ },
+ {
+  "id": "dial-v",
+  "headword": "dial",
+  "pos": "verb"
+ },
+ {
+  "id": "dialog-n",
+  "headword": "dialog",
+  "pos": "noun",
+  "variants": [
+   "dialogue"
+  ]
+ },
+ {
+  "id": "diameter-n",
+  "headword": "diameter",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education"
+  ]
+ },
+ {
+  "id": "diaper-n",
+  "headword": "diaper",
+  "pos": "noun"
+ },
+ {
+  "id": "differ-v",
+  "headword": "differ",
+  "pos": "verb"
+ },
+ {
+  "id": "dig-v",
+  "headword": "dig",
+  "pos": "verb"
+ },
+ {
+  "id": "digital-adj",
+  "headword": "digital",
+  "pos": "adjective"
+ },
+ {
+  "id": "diligence-n",
+  "headword": "diligence",
+  "pos": "noun"
+ },
+ {
+  "id": "diligent-adj",
+  "headword": "diligent",
+  "pos": "adjective"
+ },
+ {
+  "id": "dioxide-n",
+  "headword": "dioxide",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education"
+  ]
+ },
+ {
+  "id": "direct-v",
+  "headword": "direct",
+  "pos": "verb"
+ },
+ {
+  "id": "directly-adv",
+  "headword": "directly",
+  "pos": "adverb"
+ },
+ {
+  "id": "dirt-n",
+  "headword": "dirt",
+  "pos": "noun",
+  "sourceTopics": [
+   "Daily life"
+  ]
+ },
+ {
+  "id": "disability-n",
+  "headword": "disability",
+  "pos": "noun"
+ },
+ {
+  "id": "disable-v",
+  "headword": "disable",
+  "pos": "verb"
+ },
+ {
+  "id": "disabled-adj",
+  "headword": "disabled",
+  "pos": "adjective"
+ },
+ {
+  "id": "disagreement-n",
+  "headword": "disagreement",
+  "pos": "noun"
+ },
+ {
+  "id": "disappoint-v",
+  "headword": "disappoint",
+  "pos": "verb"
+ },
+ {
+  "id": "disappointment-n",
+  "headword": "disappointment",
+  "pos": "noun"
+ },
+ {
+  "id": "disaster-n",
+  "headword": "disaster",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs"
+  ]
+ },
+ {
+  "id": "disastrous-adj",
+  "headword": "disastrous",
+  "pos": "adjective"
+ },
+ {
+  "id": "disc-jockey-n",
+  "headword": "disc jockey",
+  "pos": "noun",
+  "variants": [
+   "disk jockey"
+  ],
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "discomfort-n",
+  "headword": "discomfort",
+  "pos": "noun"
+ },
+ {
+  "id": "discount-n",
+  "headword": "discount",
+  "pos": "noun",
+  "sourceTopics": [
+   "Shopping",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "discourage-v",
+  "headword": "discourage",
+  "pos": "verb"
+ },
+ {
+  "id": "discovery-n",
+  "headword": "discovery",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education"
+  ]
+ },
+ {
+  "id": "discrimination-n",
+  "headword": "discrimination",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs"
+  ]
+ },
+ {
+  "id": "disease-n",
+  "headword": "disease",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel and services vocab",
+   "Health and body care"
+  ]
+ },
+ {
+  "id": "disgusting-adj",
+  "headword": "disgusting",
+  "pos": "adjective"
+ },
+ {
+  "id": "dishwasher-n",
+  "headword": "dishwasher",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "disk-n",
+  "headword": "disk",
+  "pos": "noun",
+  "variants": [
+   "disc"
+  ],
+  "sourceTopics": [
+   "Media",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "dislike-v",
+  "headword": "dislike",
+  "pos": "verb"
+ },
+ {
+  "id": "display-v",
+  "headword": "display",
+  "pos": "verb"
+ },
+ {
+  "id": "dissolve-v",
+  "headword": "dissolve",
+  "pos": "verb"
+ },
+ {
+  "id": "distance-n",
+  "headword": "distance",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel"
+  ]
+ },
+ {
+  "id": "distant-adj",
+  "headword": "distant",
+  "pos": "adjective"
+ },
+ {
+  "id": "distinction-n",
+  "headword": "distinction",
+  "pos": "noun"
+ },
+ {
+  "id": "distinctly-adv",
+  "headword": "distinctly",
+  "pos": "adverb"
+ },
+ {
+  "id": "distinguish-v",
+  "headword": "distinguish",
+  "pos": "verb"
+ },
+ {
+  "id": "distribute-v",
+  "headword": "distribute",
+  "pos": "verb"
+ },
+ {
+  "id": "distribution-n",
+  "headword": "distribution",
+  "pos": "noun"
+ },
+ {
+  "id": "district-n",
+  "headword": "district",
+  "pos": "noun",
+  "sourceTopics": [
+   "Nationalities and countries",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "disturbance-n",
+  "headword": "disturbance",
+  "pos": "noun"
+ },
+ {
+  "id": "dive-n",
+  "headword": "dive",
+  "pos": "noun"
+ },
+ {
+  "id": "dive-v",
+  "headword": "dive",
+  "pos": "verb"
+ },
+ {
+  "id": "diver-n",
+  "headword": "diver",
+  "pos": "noun",
+  "sourceTopics": [
+   "Leisure activities",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "diverse-adj",
+  "headword": "diverse",
+  "pos": "adjective"
+ },
+ {
+  "id": "divide-n",
+  "headword": "divide",
+  "pos": "noun"
+ },
+ {
+  "id": "divine-adj",
+  "headword": "divine",
+  "pos": "adjective"
+ },
+ {
+  "id": "diving-n",
+  "headword": "diving",
+  "pos": "noun",
+  "sourceTopics": [
+   "Leisure activities",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "divorced-adj",
+  "headword": "divorced",
+  "pos": "adjective"
+ },
+ {
+  "id": "dj-n",
+  "headword": "DJ",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "doc-n",
+  "headword": "doc",
+  "pos": "noun",
+  "sourceTopics": [
+   "Idiomatic expressions"
+  ]
+ },
+ {
+  "id": "document-n",
+  "headword": "document",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education"
+  ]
+ },
+ {
+  "id": "documentary-n",
+  "headword": "documentary",
+  "pos": "noun",
+  "sourceTopics": [
+   "Hobbies and pastimes",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "dolphin-n",
+  "headword": "dolphin",
+  "pos": "noun"
+ },
+ {
+  "id": "dot-n",
+  "headword": "dot",
+  "pos": "noun"
+ },
+ {
+  "id": "downstairs-adj",
+  "headword": "downstairs",
+  "pos": "adjective"
+ },
+ {
+  "id": "downward-adj",
+  "headword": "downward",
+  "pos": "adjective"
+ },
+ {
+  "id": "doze-n",
+  "headword": "doze",
+  "pos": "noun"
+ },
+ {
+  "id": "dozen-det",
+  "headword": "dozen",
+  "pos": "determiner"
+ },
+ {
+  "id": "dozen-n",
+  "headword": "dozen",
+  "pos": "noun"
+ },
+ {
+  "id": "drag-v",
+  "headword": "drag",
+  "pos": "verb"
+ },
+ {
+  "id": "dramatic-adj",
+  "headword": "dramatic",
+  "pos": "adjective"
+ },
+ {
+  "id": "drown-v",
+  "headword": "drown",
+  "pos": "verb"
+ }
+]

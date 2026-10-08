@@ -1,0 +1,170 @@
+[
+ {
+  "id": "g2-62-a",
+  "headword": "TENSE/ASPECT: PRESENT PERFECT",
+  "pos": "grammar (AFF. DEC.)",
+  "theme": "g-past-future"
+ },
+ {
+  "id": "g2-62-b",
+  "headword": "TENSE/ASPECT: PRESENT PERFECT",
+  "pos": "grammar (AFF. DEC.)",
+  "theme": "g-past-future"
+ },
+ {
+  "id": "g2-66-a",
+  "headword": "TENSE/ASPECT: PAST PROGRESSIVE",
+  "pos": "grammar (AFF. DEC.)",
+  "theme": "g-past-future"
+ },
+ {
+  "id": "g2-66-b",
+  "headword": "TENSE/ASPECT: PAST PROGRESSIVE",
+  "pos": "grammar (AFF. DEC.)",
+  "theme": "g-past-future"
+ },
+ {
+  "id": "g2-76-a",
+  "headword": "PASSIVE: PAST",
+  "pos": "grammar (AFF. DEC.)",
+  "theme": "g-past-future"
+ },
+ {
+  "id": "g2-76-b",
+  "headword": "PASSIVE: PAST",
+  "pos": "grammar (AFF. DEC.)",
+  "theme": "g-past-future"
+ },
+ {
+  "id": "g2-65-2-a",
+  "headword": "TENSE/ASPECT: PRESENT (lexical verbs)",
+  "pos": "grammar (AFF. INT.)",
+  "theme": "g-present"
+ },
+ {
+  "id": "g2-65-2-b",
+  "headword": "TENSE/ASPECT: PRESENT (lexical verbs)",
+  "pos": "grammar (AFF. INT.)",
+  "theme": "g-present"
+ },
+ {
+  "id": "g2-127-a",
+  "headword": "MODAL/AUX: have to",
+  "pos": "grammar (AFF. DEC.)",
+  "theme": "g-modals"
+ },
+ {
+  "id": "g2-127-b",
+  "headword": "MODAL/AUX: have to",
+  "pos": "grammar (AFF. DEC.)",
+  "theme": "g-modals"
+ },
+ {
+  "id": "g2-139-a",
+  "headword": "MODAL/AUX: should",
+  "pos": "grammar (AFF. DEC.)",
+  "theme": "g-modals"
+ },
+ {
+  "id": "g2-139-b",
+  "headword": "MODAL/AUX: should",
+  "pos": "grammar (AFF. DEC.)",
+  "theme": "g-modals"
+ },
+ {
+  "id": "g2-142-a",
+  "headword": "MODAL/AUX: would",
+  "pos": "grammar (AFF. DEC.)",
+  "theme": "g-modals"
+ },
+ {
+  "id": "g2-142-b",
+  "headword": "MODAL/AUX: would",
+  "pos": "grammar (AFF. DEC.)",
+  "theme": "g-modals"
+ },
+ {
+  "id": "g2-11-a",
+  "headword": "This/That N",
+  "pos": "grammar (AFF. DEC./NEG. DEC.)",
+  "theme": "g-words"
+ },
+ {
+  "id": "g2-11-b",
+  "headword": "This/That N",
+  "pos": "grammar (AFF. DEC./NEG. DEC.)",
+  "theme": "g-words"
+ },
+ {
+  "id": "g2-25-a",
+  "headword": "INDEFINITE PRONOUN/PROP-WORDS: ones (except for 'one')",
+  "pos": "grammar",
+  "theme": "g-words"
+ },
+ {
+  "id": "g2-25-b",
+  "headword": "INDEFINITE PRONOUN/PROP-WORDS: ones (except for 'one')",
+  "pos": "grammar",
+  "theme": "g-words"
+ },
+ {
+  "id": "g2-39-a",
+  "headword": "COMPARATIVE OF SUPERIORITY: more+ADJ/ADV",
+  "pos": "grammar",
+  "theme": "g-compare"
+ },
+ {
+  "id": "g2-39-b",
+  "headword": "COMPARATIVE OF SUPERIORITY: more+ADJ/ADV",
+  "pos": "grammar",
+  "theme": "g-compare"
+ },
+ {
+  "id": "g2-56-a",
+  "headword": "PHRASAL VERBS (V+NP+PARTICLE)",
+  "pos": "grammar",
+  "theme": "g-sentences"
+ },
+ {
+  "id": "g2-56-b",
+  "headword": "PHRASAL VERBS (V+NP+PARTICLE)",
+  "pos": "grammar",
+  "theme": "g-sentences"
+ },
+ {
+  "id": "g2-156-a",
+  "headword": "ADVERBIAL CLAUSE: if",
+  "pos": "grammar",
+  "theme": "g-sentences"
+ },
+ {
+  "id": "g2-156-b",
+  "headword": "ADVERBIAL CLAUSE: if",
+  "pos": "grammar",
+  "theme": "g-sentences"
+ },
+ {
+  "id": "g2-196-1-a",
+  "headword": "SENTENCE PATTERN: SUBJECT+V+OBJECT",
+  "pos": "grammar (NEG. DEC.)",
+  "theme": "g-sentences"
+ },
+ {
+  "id": "g2-196-1-b",
+  "headword": "SENTENCE PATTERN: SUBJECT+V+OBJECT",
+  "pos": "grammar (NEG. DEC.)",
+  "theme": "g-sentences"
+ },
+ {
+  "id": "g2-202-a",
+  "headword": "INDIRECT QUESTION: DECIDE/EXPLAIN/KNOW/LEARN/SEE/UNDERSTAND/WONDER",
+  "pos": "grammar",
+  "theme": "g-sentences"
+ },
+ {
+  "id": "g2-202-b",
+  "headword": "INDIRECT QUESTION: DECIDE/EXPLAIN/KNOW/LEARN/SEE/UNDERSTAND/WONDER",
+  "pos": "grammar",
+  "theme": "g-sentences"
+ }
+]

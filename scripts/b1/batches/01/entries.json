@@ -1,0 +1,578 @@
+[
+ {
+  "id": "abandon-v",
+  "headword": "abandon",
+  "pos": "verb"
+ },
+ {
+  "id": "able-adj",
+  "headword": "able",
+  "pos": "adjective"
+ },
+ {
+  "id": "abnormal-adj",
+  "headword": "abnormal",
+  "pos": "adjective"
+ },
+ {
+  "id": "aboard-adv",
+  "headword": "aboard",
+  "pos": "adverb"
+ },
+ {
+  "id": "aborigine-n",
+  "headword": "aborigine",
+  "pos": "noun",
+  "sourceTopics": [
+   "Nationalities and countries"
+  ]
+ },
+ {
+  "id": "above-adj",
+  "headword": "above",
+  "pos": "adjective"
+ },
+ {
+  "id": "absence-n",
+  "headword": "absence",
+  "pos": "noun"
+ },
+ {
+  "id": "absent-adj",
+  "headword": "absent",
+  "pos": "adjective"
+ },
+ {
+  "id": "absolute-adj",
+  "headword": "absolute",
+  "pos": "adjective"
+ },
+ {
+  "id": "absolutely-adv",
+  "headword": "absolutely",
+  "pos": "adverb"
+ },
+ {
+  "id": "absorb-v",
+  "headword": "absorb",
+  "pos": "verb"
+ },
+ {
+  "id": "abstract-adj",
+  "headword": "abstract",
+  "pos": "adjective"
+ },
+ {
+  "id": "abundance-n",
+  "headword": "abundance",
+  "pos": "noun"
+ },
+ {
+  "id": "abundant-adj",
+  "headword": "abundant",
+  "pos": "adjective"
+ },
+ {
+  "id": "academic-adj",
+  "headword": "academic",
+  "pos": "adjective"
+ },
+ {
+  "id": "academy-n",
+  "headword": "academy",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education"
+  ]
+ },
+ {
+  "id": "accent-n",
+  "headword": "accent",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Education"
+  ]
+ },
+ {
+  "id": "acceptance-n",
+  "headword": "acceptance",
+  "pos": "noun"
+ },
+ {
+  "id": "access-n",
+  "headword": "access",
+  "pos": "noun",
+  "sourceTopics": [
+   "Ways of travelling",
+   "Travel"
+  ]
+ },
+ {
+  "id": "accessible-adj",
+  "headword": "accessible",
+  "pos": "adjective"
+ },
+ {
+  "id": "accessory-n",
+  "headword": "accessory",
+  "pos": "noun",
+  "sourceTopics": [
+   "Shopping",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "accidental-adj",
+  "headword": "accidental",
+  "pos": "adjective"
+ },
+ {
+  "id": "accidentally-adv",
+  "headword": "accidentally",
+  "pos": "adverb"
+ },
+ {
+  "id": "accompany-v",
+  "headword": "accompany",
+  "pos": "verb"
+ },
+ {
+  "id": "accomplish-v",
+  "headword": "accomplish",
+  "pos": "verb"
+ },
+ {
+  "id": "according-to-prep",
+  "headword": "according to",
+  "pos": "preposition"
+ },
+ {
+  "id": "account-v",
+  "headword": "account",
+  "pos": "verb"
+ },
+ {
+  "id": "accountant-n",
+  "headword": "accountant",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "accuracy-n",
+  "headword": "accuracy",
+  "pos": "noun"
+ },
+ {
+  "id": "accurate-adj",
+  "headword": "accurate",
+  "pos": "adjective"
+ },
+ {
+  "id": "accurately-adv",
+  "headword": "accurately",
+  "pos": "adverb"
+ },
+ {
+  "id": "accuse-v",
+  "headword": "accuse",
+  "pos": "verb"
+ },
+ {
+  "id": "accustom-v",
+  "headword": "accustom",
+  "pos": "verb"
+ },
+ {
+  "id": "ache-n",
+  "headword": "ache",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel and services vocab",
+   "Health and body care"
+  ]
+ },
+ {
+  "id": "achievement-n",
+  "headword": "achievement",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education"
+  ]
+ },
+ {
+  "id": "acknowledge-v",
+  "headword": "acknowledge",
+  "pos": "verb"
+ },
+ {
+  "id": "acknowledgment-n",
+  "headword": "acknowledgment",
+  "pos": "noun",
+  "variants": [
+   "acknowledgement"
+  ]
+ },
+ {
+  "id": "acquaintance-n",
+  "headword": "acquaintance",
+  "pos": "noun",
+  "sourceTopics": [
+   "Personal information"
+  ]
+ },
+ {
+  "id": "acquire-v",
+  "headword": "acquire",
+  "pos": "verb"
+ },
+ {
+  "id": "act-v",
+  "headword": "act",
+  "pos": "verb"
+ },
+ {
+  "id": "active-adj",
+  "headword": "active",
+  "pos": "adjective"
+ },
+ {
+  "id": "actress-n",
+  "headword": "actress",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "ad-n",
+  "headword": "ad",
+  "pos": "noun",
+  "sourceTopics": [
+   "Media"
+  ]
+ },
+ {
+  "id": "adapt-v",
+  "headword": "adapt",
+  "pos": "verb"
+ },
+ {
+  "id": "address-v",
+  "headword": "address",
+  "pos": "verb"
+ },
+ {
+  "id": "addressee-n",
+  "headword": "addressee",
+  "pos": "noun"
+ },
+ {
+  "id": "administration-n",
+  "headword": "administration",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel and services vocab"
+  ]
+ },
+ {
+  "id": "admiration-n",
+  "headword": "admiration",
+  "pos": "noun"
+ },
+ {
+  "id": "admission-n",
+  "headword": "admission",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education"
+  ]
+ },
+ {
+  "id": "adopt-v",
+  "headword": "adopt",
+  "pos": "verb"
+ },
+ {
+  "id": "adorable-adj",
+  "headword": "adorable",
+  "pos": "adjective"
+ },
+ {
+  "id": "advance-v",
+  "headword": "advance",
+  "pos": "verb"
+ },
+ {
+  "id": "adverb-n",
+  "headword": "adverb",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Education"
+  ]
+ },
+ {
+  "id": "adverbial-adj",
+  "headword": "adverbial",
+  "pos": "adjective"
+ },
+ {
+  "id": "advert-n",
+  "headword": "advert",
+  "pos": "noun"
+ },
+ {
+  "id": "advertise-v",
+  "headword": "advertise",
+  "pos": "verb"
+ },
+ {
+  "id": "adviser-n",
+  "headword": "adviser",
+  "pos": "noun",
+  "variants": [
+   "advisor"
+  ],
+  "sourceTopics": [
+   "Education",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "aerobics-n",
+  "headword": "aerobics",
+  "pos": "noun",
+  "sourceTopics": [
+   "Hobbies and pastimes",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "affect-v",
+  "headword": "affect",
+  "pos": "verb"
+ },
+ {
+  "id": "affection-n",
+  "headword": "affection",
+  "pos": "noun"
+ },
+ {
+  "id": "afford-v",
+  "headword": "afford",
+  "pos": "verb"
+ },
+ {
+  "id": "after-conj",
+  "headword": "after",
+  "pos": "conjunction"
+ },
+ {
+  "id": "afterward-adv",
+  "headword": "afterward",
+  "pos": "adverb"
+ },
+ {
+  "id": "afterwards-adv",
+  "headword": "afterwards",
+  "pos": "adverb"
+ },
+ {
+  "id": "agenda-n",
+  "headword": "agenda",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs"
+  ]
+ },
+ {
+  "id": "aggressive-adj",
+  "headword": "aggressive",
+  "pos": "adjective"
+ },
+ {
+  "id": "agreement-n",
+  "headword": "agreement",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs"
+  ]
+ },
+ {
+  "id": "agricultural-adj",
+  "headword": "agricultural",
+  "pos": "adjective"
+ },
+ {
+  "id": "agriculture-n",
+  "headword": "agriculture",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "aid-n",
+  "headword": "aid",
+  "pos": "noun"
+ },
+ {
+  "id": "aid-v",
+  "headword": "aid",
+  "pos": "verb"
+ },
+ {
+  "id": "aim-n",
+  "headword": "aim",
+  "pos": "noun"
+ },
+ {
+  "id": "air-conditioning-n",
+  "headword": "air conditioning",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "air-force-n",
+  "headword": "air force",
+  "pos": "noun",
+  "sourceTopics": [
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "airline-n",
+  "headword": "airline",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel and services vocab",
+   "Travel"
+  ]
+ },
+ {
+  "id": "alarm-v",
+  "headword": "alarm",
+  "pos": "verb"
+ },
+ {
+  "id": "alcohol-n",
+  "headword": "alcohol",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "alcoholic-adj",
+  "headword": "alcoholic",
+  "pos": "adjective"
+ },
+ {
+  "id": "alike-adj",
+  "headword": "alike",
+  "pos": "adjective"
+ },
+ {
+  "id": "alike-adv",
+  "headword": "alike",
+  "pos": "adverb"
+ },
+ {
+  "id": "allergic-adj",
+  "headword": "allergic",
+  "pos": "adjective"
+ },
+ {
+  "id": "allowance-n",
+  "headword": "allowance",
+  "pos": "noun"
+ },
+ {
+  "id": "aloud-adv",
+  "headword": "aloud",
+  "pos": "adverb"
+ },
+ {
+  "id": "alphabet-n",
+  "headword": "alphabet",
+  "pos": "noun",
+  "sourceTopics": [
+   "Books and literature",
+   "Language"
+  ]
+ },
+ {
+  "id": "alternative-adj",
+  "headword": "alternative",
+  "pos": "adjective"
+ },
+ {
+  "id": "alternative-n",
+  "headword": "alternative",
+  "pos": "noun"
+ },
+ {
+  "id": "altogether-adv",
+  "headword": "altogether",
+  "pos": "adverb"
+ },
+ {
+  "id": "amazed-adj",
+  "headword": "amazed",
+  "pos": "adjective"
+ },
+ {
+  "id": "amazing-adj",
+  "headword": "amazing",
+  "pos": "adjective"
+ },
+ {
+  "id": "ambitious-adj",
+  "headword": "ambitious",
+  "pos": "adjective"
+ },
+ {
+  "id": "ambulance-n",
+  "headword": "ambulance",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "Travel"
+  ]
+ },
+ {
+  "id": "amount-n",
+  "headword": "amount",
+  "pos": "noun"
+ },
+ {
+  "id": "amusing-adj",
+  "headword": "amusing",
+  "pos": "adjective"
+ },
+ {
+  "id": "analysis-n",
+  "headword": "analysis",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education"
+  ]
+ },
+ {
+  "id": "analyze-v",
+  "headword": "analyze",
+  "pos": "verb",
+  "variants": [
+   "analyse"
+  ]
+ }
+]

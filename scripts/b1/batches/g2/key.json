@@ -1,0 +1,314 @@
+{
+ "g3-60-1-b": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A"
+ },
+ "g3-34-a": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A"
+ },
+ "g3-62-1-b": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A"
+ },
+ "g3-141-1-b": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A"
+ },
+ "g3-135-b": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A"
+ },
+ "g3-129-a": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A"
+ },
+ "r001": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "g3-61-1-a"
+ },
+ "r002": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "g3-61-1-b"
+ },
+ "r003": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "g3-67-a"
+ },
+ "r004": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "g3-67-b"
+ },
+ "r005": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "g3-121-a"
+ },
+ "r006": {
+  "decoy": {
+   "kind": "example",
+   "lang": "fr"
+  },
+  "fr": "A",
+  "es": "A",
+  "cardId": "x01-g3-60-1-b"
+ },
+ "r007": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "g3-121-b"
+ },
+ "r008": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "g3-124-1-a"
+ },
+ "r009": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A",
+  "cardId": "g3-124-1-b"
+ },
+ "r010": {
+  "decoy": {
+   "kind": "example",
+   "lang": "es"
+  },
+  "fr": "A",
+  "es": "A",
+  "cardId": "x02-g3-34-a"
+ },
+ "r011": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "g3-132-a"
+ },
+ "r012": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "g3-132-b"
+ },
+ "r013": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "g3-136-1-a"
+ },
+ "r014": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "g3-136-1-b"
+ },
+ "r015": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A",
+  "cardId": "g3-140-a"
+ },
+ "r016": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "g3-140-b"
+ },
+ "r017": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "g3-99-a"
+ },
+ "r018": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "g3-99-b"
+ },
+ "r019": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A",
+  "cardId": "g3-22-a"
+ },
+ "r020": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "g3-22-b"
+ },
+ "r021": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A",
+  "cardId": "g3-27-a"
+ },
+ "r022": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "g3-27-b"
+ },
+ "r023": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "g3-31-a"
+ },
+ "r024": {
+  "decoy": {
+   "kind": "exampleGloss",
+   "lang": "fr"
+  },
+  "fr": "A",
+  "es": "A",
+  "cardId": "x05-g3-135-b"
+ },
+ "r025": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "g3-31-b"
+ },
+ "r026": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A",
+  "cardId": "g3-51-a"
+ },
+ "r027": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "g3-51-b"
+ },
+ "r028": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A",
+  "cardId": "g3-93-a"
+ },
+ "r029": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "g3-93-b"
+ },
+ "r030": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "g3-149-a"
+ },
+ "r031": {
+  "decoy": {
+   "kind": "example",
+   "lang": "fr"
+  },
+  "fr": "A",
+  "es": "A",
+  "cardId": "x03-g3-62-1-b"
+ },
+ "r032": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A",
+  "cardId": "g3-149-b"
+ },
+ "r033": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "g3-167-a"
+ },
+ "r034": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "g3-167-b"
+ },
+ "r035": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "g3-186-a"
+ },
+ "r036": {
+  "decoy": {
+   "kind": "exampleGloss",
+   "lang": "es"
+  },
+  "fr": "A",
+  "es": "A",
+  "cardId": "x06-g3-129-a"
+ },
+ "r037": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "g3-186-b"
+ },
+ "r038": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "g3-203-a"
+ },
+ "r039": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A",
+  "cardId": "g3-203-b"
+ },
+ "r040": {
+  "decoy": {
+   "kind": "exampleGloss",
+   "lang": "es"
+  },
+  "fr": "A",
+  "es": "A",
+  "cardId": "x04-g3-141-1-b"
+ },
+ "r041": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "g3-213-a"
+ },
+ "r042": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "g3-213-b"
+ },
+ "r043": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "g3-82-a"
+ },
+ "r044": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "g3-82-b"
+ }
+}

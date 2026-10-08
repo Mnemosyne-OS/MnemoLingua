@@ -1,0 +1,647 @@
+[
+ {
+  "id": "grape-n",
+  "headword": "grape",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "grass-n",
+  "headword": "grass",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "gray-adj",
+  "headword": "gray",
+  "pos": "adjective",
+  "variants": [
+   "grey"
+  ],
+  "sourceTopics": [
+   "Colours"
+  ]
+ },
+ {
+  "id": "gray-n",
+  "headword": "gray",
+  "pos": "noun",
+  "variants": [
+   "grey"
+  ],
+  "sourceTopics": [
+   "Colours"
+  ]
+ },
+ {
+  "id": "great-adj",
+  "headword": "great",
+  "pos": "adjective"
+ },
+ {
+  "id": "green-adj",
+  "headword": "green",
+  "pos": "adjective",
+  "sourceTopics": [
+   "Colours"
+  ]
+ },
+ {
+  "id": "greet-v",
+  "headword": "greet",
+  "pos": "verb"
+ },
+ {
+  "id": "ground-n",
+  "headword": "ground",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "group-n",
+  "headword": "group",
+  "pos": "noun",
+  "sourceTopics": [
+   "Relations with other people"
+  ]
+ },
+ {
+  "id": "grow-v",
+  "headword": "grow",
+  "pos": "verb"
+ },
+ {
+  "id": "guest-n",
+  "headword": "guest",
+  "pos": "noun",
+  "sourceTopics": [
+   "Relations with other people"
+  ]
+ },
+ {
+  "id": "guitar-n",
+  "headword": "guitar",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "guy-n",
+  "headword": "guy",
+  "pos": "noun",
+  "sourceTopics": [
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "habit-n",
+  "headword": "habit",
+  "pos": "noun",
+  "sourceTopics": [
+   "Personal information",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "had-have",
+  "headword": "had",
+  "pos": "have-verb"
+ },
+ {
+  "id": "hair-n",
+  "headword": "hair",
+  "pos": "noun",
+  "sourceTopics": [
+   "Personal information",
+   "Health and body care"
+  ]
+ },
+ {
+  "id": "haircut-n",
+  "headword": "haircut",
+  "pos": "noun",
+  "sourceTopics": [
+   "Services"
+  ]
+ },
+ {
+  "id": "half-n",
+  "headword": "half",
+  "pos": "noun"
+ },
+ {
+  "id": "hall-n",
+  "headword": "hall",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "hamburger-n",
+  "headword": "hamburger",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "handsome-adj",
+  "headword": "handsome",
+  "pos": "adjective"
+ },
+ {
+  "id": "happen-v",
+  "headword": "happen",
+  "pos": "verb"
+ },
+ {
+  "id": "happy-adj",
+  "headword": "happy",
+  "pos": "adjective"
+ },
+ {
+  "id": "hard-adj",
+  "headword": "hard",
+  "pos": "adjective"
+ },
+ {
+  "id": "hard-adv",
+  "headword": "hard",
+  "pos": "adverb"
+ },
+ {
+  "id": "has-have",
+  "headword": "has",
+  "pos": "have-verb"
+ },
+ {
+  "id": "hat-n",
+  "headword": "hat",
+  "pos": "noun",
+  "sourceTopics": [
+   "Clothes",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "have-have",
+  "headword": "have",
+  "pos": "have-verb"
+ },
+ {
+  "id": "have-to-modal",
+  "headword": "have to",
+  "pos": "modal auxiliary"
+ },
+ {
+  "id": "he-pron",
+  "headword": "he",
+  "pos": "pronoun"
+ },
+ {
+  "id": "headache-n",
+  "headword": "headache",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel and services vocab",
+   "Health and body care"
+  ]
+ },
+ {
+  "id": "health-n",
+  "headword": "health",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel and services vocab",
+   "Health and body care"
+  ]
+ },
+ {
+  "id": "healthy-adj",
+  "headword": "healthy",
+  "pos": "adjective"
+ },
+ {
+  "id": "hear-v",
+  "headword": "hear",
+  "pos": "verb"
+ },
+ {
+  "id": "heart-n",
+  "headword": "heart",
+  "pos": "noun",
+  "sourceTopics": [
+   "Health and body care"
+  ]
+ },
+ {
+  "id": "heavy-adj",
+  "headword": "heavy",
+  "pos": "adjective"
+ },
+ {
+  "id": "hello-n",
+  "headword": "hello",
+  "pos": "noun"
+ },
+ {
+  "id": "help-v",
+  "headword": "help",
+  "pos": "verb"
+ },
+ {
+  "id": "her-det",
+  "headword": "her",
+  "pos": "determiner"
+ },
+ {
+  "id": "her-pron",
+  "headword": "her",
+  "pos": "pronoun"
+ },
+ {
+  "id": "hers-pron",
+  "headword": "hers",
+  "pos": "pronoun"
+ },
+ {
+  "id": "hi-interj",
+  "headword": "hi",
+  "pos": "interjection"
+ },
+ {
+  "id": "hide-v",
+  "headword": "hide",
+  "pos": "verb"
+ },
+ {
+  "id": "high-adj",
+  "headword": "high",
+  "pos": "adjective"
+ },
+ {
+  "id": "hill-n",
+  "headword": "hill",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "him-pron",
+  "headword": "him",
+  "pos": "pronoun"
+ },
+ {
+  "id": "his-det",
+  "headword": "his",
+  "pos": "determiner"
+ },
+ {
+  "id": "his-pron",
+  "headword": "his",
+  "pos": "pronoun"
+ },
+ {
+  "id": "history-n",
+  "headword": "history",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Education"
+  ]
+ },
+ {
+  "id": "hobby-n",
+  "headword": "hobby",
+  "pos": "noun",
+  "sourceTopics": [
+   "Hobbies and pastimes",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "hole-n",
+  "headword": "hole",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "holiday-n",
+  "headword": "holiday",
+  "pos": "noun",
+  "sourceTopics": [
+   "Hobbies and pastimes",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "home-n",
+  "headword": "home",
+  "pos": "noun",
+  "sourceTopics": [
+   "Family life",
+   "Daily life"
+  ]
+ },
+ {
+  "id": "hometown-n",
+  "headword": "hometown",
+  "pos": "noun",
+  "sourceTopics": [
+   "Nationalities and countries",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "homework-n",
+  "headword": "homework",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Education"
+  ]
+ },
+ {
+  "id": "hope-n",
+  "headword": "hope",
+  "pos": "noun"
+ },
+ {
+  "id": "horse-n",
+  "headword": "horse",
+  "pos": "noun"
+ },
+ {
+  "id": "hospital-n",
+  "headword": "hospital",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "Health and body care"
+  ]
+ },
+ {
+  "id": "hot-adj",
+  "headword": "hot",
+  "pos": "adjective"
+ },
+ {
+  "id": "hotel-n",
+  "headword": "hotel",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel and services vocab",
+   "Travel"
+  ]
+ },
+ {
+  "id": "house-n",
+  "headword": "house",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "how-adv",
+  "headword": "how",
+  "pos": "adverb"
+ },
+ {
+  "id": "hungry-adj",
+  "headword": "hungry",
+  "pos": "adjective"
+ },
+ {
+  "id": "hurry-n",
+  "headword": "hurry",
+  "pos": "noun"
+ },
+ {
+  "id": "hurt-v",
+  "headword": "hurt",
+  "pos": "verb"
+ },
+ {
+  "id": "husband-n",
+  "headword": "husband",
+  "pos": "noun",
+  "sourceTopics": [
+   "Family life",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "i-pron",
+  "headword": "I",
+  "pos": "pronoun"
+ },
+ {
+  "id": "ice-n",
+  "headword": "ice",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "ice-cream-n",
+  "headword": "ice cream",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "idea-n",
+  "headword": "idea",
+  "pos": "noun"
+ },
+ {
+  "id": "if-conj",
+  "headword": "if",
+  "pos": "conjunction"
+ },
+ {
+  "id": "imagine-v",
+  "headword": "imagine",
+  "pos": "verb"
+ },
+ {
+  "id": "important-adj",
+  "headword": "important",
+  "pos": "adjective"
+ },
+ {
+  "id": "in-prep",
+  "headword": "in",
+  "pos": "preposition"
+ },
+ {
+  "id": "information-n",
+  "headword": "information",
+  "pos": "noun",
+  "sourceTopics": [
+   "Media",
+   "Services"
+  ]
+ },
+ {
+  "id": "inside-prep",
+  "headword": "inside",
+  "pos": "preposition"
+ },
+ {
+  "id": "interested-adj",
+  "headword": "interested",
+  "pos": "adjective"
+ },
+ {
+  "id": "interesting-adj",
+  "headword": "interesting",
+  "pos": "adjective"
+ },
+ {
+  "id": "internet-n",
+  "headword": "Internet",
+  "pos": "noun",
+  "variants": [
+   "internet"
+  ],
+  "sourceTopics": [
+   "Media",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "interview-n",
+  "headword": "interview",
+  "pos": "noun",
+  "sourceTopics": [
+   "Relations with other people"
+  ]
+ },
+ {
+  "id": "into-prep",
+  "headword": "into",
+  "pos": "preposition"
+ },
+ {
+  "id": "introduce-v",
+  "headword": "introduce",
+  "pos": "verb"
+ },
+ {
+  "id": "is-be",
+  "headword": "is",
+  "pos": "be-verb"
+ },
+ {
+  "id": "island-n",
+  "headword": "island",
+  "pos": "noun",
+  "sourceTopics": [
+   "Nationalities and countries",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "it-pron",
+  "headword": "it",
+  "pos": "pronoun"
+ },
+ {
+  "id": "item-n",
+  "headword": "item",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms"
+  ]
+ },
+ {
+  "id": "its-det",
+  "headword": "its",
+  "pos": "determiner"
+ },
+ {
+  "id": "its-pron",
+  "headword": "its",
+  "pos": "pronoun"
+ },
+ {
+  "id": "jacket-n",
+  "headword": "jacket",
+  "pos": "noun",
+  "sourceTopics": [
+   "Clothes",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "january-n",
+  "headword": "January",
+  "pos": "noun"
+ },
+ {
+  "id": "jet-n",
+  "headword": "jet",
+  "pos": "noun",
+  "sourceTopics": [
+   "Ways of travelling",
+   "Travel"
+  ]
+ },
+ {
+  "id": "jewelry-n",
+  "headword": "jewelry",
+  "pos": "noun",
+  "variants": [
+   "jewellery"
+  ],
+  "sourceTopics": [
+   "Shopping",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "job-n",
+  "headword": "job",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "join-v",
+  "headword": "join",
+  "pos": "verb"
+ },
+ {
+  "id": "judge-v",
+  "headword": "judge",
+  "pos": "verb"
+ }
+]

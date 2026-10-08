@@ -1,0 +1,566 @@
+[
+ {
+  "id": "issue-n",
+  "headword": "issue",
+  "pos": "noun",
+  "example": "We talked about environmental issues in class today."
+ },
+ {
+  "id": "it-n",
+  "headword": "IT",
+  "pos": "noun",
+  "example": "My brother works in IT; he fixes computers."
+ },
+ {
+  "id": "itself-pron",
+  "headword": "itself",
+  "pos": "pronoun",
+  "example": "The cat cleaned itself after eating."
+ },
+ {
+  "id": "jam-n",
+  "headword": "jam",
+  "pos": "noun",
+  "example": "I like bread with butter and strawberry jam."
+ },
+ {
+  "id": "jelly-n",
+  "headword": "jelly",
+  "pos": "noun",
+  "example": "The children ate red jelly at the party."
+ },
+ {
+  "id": "joke-n",
+  "headword": "joke",
+  "pos": "noun",
+  "example": "My dad told a funny joke, and we all laughed."
+ },
+ {
+  "id": "journey-n",
+  "headword": "journey",
+  "pos": "noun",
+  "example": "The journey from London to Paris takes two hours."
+ },
+ {
+  "id": "joy-n",
+  "headword": "joy",
+  "pos": "noun",
+  "example": "She cried with joy when she saw her baby."
+ },
+ {
+  "id": "junior-adj",
+  "headword": "junior",
+  "pos": "adjective",
+  "example": "My son is ten, so he plays in the junior team."
+ },
+ {
+  "id": "junk-n",
+  "headword": "junk",
+  "pos": "noun",
+  "example": "The garage is full of old junk."
+ },
+ {
+  "id": "killer-n",
+  "headword": "killer",
+  "pos": "noun",
+  "example": "The police caught the killer last night."
+ },
+ {
+  "id": "kilo-n",
+  "headword": "kilo",
+  "pos": "noun",
+  "example": "I bought a kilo of apples at the market."
+ },
+ {
+  "id": "kilogram-n",
+  "headword": "kilogram",
+  "pos": "noun",
+  "example": "This bag of rice weighs one kilogram."
+ },
+ {
+  "id": "kilometer-n",
+  "headword": "kilometer",
+  "pos": "noun",
+  "example": "My school is two kilometers from my house."
+ },
+ {
+  "id": "kind-adj",
+  "headword": "kind",
+  "pos": "adjective",
+  "example": "It was very kind of you to help me."
+ },
+ {
+  "id": "kindly-adj",
+  "headword": "kindly",
+  "pos": "adjective",
+  "example": "A kindly old man showed us the way."
+ },
+ {
+  "id": "kingdom-n",
+  "headword": "kingdom",
+  "pos": "noun",
+  "example": "The king ruled a small kingdom by the sea."
+ },
+ {
+  "id": "kit-n",
+  "headword": "kit",
+  "pos": "noun",
+  "example": "Don't forget your football kit for the match."
+ },
+ {
+  "id": "knock-n",
+  "headword": "knock",
+  "pos": "noun",
+  "example": "I heard a knock at the door."
+ },
+ {
+  "id": "knowledge-n",
+  "headword": "knowledge",
+  "pos": "noun",
+  "example": "She has a good knowledge of history."
+ },
+ {
+  "id": "labor-n",
+  "headword": "labor",
+  "pos": "noun",
+  "example": "Building a house takes a lot of labor and time."
+ },
+ {
+  "id": "lack-n",
+  "headword": "lack",
+  "pos": "noun",
+  "example": "I feel tired because of lack of sleep."
+ },
+ {
+  "id": "lake-n",
+  "headword": "lake",
+  "pos": "noun",
+  "example": "We swam in the lake near our house."
+ },
+ {
+  "id": "lamp-n",
+  "headword": "lamp",
+  "pos": "noun",
+  "example": "Turn on the lamp; I can't read in the dark."
+ },
+ {
+  "id": "land-v",
+  "headword": "land",
+  "pos": "verb",
+  "example": "The plane landed in Madrid at six o'clock."
+ },
+ {
+  "id": "landscape-n",
+  "headword": "landscape",
+  "pos": "noun",
+  "example": "The landscape in the mountains is beautiful."
+ },
+ {
+  "id": "lane-n",
+  "headword": "lane",
+  "pos": "noun",
+  "example": "We walked down a narrow lane between the fields."
+ },
+ {
+  "id": "last-det",
+  "headword": "last",
+  "pos": "determiner",
+  "example": "I saw him last week."
+ },
+ {
+  "id": "last-pron",
+  "headword": "last",
+  "pos": "pronoun",
+  "example": "She was the last to arrive at the party."
+ },
+ {
+  "id": "latest-adj",
+  "headword": "latest",
+  "pos": "adjective",
+  "example": "Have you seen the latest film by that director?"
+ },
+ {
+  "id": "latter-adv",
+  "headword": "latter",
+  "pos": "adverb",
+  "example": "We go on holiday in the latter half of July."
+ },
+ {
+  "id": "latter-pron",
+  "headword": "latter",
+  "pos": "pronoun",
+  "example": "I have a cat and a dog; the latter is very noisy."
+ },
+ {
+  "id": "law-n",
+  "headword": "law",
+  "pos": "noun",
+  "example": "In this country, the law says you must wear a seat belt."
+ },
+ {
+  "id": "lawyer-n",
+  "headword": "lawyer",
+  "pos": "noun",
+  "example": "She is a lawyer and works in a big office."
+ },
+ {
+  "id": "laziness-n",
+  "headword": "laziness",
+  "pos": "noun",
+  "example": "His laziness made the teacher angry."
+ },
+ {
+  "id": "lead-n",
+  "headword": "lead",
+  "pos": "noun",
+  "example": "Keep your dog on a lead in the park."
+ },
+ {
+  "id": "learner-n",
+  "headword": "learner",
+  "pos": "noun",
+  "example": "This dictionary is for learners of English."
+ },
+ {
+  "id": "least-det",
+  "headword": "least",
+  "pos": "determiner",
+  "example": "He has the least money of all my friends."
+ },
+ {
+  "id": "leather-n",
+  "headword": "leather",
+  "pos": "noun",
+  "example": "I bought a black leather jacket."
+ },
+ {
+  "id": "left-adv",
+  "headword": "left",
+  "pos": "adverb",
+  "example": "Turn left at the end of the street."
+ },
+ {
+  "id": "left-n",
+  "headword": "left",
+  "pos": "noun",
+  "example": "The bank is on the left, next to the café."
+ },
+ {
+  "id": "left-hand-adj",
+  "headword": "left-hand",
+  "pos": "adjective",
+  "example": "In Britain, people drive on the left-hand side of the road."
+ },
+ {
+  "id": "leisure-n",
+  "headword": "leisure",
+  "pos": "noun",
+  "example": "I don't have much leisure time during the week."
+ },
+ {
+  "id": "lemon-n",
+  "headword": "lemon",
+  "pos": "noun",
+  "example": "I put a slice of lemon in my water."
+ },
+ {
+  "id": "lemonade-n",
+  "headword": "lemonade",
+  "pos": "noun",
+  "example": "On hot days, we drink cold lemonade."
+ },
+ {
+  "id": "lend-v",
+  "headword": "lend",
+  "pos": "verb",
+  "example": "Can you lend me your pen for a minute?"
+ },
+ {
+  "id": "less-adv",
+  "headword": "less",
+  "pos": "adverb",
+  "example": "I want to work less and travel more."
+ },
+ {
+  "id": "less-det",
+  "headword": "less",
+  "pos": "determiner",
+  "example": "Please put less sugar in my coffee."
+ },
+ {
+  "id": "less-pron",
+  "headword": "less",
+  "pos": "pronoun",
+  "example": "He ate a lot, but I ate less."
+ },
+ {
+  "id": "level-n",
+  "headword": "level",
+  "pos": "noun",
+  "example": "This English course is for students at beginner level."
+ },
+ {
+  "id": "liberty-n",
+  "headword": "liberty",
+  "pos": "noun",
+  "example": "The prisoners wanted their liberty more than anything."
+ },
+ {
+  "id": "license-v",
+  "headword": "license",
+  "pos": "verb",
+  "example": "This shop is licensed to sell alcohol."
+ },
+ {
+  "id": "lie-v",
+  "headword": "lie",
+  "pos": "verb",
+  "example": "I like to lie on the grass in the sun."
+ },
+ {
+  "id": "lifestyle-n",
+  "headword": "lifestyle",
+  "pos": "noun",
+  "example": "He has a healthy lifestyle: he eats well and runs daily."
+ },
+ {
+  "id": "likely-adj",
+  "headword": "likely",
+  "pos": "adjective",
+  "example": "It is likely to rain this afternoon."
+ },
+ {
+  "id": "lip-n",
+  "headword": "lip",
+  "pos": "noun",
+  "example": "My lips are dry because of the cold wind."
+ },
+ {
+  "id": "liter-n",
+  "headword": "liter",
+  "pos": "noun",
+  "example": "I drink two liters of water every day."
+ },
+ {
+  "id": "lively-adj",
+  "headword": "lively",
+  "pos": "adjective",
+  "example": "The market is very lively on Saturday mornings."
+ },
+ {
+  "id": "load-n",
+  "headword": "load",
+  "pos": "noun",
+  "example": "The truck carried a heavy load of wood."
+ },
+ {
+  "id": "local-adj",
+  "headword": "local",
+  "pos": "adjective",
+  "example": "We buy our vegetables from local farmers."
+ },
+ {
+  "id": "lock-n",
+  "headword": "lock",
+  "pos": "noun",
+  "example": "I put a new lock on the front door."
+ },
+ {
+  "id": "logical-adj",
+  "headword": "logical",
+  "pos": "adjective",
+  "example": "Your answer is logical, so it is probably right."
+ },
+ {
+  "id": "long-adv",
+  "headword": "long",
+  "pos": "adverb",
+  "example": "Did you wait long for the bus?"
+ },
+ {
+  "id": "loose-adj",
+  "headword": "loose",
+  "pos": "adjective",
+  "example": "These trousers are too loose; I need a belt."
+ },
+ {
+  "id": "lose-v",
+  "headword": "lose",
+  "pos": "verb",
+  "example": "I lost my keys yesterday and couldn't open the door."
+ },
+ {
+  "id": "lost-adj",
+  "headword": "lost",
+  "pos": "adjective",
+  "example": "We were lost in the city, so we asked for directions."
+ },
+ {
+  "id": "lot-n",
+  "headword": "lot",
+  "pos": "noun",
+  "example": "We have lots of time before the train leaves."
+ },
+ {
+  "id": "loudly-adv",
+  "headword": "loudly",
+  "pos": "adverb",
+  "example": "Please don't talk loudly in the library."
+ },
+ {
+  "id": "lover-n",
+  "headword": "lover",
+  "pos": "noun",
+  "example": "The two lovers walked hand in hand by the river."
+ },
+ {
+  "id": "low-adj",
+  "headword": "low",
+  "pos": "adjective",
+  "example": "The table is too low for me."
+ },
+ {
+  "id": "low-adv",
+  "headword": "low",
+  "pos": "adverb",
+  "example": "The plane flew low over the houses."
+ },
+ {
+  "id": "luckily-adv",
+  "headword": "luckily",
+  "pos": "adverb",
+  "example": "Luckily, the rain stopped before the match."
+ },
+ {
+  "id": "lunchtime-n",
+  "headword": "lunchtime",
+  "pos": "noun",
+  "example": "I usually go for a walk at lunchtime."
+ },
+ {
+  "id": "lyric-adj",
+  "headword": "lyric",
+  "pos": "adjective",
+  "example": "She writes lyric poems about love."
+ },
+ {
+  "id": "mad-adj",
+  "headword": "mad",
+  "pos": "adjective",
+  "example": "My mum was mad at me because I was late."
+ },
+ {
+  "id": "magic-adj",
+  "headword": "magic",
+  "pos": "adjective",
+  "example": "In the story, the boy finds a magic box."
+ },
+ {
+  "id": "magic-n",
+  "headword": "magic",
+  "pos": "noun",
+  "example": "Small children often believe in magic."
+ },
+ {
+  "id": "main-course-n",
+  "headword": "main course",
+  "pos": "noun",
+  "example": "For the main course, I had chicken with potatoes."
+ },
+ {
+  "id": "mainly-adv",
+  "headword": "mainly",
+  "pos": "adverb",
+  "example": "The people in this village are mainly farmers."
+ },
+ {
+  "id": "major-adj",
+  "headword": "major",
+  "pos": "adjective",
+  "example": "Traffic is a major problem in big cities."
+ },
+ {
+  "id": "maker-n",
+  "headword": "maker",
+  "pos": "noun",
+  "example": "Who is the maker of this phone?"
+ },
+ {
+  "id": "make-up-n",
+  "headword": "make-up",
+  "pos": "noun",
+  "example": "She puts on make-up before she goes out."
+ },
+ {
+  "id": "male-n",
+  "headword": "male",
+  "pos": "noun",
+  "example": "The male has brighter feathers than the female."
+ },
+ {
+  "id": "mall-n",
+  "headword": "mall",
+  "pos": "noun",
+  "example": "We went shopping at the new mall on Saturday."
+ },
+ {
+  "id": "manage-v",
+  "headword": "manage",
+  "pos": "verb",
+  "example": "The box was heavy, but I managed to carry it."
+ },
+ {
+  "id": "manager-n",
+  "headword": "manager",
+  "pos": "noun",
+  "example": "I asked to speak to the manager of the hotel."
+ },
+ {
+  "id": "manner-n",
+  "headword": "manner",
+  "pos": "noun",
+  "example": "She spoke in a calm and friendly manner."
+ },
+ {
+  "id": "mark-n",
+  "headword": "mark",
+  "pos": "noun",
+  "example": "I got a good mark in my English test."
+ },
+ {
+  "id": "mark-v",
+  "headword": "mark",
+  "pos": "verb",
+  "example": "The teacher marked our tests over the weekend."
+ },
+ {
+  "id": "market-n",
+  "headword": "market",
+  "pos": "noun",
+  "example": "Every Sunday, I buy fresh fruit at the market."
+ },
+ {
+  "id": "married-adj",
+  "headword": "married",
+  "pos": "adjective",
+  "example": "My sister is married and has two children."
+ },
+ {
+  "id": "marry-v",
+  "headword": "marry",
+  "pos": "verb",
+  "example": "He wants to marry his girlfriend next year."
+ },
+ {
+  "id": "marvelous-adj",
+  "headword": "marvelous",
+  "pos": "adjective",
+  "example": "We had a marvelous holiday by the sea."
+ },
+ {
+  "id": "material-n",
+  "headword": "material",
+  "pos": "noun",
+  "example": "This dress is made of a soft material."
+ }
+]

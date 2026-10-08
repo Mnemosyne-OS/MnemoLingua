@@ -1,0 +1,396 @@
+{
+ "decoys": {
+  "caught": 6,
+  "total": 6,
+  "missed": []
+ },
+ "toReview": 3,
+ "cards": {
+  "ski-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "skin-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "skyscraper-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "slavery-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "sleep-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "sleeve-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "slight-n": {
+   "check": "to-review",
+   "problems": [
+    "english: 'slight' as a noun (insult) is well above B1"
+   ]
+  },
+  "slightly-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "slip-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "slip-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "slogan-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "slope-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "slot-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "slow-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "slow-v": {
+   "check": "to-review",
+   "problems": [
+    "es word: 'frenar' means brake; 'reducir la velocidad' fits 'slow'"
+   ]
+  },
+  "smell-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "smile-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "smoker-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "sneeze-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "snowboard-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "snowstorm-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "soap-opera-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "social-networking-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "socially-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "soil-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "solid-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "somehow-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "someplace-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "sometime-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "sometimes-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "soothe-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "sophomore-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "sore-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "sorrow-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "sort-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "soul-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "sour-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "southeast-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "southeast-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "southern-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "southwest-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "southwest-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "souvenir-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "sparkle-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "specialist-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "specialize-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "specially-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "spectacular-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "spectator-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "speed-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "spelling-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "sphere-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "spice-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "spicy-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "spider-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "spinach-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "spiral-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "spirit-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "spiritual-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "split-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "spoil-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "sponge-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "sponsor-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "sports-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "sportsmanship-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "stable-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "stall-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "standard-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "star-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "stare-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "status-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "stay-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "steadily-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "steady-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "steam-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "steel-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "steep-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "stem-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "stick-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "sticker-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "sticky-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "stir-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "storage-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "stormy-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "storyteller-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "strain-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "strangely-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "strategic-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "straw-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "strawberry-n": {
+   "check": "to-review",
+   "problems": [
+    "es example: omits 'fresh'"
+   ]
+  },
+  "stream-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "stream-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "strengthen-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "stress-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "stressed-adj": {
+   "check": "two-pass",
+   "problems": []
+  }
+ }
+}

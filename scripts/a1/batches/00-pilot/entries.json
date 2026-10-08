@@ -1,0 +1,671 @@
+[
+ {
+  "id": "a-det",
+  "headword": "a",
+  "pos": "determiner"
+ },
+ {
+  "id": "afraid-adj",
+  "headword": "afraid",
+  "pos": "adjective"
+ },
+ {
+  "id": "all-pron",
+  "headword": "all",
+  "pos": "pronoun"
+ },
+ {
+  "id": "and-conj",
+  "headword": "and",
+  "pos": "conjunction"
+ },
+ {
+  "id": "apple-n",
+  "headword": "apple",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "at-prep",
+  "headword": "at",
+  "pos": "preposition"
+ },
+ {
+  "id": "ball-n",
+  "headword": "ball",
+  "pos": "noun",
+  "sourceTopics": [
+   "Hobbies and pastimes",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "beach-n",
+  "headword": "beach",
+  "pos": "noun",
+  "sourceTopics": [
+   "Holidays",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "before-prep",
+  "headword": "before",
+  "pos": "preposition"
+ },
+ {
+  "id": "better-adj",
+  "headword": "better",
+  "pos": "adjective"
+ },
+ {
+  "id": "blank-adj",
+  "headword": "blank",
+  "pos": "adjective"
+ },
+ {
+  "id": "boring-adj",
+  "headword": "boring",
+  "pos": "adjective"
+ },
+ {
+  "id": "brain-n",
+  "headword": "brain",
+  "pos": "noun",
+  "sourceTopics": [
+   "Health and body care"
+  ]
+ },
+ {
+  "id": "brush-n",
+  "headword": "brush",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "butterfly-n",
+  "headword": "butterfly",
+  "pos": "noun"
+ },
+ {
+  "id": "candy-n",
+  "headword": "candy",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "catch-n",
+  "headword": "catch",
+  "pos": "noun"
+ },
+ {
+  "id": "cheese-n",
+  "headword": "cheese",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "classroom-n",
+  "headword": "classroom",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Education"
+  ]
+ },
+ {
+  "id": "cloud-n",
+  "headword": "cloud",
+  "pos": "noun",
+  "sourceTopics": [
+   "Weather"
+  ]
+ },
+ {
+  "id": "collection-n",
+  "headword": "collection",
+  "pos": "noun",
+  "sourceTopics": [
+   "Hobbies and pastimes"
+  ]
+ },
+ {
+  "id": "cookie-n",
+  "headword": "cookie",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "cover-n",
+  "headword": "cover",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "dance-n",
+  "headword": "dance",
+  "pos": "noun",
+  "sourceTopics": [
+   "Hobbies and pastimes",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "design-n",
+  "headword": "design",
+  "pos": "noun",
+  "sourceTopics": [
+   "Arts",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "discuss-v",
+  "headword": "discuss",
+  "pos": "verb"
+ },
+ {
+  "id": "drama-n",
+  "headword": "drama",
+  "pos": "noun",
+  "sourceTopics": [
+   "Hobbies and pastimes",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "due-adj",
+  "headword": "due",
+  "pos": "adjective"
+ },
+ {
+  "id": "elementary-adj",
+  "headword": "elementary",
+  "pos": "adjective"
+ },
+ {
+  "id": "everyone-pron",
+  "headword": "everyone",
+  "pos": "pronoun"
+ },
+ {
+  "id": "face-n",
+  "headword": "face",
+  "pos": "noun",
+  "sourceTopics": [
+   "Health and body care"
+  ]
+ },
+ {
+  "id": "fast-adv",
+  "headword": "fast",
+  "pos": "adverb"
+ },
+ {
+  "id": "field-n",
+  "headword": "field",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "fish-n",
+  "headword": "fish",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "food-n",
+  "headword": "food",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "from-prep",
+  "headword": "from",
+  "pos": "preposition"
+ },
+ {
+  "id": "get-v",
+  "headword": "get",
+  "pos": "verb"
+ },
+ {
+  "id": "gold-adj",
+  "headword": "gold",
+  "pos": "adjective"
+ },
+ {
+  "id": "grandparent-n",
+  "headword": "grandparent",
+  "pos": "noun",
+  "sourceTopics": [
+   "Family life",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "guess-v",
+  "headword": "guess",
+  "pos": "verb"
+ },
+ {
+  "id": "hand-n",
+  "headword": "hand",
+  "pos": "noun",
+  "sourceTopics": [
+   "Health and body care"
+  ]
+ },
+ {
+  "id": "head-n",
+  "headword": "head",
+  "pos": "noun",
+  "sourceTopics": [
+   "Health and body care"
+  ]
+ },
+ {
+  "id": "here-adv",
+  "headword": "here",
+  "pos": "adverb"
+ },
+ {
+  "id": "hold-n",
+  "headword": "hold",
+  "pos": "noun"
+ },
+ {
+  "id": "hour-n",
+  "headword": "hour",
+  "pos": "noun"
+ },
+ {
+  "id": "ideal-adj",
+  "headword": "ideal",
+  "pos": "adjective"
+ },
+ {
+  "id": "interviewer-n",
+  "headword": "interviewer",
+  "pos": "noun",
+  "sourceTopics": [
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "jeans-n",
+  "headword": "jeans",
+  "pos": "noun",
+  "sourceTopics": [
+   "Clothes",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "keep-v",
+  "headword": "keep",
+  "pos": "verb"
+ },
+ {
+  "id": "kite-n",
+  "headword": "kite",
+  "pos": "noun",
+  "sourceTopics": [
+   "Leisure activities",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "laugh-v",
+  "headword": "laugh",
+  "pos": "verb"
+ },
+ {
+  "id": "library-n",
+  "headword": "library",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "little-adj",
+  "headword": "little",
+  "pos": "adjective"
+ },
+ {
+  "id": "love-n",
+  "headword": "love",
+  "pos": "noun"
+ },
+ {
+  "id": "man-n",
+  "headword": "man",
+  "pos": "noun",
+  "sourceTopics": [
+   "Personal information",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "me-pron",
+  "headword": "me",
+  "pos": "pronoun"
+ },
+ {
+  "id": "milk-n",
+  "headword": "milk",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "monday-n",
+  "headword": "Monday",
+  "pos": "noun"
+ },
+ {
+  "id": "mouse-n",
+  "headword": "mouse",
+  "pos": "noun"
+ },
+ {
+  "id": "musician-n",
+  "headword": "musician",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "news-n",
+  "headword": "news",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "notebook-n",
+  "headword": "notebook",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "officer-n",
+  "headword": "officer",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "open-adj",
+  "headword": "open",
+  "pos": "adjective"
+ },
+ {
+  "id": "outside-adv",
+  "headword": "outside",
+  "pos": "adverb"
+ },
+ {
+  "id": "pants-n",
+  "headword": "pants",
+  "pos": "noun",
+  "sourceTopics": [
+   "Clothes",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "pay-v",
+  "headword": "pay",
+  "pos": "verb"
+ },
+ {
+  "id": "photo-n",
+  "headword": "photo",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "plane-n",
+  "headword": "plane",
+  "pos": "noun",
+  "sourceTopics": [
+   "Ways of travelling",
+   "Travel"
+  ]
+ },
+ {
+  "id": "poor-adj",
+  "headword": "poor",
+  "pos": "adjective"
+ },
+ {
+  "id": "prince-n",
+  "headword": "prince",
+  "pos": "noun",
+  "sourceTopics": [
+   "Nationalities and countries",
+   "Relations with other people"
+  ]
+ },
+ {
+  "id": "rabbit-n",
+  "headword": "rabbit",
+  "pos": "noun"
+ },
+ {
+  "id": "real-adj",
+  "headword": "real",
+  "pos": "adjective"
+ },
+ {
+  "id": "ribbon-n",
+  "headword": "ribbon",
+  "pos": "noun"
+ },
+ {
+  "id": "rose-n",
+  "headword": "rose",
+  "pos": "noun"
+ },
+ {
+  "id": "sale-n",
+  "headword": "sale",
+  "pos": "noun",
+  "sourceTopics": [
+   "Shopping",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "scientist-n",
+  "headword": "scientist",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "shake-n",
+  "headword": "shake",
+  "pos": "noun"
+ },
+ {
+  "id": "short-adv",
+  "headword": "short",
+  "pos": "adverb"
+ },
+ {
+  "id": "singer-n",
+  "headword": "singer",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "small-adj",
+  "headword": "small",
+  "pos": "adjective"
+ },
+ {
+  "id": "soccer-n",
+  "headword": "soccer",
+  "pos": "noun",
+  "sourceTopics": [
+   "Leisure activities",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "sorry-adj",
+  "headword": "sorry",
+  "pos": "adjective"
+ },
+ {
+  "id": "stage-n",
+  "headword": "stage",
+  "pos": "noun",
+  "sourceTopics": [
+   "Hobbies and pastimes",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "stop-v",
+  "headword": "stop",
+  "pos": "verb"
+ },
+ {
+  "id": "subway-n",
+  "headword": "subway",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "Travel"
+  ]
+ },
+ {
+  "id": "supermarket-n",
+  "headword": "supermarket",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "take-v",
+  "headword": "take",
+  "pos": "verb"
+ },
+ {
+  "id": "tell-v",
+  "headword": "tell",
+  "pos": "verb"
+ },
+ {
+  "id": "that-pron",
+  "headword": "that",
+  "pos": "pronoun"
+ },
+ {
+  "id": "thin-adj",
+  "headword": "thin",
+  "pos": "adjective"
+ },
+ {
+  "id": "tiger-n",
+  "headword": "tiger",
+  "pos": "noun"
+ },
+ {
+  "id": "tomorrow-adv",
+  "headword": "tomorrow",
+  "pos": "adverb"
+ },
+ {
+  "id": "town-n",
+  "headword": "town",
+  "pos": "noun",
+  "sourceTopics": [
+   "Nationalities and countries",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "tube-n",
+  "headword": "tube",
+  "pos": "noun"
+ },
+ {
+  "id": "underline-n",
+  "headword": "underline",
+  "pos": "noun"
+ },
+ {
+  "id": "visit-n",
+  "headword": "visit",
+  "pos": "noun"
+ },
+ {
+  "id": "want-v",
+  "headword": "want",
+  "pos": "verb"
+ },
+ {
+  "id": "wear-v",
+  "headword": "wear",
+  "pos": "verb"
+ },
+ {
+  "id": "what-pron",
+  "headword": "what",
+  "pos": "pronoun"
+ }
+]

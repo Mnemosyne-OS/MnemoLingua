@@ -1,0 +1,314 @@
+[
+ {
+  "id": "g-1-a",
+  "headword": "I am",
+  "pos": "grammar (AFF. DEC.)",
+  "theme": "g-be"
+ },
+ {
+  "id": "g-1-b",
+  "headword": "I am",
+  "pos": "grammar (AFF. DEC.)",
+  "theme": "g-be"
+ },
+ {
+  "id": "g-2-2-a",
+  "headword": "Are you ...?",
+  "pos": "grammar (AFF. INT.)",
+  "theme": "g-be"
+ },
+ {
+  "id": "g-2-2-b",
+  "headword": "Are you ...?",
+  "pos": "grammar (AFF. INT.)",
+  "theme": "g-be"
+ },
+ {
+  "id": "g-4-a",
+  "headword": "we are",
+  "pos": "grammar (AFF. DEC.)",
+  "theme": "g-be"
+ },
+ {
+  "id": "g-4-b",
+  "headword": "we are",
+  "pos": "grammar (AFF. DEC.)",
+  "theme": "g-be"
+ },
+ {
+  "id": "g-8-a",
+  "headword": "This/That is",
+  "pos": "grammar (AFF. DEC.)",
+  "theme": "g-be"
+ },
+ {
+  "id": "g-8-b",
+  "headword": "This/That is",
+  "pos": "grammar (AFF. DEC.)",
+  "theme": "g-be"
+ },
+ {
+  "id": "g-58-a",
+  "headword": "TENSE/ASPECT: PRESENT (BE)",
+  "pos": "grammar (AFF. DEC.)",
+  "theme": "g-be"
+ },
+ {
+  "id": "g-58-b",
+  "headword": "TENSE/ASPECT: PRESENT (BE)",
+  "pos": "grammar (AFF. DEC.)",
+  "theme": "g-be"
+ },
+ {
+  "id": "g-58-2-a",
+  "headword": "TENSE/ASPECT: PRESENT (BE)",
+  "pos": "grammar (AFF. INT.)",
+  "theme": "g-be"
+ },
+ {
+  "id": "g-58-2-b",
+  "headword": "TENSE/ASPECT: PRESENT (BE)",
+  "pos": "grammar (AFF. INT.)",
+  "theme": "g-be"
+ },
+ {
+  "id": "g-59-a",
+  "headword": "TENSE/ASPECT: PRESENT (lexical verbs)",
+  "pos": "grammar (AFF. DEC.)",
+  "theme": "g-present"
+ },
+ {
+  "id": "g-59-b",
+  "headword": "TENSE/ASPECT: PRESENT (lexical verbs)",
+  "pos": "grammar (AFF. DEC.)",
+  "theme": "g-present"
+ },
+ {
+  "id": "g-59-2-a",
+  "headword": "TENSE/ASPECT: PRESENT (lexicalverbs)",
+  "pos": "grammar (AFF. INT.)",
+  "theme": "g-present"
+ },
+ {
+  "id": "g-59-2-b",
+  "headword": "TENSE/ASPECT: PRESENT (lexicalverbs)",
+  "pos": "grammar (AFF. INT.)",
+  "theme": "g-present"
+ },
+ {
+  "id": "g-61-a",
+  "headword": "TENSE/ASPECT: PRESENT PROGRESSIVE",
+  "pos": "grammar (AFF. DEC.)",
+  "theme": "g-present"
+ },
+ {
+  "id": "g-61-b",
+  "headword": "TENSE/ASPECT: PRESENT PROGRESSIVE",
+  "pos": "grammar (AFF. DEC.)",
+  "theme": "g-present"
+ },
+ {
+  "id": "g-123-2-a",
+  "headword": "MODAL/AUX: can",
+  "pos": "grammar (AFF. INT.)",
+  "theme": "g-can"
+ },
+ {
+  "id": "g-123-2-b",
+  "headword": "MODAL/AUX: can",
+  "pos": "grammar (AFF. INT.)",
+  "theme": "g-can"
+ },
+ {
+  "id": "g-117-a",
+  "headword": "IMPERATIVE: AFFIRMATIVE (lexical verbs)",
+  "pos": "grammar (AFF. IMP.)",
+  "theme": "g-can"
+ },
+ {
+  "id": "g-117-b",
+  "headword": "IMPERATIVE: AFFIRMATIVE (lexical verbs)",
+  "pos": "grammar (AFF. IMP.)",
+  "theme": "g-can"
+ },
+ {
+  "id": "g-6-a",
+  "headword": "my/our/your/her/their (except for 'his' and 'its')",
+  "pos": "grammar",
+  "theme": "g-words"
+ },
+ {
+  "id": "g-6-b",
+  "headword": "my/our/your/her/their (except for 'his' and 'its')",
+  "pos": "grammar",
+  "theme": "g-words"
+ },
+ {
+  "id": "g-13-a",
+  "headword": "INDEFINITE ARTICLES",
+  "pos": "grammar",
+  "theme": "g-words"
+ },
+ {
+  "id": "g-13-b",
+  "headword": "INDEFINITE ARTICLES",
+  "pos": "grammar",
+  "theme": "g-words"
+ },
+ {
+  "id": "g-15-a",
+  "headword": "DETERMINERS: some/any",
+  "pos": "grammar",
+  "theme": "g-words"
+ },
+ {
+  "id": "g-15-b",
+  "headword": "DETERMINERS: some/any",
+  "pos": "grammar",
+  "theme": "g-words"
+ },
+ {
+  "id": "g-21-a",
+  "headword": "PREPOSITIONS",
+  "pos": "grammar",
+  "theme": "g-words"
+ },
+ {
+  "id": "g-21-b",
+  "headword": "PREPOSITIONS",
+  "pos": "grammar",
+  "theme": "g-words"
+ },
+ {
+  "id": "g-32-a",
+  "headword": "ADVERBS OF FREQUENCY: always/usually/often/frequently/occasionally/sometimes/rarely",
+  "pos": "grammar",
+  "theme": "g-compare"
+ },
+ {
+  "id": "g-32-b",
+  "headword": "ADVERBS OF FREQUENCY: always/usually/often/frequently/occasionally/sometimes/rarely",
+  "pos": "grammar",
+  "theme": "g-compare"
+ },
+ {
+  "id": "g-35-a",
+  "headword": "ADVERBS OF NEGATION: never",
+  "pos": "grammar",
+  "theme": "g-compare"
+ },
+ {
+  "id": "g-35-b",
+  "headword": "ADVERBS OF NEGATION: never",
+  "pos": "grammar",
+  "theme": "g-compare"
+ },
+ {
+  "id": "g-40-a",
+  "headword": "SUPERLATIVE OF SUPERIORITY: -est",
+  "pos": "grammar",
+  "theme": "g-compare"
+ },
+ {
+  "id": "g-40-b",
+  "headword": "SUPERLATIVE OF SUPERIORITY: -est",
+  "pos": "grammar",
+  "theme": "g-compare"
+ },
+ {
+  "id": "g-239-a",
+  "headword": "WH- QUESTION: What ...?",
+  "pos": "grammar (AFF. INT./NEG. INT.)",
+  "theme": "g-questions"
+ },
+ {
+  "id": "g-239-b",
+  "headword": "WH- QUESTION: What ...?",
+  "pos": "grammar (AFF. INT./NEG. INT.)",
+  "theme": "g-questions"
+ },
+ {
+  "id": "g-246-a",
+  "headword": "WH- QUESTION: How ...?",
+  "pos": "grammar (AFF. INT./NEG. INT.)",
+  "theme": "g-questions"
+ },
+ {
+  "id": "g-246-b",
+  "headword": "WH- QUESTION: How ...?",
+  "pos": "grammar (AFF. INT./NEG. INT.)",
+  "theme": "g-questions"
+ },
+ {
+  "id": "g-196-2-a",
+  "headword": "SENTENCE PATTERN: SUBJECT+V+OBJECT",
+  "pos": "grammar (AFF. INT.)",
+  "theme": "g-questions"
+ },
+ {
+  "id": "g-196-2-b",
+  "headword": "SENTENCE PATTERN: SUBJECT+V+OBJECT",
+  "pos": "grammar (AFF. INT.)",
+  "theme": "g-questions"
+ },
+ {
+  "id": "g-155-a",
+  "headword": "ADVERBIAL CLAUSE: when",
+  "pos": "grammar",
+  "theme": "g-sentences"
+ },
+ {
+  "id": "g-155-b",
+  "headword": "ADVERBIAL CLAUSE: when",
+  "pos": "grammar",
+  "theme": "g-sentences"
+ },
+ {
+  "id": "g-162-a",
+  "headword": "hope/know/think+CLAUSE (without 'that')",
+  "pos": "grammar",
+  "theme": "g-sentences"
+ },
+ {
+  "id": "g-162-b",
+  "headword": "hope/know/think+CLAUSE (without 'that')",
+  "pos": "grammar",
+  "theme": "g-sentences"
+ },
+ {
+  "id": "g-101-a",
+  "headword": "VERB to DO",
+  "pos": "grammar",
+  "theme": "g-sentences"
+ },
+ {
+  "id": "g-101-b",
+  "headword": "VERB to DO",
+  "pos": "grammar",
+  "theme": "g-sentences"
+ },
+ {
+  "id": "g-105-a",
+  "headword": "V-ING (not preceded by 'not')",
+  "pos": "grammar",
+  "theme": "g-sentences"
+ },
+ {
+  "id": "g-105-b",
+  "headword": "V-ING (not preceded by 'not')",
+  "pos": "grammar",
+  "theme": "g-sentences"
+ },
+ {
+  "id": "g-55-a",
+  "headword": "PHRASAL VERBS (V+PARTICLE)",
+  "pos": "grammar",
+  "theme": "g-sentences"
+ },
+ {
+  "id": "g-55-b",
+  "headword": "PHRASAL VERBS (V+PARTICLE)",
+  "pos": "grammar",
+  "theme": "g-sentences"
+ }
+]

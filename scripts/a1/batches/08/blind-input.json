@@ -1,0 +1,572 @@
+[
+ {
+  "id": "person-n",
+  "headword": "person",
+  "pos": "noun",
+  "example": "She is a very kind person."
+ },
+ {
+  "id": "personal-adj",
+  "headword": "personal",
+  "pos": "adjective",
+  "example": "This is my personal phone, not my work phone."
+ },
+ {
+  "id": "pet-n",
+  "headword": "pet",
+  "pos": "noun",
+  "example": "We have a pet cat at home."
+ },
+ {
+  "id": "phone-n",
+  "headword": "phone",
+  "pos": "noun",
+  "example": "My phone is in my bag."
+ },
+ {
+  "id": "phone-v",
+  "headword": "phone",
+  "pos": "verb",
+  "example": "I phone my mother every Sunday."
+ },
+ {
+  "id": "piano-n",
+  "headword": "piano",
+  "pos": "noun",
+  "example": "My sister plays the piano."
+ },
+ {
+  "id": "pick-v",
+  "headword": "pick",
+  "pos": "verb",
+  "example": "Pick a card, please."
+ },
+ {
+  "id": "picnic-n",
+  "headword": "picnic",
+  "pos": "noun",
+  "example": "We eat our picnic in the park."
+ },
+ {
+  "id": "picture-n",
+  "headword": "picture",
+  "pos": "noun",
+  "example": "Look at this picture of my dog."
+ },
+ {
+  "id": "piece-n",
+  "headword": "piece",
+  "pos": "noun",
+  "example": "Can I have a piece of cake?"
+ },
+ {
+  "id": "pig-n",
+  "headword": "pig",
+  "pos": "noun",
+  "example": "The pig is pink and fat."
+ },
+ {
+  "id": "pink-adj",
+  "headword": "pink",
+  "pos": "adjective",
+  "example": "She has a pink dress."
+ },
+ {
+  "id": "pizza-n",
+  "headword": "pizza",
+  "pos": "noun",
+  "example": "We eat pizza on Friday night."
+ },
+ {
+  "id": "place-n",
+  "headword": "place",
+  "pos": "noun",
+  "example": "This café is my favourite place in town."
+ },
+ {
+  "id": "plan-n",
+  "headword": "plan",
+  "pos": "noun",
+  "example": "What is your plan for the holidays?"
+ },
+ {
+  "id": "play-n",
+  "headword": "play",
+  "pos": "noun",
+  "example": "We watch a play at the theatre."
+ },
+ {
+  "id": "play-v",
+  "headword": "play",
+  "pos": "verb",
+  "example": "The children play in the garden."
+ },
+ {
+  "id": "player-n",
+  "headword": "player",
+  "pos": "noun",
+  "example": "He is a good football player."
+ },
+ {
+  "id": "please-adv",
+  "headword": "please",
+  "pos": "adverb",
+  "example": "A coffee, please."
+ },
+ {
+  "id": "pleasure-n",
+  "headword": "pleasure",
+  "pos": "noun",
+  "example": "It is a pleasure to meet you."
+ },
+ {
+  "id": "pocket-n",
+  "headword": "pocket",
+  "pos": "noun",
+  "example": "My keys are in my pocket."
+ },
+ {
+  "id": "poem-n",
+  "headword": "poem",
+  "pos": "noun",
+  "example": "The children read a short poem in class."
+ },
+ {
+  "id": "point-n",
+  "headword": "point",
+  "pos": "noun",
+  "example": "Our team has ten points."
+ },
+ {
+  "id": "pollution-n",
+  "headword": "pollution",
+  "pos": "noun",
+  "example": "The cars make a lot of pollution."
+ },
+ {
+  "id": "pool-n",
+  "headword": "pool",
+  "pos": "noun",
+  "example": "We swim in the pool every Saturday."
+ },
+ {
+  "id": "pop-n",
+  "headword": "pop",
+  "pos": "noun",
+  "example": "I listen to pop on the radio."
+ },
+ {
+  "id": "post-n",
+  "headword": "post",
+  "pos": "noun",
+  "example": "The post comes at nine in the morning."
+ },
+ {
+  "id": "poster-n",
+  "headword": "poster",
+  "pos": "noun",
+  "example": "There is a big poster on my bedroom wall."
+ },
+ {
+  "id": "potato-n",
+  "headword": "potato",
+  "pos": "noun",
+  "example": "I eat potatoes with my fish."
+ },
+ {
+  "id": "practice-n",
+  "headword": "practice",
+  "pos": "noun",
+  "example": "I have football practice on Monday."
+ },
+ {
+  "id": "practice-v",
+  "headword": "practice",
+  "pos": "verb",
+  "example": "I practise the guitar every day."
+ },
+ {
+  "id": "pray-v",
+  "headword": "pray",
+  "pos": "verb",
+  "example": "They pray in the church on Sunday."
+ },
+ {
+  "id": "present-n",
+  "headword": "present",
+  "pos": "noun",
+  "example": "This present is for your birthday."
+ },
+ {
+  "id": "pretty-adj",
+  "headword": "pretty",
+  "pos": "adjective",
+  "example": "Your garden is very pretty."
+ },
+ {
+  "id": "price-n",
+  "headword": "price",
+  "pos": "noun",
+  "example": "The price of this shirt is ten euros."
+ },
+ {
+  "id": "princess-n",
+  "headword": "princess",
+  "pos": "noun",
+  "example": "The princess lives in a big castle."
+ },
+ {
+  "id": "problem-n",
+  "headword": "problem",
+  "pos": "noun",
+  "example": "My car does not start. I have a problem."
+ },
+ {
+  "id": "program-n",
+  "headword": "program",
+  "pos": "noun",
+  "example": "I watch a funny program on TV."
+ },
+ {
+  "id": "purple-n",
+  "headword": "purple",
+  "pos": "noun",
+  "example": "Purple is my favourite colour."
+ },
+ {
+  "id": "push-v",
+  "headword": "push",
+  "pos": "verb",
+  "example": "Push the door to open it."
+ },
+ {
+  "id": "put-v",
+  "headword": "put",
+  "pos": "verb",
+  "example": "I put the milk in the fridge."
+ },
+ {
+  "id": "quarter-n",
+  "headword": "quarter",
+  "pos": "noun",
+  "example": "It is a quarter past three."
+ },
+ {
+  "id": "question-n",
+  "headword": "question",
+  "pos": "noun",
+  "example": "Can I ask you a question?"
+ },
+ {
+  "id": "quickly-adv",
+  "headword": "quickly",
+  "pos": "adverb",
+  "example": "He runs very quickly."
+ },
+ {
+  "id": "quiet-adj",
+  "headword": "quiet",
+  "pos": "adjective",
+  "example": "The library is very quiet."
+ },
+ {
+  "id": "radio-n",
+  "headword": "radio",
+  "pos": "noun",
+  "example": "I listen to the radio in the car."
+ },
+ {
+  "id": "rain-n",
+  "headword": "rain",
+  "pos": "noun",
+  "example": "Take an umbrella. There is a lot of rain."
+ },
+ {
+  "id": "rain-v",
+  "headword": "rain",
+  "pos": "verb",
+  "example": "It rains a lot in November."
+ },
+ {
+  "id": "rainy-adj",
+  "headword": "rainy",
+  "pos": "adjective",
+  "example": "It is a rainy day, so we stay home."
+ },
+ {
+  "id": "rat-n",
+  "headword": "rat",
+  "pos": "noun",
+  "example": "A big rat lives under the house."
+ },
+ {
+  "id": "re-be",
+  "headword": "'re",
+  "pos": "be-verb",
+  "example": "We're happy today."
+ },
+ {
+  "id": "read-v",
+  "headword": "read",
+  "pos": "verb",
+  "example": "I read a book in bed."
+ },
+ {
+  "id": "reader-n",
+  "headword": "reader",
+  "pos": "noun",
+  "example": "My son is a good reader. He loves books."
+ },
+ {
+  "id": "reading-n",
+  "headword": "reading",
+  "pos": "noun",
+  "example": "Reading is my favourite hobby."
+ },
+ {
+  "id": "ready-adj",
+  "headword": "ready",
+  "pos": "adjective",
+  "example": "Dinner is ready. Come and eat!"
+ },
+ {
+  "id": "real-adv",
+  "headword": "real",
+  "pos": "adverb",
+  "example": "This soup is real good."
+ },
+ {
+  "id": "really-adv",
+  "headword": "really",
+  "pos": "adverb",
+  "example": "I really like this song."
+ },
+ {
+  "id": "reason-n",
+  "headword": "reason",
+  "pos": "noun",
+  "example": "Tell me the reason. Why are you sad?"
+ },
+ {
+  "id": "red-adj",
+  "headword": "red",
+  "pos": "adjective",
+  "example": "I have a red car."
+ },
+ {
+  "id": "remember-v",
+  "headword": "remember",
+  "pos": "verb",
+  "example": "I remember your name."
+ },
+ {
+  "id": "repeat-v",
+  "headword": "repeat",
+  "pos": "verb",
+  "example": "Can you repeat that, please?"
+ },
+ {
+  "id": "reporter-n",
+  "headword": "reporter",
+  "pos": "noun",
+  "example": "The reporter writes for a newspaper."
+ },
+ {
+  "id": "restaurant-n",
+  "headword": "restaurant",
+  "pos": "noun",
+  "example": "We have dinner at a restaurant."
+ },
+ {
+  "id": "result-n",
+  "headword": "result",
+  "pos": "noun",
+  "example": "My test result is very good."
+ },
+ {
+  "id": "review-n",
+  "headword": "review",
+  "pos": "noun",
+  "example": "We have a review lesson before the test."
+ },
+ {
+  "id": "rice-n",
+  "headword": "rice",
+  "pos": "noun",
+  "example": "I eat rice with chicken."
+ },
+ {
+  "id": "rich-adj",
+  "headword": "rich",
+  "pos": "adjective",
+  "example": "He is rich. He has three big houses."
+ },
+ {
+  "id": "ride-n",
+  "headword": "ride",
+  "pos": "noun",
+  "example": "We go for a bike ride on Sunday."
+ },
+ {
+  "id": "ride-v",
+  "headword": "ride",
+  "pos": "verb",
+  "example": "I ride my bike to school."
+ },
+ {
+  "id": "right-adj",
+  "headword": "right",
+  "pos": "adjective",
+  "example": "Yes, that is the right answer."
+ },
+ {
+  "id": "right-adv",
+  "headword": "right",
+  "pos": "adverb",
+  "example": "Turn right at the bank."
+ },
+ {
+  "id": "ring-v",
+  "headword": "ring",
+  "pos": "verb",
+  "example": "The phone rings. Can you answer it?"
+ },
+ {
+  "id": "river-n",
+  "headword": "river",
+  "pos": "noun",
+  "example": "The river goes through the town."
+ },
+ {
+  "id": "role-n",
+  "headword": "role",
+  "pos": "noun",
+  "example": "She has the main role in the film."
+ },
+ {
+  "id": "room-n",
+  "headword": "room",
+  "pos": "noun",
+  "example": "Our house has five rooms."
+ },
+ {
+  "id": "row-n",
+  "headword": "row",
+  "pos": "noun",
+  "example": "We sit in the front row."
+ },
+ {
+  "id": "rude-adj",
+  "headword": "rude",
+  "pos": "adjective",
+  "example": "Do not shout at people. It is rude."
+ },
+ {
+  "id": "rule-n",
+  "headword": "rule",
+  "pos": "noun",
+  "example": "The rule in class is no phones."
+ },
+ {
+  "id": "ruler-n",
+  "headword": "ruler",
+  "pos": "noun",
+  "example": "I draw a line with my ruler."
+ },
+ {
+  "id": "run-n",
+  "headword": "run",
+  "pos": "noun",
+  "example": "I go for a run every morning."
+ },
+ {
+  "id": "run-v",
+  "headword": "run",
+  "pos": "verb",
+  "example": "The dog runs in the park."
+ },
+ {
+  "id": "s-be",
+  "headword": "'s",
+  "pos": "be-verb",
+  "example": "She's my sister."
+ },
+ {
+  "id": "sad-adj",
+  "headword": "sad",
+  "pos": "adjective",
+  "example": "He is sad because his cat is ill."
+ },
+ {
+  "id": "sailor-n",
+  "headword": "sailor",
+  "pos": "noun",
+  "example": "The sailor works on a big ship."
+ },
+ {
+  "id": "salad-n",
+  "headword": "salad",
+  "pos": "noun",
+  "example": "I have a green salad for lunch."
+ },
+ {
+  "id": "same-adj",
+  "headword": "same",
+  "pos": "adjective",
+  "example": "We are in the same class."
+ },
+ {
+  "id": "same-adv",
+  "headword": "same",
+  "pos": "adverb",
+  "example": "The two sisters look the same."
+ },
+ {
+  "id": "same-pron",
+  "headword": "same",
+  "pos": "pronoun",
+  "example": "I want the same as my friend."
+ },
+ {
+  "id": "sandwich-n",
+  "headword": "sandwich",
+  "pos": "noun",
+  "example": "I eat a cheese sandwich for lunch."
+ },
+ {
+  "id": "saturday-n",
+  "headword": "Saturday",
+  "pos": "noun",
+  "example": "I do not work on Saturday."
+ },
+ {
+  "id": "save-v",
+  "headword": "save",
+  "pos": "verb",
+  "example": "I save money for a new bike."
+ },
+ {
+  "id": "saw-n",
+  "headword": "saw",
+  "pos": "noun",
+  "example": "My dad cuts the wood with a saw."
+ },
+ {
+  "id": "say-v",
+  "headword": "say",
+  "pos": "verb",
+  "example": "Say hello to your mother."
+ },
+ {
+  "id": "school-n",
+  "headword": "school",
+  "pos": "noun",
+  "example": "The children go to school at eight."
+ },
+ {
+  "id": "science-n",
+  "headword": "science",
+  "pos": "noun",
+  "example": "In science class, we learn about plants."
+ }
+]

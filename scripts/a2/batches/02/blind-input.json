@@ -1,0 +1,566 @@
+[
+ {
+  "id": "audio-adj",
+  "headword": "audio",
+  "pos": "adjective",
+  "example": "The museum has an audio guide in many languages."
+ },
+ {
+  "id": "author-n",
+  "headword": "author",
+  "pos": "noun",
+  "example": "Who is the author of this book?"
+ },
+ {
+  "id": "automatic-adj",
+  "headword": "automatic",
+  "pos": "adjective",
+  "example": "The supermarket has automatic doors that open when you arrive."
+ },
+ {
+  "id": "automatically-adv",
+  "headword": "automatically",
+  "pos": "adverb",
+  "example": "The lights in the garden turn on automatically at night."
+ },
+ {
+  "id": "average-adj",
+  "headword": "average",
+  "pos": "adjective",
+  "example": "The average age of the students in my class is fifteen."
+ },
+ {
+  "id": "average-n",
+  "headword": "average",
+  "pos": "noun",
+  "example": "My test score was above the class average."
+ },
+ {
+  "id": "avoid-v",
+  "headword": "avoid",
+  "pos": "verb",
+  "example": "I take the train to avoid the traffic."
+ },
+ {
+  "id": "award-n",
+  "headword": "award",
+  "pos": "noun",
+  "example": "The film won an award for the best music."
+ },
+ {
+  "id": "awful-adj",
+  "headword": "awful",
+  "pos": "adjective",
+  "example": "The weather was awful, so we stayed inside."
+ },
+ {
+  "id": "back-adj",
+  "headword": "back",
+  "pos": "adjective",
+  "example": "Please use the back door; the front door is broken."
+ },
+ {
+  "id": "background-n",
+  "headword": "background",
+  "pos": "noun",
+  "example": "She comes from a poor family background."
+ },
+ {
+  "id": "badly-adv",
+  "headword": "badly",
+  "pos": "adverb",
+  "example": "He played badly and lost the match."
+ },
+ {
+  "id": "badminton-n",
+  "headword": "badminton",
+  "pos": "noun",
+  "example": "We play badminton at the sports centre on Fridays."
+ },
+ {
+  "id": "bake-v",
+  "headword": "bake",
+  "pos": "verb",
+  "example": "My mum bakes bread in the oven every Sunday."
+ },
+ {
+  "id": "balcony-n",
+  "headword": "balcony",
+  "pos": "noun",
+  "example": "In summer we have breakfast on the balcony."
+ },
+ {
+  "id": "balloon-n",
+  "headword": "balloon",
+  "pos": "noun",
+  "example": "We put red balloons everywhere for the birthday party."
+ },
+ {
+  "id": "bank-v",
+  "headword": "bank",
+  "pos": "verb",
+  "example": "I bank with a small bank in my town."
+ },
+ {
+  "id": "banking-n",
+  "headword": "banking",
+  "pos": "noun",
+  "example": "She works in banking and helps people with their money."
+ },
+ {
+  "id": "barbecue-n",
+  "headword": "barbecue",
+  "pos": "noun",
+  "example": "We had a barbecue in the garden on Saturday."
+ },
+ {
+  "id": "barber-n",
+  "headword": "barber",
+  "pos": "noun",
+  "example": "My dad goes to the barber to cut his hair."
+ },
+ {
+  "id": "bargain-n",
+  "headword": "bargain",
+  "pos": "noun",
+  "example": "This coat was a bargain at only twenty euros."
+ },
+ {
+  "id": "base-n",
+  "headword": "base",
+  "pos": "noun",
+  "example": "The lamp has a heavy metal base."
+ },
+ {
+  "id": "basic-adj",
+  "headword": "basic",
+  "pos": "adjective",
+  "example": "I only know basic Spanish, like numbers and colours."
+ },
+ {
+  "id": "basically-adv",
+  "headword": "basically",
+  "pos": "adverb",
+  "example": "Basically, the job is easy but a bit boring."
+ },
+ {
+  "id": "basket-n",
+  "headword": "basket",
+  "pos": "noun",
+  "example": "She put the apples and bread in her basket."
+ },
+ {
+  "id": "batch-n",
+  "headword": "batch",
+  "pos": "noun",
+  "example": "I baked a batch of twenty cookies for the party."
+ },
+ {
+  "id": "battery-n",
+  "headword": "battery",
+  "pos": "noun",
+  "example": "My phone battery is almost empty."
+ },
+ {
+  "id": "bay-n",
+  "headword": "bay",
+  "pos": "noun",
+  "example": "We swam in the small bay near our hotel."
+ },
+ {
+  "id": "bear-v",
+  "headword": "bear",
+  "pos": "verb",
+  "example": "I can't bear this hot weather any longer."
+ },
+ {
+  "id": "beauty-n",
+  "headword": "beauty",
+  "pos": "noun",
+  "example": "We loved the beauty of the mountains in spring."
+ },
+ {
+  "id": "been-be",
+  "headword": "been",
+  "pos": "be-verb",
+  "example": "Have you ever been to London?"
+ },
+ {
+  "id": "beer-n",
+  "headword": "beer",
+  "pos": "noun",
+  "example": "He ordered a cold beer with his pizza."
+ },
+ {
+  "id": "before-conj",
+  "headword": "before",
+  "pos": "conjunction",
+  "example": "Wash your hands before you eat."
+ },
+ {
+  "id": "beg-v",
+  "headword": "beg",
+  "pos": "verb",
+  "example": "The children begged their mum to buy them ice cream."
+ },
+ {
+  "id": "beginner-n",
+  "headword": "beginner",
+  "pos": "noun",
+  "example": "This swimming class is only for beginners."
+ },
+ {
+  "id": "beginning-n",
+  "headword": "beginning",
+  "pos": "noun",
+  "example": "I didn't understand the beginning of the film."
+ },
+ {
+  "id": "behavior-n",
+  "headword": "behavior",
+  "pos": "noun",
+  "example": "The teacher was happy with the children's good behavior."
+ },
+ {
+  "id": "being-n",
+  "headword": "being",
+  "pos": "noun",
+  "example": "Every human being needs food, water and sleep."
+ },
+ {
+  "id": "belly-n",
+  "headword": "belly",
+  "pos": "noun",
+  "example": "My belly hurts because I ate too much cake."
+ },
+ {
+  "id": "belong-v",
+  "headword": "belong",
+  "pos": "verb",
+  "example": "This bag belongs to my sister, not to me."
+ },
+ {
+  "id": "belt-n",
+  "headword": "belt",
+  "pos": "noun",
+  "example": "These trousers are too big, so I need a belt."
+ },
+ {
+  "id": "bench-n",
+  "headword": "bench",
+  "pos": "noun",
+  "example": "We sat on a bench in the park and ate our sandwiches."
+ },
+ {
+  "id": "bend-v",
+  "headword": "bend",
+  "pos": "verb",
+  "example": "Bend your knees when you pick up a heavy box."
+ },
+ {
+  "id": "besides-adv",
+  "headword": "besides",
+  "pos": "adverb",
+  "example": "I don't want to go out. Besides, it's raining."
+ },
+ {
+  "id": "better-adv",
+  "headword": "better",
+  "pos": "adverb",
+  "example": "She sings better than her sister."
+ },
+ {
+  "id": "beyond-prep",
+  "headword": "beyond",
+  "pos": "preposition",
+  "example": "Our village is just beyond those hills."
+ },
+ {
+  "id": "bill-n",
+  "headword": "bill",
+  "pos": "noun",
+  "example": "Excuse me, can we have the bill, please?"
+ },
+ {
+  "id": "bit-n",
+  "headword": "bit",
+  "pos": "noun",
+  "example": "Can I have a small bit of your chocolate?"
+ },
+ {
+  "id": "bite-n",
+  "headword": "bite",
+  "pos": "noun",
+  "example": "Can I have a bite of your sandwich?"
+ },
+ {
+  "id": "blackboard-n",
+  "headword": "blackboard",
+  "pos": "noun",
+  "example": "The teacher wrote the new words on the blackboard."
+ },
+ {
+  "id": "blame-v",
+  "headword": "blame",
+  "pos": "verb",
+  "example": "Don't blame me, it wasn't my fault!"
+ },
+ {
+  "id": "blanket-n",
+  "headword": "blanket",
+  "pos": "noun",
+  "example": "It's cold tonight, so put another blanket on the bed."
+ },
+ {
+  "id": "blonde-adj",
+  "headword": "blonde",
+  "pos": "adjective",
+  "example": "She has long blonde hair and blue eyes."
+ },
+ {
+  "id": "blood-n",
+  "headword": "blood",
+  "pos": "noun",
+  "example": "He cut his finger and there was blood on his shirt."
+ },
+ {
+  "id": "bloom-n",
+  "headword": "bloom",
+  "pos": "noun",
+  "example": "The roses in our garden are in bloom in June."
+ },
+ {
+  "id": "blow-n",
+  "headword": "blow",
+  "pos": "noun",
+  "example": "He fell and got a hard blow on the head."
+ },
+ {
+  "id": "board-game-n",
+  "headword": "board game",
+  "pos": "noun",
+  "example": "On rainy days we play a board game like chess."
+ },
+ {
+  "id": "boil-v",
+  "headword": "boil",
+  "pos": "verb",
+  "example": "Boil the water before you make the tea."
+ },
+ {
+  "id": "boiled-adj",
+  "headword": "boiled",
+  "pos": "adjective",
+  "example": "We had fish with boiled potatoes for dinner."
+ },
+ {
+  "id": "bonus-n",
+  "headword": "bonus",
+  "pos": "noun",
+  "example": "Everyone at the company got a bonus in December."
+ },
+ {
+  "id": "bookcase-n",
+  "headword": "bookcase",
+  "pos": "noun",
+  "example": "The bookcase in my bedroom is full of old books."
+ },
+ {
+  "id": "bookshelf-n",
+  "headword": "bookshelf",
+  "pos": "noun",
+  "example": "Please put the dictionary back on the bookshelf."
+ },
+ {
+  "id": "bookshop-n",
+  "headword": "bookshop",
+  "pos": "noun",
+  "example": "I bought this novel at the bookshop near the station."
+ },
+ {
+  "id": "bored-adj",
+  "headword": "bored",
+  "pos": "adjective",
+  "example": "I was bored because there was nothing to do."
+ },
+ {
+  "id": "boss-n",
+  "headword": "boss",
+  "pos": "noun",
+  "example": "My boss gave me a day off on Friday."
+ },
+ {
+  "id": "bother-v",
+  "headword": "bother",
+  "pos": "verb",
+  "example": "Sorry to bother you, but where is the station?"
+ },
+ {
+  "id": "bra-n",
+  "headword": "bra",
+  "pos": "noun",
+  "example": "She bought a new bra and some socks."
+ },
+ {
+  "id": "brainstorm-n",
+  "headword": "brainstorm",
+  "pos": "noun",
+  "example": "Let's have a quick brainstorm to find ideas for the party."
+ },
+ {
+  "id": "brake-n",
+  "headword": "brake",
+  "pos": "noun",
+  "example": "He pressed the brake and the car stopped."
+ },
+ {
+  "id": "branch-n",
+  "headword": "branch",
+  "pos": "noun",
+  "example": "My bank has a branch in the main street."
+ },
+ {
+  "id": "brand-n",
+  "headword": "brand",
+  "pos": "noun",
+  "example": "What brand of jeans do you usually buy?"
+ },
+ {
+  "id": "brave-adj",
+  "headword": "brave",
+  "pos": "adjective",
+  "example": "The brave boy jumped into the river to help his friend."
+ },
+ {
+  "id": "break-n",
+  "headword": "break",
+  "pos": "noun",
+  "example": "We have a short break for coffee at eleven o'clock."
+ },
+ {
+  "id": "breeze-n",
+  "headword": "breeze",
+  "pos": "noun",
+  "example": "A cool breeze came from the sea on that hot day."
+ },
+ {
+  "id": "bride-n",
+  "headword": "bride",
+  "pos": "noun",
+  "example": "The bride wore a long white dress at her wedding."
+ },
+ {
+  "id": "brilliant-adj",
+  "headword": "brilliant",
+  "pos": "adjective",
+  "example": "That's a brilliant idea! Let's do it."
+ },
+ {
+  "id": "brown-n",
+  "headword": "brown",
+  "pos": "noun",
+  "example": "Brown is my favourite colour for winter shoes."
+ },
+ {
+  "id": "budget-n",
+  "headword": "budget",
+  "pos": "noun",
+  "example": "Our budget for the holiday is five hundred euros."
+ },
+ {
+  "id": "bug-n",
+  "headword": "bug",
+  "pos": "noun",
+  "example": "There's a small green bug on your arm."
+ },
+ {
+  "id": "bulb-n",
+  "headword": "bulb",
+  "pos": "noun",
+  "example": "The light bulb in the kitchen doesn't work."
+ },
+ {
+  "id": "burn-n",
+  "headword": "burn",
+  "pos": "noun",
+  "example": "She has a burn on her hand from the hot oven."
+ },
+ {
+  "id": "bury-v",
+  "headword": "bury",
+  "pos": "verb",
+  "example": "The dog buried its bone in the garden."
+ },
+ {
+  "id": "bus-station-n",
+  "headword": "bus station",
+  "pos": "noun",
+  "example": "All the buses to the airport leave from the bus station."
+ },
+ {
+  "id": "bus-stop-n",
+  "headword": "bus stop",
+  "pos": "noun",
+  "example": "I waited at the bus stop for twenty minutes."
+ },
+ {
+  "id": "bush-n",
+  "headword": "bush",
+  "pos": "noun",
+  "example": "The cat is hiding behind a bush in the garden."
+ },
+ {
+  "id": "businessman-n",
+  "headword": "businessman",
+  "pos": "noun",
+  "example": "He is a businessman and often travels for work."
+ },
+ {
+  "id": "businesswoman-n",
+  "headword": "businesswoman",
+  "pos": "noun",
+  "example": "My aunt is a businesswoman with her own company."
+ },
+ {
+  "id": "cab-n",
+  "headword": "cab",
+  "pos": "noun",
+  "example": "It was late, so we took a cab to the hotel."
+ },
+ {
+  "id": "cafeteria-n",
+  "headword": "cafeteria",
+  "pos": "noun",
+  "example": "We eat lunch in the school cafeteria every day."
+ },
+ {
+  "id": "calendar-n",
+  "headword": "calendar",
+  "pos": "noun",
+  "example": "I wrote her birthday on the calendar in the kitchen."
+ },
+ {
+  "id": "call-v",
+  "headword": "call",
+  "pos": "verb",
+  "example": "They called their new baby Lucas."
+ },
+ {
+  "id": "camp-v",
+  "headword": "camp",
+  "pos": "verb",
+  "example": "We camped by the lake for three nights."
+ },
+ {
+  "id": "camping-n",
+  "headword": "camping",
+  "pos": "noun",
+  "example": "We go camping in the mountains every summer."
+ },
+ {
+  "id": "campus-n",
+  "headword": "campus",
+  "pos": "noun",
+  "example": "The university campus has a library and a big park."
+ }
+]

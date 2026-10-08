@@ -1,0 +1,650 @@
+{
+ "ball-n": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A"
+ },
+ "here-adv": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A"
+ },
+ "all-pron": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A"
+ },
+ "milk-n": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A"
+ },
+ "fast-adv": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A"
+ },
+ "town-n": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A"
+ },
+ "r001": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "pressure-n"
+ },
+ "r002": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "pretend-v"
+ },
+ "r003": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "pretty-adv"
+ },
+ "r004": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A",
+  "cardId": "prevent-v"
+ },
+ "r005": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "pride-n"
+ },
+ "r006": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "principal-adj"
+ },
+ "r007": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "print-v"
+ },
+ "r008": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "printer-n"
+ },
+ "r009": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "private-adj"
+ },
+ "r010": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "pro-n"
+ },
+ "r011": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "probably-adv"
+ },
+ "r012": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A",
+  "cardId": "produce-v"
+ },
+ "r013": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "product-n"
+ },
+ "r014": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "production-n"
+ },
+ "r015": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "professional-adj"
+ },
+ "r016": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "progressive-adj"
+ },
+ "r017": {
+  "decoy": {
+   "kind": "example",
+   "lang": "fr"
+  },
+  "fr": "A",
+  "es": "A",
+  "cardId": "x01-ball-n"
+ },
+ "r018": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "promise-n"
+ },
+ "r019": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A",
+  "cardId": "pronounce-v"
+ },
+ "r020": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "pronunciation-n"
+ },
+ "r021": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A",
+  "cardId": "proper-adj"
+ },
+ "r022": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A",
+  "cardId": "provide-v"
+ },
+ "r023": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "psychologist-n"
+ },
+ "r024": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A",
+  "cardId": "public-n"
+ },
+ "r025": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "publish-v"
+ },
+ "r026": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A",
+  "cardId": "pull-v"
+ },
+ "r027": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "punctuation-n"
+ },
+ "r028": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "purple-adj"
+ },
+ "r029": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A",
+  "cardId": "purpose-n"
+ },
+ "r030": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A",
+  "cardId": "pursue-v"
+ },
+ "r031": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A",
+  "cardId": "quality-n"
+ },
+ "r032": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "queen-n"
+ },
+ "r033": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "quick-adj"
+ },
+ "r034": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "quietly-adv"
+ },
+ "r035": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A",
+  "cardId": "quit-v"
+ },
+ "r036": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "quite-adv"
+ },
+ "r037": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "quiz-n"
+ },
+ "r038": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "racket-n"
+ },
+ "r039": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "raincoat-n"
+ },
+ "r040": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "raise-v"
+ },
+ "r041": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "range-n"
+ },
+ "r042": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "rap-n"
+ },
+ "r043": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "rate-n"
+ },
+ "r044": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "rather-adv"
+ },
+ "r045": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "rating-n"
+ },
+ "r046": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "raw-adj"
+ },
+ "r047": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "ray-n"
+ },
+ "r048": {
+  "decoy": {
+   "kind": "example",
+   "lang": "es"
+  },
+  "fr": "A",
+  "es": "A",
+  "cardId": "x02-here-adv"
+ },
+ "r049": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "reach-v"
+ },
+ "r050": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "realize-v"
+ },
+ "r051": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "receipt-n"
+ },
+ "r052": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "receive-v"
+ },
+ "r053": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A",
+  "cardId": "recent-adj"
+ },
+ "r054": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "recently-adv"
+ },
+ "r055": {
+  "decoy": {
+   "kind": "word",
+   "lang": "es"
+  },
+  "fr": "A",
+  "es": "A",
+  "cardId": "x04-milk-n"
+ },
+ "r056": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "receptionist-n"
+ },
+ "r057": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "record-v"
+ },
+ "r058": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "recycle-v"
+ },
+ "r059": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "red-n"
+ },
+ "r060": {
+  "decoy": {
+   "kind": "exampleGloss",
+   "lang": "fr"
+  },
+  "fr": "A",
+  "es": "A",
+  "cardId": "x05-fast-adv"
+ },
+ "r061": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A",
+  "cardId": "refer-v"
+ },
+ "r062": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "reflect-v"
+ },
+ "r063": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "refrigerator-n"
+ },
+ "r064": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "regret-v"
+ },
+ "r065": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "regular-adj"
+ },
+ "r066": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "regularly-adv"
+ },
+ "r067": {
+  "decoy": {
+   "kind": "exampleGloss",
+   "lang": "es"
+  },
+  "fr": "A",
+  "es": "A",
+  "cardId": "x06-town-n"
+ },
+ "r068": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "relax-v"
+ },
+ "r069": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "relaxed-adj"
+ },
+ "r070": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "release-n"
+ },
+ "r071": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "remain-v"
+ },
+ "r072": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "remind-v"
+ },
+ "r073": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "remote-adj"
+ },
+ "r074": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "rent-n"
+ },
+ "r075": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "rent-v"
+ },
+ "r076": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "repair-n"
+ },
+ "r077": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "repair-v"
+ },
+ "r078": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "replace-v"
+ },
+ "r079": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "reply-n"
+ },
+ "r080": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "report-n"
+ },
+ "r081": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "represent-v"
+ },
+ "r082": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A",
+  "cardId": "request-n"
+ },
+ "r083": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "research-n"
+ },
+ "r084": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "response-n"
+ },
+ "r085": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "retire-v"
+ },
+ "r086": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "retired-adj"
+ },
+ "r087": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "return-n"
+ },
+ "r088": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "return-v"
+ },
+ "r089": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "reunion-n"
+ },
+ "r090": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A",
+  "cardId": "reveal-v"
+ },
+ "r091": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "rhythm-n"
+ },
+ "r092": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "right-n"
+ },
+ "r093": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "right-hand-adj"
+ },
+ "r094": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "ring-n"
+ },
+ "r095": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "road-n"
+ },
+ "r096": {
+  "decoy": null,
+  "fr": "B",
+  "es": "A",
+  "cardId": "roast-v"
+ },
+ "r097": {
+  "decoy": {
+   "kind": "word",
+   "lang": "fr"
+  },
+  "fr": "A",
+  "es": "A",
+  "cardId": "x03-all-pron"
+ },
+ "r098": {
+  "decoy": null,
+  "fr": "A",
+  "es": "B",
+  "cardId": "rob-v"
+ },
+ "r099": {
+  "decoy": null,
+  "fr": "A",
+  "es": "A",
+  "cardId": "robbery-n"
+ },
+ "r100": {
+  "decoy": null,
+  "fr": "B",
+  "es": "B",
+  "cardId": "robin-n"
+ }
+}

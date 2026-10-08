@@ -1,0 +1,578 @@
+[
+ {
+  "id": "ski-v",
+  "headword": "ski",
+  "pos": "verb"
+ },
+ {
+  "id": "skin-n",
+  "headword": "skin",
+  "pos": "noun",
+  "sourceTopics": [
+   "Health and body care"
+  ]
+ },
+ {
+  "id": "skyscraper-n",
+  "headword": "skyscraper",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "slavery-n",
+  "headword": "slavery",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs",
+   "Relations with other people"
+  ]
+ },
+ {
+  "id": "sleep-n",
+  "headword": "sleep",
+  "pos": "noun"
+ },
+ {
+  "id": "sleeve-n",
+  "headword": "sleeve",
+  "pos": "noun",
+  "sourceTopics": [
+   "Clothes",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "slight-n",
+  "headword": "slight",
+  "pos": "noun"
+ },
+ {
+  "id": "slightly-adv",
+  "headword": "slightly",
+  "pos": "adverb"
+ },
+ {
+  "id": "slip-n",
+  "headword": "slip",
+  "pos": "noun"
+ },
+ {
+  "id": "slip-v",
+  "headword": "slip",
+  "pos": "verb"
+ },
+ {
+  "id": "slogan-n",
+  "headword": "slogan",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs"
+  ]
+ },
+ {
+  "id": "slope-n",
+  "headword": "slope",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "slot-n",
+  "headword": "slot",
+  "pos": "noun"
+ },
+ {
+  "id": "slow-adv",
+  "headword": "slow",
+  "pos": "adverb"
+ },
+ {
+  "id": "slow-v",
+  "headword": "slow",
+  "pos": "verb"
+ },
+ {
+  "id": "smell-v",
+  "headword": "smell",
+  "pos": "verb"
+ },
+ {
+  "id": "smile-v",
+  "headword": "smile",
+  "pos": "verb"
+ },
+ {
+  "id": "smoker-n",
+  "headword": "smoker",
+  "pos": "noun",
+  "sourceTopics": [
+   "Hobbies and pastimes",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "sneeze-n",
+  "headword": "sneeze",
+  "pos": "noun"
+ },
+ {
+  "id": "snowboard-n",
+  "headword": "snowboard",
+  "pos": "noun",
+  "sourceTopics": [
+   "Leisure activities",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "snowstorm-n",
+  "headword": "snowstorm",
+  "pos": "noun",
+  "sourceTopics": [
+   "Media",
+   "Weather"
+  ]
+ },
+ {
+  "id": "soap-opera-n",
+  "headword": "soap opera",
+  "pos": "noun",
+  "sourceTopics": [
+   "Hobbies and pastimes",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "social-networking-n",
+  "headword": "social networking",
+  "pos": "noun",
+  "sourceTopics": [
+   "Hobbies and pastimes",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "socially-adv",
+  "headword": "socially",
+  "pos": "adverb"
+ },
+ {
+  "id": "soil-v",
+  "headword": "soil",
+  "pos": "verb"
+ },
+ {
+  "id": "solid-adj",
+  "headword": "solid",
+  "pos": "adjective"
+ },
+ {
+  "id": "somehow-adv",
+  "headword": "somehow",
+  "pos": "adverb"
+ },
+ {
+  "id": "someplace-adv",
+  "headword": "someplace",
+  "pos": "adverb"
+ },
+ {
+  "id": "sometime-adv",
+  "headword": "sometime",
+  "pos": "adverb"
+ },
+ {
+  "id": "sometimes-adv",
+  "headword": "sometimes",
+  "pos": "adverb"
+ },
+ {
+  "id": "soothe-v",
+  "headword": "soothe",
+  "pos": "verb"
+ },
+ {
+  "id": "sophomore-n",
+  "headword": "sophomore",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Education"
+  ]
+ },
+ {
+  "id": "sore-adj",
+  "headword": "sore",
+  "pos": "adjective"
+ },
+ {
+  "id": "sorrow-n",
+  "headword": "sorrow",
+  "pos": "noun"
+ },
+ {
+  "id": "sort-n",
+  "headword": "sort",
+  "pos": "noun"
+ },
+ {
+  "id": "soul-n",
+  "headword": "soul",
+  "pos": "noun"
+ },
+ {
+  "id": "sour-adj",
+  "headword": "sour",
+  "pos": "adjective"
+ },
+ {
+  "id": "southeast-adj",
+  "headword": "southeast",
+  "pos": "adjective"
+ },
+ {
+  "id": "southeast-n",
+  "headword": "southeast",
+  "pos": "noun"
+ },
+ {
+  "id": "southern-adj",
+  "headword": "southern",
+  "pos": "adjective"
+ },
+ {
+  "id": "southwest-adj",
+  "headword": "southwest",
+  "pos": "adjective"
+ },
+ {
+  "id": "southwest-n",
+  "headword": "southwest",
+  "pos": "noun"
+ },
+ {
+  "id": "souvenir-n",
+  "headword": "souvenir",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel and services vocab",
+   "Travel"
+  ]
+ },
+ {
+  "id": "sparkle-n",
+  "headword": "sparkle",
+  "pos": "noun"
+ },
+ {
+  "id": "specialist-n",
+  "headword": "specialist",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "specialize-v",
+  "headword": "specialize",
+  "pos": "verb",
+  "variants": [
+   "specialise"
+  ]
+ },
+ {
+  "id": "specially-adv",
+  "headword": "specially",
+  "pos": "adverb"
+ },
+ {
+  "id": "spectacular-adj",
+  "headword": "spectacular",
+  "pos": "adjective"
+ },
+ {
+  "id": "spectator-n",
+  "headword": "spectator",
+  "pos": "noun",
+  "sourceTopics": [
+   "Hobbies and pastimes"
+  ]
+ },
+ {
+  "id": "speed-v",
+  "headword": "speed",
+  "pos": "verb"
+ },
+ {
+  "id": "spelling-n",
+  "headword": "spelling",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Education"
+  ]
+ },
+ {
+  "id": "sphere-n",
+  "headword": "sphere",
+  "pos": "noun"
+ },
+ {
+  "id": "spice-n",
+  "headword": "spice",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "spicy-adj",
+  "headword": "spicy",
+  "pos": "adjective"
+ },
+ {
+  "id": "spider-n",
+  "headword": "spider",
+  "pos": "noun"
+ },
+ {
+  "id": "spinach-n",
+  "headword": "spinach",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "spiral-adj",
+  "headword": "spiral",
+  "pos": "adjective"
+ },
+ {
+  "id": "spirit-n",
+  "headword": "spirit",
+  "pos": "noun"
+ },
+ {
+  "id": "spiritual-adj",
+  "headword": "spiritual",
+  "pos": "adjective"
+ },
+ {
+  "id": "split-n",
+  "headword": "split",
+  "pos": "noun"
+ },
+ {
+  "id": "spoil-v",
+  "headword": "spoil",
+  "pos": "verb"
+ },
+ {
+  "id": "sponge-n",
+  "headword": "sponge",
+  "pos": "noun"
+ },
+ {
+  "id": "sponsor-n",
+  "headword": "sponsor",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "sports-adj",
+  "headword": "sports",
+  "pos": "adjective"
+ },
+ {
+  "id": "sportsmanship-n",
+  "headword": "sportsmanship",
+  "pos": "noun",
+  "sourceTopics": [
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "stable-adj",
+  "headword": "stable",
+  "pos": "adjective"
+ },
+ {
+  "id": "stall-n",
+  "headword": "stall",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "Places"
+  ]
+ },
+ {
+  "id": "standard-n",
+  "headword": "standard",
+  "pos": "noun"
+ },
+ {
+  "id": "star-v",
+  "headword": "star",
+  "pos": "verb"
+ },
+ {
+  "id": "stare-v",
+  "headword": "stare",
+  "pos": "verb"
+ },
+ {
+  "id": "status-n",
+  "headword": "status",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs"
+  ]
+ },
+ {
+  "id": "stay-n",
+  "headword": "stay",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel and services vocab",
+   "Travel"
+  ]
+ },
+ {
+  "id": "steadily-adv",
+  "headword": "steadily",
+  "pos": "adverb"
+ },
+ {
+  "id": "steady-adj",
+  "headword": "steady",
+  "pos": "adjective"
+ },
+ {
+  "id": "steam-n",
+  "headword": "steam",
+  "pos": "noun"
+ },
+ {
+  "id": "steel-n",
+  "headword": "steel",
+  "pos": "noun"
+ },
+ {
+  "id": "steep-adj",
+  "headword": "steep",
+  "pos": "adjective"
+ },
+ {
+  "id": "stem-v",
+  "headword": "stem",
+  "pos": "verb"
+ },
+ {
+  "id": "stick-v",
+  "headword": "stick",
+  "pos": "verb"
+ },
+ {
+  "id": "sticker-n",
+  "headword": "sticker",
+  "pos": "noun"
+ },
+ {
+  "id": "sticky-adj",
+  "headword": "sticky",
+  "pos": "adjective"
+ },
+ {
+  "id": "stir-v",
+  "headword": "stir",
+  "pos": "verb"
+ },
+ {
+  "id": "storage-n",
+  "headword": "storage",
+  "pos": "noun"
+ },
+ {
+  "id": "stormy-adj",
+  "headword": "stormy",
+  "pos": "adjective"
+ },
+ {
+  "id": "storyteller-n",
+  "headword": "storyteller",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "strain-n",
+  "headword": "strain",
+  "pos": "noun"
+ },
+ {
+  "id": "strangely-adv",
+  "headword": "strangely",
+  "pos": "adverb"
+ },
+ {
+  "id": "strategic-adj",
+  "headword": "strategic",
+  "pos": "adjective"
+ },
+ {
+  "id": "straw-n",
+  "headword": "straw",
+  "pos": "noun"
+ },
+ {
+  "id": "strawberry-n",
+  "headword": "strawberry",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "stream-n",
+  "headword": "stream",
+  "pos": "noun"
+ },
+ {
+  "id": "stream-v",
+  "headword": "stream",
+  "pos": "verb"
+ },
+ {
+  "id": "strengthen-v",
+  "headword": "strengthen",
+  "pos": "verb"
+ },
+ {
+  "id": "stress-n",
+  "headword": "stress",
+  "pos": "noun",
+  "sourceTopics": [
+   "Health and body care"
+  ]
+ },
+ {
+  "id": "stressed-adj",
+  "headword": "stressed",
+  "pos": "adjective"
+ }
+]

@@ -1,0 +1,620 @@
+[
+ {
+  "id": "summary-n",
+  "headword": "summary",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Education"
+  ]
+ },
+ {
+  "id": "sunflower-n",
+  "headword": "sunflower",
+  "pos": "noun"
+ },
+ {
+  "id": "sunglasses-n",
+  "headword": "sunglasses",
+  "pos": "noun",
+  "sourceTopics": [
+   "Shopping"
+  ]
+ },
+ {
+  "id": "sunlight-n",
+  "headword": "sunlight",
+  "pos": "noun"
+ },
+ {
+  "id": "superlative-n",
+  "headword": "superlative",
+  "pos": "noun"
+ },
+ {
+  "id": "superstar-n",
+  "headword": "superstar",
+  "pos": "noun",
+  "sourceTopics": [
+   "Media",
+   "Relations with other people"
+  ]
+ },
+ {
+  "id": "supper-n",
+  "headword": "supper",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "support-n",
+  "headword": "support",
+  "pos": "noun"
+ },
+ {
+  "id": "sure-adv",
+  "headword": "sure",
+  "pos": "adverb"
+ },
+ {
+  "id": "surf-v",
+  "headword": "surf",
+  "pos": "verb"
+ },
+ {
+  "id": "surfing-n",
+  "headword": "surfing",
+  "pos": "noun",
+  "sourceTopics": [
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "surname-n",
+  "headword": "surname",
+  "pos": "noun",
+  "sourceTopics": [
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "surprised-adj",
+  "headword": "surprised",
+  "pos": "adjective"
+ },
+ {
+  "id": "surprising-adj",
+  "headword": "surprising",
+  "pos": "adjective"
+ },
+ {
+  "id": "survive-v",
+  "headword": "survive",
+  "pos": "verb"
+ },
+ {
+  "id": "swallow-v",
+  "headword": "swallow",
+  "pos": "verb"
+ },
+ {
+  "id": "sweat-v",
+  "headword": "sweat",
+  "pos": "verb"
+ },
+ {
+  "id": "sweater-n",
+  "headword": "sweater",
+  "pos": "noun",
+  "sourceTopics": [
+   "Shopping"
+  ]
+ },
+ {
+  "id": "sweet-n",
+  "headword": "sweet",
+  "pos": "noun"
+ },
+ {
+  "id": "sweetheart-n",
+  "headword": "sweetheart",
+  "pos": "noun",
+  "sourceTopics": [
+   "Family life"
+  ]
+ },
+ {
+  "id": "swimming-costume-n",
+  "headword": "swimming costume",
+  "pos": "noun",
+  "sourceTopics": [
+   "Shopping"
+  ]
+ },
+ {
+  "id": "swimsuit-n",
+  "headword": "swimsuit",
+  "pos": "noun",
+  "sourceTopics": [
+   "Shopping"
+  ]
+ },
+ {
+  "id": "symbol-n",
+  "headword": "symbol",
+  "pos": "noun"
+ },
+ {
+  "id": "symphony-n",
+  "headword": "symphony",
+  "pos": "noun",
+  "sourceTopics": [
+   "Arts",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "system-n",
+  "headword": "system",
+  "pos": "noun"
+ },
+ {
+  "id": "table-tennis-n",
+  "headword": "table tennis",
+  "pos": "noun",
+  "sourceTopics": [
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "tablespoon-n",
+  "headword": "tablespoon",
+  "pos": "noun"
+ },
+ {
+  "id": "talent-n",
+  "headword": "talent",
+  "pos": "noun"
+ },
+ {
+  "id": "tap-n",
+  "headword": "tap",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "tape-n",
+  "headword": "tape",
+  "pos": "noun",
+  "sourceTopics": [
+   "Shopping"
+  ]
+ },
+ {
+  "id": "target-n",
+  "headword": "target",
+  "pos": "noun"
+ },
+ {
+  "id": "task-n",
+  "headword": "task",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs"
+  ]
+ },
+ {
+  "id": "tear-n",
+  "headword": "tear",
+  "pos": "noun"
+ },
+ {
+  "id": "teenage-adj",
+  "headword": "teenage",
+  "pos": "adjective"
+ },
+ {
+  "id": "teenager-n",
+  "headword": "teenager",
+  "pos": "noun",
+  "sourceTopics": [
+   "Personal information",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "telephone-v",
+  "headword": "telephone",
+  "pos": "verb"
+ },
+ {
+  "id": "temperature-n",
+  "headword": "temperature",
+  "pos": "noun",
+  "sourceTopics": [
+   "Weather"
+  ]
+ },
+ {
+  "id": "terrify-v",
+  "headword": "terrify",
+  "pos": "verb"
+ },
+ {
+  "id": "terrorist-adj",
+  "headword": "terrorist",
+  "pos": "adjective"
+ },
+ {
+  "id": "text-n",
+  "headword": "text",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Language"
+  ]
+ },
+ {
+  "id": "text-v",
+  "headword": "text",
+  "pos": "verb"
+ },
+ {
+  "id": "text-message-n",
+  "headword": "text message",
+  "pos": "noun",
+  "sourceTopics": [
+   "Language"
+  ]
+ },
+ {
+  "id": "textbook-n",
+  "headword": "textbook",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education"
+  ]
+ },
+ {
+  "id": "theirs-pron",
+  "headword": "theirs",
+  "pos": "pronoun"
+ },
+ {
+  "id": "themselves-pron",
+  "headword": "themselves",
+  "pos": "pronoun"
+ },
+ {
+  "id": "therefore-adv",
+  "headword": "therefore",
+  "pos": "adverb"
+ },
+ {
+  "id": "thief-n",
+  "headword": "thief",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs",
+   "Relations with other people"
+  ]
+ },
+ {
+  "id": "third-adj",
+  "headword": "third",
+  "pos": "adjective"
+ },
+ {
+  "id": "thirsty-adj",
+  "headword": "thirsty",
+  "pos": "adjective"
+ },
+ {
+  "id": "though-conj",
+  "headword": "though",
+  "pos": "conjunction"
+ },
+ {
+  "id": "thought-n",
+  "headword": "thought",
+  "pos": "noun"
+ },
+ {
+  "id": "throw-v",
+  "headword": "throw",
+  "pos": "verb"
+ },
+ {
+  "id": "thunderstorm-n",
+  "headword": "thunderstorm",
+  "pos": "noun",
+  "sourceTopics": [
+   "Media",
+   "Weather"
+  ]
+ },
+ {
+  "id": "tidy-adj",
+  "headword": "tidy",
+  "pos": "adjective"
+ },
+ {
+  "id": "tidy-v",
+  "headword": "tidy",
+  "pos": "verb"
+ },
+ {
+  "id": "tie-n",
+  "headword": "tie",
+  "pos": "noun",
+  "sourceTopics": [
+   "Clothes",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "tights-n",
+  "headword": "tights",
+  "pos": "noun",
+  "sourceTopics": [
+   "Shopping"
+  ]
+ },
+ {
+  "id": "till-prep",
+  "headword": "till",
+  "pos": "preposition"
+ },
+ {
+  "id": "timetable-n",
+  "headword": "timetable",
+  "pos": "noun"
+ },
+ {
+  "id": "tip-n",
+  "headword": "tip",
+  "pos": "noun"
+ },
+ {
+  "id": "title-n",
+  "headword": "title",
+  "pos": "noun",
+  "sourceTopics": [
+   "Books and literature",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "toast-n",
+  "headword": "toast",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "toe-n",
+  "headword": "toe",
+  "pos": "noun",
+  "sourceTopics": [
+   "Health and body care"
+  ]
+ },
+ {
+  "id": "tone-n",
+  "headword": "tone",
+  "pos": "noun"
+ },
+ {
+  "id": "tonight-n",
+  "headword": "tonight",
+  "pos": "noun"
+ },
+ {
+  "id": "toothache-n",
+  "headword": "toothache",
+  "pos": "noun",
+  "sourceTopics": [
+   "Health and body care"
+  ]
+ },
+ {
+  "id": "toothbrush-n",
+  "headword": "toothbrush",
+  "pos": "noun",
+  "sourceTopics": [
+   "Shopping"
+  ]
+ },
+ {
+  "id": "tour-n",
+  "headword": "tour",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel and services vocab",
+   "Travel"
+  ]
+ },
+ {
+  "id": "tour-guide-n",
+  "headword": "tour guide",
+  "pos": "noun",
+  "sourceTopics": [
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "tourist-n",
+  "headword": "tourist",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel and services vocab",
+   "Travel"
+  ]
+ },
+ {
+  "id": "toward-prep",
+  "headword": "toward",
+  "pos": "preposition",
+  "variants": [
+   "towards"
+  ]
+ },
+ {
+  "id": "track-n",
+  "headword": "track",
+  "pos": "noun"
+ },
+ {
+  "id": "trade-n",
+  "headword": "trade",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs"
+  ]
+ },
+ {
+  "id": "tradition-n",
+  "headword": "tradition",
+  "pos": "noun",
+  "sourceTopics": [
+   "Nationalities and countries"
+  ]
+ },
+ {
+  "id": "traditional-adj",
+  "headword": "traditional",
+  "pos": "adjective"
+ },
+ {
+  "id": "traffic-n",
+  "headword": "traffic",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "Services"
+  ]
+ },
+ {
+  "id": "traffic-light-n",
+  "headword": "traffic light",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel"
+  ]
+ },
+ {
+  "id": "train-v",
+  "headword": "train",
+  "pos": "verb"
+ },
+ {
+  "id": "training-n",
+  "headword": "training",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs"
+  ]
+ },
+ {
+  "id": "tram-n",
+  "headword": "tram",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel"
+  ]
+ },
+ {
+  "id": "trap-n",
+  "headword": "trap",
+  "pos": "noun"
+ },
+ {
+  "id": "travel-n",
+  "headword": "travel",
+  "pos": "noun",
+  "sourceTopics": [
+   "Hobbies and pastimes",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "traveler-n",
+  "headword": "traveler",
+  "pos": "noun",
+  "variants": [
+   "traveller"
+  ],
+  "sourceTopics": [
+   "Travel and services vocab",
+   "Travel"
+  ]
+ },
+ {
+  "id": "treasure-n",
+  "headword": "treasure",
+  "pos": "noun",
+  "sourceTopics": [
+   "Personal information"
+  ]
+ },
+ {
+  "id": "trick-n",
+  "headword": "trick",
+  "pos": "noun"
+ },
+ {
+  "id": "trouble-n",
+  "headword": "trouble",
+  "pos": "noun"
+ },
+ {
+  "id": "truly-adv",
+  "headword": "truly",
+  "pos": "adverb"
+ },
+ {
+  "id": "trust-v",
+  "headword": "trust",
+  "pos": "verb"
+ },
+ {
+  "id": "truth-n",
+  "headword": "truth",
+  "pos": "noun"
+ },
+ {
+  "id": "try-v",
+  "headword": "try",
+  "pos": "verb"
+ },
+ {
+  "id": "tune-n",
+  "headword": "tune",
+  "pos": "noun",
+  "sourceTopics": [
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "twice-adv",
+  "headword": "twice",
+  "pos": "adverb"
+ },
+ {
+  "id": "uncertain-adj",
+  "headword": "uncertain",
+  "pos": "adjective"
+ },
+ {
+  "id": "uncomfortable-adj",
+  "headword": "uncomfortable",
+  "pos": "adjective"
+ }
+]

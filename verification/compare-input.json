@@ -1,0 +1,814 @@
+[
+ {
+  "id": "b01.fr",
+  "english": "Hello, how are you?",
+  "lang": "fr",
+  "A": "Bonjour, comment allez-vous ?",
+  "B": "Bonjour, comment allez-vous ?"
+ },
+ {
+  "id": "b01.es",
+  "english": "Hello, how are you?",
+  "lang": "es",
+  "A": "Hola, ¿cómo está?",
+  "B": "Hola, ¿qué tal está?"
+ },
+ {
+  "id": "b02.fr",
+  "english": "Thank you very much.",
+  "lang": "fr",
+  "A": "Merci beaucoup.",
+  "B": "Merci beaucoup."
+ },
+ {
+  "id": "b02.es",
+  "english": "Thank you very much.",
+  "lang": "es",
+  "A": "Muchas gracias.",
+  "B": "Muchas gracias."
+ },
+ {
+  "id": "b03.fr",
+  "english": "Excuse me.",
+  "lang": "fr",
+  "A": "Excusez-moi.",
+  "B": "Excusez-moi."
+ },
+ {
+  "id": "b03.es",
+  "english": "Excuse me.",
+  "lang": "es",
+  "A": "Disculpe.",
+  "B": "Perdone."
+ },
+ {
+  "id": "b04.fr",
+  "english": "I'm sorry, I don't understand.",
+  "lang": "fr",
+  "A": "Désolé, je ne comprends pas.",
+  "B": "Désolé, je ne comprends pas."
+ },
+ {
+  "id": "b04.es",
+  "english": "I'm sorry, I don't understand.",
+  "lang": "es",
+  "A": "Lo siento, no entiendo.",
+  "B": "Lo siento, no entiendo."
+ },
+ {
+  "id": "b05.fr",
+  "english": "Could you speak more slowly, please?",
+  "lang": "fr",
+  "A": "Pourriez-vous parler plus lentement, s'il vous plaît ?",
+  "B": "Pourriez-vous parler plus lentement, s'il vous plaît ?"
+ },
+ {
+  "id": "b05.es",
+  "english": "Could you speak more slowly, please?",
+  "lang": "es",
+  "A": "¿Podría hablar más despacio, por favor?",
+  "B": "¿Podría hablar más despacio, por favor?"
+ },
+ {
+  "id": "b06.fr",
+  "english": "Can you help me, please?",
+  "lang": "fr",
+  "A": "Pouvez-vous m'aider, s'il vous plaît ?",
+  "B": "Pouvez-vous m'aider, s'il vous plaît ?"
+ },
+ {
+  "id": "b06.es",
+  "english": "Can you help me, please?",
+  "lang": "es",
+  "A": "¿Me puede ayudar, por favor?",
+  "B": "¿Me puede ayudar, por favor?"
+ },
+ {
+  "id": "b07.fr",
+  "english": "My name is…",
+  "lang": "fr",
+  "A": "Je m'appelle…",
+  "B": "Je m'appelle…"
+ },
+ {
+  "id": "b07.es",
+  "english": "My name is…",
+  "lang": "es",
+  "A": "Me llamo…",
+  "B": "Me llamo…"
+ },
+ {
+  "id": "b08.fr",
+  "english": "Yes, please.",
+  "lang": "fr",
+  "A": "Oui, s'il vous plaît.",
+  "B": "Oui, s'il vous plaît."
+ },
+ {
+  "id": "b08.es",
+  "english": "Yes, please.",
+  "lang": "es",
+  "A": "Sí, por favor.",
+  "B": "Sí, por favor."
+ },
+ {
+  "id": "b09.fr",
+  "english": "No, thank you.",
+  "lang": "fr",
+  "A": "Non, merci.",
+  "B": "Non, merci."
+ },
+ {
+  "id": "b09.es",
+  "english": "No, thank you.",
+  "lang": "es",
+  "A": "No, gracias.",
+  "B": "No, gracias."
+ },
+ {
+  "id": "b10.fr",
+  "english": "Goodbye, have a nice day!",
+  "lang": "fr",
+  "A": "Au revoir, bonne journée !",
+  "B": "Au revoir, bonne journée !"
+ },
+ {
+  "id": "b10.es",
+  "english": "Goodbye, have a nice day!",
+  "lang": "es",
+  "A": "¡Adiós, que tenga un buen día!",
+  "B": "¡Adiós, que tenga un buen día!"
+ },
+ {
+  "id": "d01.fr",
+  "english": "Where is the train station?",
+  "lang": "fr",
+  "A": "Où est la gare ?",
+  "B": "Où est la gare ?"
+ },
+ {
+  "id": "d01.es",
+  "english": "Where is the train station?",
+  "lang": "es",
+  "A": "¿Dónde está la estación de tren?",
+  "B": "¿Dónde está la estación de tren?"
+ },
+ {
+  "id": "d02.fr",
+  "english": "How do I get to the city centre?",
+  "lang": "fr",
+  "A": "Comment est-ce que je vais au centre-ville ?",
+  "B": "Comment aller au centre-ville ?"
+ },
+ {
+  "id": "d02.es",
+  "english": "How do I get to the city centre?",
+  "lang": "es",
+  "A": "¿Cómo llego al centro de la ciudad?",
+  "B": "¿Cómo llego al centro?"
+ },
+ {
+  "id": "d03.fr",
+  "english": "Is it far from here?",
+  "lang": "fr",
+  "A": "Est-ce que c'est loin d'ici ?",
+  "B": "C'est loin d'ici ?"
+ },
+ {
+  "id": "d03.es",
+  "english": "Is it far from here?",
+  "lang": "es",
+  "A": "¿Está lejos de aquí?",
+  "B": "¿Está lejos de aquí?"
+ },
+ {
+  "id": "d04.fr",
+  "english": "Turn left.",
+  "lang": "fr",
+  "A": "Tournez à gauche.",
+  "B": "Tournez à gauche."
+ },
+ {
+  "id": "d04.es",
+  "english": "Turn left.",
+  "lang": "es",
+  "A": "Gire a la izquierda.",
+  "B": "Gire a la izquierda."
+ },
+ {
+  "id": "d05.fr",
+  "english": "Turn right.",
+  "lang": "fr",
+  "A": "Tournez à droite.",
+  "B": "Tournez à droite."
+ },
+ {
+  "id": "d05.es",
+  "english": "Turn right.",
+  "lang": "es",
+  "A": "Gire a la derecha.",
+  "B": "Gire a la derecha."
+ },
+ {
+  "id": "d06.fr",
+  "english": "Go straight ahead.",
+  "lang": "fr",
+  "A": "Allez tout droit.",
+  "B": "Allez tout droit."
+ },
+ {
+  "id": "d06.es",
+  "english": "Go straight ahead.",
+  "lang": "es",
+  "A": "Siga recto.",
+  "B": "Siga todo recto."
+ },
+ {
+  "id": "d07.fr",
+  "english": "Can you show me on the map?",
+  "lang": "fr",
+  "A": "Vous pouvez me montrer sur la carte ?",
+  "B": "Pouvez-vous me montrer sur la carte ?"
+ },
+ {
+  "id": "d07.es",
+  "english": "Can you show me on the map?",
+  "lang": "es",
+  "A": "¿Me lo puede enseñar en el mapa?",
+  "B": "¿Me lo puede enseñar en el mapa?"
+ },
+ {
+  "id": "d08.fr",
+  "english": "I'm lost.",
+  "lang": "fr",
+  "A": "Je suis perdu.",
+  "B": "Je suis perdu."
+ },
+ {
+  "id": "d08.es",
+  "english": "I'm lost.",
+  "lang": "es",
+  "A": "Estoy perdido.",
+  "B": "Me he perdido."
+ },
+ {
+  "id": "t01.fr",
+  "english": "A ticket to London, please.",
+  "lang": "fr",
+  "A": "Un billet pour Londres, s'il vous plaît.",
+  "B": "Un billet pour Londres, s'il vous plaît."
+ },
+ {
+  "id": "t01.es",
+  "english": "A ticket to London, please.",
+  "lang": "es",
+  "A": "Un billete para Londres, por favor.",
+  "B": "Un billete para Londres, por favor."
+ },
+ {
+  "id": "t02.fr",
+  "english": "A return ticket, please.",
+  "lang": "fr",
+  "A": "Un aller-retour, s'il vous plaît.",
+  "B": "Un aller-retour, s'il vous plaît."
+ },
+ {
+  "id": "t02.es",
+  "english": "A return ticket, please.",
+  "lang": "es",
+  "A": "Un billete de ida y vuelta, por favor.",
+  "B": "Un billete de ida y vuelta, por favor."
+ },
+ {
+  "id": "t03.fr",
+  "english": "What time does the next train leave?",
+  "lang": "fr",
+  "A": "À quelle heure part le prochain train ?",
+  "B": "À quelle heure part le prochain train ?"
+ },
+ {
+  "id": "t03.es",
+  "english": "What time does the next train leave?",
+  "lang": "es",
+  "A": "¿A qué hora sale el próximo tren?",
+  "B": "¿A qué hora sale el próximo tren?"
+ },
+ {
+  "id": "t04.fr",
+  "english": "Which platform is it?",
+  "lang": "fr",
+  "A": "C'est quel quai ?",
+  "B": "C'est quel quai ?"
+ },
+ {
+  "id": "t04.es",
+  "english": "Which platform is it?",
+  "lang": "es",
+  "A": "¿De qué andén sale?",
+  "B": "¿Qué andén es?"
+ },
+ {
+  "id": "t05.fr",
+  "english": "Does this bus go to the airport?",
+  "lang": "fr",
+  "A": "Est-ce que ce bus va à l'aéroport ?",
+  "B": "Est-ce que ce bus va à l'aéroport ?"
+ },
+ {
+  "id": "t05.es",
+  "english": "Does this bus go to the airport?",
+  "lang": "es",
+  "A": "¿Este autobús va al aeropuerto?",
+  "B": "¿Este autobús va al aeropuerto?"
+ },
+ {
+  "id": "t06.fr",
+  "english": "Where can I get a taxi?",
+  "lang": "fr",
+  "A": "Où est-ce que je peux prendre un taxi ?",
+  "B": "Où est-ce que je peux prendre un taxi ?"
+ },
+ {
+  "id": "t06.es",
+  "english": "Where can I get a taxi?",
+  "lang": "es",
+  "A": "¿Dónde puedo coger un taxi?",
+  "B": "¿Dónde puedo tomar un taxi?"
+ },
+ {
+  "id": "t07.fr",
+  "english": "How much is the fare?",
+  "lang": "fr",
+  "A": "Combien coûte le trajet ?",
+  "B": "Combien coûte le trajet ?"
+ },
+ {
+  "id": "t07.es",
+  "english": "How much is the fare?",
+  "lang": "es",
+  "A": "¿Cuánto cuesta el trayecto?",
+  "B": "¿Cuánto cuesta el billete?"
+ },
+ {
+  "id": "t08.fr",
+  "english": "My flight is delayed.",
+  "lang": "fr",
+  "A": "Mon vol est retardé.",
+  "B": "Mon vol est retardé."
+ },
+ {
+  "id": "t08.es",
+  "english": "My flight is delayed.",
+  "lang": "es",
+  "A": "Mi vuelo está retrasado.",
+  "B": "Mi vuelo lleva retraso."
+ },
+ {
+  "id": "h01.fr",
+  "english": "I have a reservation.",
+  "lang": "fr",
+  "A": "J'ai une réservation.",
+  "B": "J'ai une réservation."
+ },
+ {
+  "id": "h01.es",
+  "english": "I have a reservation.",
+  "lang": "es",
+  "A": "Tengo una reserva.",
+  "B": "Tengo una reserva."
+ },
+ {
+  "id": "h02.fr",
+  "english": "Do you have a room for tonight?",
+  "lang": "fr",
+  "A": "Avez-vous une chambre pour ce soir ?",
+  "B": "Vous avez une chambre pour ce soir ?"
+ },
+ {
+  "id": "h02.es",
+  "english": "Do you have a room for tonight?",
+  "lang": "es",
+  "A": "¿Tiene una habitación para esta noche?",
+  "B": "¿Tiene una habitación para esta noche?"
+ },
+ {
+  "id": "h03.fr",
+  "english": "For two nights, please.",
+  "lang": "fr",
+  "A": "Pour deux nuits, s'il vous plaît.",
+  "B": "Pour deux nuits, s'il vous plaît."
+ },
+ {
+  "id": "h03.es",
+  "english": "For two nights, please.",
+  "lang": "es",
+  "A": "Para dos noches, por favor.",
+  "B": "Para dos noches, por favor."
+ },
+ {
+  "id": "h04.fr",
+  "english": "Is breakfast included?",
+  "lang": "fr",
+  "A": "Le petit-déjeuner est compris ?",
+  "B": "Le petit-déjeuner est-il compris ?"
+ },
+ {
+  "id": "h04.es",
+  "english": "Is breakfast included?",
+  "lang": "es",
+  "A": "¿El desayuno está incluido?",
+  "B": "¿Está incluido el desayuno?"
+ },
+ {
+  "id": "h05.fr",
+  "english": "What time is check-out?",
+  "lang": "fr",
+  "A": "À quelle heure faut-il libérer la chambre ?",
+  "B": "À quelle heure faut-il libérer la chambre ?"
+ },
+ {
+  "id": "h05.es",
+  "english": "What time is check-out?",
+  "lang": "es",
+  "A": "¿A qué hora hay que dejar la habitación?",
+  "B": "¿A qué hora hay que dejar la habitación?"
+ },
+ {
+  "id": "h06.fr",
+  "english": "What is the Wi-Fi password?",
+  "lang": "fr",
+  "A": "Quel est le mot de passe du Wi-Fi ?",
+  "B": "Quel est le mot de passe du wifi ?"
+ },
+ {
+  "id": "h06.es",
+  "english": "What is the Wi-Fi password?",
+  "lang": "es",
+  "A": "¿Cuál es la contraseña del wifi?",
+  "B": "¿Cuál es la contraseña del wifi?"
+ },
+ {
+  "id": "h07.fr",
+  "english": "The air conditioning doesn't work.",
+  "lang": "fr",
+  "A": "La climatisation ne marche pas.",
+  "B": "La climatisation ne marche pas."
+ },
+ {
+  "id": "h07.es",
+  "english": "The air conditioning doesn't work.",
+  "lang": "es",
+  "A": "El aire acondicionado no funciona.",
+  "B": "El aire acondicionado no funciona."
+ },
+ {
+  "id": "h08.fr",
+  "english": "Can I leave my luggage here?",
+  "lang": "fr",
+  "A": "Je peux laisser mes bagages ici ?",
+  "B": "Est-ce que je peux laisser mes bagages ici ?"
+ },
+ {
+  "id": "h08.es",
+  "english": "Can I leave my luggage here?",
+  "lang": "es",
+  "A": "¿Puedo dejar el equipaje aquí?",
+  "B": "¿Puedo dejar mi equipaje aquí?"
+ },
+ {
+  "id": "r01.fr",
+  "english": "A table for two, please.",
+  "lang": "fr",
+  "A": "Une table pour deux, s'il vous plaît.",
+  "B": "Une table pour deux, s'il vous plaît."
+ },
+ {
+  "id": "r01.es",
+  "english": "A table for two, please.",
+  "lang": "es",
+  "A": "Una mesa para dos, por favor.",
+  "B": "Una mesa para dos, por favor."
+ },
+ {
+  "id": "r02.fr",
+  "english": "Can I see the menu, please?",
+  "lang": "fr",
+  "A": "Je peux voir la carte, s'il vous plaît ?",
+  "B": "Je peux voir la carte, s'il vous plaît ?"
+ },
+ {
+  "id": "r02.es",
+  "english": "Can I see the menu, please?",
+  "lang": "es",
+  "A": "¿Me trae la carta, por favor?",
+  "B": "¿Puedo ver la carta, por favor?"
+ },
+ {
+  "id": "r03.fr",
+  "english": "I'd like the chicken, please.",
+  "lang": "fr",
+  "A": "Je vais prendre le poulet, s'il vous plaît.",
+  "B": "Je voudrais le poulet, s'il vous plaît."
+ },
+ {
+  "id": "r03.es",
+  "english": "I'd like the chicken, please.",
+  "lang": "es",
+  "A": "Para mí el pollo, por favor.",
+  "B": "Quisiera el pollo, por favor."
+ },
+ {
+  "id": "r04.fr",
+  "english": "I'm vegetarian.",
+  "lang": "fr",
+  "A": "Je suis végétarien.",
+  "B": "Je suis végétarien."
+ },
+ {
+  "id": "r04.es",
+  "english": "I'm vegetarian.",
+  "lang": "es",
+  "A": "Soy vegetariano.",
+  "B": "Soy vegetariano."
+ },
+ {
+  "id": "r05.fr",
+  "english": "I'm allergic to nuts.",
+  "lang": "fr",
+  "A": "Je suis allergique aux fruits à coque.",
+  "B": "Je suis allergique aux fruits à coque."
+ },
+ {
+  "id": "r05.es",
+  "english": "I'm allergic to nuts.",
+  "lang": "es",
+  "A": "Soy alérgico a los frutos secos.",
+  "B": "Soy alérgico a los frutos secos."
+ },
+ {
+  "id": "r06.fr",
+  "english": "A glass of water, please.",
+  "lang": "fr",
+  "A": "Un verre d'eau, s'il vous plaît.",
+  "B": "Un verre d'eau, s'il vous plaît."
+ },
+ {
+  "id": "r06.es",
+  "english": "A glass of water, please.",
+  "lang": "es",
+  "A": "Un vaso de agua, por favor.",
+  "B": "Un vaso de agua, por favor."
+ },
+ {
+  "id": "r07.fr",
+  "english": "Could I have the bill, please?",
+  "lang": "fr",
+  "A": "L'addition, s'il vous plaît.",
+  "B": "L'addition, s'il vous plaît."
+ },
+ {
+  "id": "r07.es",
+  "english": "Could I have the bill, please?",
+  "lang": "es",
+  "A": "La cuenta, por favor.",
+  "B": "La cuenta, por favor."
+ },
+ {
+  "id": "r08.fr",
+  "english": "It was delicious.",
+  "lang": "fr",
+  "A": "C'était délicieux.",
+  "B": "C'était délicieux."
+ },
+ {
+  "id": "r08.es",
+  "english": "It was delicious.",
+  "lang": "es",
+  "A": "Estaba buenísimo.",
+  "B": "Estaba delicioso."
+ },
+ {
+  "id": "s01.fr",
+  "english": "How much is this?",
+  "lang": "fr",
+  "A": "Combien ça coûte ?",
+  "B": "Combien ça coûte ?"
+ },
+ {
+  "id": "s01.es",
+  "english": "How much is this?",
+  "lang": "es",
+  "A": "¿Cuánto cuesta esto?",
+  "B": "¿Cuánto cuesta esto?"
+ },
+ {
+  "id": "s02.fr",
+  "english": "Can I pay by card?",
+  "lang": "fr",
+  "A": "Je peux payer par carte ?",
+  "B": "Je peux payer par carte ?"
+ },
+ {
+  "id": "s02.es",
+  "english": "Can I pay by card?",
+  "lang": "es",
+  "A": "¿Puedo pagar con tarjeta?",
+  "B": "¿Puedo pagar con tarjeta?"
+ },
+ {
+  "id": "s03.fr",
+  "english": "Do you take cash?",
+  "lang": "fr",
+  "A": "Vous acceptez les espèces ?",
+  "B": "Vous acceptez les espèces ?"
+ },
+ {
+  "id": "s03.es",
+  "english": "Do you take cash?",
+  "lang": "es",
+  "A": "¿Aceptan efectivo?",
+  "B": "¿Aceptan efectivo?"
+ },
+ {
+  "id": "s04.fr",
+  "english": "I'm just looking, thank you.",
+  "lang": "fr",
+  "A": "Je regarde seulement, merci.",
+  "B": "Je regarde seulement, merci."
+ },
+ {
+  "id": "s04.es",
+  "english": "I'm just looking, thank you.",
+  "lang": "es",
+  "A": "Solo estoy mirando, gracias.",
+  "B": "Solo estoy mirando, gracias."
+ },
+ {
+  "id": "s05.fr",
+  "english": "Do you have this in a smaller size?",
+  "lang": "fr",
+  "A": "Vous l'avez dans une taille plus petite ?",
+  "B": "Vous l'avez dans une taille plus petite ?"
+ },
+ {
+  "id": "s05.es",
+  "english": "Do you have this in a smaller size?",
+  "lang": "es",
+  "A": "¿Lo tiene en una talla más pequeña?",
+  "B": "¿Lo tiene en una talla más pequeña?"
+ },
+ {
+  "id": "s06.fr",
+  "english": "Can I try it on?",
+  "lang": "fr",
+  "A": "Je peux l'essayer ?",
+  "B": "Je peux l'essayer ?"
+ },
+ {
+  "id": "s06.es",
+  "english": "Can I try it on?",
+  "lang": "es",
+  "A": "¿Me lo puedo probar?",
+  "B": "¿Me lo puedo probar?"
+ },
+ {
+  "id": "s07.fr",
+  "english": "That's too expensive.",
+  "lang": "fr",
+  "A": "C'est trop cher.",
+  "B": "C'est trop cher."
+ },
+ {
+  "id": "s07.es",
+  "english": "That's too expensive.",
+  "lang": "es",
+  "A": "Es demasiado caro.",
+  "B": "Es demasiado caro."
+ },
+ {
+  "id": "s08.fr",
+  "english": "Where is the nearest cash machine?",
+  "lang": "fr",
+  "A": "Où est le distributeur le plus proche ?",
+  "B": "Où est le distributeur de billets le plus proche ?"
+ },
+ {
+  "id": "s08.es",
+  "english": "Where is the nearest cash machine?",
+  "lang": "es",
+  "A": "¿Dónde está el cajero automático más cercano?",
+  "B": "¿Dónde está el cajero más cercano?"
+ },
+ {
+  "id": "e01.fr",
+  "english": "Help!",
+  "lang": "fr",
+  "A": "Au secours !",
+  "B": "Au secours !"
+ },
+ {
+  "id": "e01.es",
+  "english": "Help!",
+  "lang": "es",
+  "A": "¡Socorro!",
+  "B": "¡Socorro!"
+ },
+ {
+  "id": "e02.fr",
+  "english": "Call an ambulance!",
+  "lang": "fr",
+  "A": "Appelez une ambulance !",
+  "B": "Appelez une ambulance !"
+ },
+ {
+  "id": "e02.es",
+  "english": "Call an ambulance!",
+  "lang": "es",
+  "A": "¡Llame a una ambulancia!",
+  "B": "¡Llame a una ambulancia!"
+ },
+ {
+  "id": "e03.fr",
+  "english": "I need a doctor.",
+  "lang": "fr",
+  "A": "J'ai besoin d'un médecin.",
+  "B": "J'ai besoin d'un médecin."
+ },
+ {
+  "id": "e03.es",
+  "english": "I need a doctor.",
+  "lang": "es",
+  "A": "Necesito un médico.",
+  "B": "Necesito un médico."
+ },
+ {
+  "id": "e04.fr",
+  "english": "Where is the nearest hospital?",
+  "lang": "fr",
+  "A": "Où est l'hôpital le plus proche ?",
+  "B": "Où est l'hôpital le plus proche ?"
+ },
+ {
+  "id": "e04.es",
+  "english": "Where is the nearest hospital?",
+  "lang": "es",
+  "A": "¿Dónde está el hospital más cercano?",
+  "B": "¿Dónde está el hospital más cercano?"
+ },
+ {
+  "id": "e05.fr",
+  "english": "I've lost my passport.",
+  "lang": "fr",
+  "A": "J'ai perdu mon passeport.",
+  "B": "J'ai perdu mon passeport."
+ },
+ {
+  "id": "e05.es",
+  "english": "I've lost my passport.",
+  "lang": "es",
+  "A": "He perdido el pasaporte.",
+  "B": "He perdido mi pasaporte."
+ },
+ {
+  "id": "e06.fr",
+  "english": "My wallet has been stolen.",
+  "lang": "fr",
+  "A": "On m'a volé mon portefeuille.",
+  "B": "On m'a volé mon portefeuille."
+ },
+ {
+  "id": "e06.es",
+  "english": "My wallet has been stolen.",
+  "lang": "es",
+  "A": "Me han robado la cartera.",
+  "B": "Me han robado la cartera."
+ },
+ {
+  "id": "e07.fr",
+  "english": "Where is the police station?",
+  "lang": "fr",
+  "A": "Où est le commissariat ?",
+  "B": "Où est le commissariat ?"
+ },
+ {
+  "id": "e07.es",
+  "english": "Where is the police station?",
+  "lang": "es",
+  "A": "¿Dónde está la comisaría?",
+  "B": "¿Dónde está la comisaría?"
+ },
+ {
+  "id": "e08.fr",
+  "english": "It hurts here.",
+  "lang": "fr",
+  "A": "J'ai mal ici.",
+  "B": "J'ai mal ici."
+ },
+ {
+  "id": "e08.es",
+  "english": "It hurts here.",
+  "lang": "es",
+  "A": "Me duele aquí.",
+  "B": "Me duele aquí."
+ }
+]

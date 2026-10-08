@@ -1,0 +1,952 @@
+{
+  "hidden-adj": {
+    "gloss": {
+      "fr": "caché",
+      "es": "oculto"
+    },
+    "exampleGloss": {
+      "fr": "Les enfants ont trouvé une porte cachée derrière la bibliothèque.",
+      "es": "Los niños encontraron una puerta oculta detrás de la estantería."
+    }
+  },
+  "highlight-v": {
+    "gloss": {
+      "fr": "surligner",
+      "es": "resaltar"
+    },
+    "exampleGloss": {
+      "fr": "Surlignez les mots importants en jaune.",
+      "es": "Resalta las palabras importantes en amarillo."
+    }
+  },
+  "highly-adv": {
+    "gloss": {
+      "fr": "vivement",
+      "es": "muy"
+    },
+    "exampleGloss": {
+      "fr": "Je vous recommande vivement ce restaurant : on y mange très bien.",
+      "es": "Recomiendo mucho este restaurante; la comida es excelente."
+    }
+  },
+  "hip-n": {
+    "gloss": {
+      "fr": "la hanche",
+      "es": "la cadera"
+    },
+    "exampleGloss": {
+      "fr": "Ma grand-mère est tombée et s'est cassé la hanche.",
+      "es": "Mi abuela se cayó y se rompió la cadera."
+    }
+  },
+  "hire-v": {
+    "gloss": {
+      "fr": "louer",
+      "es": "alquilar"
+    },
+    "exampleGloss": {
+      "fr": "Nous avons loué une voiture pour une semaine en Espagne.",
+      "es": "Alquilamos un coche durante una semana en España."
+    }
+  },
+  "historian-n": {
+    "gloss": {
+      "fr": "l'historien",
+      "es": "el historiador"
+    },
+    "exampleGloss": {
+      "fr": "L'historien a écrit un livre sur la Seconde Guerre mondiale.",
+      "es": "El historiador escribió un libro sobre la Segunda Guerra Mundial."
+    }
+  },
+  "historic-adj": {
+    "gloss": {
+      "fr": "historique",
+      "es": "histórico"
+    },
+    "exampleGloss": {
+      "fr": "Le premier pas sur la Lune a été un moment historique.",
+      "es": "La primera llegada a la Luna fue un momento histórico."
+    }
+  },
+  "historical-adj": {
+    "gloss": {
+      "fr": "historique",
+      "es": "histórico"
+    },
+    "exampleGloss": {
+      "fr": "J'aime lire des romans historiques sur la Rome antique.",
+      "es": "Me gusta leer novelas históricas sobre la antigua Roma."
+    }
+  },
+  "hit-n": {
+    "gloss": {
+      "fr": "le tube",
+      "es": "el éxito"
+    },
+    "exampleGloss": {
+      "fr": "Leur nouvelle chanson a été un gros tube dans toute l'Europe.",
+      "es": "Su nueva canción fue un gran éxito en toda Europa."
+    }
+  },
+  "hiv-n": {
+    "gloss": {
+      "fr": "le VIH",
+      "es": "el VIH"
+    },
+    "exampleGloss": {
+      "fr": "Les médecins peuvent maintenant traiter le VIH avec des médicaments modernes.",
+      "es": "Hoy los médicos pueden tratar el VIH con medicamentos modernos."
+    }
+  },
+  "holy-adj": {
+    "gloss": {
+      "fr": "saint",
+      "es": "santo"
+    },
+    "exampleGloss": {
+      "fr": "Jérusalem est une ville sainte pour beaucoup de religions.",
+      "es": "Jerusalén es una ciudad santa para muchas religiones."
+    }
+  },
+  "homeless-adj": {
+    "gloss": {
+      "fr": "sans-abri",
+      "es": "sin hogar"
+    },
+    "exampleGloss": {
+      "fr": "Beaucoup de sans-abri dorment dans la rue en hiver.",
+      "es": "Muchas personas sin hogar duermen en la calle en invierno."
+    }
+  },
+  "honest-adj": {
+    "gloss": {
+      "fr": "honnête",
+      "es": "sincero"
+    },
+    "exampleGloss": {
+      "fr": "Sois honnête et dis-moi ce que tu penses vraiment.",
+      "es": "Sé sincero y dime lo que piensas de verdad."
+    }
+  },
+  "honestly-adv": {
+    "gloss": {
+      "fr": "franchement",
+      "es": "sinceramente"
+    },
+    "exampleGloss": {
+      "fr": "Franchement, je ne sais pas où sont tes clés.",
+      "es": "Sinceramente, no sé dónde están tus llaves."
+    }
+  },
+  "honesty-n": {
+    "gloss": {
+      "fr": "l'honnêteté",
+      "es": "la honestidad"
+    },
+    "exampleGloss": {
+      "fr": "J'admire son honnêteté : elle ne ment jamais.",
+      "es": "Admiro su honestidad; nunca dice mentiras."
+    }
+  },
+  "honeymoon-n": {
+    "gloss": {
+      "fr": "la lune de miel",
+      "es": "la luna de miel"
+    },
+    "exampleGloss": {
+      "fr": "Ils sont partis en Grèce pour leur lune de miel.",
+      "es": "Se fueron a Grecia de luna de miel."
+    }
+  },
+  "hop-n": {
+    "gloss": {
+      "fr": "le bond",
+      "es": "el salto"
+    },
+    "exampleGloss": {
+      "fr": "Le lapin a traversé le chemin d'un seul bond rapide.",
+      "es": "El conejo cruzó el camino de un salto rápido."
+    }
+  },
+  "hope-v": {
+    "gloss": {
+      "fr": "espérer",
+      "es": "esperar"
+    },
+    "exampleGloss": {
+      "fr": "J'espère que tu passeras de très bonnes vacances.",
+      "es": "Espero que pases unas vacaciones estupendas."
+    }
+  },
+  "hopeful-adj": {
+    "gloss": {
+      "fr": "optimiste",
+      "es": "optimista"
+    },
+    "exampleGloss": {
+      "fr": "Les médecins ont bon espoir qu'elle se rétablisse vite.",
+      "es": "Los médicos confían en que se recupere pronto."
+    }
+  },
+  "hopefully-adv": {
+    "gloss": {
+      "fr": "avec un peu de chance",
+      "es": "ojalá"
+    },
+    "exampleGloss": {
+      "fr": "Avec un peu de chance, la pluie s'arrêtera avant le match.",
+      "es": "Ojalá deje de llover antes del partido."
+    }
+  },
+  "hopeless-adj": {
+    "gloss": {
+      "fr": "nul",
+      "es": "negado"
+    },
+    "exampleGloss": {
+      "fr": "Je suis nul en maths : j'ai toujours de mauvaises notes.",
+      "es": "Soy un negado para las mates; siempre saco malas notas."
+    }
+  },
+  "horizon-n": {
+    "gloss": {
+      "fr": "l'horizon",
+      "es": "el horizonte"
+    },
+    "exampleGloss": {
+      "fr": "Nous avons regardé le soleil se coucher à l'horizon.",
+      "es": "Vimos cómo el sol se ponía en el horizonte."
+    }
+  },
+  "horn-n": {
+    "gloss": {
+      "fr": "le klaxon",
+      "es": "el claxon"
+    },
+    "exampleGloss": {
+      "fr": "Le conducteur a klaxonné le cycliste.",
+      "es": "El conductor le tocó el claxon al ciclista."
+    }
+  },
+  "horrible-adj": {
+    "gloss": {
+      "fr": "horrible",
+      "es": "horrible"
+    },
+    "exampleGloss": {
+      "fr": "Il faisait un temps horrible, alors nous sommes restés à la maison.",
+      "es": "Hacía un tiempo horrible, así que nos quedamos en casa."
+    }
+  },
+  "horrify-v": {
+    "gloss": {
+      "fr": "horrifier",
+      "es": "horrorizar"
+    },
+    "exampleGloss": {
+      "fr": "Les images de l'accident ont horrifié tout le monde.",
+      "es": "Las imágenes del accidente horrorizaron a todo el mundo."
+    }
+  },
+  "hostel-n": {
+    "gloss": {
+      "fr": "l'auberge de jeunesse",
+      "es": "el albergue"
+    },
+    "exampleGloss": {
+      "fr": "Nous avons dormi dans une auberge de jeunesse bon marché près de la gare.",
+      "es": "Nos alojamos en un albergue barato cerca de la estación."
+    }
+  },
+  "household-n": {
+    "gloss": {
+      "fr": "le foyer",
+      "es": "el hogar"
+    },
+    "exampleGloss": {
+      "fr": "Chaque foyer de la ville a reçu une lettre.",
+      "es": "Todos los hogares del pueblo recibieron una carta."
+    }
+  },
+  "housework-n": {
+    "gloss": {
+      "fr": "les tâches ménagères",
+      "es": "las tareas domésticas"
+    },
+    "exampleGloss": {
+      "fr": "Nous partageons les tâches ménagères, alors c'est moi qui fais le ménage.",
+      "es": "Nos repartimos las tareas de la casa, así que yo hago la limpieza."
+    }
+  },
+  "huge-adj": {
+    "gloss": {
+      "fr": "énorme",
+      "es": "enorme"
+    },
+    "exampleGloss": {
+      "fr": "Ils vivent dans une immense maison de dix chambres.",
+      "es": "Viven en una casa enorme con diez dormitorios."
+    }
+  },
+  "human-n": {
+    "gloss": {
+      "fr": "l'être humain",
+      "es": "el ser humano"
+    },
+    "exampleGloss": {
+      "fr": "Les chiens entendent des sons que les humains ne peuvent pas entendre.",
+      "es": "Los perros oyen sonidos que los seres humanos no pueden oír."
+    }
+  },
+  "humanity-n": {
+    "gloss": {
+      "fr": "l'humanité",
+      "es": "la humanidad"
+    },
+    "exampleGloss": {
+      "fr": "La guerre est un crime contre l'humanité.",
+      "es": "La guerra es un crimen contra la humanidad."
+    }
+  },
+  "humid-adj": {
+    "gloss": {
+      "fr": "humide",
+      "es": "húmedo"
+    },
+    "exampleGloss": {
+      "fr": "Ici, il fait très chaud et humide en été.",
+      "es": "Aquí hace mucho calor y mucha humedad en verano."
+    }
+  },
+  "humor-n": {
+    "gloss": {
+      "fr": "l'humour",
+      "es": "el humor"
+    },
+    "exampleGloss": {
+      "fr": "Mon frère a un grand sens de l'humour.",
+      "es": "Mi hermano tiene un gran sentido del humor."
+    }
+  },
+  "humorous-adj": {
+    "gloss": {
+      "fr": "humoristique",
+      "es": "divertido"
+    },
+    "exampleGloss": {
+      "fr": "Il a fait un discours plein d'humour qui a fait rire tout le monde.",
+      "es": "Dio un discurso divertido que hizo reír a todos."
+    }
+  },
+  "hunger-n": {
+    "gloss": {
+      "fr": "la faim",
+      "es": "el hambre"
+    },
+    "exampleGloss": {
+      "fr": "Des millions de personnes dans le monde souffrent de la faim.",
+      "es": "Millones de personas en el mundo pasan hambre."
+    }
+  },
+  "hunt-n": {
+    "gloss": {
+      "fr": "la recherche",
+      "es": "la búsqueda"
+    },
+    "exampleGloss": {
+      "fr": "Après de longues recherches, nous avons enfin trouvé un appartement.",
+      "es": "Después de una larga búsqueda, por fin encontramos piso."
+    }
+  },
+  "hunt-v": {
+    "gloss": {
+      "fr": "chasser",
+      "es": "cazar"
+    },
+    "exampleGloss": {
+      "fr": "Les lions chassent les zèbres et d'autres animaux.",
+      "es": "Los leones cazan cebras y otros animales."
+    }
+  },
+  "hurriedly-adv": {
+    "gloss": {
+      "fr": "à la hâte",
+      "es": "a toda prisa"
+    },
+    "exampleGloss": {
+      "fr": "Elle a fait son sac à la hâte et est partie pour l'aéroport.",
+      "es": "Hizo la maleta a toda prisa y se fue al aeropuerto."
+    }
+  },
+  "hurt-adj": {
+    "gloss": {
+      "fr": "blessé",
+      "es": "herido"
+    },
+    "exampleGloss": {
+      "fr": "Deux personnes ont été grièvement blessées dans l'accident de voiture.",
+      "es": "Dos personas resultaron gravemente heridas en el accidente de coche."
+    }
+  },
+  "hut-n": {
+    "gloss": {
+      "fr": "la cabane",
+      "es": "la cabaña"
+    },
+    "exampleGloss": {
+      "fr": "Nous avons dormi dans une petite cabane en bois à la montagne.",
+      "es": "Dormimos en una pequeña cabaña de madera en la montaña."
+    }
+  },
+  "ice-hockey-n": {
+    "gloss": {
+      "fr": "le hockey sur glace",
+      "es": "el hockey sobre hielo"
+    },
+    "exampleGloss": {
+      "fr": "Le hockey sur glace est très populaire au Canada.",
+      "es": "El hockey sobre hielo es muy popular en Canadá."
+    }
+  },
+  "ice-skating-n": {
+    "gloss": {
+      "fr": "le patinage sur glace",
+      "es": "el patinaje sobre hielo"
+    },
+    "exampleGloss": {
+      "fr": "Nous sommes allés patiner sur le lac gelé.",
+      "es": "Fuimos a patinar sobre el lago helado."
+    }
+  },
+  "identity-n": {
+    "gloss": {
+      "fr": "l'identité",
+      "es": "la identidad"
+    },
+    "exampleGloss": {
+      "fr": "La police ne connaît toujours pas l'identité du voleur.",
+      "es": "La policía todavía no conoce la identidad del ladrón."
+    }
+  },
+  "identity-card-n": {
+    "gloss": {
+      "fr": "la carte d'identité",
+      "es": "el carné de identidad"
+    },
+    "exampleGloss": {
+      "fr": "Il faut ta carte d'identité pour ouvrir un compte en banque.",
+      "es": "Necesitas el DNI para abrir una cuenta en el banco."
+    }
+  },
+  "idiom-n": {
+    "gloss": {
+      "fr": "l'expression idiomatique",
+      "es": "la expresión idiomática"
+    },
+    "exampleGloss": {
+      "fr": "Une expression idiomatique est un groupe de mots qui a un sens particulier.",
+      "es": "Una expresión idiomática es un grupo de palabras con un significado especial."
+    }
+  },
+  "idol-n": {
+    "gloss": {
+      "fr": "l'idole",
+      "es": "el ídolo"
+    },
+    "exampleGloss": {
+      "fr": "Ce chanteur était mon idole quand j'étais ado.",
+      "es": "Ese cantante era mi ídolo cuando era adolescente."
+    }
+  },
+  "ignore-v": {
+    "gloss": {
+      "fr": "ignorer",
+      "es": "ignorar"
+    },
+    "exampleGloss": {
+      "fr": "Il a ignoré mon message et n'a pas répondu.",
+      "es": "Ignoró mi mensaje y no contestó."
+    }
+  },
+  "illegally-adv": {
+    "gloss": {
+      "fr": "illégalement",
+      "es": "ilegalmente"
+    },
+    "exampleGloss": {
+      "fr": "La voiture était garée illégalement devant l'hôpital.",
+      "es": "El coche estaba mal aparcado delante del hospital."
+    }
+  },
+  "illness-n": {
+    "gloss": {
+      "fr": "la maladie",
+      "es": "la enfermedad"
+    },
+    "exampleGloss": {
+      "fr": "Il a manqué deux semaines d'école pour cause de maladie.",
+      "es": "Faltó dos semanas al colegio por enfermedad."
+    }
+  },
+  "illuminate-v": {
+    "gloss": {
+      "fr": "illuminer",
+      "es": "iluminar"
+    },
+    "exampleGloss": {
+      "fr": "Des centaines de petites lumières illuminaient le jardin.",
+      "es": "Cientos de lucecitas iluminaban el jardín."
+    }
+  },
+  "imaginary-adj": {
+    "gloss": {
+      "fr": "imaginaire",
+      "es": "imaginario"
+    },
+    "exampleGloss": {
+      "fr": "Quand elle était petite, elle avait un ami imaginaire.",
+      "es": "Cuando era pequeña, tenía un amigo imaginario."
+    }
+  },
+  "imitate-v": {
+    "gloss": {
+      "fr": "imiter",
+      "es": "imitar"
+    },
+    "exampleGloss": {
+      "fr": "Mon fils adore imiter la voix des célébrités.",
+      "es": "A mi hijo le encanta imitar la voz de los famosos."
+    }
+  },
+  "immediate-adj": {
+    "gloss": {
+      "fr": "immédiat",
+      "es": "inmediato"
+    },
+    "exampleGloss": {
+      "fr": "Les nouvelles règles auront un effet immédiat sur les prix.",
+      "es": "Las nuevas normas tendrán un efecto inmediato en los precios."
+    }
+  },
+  "immediately-adv": {
+    "gloss": {
+      "fr": "immédiatement",
+      "es": "inmediatamente"
+    },
+    "exampleGloss": {
+      "fr": "Appelez une ambulance tout de suite !",
+      "es": "¡Llama a una ambulancia ahora mismo!"
+    }
+  },
+  "immigrate-v": {
+    "gloss": {
+      "fr": "immigrer",
+      "es": "inmigrar"
+    },
+    "exampleGloss": {
+      "fr": "Ses parents ont immigré au Canada dans les années 1990.",
+      "es": "Sus padres inmigraron a Canadá en los años noventa."
+    }
+  },
+  "immigration-n": {
+    "gloss": {
+      "fr": "l'immigration",
+      "es": "la inmigración"
+    },
+    "exampleGloss": {
+      "fr": "Le gouvernement veut changer ses règles sur l'immigration.",
+      "es": "El Gobierno quiere cambiar sus normas sobre inmigración."
+    }
+  },
+  "impair-v": {
+    "gloss": {
+      "fr": "altérer",
+      "es": "afectar"
+    },
+    "exampleGloss": {
+      "fr": "Boire de l'alcool peut altérer votre capacité à conduire.",
+      "es": "Beber alcohol puede afectar a tu capacidad para conducir."
+    }
+  },
+  "impression-n": {
+    "gloss": {
+      "fr": "l'impression",
+      "es": "la impresión"
+    },
+    "exampleGloss": {
+      "fr": "Elle a fait bonne impression à son entretien d'embauche.",
+      "es": "Causó buena impresión en la entrevista de trabajo."
+    }
+  },
+  "impressive-adj": {
+    "gloss": {
+      "fr": "impressionnant",
+      "es": "impresionante"
+    },
+    "exampleGloss": {
+      "fr": "La vue depuis le haut de la tour est impressionnante.",
+      "es": "La vista desde lo alto de la torre es impresionante."
+    }
+  },
+  "improper-adj": {
+    "gloss": {
+      "fr": "déplacé",
+      "es": "inapropiado"
+    },
+    "exampleGloss": {
+      "fr": "C'est déplacé d'utiliser son téléphone pendant la réunion.",
+      "es": "No es apropiado usar el móvil durante la reunión."
+    }
+  },
+  "improvement-n": {
+    "gloss": {
+      "fr": "le progrès",
+      "es": "la mejora"
+    },
+    "exampleGloss": {
+      "fr": "Ton anglais a fait de gros progrès.",
+      "es": "Tu inglés ha mejorado mucho."
+    }
+  },
+  "incident-n": {
+    "gloss": {
+      "fr": "l'incident",
+      "es": "el incidente"
+    },
+    "exampleGloss": {
+      "fr": "La police enquête sur un incident survenu à la banque.",
+      "es": "La policía está investigando un incidente en el banco."
+    }
+  },
+  "including-prep": {
+    "gloss": {
+      "fr": "y compris",
+      "es": "incluido"
+    },
+    "exampleGloss": {
+      "fr": "Six personnes sont venues à la fête, dont mon frère.",
+      "es": "Vinieron seis personas a la fiesta, incluido mi hermano."
+    }
+  },
+  "income-n": {
+    "gloss": {
+      "fr": "le revenu",
+      "es": "los ingresos"
+    },
+    "exampleGloss": {
+      "fr": "Leurs revenus ne suffisent pas à payer le loyer.",
+      "es": "Sus ingresos no les alcanzan para pagar el alquiler."
+    }
+  },
+  "inconvenient-adj": {
+    "gloss": {
+      "fr": "peu pratique",
+      "es": "inoportuno"
+    },
+    "exampleGloss": {
+      "fr": "Le lundi matin, ça vous dérange pour une réunion ?",
+      "es": "¿El lunes por la mañana es mal momento para una reunión?"
+    }
+  },
+  "incorrect-adj": {
+    "gloss": {
+      "fr": "incorrect",
+      "es": "incorrecto"
+    },
+    "exampleGloss": {
+      "fr": "Deux de tes réponses au contrôle étaient fausses.",
+      "es": "Dos de tus respuestas del examen eran incorrectas."
+    }
+  },
+  "increase-n": {
+    "gloss": {
+      "fr": "l'augmentation",
+      "es": "la subida"
+    },
+    "exampleGloss": {
+      "fr": "Il y a eu une augmentation du prix de l'essence.",
+      "es": "Ha habido una subida del precio de la gasolina."
+    }
+  },
+  "increasingly-adv": {
+    "gloss": {
+      "fr": "de plus en plus",
+      "es": "cada vez más"
+    },
+    "exampleGloss": {
+      "fr": "Les achats en ligne sont de plus en plus populaires.",
+      "es": "Comprar por internet es cada vez más popular."
+    }
+  },
+  "incredible-adj": {
+    "gloss": {
+      "fr": "incroyable",
+      "es": "increíble"
+    },
+    "exampleGloss": {
+      "fr": "La vue depuis la montagne était incroyable.",
+      "es": "La vista desde la montaña era increíble."
+    }
+  },
+  "incredibly-adv": {
+    "gloss": {
+      "fr": "incroyablement",
+      "es": "increíblemente"
+    },
+    "exampleGloss": {
+      "fr": "L'examen était incroyablement difficile.",
+      "es": "El examen fue increíblemente difícil."
+    }
+  },
+  "indefinite-article-n": {
+    "gloss": {
+      "fr": "l'article indéfini",
+      "es": "el artículo indeterminado"
+    },
+    "exampleGloss": {
+      "fr": "En anglais, « a » et « an » sont l'article indéfini.",
+      "es": "En inglés, «a» y «an» son el artículo indeterminado."
+    }
+  },
+  "independent-adj": {
+    "gloss": {
+      "fr": "indépendant",
+      "es": "independiente"
+    },
+    "exampleGloss": {
+      "fr": "Elle est très indépendante et vit seule.",
+      "es": "Es muy independiente y vive sola."
+    }
+  },
+  "indirect-adj": {
+    "gloss": {
+      "fr": "indirect",
+      "es": "indirecto"
+    },
+    "exampleGloss": {
+      "fr": "Nous avons pris un chemin détourné pour éviter les embouteillages.",
+      "es": "Fuimos por un camino indirecto para evitar el tráfico."
+    }
+  },
+  "indirectly-adv": {
+    "gloss": {
+      "fr": "indirectement",
+      "es": "indirectamente"
+    },
+    "exampleGloss": {
+      "fr": "La nouvelle usine va indirectement créer plus d'emplois en ville.",
+      "es": "La nueva fábrica creará indirectamente más empleo en el pueblo."
+    }
+  },
+  "individual-adj": {
+    "gloss": {
+      "fr": "individuel",
+      "es": "individual"
+    },
+    "exampleGloss": {
+      "fr": "Le professeur apporte une aide individuelle à chaque élève.",
+      "es": "El profesor ofrece ayuda individual a cada alumno."
+    }
+  },
+  "indoors-adv": {
+    "gloss": {
+      "fr": "à l'intérieur",
+      "es": "dentro"
+    },
+    "exampleGloss": {
+      "fr": "Il a commencé à pleuvoir, alors nous sommes rentrés.",
+      "es": "Empezó a llover, así que nos metimos dentro."
+    }
+  },
+  "industrial-adj": {
+    "gloss": {
+      "fr": "industriel",
+      "es": "industrial"
+    },
+    "exampleGloss": {
+      "fr": "Autrefois, Manchester était une ville industrielle importante.",
+      "es": "Antiguamente, Mánchester era una ciudad industrial importante."
+    }
+  },
+  "industry-n": {
+    "gloss": {
+      "fr": "l'industrie",
+      "es": "la industria"
+    },
+    "exampleGloss": {
+      "fr": "Mon oncle travaille dans l'industrie automobile.",
+      "es": "Mi tío trabaja en la industria del automóvil."
+    }
+  },
+  "inevitable-adj": {
+    "gloss": {
+      "fr": "inévitable",
+      "es": "inevitable"
+    },
+    "exampleGloss": {
+      "fr": "Avec autant de pluie, les inondations étaient inévitables.",
+      "es": "Con tanta lluvia, las inundaciones eran inevitables."
+    }
+  },
+  "infection-n": {
+    "gloss": {
+      "fr": "l'infection",
+      "es": "la infección"
+    },
+    "exampleGloss": {
+      "fr": "Le médecin m'a donné un médicament pour mon otite.",
+      "es": "El médico me dio un medicamento para la infección de oído."
+    }
+  },
+  "infinitive-n": {
+    "gloss": {
+      "fr": "l'infinitif",
+      "es": "el infinitivo"
+    },
+    "exampleGloss": {
+      "fr": "« To swim » est l'infinitif du verbe « swim ».",
+      "es": "«To swim» es el infinitivo del verbo «swim»."
+    }
+  },
+  "inform-v": {
+    "gloss": {
+      "fr": "informer",
+      "es": "avisar"
+    },
+    "exampleGloss": {
+      "fr": "Merci de prévenir le personnel si vous voyez quelque chose d'étrange.",
+      "es": "Por favor, avise al personal si ve algo raro."
+    }
+  },
+  "informative-adj": {
+    "gloss": {
+      "fr": "instructif",
+      "es": "informativo"
+    },
+    "exampleGloss": {
+      "fr": "La visite du musée était très instructive.",
+      "es": "La visita al museo fue muy instructiva."
+    }
+  },
+  "ingredient-n": {
+    "gloss": {
+      "fr": "l'ingrédient",
+      "es": "el ingrediente"
+    },
+    "exampleGloss": {
+      "fr": "La farine, les œufs et le lait sont les principaux ingrédients des crêpes.",
+      "es": "La harina, los huevos y la leche son los ingredientes principales de las tortitas."
+    }
+  },
+  "inhabitant-n": {
+    "gloss": {
+      "fr": "l'habitant",
+      "es": "el habitante"
+    },
+    "exampleGloss": {
+      "fr": "La ville compte environ dix mille habitants.",
+      "es": "El pueblo tiene unos diez mil habitantes."
+    }
+  },
+  "inhale-v": {
+    "gloss": {
+      "fr": "inspirer",
+      "es": "inspirar"
+    },
+    "exampleGloss": {
+      "fr": "Inspirez lentement par le nez, puis expirez.",
+      "es": "Inspira despacio por la nariz y luego suelta el aire."
+    }
+  },
+  "initial-n": {
+    "gloss": {
+      "fr": "l'initiale",
+      "es": "la inicial"
+    },
+    "exampleGloss": {
+      "fr": "Il a écrit ses initiales en bas de la page.",
+      "es": "Escribió sus iniciales al pie de la página."
+    }
+  },
+  "initially-adv": {
+    "gloss": {
+      "fr": "au début",
+      "es": "al principio"
+    },
+    "exampleGloss": {
+      "fr": "Au début, je n'aimais pas ce travail, mais maintenant je l'adore.",
+      "es": "Al principio no me gustaba el trabajo, pero ahora me encanta."
+    }
+  },
+  "inject-v": {
+    "gloss": {
+      "fr": "injecter",
+      "es": "inyectar"
+    },
+    "exampleGloss": {
+      "fr": "L'infirmière m'a fait une piqûre dans le bras.",
+      "es": "La enfermera me inyectó el medicamento en el brazo."
+    }
+  },
+  "injury-n": {
+    "gloss": {
+      "fr": "la blessure",
+      "es": "la lesión"
+    },
+    "exampleGloss": {
+      "fr": "Le joueur ne peut pas jouer à cause d'une blessure au genou.",
+      "es": "El jugador no puede jugar por una lesión en la rodilla."
+    }
+  },
+  "ink-n": {
+    "gloss": {
+      "fr": "l'encre",
+      "es": "la tinta"
+    },
+    "exampleGloss": {
+      "fr": "Mon stylo n'a plus d'encre.",
+      "es": "Mi bolígrafo se ha quedado sin tinta."
+    }
+  },
+  "innermost-adj": {
+    "gloss": {
+      "fr": "le plus intime",
+      "es": "más íntimo"
+    },
+    "exampleGloss": {
+      "fr": "Elle écrivait ses pensées les plus intimes dans son journal.",
+      "es": "Escribía sus pensamientos más íntimos en su diario."
+    }
+  },
+  "innocent-adj": {
+    "gloss": {
+      "fr": "innocent",
+      "es": "inocente"
+    },
+    "exampleGloss": {
+      "fr": "Le juge a décidé que l'homme était innocent.",
+      "es": "El juez decidió que el hombre era inocente."
+    }
+  },
+  "innovator-n": {
+    "gloss": {
+      "fr": "l'innovateur",
+      "es": "el innovador"
+    },
+    "exampleGloss": {
+      "fr": "Steve Jobs a été un grand innovateur dans la technologie.",
+      "es": "Steve Jobs fue un gran innovador en tecnología."
+    }
+  },
+  "inquiry-n": {
+    "gloss": {
+      "fr": "la demande de renseignements",
+      "es": "la consulta"
+    },
+    "exampleGloss": {
+      "fr": "À la gare, je me suis renseigné sur les horaires des trains.",
+      "es": "En la estación hice una consulta sobre los horarios de los trenes."
+    }
+  }
+}

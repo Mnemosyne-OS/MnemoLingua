@@ -1,0 +1,394 @@
+{
+ "decoys": {
+  "caught": 6,
+  "total": 6,
+  "missed": []
+ },
+ "toReview": 2,
+ "cards": {
+  "hidden-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "highlight-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "highly-adv": {
+   "check": "to-review",
+   "problems": [
+    "es word: 'muy' does not fit 'highly recommend' (the example itself uses 'mucho'); use 'mucho' or 'encarecidamente'"
+   ]
+  },
+  "hip-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "hire-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "historian-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "historic-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "historical-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "hit-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "hiv-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "holy-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "homeless-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "honest-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "honestly-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "honesty-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "honeymoon-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "hop-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "hope-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "hopeful-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "hopefully-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "hopeless-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "horizon-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "horn-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "horrible-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "horrify-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "hostel-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "household-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "housework-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "huge-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "human-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "humanity-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "humid-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "humor-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "humorous-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "hunger-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "hunt-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "hunt-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "hurriedly-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "hurt-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "hut-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "ice-hockey-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "ice-skating-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "identity-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "identity-card-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "idiom-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "idol-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "ignore-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "illegally-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "illness-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "illuminate-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "imaginary-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "imitate-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "immediate-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "immediately-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "immigrate-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "immigration-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "impair-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "impression-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "impressive-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "improper-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "improvement-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "incident-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "including-prep": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "income-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "inconvenient-adj": {
+   "check": "to-review",
+   "problems": [
+    "fr example: 'un moment gênant' reads as an awkward/embarrassing moment; say 'un moment qui ne vous arrange pas'"
+   ]
+  },
+  "incorrect-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "increase-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "increasingly-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "incredible-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "incredibly-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "indefinite-article-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "independent-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "indirect-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "indirectly-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "individual-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "indoors-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "industrial-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "industry-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "inevitable-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "infection-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "infinitive-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "inform-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "informative-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "ingredient-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "inhabitant-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "inhale-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "initial-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "initially-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "inject-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "injury-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "ink-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "innermost-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "innocent-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "innovator-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "inquiry-n": {
+   "check": "two-pass",
+   "problems": []
+  }
+ }
+}

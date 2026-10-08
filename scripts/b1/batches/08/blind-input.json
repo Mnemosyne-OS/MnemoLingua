@@ -1,0 +1,572 @@
+[
+ {
+  "id": "drunk-adj",
+  "headword": "drunk",
+  "pos": "adjective",
+  "example": "He was too drunk to drive home after the party."
+ },
+ {
+  "id": "dude-n",
+  "headword": "dude",
+  "pos": "noun",
+  "example": "Hey dude, are you coming to the party tonight?"
+ },
+ {
+  "id": "dull-adj",
+  "headword": "dull",
+  "pos": "adjective",
+  "example": "The lesson was so dull that I almost fell asleep."
+ },
+ {
+  "id": "dump-n",
+  "headword": "dump",
+  "pos": "noun",
+  "example": "We took the old sofa to the dump."
+ },
+ {
+  "id": "dump-v",
+  "headword": "dump",
+  "pos": "verb",
+  "example": "Someone dumped a bag of rubbish next to the river."
+ },
+ {
+  "id": "dustbin-n",
+  "headword": "dustbin",
+  "pos": "noun",
+  "example": "Throw the old food in the dustbin, please."
+ },
+ {
+  "id": "dusty-adj",
+  "headword": "dusty",
+  "pos": "adjective",
+  "example": "The old books in the attic were very dusty."
+ },
+ {
+  "id": "duty-n",
+  "headword": "duty",
+  "pos": "noun",
+  "example": "It is our duty to help people in need."
+ },
+ {
+  "id": "duty-free-adj",
+  "headword": "duty-free",
+  "pos": "adjective",
+  "example": "I bought some perfume in the duty-free shop at the airport."
+ },
+ {
+  "id": "duvet-n",
+  "headword": "duvet",
+  "pos": "noun",
+  "example": "I need a thick duvet on my bed in winter."
+ },
+ {
+  "id": "dynasty-n",
+  "headword": "dynasty",
+  "pos": "noun",
+  "example": "The Ming dynasty ruled China for almost three hundred years."
+ },
+ {
+  "id": "eager-adj",
+  "headword": "eager",
+  "pos": "adjective",
+  "example": "The children were eager to open their presents."
+ },
+ {
+  "id": "eagerness-n",
+  "headword": "eagerness",
+  "pos": "noun",
+  "example": "Her eagerness to learn impressed the teacher."
+ },
+ {
+  "id": "earache-n",
+  "headword": "earache",
+  "pos": "noun",
+  "example": "I have an earache, so I'm going to see the doctor."
+ },
+ {
+  "id": "earnest-adj",
+  "headword": "earnest",
+  "pos": "adjective",
+  "example": "He is an earnest young man who really wants to help."
+ },
+ {
+  "id": "eastern-adj",
+  "headword": "eastern",
+  "pos": "adjective",
+  "example": "They live in a small town in the eastern part of the country."
+ },
+ {
+  "id": "easygoing-adj",
+  "headword": "easygoing",
+  "pos": "adjective",
+  "example": "My boss is very easygoing and never gets angry."
+ },
+ {
+  "id": "eco-n",
+  "headword": "eco",
+  "pos": "noun",
+  "example": "The eco team at our school recycles all the paper."
+ },
+ {
+  "id": "ecological-adj",
+  "headword": "ecological",
+  "pos": "adjective",
+  "example": "Plastic in the sea is a serious ecological problem."
+ },
+ {
+  "id": "ecology-n",
+  "headword": "ecology",
+  "pos": "noun",
+  "example": "We studied the ecology of the forest at school."
+ },
+ {
+  "id": "economic-adj",
+  "headword": "economic",
+  "pos": "adjective",
+  "example": "The country is going through an economic crisis."
+ },
+ {
+  "id": "economics-n",
+  "headword": "economics",
+  "pos": "noun",
+  "example": "My brother studies economics at university."
+ },
+ {
+  "id": "economy-n",
+  "headword": "economy",
+  "pos": "noun",
+  "example": "The economy grew slowly last year."
+ },
+ {
+  "id": "ecosystem-n",
+  "headword": "ecosystem",
+  "pos": "noun",
+  "example": "Pollution can destroy the ecosystem of a lake."
+ },
+ {
+  "id": "ecstasy-n",
+  "headword": "ecstasy",
+  "pos": "noun",
+  "example": "The fans screamed in ecstasy when their team won."
+ },
+ {
+  "id": "edge-n",
+  "headword": "edge",
+  "pos": "noun",
+  "example": "The glass fell off the edge of the table."
+ },
+ {
+  "id": "edition-n",
+  "headword": "edition",
+  "pos": "noun",
+  "example": "This is the first edition of the book."
+ },
+ {
+  "id": "educate-v",
+  "headword": "educate",
+  "pos": "verb",
+  "example": "Schools must educate young people for the future."
+ },
+ {
+  "id": "effective-adj",
+  "headword": "effective",
+  "pos": "adjective",
+  "example": "This medicine is very effective against headaches."
+ },
+ {
+  "id": "efficiency-n",
+  "headword": "efficiency",
+  "pos": "noun",
+  "example": "The new machines improved the efficiency of the factory."
+ },
+ {
+  "id": "efficient-adj",
+  "headword": "efficient",
+  "pos": "adjective",
+  "example": "Our new heating system is much more efficient."
+ },
+ {
+  "id": "either-det",
+  "headword": "either",
+  "pos": "determiner",
+  "example": "You can take either bus; both go to the centre."
+ },
+ {
+  "id": "either-pron",
+  "headword": "either",
+  "pos": "pronoun",
+  "example": "There are two cakes, but I don't want either."
+ },
+ {
+  "id": "elbow-n",
+  "headword": "elbow",
+  "pos": "noun",
+  "example": "He hurt his elbow while he was playing tennis."
+ },
+ {
+  "id": "election-n",
+  "headword": "election",
+  "pos": "noun",
+  "example": "Who did you vote for in the last election?"
+ },
+ {
+  "id": "electrical-adj",
+  "headword": "electrical",
+  "pos": "adjective",
+  "example": "There was an electrical problem in the kitchen."
+ },
+ {
+  "id": "electricity-n",
+  "headword": "electricity",
+  "pos": "noun",
+  "example": "The village had no electricity for two days after the storm."
+ },
+ {
+  "id": "electron-n",
+  "headword": "electron",
+  "pos": "noun",
+  "example": "An electron is much smaller than an atom."
+ },
+ {
+  "id": "electronic-adj",
+  "headword": "electronic",
+  "pos": "adjective",
+  "example": "My uncle repairs electronic devices like phones and laptops."
+ },
+ {
+  "id": "element-n",
+  "headword": "element",
+  "pos": "noun",
+  "example": "Oxygen is one of the most common elements on Earth."
+ },
+ {
+  "id": "eliminate-v",
+  "headword": "eliminate",
+  "pos": "verb",
+  "example": "We must eliminate plastic from our oceans."
+ },
+ {
+  "id": "embarrass-v",
+  "headword": "embarrass",
+  "pos": "verb",
+  "example": "Please don't embarrass me in front of my friends."
+ },
+ {
+  "id": "embarrassed-adj",
+  "headword": "embarrassed",
+  "pos": "adjective",
+  "example": "I felt embarrassed when I forgot her name."
+ },
+ {
+  "id": "embarrassment-n",
+  "headword": "embarrassment",
+  "pos": "noun",
+  "example": "His face went red with embarrassment."
+ },
+ {
+  "id": "emerge-v",
+  "headword": "emerge",
+  "pos": "verb",
+  "example": "A small cat emerged from under the car."
+ },
+ {
+  "id": "emotion-n",
+  "headword": "emotion",
+  "pos": "noun",
+  "example": "He doesn't like to show his emotions in public."
+ },
+ {
+  "id": "emotional-adj",
+  "headword": "emotional",
+  "pos": "adjective",
+  "example": "It was a very emotional day for the whole family."
+ },
+ {
+  "id": "emotionally-adv",
+  "headword": "emotionally",
+  "pos": "adverb",
+  "example": "She was emotionally tired after a difficult week."
+ },
+ {
+  "id": "emperor-n",
+  "headword": "emperor",
+  "pos": "noun",
+  "example": "The emperor lived in a huge palace with many servants."
+ },
+ {
+  "id": "emphasis-n",
+  "headword": "emphasis",
+  "pos": "noun",
+  "example": "Our school puts a lot of emphasis on sport."
+ },
+ {
+  "id": "emphasize-v",
+  "headword": "emphasize",
+  "pos": "verb",
+  "example": "The teacher emphasized the importance of reading every day."
+ },
+ {
+  "id": "empire-n",
+  "headword": "empire",
+  "pos": "noun",
+  "example": "The Roman empire was very large and powerful."
+ },
+ {
+  "id": "employment-n",
+  "headword": "employment",
+  "pos": "noun",
+  "example": "It is hard to find employment in this small town."
+ },
+ {
+  "id": "enable-v",
+  "headword": "enable",
+  "pos": "verb",
+  "example": "This app enables you to pay with your phone."
+ },
+ {
+  "id": "enclose-v",
+  "headword": "enclose",
+  "pos": "verb",
+  "example": "Please enclose a recent photo with your letter."
+ },
+ {
+  "id": "encounter-n",
+  "headword": "encounter",
+  "pos": "noun",
+  "example": "I had a strange encounter with an old man on the train."
+ },
+ {
+  "id": "encouragement-n",
+  "headword": "encouragement",
+  "pos": "noun",
+  "example": "Thanks to my teacher's encouragement, I passed the exam."
+ },
+ {
+  "id": "encouraging-adj",
+  "headword": "encouraging",
+  "pos": "adjective",
+  "example": "The first results of the test are very encouraging."
+ },
+ {
+  "id": "encyclopedia-n",
+  "headword": "encyclopedia",
+  "pos": "noun",
+  "example": "I looked for the answer in an encyclopedia."
+ },
+ {
+  "id": "endanger-v",
+  "headword": "endanger",
+  "pos": "verb",
+  "example": "Pollution endangers many animals that live in the sea."
+ },
+ {
+  "id": "endless-adj",
+  "headword": "endless",
+  "pos": "adjective",
+  "example": "The journey through the desert seemed endless."
+ },
+ {
+  "id": "endure-v",
+  "headword": "endure",
+  "pos": "verb",
+  "example": "The climbers had to endure terrible cold on the mountain."
+ },
+ {
+  "id": "enemy-n",
+  "headword": "enemy",
+  "pos": "noun",
+  "example": "In the story, the dragon is the king's greatest enemy."
+ },
+ {
+  "id": "engage-v",
+  "headword": "engage",
+  "pos": "verb",
+  "example": "Good teachers engage all the students in the lesson."
+ },
+ {
+  "id": "engaged-adj",
+  "headword": "engaged",
+  "pos": "adjective",
+  "example": "Tom and Anna got engaged last summer."
+ },
+ {
+  "id": "engine-n",
+  "headword": "engine",
+  "pos": "noun",
+  "example": "The car engine is making a strange noise."
+ },
+ {
+  "id": "engineering-n",
+  "headword": "engineering",
+  "pos": "noun",
+  "example": "She wants to study engineering at university."
+ },
+ {
+  "id": "englishman-n",
+  "headword": "Englishman",
+  "pos": "noun",
+  "example": "My neighbour is an Englishman who loves French food."
+ },
+ {
+  "id": "enjoyable-adj",
+  "headword": "enjoyable",
+  "pos": "adjective",
+  "example": "We had a very enjoyable evening with our friends."
+ },
+ {
+  "id": "enjoyment-n",
+  "headword": "enjoyment",
+  "pos": "noun",
+  "example": "Reading gives me a lot of enjoyment."
+ },
+ {
+  "id": "enrich-v",
+  "headword": "enrich",
+  "pos": "verb",
+  "example": "Travelling to new countries can enrich your life."
+ },
+ {
+  "id": "ensure-v",
+  "headword": "ensure",
+  "pos": "verb",
+  "example": "Please ensure that all the windows are closed."
+ },
+ {
+  "id": "entertain-v",
+  "headword": "entertain",
+  "pos": "verb",
+  "example": "The clown entertained the children at the party."
+ },
+ {
+  "id": "entertainer-n",
+  "headword": "entertainer",
+  "pos": "noun",
+  "example": "The entertainer told jokes and sang songs all evening."
+ },
+ {
+  "id": "enthusiasm-n",
+  "headword": "enthusiasm",
+  "pos": "noun",
+  "example": "She talked about her new job with great enthusiasm."
+ },
+ {
+  "id": "enthusiast-n",
+  "headword": "enthusiast",
+  "pos": "noun",
+  "example": "My uncle is a football enthusiast who never misses a match."
+ },
+ {
+  "id": "enthusiastic-adj",
+  "headword": "enthusiastic",
+  "pos": "adjective",
+  "example": "The students were enthusiastic about the school trip."
+ },
+ {
+  "id": "entire-adj",
+  "headword": "entire",
+  "pos": "adjective",
+  "example": "I spent the entire day in bed with a cold."
+ },
+ {
+  "id": "entirely-adv",
+  "headword": "entirely",
+  "pos": "adverb",
+  "example": "I entirely agree with you."
+ },
+ {
+  "id": "entry-n",
+  "headword": "entry",
+  "pos": "noun",
+  "example": "Entry to the museum is free on Sundays."
+ },
+ {
+  "id": "environmental-adj",
+  "headword": "environmental",
+  "pos": "adjective",
+  "example": "Air pollution is a big environmental problem in cities."
+ },
+ {
+  "id": "environmentalist-n",
+  "headword": "environmentalist",
+  "pos": "noun",
+  "example": "The environmentalist spoke about protecting the forests."
+ },
+ {
+  "id": "equal-adj",
+  "headword": "equal",
+  "pos": "adjective",
+  "example": "All people should have equal rights."
+ },
+ {
+  "id": "equality-n",
+  "headword": "equality",
+  "pos": "noun",
+  "example": "They fought for equality between men and women."
+ },
+ {
+  "id": "equally-adv",
+  "headword": "equally",
+  "pos": "adverb",
+  "example": "Share the cake equally between the children."
+ },
+ {
+  "id": "equipment-n",
+  "headword": "equipment",
+  "pos": "noun",
+  "example": "You need special equipment to climb this mountain."
+ },
+ {
+  "id": "era-n",
+  "headword": "era",
+  "pos": "noun",
+  "example": "The internet started a new era in communication."
+ },
+ {
+  "id": "escape-v",
+  "headword": "escape",
+  "pos": "verb",
+  "example": "The bird escaped from its cage this morning."
+ },
+ {
+  "id": "essence-n",
+  "headword": "essence",
+  "pos": "noun",
+  "example": "Friendship is the essence of this story."
+ },
+ {
+  "id": "essential-adj",
+  "headword": "essential",
+  "pos": "adjective",
+  "example": "Water is essential for all life on Earth."
+ },
+ {
+  "id": "establishment-n",
+  "headword": "establishment",
+  "pos": "noun",
+  "example": "This restaurant is a family establishment that opened in 1950."
+ },
+ {
+  "id": "estimate-v",
+  "headword": "estimate",
+  "pos": "verb",
+  "example": "We estimate that the trip will take three hours."
+ },
+ {
+  "id": "eternal-adj",
+  "headword": "eternal",
+  "pos": "adjective",
+  "example": "In the film, they promised each other eternal love."
+ },
+ {
+  "id": "eternity-n",
+  "headword": "eternity",
+  "pos": "noun",
+  "example": "Waiting for the bus in the rain felt like an eternity."
+ },
+ {
+  "id": "even-adj",
+  "headword": "even",
+  "pos": "adjective",
+  "example": "Two, four and six are even numbers."
+ }
+]

@@ -1,0 +1,390 @@
+{
+ "decoys": {
+  "caught": 6,
+  "total": 6,
+  "missed": []
+ },
+ "toReview": 0,
+ "cards": {
+  "evening-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "event-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "every-det": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "everybody-pron": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "everyday-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "everything-pron": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "everywhere-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "example-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "excellent-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "excited-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "exciting-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "excuse-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "exercise-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "expensive-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "eye-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "factory-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "fair-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "fairy-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "false-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "family-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "famous-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "fan-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "farm-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "farmer-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "fast-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "fat-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "father-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "favorite-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "favorite-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "february-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "feed-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "feel-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "feeling-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "festival-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "fever-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "fight-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "file-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "fill-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "find-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "fine-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "finish-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "finish-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "fire-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "first-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "first-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "fishing-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "flag-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "flat-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "floor-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "flower-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "fly-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "fly-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "focus-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "foggy-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "following-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "football-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "for-prep": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "foreign-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "foreigner-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "forget-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "form-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "free-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "friday-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "friend-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "frog-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "front-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "fruit-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "full-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "fun-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "fun-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "funny-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "future-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "game-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "garbage-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "garden-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "ghost-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "gift-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "girl-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "girlfriend-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "give-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "glad-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "glass-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "glasses-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "go-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "goal-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "good-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "good-afternoon-interj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "good-morning-interj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "good-night-interj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "grade-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "grammar-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "grandfather-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "grandma-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "grandmother-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "grandpa-n": {
+   "check": "two-pass",
+   "problems": []
+  }
+ }
+}

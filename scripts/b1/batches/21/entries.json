@@ -1,0 +1,555 @@
+[
+ {
+  "id": "scare-v",
+  "headword": "scare",
+  "pos": "verb"
+ },
+ {
+  "id": "scared-adj",
+  "headword": "scared",
+  "pos": "adjective"
+ },
+ {
+  "id": "scary-adj",
+  "headword": "scary",
+  "pos": "adjective"
+ },
+ {
+  "id": "scatter-v",
+  "headword": "scatter",
+  "pos": "verb"
+ },
+ {
+  "id": "scenic-adj",
+  "headword": "scenic",
+  "pos": "adjective"
+ },
+ {
+  "id": "scholar-n",
+  "headword": "scholar",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Education"
+  ]
+ },
+ {
+  "id": "scholarship-n",
+  "headword": "scholarship",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Education"
+  ]
+ },
+ {
+  "id": "schoolmate-n",
+  "headword": "schoolmate",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Relations with other people"
+  ]
+ },
+ {
+  "id": "schoolteacher-n",
+  "headword": "schoolteacher",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "science-fiction-n",
+  "headword": "science fiction",
+  "pos": "noun",
+  "sourceTopics": [
+   "Books and literature",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "scold-v",
+  "headword": "scold",
+  "pos": "verb"
+ },
+ {
+  "id": "scope-n",
+  "headword": "scope",
+  "pos": "noun"
+ },
+ {
+  "id": "score-n",
+  "headword": "score",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education"
+  ]
+ },
+ {
+  "id": "score-v",
+  "headword": "score",
+  "pos": "verb"
+ },
+ {
+  "id": "scratch-n",
+  "headword": "scratch",
+  "pos": "noun"
+ },
+ {
+  "id": "scream-v",
+  "headword": "scream",
+  "pos": "verb"
+ },
+ {
+  "id": "sculpture-n",
+  "headword": "sculpture",
+  "pos": "noun",
+  "sourceTopics": [
+   "Arts",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "search-v",
+  "headword": "search",
+  "pos": "verb"
+ },
+ {
+  "id": "season-n",
+  "headword": "season",
+  "pos": "noun"
+ },
+ {
+  "id": "seawater-n",
+  "headword": "seawater",
+  "pos": "noun"
+ },
+ {
+  "id": "seaweed-n",
+  "headword": "seaweed",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "second-adv",
+  "headword": "second",
+  "pos": "adverb"
+ },
+ {
+  "id": "secondary-school-n",
+  "headword": "secondary school",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Education"
+  ]
+ },
+ {
+  "id": "second-hand-adj",
+  "headword": "second-hand",
+  "pos": "adjective"
+ },
+ {
+  "id": "second-hand-adv",
+  "headword": "second-hand",
+  "pos": "adverb"
+ },
+ {
+  "id": "secret-adj",
+  "headword": "secret",
+  "pos": "adjective"
+ },
+ {
+  "id": "secretly-adv",
+  "headword": "secretly",
+  "pos": "adverb"
+ },
+ {
+  "id": "secure-adj",
+  "headword": "secure",
+  "pos": "adjective"
+ },
+ {
+  "id": "security-n",
+  "headword": "security",
+  "pos": "noun",
+  "sourceTopics": [
+   "Services"
+  ]
+ },
+ {
+  "id": "seize-v",
+  "headword": "seize",
+  "pos": "verb"
+ },
+ {
+  "id": "select-adj",
+  "headword": "select",
+  "pos": "adjective"
+ },
+ {
+  "id": "selection-n",
+  "headword": "selection",
+  "pos": "noun"
+ },
+ {
+  "id": "selfish-adj",
+  "headword": "selfish",
+  "pos": "adjective"
+ },
+ {
+  "id": "self-service-adj",
+  "headword": "self-service",
+  "pos": "adjective"
+ },
+ {
+  "id": "sensation-n",
+  "headword": "sensation",
+  "pos": "noun"
+ },
+ {
+  "id": "separation-n",
+  "headword": "separation",
+  "pos": "noun"
+ },
+ {
+  "id": "sequence-n",
+  "headword": "sequence",
+  "pos": "noun"
+ },
+ {
+  "id": "series-n",
+  "headword": "series",
+  "pos": "noun"
+ },
+ {
+  "id": "serious-adj",
+  "headword": "serious",
+  "pos": "adjective"
+ },
+ {
+  "id": "server-n",
+  "headword": "server",
+  "pos": "noun"
+ },
+ {
+  "id": "service-n",
+  "headword": "service",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel and services vocab",
+   "Services"
+  ]
+ },
+ {
+  "id": "service-v",
+  "headword": "service",
+  "pos": "verb"
+ },
+ {
+  "id": "session-n",
+  "headword": "session",
+  "pos": "noun"
+ },
+ {
+  "id": "setting-n",
+  "headword": "setting",
+  "pos": "noun"
+ },
+ {
+  "id": "settle-v",
+  "headword": "settle",
+  "pos": "verb"
+ },
+ {
+  "id": "settlement-n",
+  "headword": "settlement",
+  "pos": "noun",
+  "sourceTopics": [
+   "Nationalities and countries"
+  ]
+ },
+ {
+  "id": "settler-n",
+  "headword": "settler",
+  "pos": "noun"
+ },
+ {
+  "id": "severe-adj",
+  "headword": "severe",
+  "pos": "adjective"
+ },
+ {
+  "id": "severely-adv",
+  "headword": "severely",
+  "pos": "adverb"
+ },
+ {
+  "id": "sex-n",
+  "headword": "sex",
+  "pos": "noun"
+ },
+ {
+  "id": "shadow-v",
+  "headword": "shadow",
+  "pos": "verb"
+ },
+ {
+  "id": "shadowy-adj",
+  "headword": "shadowy",
+  "pos": "adjective"
+ },
+ {
+  "id": "shake-v",
+  "headword": "shake",
+  "pos": "verb"
+ },
+ {
+  "id": "shallow-adj",
+  "headword": "shallow",
+  "pos": "adjective"
+ },
+ {
+  "id": "shame-n",
+  "headword": "shame",
+  "pos": "noun"
+ },
+ {
+  "id": "shameful-adj",
+  "headword": "shameful",
+  "pos": "adjective"
+ },
+ {
+  "id": "shape-v",
+  "headword": "shape",
+  "pos": "verb"
+ },
+ {
+  "id": "sharp-adj",
+  "headword": "sharp",
+  "pos": "adjective"
+ },
+ {
+  "id": "shave-v",
+  "headword": "shave",
+  "pos": "verb"
+ },
+ {
+  "id": "sheer-adj",
+  "headword": "sheer",
+  "pos": "adjective"
+ },
+ {
+  "id": "sheet-n",
+  "headword": "sheet",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms"
+  ]
+ },
+ {
+  "id": "shelter-n",
+  "headword": "shelter",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "sheriff-n",
+  "headword": "sheriff",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "shift-v",
+  "headword": "shift",
+  "pos": "verb"
+ },
+ {
+  "id": "shiny-adj",
+  "headword": "shiny",
+  "pos": "adjective"
+ },
+ {
+  "id": "ship-v",
+  "headword": "ship",
+  "pos": "verb"
+ },
+ {
+  "id": "shiver-v",
+  "headword": "shiver",
+  "pos": "verb"
+ },
+ {
+  "id": "shocked-adj",
+  "headword": "shocked",
+  "pos": "adjective"
+ },
+ {
+  "id": "shocking-adj",
+  "headword": "shocking",
+  "pos": "adjective"
+ },
+ {
+  "id": "shop-v",
+  "headword": "shop",
+  "pos": "verb"
+ },
+ {
+  "id": "shopper-n",
+  "headword": "shopper",
+  "pos": "noun",
+  "sourceTopics": [
+   "Shopping",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "shortage-n",
+  "headword": "shortage",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs"
+  ]
+ },
+ {
+  "id": "shortly-adv",
+  "headword": "shortly",
+  "pos": "adverb"
+ },
+ {
+  "id": "shout-v",
+  "headword": "shout",
+  "pos": "verb"
+ },
+ {
+  "id": "shrimp-n",
+  "headword": "shrimp",
+  "pos": "noun"
+ },
+ {
+  "id": "shut-adj",
+  "headword": "shut",
+  "pos": "adjective"
+ },
+ {
+  "id": "sickness-n",
+  "headword": "sickness",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel and services vocab",
+   "Health and body care"
+  ]
+ },
+ {
+  "id": "sidewalk-n",
+  "headword": "sidewalk",
+  "pos": "noun"
+ },
+ {
+  "id": "sigh-n",
+  "headword": "sigh",
+  "pos": "noun"
+ },
+ {
+  "id": "sign-v",
+  "headword": "sign",
+  "pos": "verb"
+ },
+ {
+  "id": "signal-n",
+  "headword": "signal",
+  "pos": "noun"
+ },
+ {
+  "id": "signature-n",
+  "headword": "signature",
+  "pos": "noun"
+ },
+ {
+  "id": "significance-n",
+  "headword": "significance",
+  "pos": "noun"
+ },
+ {
+  "id": "signpost-n",
+  "headword": "signpost",
+  "pos": "noun"
+ },
+ {
+  "id": "silent-adj",
+  "headword": "silent",
+  "pos": "adjective"
+ },
+ {
+  "id": "silk-n",
+  "headword": "silk",
+  "pos": "noun",
+  "sourceTopics": [
+   "Clothes",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "similarity-n",
+  "headword": "similarity",
+  "pos": "noun"
+ },
+ {
+  "id": "similarly-adv",
+  "headword": "similarly",
+  "pos": "adverb"
+ },
+ {
+  "id": "simplify-v",
+  "headword": "simplify",
+  "pos": "verb"
+ },
+ {
+  "id": "simultaneously-adv",
+  "headword": "simultaneously",
+  "pos": "adverb"
+ },
+ {
+  "id": "since-conj",
+  "headword": "since",
+  "pos": "conjunction"
+ },
+ {
+  "id": "single-n",
+  "headword": "single",
+  "pos": "noun",
+  "sourceTopics": [
+   "Family life",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "sink-v",
+  "headword": "sink",
+  "pos": "verb"
+ },
+ {
+  "id": "skate-v",
+  "headword": "skate",
+  "pos": "verb"
+ },
+ {
+  "id": "skeleton-n",
+  "headword": "skeleton",
+  "pos": "noun",
+  "sourceTopics": [
+   "Health and body care"
+  ]
+ }
+]

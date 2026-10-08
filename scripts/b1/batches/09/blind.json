@@ -1,0 +1,952 @@
+{
+  "evenly-adv": {
+    "gloss": {
+      "fr": "uniformément",
+      "es": "uniformemente"
+    },
+    "exampleGloss": {
+      "fr": "Étale le beurre uniformément sur le pain.",
+      "es": "Unta la mantequilla de manera uniforme sobre el pan."
+    }
+  },
+  "eventually-adv": {
+    "gloss": {
+      "fr": "finalement",
+      "es": "finalmente"
+    },
+    "exampleGloss": {
+      "fr": "Nous avons attendu une heure, et le bus a fini par arriver.",
+      "es": "Esperamos una hora y finalmente llegó el autobús."
+    }
+  },
+  "evident-adj": {
+    "gloss": {
+      "fr": "évident",
+      "es": "evidente"
+    },
+    "exampleGloss": {
+      "fr": "On voyait bien à son sourire qu'elle était heureuse.",
+      "es": "Era evidente por su sonrisa que estaba contenta."
+    }
+  },
+  "exact-adj": {
+    "gloss": {
+      "fr": "exact",
+      "es": "exacto"
+    },
+    "exampleGloss": {
+      "fr": "Pouvez-vous me donner l'heure exacte, s'il vous plaît ?",
+      "es": "¿Me puede decir la hora exacta, por favor?"
+    }
+  },
+  "examination-n": {
+    "gloss": {
+      "fr": "l'examen",
+      "es": "el examen"
+    },
+    "exampleGloss": {
+      "fr": "Tous les élèves doivent passer un examen écrit en juin.",
+      "es": "Todos los alumnos tienen que hacer un examen escrito en junio."
+    }
+  },
+  "examine-v": {
+    "gloss": {
+      "fr": "examiner",
+      "es": "examinar"
+    },
+    "exampleGloss": {
+      "fr": "Le médecin va vous examiner les yeux avant que vous ayez des lunettes.",
+      "es": "El médico te examinará los ojos antes de que te pongan gafas."
+    }
+  },
+  "examiner-n": {
+    "gloss": {
+      "fr": "l'examinateur",
+      "es": "el examinador"
+    },
+    "exampleGloss": {
+      "fr": "L'examinateur m'a demandé de lire le texte à voix haute.",
+      "es": "El examinador me pidió que leyera el texto en voz alta."
+    }
+  },
+  "excellence-n": {
+    "gloss": {
+      "fr": "l'excellence",
+      "es": "la excelencia"
+    },
+    "exampleGloss": {
+      "fr": "L'école a reçu un prix pour l'excellence de son enseignement.",
+      "es": "El colegio ganó un premio a la excelencia en la enseñanza."
+    }
+  },
+  "excess-n": {
+    "gloss": {
+      "fr": "l'excès",
+      "es": "el exceso"
+    },
+    "exampleGloss": {
+      "fr": "Un excès de sucre dans l'alimentation est mauvais pour les dents.",
+      "es": "Un exceso de azúcar en la dieta es malo para los dientes."
+    }
+  },
+  "exchange-v": {
+    "gloss": {
+      "fr": "échanger",
+      "es": "cambiar"
+    },
+    "exampleGloss": {
+      "fr": "Est-ce que je peux échanger cette chemise contre une taille au-dessus ?",
+      "es": "¿Puedo cambiar esta camisa por una talla más grande?"
+    }
+  },
+  "exchange-rate-n": {
+    "gloss": {
+      "fr": "le taux de change",
+      "es": "el tipo de cambio"
+    },
+    "exampleGloss": {
+      "fr": "Le taux de change entre l'euro et le dollar change tous les jours.",
+      "es": "El tipo de cambio entre el euro y el dólar cambia cada día."
+    }
+  },
+  "excitedly-adv": {
+    "gloss": {
+      "fr": "avec excitation",
+      "es": "con entusiasmo"
+    },
+    "exampleGloss": {
+      "fr": "Les enfants parlaient avec excitation de leur sortie au zoo.",
+      "es": "Los niños hablaban con entusiasmo de su excursión al zoo."
+    }
+  },
+  "excitement-n": {
+    "gloss": {
+      "fr": "l'excitation",
+      "es": "la emoción"
+    },
+    "exampleGloss": {
+      "fr": "Elle n'arrivait pas à dormir à cause de l'excitation avant son anniversaire.",
+      "es": "No podía dormir por la emoción antes de su cumpleaños."
+    }
+  },
+  "exclusive-adj": {
+    "gloss": {
+      "fr": "huppé",
+      "es": "exclusivo"
+    },
+    "exampleGloss": {
+      "fr": "Ils ont séjourné dans un hôtel de luxe que seuls les riches peuvent se payer.",
+      "es": "Se alojaron en un hotel exclusivo que solo los ricos pueden permitirse."
+    }
+  },
+  "excuse-v": {
+    "gloss": {
+      "fr": "excuser",
+      "es": "disculpar"
+    },
+    "exampleGloss": {
+      "fr": "Excusez-moi d'arriver si tard.",
+      "es": "Disculpe que llegue tan tarde."
+    }
+  },
+  "exhausted-adj": {
+    "gloss": {
+      "fr": "épuisé",
+      "es": "agotado"
+    },
+    "exampleGloss": {
+      "fr": "Après la longue marche, nous étions complètement épuisés.",
+      "es": "Después de la larga caminata, estábamos completamente agotados."
+    }
+  },
+  "existence-n": {
+    "gloss": {
+      "fr": "l'existence",
+      "es": "la existencia"
+    },
+    "exampleGloss": {
+      "fr": "Beaucoup de gens ne croient pas à l'existence des fantômes.",
+      "es": "Mucha gente no cree en la existencia de los fantasmas."
+    }
+  },
+  "exit-n": {
+    "gloss": {
+      "fr": "la sortie",
+      "es": "la salida"
+    },
+    "exampleGloss": {
+      "fr": "Veuillez quitter le bâtiment par la sortie la plus proche.",
+      "es": "Por favor, salgan del edificio por la salida más cercana."
+    }
+  },
+  "exit-v": {
+    "gloss": {
+      "fr": "sortir",
+      "es": "salir"
+    },
+    "exampleGloss": {
+      "fr": "Les passagers doivent descendre du train par les portes de gauche.",
+      "es": "Los pasajeros deben salir del tren por las puertas de la izquierda."
+    }
+  },
+  "expand-v": {
+    "gloss": {
+      "fr": "se développer",
+      "es": "expandirse"
+    },
+    "exampleGloss": {
+      "fr": "L'entreprise prévoit de s'agrandir et d'ouvrir trois nouveaux magasins.",
+      "es": "La empresa tiene previsto expandirse y abrir tres tiendas nuevas."
+    }
+  },
+  "expense-n": {
+    "gloss": {
+      "fr": "la dépense",
+      "es": "el gasto"
+    },
+    "exampleGloss": {
+      "fr": "Une nouvelle voiture est une grosse dépense pour une jeune famille.",
+      "es": "Un coche nuevo es un gran gasto para una familia joven."
+    }
+  },
+  "experience-v": {
+    "gloss": {
+      "fr": "ressentir",
+      "es": "sufrir"
+    },
+    "exampleGloss": {
+      "fr": "Beaucoup de gens ressentent du stress avant un examen important.",
+      "es": "Mucha gente sufre estrés antes de un examen importante."
+    }
+  },
+  "experienced-adj": {
+    "gloss": {
+      "fr": "expérimenté",
+      "es": "experimentado"
+    },
+    "exampleGloss": {
+      "fr": "Nous avons besoin d'un chauffeur expérimenté qui conduit depuis de nombreuses années.",
+      "es": "Necesitamos un conductor con experiencia que lleve muchos años conduciendo."
+    }
+  },
+  "experiment-n": {
+    "gloss": {
+      "fr": "l'expérience",
+      "es": "el experimento"
+    },
+    "exampleGloss": {
+      "fr": "En cours de sciences, nous avons fait une expérience avec de l'eau et du sel.",
+      "es": "En clase de ciencias hicimos un experimento con agua y sal."
+    }
+  },
+  "exploration-n": {
+    "gloss": {
+      "fr": "l'exploration",
+      "es": "la exploración"
+    },
+    "exampleGloss": {
+      "fr": "L'exploration spatiale a commencé au vingtième siècle.",
+      "es": "La exploración del espacio comenzó en el siglo veinte."
+    }
+  },
+  "explosion-n": {
+    "gloss": {
+      "fr": "l'explosion",
+      "es": "la explosión"
+    },
+    "exampleGloss": {
+      "fr": "Les gens ont entendu une forte explosion quand la citerne de gaz a sauté.",
+      "es": "La gente oyó una fuerte explosión cuando estalló el depósito de gas."
+    }
+  },
+  "expose-v": {
+    "gloss": {
+      "fr": "exposer",
+      "es": "exponer"
+    },
+    "exampleGloss": {
+      "fr": "N'exposez pas votre peau au soleil trop longtemps.",
+      "es": "No expongas la piel al sol durante demasiado tiempo."
+    }
+  },
+  "express-v": {
+    "gloss": {
+      "fr": "exprimer",
+      "es": "expresar"
+    },
+    "exampleGloss": {
+      "fr": "Il est parfois difficile d'exprimer ses sentiments dans une langue étrangère.",
+      "es": "A veces es difícil expresar los sentimientos en un idioma extranjero."
+    }
+  },
+  "extend-v": {
+    "gloss": {
+      "fr": "prolonger",
+      "es": "alargar"
+    },
+    "exampleGloss": {
+      "fr": "Ils veulent prolonger leurs vacances d'une semaine.",
+      "es": "Quieren alargar sus vacaciones una semana más."
+    }
+  },
+  "extensively-adv": {
+    "gloss": {
+      "fr": "beaucoup",
+      "es": "mucho"
+    },
+    "exampleGloss": {
+      "fr": "Elle a beaucoup voyagé en Asie et en Amérique du Sud.",
+      "es": "Ha viajado mucho por Asia y Sudamérica."
+    }
+  },
+  "extent-n": {
+    "gloss": {
+      "fr": "l'étendue",
+      "es": "el alcance"
+    },
+    "exampleGloss": {
+      "fr": "Nous ne connaissons pas encore toute l'étendue des dégâts.",
+      "es": "Todavía no conocemos el alcance total de los daños."
+    }
+  },
+  "extinct-adj": {
+    "gloss": {
+      "fr": "disparu",
+      "es": "extinto"
+    },
+    "exampleGloss": {
+      "fr": "Les dinosaures ont disparu il y a des millions d'années.",
+      "es": "Los dinosaurios se extinguieron hace millones de años."
+    }
+  },
+  "extinction-n": {
+    "gloss": {
+      "fr": "l'extinction",
+      "es": "la extinción"
+    },
+    "exampleGloss": {
+      "fr": "Beaucoup d'animaux sauvages sont menacés d'extinction.",
+      "es": "Muchos animales salvajes están en peligro de extinción."
+    }
+  },
+  "extra-n": {
+    "gloss": {
+      "fr": "le supplément",
+      "es": "el extra"
+    },
+    "exampleGloss": {
+      "fr": "La chambre coûte quatre-vingts euros, et le petit-déjeuner est en supplément.",
+      "es": "La habitación cuesta ochenta euros y el desayuno se paga aparte."
+    }
+  },
+  "extraordinary-adj": {
+    "gloss": {
+      "fr": "extraordinaire",
+      "es": "extraordinario"
+    },
+    "exampleGloss": {
+      "fr": "Elle a une voix extraordinaire que personne ne peut oublier.",
+      "es": "Tiene una voz extraordinaria que nadie puede olvidar."
+    }
+  },
+  "extreme-adj": {
+    "gloss": {
+      "fr": "extrême",
+      "es": "extremo"
+    },
+    "exampleGloss": {
+      "fr": "Le froid extrême de l'hiver rend la vie difficile dans le nord.",
+      "es": "El frío extremo del invierno hace la vida difícil en el norte."
+    }
+  },
+  "extreme-sports-n": {
+    "gloss": {
+      "fr": "les sports extrêmes",
+      "es": "los deportes extremos"
+    },
+    "exampleGloss": {
+      "fr": "Mon frère adore les sports extrêmes comme le parachutisme et l'escalade.",
+      "es": "A mi hermano le encantan los deportes extremos como el paracaidismo y la escalada."
+    }
+  },
+  "eyesight-n": {
+    "gloss": {
+      "fr": "la vue",
+      "es": "la vista"
+    },
+    "exampleGloss": {
+      "fr": "Mon grand-père a une mauvaise vue, il ne peut donc pas lire les petits caractères.",
+      "es": "Mi abuelo tiene mala vista, así que no puede leer la letra pequeña."
+    }
+  },
+  "face-to-face-adv": {
+    "gloss": {
+      "fr": "en face à face",
+      "es": "cara a cara"
+    },
+    "exampleGloss": {
+      "fr": "Je préfère parler aux gens en face à face, pas par e-mail.",
+      "es": "Prefiero hablar con la gente cara a cara, no por correo electrónico."
+    }
+  },
+  "face-to-face-adj": {
+    "gloss": {
+      "fr": "en présentiel",
+      "es": "presencial"
+    },
+    "exampleGloss": {
+      "fr": "Nous avons fait une réunion en présentiel au lieu d'un appel vidéo.",
+      "es": "Tuvimos una reunión presencial en lugar de una videollamada."
+    }
+  },
+  "facility-n": {
+    "gloss": {
+      "fr": "l'installation",
+      "es": "la instalación"
+    },
+    "exampleGloss": {
+      "fr": "L'hôtel dispose d'un espace sportif avec une piscine et une salle de sport.",
+      "es": "El hotel tiene una instalación deportiva con piscina y gimnasio."
+    }
+  },
+  "fade-v": {
+    "gloss": {
+      "fr": "se décolorer",
+      "es": "desteñirse"
+    },
+    "exampleGloss": {
+      "fr": "Mon jean bleu a commencé à se décolorer après de nombreux lavages.",
+      "es": "Mis vaqueros azules empezaron a desteñirse después de muchos lavados."
+    }
+  },
+  "failure-n": {
+    "gloss": {
+      "fr": "l'échec",
+      "es": "el fracaso"
+    },
+    "exampleGloss": {
+      "fr": "Le projet a été un échec parce que personne n'est venu à la réunion.",
+      "es": "El plan fue un fracaso porque nadie vino a la reunión."
+    }
+  },
+  "faint-adj": {
+    "gloss": {
+      "fr": "faible",
+      "es": "débil"
+    },
+    "exampleGloss": {
+      "fr": "Nous avons entendu un léger bruit dans la pièce d'à côté.",
+      "es": "Oímos un ruido débil en la habitación de al lado."
+    }
+  },
+  "fair-n": {
+    "gloss": {
+      "fr": "la fête foraine",
+      "es": "la feria"
+    },
+    "exampleGloss": {
+      "fr": "Nous sommes montés sur la grande roue à la fête foraine d'été.",
+      "es": "Nos subimos a la noria en la feria de verano."
+    }
+  },
+  "faithful-adj": {
+    "gloss": {
+      "fr": "fidèle",
+      "es": "fiel"
+    },
+    "exampleGloss": {
+      "fr": "Notre vieux chien a été un ami fidèle pendant quinze ans.",
+      "es": "Nuestro viejo perro fue un amigo fiel durante quince años."
+    }
+  },
+  "fake-adj": {
+    "gloss": {
+      "fr": "faux",
+      "es": "falso"
+    },
+    "exampleGloss": {
+      "fr": "La police a trouvé de la fausse monnaie dans son sac.",
+      "es": "La policía encontró dinero falso en su bolsa."
+    }
+  },
+  "fall-n": {
+    "gloss": {
+      "fr": "la chute",
+      "es": "la caída"
+    },
+    "exampleGloss": {
+      "fr": "Ma grand-mère s'est cassé le bras en tombant sur la glace.",
+      "es": "Mi abuela se rompió el brazo en una caída en el hielo."
+    }
+  },
+  "fallen-adj": {
+    "gloss": {
+      "fr": "tombé",
+      "es": "caído"
+    },
+    "exampleGloss": {
+      "fr": "La route était bloquée par un arbre tombé après la tempête.",
+      "es": "La carretera estaba cortada por un árbol caído tras la tormenta."
+    }
+  },
+  "fancy-n": {
+    "gloss": {
+      "fr": "la lubie",
+      "es": "el capricho"
+    },
+    "exampleGloss": {
+      "fr": "Son intérêt pour la peinture n'était qu'une lubie qui a duré une semaine.",
+      "es": "Su interés por la pintura fue solo un capricho que duró una semana."
+    }
+  },
+  "fancy-v": {
+    "gloss": {
+      "fr": "avoir envie de",
+      "es": "apetecer"
+    },
+    "exampleGloss": {
+      "fr": "Ça te dit d'aller au cinéma ce soir ?",
+      "es": "¿Te apetece ir al cine esta noche?"
+    }
+  },
+  "fantasy-n": {
+    "gloss": {
+      "fr": "la fantasy",
+      "es": "la fantasía"
+    },
+    "exampleGloss": {
+      "fr": "Elle adore les livres de fantasy pleins de dragons et de magie.",
+      "es": "Le encantan los libros de fantasía llenos de dragones y magia."
+    }
+  },
+  "faraway-adj": {
+    "gloss": {
+      "fr": "lointain",
+      "es": "lejano"
+    },
+    "exampleGloss": {
+      "fr": "Il rêvait de voyager dans des pays lointains.",
+      "es": "Soñaba con viajar a países lejanos."
+    }
+  },
+  "farewell-n": {
+    "gloss": {
+      "fr": "l'adieu",
+      "es": "la despedida"
+    },
+    "exampleGloss": {
+      "fr": "Nous avons organisé une fête d'adieu pour notre professeure avant son départ.",
+      "es": "Hicimos una fiesta de despedida para nuestra profesora antes de que se fuera."
+    }
+  },
+  "farming-n": {
+    "gloss": {
+      "fr": "l'agriculture",
+      "es": "la agricultura"
+    },
+    "exampleGloss": {
+      "fr": "L'agriculture reste importante dans cette région du pays.",
+      "es": "La agricultura sigue siendo importante en esta parte del país."
+    }
+  },
+  "farmland-n": {
+    "gloss": {
+      "fr": "les terres agricoles",
+      "es": "las tierras de cultivo"
+    },
+    "exampleGloss": {
+      "fr": "Les nouvelles maisons ont été construites sur des terres agricoles en dehors de la ville.",
+      "es": "Las casas nuevas se construyeron en tierras de cultivo a las afueras del pueblo."
+    }
+  },
+  "farther-adv": {
+    "gloss": {
+      "fr": "plus loin",
+      "es": "más lejos"
+    },
+    "exampleGloss": {
+      "fr": "Nous avons marché plus loin que prévu et nous nous sommes perdus.",
+      "es": "Caminamos más lejos de lo previsto y nos perdimos."
+    }
+  },
+  "farthest-adv": {
+    "gloss": {
+      "fr": "le plus loin",
+      "es": "más lejos"
+    },
+    "exampleGloss": {
+      "fr": "De tous les enfants, c'est Tom qui a lancé la balle le plus loin.",
+      "es": "De todos los niños, Tom fue el que lanzó la pelota más lejos."
+    }
+  },
+  "fascinate-v": {
+    "gloss": {
+      "fr": "fasciner",
+      "es": "fascinar"
+    },
+    "exampleGloss": {
+      "fr": "Les vieux châteaux fascinent toujours mon petit frère.",
+      "es": "A mi hermano pequeño siempre le fascinan los castillos antiguos."
+    }
+  },
+  "fashionable-adj": {
+    "gloss": {
+      "fr": "à la mode",
+      "es": "de moda"
+    },
+    "exampleGloss": {
+      "fr": "Les vestes courtes sont très à la mode cette année.",
+      "es": "Las chaquetas cortas están muy de moda este año."
+    }
+  },
+  "fasten-v": {
+    "gloss": {
+      "fr": "attacher",
+      "es": "abrocharse"
+    },
+    "exampleGloss": {
+      "fr": "Veuillez attacher votre ceinture avant le décollage de l'avion.",
+      "es": "Por favor, abróchense el cinturón antes de que despegue el avión."
+    }
+  },
+  "favorable-adj": {
+    "gloss": {
+      "fr": "favorable",
+      "es": "favorable"
+    },
+    "exampleGloss": {
+      "fr": "Le temps était favorable, donc la course a commencé à l'heure.",
+      "es": "El tiempo era favorable, así que la carrera empezó a su hora."
+    }
+  },
+  "fax-n": {
+    "gloss": {
+      "fr": "le fax",
+      "es": "el fax"
+    },
+    "exampleGloss": {
+      "fr": "Le bureau nous a envoyé un fax avec les nouveaux prix.",
+      "es": "La oficina nos envió un fax con los nuevos precios."
+    }
+  },
+  "fax-v": {
+    "gloss": {
+      "fr": "faxer",
+      "es": "enviar por fax"
+    },
+    "exampleGloss": {
+      "fr": "Pourriez-vous me faxer le contrat cet après-midi ?",
+      "es": "¿Podría enviarme el contrato por fax esta tarde?"
+    }
+  },
+  "feast-n": {
+    "gloss": {
+      "fr": "le festin",
+      "es": "el banquete"
+    },
+    "exampleGloss": {
+      "fr": "Après le mariage, il y a eu un festin avec beaucoup à manger.",
+      "es": "Después de la boda hubo un banquete con mucha comida."
+    }
+  },
+  "feed-v": {
+    "gloss": {
+      "fr": "nourrir",
+      "es": "dar de comer"
+    },
+    "exampleGloss": {
+      "fr": "Tu peux nourrir le chat pendant mon absence ?",
+      "es": "¿Puedes darle de comer al gato mientras estoy fuera?"
+    }
+  },
+  "fellow-n": {
+    "gloss": {
+      "fr": "le type",
+      "es": "el tipo"
+    },
+    "exampleGloss": {
+      "fr": "C'est un type sympa qui aide toujours ses voisins.",
+      "es": "Es un tipo majo que siempre ayuda a sus vecinos."
+    }
+  },
+  "ferry-n": {
+    "gloss": {
+      "fr": "le ferry",
+      "es": "el ferry"
+    },
+    "exampleGloss": {
+      "fr": "Nous avons pris le ferry pour traverser la mer jusqu'à l'île.",
+      "es": "Cogimos el ferry para cruzar el mar hasta la isla."
+    }
+  },
+  "festive-adj": {
+    "gloss": {
+      "fr": "festif",
+      "es": "festivo"
+    },
+    "exampleGloss": {
+      "fr": "Les rues ont un air de fête avec toutes les lumières de décembre.",
+      "es": "Las calles tienen un aire festivo con todas las luces de diciembre."
+    }
+  },
+  "fetch-v": {
+    "gloss": {
+      "fr": "aller chercher",
+      "es": "traer"
+    },
+    "exampleGloss": {
+      "fr": "Tu pourrais aller chercher de l'eau à la cuisine ?",
+      "es": "¿Podrías traer un poco de agua de la cocina?"
+    }
+  },
+  "feverishly-adv": {
+    "gloss": {
+      "fr": "fébrilement",
+      "es": "febrilmente"
+    },
+    "exampleGloss": {
+      "fr": "Il a travaillé fébrilement pour finir le rapport avant la date limite.",
+      "es": "Trabajó febrilmente para terminar el informe antes del plazo."
+    }
+  },
+  "few-pron": {
+    "gloss": {
+      "fr": "peu",
+      "es": "pocos"
+    },
+    "exampleGloss": {
+      "fr": "Beaucoup de gens étaient invités, mais peu sont venus à la fête.",
+      "es": "Invitaron a mucha gente, pero pocos vinieron a la fiesta."
+    }
+  },
+  "fifth-n": {
+    "gloss": {
+      "fr": "le cinquième",
+      "es": "la quinta parte"
+    },
+    "exampleGloss": {
+      "fr": "Un cinquième des élèves de notre classe vont à l'école à pied.",
+      "es": "Una quinta parte de los alumnos de nuestra clase va andando al colegio."
+    }
+  },
+  "fight-v": {
+    "gloss": {
+      "fr": "se battre",
+      "es": "pelearse"
+    },
+    "exampleGloss": {
+      "fr": "Mes deux chats se battent pour la meilleure place sur le canapé.",
+      "es": "Mis dos gatos se pelean por el mejor sitio del sofá."
+    }
+  },
+  "filling-n": {
+    "gloss": {
+      "fr": "la garniture",
+      "es": "el relleno"
+    },
+    "exampleGloss": {
+      "fr": "J'aime les sandwichs avec une garniture fromage-tomate.",
+      "es": "Me gustan los sándwiches con relleno de queso y tomate."
+    }
+  },
+  "film-v": {
+    "gloss": {
+      "fr": "filmer",
+      "es": "grabar"
+    },
+    "exampleGloss": {
+      "fr": "Ils ont décidé de filmer le mariage avec une petite caméra.",
+      "es": "Decidieron grabar la boda con una cámara pequeña."
+    }
+  },
+  "film-maker-n": {
+    "gloss": {
+      "fr": "le cinéaste",
+      "es": "el cineasta"
+    },
+    "exampleGloss": {
+      "fr": "La jeune cinéaste a reçu un prix pour son premier film.",
+      "es": "La joven cineasta ganó un premio por su primera película."
+    }
+  },
+  "filter-n": {
+    "gloss": {
+      "fr": "le filtre",
+      "es": "el filtro"
+    },
+    "exampleGloss": {
+      "fr": "Changez le filtre de la cafetière toutes les semaines.",
+      "es": "Cambia el filtro de la cafetera cada semana."
+    }
+  },
+  "finance-v": {
+    "gloss": {
+      "fr": "financer",
+      "es": "financiar"
+    },
+    "exampleGloss": {
+      "fr": "La banque a accepté de financer le nouveau centre sportif.",
+      "es": "El banco aceptó financiar el nuevo polideportivo."
+    }
+  },
+  "financial-adj": {
+    "gloss": {
+      "fr": "financier",
+      "es": "económico"
+    },
+    "exampleGloss": {
+      "fr": "L'entreprise avait des problèmes financiers et a perdu beaucoup d'argent.",
+      "es": "La empresa tenía problemas económicos y perdió mucho dinero."
+    }
+  },
+  "finding-n": {
+    "gloss": {
+      "fr": "la conclusion",
+      "es": "la conclusión"
+    },
+    "exampleGloss": {
+      "fr": "La principale conclusion de l'étude est que le sommeil aide la mémoire.",
+      "es": "La principal conclusión del estudio es que dormir ayuda a la memoria."
+    }
+  },
+  "fine-n": {
+    "gloss": {
+      "fr": "l'amende",
+      "es": "la multa"
+    },
+    "exampleGloss": {
+      "fr": "Il a dû payer une amende pour s'être garé au mauvais endroit.",
+      "es": "Tuvo que pagar una multa por aparcar en un sitio prohibido."
+    }
+  },
+  "finger-n": {
+    "gloss": {
+      "fr": "le doigt",
+      "es": "el dedo"
+    },
+    "exampleGloss": {
+      "fr": "Elle porte une bague en or au doigt.",
+      "es": "Lleva un anillo de oro en el dedo."
+    }
+  },
+  "fire-station-n": {
+    "gloss": {
+      "fr": "la caserne de pompiers",
+      "es": "el parque de bomberos"
+    },
+    "exampleGloss": {
+      "fr": "La caserne de pompiers est à côté de l'hôpital.",
+      "es": "El parque de bomberos está al lado del hospital."
+    }
+  },
+  "firefighter-n": {
+    "gloss": {
+      "fr": "le pompier",
+      "es": "el bombero"
+    },
+    "exampleGloss": {
+      "fr": "Le pompier a sauvé un enfant de la maison en feu.",
+      "es": "El bombero salvó a un niño de la casa en llamas."
+    }
+  },
+  "firework-n": {
+    "gloss": {
+      "fr": "le feu d'artifice",
+      "es": "el fuego artificial"
+    },
+    "exampleGloss": {
+      "fr": "Nous avons regardé un grand feu d'artifice illuminer le ciel à minuit.",
+      "es": "Vimos un gran fuego artificial iluminar el cielo a medianoche."
+    }
+  },
+  "firm-adj": {
+    "gloss": {
+      "fr": "ferme",
+      "es": "duro"
+    },
+    "exampleGloss": {
+      "fr": "Ce lit est trop ferme, je n'arrive pas à bien dormir.",
+      "es": "Esta cama es demasiado dura y no duermo bien."
+    }
+  },
+  "firm-n": {
+    "gloss": {
+      "fr": "le cabinet",
+      "es": "el bufete"
+    },
+    "exampleGloss": {
+      "fr": "Mon père travaille dans un petit cabinet d'avocats en ville.",
+      "es": "Mi padre trabaja en un pequeño bufete de abogados de la ciudad."
+    }
+  },
+  "firmly-adv": {
+    "gloss": {
+      "fr": "fermement",
+      "es": "con fuerza"
+    },
+    "exampleGloss": {
+      "fr": "Tiens bien la corde pour ne pas tomber.",
+      "es": "Agarra la cuerda con fuerza para no caerte."
+    }
+  },
+  "first-floor-n": {
+    "gloss": {
+      "fr": "le premier étage",
+      "es": "la primera planta"
+    },
+    "exampleGloss": {
+      "fr": "Notre appartement est au premier étage, au-dessus du magasin.",
+      "es": "Nuestro piso está en la primera planta, encima de la tienda."
+    }
+  },
+  "first-lady-n": {
+    "gloss": {
+      "fr": "la première dame",
+      "es": "la primera dama"
+    },
+    "exampleGloss": {
+      "fr": "La première dame a visité une école avec le président.",
+      "es": "La primera dama visitó un colegio con el presidente."
+    }
+  },
+  "first-floor-adj": {
+    "gloss": {
+      "fr": "au premier étage",
+      "es": "de la primera planta"
+    },
+    "exampleGloss": {
+      "fr": "Nous avons réservé une chambre au premier étage avec vue sur la mer.",
+      "es": "Reservamos una habitación en la primera planta con vistas al mar."
+    }
+  },
+  "fish-v": {
+    "gloss": {
+      "fr": "pêcher",
+      "es": "pescar"
+    },
+    "exampleGloss": {
+      "fr": "Le dimanche, mon oncle aime pêcher dans la rivière.",
+      "es": "Los domingos a mi tío le gusta pescar en el río."
+    }
+  },
+  "fit-v": {
+    "gloss": {
+      "fr": "aller (à la bonne taille)",
+      "es": "quedar bien"
+    },
+    "exampleGloss": {
+      "fr": "Ces chaussures ne me vont pas : elles sont trop petites.",
+      "es": "Estos zapatos no me quedan bien: son demasiado pequeños."
+    }
+  },
+  "fitness-n": {
+    "gloss": {
+      "fr": "la forme physique",
+      "es": "la forma física"
+    },
+    "exampleGloss": {
+      "fr": "La natation est un bon moyen d'améliorer sa forme physique.",
+      "es": "Nadar es una buena manera de mejorar la forma física."
+    }
+  }
+}

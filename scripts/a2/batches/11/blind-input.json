@@ -1,0 +1,566 @@
+[
+ {
+  "id": "pressure-n",
+  "headword": "pressure",
+  "pos": "noun",
+  "example": "There is a lot of pressure at work before the holidays."
+ },
+ {
+  "id": "pretend-v",
+  "headword": "pretend",
+  "pos": "verb",
+  "example": "My little brother pretended to be asleep when Mum came in."
+ },
+ {
+  "id": "pretty-adv",
+  "headword": "pretty",
+  "pos": "adverb",
+  "example": "The test was pretty easy, so I finished early."
+ },
+ {
+  "id": "prevent-v",
+  "headword": "prevent",
+  "pos": "verb",
+  "example": "Washing your hands can prevent colds."
+ },
+ {
+  "id": "pride-n",
+  "headword": "pride",
+  "pos": "noun",
+  "example": "She showed her new painting to everyone with great pride."
+ },
+ {
+  "id": "principal-adj",
+  "headword": "principal",
+  "pos": "adjective",
+  "example": "Rice is the principal food in many Asian countries."
+ },
+ {
+  "id": "print-v",
+  "headword": "print",
+  "pos": "verb",
+  "example": "Can you print my train ticket on your printer?"
+ },
+ {
+  "id": "printer-n",
+  "headword": "printer",
+  "pos": "noun",
+  "example": "The printer in the office has no more paper."
+ },
+ {
+  "id": "private-adj",
+  "headword": "private",
+  "pos": "adjective",
+  "example": "This is a private beach, so only hotel guests can swim here."
+ },
+ {
+  "id": "pro-n",
+  "headword": "pro",
+  "pos": "noun",
+  "example": "He plays tennis like a pro after years of practice."
+ },
+ {
+  "id": "probably-adv",
+  "headword": "probably",
+  "pos": "adverb",
+  "example": "It will probably rain tomorrow, so take an umbrella."
+ },
+ {
+  "id": "produce-v",
+  "headword": "produce",
+  "pos": "verb",
+  "example": "This factory produces two hundred cars every day."
+ },
+ {
+  "id": "product-n",
+  "headword": "product",
+  "pos": "noun",
+  "example": "Our company sells its products in shops all over Europe."
+ },
+ {
+  "id": "production-n",
+  "headword": "production",
+  "pos": "noun",
+  "example": "The production of the new phone started last month."
+ },
+ {
+  "id": "professional-adj",
+  "headword": "professional",
+  "pos": "adjective",
+  "example": "She wants to be a professional singer, not just a hobby singer."
+ },
+ {
+  "id": "progressive-adj",
+  "headword": "progressive",
+  "pos": "adjective",
+  "example": "Our school is progressive and always tries new ways of teaching."
+ },
+ {
+  "id": "promise-n",
+  "headword": "promise",
+  "pos": "noun",
+  "example": "He made a promise to call me every week."
+ },
+ {
+  "id": "pronounce-v",
+  "headword": "pronounce",
+  "pos": "verb",
+  "example": "How do you pronounce your name in English?"
+ },
+ {
+  "id": "pronunciation-n",
+  "headword": "pronunciation",
+  "pos": "noun",
+  "example": "Her English pronunciation is very clear and easy to understand."
+ },
+ {
+  "id": "proper-adj",
+  "headword": "proper",
+  "pos": "adjective",
+  "example": "You need proper shoes for walking in the mountains."
+ },
+ {
+  "id": "provide-v",
+  "headword": "provide",
+  "pos": "verb",
+  "example": "The hotel provides free towels for the swimming pool."
+ },
+ {
+  "id": "psychologist-n",
+  "headword": "psychologist",
+  "pos": "noun",
+  "example": "A psychologist helps people with their problems and feelings."
+ },
+ {
+  "id": "public-n",
+  "headword": "public",
+  "pos": "noun",
+  "example": "The museum is open to the public every day except Monday."
+ },
+ {
+  "id": "publish-v",
+  "headword": "publish",
+  "pos": "verb",
+  "example": "The writer published her first book last year."
+ },
+ {
+  "id": "pull-v",
+  "headword": "pull",
+  "pos": "verb",
+  "example": "Pull the door to open it, don't push it."
+ },
+ {
+  "id": "punctuation-n",
+  "headword": "punctuation",
+  "pos": "noun",
+  "example": "Check your punctuation: every sentence needs a full stop."
+ },
+ {
+  "id": "purple-adj",
+  "headword": "purple",
+  "pos": "adjective",
+  "example": "She is wearing a purple dress, like the colour of grapes."
+ },
+ {
+  "id": "purpose-n",
+  "headword": "purpose",
+  "pos": "noun",
+  "example": "The purpose of this meeting is to plan the school trip."
+ },
+ {
+  "id": "pursue-v",
+  "headword": "pursue",
+  "pos": "verb",
+  "example": "After university, she pursued a career in music."
+ },
+ {
+  "id": "quality-n",
+  "headword": "quality",
+  "pos": "noun",
+  "example": "These shoes are expensive, but the quality is very good."
+ },
+ {
+  "id": "queen-n",
+  "headword": "queen",
+  "pos": "noun",
+  "example": "The queen lives in a big palace with the king."
+ },
+ {
+  "id": "quick-adj",
+  "headword": "quick",
+  "pos": "adjective",
+  "example": "Let's have a quick lunch because the train leaves soon."
+ },
+ {
+  "id": "quietly-adv",
+  "headword": "quietly",
+  "pos": "adverb",
+  "example": "The baby is sleeping, so please speak quietly."
+ },
+ {
+  "id": "quit-v",
+  "headword": "quit",
+  "pos": "verb",
+  "example": "He quit his job because he wanted to travel."
+ },
+ {
+  "id": "quite-adv",
+  "headword": "quite",
+  "pos": "adverb",
+  "example": "The film was quite good, but not great."
+ },
+ {
+  "id": "quiz-n",
+  "headword": "quiz",
+  "pos": "noun",
+  "example": "Our teacher gave us a short quiz with ten questions."
+ },
+ {
+  "id": "racket-n",
+  "headword": "racket",
+  "pos": "noun",
+  "example": "I need a new racket to play tennis this summer."
+ },
+ {
+  "id": "raincoat-n",
+  "headword": "raincoat",
+  "pos": "noun",
+  "example": "Wear your raincoat today, because it's going to rain."
+ },
+ {
+  "id": "raise-v",
+  "headword": "raise",
+  "pos": "verb",
+  "example": "Raise your hand if you know the answer."
+ },
+ {
+  "id": "range-n",
+  "headword": "range",
+  "pos": "noun",
+  "example": "The shop has a wide range of shoes in all colours."
+ },
+ {
+  "id": "rap-n",
+  "headword": "rap",
+  "pos": "noun",
+  "example": "My brother listens to rap music every day."
+ },
+ {
+  "id": "rate-n",
+  "headword": "rate",
+  "pos": "noun",
+  "example": "The hotel has a lower rate for children under ten."
+ },
+ {
+  "id": "rather-adv",
+  "headword": "rather",
+  "pos": "adverb",
+  "example": "It's rather cold today, so wear a warm jumper."
+ },
+ {
+  "id": "rating-n",
+  "headword": "rating",
+  "pos": "noun",
+  "example": "This restaurant has a rating of five stars online."
+ },
+ {
+  "id": "raw-adj",
+  "headword": "raw",
+  "pos": "adjective",
+  "example": "Don't eat raw chicken; you must cook it first."
+ },
+ {
+  "id": "ray-n",
+  "headword": "ray",
+  "pos": "noun",
+  "example": "A ray of sunlight came through the window."
+ },
+ {
+  "id": "reach-v",
+  "headword": "reach",
+  "pos": "verb",
+  "example": "We reached the hotel at midnight after a long drive."
+ },
+ {
+  "id": "realize-v",
+  "headword": "realize",
+  "pos": "verb",
+  "example": "I didn't realize it was so late, so I missed the bus."
+ },
+ {
+  "id": "receipt-n",
+  "headword": "receipt",
+  "pos": "noun",
+  "example": "Keep the receipt if you want to return the shirt."
+ },
+ {
+  "id": "receive-v",
+  "headword": "receive",
+  "pos": "verb",
+  "example": "I received a long letter from my grandmother yesterday."
+ },
+ {
+  "id": "recent-adj",
+  "headword": "recent",
+  "pos": "adjective",
+  "example": "This is a recent photo; I took it last week."
+ },
+ {
+  "id": "recently-adv",
+  "headword": "recently",
+  "pos": "adverb",
+  "example": "I have recently started learning the guitar."
+ },
+ {
+  "id": "receptionist-n",
+  "headword": "receptionist",
+  "pos": "noun",
+  "example": "The receptionist at the hotel gave us our room key."
+ },
+ {
+  "id": "record-v",
+  "headword": "record",
+  "pos": "verb",
+  "example": "The band recorded their new song in a studio."
+ },
+ {
+  "id": "recycle-v",
+  "headword": "recycle",
+  "pos": "verb",
+  "example": "We recycle all our bottles and paper at home."
+ },
+ {
+  "id": "red-n",
+  "headword": "red",
+  "pos": "noun",
+  "example": "Red is my favourite colour, like strawberries."
+ },
+ {
+  "id": "refer-v",
+  "headword": "refer",
+  "pos": "verb",
+  "example": "In his speech, he referred to his first teacher."
+ },
+ {
+  "id": "reflect-v",
+  "headword": "reflect",
+  "pos": "verb",
+  "example": "The lake reflects the mountains like a mirror."
+ },
+ {
+  "id": "refrigerator-n",
+  "headword": "refrigerator",
+  "pos": "noun",
+  "example": "Put the milk back in the refrigerator to keep it cold."
+ },
+ {
+  "id": "regret-v",
+  "headword": "regret",
+  "pos": "verb",
+  "example": "I regret not studying harder for the exam."
+ },
+ {
+  "id": "regular-adj",
+  "headword": "regular",
+  "pos": "adjective",
+  "example": "She is a regular customer; she comes here every Friday."
+ },
+ {
+  "id": "regularly-adv",
+  "headword": "regularly",
+  "pos": "adverb",
+  "example": "He goes to the gym regularly, three times a week."
+ },
+ {
+  "id": "relax-v",
+  "headword": "relax",
+  "pos": "verb",
+  "example": "After work, I like to relax on the sofa with a book."
+ },
+ {
+  "id": "relaxed-adj",
+  "headword": "relaxed",
+  "pos": "adjective",
+  "example": "She felt relaxed after a week on the beach."
+ },
+ {
+  "id": "release-n",
+  "headword": "release",
+  "pos": "noun",
+  "example": "Fans waited for the release of the band's new album."
+ },
+ {
+  "id": "remain-v",
+  "headword": "remain",
+  "pos": "verb",
+  "example": "Please remain in your seats until the plane stops."
+ },
+ {
+  "id": "remind-v",
+  "headword": "remind",
+  "pos": "verb",
+  "example": "Can you remind me to buy bread on the way home?"
+ },
+ {
+  "id": "remote-adj",
+  "headword": "remote",
+  "pos": "adjective",
+  "example": "They live in a remote village far from any town."
+ },
+ {
+  "id": "rent-n",
+  "headword": "rent",
+  "pos": "noun",
+  "example": "I pay the rent for my flat every month."
+ },
+ {
+  "id": "rent-v",
+  "headword": "rent",
+  "pos": "verb",
+  "example": "We rented a car for a week during our holiday."
+ },
+ {
+  "id": "repair-n",
+  "headword": "repair",
+  "pos": "noun",
+  "example": "My bike needs some repairs before the trip."
+ },
+ {
+  "id": "repair-v",
+  "headword": "repair",
+  "pos": "verb",
+  "example": "My dad repaired the broken chair in the kitchen."
+ },
+ {
+  "id": "replace-v",
+  "headword": "replace",
+  "pos": "verb",
+  "example": "I need to replace my old phone with a new one."
+ },
+ {
+  "id": "reply-n",
+  "headword": "reply",
+  "pos": "noun",
+  "example": "I sent her an email, but I haven't had a reply yet."
+ },
+ {
+  "id": "report-n",
+  "headword": "report",
+  "pos": "noun",
+  "example": "My boss asked me to write a report about the project."
+ },
+ {
+  "id": "represent-v",
+  "headword": "represent",
+  "pos": "verb",
+  "example": "She will represent our school at the national competition."
+ },
+ {
+  "id": "request-n",
+  "headword": "request",
+  "pos": "noun",
+  "example": "The hotel agreed to our request for a quiet room."
+ },
+ {
+  "id": "research-n",
+  "headword": "research",
+  "pos": "noun",
+  "example": "Scientists are doing research to find a new medicine."
+ },
+ {
+  "id": "response-n",
+  "headword": "response",
+  "pos": "noun",
+  "example": "His response to my question was a big smile."
+ },
+ {
+  "id": "retire-v",
+  "headword": "retire",
+  "pos": "verb",
+  "example": "My grandfather retired at sixty-five after forty years of work."
+ },
+ {
+  "id": "retired-adj",
+  "headword": "retired",
+  "pos": "adjective",
+  "example": "My parents are retired, so they don't work anymore."
+ },
+ {
+  "id": "return-n",
+  "headword": "return",
+  "pos": "noun",
+  "example": "Everyone was happy about his return from the long trip."
+ },
+ {
+  "id": "return-v",
+  "headword": "return",
+  "pos": "verb",
+  "example": "We will return home on Sunday evening."
+ },
+ {
+  "id": "reunion-n",
+  "headword": "reunion",
+  "pos": "noun",
+  "example": "Our class had a reunion ten years after we left school."
+ },
+ {
+  "id": "reveal-v",
+  "headword": "reveal",
+  "pos": "verb",
+  "example": "At the end of the film, they reveal the killer's name."
+ },
+ {
+  "id": "rhythm-n",
+  "headword": "rhythm",
+  "pos": "noun",
+  "example": "We danced to the fast rhythm of the drums."
+ },
+ {
+  "id": "right-n",
+  "headword": "right",
+  "pos": "noun",
+  "example": "Every child has the right to go to school."
+ },
+ {
+  "id": "right-hand-adj",
+  "headword": "right-hand",
+  "pos": "adjective",
+  "example": "The bank is on the right-hand side of the street."
+ },
+ {
+  "id": "ring-n",
+  "headword": "ring",
+  "pos": "noun",
+  "example": "He gave her a gold ring for their wedding."
+ },
+ {
+  "id": "road-n",
+  "headword": "road",
+  "pos": "noun",
+  "example": "Be careful when you cross the road."
+ },
+ {
+  "id": "roast-v",
+  "headword": "roast",
+  "pos": "verb",
+  "example": "We roasted a chicken in the oven for Sunday lunch."
+ },
+ {
+  "id": "rob-v",
+  "headword": "rob",
+  "pos": "verb",
+  "example": "Two men robbed the bank and took all the money."
+ },
+ {
+  "id": "robbery-n",
+  "headword": "robbery",
+  "pos": "noun",
+  "example": "The police are looking for the men after the robbery."
+ },
+ {
+  "id": "robin-n",
+  "headword": "robin",
+  "pos": "noun",
+  "example": "A small robin with a red chest sat in our garden."
+ }
+]

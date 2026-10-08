@@ -1,0 +1,579 @@
+[
+ {
+  "id": "stressful-adj",
+  "headword": "stressful",
+  "pos": "adjective"
+ },
+ {
+  "id": "stretch-v",
+  "headword": "stretch",
+  "pos": "verb"
+ },
+ {
+  "id": "stricken-adj",
+  "headword": "stricken",
+  "pos": "adjective"
+ },
+ {
+  "id": "strike-v",
+  "headword": "strike",
+  "pos": "verb"
+ },
+ {
+  "id": "strip-n",
+  "headword": "strip",
+  "pos": "noun"
+ },
+ {
+  "id": "stripe-n",
+  "headword": "stripe",
+  "pos": "noun"
+ },
+ {
+  "id": "struggle-n",
+  "headword": "struggle",
+  "pos": "noun"
+ },
+ {
+  "id": "stubborn-adj",
+  "headword": "stubborn",
+  "pos": "adjective"
+ },
+ {
+  "id": "stuck-adj",
+  "headword": "stuck",
+  "pos": "adjective"
+ },
+ {
+  "id": "studio-n",
+  "headword": "studio",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "Places"
+  ]
+ },
+ {
+  "id": "stuffed-adj",
+  "headword": "stuffed",
+  "pos": "adjective"
+ },
+ {
+  "id": "stumble-v",
+  "headword": "stumble",
+  "pos": "verb"
+ },
+ {
+  "id": "stun-v",
+  "headword": "stun",
+  "pos": "verb"
+ },
+ {
+  "id": "stunning-adj",
+  "headword": "stunning",
+  "pos": "adjective"
+ },
+ {
+  "id": "stupid-adj",
+  "headword": "stupid",
+  "pos": "adjective"
+ },
+ {
+  "id": "stylish-adj",
+  "headword": "stylish",
+  "pos": "adjective"
+ },
+ {
+  "id": "subconscious-adj",
+  "headword": "subconscious",
+  "pos": "adjective"
+ },
+ {
+  "id": "submarine-n",
+  "headword": "submarine",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs"
+  ]
+ },
+ {
+  "id": "substantial-adj",
+  "headword": "substantial",
+  "pos": "adjective"
+ },
+ {
+  "id": "substitute-n",
+  "headword": "substitute",
+  "pos": "noun"
+ },
+ {
+  "id": "suddenly-adv",
+  "headword": "suddenly",
+  "pos": "adverb"
+ },
+ {
+  "id": "suffer-v",
+  "headword": "suffer",
+  "pos": "verb"
+ },
+ {
+  "id": "sufficient-adj",
+  "headword": "sufficient",
+  "pos": "adjective"
+ },
+ {
+  "id": "suffix-n",
+  "headword": "suffix",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education"
+  ]
+ },
+ {
+  "id": "suicide-n",
+  "headword": "suicide",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs"
+  ]
+ },
+ {
+  "id": "summarize-v",
+  "headword": "summarize",
+  "pos": "verb",
+  "variants": [
+   "summarise"
+  ]
+ },
+ {
+  "id": "summit-n",
+  "headword": "summit",
+  "pos": "noun"
+ },
+ {
+  "id": "sunbathe-v",
+  "headword": "sunbathe",
+  "pos": "verb"
+ },
+ {
+  "id": "sundial-n",
+  "headword": "sundial",
+  "pos": "noun"
+ },
+ {
+  "id": "sunrise-n",
+  "headword": "sunrise",
+  "pos": "noun",
+  "sourceTopics": [
+   "Weather"
+  ]
+ },
+ {
+  "id": "sunset-n",
+  "headword": "sunset",
+  "pos": "noun",
+  "sourceTopics": [
+   "Weather"
+  ]
+ },
+ {
+  "id": "superior-adj",
+  "headword": "superior",
+  "pos": "adjective"
+ },
+ {
+  "id": "superstition-n",
+  "headword": "superstition",
+  "pos": "noun"
+ },
+ {
+  "id": "supply-n",
+  "headword": "supply",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs"
+  ]
+ },
+ {
+  "id": "support-v",
+  "headword": "support",
+  "pos": "verb"
+ },
+ {
+  "id": "supporter-n",
+  "headword": "supporter",
+  "pos": "noun"
+ },
+ {
+  "id": "supportive-adj",
+  "headword": "supportive",
+  "pos": "adjective"
+ },
+ {
+  "id": "suppose-v",
+  "headword": "suppose",
+  "pos": "verb"
+ },
+ {
+  "id": "supposedly-adv",
+  "headword": "supposedly",
+  "pos": "adverb"
+ },
+ {
+  "id": "surely-adv",
+  "headword": "surely",
+  "pos": "adverb"
+ },
+ {
+  "id": "surface-n",
+  "headword": "surface",
+  "pos": "noun"
+ },
+ {
+  "id": "surgeon-n",
+  "headword": "surgeon",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel and services vocab"
+  ]
+ },
+ {
+  "id": "surgery-n",
+  "headword": "surgery",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel and services vocab"
+  ]
+ },
+ {
+  "id": "surprise-v",
+  "headword": "surprise",
+  "pos": "verb"
+ },
+ {
+  "id": "surprisingly-adv",
+  "headword": "surprisingly",
+  "pos": "adverb"
+ },
+ {
+  "id": "surround-v",
+  "headword": "surround",
+  "pos": "verb"
+ },
+ {
+  "id": "surrounding-adj",
+  "headword": "surrounding",
+  "pos": "adjective"
+ },
+ {
+  "id": "survival-n",
+  "headword": "survival",
+  "pos": "noun"
+ },
+ {
+  "id": "survivor-n",
+  "headword": "survivor",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "suspect-n",
+  "headword": "suspect",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs"
+  ]
+ },
+ {
+  "id": "suspicion-n",
+  "headword": "suspicion",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs"
+  ]
+ },
+ {
+  "id": "swarm-n",
+  "headword": "swarm",
+  "pos": "noun"
+ },
+ {
+  "id": "swear-v",
+  "headword": "swear",
+  "pos": "verb"
+ },
+ {
+  "id": "sweat-n",
+  "headword": "sweat",
+  "pos": "noun",
+  "sourceTopics": [
+   "Health and body care"
+  ]
+ },
+ {
+  "id": "sweatshirt-n",
+  "headword": "sweatshirt",
+  "pos": "noun",
+  "sourceTopics": [
+   "Clothes",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "swell-v",
+  "headword": "swell",
+  "pos": "verb"
+ },
+ {
+  "id": "swimmer-n",
+  "headword": "swimmer",
+  "pos": "noun",
+  "sourceTopics": [
+   "Leisure activities",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "switch-n",
+  "headword": "switch",
+  "pos": "noun"
+ },
+ {
+  "id": "switch-v",
+  "headword": "switch",
+  "pos": "verb"
+ },
+ {
+  "id": "swollen-adj",
+  "headword": "swollen",
+  "pos": "adjective"
+ },
+ {
+  "id": "sword-n",
+  "headword": "sword",
+  "pos": "noun"
+ },
+ {
+  "id": "sympathy-n",
+  "headword": "sympathy",
+  "pos": "noun"
+ },
+ {
+  "id": "symptom-n",
+  "headword": "symptom",
+  "pos": "noun"
+ },
+ {
+  "id": "syndrome-n",
+  "headword": "syndrome",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel and services vocab",
+   "Health and body care"
+  ]
+ },
+ {
+  "id": "systematic-adj",
+  "headword": "systematic",
+  "pos": "adjective"
+ },
+ {
+  "id": "tablet-n",
+  "headword": "tablet",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "take-n",
+  "headword": "take",
+  "pos": "noun"
+ },
+ {
+  "id": "takeaway-n",
+  "headword": "takeaway",
+  "pos": "noun"
+ },
+ {
+  "id": "takeoff-n",
+  "headword": "takeoff",
+  "pos": "noun",
+  "variants": [
+   "take-off"
+  ],
+  "sourceTopics": [
+   "Travel and services vocab",
+   "Travel"
+  ]
+ },
+ {
+  "id": "tale-n",
+  "headword": "tale",
+  "pos": "noun",
+  "sourceTopics": [
+   "Books and literature",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "talented-adj",
+  "headword": "talented",
+  "pos": "adjective"
+ },
+ {
+  "id": "talk-n",
+  "headword": "talk",
+  "pos": "noun"
+ },
+ {
+  "id": "talkative-adj",
+  "headword": "talkative",
+  "pos": "adjective"
+ },
+ {
+  "id": "tank-n",
+  "headword": "tank",
+  "pos": "noun"
+ },
+ {
+  "id": "tape-v",
+  "headword": "tape",
+  "pos": "verb"
+ },
+ {
+  "id": "taste-n",
+  "headword": "taste",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "taste-v",
+  "headword": "taste",
+  "pos": "verb"
+ },
+ {
+  "id": "tasteless-adj",
+  "headword": "tasteless",
+  "pos": "adjective"
+ },
+ {
+  "id": "tasty-adj",
+  "headword": "tasty",
+  "pos": "adjective"
+ },
+ {
+  "id": "tax-n",
+  "headword": "tax",
+  "pos": "noun",
+  "sourceTopics": [
+   "Shopping",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "teaching-n",
+  "headword": "teaching",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Education"
+  ]
+ },
+ {
+  "id": "teammate-n",
+  "headword": "teammate",
+  "pos": "noun"
+ },
+ {
+  "id": "teamwork-n",
+  "headword": "teamwork",
+  "pos": "noun"
+ },
+ {
+  "id": "tear-v",
+  "headword": "tear",
+  "pos": "verb"
+ },
+ {
+  "id": "tease-n",
+  "headword": "tease",
+  "pos": "noun"
+ },
+ {
+  "id": "technique-n",
+  "headword": "technique",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education"
+  ]
+ },
+ {
+  "id": "technological-adj",
+  "headword": "technological",
+  "pos": "adjective"
+ },
+ {
+  "id": "teen-n",
+  "headword": "teen",
+  "pos": "noun",
+  "sourceTopics": [
+   "Personal information",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "telecommunications-n",
+  "headword": "telecommunications",
+  "pos": "noun",
+  "sourceTopics": [
+   "Media",
+   "Services"
+  ]
+ },
+ {
+  "id": "telegram-n",
+  "headword": "telegram",
+  "pos": "noun",
+  "sourceTopics": [
+   "Media",
+   "Services"
+  ]
+ },
+ {
+  "id": "teller-n",
+  "headword": "teller",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "temper-n",
+  "headword": "temper",
+  "pos": "noun"
+ },
+ {
+  "id": "temporary-adj",
+  "headword": "temporary",
+  "pos": "adjective"
+ },
+ {
+  "id": "tempt-v",
+  "headword": "tempt",
+  "pos": "verb"
+ },
+ {
+  "id": "tend-v",
+  "headword": "tend",
+  "pos": "verb"
+ }
+]

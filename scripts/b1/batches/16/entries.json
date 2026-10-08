@@ -1,0 +1,549 @@
+[
+ {
+  "id": "near-adv",
+  "headword": "near",
+  "pos": "adverb"
+ },
+ {
+  "id": "nearby-adj",
+  "headword": "nearby",
+  "pos": "adjective"
+ },
+ {
+  "id": "nearby-adv",
+  "headword": "nearby",
+  "pos": "adverb"
+ },
+ {
+  "id": "necklace-n",
+  "headword": "necklace",
+  "pos": "noun",
+  "sourceTopics": [
+   "Clothes",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "nectar-n",
+  "headword": "nectar",
+  "pos": "noun"
+ },
+ {
+  "id": "needle-n",
+  "headword": "needle",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "negotiate-v",
+  "headword": "negotiate",
+  "pos": "verb"
+ },
+ {
+  "id": "negotiation-n",
+  "headword": "negotiation",
+  "pos": "noun"
+ },
+ {
+  "id": "neighborhood-n",
+  "headword": "neighborhood",
+  "pos": "noun",
+  "variants": [
+   "neighbourhood"
+  ],
+  "sourceTopics": [
+   "Family life",
+   "Relations with other people"
+  ]
+ },
+ {
+  "id": "nephew-n",
+  "headword": "nephew",
+  "pos": "noun",
+  "sourceTopics": [
+   "Family life",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "nervousness-n",
+  "headword": "nervousness",
+  "pos": "noun"
+ },
+ {
+  "id": "ness-n",
+  "headword": "ness",
+  "pos": "noun"
+ },
+ {
+  "id": "net-n",
+  "headword": "net",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "network-n",
+  "headword": "network",
+  "pos": "noun",
+  "sourceTopics": [
+   "Media"
+  ]
+ },
+ {
+  "id": "neutral-adj",
+  "headword": "neutral",
+  "pos": "adjective"
+ },
+ {
+  "id": "nevertheless-adv",
+  "headword": "nevertheless",
+  "pos": "adverb"
+ },
+ {
+  "id": "newborn-adj",
+  "headword": "newborn",
+  "pos": "adjective"
+ },
+ {
+  "id": "newcomer-n",
+  "headword": "newcomer",
+  "pos": "noun"
+ },
+ {
+  "id": "newly-adv",
+  "headword": "newly",
+  "pos": "adverb"
+ },
+ {
+  "id": "next-door-adv",
+  "headword": "next door",
+  "pos": "adverb"
+ },
+ {
+  "id": "next-door-adj",
+  "headword": "next-door",
+  "pos": "adjective"
+ },
+ {
+  "id": "nickname-n",
+  "headword": "nickname",
+  "pos": "noun",
+  "sourceTopics": [
+   "Personal information",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "niece-n",
+  "headword": "niece",
+  "pos": "noun",
+  "sourceTopics": [
+   "Family life",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "nightlife-n",
+  "headword": "nightlife",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs",
+   "Daily life"
+  ]
+ },
+ {
+  "id": "nod-n",
+  "headword": "nod",
+  "pos": "noun"
+ },
+ {
+  "id": "noisily-adv",
+  "headword": "noisily",
+  "pos": "adverb"
+ },
+ {
+  "id": "none-pron",
+  "headword": "none",
+  "pos": "pronoun"
+ },
+ {
+  "id": "nonetheless-adv",
+  "headword": "nonetheless",
+  "pos": "adverb"
+ },
+ {
+  "id": "nonsense-n",
+  "headword": "nonsense",
+  "pos": "noun"
+ },
+ {
+  "id": "nor-conj",
+  "headword": "nor",
+  "pos": "conjunction"
+ },
+ {
+  "id": "normally-adv",
+  "headword": "normally",
+  "pos": "adverb"
+ },
+ {
+  "id": "northeast-adj",
+  "headword": "northeast",
+  "pos": "adjective"
+ },
+ {
+  "id": "northeast-n",
+  "headword": "northeast",
+  "pos": "noun"
+ },
+ {
+  "id": "northeastern-adj",
+  "headword": "northeastern",
+  "pos": "adjective"
+ },
+ {
+  "id": "northern-adj",
+  "headword": "northern",
+  "pos": "adjective"
+ },
+ {
+  "id": "northwest-adj",
+  "headword": "northwest",
+  "pos": "adjective"
+ },
+ {
+  "id": "northwest-n",
+  "headword": "northwest",
+  "pos": "noun"
+ },
+ {
+  "id": "northwestern-adj",
+  "headword": "northwestern",
+  "pos": "adjective"
+ },
+ {
+  "id": "notice-v",
+  "headword": "notice",
+  "pos": "verb"
+ },
+ {
+  "id": "noticeable-adj",
+  "headword": "noticeable",
+  "pos": "adjective"
+ },
+ {
+  "id": "noticeboard-n",
+  "headword": "noticeboard",
+  "pos": "noun"
+ },
+ {
+  "id": "notion-n",
+  "headword": "notion",
+  "pos": "noun"
+ },
+ {
+  "id": "notorious-adj",
+  "headword": "notorious",
+  "pos": "adjective"
+ },
+ {
+  "id": "novelist-n",
+  "headword": "novelist",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "nowhere-adv",
+  "headword": "nowhere",
+  "pos": "adverb"
+ },
+ {
+  "id": "nuclear-adj",
+  "headword": "nuclear",
+  "pos": "adjective"
+ },
+ {
+  "id": "nucleus-n",
+  "headword": "nucleus",
+  "pos": "noun"
+ },
+ {
+  "id": "numerous-adj",
+  "headword": "numerous",
+  "pos": "adjective"
+ },
+ {
+  "id": "nurse-v",
+  "headword": "nurse",
+  "pos": "verb"
+ },
+ {
+  "id": "nutrient-n",
+  "headword": "nutrient",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "nutrition-n",
+  "headword": "nutrition",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "nutritious-adj",
+  "headword": "nutritious",
+  "pos": "adjective"
+ },
+ {
+  "id": "object-n",
+  "headword": "object",
+  "pos": "noun"
+ },
+ {
+  "id": "objection-n",
+  "headword": "objection",
+  "pos": "noun"
+ },
+ {
+  "id": "objective-n",
+  "headword": "objective",
+  "pos": "noun"
+ },
+ {
+  "id": "observation-n",
+  "headword": "observation",
+  "pos": "noun"
+ },
+ {
+  "id": "observe-v",
+  "headword": "observe",
+  "pos": "verb"
+ },
+ {
+  "id": "obstacle-n",
+  "headword": "obstacle",
+  "pos": "noun"
+ },
+ {
+  "id": "obtain-v",
+  "headword": "obtain",
+  "pos": "verb"
+ },
+ {
+  "id": "obvious-adj",
+  "headword": "obvious",
+  "pos": "adjective"
+ },
+ {
+  "id": "obviously-adv",
+  "headword": "obviously",
+  "pos": "adverb"
+ },
+ {
+  "id": "occasion-n",
+  "headword": "occasion",
+  "pos": "noun"
+ },
+ {
+  "id": "occasion-v",
+  "headword": "occasion",
+  "pos": "verb"
+ },
+ {
+  "id": "occasional-adj",
+  "headword": "occasional",
+  "pos": "adjective"
+ },
+ {
+  "id": "occasionally-adv",
+  "headword": "occasionally",
+  "pos": "adverb"
+ },
+ {
+  "id": "occupy-v",
+  "headword": "occupy",
+  "pos": "verb"
+ },
+ {
+  "id": "occur-v",
+  "headword": "occur",
+  "pos": "verb"
+ },
+ {
+  "id": "ocean-n",
+  "headword": "ocean",
+  "pos": "noun",
+  "sourceTopics": [
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "off-prep",
+  "headword": "off",
+  "pos": "preposition"
+ },
+ {
+  "id": "offensive-adj",
+  "headword": "offensive",
+  "pos": "adjective"
+ },
+ {
+  "id": "officially-adv",
+  "headword": "officially",
+  "pos": "adverb"
+ },
+ {
+  "id": "oily-adj",
+  "headword": "oily",
+  "pos": "adjective"
+ },
+ {
+  "id": "old-fashioned-adj",
+  "headword": "old-fashioned",
+  "pos": "adjective"
+ },
+ {
+  "id": "oneself-pron",
+  "headword": "oneself",
+  "pos": "pronoun"
+ },
+ {
+  "id": "onstage-adj",
+  "headword": "onstage",
+  "pos": "adjective"
+ },
+ {
+  "id": "onto-prep",
+  "headword": "onto",
+  "pos": "preposition",
+  "variants": [
+   "on to"
+  ]
+ },
+ {
+  "id": "opening-n",
+  "headword": "opening",
+  "pos": "noun"
+ },
+ {
+  "id": "operation-n",
+  "headword": "operation",
+  "pos": "noun"
+ },
+ {
+  "id": "opposite-adv",
+  "headword": "opposite",
+  "pos": "adverb"
+ },
+ {
+  "id": "opposite-n",
+  "headword": "opposite",
+  "pos": "noun"
+ },
+ {
+  "id": "opposition-n",
+  "headword": "opposition",
+  "pos": "noun"
+ },
+ {
+  "id": "oppress-v",
+  "headword": "oppress",
+  "pos": "verb"
+ },
+ {
+  "id": "oppression-n",
+  "headword": "oppression",
+  "pos": "noun"
+ },
+ {
+  "id": "option-n",
+  "headword": "option",
+  "pos": "noun"
+ },
+ {
+  "id": "oral-n",
+  "headword": "oral",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education"
+  ]
+ },
+ {
+  "id": "orbit-n",
+  "headword": "orbit",
+  "pos": "noun"
+ },
+ {
+  "id": "orchestra-n",
+  "headword": "orchestra",
+  "pos": "noun",
+  "sourceTopics": [
+   "Hobbies and pastimes",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "orderly-adj",
+  "headword": "orderly",
+  "pos": "adjective"
+ },
+ {
+  "id": "ordinary-adj",
+  "headword": "ordinary",
+  "pos": "adjective"
+ },
+ {
+  "id": "organ-n",
+  "headword": "organ",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education"
+  ]
+ },
+ {
+  "id": "organic-adj",
+  "headword": "organic",
+  "pos": "adjective"
+ },
+ {
+  "id": "organism-n",
+  "headword": "organism",
+  "pos": "noun"
+ },
+ {
+  "id": "organization-n",
+  "headword": "organization",
+  "pos": "noun",
+  "variants": [
+   "organisation"
+  ]
+ },
+ {
+  "id": "origin-n",
+  "headword": "origin",
+  "pos": "noun",
+  "sourceTopics": [
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "otherwise-adv",
+  "headword": "otherwise",
+  "pos": "adverb"
+ }
+]

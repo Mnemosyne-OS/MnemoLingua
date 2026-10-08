@@ -1,0 +1,572 @@
+[
+ {
+  "id": "department-n",
+  "headword": "department",
+  "pos": "noun",
+  "example": "She works in the sales department of a big company."
+ },
+ {
+  "id": "departure-n",
+  "headword": "departure",
+  "pos": "noun",
+  "example": "Our departure is at seven in the morning."
+ },
+ {
+  "id": "dependent-adj",
+  "headword": "dependent",
+  "pos": "adjective",
+  "example": "Young children are dependent on their parents for everything."
+ },
+ {
+  "id": "deposit-n",
+  "headword": "deposit",
+  "pos": "noun",
+  "example": "We paid a deposit of two hundred euros for the flat."
+ },
+ {
+  "id": "depressed-adj",
+  "headword": "depressed",
+  "pos": "adjective",
+  "example": "He felt depressed after he lost his job."
+ },
+ {
+  "id": "depressing-adj",
+  "headword": "depressing",
+  "pos": "adjective",
+  "example": "The news on TV is often depressing."
+ },
+ {
+  "id": "depression-n",
+  "headword": "depression",
+  "pos": "noun",
+  "example": "She suffered from depression for many years."
+ },
+ {
+  "id": "deprive-v",
+  "headword": "deprive",
+  "pos": "verb",
+  "example": "The noise from the street deprived us of sleep."
+ },
+ {
+  "id": "depth-n",
+  "headword": "depth",
+  "pos": "noun",
+  "example": "The depth of the lake is about thirty metres."
+ },
+ {
+  "id": "derive-v",
+  "headword": "derive",
+  "pos": "verb",
+  "example": "Many English words derive from Latin."
+ },
+ {
+  "id": "deserve-v",
+  "headword": "deserve",
+  "pos": "verb",
+  "example": "You worked very hard, so you deserve a holiday."
+ },
+ {
+  "id": "design-v",
+  "headword": "design",
+  "pos": "verb",
+  "example": "She designed the whole house herself."
+ },
+ {
+  "id": "designer-n",
+  "headword": "designer",
+  "pos": "noun",
+  "example": "He works as a designer for a car company."
+ },
+ {
+  "id": "desire-n",
+  "headword": "desire",
+  "pos": "noun",
+  "example": "He has a strong desire to travel around the world."
+ },
+ {
+  "id": "despair-n",
+  "headword": "despair",
+  "pos": "noun",
+  "example": "She cried in despair when she lost her passport."
+ },
+ {
+  "id": "desperate-adj",
+  "headword": "desperate",
+  "pos": "adjective",
+  "example": "The family was desperate after the fire destroyed their home."
+ },
+ {
+  "id": "despite-prep",
+  "headword": "despite",
+  "pos": "preposition",
+  "example": "We went to the beach despite the rain."
+ },
+ {
+  "id": "destination-n",
+  "headword": "destination",
+  "pos": "noun",
+  "example": "Rome is a popular destination for tourists."
+ },
+ {
+  "id": "destruction-n",
+  "headword": "destruction",
+  "pos": "noun",
+  "example": "The storm caused the destruction of many old trees."
+ },
+ {
+  "id": "destructive-adj",
+  "headword": "destructive",
+  "pos": "adjective",
+  "example": "Strong winds can be very destructive near the coast."
+ },
+ {
+  "id": "detective-n",
+  "headword": "detective",
+  "pos": "noun",
+  "example": "The detective found the thief after two days."
+ },
+ {
+  "id": "determination-n",
+  "headword": "determination",
+  "pos": "noun",
+  "example": "With great determination, she passed all her exams."
+ },
+ {
+  "id": "determine-v",
+  "headword": "determine",
+  "pos": "verb",
+  "example": "The weather will determine if we play outside."
+ },
+ {
+  "id": "devastate-v",
+  "headword": "devastate",
+  "pos": "verb",
+  "example": "The storm devastated the small village by the sea."
+ },
+ {
+  "id": "devastating-adj",
+  "headword": "devastating",
+  "pos": "adjective",
+  "example": "The fire had a devastating effect on the forest."
+ },
+ {
+  "id": "development-n",
+  "headword": "development",
+  "pos": "noun",
+  "example": "Sleep is very important for a child's development."
+ },
+ {
+  "id": "device-n",
+  "headword": "device",
+  "pos": "noun",
+  "example": "This small device can measure your heart rate."
+ },
+ {
+  "id": "devotion-n",
+  "headword": "devotion",
+  "pos": "noun",
+  "example": "Her devotion to her family is clear to everyone."
+ },
+ {
+  "id": "diagram-n",
+  "headword": "diagram",
+  "pos": "noun",
+  "example": "The teacher drew a diagram of the heart on the board."
+ },
+ {
+  "id": "dial-n",
+  "headword": "dial",
+  "pos": "noun",
+  "example": "Turn the dial on the oven to 180 degrees."
+ },
+ {
+  "id": "dial-v",
+  "headword": "dial",
+  "pos": "verb",
+  "example": "Dial 112 if there is an emergency."
+ },
+ {
+  "id": "dialog-n",
+  "headword": "dialog",
+  "pos": "noun",
+  "example": "Read the dialog and answer the questions."
+ },
+ {
+  "id": "diameter-n",
+  "headword": "diameter",
+  "pos": "noun",
+  "example": "The round table has a diameter of one metre."
+ },
+ {
+  "id": "diaper-n",
+  "headword": "diaper",
+  "pos": "noun",
+  "example": "The baby is crying because he needs a clean diaper."
+ },
+ {
+  "id": "differ-v",
+  "headword": "differ",
+  "pos": "verb",
+  "example": "Our tastes in music differ a lot."
+ },
+ {
+  "id": "dig-v",
+  "headword": "dig",
+  "pos": "verb",
+  "example": "The dog likes to dig holes in the garden."
+ },
+ {
+  "id": "digital-adj",
+  "headword": "digital",
+  "pos": "adjective",
+  "example": "I take all my photos with a digital camera."
+ },
+ {
+  "id": "diligence-n",
+  "headword": "diligence",
+  "pos": "noun",
+  "example": "She finished the difficult project with great diligence."
+ },
+ {
+  "id": "diligent-adj",
+  "headword": "diligent",
+  "pos": "adjective",
+  "example": "He is a diligent student who always does his homework."
+ },
+ {
+  "id": "dioxide-n",
+  "headword": "dioxide",
+  "pos": "noun",
+  "example": "Cars produce carbon dioxide, which is bad for the air."
+ },
+ {
+  "id": "direct-v",
+  "headword": "direct",
+  "pos": "verb",
+  "example": "She directed a short film about her village last year."
+ },
+ {
+  "id": "directly-adv",
+  "headword": "directly",
+  "pos": "adverb",
+  "example": "This bus goes directly to the airport."
+ },
+ {
+  "id": "dirt-n",
+  "headword": "dirt",
+  "pos": "noun",
+  "example": "There was dirt on his hands after working in the garden."
+ },
+ {
+  "id": "disability-n",
+  "headword": "disability",
+  "pos": "noun",
+  "example": "The building has a lift for people with a disability."
+ },
+ {
+  "id": "disable-v",
+  "headword": "disable",
+  "pos": "verb",
+  "example": "You can disable the camera in the phone settings."
+ },
+ {
+  "id": "disabled-adj",
+  "headword": "disabled",
+  "pos": "adjective",
+  "example": "There is a parking space for disabled drivers near the door."
+ },
+ {
+  "id": "disagreement-n",
+  "headword": "disagreement",
+  "pos": "noun",
+  "example": "We had a small disagreement about money."
+ },
+ {
+  "id": "disappoint-v",
+  "headword": "disappoint",
+  "pos": "verb",
+  "example": "I don't want to disappoint my parents."
+ },
+ {
+  "id": "disappointment-n",
+  "headword": "disappointment",
+  "pos": "noun",
+  "example": "The new film was a big disappointment."
+ },
+ {
+  "id": "disaster-n",
+  "headword": "disaster",
+  "pos": "noun",
+  "example": "The flood was a disaster for the farmers."
+ },
+ {
+  "id": "disastrous-adj",
+  "headword": "disastrous",
+  "pos": "adjective",
+  "example": "Our holiday was disastrous because it rained every day."
+ },
+ {
+  "id": "disc-jockey-n",
+  "headword": "disc jockey",
+  "pos": "noun",
+  "example": "The disc jockey played music all night at the party."
+ },
+ {
+  "id": "discomfort-n",
+  "headword": "discomfort",
+  "pos": "noun",
+  "example": "You may feel some discomfort after the operation."
+ },
+ {
+  "id": "discount-n",
+  "headword": "discount",
+  "pos": "noun",
+  "example": "Students get a ten percent discount in this shop."
+ },
+ {
+  "id": "discourage-v",
+  "headword": "discourage",
+  "pos": "verb",
+  "example": "Don't let one bad mark discourage you."
+ },
+ {
+  "id": "discovery-n",
+  "headword": "discovery",
+  "pos": "noun",
+  "example": "The discovery of the new medicine saved many lives."
+ },
+ {
+  "id": "discrimination-n",
+  "headword": "discrimination",
+  "pos": "noun",
+  "example": "Discrimination against women at work is against the law."
+ },
+ {
+  "id": "disease-n",
+  "headword": "disease",
+  "pos": "noun",
+  "example": "Heart disease is common in older people."
+ },
+ {
+  "id": "disgusting-adj",
+  "headword": "disgusting",
+  "pos": "adjective",
+  "example": "This soup tastes disgusting."
+ },
+ {
+  "id": "dishwasher-n",
+  "headword": "dishwasher",
+  "pos": "noun",
+  "example": "Put the dirty plates in the dishwasher, please."
+ },
+ {
+  "id": "disk-n",
+  "headword": "disk",
+  "pos": "noun",
+  "example": "I keep all my old photos on a hard disk."
+ },
+ {
+  "id": "dislike-v",
+  "headword": "dislike",
+  "pos": "verb",
+  "example": "I dislike waking up early on Sundays."
+ },
+ {
+  "id": "display-v",
+  "headword": "display",
+  "pos": "verb",
+  "example": "The shop displays its new clothes in the window."
+ },
+ {
+  "id": "dissolve-v",
+  "headword": "dissolve",
+  "pos": "verb",
+  "example": "Sugar dissolves quickly in hot tea."
+ },
+ {
+  "id": "distance-n",
+  "headword": "distance",
+  "pos": "noun",
+  "example": "The distance from my house to school is two kilometres."
+ },
+ {
+  "id": "distant-adj",
+  "headword": "distant",
+  "pos": "adjective",
+  "example": "We could hear distant music from the village."
+ },
+ {
+  "id": "distinction-n",
+  "headword": "distinction",
+  "pos": "noun",
+  "example": "There is a clear distinction between the two words."
+ },
+ {
+  "id": "distinctly-adv",
+  "headword": "distinctly",
+  "pos": "adverb",
+  "example": "I distinctly remember locking the front door."
+ },
+ {
+  "id": "distinguish-v",
+  "headword": "distinguish",
+  "pos": "verb",
+  "example": "Can you distinguish the twins from each other?"
+ },
+ {
+  "id": "distribute-v",
+  "headword": "distribute",
+  "pos": "verb",
+  "example": "Volunteers distributed food to the poor families."
+ },
+ {
+  "id": "distribution-n",
+  "headword": "distribution",
+  "pos": "noun",
+  "example": "The company handles the distribution of food to supermarkets."
+ },
+ {
+  "id": "district-n",
+  "headword": "district",
+  "pos": "noun",
+  "example": "We live in a quiet district near the park."
+ },
+ {
+  "id": "disturbance-n",
+  "headword": "disturbance",
+  "pos": "noun",
+  "example": "The loud music was a disturbance to our neighbours."
+ },
+ {
+  "id": "dive-n",
+  "headword": "dive",
+  "pos": "noun",
+  "example": "He made a perfect dive into the pool."
+ },
+ {
+  "id": "dive-v",
+  "headword": "dive",
+  "pos": "verb",
+  "example": "The children love to dive into the lake in summer."
+ },
+ {
+  "id": "diver-n",
+  "headword": "diver",
+  "pos": "noun",
+  "example": "The diver found an old ship at the bottom of the sea."
+ },
+ {
+  "id": "diverse-adj",
+  "headword": "diverse",
+  "pos": "adjective",
+  "example": "London has a very diverse population."
+ },
+ {
+  "id": "divide-n",
+  "headword": "divide",
+  "pos": "noun",
+  "example": "There is a big divide between rich and poor in the city."
+ },
+ {
+  "id": "divine-adj",
+  "headword": "divine",
+  "pos": "adjective",
+  "example": "Many people believe in a divine power that created the world."
+ },
+ {
+  "id": "diving-n",
+  "headword": "diving",
+  "pos": "noun",
+  "example": "Diving is my favourite sport on holiday."
+ },
+ {
+  "id": "divorced-adj",
+  "headword": "divorced",
+  "pos": "adjective",
+  "example": "My parents are divorced, but they are still friends."
+ },
+ {
+  "id": "dj-n",
+  "headword": "DJ",
+  "pos": "noun",
+  "example": "My brother works as a DJ in a club."
+ },
+ {
+  "id": "doc-n",
+  "headword": "doc",
+  "pos": "noun",
+  "example": "I shared the doc with the whole team this morning."
+ },
+ {
+  "id": "document-n",
+  "headword": "document",
+  "pos": "noun",
+  "example": "Print the document and bring it to class tomorrow."
+ },
+ {
+  "id": "documentary-n",
+  "headword": "documentary",
+  "pos": "noun",
+  "example": "We watched a documentary about whales last night."
+ },
+ {
+  "id": "dolphin-n",
+  "headword": "dolphin",
+  "pos": "noun",
+  "example": "We saw a dolphin swimming next to our boat."
+ },
+ {
+  "id": "dot-n",
+  "headword": "dot",
+  "pos": "noun",
+  "example": "Draw a small dot in the middle of the page."
+ },
+ {
+  "id": "downstairs-adj",
+  "headword": "downstairs",
+  "pos": "adjective",
+  "example": "The downstairs bathroom is next to the kitchen."
+ },
+ {
+  "id": "downward-adj",
+  "headword": "downward",
+  "pos": "adjective",
+  "example": "The path has a gentle downward slope to the river."
+ },
+ {
+  "id": "doze-n",
+  "headword": "doze",
+  "pos": "noun",
+  "example": "Grandpa had a short doze on the sofa after lunch."
+ },
+ {
+  "id": "dozen-det",
+  "headword": "dozen",
+  "pos": "determiner",
+  "example": "She bought a dozen eggs at the market."
+ },
+ {
+  "id": "dozen-n",
+  "headword": "dozen",
+  "pos": "noun",
+  "example": "Eggs are cheaper if you buy them by the dozen."
+ },
+ {
+  "id": "drag-v",
+  "headword": "drag",
+  "pos": "verb",
+  "example": "He dragged the heavy box across the floor."
+ },
+ {
+  "id": "dramatic-adj",
+  "headword": "dramatic",
+  "pos": "adjective",
+  "example": "There was a dramatic change in the weather overnight."
+ },
+ {
+  "id": "drown-v",
+  "headword": "drown",
+  "pos": "verb",
+  "example": "He nearly drowned when he fell into the river."
+ }
+]

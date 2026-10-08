@@ -1,0 +1,603 @@
+[
+ {
+  "id": "fancy-adj",
+  "headword": "fancy",
+  "pos": "adjective"
+ },
+ {
+  "id": "fantastic-adj",
+  "headword": "fantastic",
+  "pos": "adjective"
+ },
+ {
+  "id": "far-adv",
+  "headword": "far",
+  "pos": "adverb"
+ },
+ {
+  "id": "fare-n",
+  "headword": "fare",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel and services vocab",
+   "Travel"
+  ]
+ },
+ {
+  "id": "fascinating-adj",
+  "headword": "fascinating",
+  "pos": "adjective"
+ },
+ {
+  "id": "fashion-n",
+  "headword": "fashion",
+  "pos": "noun",
+  "sourceTopics": [
+   "Shopping",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "fast-food-n",
+  "headword": "fast food",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "fault-n",
+  "headword": "fault",
+  "pos": "noun"
+ },
+ {
+  "id": "favor-n",
+  "headword": "favor",
+  "pos": "noun",
+  "variants": [
+   "favour"
+  ]
+ },
+ {
+  "id": "fear-n",
+  "headword": "fear",
+  "pos": "noun"
+ },
+ {
+  "id": "feather-n",
+  "headword": "feather",
+  "pos": "noun"
+ },
+ {
+  "id": "feature-n",
+  "headword": "feature",
+  "pos": "noun"
+ },
+ {
+  "id": "fee-n",
+  "headword": "fee",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel and services vocab",
+   "Travel"
+  ]
+ },
+ {
+  "id": "feel-n",
+  "headword": "feel",
+  "pos": "noun"
+ },
+ {
+  "id": "female-adj",
+  "headword": "female",
+  "pos": "adjective"
+ },
+ {
+  "id": "fence-n",
+  "headword": "fence",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "few-det",
+  "headword": "few",
+  "pos": "determiner"
+ },
+ {
+  "id": "fiction-n",
+  "headword": "fiction",
+  "pos": "noun",
+  "sourceTopics": [
+   "Books and literature",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "fighter-n",
+  "headword": "fighter",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "figure-n",
+  "headword": "figure",
+  "pos": "noun"
+ },
+ {
+  "id": "figure-v",
+  "headword": "figure",
+  "pos": "verb"
+ },
+ {
+  "id": "film-n",
+  "headword": "film",
+  "pos": "noun",
+  "sourceTopics": [
+   "Hobbies and pastimes",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "final-adj",
+  "headword": "final",
+  "pos": "adjective"
+ },
+ {
+  "id": "final-n",
+  "headword": "final",
+  "pos": "noun"
+ },
+ {
+  "id": "finally-adv",
+  "headword": "finally",
+  "pos": "adverb"
+ },
+ {
+  "id": "first-name-n",
+  "headword": "first name",
+  "pos": "noun",
+  "sourceTopics": [
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "fisherman-n",
+  "headword": "fisherman",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "fit-adj",
+  "headword": "fit",
+  "pos": "adjective"
+ },
+ {
+  "id": "fix-n",
+  "headword": "fix",
+  "pos": "noun"
+ },
+ {
+  "id": "flea-n",
+  "headword": "flea",
+  "pos": "noun"
+ },
+ {
+  "id": "flight-n",
+  "headword": "flight",
+  "pos": "noun",
+  "sourceTopics": [
+   "Ways of travelling",
+   "Travel"
+  ]
+ },
+ {
+  "id": "float-n",
+  "headword": "float",
+  "pos": "noun",
+  "sourceTopics": [
+   "Ways of travelling",
+   "Travel"
+  ]
+ },
+ {
+  "id": "flood-n",
+  "headword": "flood",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs",
+   "Weather"
+  ]
+ },
+ {
+  "id": "flour-n",
+  "headword": "flour",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "fog-n",
+  "headword": "fog",
+  "pos": "noun",
+  "sourceTopics": [
+   "Weather"
+  ]
+ },
+ {
+  "id": "folder-n",
+  "headword": "folder",
+  "pos": "noun"
+ },
+ {
+  "id": "follow-v",
+  "headword": "follow",
+  "pos": "verb"
+ },
+ {
+  "id": "fool-n",
+  "headword": "fool",
+  "pos": "noun"
+ },
+ {
+  "id": "footballer-n",
+  "headword": "footballer",
+  "pos": "noun",
+  "sourceTopics": [
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "for-conj",
+  "headword": "for",
+  "pos": "conjunction"
+ },
+ {
+  "id": "forbid-v",
+  "headword": "forbid",
+  "pos": "verb"
+ },
+ {
+  "id": "force-n",
+  "headword": "force",
+  "pos": "noun"
+ },
+ {
+  "id": "forest-n",
+  "headword": "forest",
+  "pos": "noun",
+  "sourceTopics": [
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "forever-adv",
+  "headword": "forever",
+  "pos": "adverb"
+ },
+ {
+  "id": "fork-n",
+  "headword": "fork",
+  "pos": "noun",
+  "sourceTopics": [
+   "Shopping"
+  ]
+ },
+ {
+  "id": "fortunately-adv",
+  "headword": "fortunately",
+  "pos": "adverb"
+ },
+ {
+  "id": "fortune-n",
+  "headword": "fortune",
+  "pos": "noun",
+  "sourceTopics": [
+   "Shopping"
+  ]
+ },
+ {
+  "id": "forward-adv",
+  "headword": "forward",
+  "pos": "adverb"
+ },
+ {
+  "id": "frame-n",
+  "headword": "frame",
+  "pos": "noun"
+ },
+ {
+  "id": "frank-adj",
+  "headword": "frank",
+  "pos": "adjective"
+ },
+ {
+  "id": "free-adv",
+  "headword": "free",
+  "pos": "adverb"
+ },
+ {
+  "id": "freedom-n",
+  "headword": "freedom",
+  "pos": "noun"
+ },
+ {
+  "id": "freeze-v",
+  "headword": "freeze",
+  "pos": "verb"
+ },
+ {
+  "id": "fresh-adj",
+  "headword": "fresh",
+  "pos": "adjective"
+ },
+ {
+  "id": "fridge-n",
+  "headword": "fridge",
+  "pos": "noun",
+  "sourceTopics": [
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "fried-adj",
+  "headword": "fried",
+  "pos": "adjective"
+ },
+ {
+  "id": "friendship-n",
+  "headword": "friendship",
+  "pos": "noun",
+  "sourceTopics": [
+   "Personal information",
+   "Relations with other people"
+  ]
+ },
+ {
+  "id": "frighten-v",
+  "headword": "frighten",
+  "pos": "verb"
+ },
+ {
+  "id": "frightened-adj",
+  "headword": "frightened",
+  "pos": "adjective"
+ },
+ {
+  "id": "frightening-adj",
+  "headword": "frightening",
+  "pos": "adjective"
+ },
+ {
+  "id": "front-n",
+  "headword": "front",
+  "pos": "noun"
+ },
+ {
+  "id": "fry-n",
+  "headword": "fry",
+  "pos": "noun"
+ },
+ {
+  "id": "fully-adv",
+  "headword": "fully",
+  "pos": "adverb"
+ },
+ {
+  "id": "function-v",
+  "headword": "function",
+  "pos": "verb"
+ },
+ {
+  "id": "furniture-n",
+  "headword": "furniture",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "further-adj",
+  "headword": "further",
+  "pos": "adjective"
+ },
+ {
+  "id": "gallery-n",
+  "headword": "gallery",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "Services"
+  ]
+ },
+ {
+  "id": "garage-n",
+  "headword": "garage",
+  "pos": "noun",
+  "sourceTopics": [
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "garlic-n",
+  "headword": "garlic",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "gas-n",
+  "headword": "gas",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "Services"
+  ]
+ },
+ {
+  "id": "gate-n",
+  "headword": "gate",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "gather-v",
+  "headword": "gather",
+  "pos": "verb"
+ },
+ {
+  "id": "gender-n",
+  "headword": "gender",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "generation-n",
+  "headword": "generation",
+  "pos": "noun"
+ },
+ {
+  "id": "gentle-adj",
+  "headword": "gentle",
+  "pos": "adjective"
+ },
+ {
+  "id": "given-adj",
+  "headword": "given",
+  "pos": "adjective"
+ },
+ {
+  "id": "globe-n",
+  "headword": "globe",
+  "pos": "noun"
+ },
+ {
+  "id": "glove-n",
+  "headword": "glove",
+  "pos": "noun",
+  "sourceTopics": [
+   "Clothes",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "gold-n",
+  "headword": "gold",
+  "pos": "noun"
+ },
+ {
+  "id": "golden-adj",
+  "headword": "golden",
+  "pos": "adjective"
+ },
+ {
+  "id": "golf-n",
+  "headword": "golf",
+  "pos": "noun",
+  "sourceTopics": [
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "good-looking-adj",
+  "headword": "good-looking",
+  "pos": "adjective"
+ },
+ {
+  "id": "government-n",
+  "headword": "government",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "Relations with other people"
+  ]
+ },
+ {
+  "id": "grace-n",
+  "headword": "grace",
+  "pos": "noun"
+ },
+ {
+  "id": "gradually-adv",
+  "headword": "gradually",
+  "pos": "adverb"
+ },
+ {
+  "id": "graduate-v",
+  "headword": "graduate",
+  "pos": "verb"
+ },
+ {
+  "id": "gram-n",
+  "headword": "gram",
+  "pos": "noun",
+  "variants": [
+   "gramme"
+  ]
+ },
+ {
+  "id": "grandchild-n",
+  "headword": "grandchild",
+  "pos": "noun",
+  "sourceTopics": [
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "granddad-n",
+  "headword": "granddad",
+  "pos": "noun",
+  "sourceTopics": [
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "granddaughter-n",
+  "headword": "granddaughter",
+  "pos": "noun",
+  "sourceTopics": [
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "grandson-n",
+  "headword": "grandson",
+  "pos": "noun",
+  "sourceTopics": [
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "granny-n",
+  "headword": "granny",
+  "pos": "noun"
+ },
+ {
+  "id": "grateful-adj",
+  "headword": "grateful",
+  "pos": "adjective"
+ },
+ {
+  "id": "greatly-adv",
+  "headword": "greatly",
+  "pos": "adverb"
+ }
+]

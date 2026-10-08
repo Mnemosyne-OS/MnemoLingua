@@ -1,0 +1,587 @@
+[
+ {
+  "id": "issue-n",
+  "headword": "issue",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education"
+  ]
+ },
+ {
+  "id": "it-n",
+  "headword": "IT",
+  "pos": "noun"
+ },
+ {
+  "id": "itself-pron",
+  "headword": "itself",
+  "pos": "pronoun"
+ },
+ {
+  "id": "jam-n",
+  "headword": "jam",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "jelly-n",
+  "headword": "jelly",
+  "pos": "noun"
+ },
+ {
+  "id": "joke-n",
+  "headword": "joke",
+  "pos": "noun"
+ },
+ {
+  "id": "journey-n",
+  "headword": "journey",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel and services vocab",
+   "Travel"
+  ]
+ },
+ {
+  "id": "joy-n",
+  "headword": "joy",
+  "pos": "noun"
+ },
+ {
+  "id": "junior-adj",
+  "headword": "junior",
+  "pos": "adjective"
+ },
+ {
+  "id": "junk-n",
+  "headword": "junk",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms"
+  ]
+ },
+ {
+  "id": "killer-n",
+  "headword": "killer",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs",
+   "Relations with other people"
+  ]
+ },
+ {
+  "id": "kilo-n",
+  "headword": "kilo",
+  "pos": "noun"
+ },
+ {
+  "id": "kilogram-n",
+  "headword": "kilogram",
+  "pos": "noun",
+  "variants": [
+   "kilogramme"
+  ]
+ },
+ {
+  "id": "kilometer-n",
+  "headword": "kilometer",
+  "pos": "noun",
+  "variants": [
+   "kilometre"
+  ]
+ },
+ {
+  "id": "kind-adj",
+  "headword": "kind",
+  "pos": "adjective"
+ },
+ {
+  "id": "kindly-adj",
+  "headword": "kindly",
+  "pos": "adjective"
+ },
+ {
+  "id": "kingdom-n",
+  "headword": "kingdom",
+  "pos": "noun",
+  "sourceTopics": [
+   "Nationalities and countries",
+   "Places"
+  ]
+ },
+ {
+  "id": "kit-n",
+  "headword": "kit",
+  "pos": "noun"
+ },
+ {
+  "id": "knock-n",
+  "headword": "knock",
+  "pos": "noun"
+ },
+ {
+  "id": "knowledge-n",
+  "headword": "knowledge",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Education"
+  ]
+ },
+ {
+  "id": "labor-n",
+  "headword": "labor",
+  "pos": "noun",
+  "variants": [
+   "labour"
+  ],
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "lack-n",
+  "headword": "lack",
+  "pos": "noun"
+ },
+ {
+  "id": "lake-n",
+  "headword": "lake",
+  "pos": "noun",
+  "sourceTopics": [
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "lamp-n",
+  "headword": "lamp",
+  "pos": "noun",
+  "sourceTopics": [
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "land-v",
+  "headword": "land",
+  "pos": "verb"
+ },
+ {
+  "id": "landscape-n",
+  "headword": "landscape",
+  "pos": "noun"
+ },
+ {
+  "id": "lane-n",
+  "headword": "lane",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "Travel"
+  ]
+ },
+ {
+  "id": "last-det",
+  "headword": "last",
+  "pos": "determiner"
+ },
+ {
+  "id": "last-pron",
+  "headword": "last",
+  "pos": "pronoun"
+ },
+ {
+  "id": "latest-adj",
+  "headword": "latest",
+  "pos": "adjective"
+ },
+ {
+  "id": "latter-adv",
+  "headword": "latter",
+  "pos": "adverb"
+ },
+ {
+  "id": "latter-pron",
+  "headword": "latter",
+  "pos": "pronoun"
+ },
+ {
+  "id": "law-n",
+  "headword": "law",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs",
+   "Relations with other people"
+  ]
+ },
+ {
+  "id": "lawyer-n",
+  "headword": "lawyer",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "laziness-n",
+  "headword": "laziness",
+  "pos": "noun"
+ },
+ {
+  "id": "lead-n",
+  "headword": "lead",
+  "pos": "noun"
+ },
+ {
+  "id": "learner-n",
+  "headword": "learner",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Education"
+  ]
+ },
+ {
+  "id": "least-det",
+  "headword": "least",
+  "pos": "determiner"
+ },
+ {
+  "id": "leather-n",
+  "headword": "leather",
+  "pos": "noun"
+ },
+ {
+  "id": "left-adv",
+  "headword": "left",
+  "pos": "adverb"
+ },
+ {
+  "id": "left-n",
+  "headword": "left",
+  "pos": "noun"
+ },
+ {
+  "id": "left-hand-adj",
+  "headword": "left-hand",
+  "pos": "adjective"
+ },
+ {
+  "id": "leisure-n",
+  "headword": "leisure",
+  "pos": "noun",
+  "sourceTopics": [
+   "Leisure activities",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "lemon-n",
+  "headword": "lemon",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "lemonade-n",
+  "headword": "lemonade",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "lend-v",
+  "headword": "lend",
+  "pos": "verb"
+ },
+ {
+  "id": "less-adv",
+  "headword": "less",
+  "pos": "adverb"
+ },
+ {
+  "id": "less-det",
+  "headword": "less",
+  "pos": "determiner"
+ },
+ {
+  "id": "less-pron",
+  "headword": "less",
+  "pos": "pronoun"
+ },
+ {
+  "id": "level-n",
+  "headword": "level",
+  "pos": "noun"
+ },
+ {
+  "id": "liberty-n",
+  "headword": "liberty",
+  "pos": "noun"
+ },
+ {
+  "id": "license-v",
+  "headword": "license",
+  "pos": "verb",
+  "variants": [
+   "licence"
+  ]
+ },
+ {
+  "id": "lie-v",
+  "headword": "lie",
+  "pos": "verb"
+ },
+ {
+  "id": "lifestyle-n",
+  "headword": "lifestyle",
+  "pos": "noun",
+  "sourceTopics": [
+   "Personal information"
+  ]
+ },
+ {
+  "id": "likely-adj",
+  "headword": "likely",
+  "pos": "adjective"
+ },
+ {
+  "id": "lip-n",
+  "headword": "lip",
+  "pos": "noun",
+  "sourceTopics": [
+   "Health and body care"
+  ]
+ },
+ {
+  "id": "liter-n",
+  "headword": "liter",
+  "pos": "noun",
+  "variants": [
+   "litre"
+  ]
+ },
+ {
+  "id": "lively-adj",
+  "headword": "lively",
+  "pos": "adjective"
+ },
+ {
+  "id": "load-n",
+  "headword": "load",
+  "pos": "noun"
+ },
+ {
+  "id": "local-adj",
+  "headword": "local",
+  "pos": "adjective"
+ },
+ {
+  "id": "lock-n",
+  "headword": "lock",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "logical-adj",
+  "headword": "logical",
+  "pos": "adjective"
+ },
+ {
+  "id": "long-adv",
+  "headword": "long",
+  "pos": "adverb"
+ },
+ {
+  "id": "loose-adj",
+  "headword": "loose",
+  "pos": "adjective"
+ },
+ {
+  "id": "lose-v",
+  "headword": "lose",
+  "pos": "verb"
+ },
+ {
+  "id": "lost-adj",
+  "headword": "lost",
+  "pos": "adjective"
+ },
+ {
+  "id": "lot-n",
+  "headword": "lot",
+  "pos": "noun"
+ },
+ {
+  "id": "loudly-adv",
+  "headword": "loudly",
+  "pos": "adverb"
+ },
+ {
+  "id": "lover-n",
+  "headword": "lover",
+  "pos": "noun",
+  "sourceTopics": [
+   "Family life",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "low-adj",
+  "headword": "low",
+  "pos": "adjective"
+ },
+ {
+  "id": "low-adv",
+  "headword": "low",
+  "pos": "adverb"
+ },
+ {
+  "id": "luckily-adv",
+  "headword": "luckily",
+  "pos": "adverb"
+ },
+ {
+  "id": "lunchtime-n",
+  "headword": "lunchtime",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "lyric-adj",
+  "headword": "lyric",
+  "pos": "adjective"
+ },
+ {
+  "id": "mad-adj",
+  "headword": "mad",
+  "pos": "adjective"
+ },
+ {
+  "id": "magic-adj",
+  "headword": "magic",
+  "pos": "adjective"
+ },
+ {
+  "id": "magic-n",
+  "headword": "magic",
+  "pos": "noun"
+ },
+ {
+  "id": "main-course-n",
+  "headword": "main course",
+  "pos": "noun"
+ },
+ {
+  "id": "mainly-adv",
+  "headword": "mainly",
+  "pos": "adverb"
+ },
+ {
+  "id": "major-adj",
+  "headword": "major",
+  "pos": "adjective"
+ },
+ {
+  "id": "maker-n",
+  "headword": "maker",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "make-up-n",
+  "headword": "make-up",
+  "pos": "noun"
+ },
+ {
+  "id": "male-n",
+  "headword": "male",
+  "pos": "noun",
+  "sourceTopics": [
+   "Personal information",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "mall-n",
+  "headword": "mall",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "manage-v",
+  "headword": "manage",
+  "pos": "verb"
+ },
+ {
+  "id": "manager-n",
+  "headword": "manager",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "manner-n",
+  "headword": "manner",
+  "pos": "noun"
+ },
+ {
+  "id": "mark-n",
+  "headword": "mark",
+  "pos": "noun"
+ },
+ {
+  "id": "mark-v",
+  "headword": "mark",
+  "pos": "verb"
+ },
+ {
+  "id": "market-n",
+  "headword": "market",
+  "pos": "noun",
+  "sourceTopics": [
+   "Shopping"
+  ]
+ },
+ {
+  "id": "married-adj",
+  "headword": "married",
+  "pos": "adjective"
+ },
+ {
+  "id": "marry-v",
+  "headword": "marry",
+  "pos": "verb"
+ },
+ {
+  "id": "marvelous-adj",
+  "headword": "marvelous",
+  "pos": "adjective",
+  "variants": [
+   "marvellous"
+  ]
+ },
+ {
+  "id": "material-n",
+  "headword": "material",
+  "pos": "noun"
+ }
+]

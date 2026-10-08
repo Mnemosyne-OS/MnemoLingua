@@ -1,0 +1,296 @@
+{
+ "decoys": {
+  "caught": 6,
+  "total": 6,
+  "missed": []
+ },
+ "toReview": 1,
+ "cards": {
+  "wake-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "ward-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "wardrobe-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "warm-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "warmly-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "warmth-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "warn-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "warning-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "warranty-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "warrior-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "washbowl-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "waste-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "waste-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "waste-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "wasteful-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "waterfall-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "wave-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "wax-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "wax-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "weakness-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "weapon-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "weather-forecast-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "webcam-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "weird-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "welcome-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "well-dressed-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "westward-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "wetland-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "whale-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "whatever-pron": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "whenever-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "whenever-conj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "wherever-conj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "whether-conj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "whichever-det": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "while-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "whisper-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "whistle-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "whoever-pron": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "whole-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "widespread-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "wildlife-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "wildly-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "willingness-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "windscreen-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "windsurfing-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "wing-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "wire-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "wither-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "witness-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "wizard-adj": {
+   "check": "to-review",
+   "problems": [
+    "english: 'wizard' here is a noun used as a modifier, not the adjective (British slang 'excellent')"
+   ]
+  },
+  "wonder-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "working-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "workout-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "workplace-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "workshop-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "worn-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "worst-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "worth-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "worthwhile-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "worthy-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "wound-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "wrap-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "wrap-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "wrapping-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "wrist-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "wristwatch-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "written-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "yell-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "yet-conj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "yoga-n": {
+   "check": "two-pass",
+   "problems": []
+  }
+ }
+}

@@ -1,0 +1,566 @@
+[
+ {
+  "id": "down-prep",
+  "headword": "down",
+  "pos": "preposition",
+  "example": "She walked down the stairs slowly."
+ },
+ {
+  "id": "download-v",
+  "headword": "download",
+  "pos": "verb",
+  "example": "I downloaded the new app on my phone."
+ },
+ {
+  "id": "downstairs-adv",
+  "headword": "downstairs",
+  "pos": "adverb",
+  "example": "The kitchen is downstairs, next to the living room."
+ },
+ {
+  "id": "downtown-adv",
+  "headword": "downtown",
+  "pos": "adverb",
+  "example": "We took the bus downtown to go shopping."
+ },
+ {
+  "id": "draw-n",
+  "headword": "draw",
+  "pos": "noun",
+  "example": "The football match ended in a draw, two all."
+ },
+ {
+  "id": "drawer-n",
+  "headword": "drawer",
+  "pos": "noun",
+  "example": "My socks are in the top drawer."
+ },
+ {
+  "id": "drawing-n",
+  "headword": "drawing",
+  "pos": "noun",
+  "example": "My little sister made a drawing of our cat."
+ },
+ {
+  "id": "dream-v",
+  "headword": "dream",
+  "pos": "verb",
+  "example": "Last night I dreamed about flying over the sea."
+ },
+ {
+  "id": "dress-v",
+  "headword": "dress",
+  "pos": "verb",
+  "example": "She dressed quickly and left for work."
+ },
+ {
+  "id": "dressed-adj",
+  "headword": "dressed",
+  "pos": "adjective",
+  "example": "Are you dressed yet? We leave in five minutes."
+ },
+ {
+  "id": "drill-n",
+  "headword": "drill",
+  "pos": "noun",
+  "example": "Dad used a drill to make a hole in the wall."
+ },
+ {
+  "id": "drive-v",
+  "headword": "drive",
+  "pos": "verb",
+  "example": "My mother drives her car to work every day."
+ },
+ {
+  "id": "driver-s-license-n",
+  "headword": "driver's license",
+  "pos": "noun",
+  "example": "You need a driver's license to drive a car."
+ },
+ {
+  "id": "drop-n",
+  "headword": "drop",
+  "pos": "noun",
+  "example": "A drop of rain fell on my nose."
+ },
+ {
+  "id": "drug-n",
+  "headword": "drug",
+  "pos": "noun",
+  "example": "The doctor gave me a drug for my headache."
+ },
+ {
+  "id": "drugstore-n",
+  "headword": "drugstore",
+  "pos": "noun",
+  "example": "I bought some medicine at the drugstore."
+ },
+ {
+  "id": "dry-v",
+  "headword": "dry",
+  "pos": "verb",
+  "example": "Dry your hands with this towel."
+ },
+ {
+  "id": "duck-n",
+  "headword": "duck",
+  "pos": "noun",
+  "example": "There are three ducks on the lake."
+ },
+ {
+  "id": "during-prep",
+  "headword": "during",
+  "pos": "preposition",
+  "example": "I fell asleep during the film."
+ },
+ {
+  "id": "dust-n",
+  "headword": "dust",
+  "pos": "noun",
+  "example": "There is a lot of dust under the bed."
+ },
+ {
+  "id": "early-adj",
+  "headword": "early",
+  "pos": "adjective",
+  "example": "Tom is always early for class, never late."
+ },
+ {
+  "id": "earn-v",
+  "headword": "earn",
+  "pos": "verb",
+  "example": "She earns a lot of money as a doctor."
+ },
+ {
+  "id": "earring-n",
+  "headword": "earring",
+  "pos": "noun",
+  "example": "She lost one gold earring at the party."
+ },
+ {
+  "id": "earth-n",
+  "headword": "earth",
+  "pos": "noun",
+  "example": "The earth goes around the sun."
+ },
+ {
+  "id": "earthquake-n",
+  "headword": "earthquake",
+  "pos": "noun",
+  "example": "The earthquake destroyed many houses in the town."
+ },
+ {
+  "id": "easily-adv",
+  "headword": "easily",
+  "pos": "adverb",
+  "example": "He answered all the questions easily."
+ },
+ {
+  "id": "east-adj",
+  "headword": "east",
+  "pos": "adjective",
+  "example": "The east side of the city is very quiet."
+ },
+ {
+  "id": "east-adv",
+  "headword": "east",
+  "pos": "adverb",
+  "example": "The birds flew east in the autumn."
+ },
+ {
+  "id": "east-n",
+  "headword": "east",
+  "pos": "noun",
+  "example": "The sun rises in the east."
+ },
+ {
+  "id": "editor-n",
+  "headword": "editor",
+  "pos": "noun",
+  "example": "The editor checked my article before the newspaper printed it."
+ },
+ {
+  "id": "education-n",
+  "headword": "education",
+  "pos": "noun",
+  "example": "Education is free for all children in this country."
+ },
+ {
+  "id": "educational-adj",
+  "headword": "educational",
+  "pos": "adjective",
+  "example": "We watched an educational film about animals."
+ },
+ {
+  "id": "effect-n",
+  "headword": "effect",
+  "pos": "noun",
+  "example": "The medicine had a good effect on my cough."
+ },
+ {
+  "id": "effort-n",
+  "headword": "effort",
+  "pos": "noun",
+  "example": "She made a big effort to learn French."
+ },
+ {
+  "id": "either-conj",
+  "headword": "either",
+  "pos": "conjunction",
+  "example": "You can have either tea or coffee."
+ },
+ {
+  "id": "elderly-adj",
+  "headword": "elderly",
+  "pos": "adjective",
+  "example": "We often help an elderly woman with her shopping."
+ },
+ {
+  "id": "electric-adj",
+  "headword": "electric",
+  "pos": "adjective",
+  "example": "My uncle bought an electric car last year."
+ },
+ {
+  "id": "elephant-n",
+  "headword": "elephant",
+  "pos": "noun",
+  "example": "The elephant has big ears and a long nose."
+ },
+ {
+  "id": "elevator-n",
+  "headword": "elevator",
+  "pos": "noun",
+  "example": "Take the elevator to the fifth floor."
+ },
+ {
+  "id": "elsewhere-adv",
+  "headword": "elsewhere",
+  "pos": "adverb",
+  "example": "This shop is closed, so let's look elsewhere."
+ },
+ {
+  "id": "email-v",
+  "headword": "email",
+  "pos": "verb",
+  "example": "I will email you the photos tonight."
+ },
+ {
+  "id": "embarrassing-adj",
+  "headword": "embarrassing",
+  "pos": "adjective",
+  "example": "I fell in front of the class. It was so embarrassing!"
+ },
+ {
+  "id": "emergency-n",
+  "headword": "emergency",
+  "pos": "noun",
+  "example": "In an emergency, call this number."
+ },
+ {
+  "id": "empty-adj",
+  "headword": "empty",
+  "pos": "adjective",
+  "example": "The fridge is empty, so we need to go shopping."
+ },
+ {
+  "id": "encourage-v",
+  "headword": "encourage",
+  "pos": "verb",
+  "example": "My teacher encouraged me to read more books."
+ },
+ {
+  "id": "end-v",
+  "headword": "end",
+  "pos": "verb",
+  "example": "The concert ended at eleven o'clock."
+ },
+ {
+  "id": "endangered-adj",
+  "headword": "endangered",
+  "pos": "adjective",
+  "example": "The panda is an endangered animal."
+ },
+ {
+  "id": "ending-n",
+  "headword": "ending",
+  "pos": "noun",
+  "example": "I didn't like the ending of the film."
+ },
+ {
+  "id": "energetic-adj",
+  "headword": "energetic",
+  "pos": "adjective",
+  "example": "My grandmother is very energetic and walks every morning."
+ },
+ {
+  "id": "enormous-adj",
+  "headword": "enormous",
+  "pos": "adjective",
+  "example": "They live in an enormous house with ten bedrooms."
+ },
+ {
+  "id": "enough-adv",
+  "headword": "enough",
+  "pos": "adverb",
+  "example": "This bag isn't big enough for all my clothes."
+ },
+ {
+  "id": "enough-det",
+  "headword": "enough",
+  "pos": "determiner",
+  "example": "We don't have enough chairs for everyone."
+ },
+ {
+  "id": "enough-pron",
+  "headword": "enough",
+  "pos": "pronoun",
+  "example": "I've eaten enough, thank you."
+ },
+ {
+  "id": "enter-v",
+  "headword": "enter",
+  "pos": "verb",
+  "example": "Please knock before you enter the room."
+ },
+ {
+  "id": "entertainment-n",
+  "headword": "entertainment",
+  "pos": "noun",
+  "example": "The hotel has music and other entertainment every evening."
+ },
+ {
+  "id": "entrance-n",
+  "headword": "entrance",
+  "pos": "noun",
+  "example": "Leave your shoes at the entrance of the house."
+ },
+ {
+  "id": "envelope-n",
+  "headword": "envelope",
+  "pos": "noun",
+  "example": "Put the letter in an envelope and add a stamp."
+ },
+ {
+  "id": "envy-n",
+  "headword": "envy",
+  "pos": "noun",
+  "example": "She looked at his new car with envy."
+ },
+ {
+  "id": "episode-n",
+  "headword": "episode",
+  "pos": "noun",
+  "example": "I watched the last episode of the series last night."
+ },
+ {
+  "id": "error-n",
+  "headword": "error",
+  "pos": "noun",
+  "example": "There is an error in your answer."
+ },
+ {
+  "id": "escalator-n",
+  "headword": "escalator",
+  "pos": "noun",
+  "example": "Take the escalator to the second floor of the shop."
+ },
+ {
+  "id": "escape-n",
+  "headword": "escape",
+  "pos": "noun",
+  "example": "The prisoner's escape was in all the newspapers."
+ },
+ {
+  "id": "especially-adv",
+  "headword": "especially",
+  "pos": "adverb",
+  "example": "I love fruit, especially apples."
+ },
+ {
+  "id": "essay-n",
+  "headword": "essay",
+  "pos": "noun",
+  "example": "For homework, write an essay about your town."
+ },
+ {
+  "id": "establish-v",
+  "headword": "establish",
+  "pos": "verb",
+  "example": "The company was established in 1990."
+ },
+ {
+  "id": "euro-n",
+  "headword": "euro",
+  "pos": "noun",
+  "example": "This T-shirt costs ten euros."
+ },
+ {
+  "id": "even-adv",
+  "headword": "even",
+  "pos": "adverb",
+  "example": "Everyone was there, even my grandmother."
+ },
+ {
+  "id": "ever-adv",
+  "headword": "ever",
+  "pos": "adverb",
+  "example": "Have you ever been to London?"
+ },
+ {
+  "id": "evidence-n",
+  "headword": "evidence",
+  "pos": "noun",
+  "example": "The police found new evidence in the house."
+ },
+ {
+  "id": "exactly-adv",
+  "headword": "exactly",
+  "pos": "adverb",
+  "example": "The train arrived at exactly nine o'clock."
+ },
+ {
+  "id": "exam-n",
+  "headword": "exam",
+  "pos": "noun",
+  "example": "I passed my English exam!"
+ },
+ {
+  "id": "except-conj",
+  "headword": "except",
+  "pos": "conjunction",
+  "example": "The holiday was perfect, except that it rained once."
+ },
+ {
+  "id": "except-prep",
+  "headword": "except",
+  "pos": "preposition",
+  "example": "Everyone came to the party except Tom."
+ },
+ {
+  "id": "exchange-n",
+  "headword": "exchange",
+  "pos": "noun",
+  "example": "Last year I went on a school exchange to Spain."
+ },
+ {
+  "id": "exercise-n",
+  "headword": "exercise",
+  "pos": "noun",
+  "example": "Swimming is good exercise for your body."
+ },
+ {
+  "id": "exhibition-n",
+  "headword": "exhibition",
+  "pos": "noun",
+  "example": "We saw an exhibition of old photos at the museum."
+ },
+ {
+  "id": "exist-v",
+  "headword": "exist",
+  "pos": "verb",
+  "example": "Do you think dragons ever existed?"
+ },
+ {
+  "id": "expect-v",
+  "headword": "expect",
+  "pos": "verb",
+  "example": "We expect about fifty guests at the wedding."
+ },
+ {
+  "id": "experience-n",
+  "headword": "experience",
+  "pos": "noun",
+  "example": "She has a lot of experience with children."
+ },
+ {
+  "id": "expert-n",
+  "headword": "expert",
+  "pos": "noun",
+  "example": "My uncle is an expert on old cars."
+ },
+ {
+  "id": "explain-v",
+  "headword": "explain",
+  "pos": "verb",
+  "example": "Can you explain this word to me?"
+ },
+ {
+  "id": "explanation-n",
+  "headword": "explanation",
+  "pos": "noun",
+  "example": "The teacher gave us a clear explanation of the rule."
+ },
+ {
+  "id": "explore-v",
+  "headword": "explore",
+  "pos": "verb",
+  "example": "We spent the day exploring the old town."
+ },
+ {
+  "id": "express-n",
+  "headword": "express",
+  "pos": "noun",
+  "example": "We took the express to Paris, and it was very fast."
+ },
+ {
+  "id": "expression-n",
+  "headword": "expression",
+  "pos": "noun",
+  "example": "I don't know this expression. What does it mean?"
+ },
+ {
+  "id": "extra-adj",
+  "headword": "extra",
+  "pos": "adjective",
+  "example": "Can I have an extra blanket? I'm cold."
+ },
+ {
+  "id": "extra-adv",
+  "headword": "extra",
+  "pos": "adverb",
+  "example": "You have to pay extra for a room with a sea view."
+ },
+ {
+  "id": "extremely-adv",
+  "headword": "extremely",
+  "pos": "adverb",
+  "example": "It was extremely cold in the mountains."
+ },
+ {
+  "id": "face-v",
+  "headword": "face",
+  "pos": "verb",
+  "example": "Our flat faces the park."
+ },
+ {
+  "id": "fact-n",
+  "headword": "fact",
+  "pos": "noun",
+  "example": "It's a fact that water boils at 100 degrees."
+ },
+ {
+  "id": "fail-v",
+  "headword": "fail",
+  "pos": "verb",
+  "example": "He failed his driving test twice."
+ },
+ {
+  "id": "fairly-adv",
+  "headword": "fairly",
+  "pos": "adverb",
+  "example": "The test was fairly easy."
+ },
+ {
+  "id": "fall-v",
+  "headword": "fall",
+  "pos": "verb",
+  "example": "Be careful, don't fall on the ice!"
+ },
+ {
+  "id": "familiar-adj",
+  "headword": "familiar",
+  "pos": "adjective",
+  "example": "Her face looks familiar. Have we met before?"
+ }
+]

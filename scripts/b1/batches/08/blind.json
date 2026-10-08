@@ -1,0 +1,952 @@
+{
+ "drunk-adj": {
+  "gloss": {
+   "fr": "ivre",
+   "es": "borracho"
+  },
+  "exampleGloss": {
+   "fr": "Il était trop ivre pour rentrer en voiture après la fête.",
+   "es": "Estaba demasiado borracho para volver a casa en coche después de la fiesta."
+  }
+ },
+ "dude-n": {
+  "gloss": {
+   "fr": "le mec",
+   "es": "el tío"
+  },
+  "exampleGloss": {
+   "fr": "Salut mec, tu viens à la fête ce soir ?",
+   "es": "¡Oye, tío! ¿Vienes a la fiesta esta noche?"
+  }
+ },
+ "dull-adj": {
+  "gloss": {
+   "fr": "ennuyeux",
+   "es": "aburrido"
+  },
+  "exampleGloss": {
+   "fr": "Le cours était tellement ennuyeux que j'ai failli m'endormir.",
+   "es": "La clase fue tan aburrida que casi me quedo dormido."
+  }
+ },
+ "dump-n": {
+  "gloss": {
+   "fr": "la déchetterie",
+   "es": "el punto limpio"
+  },
+  "exampleGloss": {
+   "fr": "Nous avons emmené le vieux canapé à la déchetterie.",
+   "es": "Llevamos el sofá viejo al punto limpio."
+  }
+ },
+ "dump-v": {
+  "gloss": {
+   "fr": "jeter",
+   "es": "tirar"
+  },
+  "exampleGloss": {
+   "fr": "Quelqu'un a jeté un sac d'ordures au bord de la rivière.",
+   "es": "Alguien tiró una bolsa de basura junto al río."
+  }
+ },
+ "dustbin-n": {
+  "gloss": {
+   "fr": "la poubelle",
+   "es": "el cubo de la basura"
+  },
+  "exampleGloss": {
+   "fr": "Jette les restes de nourriture à la poubelle, s'il te plaît.",
+   "es": "Tira la comida vieja al cubo de la basura, por favor."
+  }
+ },
+ "dusty-adj": {
+  "gloss": {
+   "fr": "poussiéreux",
+   "es": "polvoriento"
+  },
+  "exampleGloss": {
+   "fr": "Les vieux livres du grenier étaient très poussiéreux.",
+   "es": "Los libros viejos del desván estaban llenos de polvo."
+  }
+ },
+ "duty-n": {
+  "gloss": {
+   "fr": "le devoir",
+   "es": "el deber"
+  },
+  "exampleGloss": {
+   "fr": "C'est notre devoir d'aider les personnes dans le besoin.",
+   "es": "Es nuestro deber ayudar a las personas necesitadas."
+  }
+ },
+ "duty-free-adj": {
+  "gloss": {
+   "fr": "hors taxes",
+   "es": "libre de impuestos"
+  },
+  "exampleGloss": {
+   "fr": "J'ai acheté du parfum à la boutique hors taxes de l'aéroport.",
+   "es": "Compré perfume en la tienda libre de impuestos del aeropuerto."
+  }
+ },
+ "duvet-n": {
+  "gloss": {
+   "fr": "la couette",
+   "es": "el edredón"
+  },
+  "exampleGloss": {
+   "fr": "En hiver, il me faut une couette épaisse sur mon lit.",
+   "es": "En invierno necesito un edredón grueso en la cama."
+  }
+ },
+ "dynasty-n": {
+  "gloss": {
+   "fr": "la dynastie",
+   "es": "la dinastía"
+  },
+  "exampleGloss": {
+   "fr": "La dynastie Ming a régné sur la Chine pendant près de trois cents ans.",
+   "es": "La dinastía Ming gobernó China durante casi trescientos años."
+  }
+ },
+ "eager-adj": {
+  "gloss": {
+   "fr": "impatient",
+   "es": "impaciente"
+  },
+  "exampleGloss": {
+   "fr": "Les enfants étaient impatients d'ouvrir leurs cadeaux.",
+   "es": "Los niños estaban impacientes por abrir sus regalos."
+  }
+ },
+ "eagerness-n": {
+  "gloss": {
+   "fr": "l'envie",
+   "es": "las ganas"
+  },
+  "exampleGloss": {
+   "fr": "Son envie d'apprendre a impressionné le professeur.",
+   "es": "Sus ganas de aprender impresionaron al profesor."
+  }
+ },
+ "earache-n": {
+  "gloss": {
+   "fr": "le mal d'oreille",
+   "es": "el dolor de oído"
+  },
+  "exampleGloss": {
+   "fr": "J'ai mal à l'oreille, alors je vais voir le médecin.",
+   "es": "Me duele el oído, así que voy a ir al médico."
+  }
+ },
+ "earnest-adj": {
+  "gloss": {
+   "fr": "sérieux",
+   "es": "serio"
+  },
+  "exampleGloss": {
+   "fr": "C'est un jeune homme sérieux qui veut vraiment aider.",
+   "es": "Es un joven serio que de verdad quiere ayudar."
+  }
+ },
+ "eastern-adj": {
+  "gloss": {
+   "fr": "de l'est",
+   "es": "del este"
+  },
+  "exampleGloss": {
+   "fr": "Ils habitent dans une petite ville de l'est du pays.",
+   "es": "Viven en un pueblo pequeño del este del país."
+  }
+ },
+ "easygoing-adj": {
+  "gloss": {
+   "fr": "facile à vivre",
+   "es": "tranquilo"
+  },
+  "exampleGloss": {
+   "fr": "Mon patron est très facile à vivre et ne se met jamais en colère.",
+   "es": "Mi jefe es muy tranquilo y nunca se enfada."
+  }
+ },
+ "eco-n": {
+  "gloss": {
+   "fr": "l'écologie",
+   "es": "la ecología"
+  },
+  "exampleGloss": {
+   "fr": "L'équipe écologie de notre école recycle tout le papier.",
+   "es": "El equipo de ecología de nuestro colegio recicla todo el papel."
+  }
+ },
+ "ecological-adj": {
+  "gloss": {
+   "fr": "écologique",
+   "es": "ecológico"
+  },
+  "exampleGloss": {
+   "fr": "Le plastique dans la mer est un grave problème écologique.",
+   "es": "El plástico en el mar es un grave problema ecológico."
+  }
+ },
+ "ecology-n": {
+  "gloss": {
+   "fr": "l'écologie",
+   "es": "la ecología"
+  },
+  "exampleGloss": {
+   "fr": "À l'école, nous avons étudié l'écologie de la forêt.",
+   "es": "En el colegio estudiamos la ecología del bosque."
+  }
+ },
+ "economic-adj": {
+  "gloss": {
+   "fr": "économique",
+   "es": "económico"
+  },
+  "exampleGloss": {
+   "fr": "Le pays traverse une crise économique.",
+   "es": "El país atraviesa una crisis económica."
+  }
+ },
+ "economics-n": {
+  "gloss": {
+   "fr": "l'économie",
+   "es": "la economía"
+  },
+  "exampleGloss": {
+   "fr": "Mon frère fait des études d'économie à l'université.",
+   "es": "Mi hermano estudia Economía en la universidad."
+  }
+ },
+ "economy-n": {
+  "gloss": {
+   "fr": "l'économie",
+   "es": "la economía"
+  },
+  "exampleGloss": {
+   "fr": "L'économie a progressé lentement l'année dernière.",
+   "es": "La economía creció despacio el año pasado."
+  }
+ },
+ "ecosystem-n": {
+  "gloss": {
+   "fr": "l'écosystème",
+   "es": "el ecosistema"
+  },
+  "exampleGloss": {
+   "fr": "La pollution peut détruire l'écosystème d'un lac.",
+   "es": "La contaminación puede destruir el ecosistema de un lago."
+  }
+ },
+ "ecstasy-n": {
+  "gloss": {
+   "fr": "l'extase",
+   "es": "el éxtasis"
+  },
+  "exampleGloss": {
+   "fr": "Les supporters hurlaient de joie quand leur équipe a gagné.",
+   "es": "Los aficionados gritaban de euforia cuando ganó su equipo."
+  }
+ },
+ "edge-n": {
+  "gloss": {
+   "fr": "le bord",
+   "es": "el borde"
+  },
+  "exampleGloss": {
+   "fr": "Le verre est tombé du bord de la table.",
+   "es": "El vaso se cayó del borde de la mesa."
+  }
+ },
+ "edition-n": {
+  "gloss": {
+   "fr": "l'édition",
+   "es": "la edición"
+  },
+  "exampleGloss": {
+   "fr": "C'est la première édition du livre.",
+   "es": "Esta es la primera edición del libro."
+  }
+ },
+ "educate-v": {
+  "gloss": {
+   "fr": "former",
+   "es": "educar"
+  },
+  "exampleGloss": {
+   "fr": "L'école doit former les jeunes pour l'avenir.",
+   "es": "Los colegios deben educar a los jóvenes para el futuro."
+  }
+ },
+ "effective-adj": {
+  "gloss": {
+   "fr": "efficace",
+   "es": "eficaz"
+  },
+  "exampleGloss": {
+   "fr": "Ce médicament est très efficace contre les maux de tête.",
+   "es": "Este medicamento es muy eficaz contra el dolor de cabeza."
+  }
+ },
+ "efficiency-n": {
+  "gloss": {
+   "fr": "l'efficacité",
+   "es": "la eficiencia"
+  },
+  "exampleGloss": {
+   "fr": "Les nouvelles machines ont amélioré l'efficacité de l'usine.",
+   "es": "Las máquinas nuevas mejoraron la eficiencia de la fábrica."
+  }
+ },
+ "efficient-adj": {
+  "gloss": {
+   "fr": "performant",
+   "es": "eficiente"
+  },
+  "exampleGloss": {
+   "fr": "Notre nouveau système de chauffage est beaucoup plus performant.",
+   "es": "Nuestra nueva calefacción es mucho más eficiente."
+  }
+ },
+ "either-det": {
+  "gloss": {
+   "fr": "n'importe lequel des deux",
+   "es": "cualquiera de los dos"
+  },
+  "exampleGloss": {
+   "fr": "Tu peux prendre n'importe lequel des deux bus : ils vont tous les deux au centre.",
+   "es": "Puedes coger cualquiera de los dos autobuses: los dos van al centro."
+  }
+ },
+ "either-pron": {
+  "gloss": {
+   "fr": "aucun des deux",
+   "es": "ninguno de los dos"
+  },
+  "exampleGloss": {
+   "fr": "Il y a deux gâteaux, mais je n'en veux aucun.",
+   "es": "Hay dos pasteles, pero no quiero ninguno de los dos."
+  }
+ },
+ "elbow-n": {
+  "gloss": {
+   "fr": "le coude",
+   "es": "el codo"
+  },
+  "exampleGloss": {
+   "fr": "Il s'est fait mal au coude en jouant au tennis.",
+   "es": "Se hizo daño en el codo jugando al tenis."
+  }
+ },
+ "election-n": {
+  "gloss": {
+   "fr": "l'élection",
+   "es": "las elecciones"
+  },
+  "exampleGloss": {
+   "fr": "Pour qui as-tu voté aux dernières élections ?",
+   "es": "¿A quién votaste en las últimas elecciones?"
+  }
+ },
+ "electrical-adj": {
+  "gloss": {
+   "fr": "électrique",
+   "es": "eléctrico"
+  },
+  "exampleGloss": {
+   "fr": "Il y a eu un problème électrique dans la cuisine.",
+   "es": "Hubo un problema eléctrico en la cocina."
+  }
+ },
+ "electricity-n": {
+  "gloss": {
+   "fr": "l'électricité",
+   "es": "la electricidad"
+  },
+  "exampleGloss": {
+   "fr": "Le village a été privé d'électricité pendant deux jours après la tempête.",
+   "es": "El pueblo se quedó sin luz dos días después de la tormenta."
+  }
+ },
+ "electron-n": {
+  "gloss": {
+   "fr": "l'électron",
+   "es": "el electrón"
+  },
+  "exampleGloss": {
+   "fr": "Un électron est beaucoup plus petit qu'un atome.",
+   "es": "Un electrón es mucho más pequeño que un átomo."
+  }
+ },
+ "electronic-adj": {
+  "gloss": {
+   "fr": "électronique",
+   "es": "electrónico"
+  },
+  "exampleGloss": {
+   "fr": "Mon oncle répare des appareils électroniques comme les téléphones et les ordinateurs portables.",
+   "es": "Mi tío arregla aparatos electrónicos como móviles y portátiles."
+  }
+ },
+ "element-n": {
+  "gloss": {
+   "fr": "l'élément",
+   "es": "el elemento"
+  },
+  "exampleGloss": {
+   "fr": "L'oxygène est l'un des éléments les plus répandus sur Terre.",
+   "es": "El oxígeno es uno de los elementos más comunes de la Tierra."
+  }
+ },
+ "eliminate-v": {
+  "gloss": {
+   "fr": "éliminer",
+   "es": "eliminar"
+  },
+  "exampleGloss": {
+   "fr": "Nous devons éliminer le plastique de nos océans.",
+   "es": "Tenemos que eliminar el plástico de nuestros océanos."
+  }
+ },
+ "embarrass-v": {
+  "gloss": {
+   "fr": "mettre mal à l'aise",
+   "es": "avergonzar"
+  },
+  "exampleGloss": {
+   "fr": "S'il te plaît, ne me fais pas honte devant mes amis.",
+   "es": "Por favor, no me hagas pasar vergüenza delante de mis amigos."
+  }
+ },
+ "embarrassed-adj": {
+  "gloss": {
+   "fr": "gêné",
+   "es": "avergonzado"
+  },
+  "exampleGloss": {
+   "fr": "J'étais gêné quand j'ai oublié son prénom.",
+   "es": "Me dio vergüenza cuando olvidé su nombre."
+  }
+ },
+ "embarrassment-n": {
+  "gloss": {
+   "fr": "la gêne",
+   "es": "la vergüenza"
+  },
+  "exampleGloss": {
+   "fr": "Il est devenu rouge de gêne.",
+   "es": "Se puso rojo de vergüenza."
+  }
+ },
+ "emerge-v": {
+  "gloss": {
+   "fr": "sortir",
+   "es": "salir"
+  },
+  "exampleGloss": {
+   "fr": "Un petit chat est sorti de sous la voiture.",
+   "es": "Un gatito salió de debajo del coche."
+  }
+ },
+ "emotion-n": {
+  "gloss": {
+   "fr": "l'émotion",
+   "es": "la emoción"
+  },
+  "exampleGloss": {
+   "fr": "Il n'aime pas montrer ses émotions en public.",
+   "es": "No le gusta mostrar sus emociones en público."
+  }
+ },
+ "emotional-adj": {
+  "gloss": {
+   "fr": "émouvant",
+   "es": "emotivo"
+  },
+  "exampleGloss": {
+   "fr": "Ce fut une journée très émouvante pour toute la famille.",
+   "es": "Fue un día muy emotivo para toda la familia."
+  }
+ },
+ "emotionally-adv": {
+  "gloss": {
+   "fr": "émotionnellement",
+   "es": "emocionalmente"
+  },
+  "exampleGloss": {
+   "fr": "Elle était épuisée émotionnellement après une semaine difficile.",
+   "es": "Estaba agotada emocionalmente después de una semana difícil."
+  }
+ },
+ "emperor-n": {
+  "gloss": {
+   "fr": "l'empereur",
+   "es": "el emperador"
+  },
+  "exampleGloss": {
+   "fr": "L'empereur vivait dans un immense palais avec de nombreux serviteurs.",
+   "es": "El emperador vivía en un palacio enorme con muchos sirvientes."
+  }
+ },
+ "emphasis-n": {
+  "gloss": {
+   "fr": "l'accent",
+   "es": "el énfasis"
+  },
+  "exampleGloss": {
+   "fr": "Notre école met beaucoup l'accent sur le sport.",
+   "es": "Nuestro colegio pone mucho énfasis en el deporte."
+  }
+ },
+ "emphasize-v": {
+  "gloss": {
+   "fr": "souligner",
+   "es": "subrayar"
+  },
+  "exampleGloss": {
+   "fr": "Le professeur a souligné l'importance de lire tous les jours.",
+   "es": "El profesor subrayó la importancia de leer todos los días."
+  }
+ },
+ "empire-n": {
+  "gloss": {
+   "fr": "l'empire",
+   "es": "el imperio"
+  },
+  "exampleGloss": {
+   "fr": "L'Empire romain était très vaste et très puissant.",
+   "es": "El Imperio romano era muy grande y poderoso."
+  }
+ },
+ "employment-n": {
+  "gloss": {
+   "fr": "l'emploi",
+   "es": "el empleo"
+  },
+  "exampleGloss": {
+   "fr": "Il est difficile de trouver un emploi dans cette petite ville.",
+   "es": "Es difícil encontrar empleo en este pueblo pequeño."
+  }
+ },
+ "enable-v": {
+  "gloss": {
+   "fr": "permettre",
+   "es": "permitir"
+  },
+  "exampleGloss": {
+   "fr": "Cette appli te permet de payer avec ton téléphone.",
+   "es": "Esta aplicación te permite pagar con el móvil."
+  }
+ },
+ "enclose-v": {
+  "gloss": {
+   "fr": "joindre",
+   "es": "adjuntar"
+  },
+  "exampleGloss": {
+   "fr": "Veuillez joindre une photo récente à votre lettre.",
+   "es": "Por favor, adjunte una foto reciente a su carta."
+  }
+ },
+ "encounter-n": {
+  "gloss": {
+   "fr": "la rencontre",
+   "es": "el encuentro"
+  },
+  "exampleGloss": {
+   "fr": "J'ai fait une rencontre étrange avec un vieil homme dans le train.",
+   "es": "Tuve un encuentro extraño con un señor mayor en el tren."
+  }
+ },
+ "encouragement-n": {
+  "gloss": {
+   "fr": "les encouragements",
+   "es": "el ánimo"
+  },
+  "exampleGloss": {
+   "fr": "Grâce aux encouragements de mon professeur, j'ai réussi l'examen.",
+   "es": "Gracias a los ánimos de mi profesor, aprobé el examen."
+  }
+ },
+ "encouraging-adj": {
+  "gloss": {
+   "fr": "encourageant",
+   "es": "alentador"
+  },
+  "exampleGloss": {
+   "fr": "Les premiers résultats du test sont très encourageants.",
+   "es": "Los primeros resultados de la prueba son muy alentadores."
+  }
+ },
+ "encyclopedia-n": {
+  "gloss": {
+   "fr": "l'encyclopédie",
+   "es": "la enciclopedia"
+  },
+  "exampleGloss": {
+   "fr": "J'ai cherché la réponse dans une encyclopédie.",
+   "es": "Busqué la respuesta en una enciclopedia."
+  }
+ },
+ "endanger-v": {
+  "gloss": {
+   "fr": "menacer",
+   "es": "poner en peligro"
+  },
+  "exampleGloss": {
+   "fr": "La pollution menace de nombreux animaux qui vivent dans la mer.",
+   "es": "La contaminación pone en peligro a muchos animales que viven en el mar."
+  }
+ },
+ "endless-adj": {
+  "gloss": {
+   "fr": "interminable",
+   "es": "interminable"
+  },
+  "exampleGloss": {
+   "fr": "La traversée du désert semblait interminable.",
+   "es": "El viaje por el desierto parecía interminable."
+  }
+ },
+ "endure-v": {
+  "gloss": {
+   "fr": "endurer",
+   "es": "soportar"
+  },
+  "exampleGloss": {
+   "fr": "Les alpinistes ont dû endurer un froid terrible sur la montagne.",
+   "es": "Los alpinistas tuvieron que soportar un frío terrible en la montaña."
+  }
+ },
+ "enemy-n": {
+  "gloss": {
+   "fr": "l'ennemi",
+   "es": "el enemigo"
+  },
+  "exampleGloss": {
+   "fr": "Dans l'histoire, le dragon est le pire ennemi du roi.",
+   "es": "En la historia, el dragón es el mayor enemigo del rey."
+  }
+ },
+ "engage-v": {
+  "gloss": {
+   "fr": "faire participer",
+   "es": "implicar"
+  },
+  "exampleGloss": {
+   "fr": "Les bons professeurs font participer tous les élèves au cours.",
+   "es": "Los buenos profesores implican a todos los alumnos en la clase."
+  }
+ },
+ "engaged-adj": {
+  "gloss": {
+   "fr": "fiancé",
+   "es": "prometido"
+  },
+  "exampleGloss": {
+   "fr": "Tom et Anna se sont fiancés l'été dernier.",
+   "es": "Tom y Anna se prometieron el verano pasado."
+  }
+ },
+ "engine-n": {
+  "gloss": {
+   "fr": "le moteur",
+   "es": "el motor"
+  },
+  "exampleGloss": {
+   "fr": "Le moteur de la voiture fait un bruit bizarre.",
+   "es": "El motor del coche hace un ruido raro."
+  }
+ },
+ "engineering-n": {
+  "gloss": {
+   "fr": "l'ingénierie",
+   "es": "la ingeniería"
+  },
+  "exampleGloss": {
+   "fr": "Elle veut faire des études d'ingénieur à l'université.",
+   "es": "Quiere estudiar Ingeniería en la universidad."
+  }
+ },
+ "englishman-n": {
+  "gloss": {
+   "fr": "l'Anglais",
+   "es": "el inglés"
+  },
+  "exampleGloss": {
+   "fr": "Mon voisin est un Anglais qui adore la cuisine française.",
+   "es": "Mi vecino es un inglés al que le encanta la comida francesa."
+  }
+ },
+ "enjoyable-adj": {
+  "gloss": {
+   "fr": "agréable",
+   "es": "agradable"
+  },
+  "exampleGloss": {
+   "fr": "Nous avons passé une soirée très agréable avec nos amis.",
+   "es": "Pasamos una noche muy agradable con nuestros amigos."
+  }
+ },
+ "enjoyment-n": {
+  "gloss": {
+   "fr": "le plaisir",
+   "es": "el placer"
+  },
+  "exampleGloss": {
+   "fr": "La lecture me procure beaucoup de plaisir.",
+   "es": "Leer me da mucho placer."
+  }
+ },
+ "enrich-v": {
+  "gloss": {
+   "fr": "enrichir",
+   "es": "enriquecer"
+  },
+  "exampleGloss": {
+   "fr": "Voyager dans de nouveaux pays peut enrichir ta vie.",
+   "es": "Viajar a países nuevos puede enriquecer tu vida."
+  }
+ },
+ "ensure-v": {
+  "gloss": {
+   "fr": "s'assurer",
+   "es": "asegurarse"
+  },
+  "exampleGloss": {
+   "fr": "Veuillez vous assurer que toutes les fenêtres sont fermées.",
+   "es": "Por favor, asegúrese de que todas las ventanas estén cerradas."
+  }
+ },
+ "entertain-v": {
+  "gloss": {
+   "fr": "divertir",
+   "es": "entretener"
+  },
+  "exampleGloss": {
+   "fr": "Le clown a diverti les enfants pendant la fête.",
+   "es": "El payaso entretuvo a los niños en la fiesta."
+  }
+ },
+ "entertainer-n": {
+  "gloss": {
+   "fr": "l'artiste",
+   "es": "el animador"
+  },
+  "exampleGloss": {
+   "fr": "L'artiste a raconté des blagues et chanté des chansons toute la soirée.",
+   "es": "El animador contó chistes y cantó canciones toda la noche."
+  }
+ },
+ "enthusiasm-n": {
+  "gloss": {
+   "fr": "l'enthousiasme",
+   "es": "el entusiasmo"
+  },
+  "exampleGloss": {
+   "fr": "Elle a parlé de son nouveau travail avec beaucoup d'enthousiasme.",
+   "es": "Habló de su nuevo trabajo con mucho entusiasmo."
+  }
+ },
+ "enthusiast-n": {
+  "gloss": {
+   "fr": "le passionné",
+   "es": "el aficionado"
+  },
+  "exampleGloss": {
+   "fr": "Mon oncle est un passionné de football qui ne rate jamais un match.",
+   "es": "Mi tío es un gran aficionado al fútbol que nunca se pierde un partido."
+  }
+ },
+ "enthusiastic-adj": {
+  "gloss": {
+   "fr": "enthousiaste",
+   "es": "entusiasmado"
+  },
+  "exampleGloss": {
+   "fr": "Les élèves étaient enthousiastes à l'idée de la sortie scolaire.",
+   "es": "Los alumnos estaban entusiasmados con la excursión del colegio."
+  }
+ },
+ "entire-adj": {
+  "gloss": {
+   "fr": "entier",
+   "es": "entero"
+  },
+  "exampleGloss": {
+   "fr": "J'ai passé la journée entière au lit avec un rhume.",
+   "es": "Pasé el día entero en la cama con un resfriado."
+  }
+ },
+ "entirely-adv": {
+  "gloss": {
+   "fr": "entièrement",
+   "es": "totalmente"
+  },
+  "exampleGloss": {
+   "fr": "Je suis entièrement d'accord avec toi.",
+   "es": "Estoy totalmente de acuerdo contigo."
+  }
+ },
+ "entry-n": {
+  "gloss": {
+   "fr": "l'entrée",
+   "es": "la entrada"
+  },
+  "exampleGloss": {
+   "fr": "L'entrée du musée est gratuite le dimanche.",
+   "es": "La entrada al museo es gratuita los domingos."
+  }
+ },
+ "environmental-adj": {
+  "gloss": {
+   "fr": "environnemental",
+   "es": "medioambiental"
+  },
+  "exampleGloss": {
+   "fr": "La pollution de l'air est un grand problème environnemental dans les villes.",
+   "es": "La contaminación del aire es un gran problema medioambiental en las ciudades."
+  }
+ },
+ "environmentalist-n": {
+  "gloss": {
+   "fr": "l'écologiste",
+   "es": "el ecologista"
+  },
+  "exampleGloss": {
+   "fr": "L'écologiste a parlé de la protection des forêts.",
+   "es": "El ecologista habló de proteger los bosques."
+  }
+ },
+ "equal-adj": {
+  "gloss": {
+   "fr": "égal",
+   "es": "igual"
+  },
+  "exampleGloss": {
+   "fr": "Tout le monde devrait avoir des droits égaux.",
+   "es": "Todas las personas deberían tener los mismos derechos."
+  }
+ },
+ "equality-n": {
+  "gloss": {
+   "fr": "l'égalité",
+   "es": "la igualdad"
+  },
+  "exampleGloss": {
+   "fr": "Ils se sont battus pour l'égalité entre les hommes et les femmes.",
+   "es": "Lucharon por la igualdad entre hombres y mujeres."
+  }
+ },
+ "equally-adv": {
+  "gloss": {
+   "fr": "à parts égales",
+   "es": "a partes iguales"
+  },
+  "exampleGloss": {
+   "fr": "Partage le gâteau à parts égales entre les enfants.",
+   "es": "Reparte el pastel a partes iguales entre los niños."
+  }
+ },
+ "equipment-n": {
+  "gloss": {
+   "fr": "l'équipement",
+   "es": "el equipo"
+  },
+  "exampleGloss": {
+   "fr": "Il faut un équipement spécial pour escalader cette montagne.",
+   "es": "Hace falta un equipo especial para escalar esta montaña."
+  }
+ },
+ "era-n": {
+  "gloss": {
+   "fr": "l'ère",
+   "es": "la era"
+  },
+  "exampleGloss": {
+   "fr": "Internet a ouvert une nouvelle ère dans la communication.",
+   "es": "Internet abrió una nueva era en la comunicación."
+  }
+ },
+ "escape-v": {
+  "gloss": {
+   "fr": "s'échapper",
+   "es": "escaparse"
+  },
+  "exampleGloss": {
+   "fr": "L'oiseau s'est échappé de sa cage ce matin.",
+   "es": "El pájaro se escapó de la jaula esta mañana."
+  }
+ },
+ "essence-n": {
+  "gloss": {
+   "fr": "l'essence",
+   "es": "la esencia"
+  },
+  "exampleGloss": {
+   "fr": "L'amitié est au cœur de cette histoire.",
+   "es": "La amistad es la esencia de esta historia."
+  }
+ },
+ "essential-adj": {
+  "gloss": {
+   "fr": "essentiel",
+   "es": "esencial"
+  },
+  "exampleGloss": {
+   "fr": "L'eau est essentielle à toute forme de vie sur Terre.",
+   "es": "El agua es esencial para toda la vida en la Tierra."
+  }
+ },
+ "establishment-n": {
+  "gloss": {
+   "fr": "l'établissement",
+   "es": "el establecimiento"
+  },
+  "exampleGloss": {
+   "fr": "Ce restaurant est un établissement familial qui a ouvert en 1950.",
+   "es": "Este restaurante es un negocio familiar que abrió en 1950."
+  }
+ },
+ "estimate-v": {
+  "gloss": {
+   "fr": "estimer",
+   "es": "calcular"
+  },
+  "exampleGloss": {
+   "fr": "Nous estimons que le trajet prendra trois heures.",
+   "es": "Calculamos que el viaje durará tres horas."
+  }
+ },
+ "eternal-adj": {
+  "gloss": {
+   "fr": "éternel",
+   "es": "eterno"
+  },
+  "exampleGloss": {
+   "fr": "Dans le film, ils se sont juré un amour éternel.",
+   "es": "En la película, se prometieron amor eterno."
+  }
+ },
+ "eternity-n": {
+  "gloss": {
+   "fr": "l'éternité",
+   "es": "la eternidad"
+  },
+  "exampleGloss": {
+   "fr": "Attendre le bus sous la pluie m'a paru une éternité.",
+   "es": "Esperar el autobús bajo la lluvia se me hizo eterno."
+  }
+ },
+ "even-adj": {
+  "gloss": {
+   "fr": "pair",
+   "es": "par"
+  },
+  "exampleGloss": {
+   "fr": "Deux, quatre et six sont des nombres pairs.",
+   "es": "El dos, el cuatro y el seis son números pares."
+  }
+ }
+}

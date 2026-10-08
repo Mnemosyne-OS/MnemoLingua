@@ -1,0 +1,388 @@
+{
+ "decoys": {
+  "caught": 6,
+  "total": 6,
+  "missed": []
+ },
+ "toReview": 1,
+ "cards": {
+  "matter-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "max-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "mean-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "meaning-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "medal-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "medical-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "melon-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "member-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "mention-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "menu-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "metal-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "meter-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "method-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "midday-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "middle-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "midnight-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "might-modal": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "military-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "mind-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "mineral-water-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "mirror-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "missing-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "mistake-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "mix-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "mobile-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "model-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "modern-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "mood-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "mosque-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "most-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "most-pron": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "mostly-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "motorway-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "move-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "mp3-player-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "ms-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "mug-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "murder-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "museum-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "mushroom-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "musical-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "myself-pron": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "mysterious-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "mystery-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "napkin-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "nation-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "national-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "native-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "natural-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "nature-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "nearly-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "necessary-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "need-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "negative-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "nervous-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "net-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "next-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "next-det": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "next-to-prep": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "no-one-pron": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "nobody-pron": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "noisy-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "noon-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "normal-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "north-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "north-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "north-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "notice-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "noun-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "novel-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "nowadays-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "oak-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "occupation-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "off-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "offer-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "offer-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "official-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "oil-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "olive-oil-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "olympic-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "omelet-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "on-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "one-pron": {
+   "check": "to-review",
+   "problems": [
+    "es word: 'el (que)' is the relative structure; here it is el/la + adjective (la azul)"
+   ]
+  },
+  "onion-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "online-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "online-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "operate-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "opinion-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "opportunity-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "oppose-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "opposite-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "opposite-prep": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "order-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "organize-v": {
+   "check": "two-pass",
+   "problems": []
+  }
+ }
+}

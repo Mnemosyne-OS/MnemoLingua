@@ -1,0 +1,577 @@
+[
+ {
+  "id": "hidden-adj",
+  "headword": "hidden",
+  "pos": "adjective"
+ },
+ {
+  "id": "highlight-v",
+  "headword": "highlight",
+  "pos": "verb"
+ },
+ {
+  "id": "highly-adv",
+  "headword": "highly",
+  "pos": "adverb"
+ },
+ {
+  "id": "hip-n",
+  "headword": "hip",
+  "pos": "noun",
+  "sourceTopics": [
+   "Health and body care"
+  ]
+ },
+ {
+  "id": "hire-v",
+  "headword": "hire",
+  "pos": "verb"
+ },
+ {
+  "id": "historian-n",
+  "headword": "historian",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Education"
+  ]
+ },
+ {
+  "id": "historic-adj",
+  "headword": "historic",
+  "pos": "adjective"
+ },
+ {
+  "id": "historical-adj",
+  "headword": "historical",
+  "pos": "adjective"
+ },
+ {
+  "id": "hit-n",
+  "headword": "hit",
+  "pos": "noun"
+ },
+ {
+  "id": "hiv-n",
+  "headword": "HIV",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel and services vocab",
+   "Health and body care"
+  ]
+ },
+ {
+  "id": "holy-adj",
+  "headword": "holy",
+  "pos": "adjective"
+ },
+ {
+  "id": "homeless-adj",
+  "headword": "homeless",
+  "pos": "adjective"
+ },
+ {
+  "id": "honest-adj",
+  "headword": "honest",
+  "pos": "adjective"
+ },
+ {
+  "id": "honestly-adv",
+  "headword": "honestly",
+  "pos": "adverb"
+ },
+ {
+  "id": "honesty-n",
+  "headword": "honesty",
+  "pos": "noun"
+ },
+ {
+  "id": "honeymoon-n",
+  "headword": "honeymoon",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel and services vocab",
+   "Travel"
+  ]
+ },
+ {
+  "id": "hop-n",
+  "headword": "hop",
+  "pos": "noun"
+ },
+ {
+  "id": "hope-v",
+  "headword": "hope",
+  "pos": "verb"
+ },
+ {
+  "id": "hopeful-adj",
+  "headword": "hopeful",
+  "pos": "adjective"
+ },
+ {
+  "id": "hopefully-adv",
+  "headword": "hopefully",
+  "pos": "adverb"
+ },
+ {
+  "id": "hopeless-adj",
+  "headword": "hopeless",
+  "pos": "adjective"
+ },
+ {
+  "id": "horizon-n",
+  "headword": "horizon",
+  "pos": "noun"
+ },
+ {
+  "id": "horn-n",
+  "headword": "horn",
+  "pos": "noun"
+ },
+ {
+  "id": "horrible-adj",
+  "headword": "horrible",
+  "pos": "adjective"
+ },
+ {
+  "id": "horrify-v",
+  "headword": "horrify",
+  "pos": "verb"
+ },
+ {
+  "id": "hostel-n",
+  "headword": "hostel",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel and services vocab",
+   "Travel"
+  ]
+ },
+ {
+  "id": "household-n",
+  "headword": "household",
+  "pos": "noun",
+  "sourceTopics": [
+   "Family life",
+   "Daily life"
+  ]
+ },
+ {
+  "id": "housework-n",
+  "headword": "housework",
+  "pos": "noun",
+  "sourceTopics": [
+   "Family life",
+   "Daily life"
+  ]
+ },
+ {
+  "id": "huge-adj",
+  "headword": "huge",
+  "pos": "adjective"
+ },
+ {
+  "id": "human-n",
+  "headword": "human",
+  "pos": "noun"
+ },
+ {
+  "id": "humanity-n",
+  "headword": "humanity",
+  "pos": "noun"
+ },
+ {
+  "id": "humid-adj",
+  "headword": "humid",
+  "pos": "adjective"
+ },
+ {
+  "id": "humor-n",
+  "headword": "humor",
+  "pos": "noun",
+  "variants": [
+   "humour"
+  ]
+ },
+ {
+  "id": "humorous-adj",
+  "headword": "humorous",
+  "pos": "adjective"
+ },
+ {
+  "id": "hunger-n",
+  "headword": "hunger",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs"
+  ]
+ },
+ {
+  "id": "hunt-n",
+  "headword": "hunt",
+  "pos": "noun",
+  "sourceTopics": [
+   "Leisure activities",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "hunt-v",
+  "headword": "hunt",
+  "pos": "verb"
+ },
+ {
+  "id": "hurriedly-adv",
+  "headword": "hurriedly",
+  "pos": "adverb"
+ },
+ {
+  "id": "hurt-adj",
+  "headword": "hurt",
+  "pos": "adjective"
+ },
+ {
+  "id": "hut-n",
+  "headword": "hut",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "ice-hockey-n",
+  "headword": "ice hockey",
+  "pos": "noun",
+  "sourceTopics": [
+   "Leisure activities",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "ice-skating-n",
+  "headword": "ice skating",
+  "pos": "noun",
+  "sourceTopics": [
+   "Leisure activities",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "identity-n",
+  "headword": "identity",
+  "pos": "noun"
+ },
+ {
+  "id": "identity-card-n",
+  "headword": "identity card",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel and services vocab",
+   "Services"
+  ]
+ },
+ {
+  "id": "idiom-n",
+  "headword": "idiom",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Education"
+  ]
+ },
+ {
+  "id": "idol-n",
+  "headword": "idol",
+  "pos": "noun"
+ },
+ {
+  "id": "ignore-v",
+  "headword": "ignore",
+  "pos": "verb"
+ },
+ {
+  "id": "illegally-adv",
+  "headword": "illegally",
+  "pos": "adverb"
+ },
+ {
+  "id": "illness-n",
+  "headword": "illness",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel and services vocab",
+   "Health and body care"
+  ]
+ },
+ {
+  "id": "illuminate-v",
+  "headword": "illuminate",
+  "pos": "verb"
+ },
+ {
+  "id": "imaginary-adj",
+  "headword": "imaginary",
+  "pos": "adjective"
+ },
+ {
+  "id": "imitate-v",
+  "headword": "imitate",
+  "pos": "verb"
+ },
+ {
+  "id": "immediate-adj",
+  "headword": "immediate",
+  "pos": "adjective"
+ },
+ {
+  "id": "immediately-adv",
+  "headword": "immediately",
+  "pos": "adverb"
+ },
+ {
+  "id": "immigrate-v",
+  "headword": "immigrate",
+  "pos": "verb"
+ },
+ {
+  "id": "immigration-n",
+  "headword": "immigration",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs"
+  ]
+ },
+ {
+  "id": "impair-v",
+  "headword": "impair",
+  "pos": "verb"
+ },
+ {
+  "id": "impression-n",
+  "headword": "impression",
+  "pos": "noun"
+ },
+ {
+  "id": "impressive-adj",
+  "headword": "impressive",
+  "pos": "adjective"
+ },
+ {
+  "id": "improper-adj",
+  "headword": "improper",
+  "pos": "adjective"
+ },
+ {
+  "id": "improvement-n",
+  "headword": "improvement",
+  "pos": "noun"
+ },
+ {
+  "id": "incident-n",
+  "headword": "incident",
+  "pos": "noun"
+ },
+ {
+  "id": "including-prep",
+  "headword": "including",
+  "pos": "preposition"
+ },
+ {
+  "id": "income-n",
+  "headword": "income",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Daily life"
+  ]
+ },
+ {
+  "id": "inconvenient-adj",
+  "headword": "inconvenient",
+  "pos": "adjective"
+ },
+ {
+  "id": "incorrect-adj",
+  "headword": "incorrect",
+  "pos": "adjective"
+ },
+ {
+  "id": "increase-n",
+  "headword": "increase",
+  "pos": "noun"
+ },
+ {
+  "id": "increasingly-adv",
+  "headword": "increasingly",
+  "pos": "adverb"
+ },
+ {
+  "id": "incredible-adj",
+  "headword": "incredible",
+  "pos": "adjective"
+ },
+ {
+  "id": "incredibly-adv",
+  "headword": "incredibly",
+  "pos": "adverb"
+ },
+ {
+  "id": "indefinite-article-n",
+  "headword": "indefinite article",
+  "pos": "noun"
+ },
+ {
+  "id": "independent-adj",
+  "headword": "independent",
+  "pos": "adjective"
+ },
+ {
+  "id": "indirect-adj",
+  "headword": "indirect",
+  "pos": "adjective"
+ },
+ {
+  "id": "indirectly-adv",
+  "headword": "indirectly",
+  "pos": "adverb"
+ },
+ {
+  "id": "individual-adj",
+  "headword": "individual",
+  "pos": "adjective"
+ },
+ {
+  "id": "indoors-adv",
+  "headword": "indoors",
+  "pos": "adverb"
+ },
+ {
+  "id": "industrial-adj",
+  "headword": "industrial",
+  "pos": "adjective"
+ },
+ {
+  "id": "industry-n",
+  "headword": "industry",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs"
+  ]
+ },
+ {
+  "id": "inevitable-adj",
+  "headword": "inevitable",
+  "pos": "adjective"
+ },
+ {
+  "id": "infection-n",
+  "headword": "infection",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs",
+   "Health and body care"
+  ]
+ },
+ {
+  "id": "infinitive-n",
+  "headword": "infinitive",
+  "pos": "noun"
+ },
+ {
+  "id": "inform-v",
+  "headword": "inform",
+  "pos": "verb"
+ },
+ {
+  "id": "informative-adj",
+  "headword": "informative",
+  "pos": "adjective"
+ },
+ {
+  "id": "ingredient-n",
+  "headword": "ingredient",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "inhabitant-n",
+  "headword": "inhabitant",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "inhale-v",
+  "headword": "inhale",
+  "pos": "verb"
+ },
+ {
+  "id": "initial-n",
+  "headword": "initial",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education"
+  ]
+ },
+ {
+  "id": "initially-adv",
+  "headword": "initially",
+  "pos": "adverb"
+ },
+ {
+  "id": "inject-v",
+  "headword": "inject",
+  "pos": "verb"
+ },
+ {
+  "id": "injury-n",
+  "headword": "injury",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel and services vocab",
+   "Health and body care"
+  ]
+ },
+ {
+  "id": "ink-n",
+  "headword": "ink",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "innermost-adj",
+  "headword": "innermost",
+  "pos": "adjective"
+ },
+ {
+  "id": "innocent-adj",
+  "headword": "innocent",
+  "pos": "adjective"
+ },
+ {
+  "id": "innovator-n",
+  "headword": "innovator",
+  "pos": "noun"
+ },
+ {
+  "id": "inquiry-n",
+  "headword": "inquiry",
+  "pos": "noun",
+  "variants": [
+   "enquiry"
+  ],
+  "sourceTopics": [
+   "Travel and services vocab"
+  ]
+ }
+]

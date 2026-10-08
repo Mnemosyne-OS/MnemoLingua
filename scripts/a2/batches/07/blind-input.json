@@ -1,0 +1,566 @@
+[
+ {
+  "id": "greedy-adj",
+  "headword": "greedy",
+  "pos": "adjective",
+  "example": "The greedy man wanted all the money for himself."
+ },
+ {
+  "id": "green-n",
+  "headword": "green",
+  "pos": "noun",
+  "example": "Green is my favorite color."
+ },
+ {
+  "id": "grilled-adj",
+  "headword": "grilled",
+  "pos": "adjective",
+  "example": "I had grilled fish with rice for dinner."
+ },
+ {
+  "id": "grocery-store-n",
+  "headword": "grocery store",
+  "pos": "noun",
+  "example": "We buy milk and bread at the grocery store."
+ },
+ {
+  "id": "guard-n",
+  "headword": "guard",
+  "pos": "noun",
+  "example": "The guard stood at the door of the bank."
+ },
+ {
+  "id": "guidebook-n",
+  "headword": "guidebook",
+  "pos": "noun",
+  "example": "We read the guidebook before our trip to Rome."
+ },
+ {
+  "id": "gun-n",
+  "headword": "gun",
+  "pos": "noun",
+  "example": "The police officer had a gun on his belt."
+ },
+ {
+  "id": "half-det",
+  "headword": "half",
+  "pos": "determiner",
+  "example": "I waited half an hour for the bus."
+ },
+ {
+  "id": "half-pron",
+  "headword": "half",
+  "pos": "pronoun",
+  "example": "I ate half of the pizza, and my sister ate the rest."
+ },
+ {
+  "id": "half-price-adj",
+  "headword": "half-price",
+  "pos": "adjective",
+  "example": "I bought half-price shoes in the sale."
+ },
+ {
+  "id": "half-price-adv",
+  "headword": "half-price",
+  "pos": "adverb",
+  "example": "Children can travel half-price on this train."
+ },
+ {
+  "id": "ham-n",
+  "headword": "ham",
+  "pos": "noun",
+  "example": "I'd like a ham sandwich, please."
+ },
+ {
+  "id": "hand-v",
+  "headword": "hand",
+  "pos": "verb",
+  "example": "Can you hand me that book, please?"
+ },
+ {
+  "id": "handbag-n",
+  "headword": "handbag",
+  "pos": "noun",
+  "example": "She keeps her keys and phone in her handbag."
+ },
+ {
+  "id": "handicapped-adj",
+  "headword": "handicapped",
+  "pos": "adjective",
+  "example": "The building has a lift for handicapped people."
+ },
+ {
+  "id": "handle-n",
+  "headword": "handle",
+  "pos": "noun",
+  "example": "I turned the handle and opened the door."
+ },
+ {
+  "id": "happily-adv",
+  "headword": "happily",
+  "pos": "adverb",
+  "example": "The children played happily in the garden all afternoon."
+ },
+ {
+  "id": "happiness-n",
+  "headword": "happiness",
+  "pos": "noun",
+  "example": "Her new baby brought her great happiness."
+ },
+ {
+  "id": "hardly-adv",
+  "headword": "hardly",
+  "pos": "adverb",
+  "example": "It was so dark that I could hardly see."
+ },
+ {
+  "id": "harm-v",
+  "headword": "harm",
+  "pos": "verb",
+  "example": "Too much sun can harm your skin."
+ },
+ {
+  "id": "harmful-adj",
+  "headword": "harmful",
+  "pos": "adjective",
+  "example": "Smoking is harmful to your health."
+ },
+ {
+  "id": "harmony-n",
+  "headword": "harmony",
+  "pos": "noun",
+  "example": "The two families live together in harmony."
+ },
+ {
+  "id": "harvest-n",
+  "headword": "harvest",
+  "pos": "noun",
+  "example": "The farmers had a good harvest of apples this year."
+ },
+ {
+  "id": "hate-v",
+  "headword": "hate",
+  "pos": "verb",
+  "example": "I hate getting up early on Mondays."
+ },
+ {
+  "id": "head-v",
+  "headword": "head",
+  "pos": "verb",
+  "example": "After lunch, we headed to the beach."
+ },
+ {
+  "id": "headphone-n",
+  "headword": "headphone",
+  "pos": "noun",
+  "example": "My left headphone does not work."
+ },
+ {
+  "id": "headteacher-n",
+  "headword": "headteacher",
+  "pos": "noun",
+  "example": "The headteacher spoke to all the students this morning."
+ },
+ {
+  "id": "heat-n",
+  "headword": "heat",
+  "pos": "noun",
+  "example": "I can't sleep in this heat."
+ },
+ {
+  "id": "heating-n",
+  "headword": "heating",
+  "pos": "noun",
+  "example": "It's cold in here; please turn on the heating."
+ },
+ {
+  "id": "heavily-adv",
+  "headword": "heavily",
+  "pos": "adverb",
+  "example": "It rained heavily all night."
+ },
+ {
+  "id": "help-n",
+  "headword": "help",
+  "pos": "noun",
+  "example": "Thank you for your help with my homework."
+ },
+ {
+  "id": "helpful-adj",
+  "headword": "helpful",
+  "pos": "adjective",
+  "example": "The woman at the station was very helpful."
+ },
+ {
+  "id": "hero-n",
+  "headword": "hero",
+  "pos": "noun",
+  "example": "The firefighter was a hero; he saved three children."
+ },
+ {
+  "id": "herself-pron",
+  "headword": "herself",
+  "pos": "pronoun",
+  "example": "She looked at herself in the mirror."
+ },
+ {
+  "id": "hey-interj",
+  "headword": "hey",
+  "pos": "interjection",
+  "example": "Hey, wait for me!"
+ },
+ {
+  "id": "high-adv",
+  "headword": "high",
+  "pos": "adverb",
+  "example": "The bird flew high above the trees."
+ },
+ {
+  "id": "high-school-n",
+  "headword": "high school",
+  "pos": "noun",
+  "example": "My brother is sixteen and goes to high school."
+ },
+ {
+  "id": "highway-n",
+  "headword": "highway",
+  "pos": "noun",
+  "example": "We drove to the city on the highway."
+ },
+ {
+  "id": "hike-n",
+  "headword": "hike",
+  "pos": "noun",
+  "example": "We went on a long hike in the mountains."
+ },
+ {
+  "id": "hiking-n",
+  "headword": "hiking",
+  "pos": "noun",
+  "example": "Hiking is my favorite hobby in summer."
+ },
+ {
+  "id": "himself-pron",
+  "headword": "himself",
+  "pos": "pronoun",
+  "example": "He cut himself while he was cooking."
+ },
+ {
+  "id": "hip-hop-n",
+  "headword": "hip hop",
+  "pos": "noun",
+  "example": "My son listens to hip hop every day."
+ },
+ {
+  "id": "hit-v",
+  "headword": "hit",
+  "pos": "verb",
+  "example": "He hit the ball hard with his bat."
+ },
+ {
+  "id": "hockey-n",
+  "headword": "hockey",
+  "pos": "noun",
+  "example": "We play hockey on the ice every winter."
+ },
+ {
+  "id": "hold-v",
+  "headword": "hold",
+  "pos": "verb",
+  "example": "Can you hold my bag for a minute?"
+ },
+ {
+  "id": "home-adv",
+  "headword": "home",
+  "pos": "adverb",
+  "example": "I went home after work."
+ },
+ {
+  "id": "honey-n",
+  "headword": "honey",
+  "pos": "noun",
+  "example": "I put honey in my tea."
+ },
+ {
+  "id": "honor-n",
+  "headword": "honor",
+  "pos": "noun",
+  "example": "It is an honor to meet you."
+ },
+ {
+  "id": "horror-n",
+  "headword": "horror",
+  "pos": "noun",
+  "example": "I don't like horror films; they scare me."
+ },
+ {
+  "id": "host-n",
+  "headword": "host",
+  "pos": "noun",
+  "example": "Our host cooked a wonderful dinner for all the guests."
+ },
+ {
+  "id": "however-adv",
+  "headword": "however",
+  "pos": "adverb",
+  "example": "The hotel was expensive. However, the rooms were very nice."
+ },
+ {
+  "id": "hug-v",
+  "headword": "hug",
+  "pos": "verb",
+  "example": "She hugged her mother at the airport."
+ },
+ {
+  "id": "human-adj",
+  "headword": "human",
+  "pos": "adjective",
+  "example": "The human body has 206 bones."
+ },
+ {
+  "id": "hunter-n",
+  "headword": "hunter",
+  "pos": "noun",
+  "example": "The hunter walked into the forest with his dog."
+ },
+ {
+  "id": "hurry-v",
+  "headword": "hurry",
+  "pos": "verb",
+  "example": "Hurry, or we will miss the train!"
+ },
+ {
+  "id": "id-n",
+  "headword": "ID",
+  "pos": "noun",
+  "example": "You need to show your ID at the airport."
+ },
+ {
+  "id": "id-card-n",
+  "headword": "ID card",
+  "pos": "noun",
+  "example": "I always keep my ID card in my wallet."
+ },
+ {
+  "id": "ill-adj",
+  "headword": "ill",
+  "pos": "adjective",
+  "example": "She is ill, so she stayed in bed today."
+ },
+ {
+  "id": "illegal-adj",
+  "headword": "illegal",
+  "pos": "adjective",
+  "example": "It is illegal to park your car here."
+ },
+ {
+  "id": "image-n",
+  "headword": "image",
+  "pos": "noun",
+  "example": "The image on the screen was very clear."
+ },
+ {
+  "id": "imagination-n",
+  "headword": "imagination",
+  "pos": "noun",
+  "example": "Children have a lot of imagination."
+ },
+ {
+  "id": "impact-n",
+  "headword": "impact",
+  "pos": "noun",
+  "example": "The new road had a big impact on the village."
+ },
+ {
+  "id": "impatient-adj",
+  "headword": "impatient",
+  "pos": "adjective",
+  "example": "Don't be impatient; the bus will come soon."
+ },
+ {
+  "id": "importance-n",
+  "headword": "importance",
+  "pos": "noun",
+  "example": "My teacher talked about the importance of reading."
+ },
+ {
+  "id": "importantly-adv",
+  "headword": "importantly",
+  "pos": "adverb",
+  "example": "Eat well and, more importantly, sleep enough."
+ },
+ {
+  "id": "impossible-adj",
+  "headword": "impossible",
+  "pos": "adjective",
+  "example": "It is impossible to finish this work in one day."
+ },
+ {
+  "id": "impress-v",
+  "headword": "impress",
+  "pos": "verb",
+  "example": "She impressed everyone with her beautiful singing."
+ },
+ {
+  "id": "improve-v",
+  "headword": "improve",
+  "pos": "verb",
+  "example": "I want to improve my English this year."
+ },
+ {
+  "id": "in-adv",
+  "headword": "in",
+  "pos": "adverb",
+  "example": "Open the door and let the dog in."
+ },
+ {
+  "id": "inch-n",
+  "headword": "inch",
+  "pos": "noun",
+  "example": "This TV screen is fifty inches wide."
+ },
+ {
+  "id": "include-v",
+  "headword": "include",
+  "pos": "verb",
+  "example": "The price of the room includes breakfast."
+ },
+ {
+  "id": "increase-v",
+  "headword": "increase",
+  "pos": "verb",
+  "example": "The number of tourists increases every summer."
+ },
+ {
+  "id": "indeed-adv",
+  "headword": "indeed",
+  "pos": "adverb",
+  "example": "It was indeed a very good film."
+ },
+ {
+  "id": "independence-n",
+  "headword": "independence",
+  "pos": "noun",
+  "example": "The country got its independence in 1960."
+ },
+ {
+  "id": "indicate-v",
+  "headword": "indicate",
+  "pos": "verb",
+  "example": "The sign indicates the way to the station."
+ },
+ {
+  "id": "indoor-adj",
+  "headword": "indoor",
+  "pos": "adjective",
+  "example": "The hotel has an indoor swimming pool."
+ },
+ {
+  "id": "inexpensive-adj",
+  "headword": "inexpensive",
+  "pos": "adjective",
+  "example": "We found an inexpensive hotel near the beach."
+ },
+ {
+  "id": "influence-n",
+  "headword": "influence",
+  "pos": "noun",
+  "example": "My grandmother had a big influence on my life."
+ },
+ {
+  "id": "injure-v",
+  "headword": "injure",
+  "pos": "verb",
+  "example": "He injured his leg playing football."
+ },
+ {
+  "id": "inner-adj",
+  "headword": "inner",
+  "pos": "adjective",
+  "example": "The inner pocket of my coat is very small."
+ },
+ {
+  "id": "insect-n",
+  "headword": "insect",
+  "pos": "noun",
+  "example": "A small insect landed on my arm."
+ },
+ {
+  "id": "inside-adv",
+  "headword": "inside",
+  "pos": "adverb",
+  "example": "It started to rain, so we went inside."
+ },
+ {
+  "id": "inspiration-n",
+  "headword": "inspiration",
+  "pos": "noun",
+  "example": "Nature is a great inspiration for many artists."
+ },
+ {
+  "id": "instant-adj",
+  "headword": "instant",
+  "pos": "adjective",
+  "example": "I drink instant coffee in the morning."
+ },
+ {
+  "id": "instead-adv",
+  "headword": "instead",
+  "pos": "adverb",
+  "example": "There was no tea, so I had coffee instead."
+ },
+ {
+  "id": "instrument-n",
+  "headword": "instrument",
+  "pos": "noun",
+  "example": "Can you play a musical instrument?"
+ },
+ {
+  "id": "intelligence-n",
+  "headword": "intelligence",
+  "pos": "noun",
+  "example": "Her intelligence helped her get a good job."
+ },
+ {
+  "id": "intelligent-adj",
+  "headword": "intelligent",
+  "pos": "adjective",
+  "example": "My dog is very intelligent; he understands everything."
+ },
+ {
+  "id": "interest-n",
+  "headword": "interest",
+  "pos": "noun",
+  "example": "Music is my main interest."
+ },
+ {
+  "id": "international-adj",
+  "headword": "international",
+  "pos": "adjective",
+  "example": "Paris has two international airports."
+ },
+ {
+  "id": "invade-v",
+  "headword": "invade",
+  "pos": "verb",
+  "example": "The army invaded the country in 1940."
+ },
+ {
+  "id": "invent-v",
+  "headword": "invent",
+  "pos": "verb",
+  "example": "Who invented the telephone?"
+ },
+ {
+  "id": "invention-n",
+  "headword": "invention",
+  "pos": "noun",
+  "example": "The computer is a very useful invention."
+ },
+ {
+  "id": "invite-v",
+  "headword": "invite",
+  "pos": "verb",
+  "example": "We invited all our friends to the party."
+ }
+]

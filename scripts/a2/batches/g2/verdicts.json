@@ -1,0 +1,124 @@
+{
+ "decoys": {
+  "caught": 6,
+  "total": 6,
+  "missed": []
+ },
+ "toReview": 1,
+ "cards": {
+  "g2-64-1-a": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g2-64-1-b": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g2-69-a": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g2-69-b": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g2-65-1-a": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g2-65-1-b": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g2-122-a": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g2-122-b": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g2-136-a": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g2-136-b": {
+   "check": "to-review",
+   "problems": [
+    "fr example: non-standard word order; \"Tu n'as besoin de rien apporter\" or \"Tu n'as rien à apporter\""
+   ]
+  },
+  "g2-141-a": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g2-141-b": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g2-249-a": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g2-249-b": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g2-17-a": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g2-17-b": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g2-18-a": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g2-18-b": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g2-41-a": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g2-41-b": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g2-152-a": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g2-152-b": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g2-157-a": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g2-157-b": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g2-200-a": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g2-200-b": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g2-206-a": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "g2-206-b": {
+   "check": "two-pass",
+   "problems": []
+  }
+ }
+}

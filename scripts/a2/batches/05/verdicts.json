@@ -1,0 +1,386 @@
+{
+ "decoys": {
+  "caught": 6,
+  "total": 6,
+  "missed": []
+ },
+ "toReview": 0,
+ "cards": {
+  "down-prep": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "download-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "downstairs-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "downtown-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "draw-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "drawer-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "drawing-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "dream-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "dress-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "dressed-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "drill-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "drive-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "driver-s-license-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "drop-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "drug-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "drugstore-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "dry-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "duck-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "during-prep": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "dust-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "early-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "earn-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "earring-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "earth-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "earthquake-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "easily-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "east-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "east-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "east-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "editor-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "education-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "educational-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "effect-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "effort-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "either-conj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "elderly-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "electric-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "elephant-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "elevator-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "elsewhere-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "email-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "embarrassing-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "emergency-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "empty-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "encourage-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "end-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "endangered-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "ending-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "energetic-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "enormous-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "enough-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "enough-det": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "enough-pron": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "enter-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "entertainment-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "entrance-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "envelope-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "envy-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "episode-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "error-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "escalator-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "escape-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "especially-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "essay-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "establish-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "euro-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "even-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "ever-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "evidence-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "exactly-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "exam-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "except-conj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "except-prep": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "exchange-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "exercise-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "exhibition-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "exist-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "expect-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "experience-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "expert-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "explain-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "explanation-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "explore-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "express-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "expression-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "extra-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "extra-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "extremely-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "face-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "fact-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "fail-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "fairly-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "fall-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "familiar-adj": {
+   "check": "two-pass",
+   "problems": []
+  }
+ }
+}

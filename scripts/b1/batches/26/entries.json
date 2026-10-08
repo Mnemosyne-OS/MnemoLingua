@@ -1,0 +1,420 @@
+[
+ {
+  "id": "wake-v",
+  "headword": "wake",
+  "pos": "verb"
+ },
+ {
+  "id": "ward-n",
+  "headword": "ward",
+  "pos": "noun",
+  "sourceTopics": [
+   "Nationalities and countries"
+  ]
+ },
+ {
+  "id": "wardrobe-n",
+  "headword": "wardrobe",
+  "pos": "noun",
+  "sourceTopics": [
+   "Clothes",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "warm-v",
+  "headword": "warm",
+  "pos": "verb"
+ },
+ {
+  "id": "warmly-adv",
+  "headword": "warmly",
+  "pos": "adverb"
+ },
+ {
+  "id": "warmth-n",
+  "headword": "warmth",
+  "pos": "noun",
+  "sourceTopics": [
+   "Weather"
+  ]
+ },
+ {
+  "id": "warn-v",
+  "headword": "warn",
+  "pos": "verb"
+ },
+ {
+  "id": "warning-n",
+  "headword": "warning",
+  "pos": "noun"
+ },
+ {
+  "id": "warranty-n",
+  "headword": "warranty",
+  "pos": "noun"
+ },
+ {
+  "id": "warrior-n",
+  "headword": "warrior",
+  "pos": "noun"
+ },
+ {
+  "id": "washbowl-n",
+  "headword": "washbowl",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "waste-adj",
+  "headword": "waste",
+  "pos": "adjective"
+ },
+ {
+  "id": "waste-n",
+  "headword": "waste",
+  "pos": "noun"
+ },
+ {
+  "id": "waste-v",
+  "headword": "waste",
+  "pos": "verb"
+ },
+ {
+  "id": "wasteful-adj",
+  "headword": "wasteful",
+  "pos": "adjective"
+ },
+ {
+  "id": "waterfall-n",
+  "headword": "waterfall",
+  "pos": "noun"
+ },
+ {
+  "id": "wave-v",
+  "headword": "wave",
+  "pos": "verb"
+ },
+ {
+  "id": "wax-n",
+  "headword": "wax",
+  "pos": "noun"
+ },
+ {
+  "id": "wax-v",
+  "headword": "wax",
+  "pos": "verb"
+ },
+ {
+  "id": "weakness-n",
+  "headword": "weakness",
+  "pos": "noun"
+ },
+ {
+  "id": "weapon-n",
+  "headword": "weapon",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs",
+   "Relations with other people"
+  ]
+ },
+ {
+  "id": "weather-forecast-n",
+  "headword": "weather forecast",
+  "pos": "noun",
+  "sourceTopics": [
+   "Media",
+   "Weather"
+  ]
+ },
+ {
+  "id": "webcam-n",
+  "headword": "webcam",
+  "pos": "noun",
+  "sourceTopics": [
+   "Media",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "weird-adj",
+  "headword": "weird",
+  "pos": "adjective"
+ },
+ {
+  "id": "welcome-adj",
+  "headword": "welcome",
+  "pos": "adjective"
+ },
+ {
+  "id": "well-dressed-adj",
+  "headword": "well-dressed",
+  "pos": "adjective"
+ },
+ {
+  "id": "westward-adv",
+  "headword": "westward",
+  "pos": "adverb"
+ },
+ {
+  "id": "wetland-n",
+  "headword": "wetland",
+  "pos": "noun"
+ },
+ {
+  "id": "whale-n",
+  "headword": "whale",
+  "pos": "noun"
+ },
+ {
+  "id": "whatever-pron",
+  "headword": "whatever",
+  "pos": "pronoun"
+ },
+ {
+  "id": "whenever-adv",
+  "headword": "whenever",
+  "pos": "adverb"
+ },
+ {
+  "id": "whenever-conj",
+  "headword": "whenever",
+  "pos": "conjunction"
+ },
+ {
+  "id": "wherever-conj",
+  "headword": "wherever",
+  "pos": "conjunction"
+ },
+ {
+  "id": "whether-conj",
+  "headword": "whether",
+  "pos": "conjunction"
+ },
+ {
+  "id": "whichever-det",
+  "headword": "whichever",
+  "pos": "determiner"
+ },
+ {
+  "id": "while-n",
+  "headword": "while",
+  "pos": "noun"
+ },
+ {
+  "id": "whisper-n",
+  "headword": "whisper",
+  "pos": "noun"
+ },
+ {
+  "id": "whistle-n",
+  "headword": "whistle",
+  "pos": "noun"
+ },
+ {
+  "id": "whoever-pron",
+  "headword": "whoever",
+  "pos": "pronoun"
+ },
+ {
+  "id": "whole-n",
+  "headword": "whole",
+  "pos": "noun"
+ },
+ {
+  "id": "widespread-adj",
+  "headword": "widespread",
+  "pos": "adjective"
+ },
+ {
+  "id": "wildlife-n",
+  "headword": "wildlife",
+  "pos": "noun"
+ },
+ {
+  "id": "wildly-adv",
+  "headword": "wildly",
+  "pos": "adverb"
+ },
+ {
+  "id": "willingness-n",
+  "headword": "willingness",
+  "pos": "noun"
+ },
+ {
+  "id": "windscreen-n",
+  "headword": "windscreen",
+  "pos": "noun",
+  "sourceTopics": [
+   "Media",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "windsurfing-n",
+  "headword": "windsurfing",
+  "pos": "noun",
+  "sourceTopics": [
+   "Leisure activities",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "wing-n",
+  "headword": "wing",
+  "pos": "noun"
+ },
+ {
+  "id": "wire-n",
+  "headword": "wire",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms"
+  ]
+ },
+ {
+  "id": "wither-v",
+  "headword": "wither",
+  "pos": "verb"
+ },
+ {
+  "id": "witness-v",
+  "headword": "witness",
+  "pos": "verb"
+ },
+ {
+  "id": "wizard-adj",
+  "headword": "wizard",
+  "pos": "adjective"
+ },
+ {
+  "id": "wonder-n",
+  "headword": "wonder",
+  "pos": "noun"
+ },
+ {
+  "id": "working-adj",
+  "headword": "working",
+  "pos": "adjective"
+ },
+ {
+  "id": "workout-n",
+  "headword": "workout",
+  "pos": "noun"
+ },
+ {
+  "id": "workplace-n",
+  "headword": "workplace",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Daily life"
+  ]
+ },
+ {
+  "id": "workshop-n",
+  "headword": "workshop",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "Education"
+  ]
+ },
+ {
+  "id": "worn-adj",
+  "headword": "worn",
+  "pos": "adjective"
+ },
+ {
+  "id": "worst-n",
+  "headword": "worst",
+  "pos": "noun"
+ },
+ {
+  "id": "worth-adj",
+  "headword": "worth",
+  "pos": "adjective"
+ },
+ {
+  "id": "worthwhile-adj",
+  "headword": "worthwhile",
+  "pos": "adjective"
+ },
+ {
+  "id": "worthy-adj",
+  "headword": "worthy",
+  "pos": "adjective"
+ },
+ {
+  "id": "wound-n",
+  "headword": "wound",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs"
+  ]
+ },
+ {
+  "id": "wrap-n",
+  "headword": "wrap",
+  "pos": "noun",
+  "sourceTopics": [
+   "Clothes",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "wrap-v",
+  "headword": "wrap",
+  "pos": "verb"
+ },
+ {
+  "id": "wrapping-n",
+  "headword": "wrapping",
+  "pos": "noun"
+ },
+ {
+  "id": "wrist-n",
+  "headword": "wrist",
+  "pos": "noun",
+  "sourceTopics": [
+   "Health and body care"
+  ]
+ },
+ {
+  "id": "wristwatch-n",
+  "headword": "wristwatch",
+  "pos": "noun",
+  "sourceTopics": [
+   "Clothes",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "written-adj",
+  "headword": "written",
+  "pos": "adjective"
+ },
+ {
+  "id": "yell-n",
+  "headword": "yell",
+  "pos": "noun"
+ },
+ {
+  "id": "yet-conj",
+  "headword": "yet",
+  "pos": "conjunction"
+ },
+ {
+  "id": "yoga-n",
+  "headword": "yoga",
+  "pos": "noun",
+  "sourceTopics": [
+   "Hobbies and pastimes",
+   "Free time, entertainment"
+  ]
+ }
+]

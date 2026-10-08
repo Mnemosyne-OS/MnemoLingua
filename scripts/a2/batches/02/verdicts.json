@@ -1,0 +1,388 @@
+{
+ "decoys": {
+  "caught": 6,
+  "total": 6,
+  "missed": []
+ },
+ "toReview": 1,
+ "cards": {
+  "audio-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "author-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "automatic-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "automatically-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "average-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "average-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "avoid-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "award-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "awful-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "back-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "background-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "badly-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "badminton-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "bake-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "balcony-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "balloon-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "bank-v": {
+   "check": "to-review",
+   "problems": [
+    "english: \"bank with a bank\" is repetitive and the verb sense is above A2"
+   ]
+  },
+  "banking-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "barbecue-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "barber-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "bargain-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "base-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "basic-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "basically-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "basket-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "batch-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "battery-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "bay-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "bear-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "beauty-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "been-be": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "beer-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "before-conj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "beg-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "beginner-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "beginning-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "behavior-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "being-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "belly-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "belong-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "belt-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "bench-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "bend-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "besides-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "better-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "beyond-prep": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "bill-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "bit-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "bite-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "blackboard-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "blame-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "blanket-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "blonde-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "blood-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "bloom-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "blow-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "board-game-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "boil-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "boiled-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "bonus-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "bookcase-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "bookshelf-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "bookshop-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "bored-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "boss-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "bother-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "bra-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "brainstorm-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "brake-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "branch-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "brand-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "brave-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "break-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "breeze-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "bride-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "brilliant-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "brown-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "budget-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "bug-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "bulb-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "burn-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "bury-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "bus-station-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "bus-stop-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "bush-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "businessman-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "businesswoman-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "cab-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "cafeteria-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "calendar-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "call-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "camp-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "camping-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "campus-n": {
+   "check": "two-pass",
+   "problems": []
+  }
+ }
+}

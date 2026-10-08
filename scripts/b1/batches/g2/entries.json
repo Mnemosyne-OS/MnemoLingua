@@ -1,0 +1,230 @@
+[
+ {
+  "id": "g3-61-1-a",
+  "headword": "TENSE/ASPECT: PRESENT PROGRESSIVE",
+  "pos": "grammar (NEG. DEC.)",
+  "theme": "g-present"
+ },
+ {
+  "id": "g3-61-1-b",
+  "headword": "TENSE/ASPECT: PRESENT PROGRESSIVE",
+  "pos": "grammar (NEG. DEC.)",
+  "theme": "g-present"
+ },
+ {
+  "id": "g3-67-a",
+  "headword": "TENSE/ASPECT: PAST PERFECT",
+  "pos": "grammar (AFF. DEC.)",
+  "theme": "g-past-future"
+ },
+ {
+  "id": "g3-67-b",
+  "headword": "TENSE/ASPECT: PAST PERFECT",
+  "pos": "grammar (AFF. DEC.)",
+  "theme": "g-past-future"
+ },
+ {
+  "id": "g3-121-a",
+  "headword": "MODAL/AUX: be able to",
+  "pos": "grammar (AFF. DEC.)",
+  "theme": "g-modals"
+ },
+ {
+  "id": "g3-121-b",
+  "headword": "MODAL/AUX: be able to",
+  "pos": "grammar (AFF. DEC.)",
+  "theme": "g-modals"
+ },
+ {
+  "id": "g3-124-1-a",
+  "headword": "MODAL/AUX: could",
+  "pos": "grammar (NEG. DEC.)",
+  "theme": "g-modals"
+ },
+ {
+  "id": "g3-124-1-b",
+  "headword": "MODAL/AUX: could",
+  "pos": "grammar (NEG. DEC.)",
+  "theme": "g-modals"
+ },
+ {
+  "id": "g3-132-a",
+  "headword": "MODAL/AUX: might",
+  "pos": "grammar",
+  "theme": "g-modals"
+ },
+ {
+  "id": "g3-132-b",
+  "headword": "MODAL/AUX: might",
+  "pos": "grammar",
+  "theme": "g-modals"
+ },
+ {
+  "id": "g3-136-1-a",
+  "headword": "MODAL/AUX: need (to)",
+  "pos": "grammar",
+  "theme": "g-modals"
+ },
+ {
+  "id": "g3-136-1-b",
+  "headword": "MODAL/AUX: need (to)",
+  "pos": "grammar",
+  "theme": "g-modals"
+ },
+ {
+  "id": "g3-140-a",
+  "headword": "MODAL/AUX: used to",
+  "pos": "grammar (AFF. DEC.)",
+  "theme": "g-modals"
+ },
+ {
+  "id": "g3-140-b",
+  "headword": "MODAL/AUX: used to",
+  "pos": "grammar (AFF. DEC.)",
+  "theme": "g-modals"
+ },
+ {
+  "id": "g3-99-a",
+  "headword": "BE to DO",
+  "pos": "grammar (AFF. DEC.)",
+  "theme": "g-modals"
+ },
+ {
+  "id": "g3-99-b",
+  "headword": "BE to DO",
+  "pos": "grammar (AFF. DEC.)",
+  "theme": "g-modals"
+ },
+ {
+  "id": "g3-22-a",
+  "headword": "POSSESSIVE PRONOUNS (except for 'his' and 'its')",
+  "pos": "grammar",
+  "theme": "g-words"
+ },
+ {
+  "id": "g3-22-b",
+  "headword": "POSSESSIVE PRONOUNS (except for 'his' and 'its')",
+  "pos": "grammar",
+  "theme": "g-words"
+ },
+ {
+  "id": "g3-27-a",
+  "headword": "RECIPROCAL PRONOUN: each other",
+  "pos": "grammar",
+  "theme": "g-words"
+ },
+ {
+  "id": "g3-27-b",
+  "headword": "RECIPROCAL PRONOUN: each other",
+  "pos": "grammar",
+  "theme": "g-words"
+ },
+ {
+  "id": "g3-31-a",
+  "headword": "-thing ADJ",
+  "pos": "grammar",
+  "theme": "g-words"
+ },
+ {
+  "id": "g3-31-b",
+  "headword": "-thing ADJ",
+  "pos": "grammar",
+  "theme": "g-words"
+ },
+ {
+  "id": "g3-51-a",
+  "headword": "INTENSIFIED COMPARATIVES: a lot/by far/even/far/much/still",
+  "pos": "grammar",
+  "theme": "g-compare"
+ },
+ {
+  "id": "g3-51-b",
+  "headword": "INTENSIFIED COMPARATIVES: a lot/by far/even/far/much/still",
+  "pos": "grammar",
+  "theme": "g-compare"
+ },
+ {
+  "id": "g3-93-a",
+  "headword": "TO-INFINITIVE: WITH NOTIONAL SUBJECT",
+  "pos": "grammar",
+  "theme": "g-sentences"
+ },
+ {
+  "id": "g3-93-b",
+  "headword": "TO-INFINITIVE: WITH NOTIONAL SUBJECT",
+  "pos": "grammar",
+  "theme": "g-sentences"
+ },
+ {
+  "id": "g3-149-a",
+  "headword": "here is/are",
+  "pos": "grammar (AFF. DEC.)",
+  "theme": "g-sentences"
+ },
+ {
+  "id": "g3-149-b",
+  "headword": "here is/are",
+  "pos": "grammar (AFF. DEC.)",
+  "theme": "g-sentences"
+ },
+ {
+  "id": "g3-167-a",
+  "headword": "WH-+to+INFINITIVE",
+  "pos": "grammar",
+  "theme": "g-sentences"
+ },
+ {
+  "id": "g3-167-b",
+  "headword": "WH-+to+INFINITIVE",
+  "pos": "grammar",
+  "theme": "g-sentences"
+ },
+ {
+  "id": "g3-186-a",
+  "headword": "RELATIVE ADVERB: WITHOUT ANTECEDENT",
+  "pos": "grammar",
+  "theme": "g-sentences"
+ },
+ {
+  "id": "g3-186-b",
+  "headword": "RELATIVE ADVERB: WITHOUT ANTECEDENT",
+  "pos": "grammar",
+  "theme": "g-sentences"
+ },
+ {
+  "id": "g3-203-a",
+  "headword": "INDIRECT QUESTION: ASK/REMIND/SHOW/TEACH/TELL",
+  "pos": "grammar",
+  "theme": "g-sentences"
+ },
+ {
+  "id": "g3-203-b",
+  "headword": "INDIRECT QUESTION: ASK/REMIND/SHOW/TEACH/TELL",
+  "pos": "grammar",
+  "theme": "g-sentences"
+ },
+ {
+  "id": "g3-213-a",
+  "headword": "PARTICIPIAL CONSTRUCTION: PRESENT PARTICIPLE",
+  "pos": "grammar ((SUBORDINATE CLAUSE) AFF. DEC.)",
+  "theme": "g-sentences"
+ },
+ {
+  "id": "g3-213-b",
+  "headword": "PARTICIPIAL CONSTRUCTION: PRESENT PARTICIPLE",
+  "pos": "grammar ((SUBORDINATE CLAUSE) AFF. DEC.)",
+  "theme": "g-sentences"
+ },
+ {
+  "id": "g3-82-a",
+  "headword": "PASSIVE: AUX",
+  "pos": "grammar (AFF. DEC.)",
+  "theme": "g-sentences"
+ },
+ {
+  "id": "g3-82-b",
+  "headword": "PASSIVE: AUX",
+  "pos": "grammar (AFF. DEC.)",
+  "theme": "g-sentences"
+ }
+]

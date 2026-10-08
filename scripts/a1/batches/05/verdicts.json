@@ -1,0 +1,392 @@
+{
+ "decoys": {
+  "caught": 6,
+  "total": 6,
+  "missed": []
+ },
+ "toReview": 1,
+ "cards": {
+  "grape-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "grass-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "gray-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "gray-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "great-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "green-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "greet-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "ground-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "group-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "grow-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "guest-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "guitar-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "guy-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "habit-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "had-have": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "hair-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "haircut-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "half-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "hall-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "hamburger-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "handsome-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "happen-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "happy-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "hard-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "hard-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "has-have": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "hat-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "have-have": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "have-to-modal": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "he-pron": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "headache-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "health-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "healthy-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "hear-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "heart-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "heavy-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "hello-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "help-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "her-det": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "her-pron": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "hers-pron": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "hi-interj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "hide-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "high-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "hill-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "him-pron": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "his-det": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "his-pron": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "history-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "hobby-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "hole-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "holiday-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "home-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "hometown-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "homework-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "hope-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "horse-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "hospital-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "hot-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "hotel-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "house-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "how-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "hungry-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "hurry-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "hurt-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "husband-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "i-pron": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "ice-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "ice-cream-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "idea-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "if-conj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "imagine-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "important-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "in-prep": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "information-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "inside-prep": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "interested-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "interesting-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "internet-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "interview-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "into-prep": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "introduce-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "is-be": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "island-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "it-pron": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "item-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "its-det": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "its-pron": {
+   "check": "to-review",
+   "problems": [
+    "english: in 'of its own' the word is a determiner, not a pronoun; the example does not show pronoun use"
+   ]
+  },
+  "jacket-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "january-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "jet-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "jewelry-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "job-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "join-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "judge-v": {
+   "check": "two-pass",
+   "problems": []
+  }
+ }
+}

@@ -1,0 +1,302 @@
+[
+ {
+  "id": "g-1-1-a",
+  "headword": "I am not",
+  "pos": "grammar (NEG. DEC.)",
+  "example": "I am not hungry."
+ },
+ {
+  "id": "g-1-1-b",
+  "headword": "I am not",
+  "pos": "grammar (NEG. DEC.)",
+  "example": "I am not at home today."
+ },
+ {
+  "id": "g-3-a",
+  "headword": "he/she is",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "She is my sister."
+ },
+ {
+  "id": "g-3-b",
+  "headword": "he/she is",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "He is a teacher."
+ },
+ {
+  "id": "g-5-a",
+  "headword": "they are",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "They are my friends."
+ },
+ {
+  "id": "g-5-b",
+  "headword": "they are",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "They are in the park."
+ },
+ {
+  "id": "g-10-a",
+  "headword": "It is",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "It is cold today."
+ },
+ {
+  "id": "g-10-b",
+  "headword": "It is",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "It is a big house."
+ },
+ {
+  "id": "g-58-1-a",
+  "headword": "TENSE/ASPECT: PRESENT (BE)",
+  "pos": "grammar (NEG. DEC.)",
+  "example": "My brother is not tall."
+ },
+ {
+  "id": "g-58-1-b",
+  "headword": "TENSE/ASPECT: PRESENT (BE)",
+  "pos": "grammar (NEG. DEC.)",
+  "example": "We are not late."
+ },
+ {
+  "id": "g-64-a",
+  "headword": "TENSE/ASPECT: PAST (BE)",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "I was tired yesterday."
+ },
+ {
+  "id": "g-64-b",
+  "headword": "TENSE/ASPECT: PAST (BE)",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "They were at school on Monday."
+ },
+ {
+  "id": "g-59-1-a",
+  "headword": "TENSE/ASPECT: PRESENT (lexical verbs)",
+  "pos": "grammar (NEG. DEC.)",
+  "example": "I don't like milk."
+ },
+ {
+  "id": "g-59-1-b",
+  "headword": "TENSE/ASPECT: PRESENT (lexical verbs)",
+  "pos": "grammar (NEG. DEC.)",
+  "example": "She doesn't play tennis."
+ },
+ {
+  "id": "g-60-a",
+  "headword": "TENSE/ASPECT: PRESENT (lexical verbs; third person & singular)",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "He lives in London."
+ },
+ {
+  "id": "g-60-b",
+  "headword": "TENSE/ASPECT: PRESENT (lexical verbs; third person & singular)",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "My mother works in a shop."
+ },
+ {
+  "id": "g-123-a",
+  "headword": "MODAL/AUX: can",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "I can swim."
+ },
+ {
+  "id": "g-123-b",
+  "headword": "MODAL/AUX: can",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "My sister can speak English."
+ },
+ {
+  "id": "g-146-a",
+  "headword": "there+be",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "There is a cat in the garden."
+ },
+ {
+  "id": "g-146-b",
+  "headword": "there+be",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "There are two books on the table."
+ },
+ {
+  "id": "g-120-a",
+  "headword": "let's (not followed by 'not')",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "Let's go to the park."
+ },
+ {
+  "id": "g-120-b",
+  "headword": "let's (not followed by 'not')",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "Let's eat lunch now."
+ },
+ {
+  "id": "g-7-a",
+  "headword": "me/us/him/her/them (except for 'you' and 'it')",
+  "pos": "grammar",
+  "example": "Please help me."
+ },
+ {
+  "id": "g-7-b",
+  "headword": "me/us/him/her/them (except for 'you' and 'it')",
+  "pos": "grammar",
+  "example": "I see them every day."
+ },
+ {
+  "id": "g-14-a",
+  "headword": "DEFINITE ARTICLES",
+  "pos": "grammar",
+  "example": "The sun is hot."
+ },
+ {
+  "id": "g-14-b",
+  "headword": "DEFINITE ARTICLES",
+  "pos": "grammar",
+  "example": "Close the door, please."
+ },
+ {
+  "id": "g-16-a",
+  "headword": "DETERMINER: no",
+  "pos": "grammar",
+  "example": "I have no money."
+ },
+ {
+  "id": "g-16-b",
+  "headword": "DETERMINER: no",
+  "pos": "grammar",
+  "example": "There is no milk in the fridge."
+ },
+ {
+  "id": "g-24-a",
+  "headword": "INDEFINITE PRONOUNS",
+  "pos": "grammar",
+  "example": "Someone is at the door."
+ },
+ {
+  "id": "g-24-b",
+  "headword": "INDEFINITE PRONOUNS",
+  "pos": "grammar",
+  "example": "I want something to drink."
+ },
+ {
+  "id": "g-33-a",
+  "headword": "ADVERBS: INTENSIFIERS: extremely/greatly/really/so/terribly/too/unbelievably/very",
+  "pos": "grammar",
+  "example": "This soup is very hot."
+ },
+ {
+  "id": "g-33-b",
+  "headword": "ADVERBS: INTENSIFIERS: extremely/greatly/really/so/terribly/too/unbelievably/very",
+  "pos": "grammar",
+  "example": "I am really happy today."
+ },
+ {
+  "id": "g-38-a",
+  "headword": "COMPARATIVE OF SUPERIORITY: -er",
+  "pos": "grammar",
+  "example": "My brother is taller than me."
+ },
+ {
+  "id": "g-38-b",
+  "headword": "COMPARATIVE OF SUPERIORITY: -er",
+  "pos": "grammar",
+  "example": "A car is faster than a bike."
+ },
+ {
+  "id": "g-235-a",
+  "headword": "WH- QUESTION: Why ...?",
+  "pos": "grammar (AFF. INT./NEG. INT.)",
+  "example": "Why are you sad?"
+ },
+ {
+  "id": "g-235-b",
+  "headword": "WH- QUESTION: Why ...?",
+  "pos": "grammar (AFF. INT./NEG. INT.)",
+  "example": "Why don't you like cats?"
+ },
+ {
+  "id": "g-245-a",
+  "headword": "WH- QUESTION: Where ...?",
+  "pos": "grammar (AFF. INT./NEG. INT.)",
+  "example": "Where is my bag?"
+ },
+ {
+  "id": "g-245-b",
+  "headword": "WH- QUESTION: Where ...?",
+  "pos": "grammar (AFF. INT./NEG. INT.)",
+  "example": "Where do you live?"
+ },
+ {
+  "id": "g-247-a",
+  "headword": "WH- QUESTION: How ADJ/ADV ...?",
+  "pos": "grammar (AFF. INT./NEG. INT.)",
+  "example": "How old are you?"
+ },
+ {
+  "id": "g-247-b",
+  "headword": "WH- QUESTION: How ADJ/ADV ...?",
+  "pos": "grammar (AFF. INT./NEG. INT.)",
+  "example": "How tall is your father?"
+ },
+ {
+  "id": "g-150-a",
+  "headword": "COORDINATING CONJUNCTIONS",
+  "pos": "grammar",
+  "example": "I like tea and coffee."
+ },
+ {
+  "id": "g-150-b",
+  "headword": "COORDINATING CONJUNCTIONS",
+  "pos": "grammar",
+  "example": "She is tired, but she is happy."
+ },
+ {
+  "id": "g-161-a",
+  "headword": "SUBORDINATE CLAUSE: after/albeit/although/because/before/despite/except/for/lest/like/once/since/so/than/though/till/unless/until/where/whereas/wheresoever/whether/while/whilst tagged as IN",
+  "pos": "grammar",
+  "example": "I stay home because I am sick."
+ },
+ {
+  "id": "g-161-b",
+  "headword": "SUBORDINATE CLAUSE: after/albeit/although/because/before/despite/except/for/lest/like/once/since/so/than/though/till/unless/until/where/whereas/wheresoever/whether/while/whilst tagged as IN",
+  "pos": "grammar",
+  "example": "Wash your hands before you eat."
+ },
+ {
+  "id": "g-88-a",
+  "headword": "TO-INFINITIVE: to DO (not preceded by 'not')",
+  "pos": "grammar",
+  "example": "I want to sleep."
+ },
+ {
+  "id": "g-88-b",
+  "headword": "TO-INFINITIVE: to DO (not preceded by 'not')",
+  "pos": "grammar",
+  "example": "She goes to the shop to buy bread."
+ },
+ {
+  "id": "g-103-a",
+  "headword": "VERB OBJECT to DO",
+  "pos": "grammar",
+  "example": "My mother wants me to study."
+ },
+ {
+  "id": "g-103-b",
+  "headword": "VERB OBJECT to DO",
+  "pos": "grammar",
+  "example": "I asked him to help me."
+ },
+ {
+  "id": "g-112-a",
+  "headword": "VERB V-ING",
+  "pos": "grammar",
+  "example": "I like reading books."
+ },
+ {
+  "id": "g-112-b",
+  "headword": "VERB V-ING",
+  "pos": "grammar",
+  "example": "He loves playing football."
+ }
+]

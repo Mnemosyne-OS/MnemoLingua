@@ -1,0 +1,242 @@
+[
+ {
+  "id": "g3-60-1-a",
+  "headword": "TENSE/ASPECT: PRESENT (lexical verbs; third person & singular)",
+  "pos": "grammar (NEG. DEC.)",
+  "example": "My brother doesn't eat meat."
+ },
+ {
+  "id": "g3-60-1-b",
+  "headword": "TENSE/ASPECT: PRESENT (lexical verbs; third person & singular)",
+  "pos": "grammar (NEG. DEC.)",
+  "example": "This shop doesn't open on Sundays."
+ },
+ {
+  "id": "g3-62-1-a",
+  "headword": "TENSE/ASPECT: PRESENT PERFECT",
+  "pos": "grammar (NEG. DEC.)",
+  "example": "I haven't finished my homework yet."
+ },
+ {
+  "id": "g3-62-1-b",
+  "headword": "TENSE/ASPECT: PRESENT PERFECT",
+  "pos": "grammar (NEG. DEC.)",
+  "example": "She has never been to London."
+ },
+ {
+  "id": "g3-69-1-a",
+  "headword": "TENSE/ASPECT: FUTURE",
+  "pos": "grammar (NEG. DEC.)",
+  "example": "We won't be home before midnight."
+ },
+ {
+  "id": "g3-69-1-b",
+  "headword": "TENSE/ASPECT: FUTURE",
+  "pos": "grammar (NEG. DEC.)",
+  "example": "They aren't going to sell their house this year."
+ },
+ {
+  "id": "g3-124-a",
+  "headword": "MODAL/AUX: could",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "You could take the bus if it starts raining."
+ },
+ {
+  "id": "g3-124-b",
+  "headword": "MODAL/AUX: could",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "When I was five, I could already swim."
+ },
+ {
+  "id": "g3-129-a",
+  "headword": "MODAL/AUX: may",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "It may snow in the mountains tomorrow."
+ },
+ {
+  "id": "g3-129-b",
+  "headword": "MODAL/AUX: may",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "You may use my computer while I'm away."
+ },
+ {
+  "id": "g3-135-a",
+  "headword": "MODAL/AUX: must",
+  "pos": "grammar",
+  "example": "You must wear a helmet on a motorbike."
+ },
+ {
+  "id": "g3-135-b",
+  "headword": "MODAL/AUX: must",
+  "pos": "grammar",
+  "example": "She must be tired after such a long journey."
+ },
+ {
+  "id": "g3-139-1-a",
+  "headword": "MODAL/AUX: should",
+  "pos": "grammar (NEG. DEC.)",
+  "example": "You shouldn't drink coffee late in the evening."
+ },
+ {
+  "id": "g3-139-1-b",
+  "headword": "MODAL/AUX: should",
+  "pos": "grammar (NEG. DEC.)",
+  "example": "Children shouldn't play near the road."
+ },
+ {
+  "id": "g3-141-1-a",
+  "headword": "MODAL/AUX: will",
+  "pos": "grammar (NEG. DEC.)",
+  "example": "Don't worry, I won't tell anyone your secret."
+ },
+ {
+  "id": "g3-141-1-b",
+  "headword": "MODAL/AUX: will",
+  "pos": "grammar (NEG. DEC.)",
+  "example": "The car won't start this morning."
+ },
+ {
+  "id": "g3-12-a",
+  "headword": "These/Those N",
+  "pos": "grammar (AFF. DEC./NEG. DEC.)",
+  "example": "These shoes are more comfortable than my old ones."
+ },
+ {
+  "id": "g3-12-b",
+  "headword": "These/Those N",
+  "pos": "grammar (AFF. DEC./NEG. DEC.)",
+  "example": "Those flowers in the garden aren't real."
+ },
+ {
+  "id": "g3-23-a",
+  "headword": "REFLEXIVE PRONOUNS",
+  "pos": "grammar",
+  "example": "He cut himself while he was cooking dinner."
+ },
+ {
+  "id": "g3-23-b",
+  "headword": "REFLEXIVE PRONOUNS",
+  "pos": "grammar",
+  "example": "We painted the kitchen ourselves."
+ },
+ {
+  "id": "g3-29-a",
+  "headword": "PRONOUN: others (excluding 'the",
+  "pos": "grammar",
+  "example": "Some people like the sea, but others prefer the mountains."
+ },
+ {
+  "id": "g3-29-b",
+  "headword": "PRONOUN: others (excluding 'the",
+  "pos": "grammar",
+  "example": "Be kind to others and they will help you."
+ },
+ {
+  "id": "g3-34-a",
+  "headword": "ADVERBS OF ATTITUDES: apparently/clearly/fortunately/frankly/unfortunately",
+  "pos": "grammar",
+  "example": "Fortunately, nobody was hurt in the accident."
+ },
+ {
+  "id": "g3-34-b",
+  "headword": "ADVERBS OF ATTITUDES: apparently/clearly/fortunately/frankly/unfortunately",
+  "pos": "grammar",
+  "example": "Unfortunately, the museum is closed on Mondays."
+ },
+ {
+  "id": "g3-89-a",
+  "headword": "TO-INFINITIVE: not to DO",
+  "pos": "grammar",
+  "example": "I decided not to buy the expensive jacket."
+ },
+ {
+  "id": "g3-89-b",
+  "headword": "TO-INFINITIVE: not to DO",
+  "pos": "grammar",
+  "example": "Try not to forget your keys again."
+ },
+ {
+  "id": "g3-117-1-a",
+  "headword": "IMPERATIVE: AFFIRMATIVE (lexical verbs)",
+  "pos": "grammar (NEG. IMP)",
+  "example": "Don't touch the oven, it's very hot."
+ },
+ {
+  "id": "g3-117-1-b",
+  "headword": "IMPERATIVE: AFFIRMATIVE (lexical verbs)",
+  "pos": "grammar (NEG. IMP)",
+  "example": "Don't open the window during the storm."
+ },
+ {
+  "id": "g3-153-a",
+  "headword": "know/wonder+WH-(CLAUSE) (except for 'whether')",
+  "pos": "grammar",
+  "example": "Do you know where the station is?"
+ },
+ {
+  "id": "g3-153-b",
+  "headword": "know/wonder+WH-(CLAUSE) (except for 'whether')",
+  "pos": "grammar",
+  "example": "I wonder why she didn't call me back."
+ },
+ {
+  "id": "g3-181-a",
+  "headword": "RELATIVE PRONOUN: NONRESTRICTIVE",
+  "pos": "grammar",
+  "example": "My sister, who lives in Paris, is a doctor."
+ },
+ {
+  "id": "g3-181-b",
+  "headword": "RELATIVE PRONOUN: NONRESTRICTIVE",
+  "pos": "grammar",
+  "example": "We stayed at the Grand Hotel, which has a lovely pool."
+ },
+ {
+  "id": "g3-201-a",
+  "headword": "INDIRECT SPEECH: TELL",
+  "pos": "grammar",
+  "example": "She told me that she was moving to Spain."
+ },
+ {
+  "id": "g3-201-b",
+  "headword": "INDIRECT SPEECH: TELL",
+  "pos": "grammar",
+  "example": "The teacher told us the test would be easy."
+ },
+ {
+  "id": "g3-209-a",
+  "headword": "ASK/TELL+NP+to+INFINITIVE",
+  "pos": "grammar",
+  "example": "My mother asked me to buy some bread."
+ },
+ {
+  "id": "g3-209-b",
+  "headword": "ASK/TELL+NP+to+INFINITIVE",
+  "pos": "grammar",
+  "example": "The doctor told him to stay in bed."
+ },
+ {
+  "id": "g3-215-a",
+  "headword": "CONDITIONAL: SECOND",
+  "pos": "grammar ((SUBORDINATE CLAUSE) AFF. DEC.)",
+  "example": "If I had more money, I would travel around the world."
+ },
+ {
+  "id": "g3-215-b",
+  "headword": "CONDITIONAL: SECOND",
+  "pos": "grammar ((SUBORDINATE CLAUSE) AFF. DEC.)",
+  "example": "If she lived closer, we would see her more often."
+ },
+ {
+  "id": "g3-87-a",
+  "headword": "GET+PAST PARTICIPLE",
+  "pos": "grammar",
+  "example": "My bike got stolen outside the library."
+ },
+ {
+  "id": "g3-87-b",
+  "headword": "GET+PAST PARTICIPLE",
+  "pos": "grammar",
+  "example": "They got married last summer."
+ }
+]

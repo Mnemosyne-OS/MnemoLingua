@@ -1,0 +1,952 @@
+{
+  "bare-adj": {
+    "gloss": {
+      "fr": "nu",
+      "es": "desnudo"
+    },
+    "exampleGloss": {
+      "fr": "Les murs de sa chambre étaient nus, sans aucun tableau.",
+      "es": "Las paredes de su habitación estaban desnudas, sin ningún cuadro."
+    }
+  },
+  "barely-adv": {
+    "gloss": {
+      "fr": "à peine",
+      "es": "apenas"
+    },
+    "exampleGloss": {
+      "fr": "J'étais si fatigué que je pouvais à peine garder les yeux ouverts.",
+      "es": "Estaba tan cansado que apenas podía mantener los ojos abiertos."
+    }
+  },
+  "bark-n": {
+    "gloss": {
+      "fr": "l'écorce",
+      "es": "la corteza"
+    },
+    "exampleGloss": {
+      "fr": "L'écorce de ce vieil arbre est épaisse et rugueuse.",
+      "es": "La corteza de este árbol viejo es gruesa y áspera."
+    }
+  },
+  "barman-n": {
+    "gloss": {
+      "fr": "le barman",
+      "es": "el camarero"
+    },
+    "exampleGloss": {
+      "fr": "Le barman nous a servi deux verres de jus d'orange.",
+      "es": "El camarero nos sirvió dos vasos de zumo de naranja."
+    }
+  },
+  "barrel-n": {
+    "gloss": {
+      "fr": "le tonneau",
+      "es": "el barril"
+    },
+    "exampleGloss": {
+      "fr": "Le fermier garde l'eau de pluie dans un grand tonneau en bois.",
+      "es": "El granjero guarda el agua de lluvia en un gran barril de madera."
+    }
+  },
+  "base-v": {
+    "gloss": {
+      "fr": "baser",
+      "es": "basar"
+    },
+    "exampleGloss": {
+      "fr": "Le film est basé sur une histoire vraie.",
+      "es": "La película está basada en una historia real."
+    }
+  },
+  "basement-n": {
+    "gloss": {
+      "fr": "le sous-sol",
+      "es": "el sótano"
+    },
+    "exampleGloss": {
+      "fr": "Nous rangeons nos vieux vélos au sous-sol.",
+      "es": "Guardamos las bicis viejas en el sótano."
+    }
+  },
+  "basin-n": {
+    "gloss": {
+      "fr": "la cuvette",
+      "es": "el lavabo"
+    },
+    "exampleGloss": {
+      "fr": "Elle a rempli la cuvette d'eau chaude pour se laver le visage.",
+      "es": "Llenó el lavabo de agua caliente para lavarse la cara."
+    }
+  },
+  "basis-n": {
+    "gloss": {
+      "fr": "la base",
+      "es": "la base"
+    },
+    "exampleGloss": {
+      "fr": "Ses recherches constituent la base de notre nouveau projet.",
+      "es": "Su investigación sirve de base para nuestro nuevo proyecto."
+    }
+  },
+  "bat-v": {
+    "gloss": {
+      "fr": "être à la batte",
+      "es": "batear"
+    },
+    "exampleGloss": {
+      "fr": "Au cricket, chaque équipe passe à la batte à tour de rôle.",
+      "es": "En el críquet, cada equipo batea por turnos."
+    }
+  },
+  "bathe-v": {
+    "gloss": {
+      "fr": "se baigner",
+      "es": "bañarse"
+    },
+    "exampleGloss": {
+      "fr": "Les enfants se baignent dans le lac chaque été.",
+      "es": "Los niños se bañan en el lago todos los veranos."
+    }
+  },
+  "battle-n": {
+    "gloss": {
+      "fr": "la bataille",
+      "es": "la batalla"
+    },
+    "exampleGloss": {
+      "fr": "Beaucoup de soldats sont morts dans la bataille près de la rivière.",
+      "es": "Muchos soldados murieron en la batalla cerca del río."
+    }
+  },
+  "beard-n": {
+    "gloss": {
+      "fr": "la barbe",
+      "es": "la barba"
+    },
+    "exampleGloss": {
+      "fr": "Mon grand-père a une longue barbe blanche.",
+      "es": "Mi abuelo tiene una larga barba blanca."
+    }
+  },
+  "beast-n": {
+    "gloss": {
+      "fr": "la bête",
+      "es": "la bestia"
+    },
+    "exampleGloss": {
+      "fr": "Dans l'histoire, une bête terrible vivait dans la forêt.",
+      "es": "En el cuento, una bestia terrible vivía en el bosque."
+    }
+  },
+  "beat-v": {
+    "gloss": {
+      "fr": "battre",
+      "es": "ganar a"
+    },
+    "exampleGloss": {
+      "fr": "Notre équipe a battu les champions deux buts à un.",
+      "es": "Nuestro equipo ganó a los campeones por dos goles a uno."
+    }
+  },
+  "beautifully-adv": {
+    "gloss": {
+      "fr": "merveilleusement",
+      "es": "maravillosamente"
+    },
+    "exampleGloss": {
+      "fr": "Elle chante merveilleusement bien, et tout le monde adore l'écouter.",
+      "es": "Canta maravillosamente y a todo el mundo le encanta escucharla."
+    }
+  },
+  "beaver-n": {
+    "gloss": {
+      "fr": "le castor",
+      "es": "el castor"
+    },
+    "exampleGloss": {
+      "fr": "Le castor utilise ses dents puissantes pour abattre des arbres.",
+      "es": "El castor usa sus fuertes dientes para talar árboles."
+    }
+  },
+  "because-of-prep": {
+    "gloss": {
+      "fr": "à cause de",
+      "es": "a causa de"
+    },
+    "exampleGloss": {
+      "fr": "Le match a été annulé à cause de la forte pluie.",
+      "es": "El partido se suspendió a causa de la lluvia intensa."
+    }
+  },
+  "bedside-n": {
+    "gloss": {
+      "fr": "le chevet",
+      "es": "junto a la cama"
+    },
+    "exampleGloss": {
+      "fr": "Il est resté à son chevet toute la nuit quand elle était malade.",
+      "es": "Se quedó junto a su cama toda la noche cuando estaba enferma."
+    }
+  },
+  "behalf-n": {
+    "gloss": {
+      "fr": "au nom de",
+      "es": "en nombre de"
+    },
+    "exampleGloss": {
+      "fr": "Je vous écris au nom de ma sœur, qui est malade.",
+      "es": "Le escribo en nombre de mi hermana, que está enferma."
+    }
+  },
+  "behave-v": {
+    "gloss": {
+      "fr": "se comporter",
+      "es": "portarse"
+    },
+    "exampleGloss": {
+      "fr": "Les enfants se sont très bien comportés au restaurant.",
+      "es": "Los niños se portaron muy bien en el restaurante."
+    }
+  },
+  "belief-n": {
+    "gloss": {
+      "fr": "la croyance",
+      "es": "la creencia"
+    },
+    "exampleGloss": {
+      "fr": "C'est une croyance répandue que les carottes aident à mieux voir.",
+      "es": "Es una creencia común que las zanahorias ayudan a ver mejor."
+    }
+  },
+  "beloved-adj": {
+    "gloss": {
+      "fr": "bien-aimé",
+      "es": "querido"
+    },
+    "exampleGloss": {
+      "fr": "Il est retourné dans son village bien-aimé après de nombreuses années à l'étranger.",
+      "es": "Volvió a su querido pueblo después de muchos años en el extranjero."
+    }
+  },
+  "beneath-prep": {
+    "gloss": {
+      "fr": "sous",
+      "es": "debajo de"
+    },
+    "exampleGloss": {
+      "fr": "Le chat dormait sous la table de la cuisine.",
+      "es": "El gato dormía debajo de la mesa de la cocina."
+    }
+  },
+  "benefit-n": {
+    "gloss": {
+      "fr": "l'avantage",
+      "es": "la ventaja"
+    },
+    "exampleGloss": {
+      "fr": "L'un des avantages d'aller au travail à vélo, c'est que ça garde en forme.",
+      "es": "Una ventaja de ir al trabajo en bici es que te mantiene en forma."
+    }
+  },
+  "bent-adj": {
+    "gloss": {
+      "fr": "tordu",
+      "es": "doblado"
+    },
+    "exampleGloss": {
+      "fr": "Le vieux clou était tordu, donc je n'ai pas pu l'utiliser.",
+      "es": "El clavo viejo estaba doblado, así que no pude usarlo."
+    }
+  },
+  "besides-prep": {
+    "gloss": {
+      "fr": "en plus de",
+      "es": "además de"
+    },
+    "exampleGloss": {
+      "fr": "En plus de l'anglais, elle parle aussi français et allemand.",
+      "es": "Además de inglés, también habla francés y alemán."
+    }
+  },
+  "bet-v": {
+    "gloss": {
+      "fr": "parier",
+      "es": "apostar"
+    },
+    "exampleGloss": {
+      "fr": "J'ai parié dix euros avec mon frère que notre équipe gagnerait.",
+      "es": "Le aposté diez euros a mi hermano a que ganaba nuestro equipo."
+    }
+  },
+  "bilingual-adj": {
+    "gloss": {
+      "fr": "bilingue",
+      "es": "bilingüe"
+    },
+    "exampleGloss": {
+      "fr": "Leurs enfants sont bilingues parce qu'ils parlent espagnol et anglais à la maison.",
+      "es": "Sus hijos son bilingües porque hablan español e inglés en casa."
+    }
+  },
+  "bill-v": {
+    "gloss": {
+      "fr": "facturer",
+      "es": "cobrar"
+    },
+    "exampleGloss": {
+      "fr": "L'hôtel vous facturera la nuit supplémentaire.",
+      "es": "El hotel le cobrará la noche extra."
+    }
+  },
+  "bin-n": {
+    "gloss": {
+      "fr": "la poubelle",
+      "es": "el contenedor"
+    },
+    "exampleGloss": {
+      "fr": "Merci de mettre vos bouteilles vides dans la poubelle verte.",
+      "es": "Por favor, tirad las botellas vacías al contenedor verde."
+    }
+  },
+  "biochemistry-n": {
+    "gloss": {
+      "fr": "la biochimie",
+      "es": "la bioquímica"
+    },
+    "exampleGloss": {
+      "fr": "Mon cousin étudie la biochimie à l'université.",
+      "es": "Mi primo estudia Bioquímica en la universidad."
+    }
+  },
+  "biography-n": {
+    "gloss": {
+      "fr": "la biographie",
+      "es": "la biografía"
+    },
+    "exampleGloss": {
+      "fr": "Je lis une biographie d'un scientifique célèbre.",
+      "es": "Estoy leyendo una biografía de un científico famoso."
+    }
+  },
+  "biology-n": {
+    "gloss": {
+      "fr": "la biologie",
+      "es": "la biología"
+    },
+    "exampleGloss": {
+      "fr": "En cours de biologie, nous avons appris comment les plantes fabriquent leur nourriture.",
+      "es": "En clase de biología aprendimos cómo las plantas producen su alimento."
+    }
+  },
+  "bishop-n": {
+    "gloss": {
+      "fr": "l'évêque",
+      "es": "el obispo"
+    },
+    "exampleGloss": {
+      "fr": "L'évêque a prononcé un discours dans la vieille cathédrale.",
+      "es": "El obispo dio un discurso en la antigua catedral."
+    }
+  },
+  "bite-v": {
+    "gloss": {
+      "fr": "mordre",
+      "es": "morder"
+    },
+    "exampleGloss": {
+      "fr": "Attention, ce chien pourrait te mordre.",
+      "es": "Cuidado, ese perro te puede morder."
+    }
+  },
+  "bitter-adj": {
+    "gloss": {
+      "fr": "amer",
+      "es": "amargo"
+    },
+    "exampleGloss": {
+      "fr": "Ce café a un goût amer sans sucre.",
+      "es": "Este café sabe amargo sin azúcar."
+    }
+  },
+  "blame-n": {
+    "gloss": {
+      "fr": "la responsabilité",
+      "es": "la culpa"
+    },
+    "exampleGloss": {
+      "fr": "Le directeur a assumé la responsabilité de l'erreur de l'équipe.",
+      "es": "El gerente asumió la culpa del error del equipo."
+    }
+  },
+  "bleed-v": {
+    "gloss": {
+      "fr": "saigner",
+      "es": "sangrar"
+    },
+    "exampleGloss": {
+      "fr": "Ton genou saigne, laisse-moi le nettoyer.",
+      "es": "Te sangra la rodilla, deja que te la limpie."
+    }
+  },
+  "blend-v": {
+    "gloss": {
+      "fr": "mixer",
+      "es": "batir"
+    },
+    "exampleGloss": {
+      "fr": "Mixez les bananes et le lait pour faire un smoothie.",
+      "es": "Bate los plátanos con la leche para hacer un batido."
+    }
+  },
+  "bless-v": {
+    "gloss": {
+      "fr": "bénir",
+      "es": "bendecir"
+    },
+    "exampleGloss": {
+      "fr": "Le prêtre a béni le jeune couple à leur mariage.",
+      "es": "El sacerdote bendijo a la joven pareja en su boda."
+    }
+  },
+  "blessing-n": {
+    "gloss": {
+      "fr": "la bénédiction",
+      "es": "la bendición"
+    },
+    "exampleGloss": {
+      "fr": "Une bonne santé est une bénédiction qu'il ne faut pas oublier.",
+      "es": "La buena salud es una bendición que no debemos olvidar."
+    }
+  },
+  "blind-adj": {
+    "gloss": {
+      "fr": "aveugle",
+      "es": "ciego"
+    },
+    "exampleGloss": {
+      "fr": "L'aveugle marchait avec son chien guide.",
+      "es": "El hombre ciego caminaba con su perro guía."
+    }
+  },
+  "block-v": {
+    "gloss": {
+      "fr": "bloquer",
+      "es": "bloquear"
+    },
+    "exampleGloss": {
+      "fr": "Un arbre tombé a bloqué la route après la tempête.",
+      "es": "Un árbol caído bloqueó la carretera después de la tormenta."
+    }
+  },
+  "blog-n": {
+    "gloss": {
+      "fr": "le blog",
+      "es": "el blog"
+    },
+    "exampleGloss": {
+      "fr": "Elle tient un blog sur ses voyages avec son chien.",
+      "es": "Escribe un blog sobre sus viajes con su perro."
+    }
+  },
+  "blogger-n": {
+    "gloss": {
+      "fr": "le blogueur",
+      "es": "el bloguero"
+    },
+    "exampleGloss": {
+      "fr": "Le blogueur publie une nouvelle recette chaque lundi.",
+      "es": "El bloguero publica una receta nueva cada lunes."
+    }
+  },
+  "blush-n": {
+    "gloss": {
+      "fr": "la rougeur",
+      "es": "el rubor"
+    },
+    "exampleGloss": {
+      "fr": "Une rougeur est apparue sur son visage quand il lui a souri.",
+      "es": "Le subió el rubor a la cara cuando él le sonrió."
+    }
+  },
+  "board-v": {
+    "gloss": {
+      "fr": "embarquer",
+      "es": "embarcar"
+    },
+    "exampleGloss": {
+      "fr": "Les passagers peuvent embarquer dans l'avion à la porte douze.",
+      "es": "Los pasajeros pueden embarcar en el avión por la puerta doce."
+    }
+  },
+  "boast-v": {
+    "gloss": {
+      "fr": "se vanter",
+      "es": "presumir"
+    },
+    "exampleGloss": {
+      "fr": "Il se vante toujours de sa voiture de luxe.",
+      "es": "Siempre presume de su coche caro."
+    }
+  },
+  "bold-adj": {
+    "gloss": {
+      "fr": "audacieux",
+      "es": "audaz"
+    },
+    "exampleGloss": {
+      "fr": "C'était une décision audacieuse de quitter son travail pour voyager.",
+      "es": "Fue una decisión audaz dejar su trabajo y viajar."
+    }
+  },
+  "boldly-adv": {
+    "gloss": {
+      "fr": "avec audace",
+      "es": "con audacia"
+    },
+    "exampleGloss": {
+      "fr": "Le jeune joueur a demandé avec audace une chance à l'entraîneur.",
+      "es": "El joven jugador le pidió con audacia una oportunidad al entrenador."
+    }
+  },
+  "bomb-n": {
+    "gloss": {
+      "fr": "la bombe",
+      "es": "la bomba"
+    },
+    "exampleGloss": {
+      "fr": "La police a trouvé une bombe près de la gare et l'a fermée.",
+      "es": "La policía encontró una bomba cerca de la estación y la cerró."
+    }
+  },
+  "bomb-v": {
+    "gloss": {
+      "fr": "bombarder",
+      "es": "bombardear"
+    },
+    "exampleGloss": {
+      "fr": "Des avions ennemis ont bombardé la ville pendant la guerre.",
+      "es": "Aviones enemigos bombardearon la ciudad durante la guerra."
+    }
+  },
+  "bond-n": {
+    "gloss": {
+      "fr": "le lien",
+      "es": "el vínculo"
+    },
+    "exampleGloss": {
+      "fr": "Il existe un lien fort entre les deux sœurs.",
+      "es": "Hay un vínculo muy fuerte entre las dos hermanas."
+    }
+  },
+  "book-v": {
+    "gloss": {
+      "fr": "réserver",
+      "es": "reservar"
+    },
+    "exampleGloss": {
+      "fr": "J'ai réservé une table pour quatre au restaurant italien.",
+      "es": "He reservado una mesa para cuatro en el restaurante italiano."
+    }
+  },
+  "booking-n": {
+    "gloss": {
+      "fr": "la réservation",
+      "es": "la reserva"
+    },
+    "exampleGloss": {
+      "fr": "Nous avons fait une réservation pour deux nuits à l'hôtel.",
+      "es": "Hicimos una reserva de dos noches en el hotel."
+    }
+  },
+  "boom-n": {
+    "gloss": {
+      "fr": "l'essor",
+      "es": "el auge"
+    },
+    "exampleGloss": {
+      "fr": "Le tourisme a connu un essor après l'ouverture du nouvel aéroport.",
+      "es": "Hubo un auge del turismo después de que abriera el nuevo aeropuerto."
+    }
+  },
+  "boot-n": {
+    "gloss": {
+      "fr": "la botte",
+      "es": "la bota"
+    },
+    "exampleGloss": {
+      "fr": "Mets tes bottes, il neige dehors.",
+      "es": "Ponte las botas, que está nevando."
+    }
+  },
+  "border-n": {
+    "gloss": {
+      "fr": "la frontière",
+      "es": "la frontera"
+    },
+    "exampleGloss": {
+      "fr": "Nous avons montré nos passeports en passant la frontière.",
+      "es": "Enseñamos el pasaporte al cruzar la frontera."
+    }
+  },
+  "bore-v": {
+    "gloss": {
+      "fr": "ennuyer",
+      "es": "aburrir"
+    },
+    "exampleGloss": {
+      "fr": "Ses longues histoires de pêche ennuient tout le monde au dîner.",
+      "es": "Sus largas historias de pesca aburren a todos en la cena."
+    }
+  },
+  "boredom-n": {
+    "gloss": {
+      "fr": "l'ennui",
+      "es": "el aburrimiento"
+    },
+    "exampleGloss": {
+      "fr": "J'ai commencé à dessiner pendant les longs trajets en train pour lutter contre l'ennui.",
+      "es": "Empecé a dibujar en los viajes largos en tren para combatir el aburrimiento."
+    }
+  },
+  "bother-n": {
+    "gloss": {
+      "fr": "les ennuis",
+      "es": "los problemas"
+    },
+    "exampleGloss": {
+      "fr": "Nous avons eu beaucoup d'ennuis avec la voiture l'hiver dernier.",
+      "es": "Tuvimos muchos problemas con el coche el invierno pasado."
+    }
+  },
+  "bounce-v": {
+    "gloss": {
+      "fr": "rebondir",
+      "es": "botar"
+    },
+    "exampleGloss": {
+      "fr": "Le ballon a rebondi deux fois avant d'entrer dans le but.",
+      "es": "El balón botó dos veces antes de entrar en la portería."
+    }
+  },
+  "bound-adj": {
+    "gloss": {
+      "fr": "sûr de",
+      "es": "seguro que"
+    },
+    "exampleGloss": {
+      "fr": "Il travaille tellement qu'il est sûr de réussir.",
+      "es": "Trabaja tanto que seguro que tendrá éxito."
+    }
+  },
+  "bow-n": {
+    "gloss": {
+      "fr": "l'arc",
+      "es": "el arco"
+    },
+    "exampleGloss": {
+      "fr": "Il s'entraîne avec un arc et des flèches chaque week-end.",
+      "es": "Practica con arco y flechas todos los fines de semana."
+    }
+  },
+  "bowl-v": {
+    "gloss": {
+      "fr": "lancer",
+      "es": "lanzar"
+    },
+    "exampleGloss": {
+      "fr": "Au cricket, il a lancé la balle très vite.",
+      "es": "En el críquet, lanzó la pelota muy rápido."
+    }
+  },
+  "boxing-n": {
+    "gloss": {
+      "fr": "la boxe",
+      "es": "el boxeo"
+    },
+    "exampleGloss": {
+      "fr": "Mon frère fait de la boxe deux fois par semaine pour rester en forme.",
+      "es": "Mi hermano hace boxeo dos veces por semana para mantenerse en forma."
+    }
+  },
+  "bracelet-n": {
+    "gloss": {
+      "fr": "le bracelet",
+      "es": "la pulsera"
+    },
+    "exampleGloss": {
+      "fr": "Elle portait un bracelet en argent au poignet.",
+      "es": "Llevaba una pulsera de plata en la muñeca."
+    }
+  },
+  "brainstorming-n": {
+    "gloss": {
+      "fr": "le remue-méninges",
+      "es": "la lluvia de ideas"
+    },
+    "exampleGloss": {
+      "fr": "Nous avons fait un remue-méninges pour trouver des idées pour la fête de l'école.",
+      "es": "Hicimos una lluvia de ideas para la fiesta del colegio."
+    }
+  },
+  "branch-v": {
+    "gloss": {
+      "fr": "se diviser",
+      "es": "bifurcarse"
+    },
+    "exampleGloss": {
+      "fr": "Après le pont, la route se divise en deux chemins plus petits.",
+      "es": "Después del puente, la carretera se bifurca en dos caminos más pequeños."
+    }
+  },
+  "brand-new-adj": {
+    "gloss": {
+      "fr": "tout neuf",
+      "es": "flamante"
+    },
+    "exampleGloss": {
+      "fr": "Il est allé au travail ce matin avec sa voiture toute neuve.",
+      "es": "Esta mañana fue al trabajo con su flamante coche nuevo."
+    }
+  },
+  "brass-n": {
+    "gloss": {
+      "fr": "le laiton",
+      "es": "el latón"
+    },
+    "exampleGloss": {
+      "fr": "La vieille poignée de porte est en laiton.",
+      "es": "El viejo pomo de la puerta es de latón."
+    }
+  },
+  "bravely-adv": {
+    "gloss": {
+      "fr": "courageusement",
+      "es": "valientemente"
+    },
+    "exampleGloss": {
+      "fr": "Le pompier s'est courageusement précipité dans la maison en flammes.",
+      "es": "El bombero entró valientemente en la casa en llamas."
+    }
+  },
+  "breakthrough-n": {
+    "gloss": {
+      "fr": "l'avancée",
+      "es": "el avance"
+    },
+    "exampleGloss": {
+      "fr": "Les médecins ont fait une avancée majeure dans la lutte contre le cancer.",
+      "es": "Los médicos lograron un gran avance en la lucha contra el cáncer."
+    }
+  },
+  "breast-n": {
+    "gloss": {
+      "fr": "la poitrine",
+      "es": "el pecho"
+    },
+    "exampleGloss": {
+      "fr": "La mère serrait le bébé contre sa poitrine.",
+      "es": "La madre tenía al bebé apretado contra el pecho."
+    }
+  },
+  "breath-n": {
+    "gloss": {
+      "fr": "la respiration",
+      "es": "la respiración"
+    },
+    "exampleGloss": {
+      "fr": "Prends une grande respiration avant de sauter dans l'eau.",
+      "es": "Haz una respiración profunda antes de saltar al agua."
+    }
+  },
+  "breathless-adj": {
+    "gloss": {
+      "fr": "essoufflé",
+      "es": "sin aliento"
+    },
+    "exampleGloss": {
+      "fr": "Après avoir monté l'escalier en courant, j'étais essoufflé.",
+      "es": "Después de subir las escaleras corriendo, me quedé sin aliento."
+    }
+  },
+  "breed-v": {
+    "gloss": {
+      "fr": "élever",
+      "es": "criar"
+    },
+    "exampleGloss": {
+      "fr": "Ce fermier élève des moutons et des chèvres dans les collines.",
+      "es": "Este granjero cría ovejas y cabras en las colinas."
+    }
+  },
+  "breeding-n": {
+    "gloss": {
+      "fr": "la reproduction",
+      "es": "la cría"
+    },
+    "exampleGloss": {
+      "fr": "Le zoo a un programme de reproduction pour des tigres rares.",
+      "es": "El zoo tiene un programa de cría de tigres poco comunes."
+    }
+  },
+  "brick-n": {
+    "gloss": {
+      "fr": "la brique",
+      "es": "el ladrillo"
+    },
+    "exampleGloss": {
+      "fr": "La vieille école est construite en brique rouge.",
+      "es": "La antigua escuela está construida con ladrillo rojo."
+    }
+  },
+  "brief-adj": {
+    "gloss": {
+      "fr": "bref",
+      "es": "breve"
+    },
+    "exampleGloss": {
+      "fr": "Le professeur a donné une brève explication avant le contrôle.",
+      "es": "El profesor dio una breve explicación antes del examen."
+    }
+  },
+  "briefly-adv": {
+    "gloss": {
+      "fr": "brièvement",
+      "es": "brevemente"
+    },
+    "exampleGloss": {
+      "fr": "Elle a parlé brièvement de son voyage puis s'est assise.",
+      "es": "Habló brevemente de su viaje y luego se sentó."
+    }
+  },
+  "brightly-adv": {
+    "gloss": {
+      "fr": "fort",
+      "es": "con fuerza"
+    },
+    "exampleGloss": {
+      "fr": "Le soleil brillait fort sur la plage.",
+      "es": "El sol brillaba con fuerza sobre la playa."
+    }
+  },
+  "broad-adj": {
+    "gloss": {
+      "fr": "large",
+      "es": "ancho"
+    },
+    "exampleGloss": {
+      "fr": "La rivière est très large près de la mer.",
+      "es": "El río es muy ancho cerca del mar."
+    }
+  },
+  "broadcast-n": {
+    "gloss": {
+      "fr": "la retransmission",
+      "es": "la retransmisión"
+    },
+    "exampleGloss": {
+      "fr": "Nous avons regardé la retransmission en direct du concert à la télé.",
+      "es": "Vimos la retransmisión en directo del concierto en la tele."
+    }
+  },
+  "broccoli-n": {
+    "gloss": {
+      "fr": "le brocoli",
+      "es": "el brócoli"
+    },
+    "exampleGloss": {
+      "fr": "Faites cuire le brocoli à la vapeur pendant cinq minutes jusqu'à ce qu'il soit tendre.",
+      "es": "Cuece el brócoli al vapor cinco minutos hasta que esté tierno."
+    }
+  },
+  "bronze-n": {
+    "gloss": {
+      "fr": "le bronze",
+      "es": "el bronce"
+    },
+    "exampleGloss": {
+      "fr": "La statue sur la place est en bronze.",
+      "es": "La estatua de la plaza es de bronce."
+    }
+  },
+  "brotherhood-n": {
+    "gloss": {
+      "fr": "la fraternité",
+      "es": "la fraternidad"
+    },
+    "exampleGloss": {
+      "fr": "Il y a un fort sentiment de fraternité dans notre village.",
+      "es": "En nuestro pueblo hay un fuerte sentimiento de fraternidad."
+    }
+  },
+  "bubble-n": {
+    "gloss": {
+      "fr": "la bulle",
+      "es": "la burbuja"
+    },
+    "exampleGloss": {
+      "fr": "De petites bulles sont montées à la surface du verre d'eau.",
+      "es": "Unas burbujitas subieron a la superficie del vaso de agua."
+    }
+  },
+  "buddy-n": {
+    "gloss": {
+      "fr": "le pote",
+      "es": "el colega"
+    },
+    "exampleGloss": {
+      "fr": "Il est allé au cinéma avec son vieux pote d'école.",
+      "es": "Fue al cine con su viejo colega del colegio."
+    }
+  },
+  "builder-n": {
+    "gloss": {
+      "fr": "le maçon",
+      "es": "el albañil"
+    },
+    "exampleGloss": {
+      "fr": "Le maçon a terminé notre nouvelle cuisine en deux semaines.",
+      "es": "El albañil terminó nuestra cocina nueva en dos semanas."
+    }
+  },
+  "bull-n": {
+    "gloss": {
+      "fr": "le taureau",
+      "es": "el toro"
+    },
+    "exampleGloss": {
+      "fr": "Le taureau dans le champ avait l'air grand et dangereux.",
+      "es": "El toro del prado parecía grande y peligroso."
+    }
+  },
+  "bullet-n": {
+    "gloss": {
+      "fr": "la balle",
+      "es": "la bala"
+    },
+    "exampleGloss": {
+      "fr": "La police a trouvé une balle dans le mur de la maison.",
+      "es": "La policía encontró una bala en la pared de la casa."
+    }
+  },
+  "bulletin-n": {
+    "gloss": {
+      "fr": "le journal",
+      "es": "el boletín informativo"
+    },
+    "exampleGloss": {
+      "fr": "Nous avons appris la nouvelle au journal du soir.",
+      "es": "Oímos la noticia en el boletín informativo de la noche."
+    }
+  },
+  "bump-v": {
+    "gloss": {
+      "fr": "se cogner",
+      "es": "darse un golpe"
+    },
+    "exampleGloss": {
+      "fr": "Je me suis cogné la tête contre la porte basse.",
+      "es": "Me di un golpe en la cabeza con la puerta baja."
+    }
+  }
+}

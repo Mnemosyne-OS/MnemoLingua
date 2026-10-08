@@ -1,0 +1,392 @@
+{
+ "decoys": {
+  "caught": 6,
+  "total": 6,
+  "missed": []
+ },
+ "toReview": 1,
+ "cards": {
+  "bare-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "barely-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "bark-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "barman-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "barrel-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "base-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "basement-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "basin-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "basis-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "bat-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "bathe-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "battle-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "beard-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "beast-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "beat-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "beautifully-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "beaver-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "because-of-prep": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "bedside-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "behalf-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "behave-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "belief-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "beloved-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "beneath-prep": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "benefit-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "bent-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "besides-prep": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "bet-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "bilingual-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "bill-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "bin-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "biochemistry-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "biography-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "biology-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "bishop-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "bite-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "bitter-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "blame-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "bleed-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "blend-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "bless-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "blessing-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "blind-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "block-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "blog-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "blogger-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "blush-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "board-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "boast-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "bold-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "boldly-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "bomb-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "bomb-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "bond-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "book-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "booking-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "boom-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "boot-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "border-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "bore-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "boredom-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "bother-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "bounce-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "bound-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "bow-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "bowl-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "boxing-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "bracelet-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "brainstorming-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "branch-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "brand-new-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "brass-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "bravely-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "breakthrough-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "breast-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "breath-n": {
+   "check": "to-review",
+   "problems": [
+    "es example: unnatural calque 'haz una respiración profunda'; a native says 'respira hondo' / 'coge aire'"
+   ]
+  },
+  "breathless-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "breed-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "breeding-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "brick-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "brief-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "briefly-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "brightly-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "broad-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "broadcast-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "broccoli-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "bronze-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "brotherhood-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "bubble-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "buddy-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "builder-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "bull-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "bullet-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "bulletin-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "bump-v": {
+   "check": "two-pass",
+   "problems": []
+  }
+ }
+}

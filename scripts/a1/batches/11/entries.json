@@ -1,0 +1,552 @@
+[
+ {
+  "id": "until-prep",
+  "headword": "until",
+  "pos": "preposition"
+ },
+ {
+  "id": "up-prep",
+  "headword": "up",
+  "pos": "preposition"
+ },
+ {
+  "id": "us-pron",
+  "headword": "us",
+  "pos": "pronoun"
+ },
+ {
+  "id": "use-v",
+  "headword": "use",
+  "pos": "verb"
+ },
+ {
+  "id": "usually-adv",
+  "headword": "usually",
+  "pos": "adverb"
+ },
+ {
+  "id": "vacation-n",
+  "headword": "vacation",
+  "pos": "noun",
+  "sourceTopics": [
+   "Holidays",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "vase-n",
+  "headword": "vase",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "vegetable-n",
+  "headword": "vegetable",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "very-adv",
+  "headword": "very",
+  "pos": "adverb"
+ },
+ {
+  "id": "video-n",
+  "headword": "video",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "visit-v",
+  "headword": "visit",
+  "pos": "verb"
+ },
+ {
+  "id": "volleyball-n",
+  "headword": "volleyball",
+  "pos": "noun",
+  "sourceTopics": [
+   "Leisure activities",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "vote-n",
+  "headword": "vote",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs"
+  ]
+ },
+ {
+  "id": "wait-v",
+  "headword": "wait",
+  "pos": "verb"
+ },
+ {
+  "id": "waiter-n",
+  "headword": "waiter",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "waitress-n",
+  "headword": "waitress",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "wake-n",
+  "headword": "wake",
+  "pos": "noun"
+ },
+ {
+  "id": "walk-n",
+  "headword": "walk",
+  "pos": "noun",
+  "sourceTopics": [
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "walk-v",
+  "headword": "walk",
+  "pos": "verb"
+ },
+ {
+  "id": "wall-n",
+  "headword": "wall",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "war-n",
+  "headword": "war",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs",
+   "Relations with other people"
+  ]
+ },
+ {
+  "id": "warm-adj",
+  "headword": "warm",
+  "pos": "adjective"
+ },
+ {
+  "id": "was-be",
+  "headword": "was",
+  "pos": "be-verb"
+ },
+ {
+  "id": "wash-n",
+  "headword": "wash",
+  "pos": "noun",
+  "sourceTopics": [
+   "Daily life"
+  ]
+ },
+ {
+  "id": "wash-v",
+  "headword": "wash",
+  "pos": "verb"
+ },
+ {
+  "id": "watch-n",
+  "headword": "watch",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "watch-v",
+  "headword": "watch",
+  "pos": "verb"
+ },
+ {
+  "id": "water-n",
+  "headword": "water",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "way-n",
+  "headword": "way",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel"
+  ]
+ },
+ {
+  "id": "we-pron",
+  "headword": "we",
+  "pos": "pronoun"
+ },
+ {
+  "id": "weather-n",
+  "headword": "weather",
+  "pos": "noun",
+  "sourceTopics": [
+   "Weather"
+  ]
+ },
+ {
+  "id": "wednesday-n",
+  "headword": "Wednesday",
+  "pos": "noun"
+ },
+ {
+  "id": "week-n",
+  "headword": "week",
+  "pos": "noun"
+ },
+ {
+  "id": "weekend-n",
+  "headword": "weekend",
+  "pos": "noun"
+ },
+ {
+  "id": "welcome-interj",
+  "headword": "welcome",
+  "pos": "interjection"
+ },
+ {
+  "id": "welcome-v",
+  "headword": "welcome",
+  "pos": "verb"
+ },
+ {
+  "id": "well-adj",
+  "headword": "well",
+  "pos": "adjective"
+ },
+ {
+  "id": "well-adv",
+  "headword": "well",
+  "pos": "adverb"
+ },
+ {
+  "id": "were-be",
+  "headword": "were",
+  "pos": "be-verb"
+ },
+ {
+  "id": "what-det",
+  "headword": "what",
+  "pos": "determiner"
+ },
+ {
+  "id": "wheel-n",
+  "headword": "wheel",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel"
+  ]
+ },
+ {
+  "id": "when-adv",
+  "headword": "when",
+  "pos": "adverb"
+ },
+ {
+  "id": "when-conj",
+  "headword": "when",
+  "pos": "conjunction"
+ },
+ {
+  "id": "where-adv",
+  "headword": "where",
+  "pos": "adverb"
+ },
+ {
+  "id": "where-conj",
+  "headword": "where",
+  "pos": "conjunction"
+ },
+ {
+  "id": "which-det",
+  "headword": "which",
+  "pos": "determiner"
+ },
+ {
+  "id": "which-pron",
+  "headword": "which",
+  "pos": "pronoun"
+ },
+ {
+  "id": "white-adj",
+  "headword": "white",
+  "pos": "adjective"
+ },
+ {
+  "id": "white-n",
+  "headword": "white",
+  "pos": "noun",
+  "sourceTopics": [
+   "Colours"
+  ]
+ },
+ {
+  "id": "who-pron",
+  "headword": "who",
+  "pos": "pronoun"
+ },
+ {
+  "id": "whose-det",
+  "headword": "whose",
+  "pos": "determiner"
+ },
+ {
+  "id": "whose-pron",
+  "headword": "whose",
+  "pos": "pronoun"
+ },
+ {
+  "id": "why-adv",
+  "headword": "why",
+  "pos": "adverb"
+ },
+ {
+  "id": "wife-n",
+  "headword": "wife",
+  "pos": "noun",
+  "sourceTopics": [
+   "Family life",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "will-modal",
+  "headword": "will",
+  "pos": "modal auxiliary"
+ },
+ {
+  "id": "win-v",
+  "headword": "win",
+  "pos": "verb"
+ },
+ {
+  "id": "wind-n",
+  "headword": "wind",
+  "pos": "noun",
+  "sourceTopics": [
+   "Weather"
+  ]
+ },
+ {
+  "id": "window-n",
+  "headword": "window",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "winter-n",
+  "headword": "winter",
+  "pos": "noun"
+ },
+ {
+  "id": "wish-n",
+  "headword": "wish",
+  "pos": "noun"
+ },
+ {
+  "id": "with-prep",
+  "headword": "with",
+  "pos": "preposition"
+ },
+ {
+  "id": "woman-n",
+  "headword": "woman",
+  "pos": "noun",
+  "sourceTopics": [
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "wonderful-adj",
+  "headword": "wonderful",
+  "pos": "adjective"
+ },
+ {
+  "id": "word-n",
+  "headword": "word",
+  "pos": "noun",
+  "sourceTopics": [
+   "Books and literature",
+   "Services"
+  ]
+ },
+ {
+  "id": "work-n",
+  "headword": "work",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Daily life"
+  ]
+ },
+ {
+  "id": "work-v",
+  "headword": "work",
+  "pos": "verb"
+ },
+ {
+  "id": "worker-n",
+  "headword": "worker",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "world-n",
+  "headword": "world",
+  "pos": "noun",
+  "sourceTopics": [
+   "Nationalities and countries",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "worry-n",
+  "headword": "worry",
+  "pos": "noun"
+ },
+ {
+  "id": "would-modal",
+  "headword": "would",
+  "pos": "modal auxiliary"
+ },
+ {
+  "id": "write-v",
+  "headword": "write",
+  "pos": "verb"
+ },
+ {
+  "id": "writer-n",
+  "headword": "writer",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "wrong-adj",
+  "headword": "wrong",
+  "pos": "adjective"
+ },
+ {
+  "id": "yard-n",
+  "headword": "yard",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "year-n",
+  "headword": "year",
+  "pos": "noun"
+ },
+ {
+  "id": "yellow-adj",
+  "headword": "yellow",
+  "pos": "adjective"
+ },
+ {
+  "id": "yellow-n",
+  "headword": "yellow",
+  "pos": "noun",
+  "sourceTopics": [
+   "Colours"
+  ]
+ },
+ {
+  "id": "yes-adv",
+  "headword": "yes",
+  "pos": "adverb"
+ },
+ {
+  "id": "yesterday-adv",
+  "headword": "yesterday",
+  "pos": "adverb"
+ },
+ {
+  "id": "yet-adv",
+  "headword": "yet",
+  "pos": "adverb"
+ },
+ {
+  "id": "yogurt-n",
+  "headword": "yogurt",
+  "pos": "noun",
+  "variants": [
+   "yoghurt"
+  ],
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "you-pron",
+  "headword": "you",
+  "pos": "pronoun"
+ },
+ {
+  "id": "young-adj",
+  "headword": "young",
+  "pos": "adjective"
+ },
+ {
+  "id": "your-det",
+  "headword": "your",
+  "pos": "determiner"
+ },
+ {
+  "id": "yours-pron",
+  "headword": "yours",
+  "pos": "pronoun"
+ },
+ {
+  "id": "yourself-pron",
+  "headword": "yourself",
+  "pos": "pronoun"
+ },
+ {
+  "id": "zoo-n",
+  "headword": "zoo",
+  "pos": "noun",
+  "sourceTopics": [
+   "Places"
+  ]
+ }
+]

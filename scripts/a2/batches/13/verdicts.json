@@ -1,0 +1,390 @@
+{
+ "decoys": {
+  "caught": 6,
+  "total": 6,
+  "missed": []
+ },
+ "toReview": 2,
+ "cards": {
+  "sink-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "sitting-room-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "situation-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "skate-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "skateboarding-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "skating-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "ski-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "skiing-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "slave-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "sleepless-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "sleepy-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "slice-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "slide-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "slim-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "slowly-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "smoke-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "smooth-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "smoothly-adv": {
+   "check": "to-review",
+   "problems": [
+    "es example: unnatural: 'fue sin problemas'; say 'salió bien' or 'transcurrió sin problemas'"
+   ]
+  },
+  "snack-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "snow-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "snowboarding-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "so-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "soap-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "society-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "sock-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "soda-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "soft-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "soft-drink-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "softly-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "software-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "soldier-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "solution-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "somebody-pron": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "someday-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "somewhere-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "sound-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "sound-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "source-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "south-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "south-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "south-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "space-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "spaceship-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "spaghetti-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "speaker-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "specific-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "speed-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "spell-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "spill-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "splash-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "split-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "spoon-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "sports-center-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "spread-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "square-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "square-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "stadium-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "staff-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "stair-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "stamp-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "stand-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "state-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "statement-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "statue-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "steak-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "steal-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "step-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "still-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "stomach-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "stomachache-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "storm-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "stove-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "straight-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "stranger-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "strategy-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "strength-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "strike-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "string-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "strongly-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "structure-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "study-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "stuff-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "style-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "succeed-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "success-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "successfully-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "such-det": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "such-pron": {
+   "check": "to-review",
+   "problems": [
+    "english: 'as such' is above A1-A2 level"
+   ]
+  },
+  "sudden-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "suggest-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "suit-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "suit-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "suitable-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "suitcase-n": {
+   "check": "two-pass",
+   "problems": []
+  }
+ }
+}

@@ -1,0 +1,572 @@
+[
+ {
+  "id": "money-n",
+  "headword": "money",
+  "pos": "noun",
+  "example": "I do not have money for a new phone."
+ },
+ {
+  "id": "monkey-n",
+  "headword": "monkey",
+  "pos": "noun",
+  "example": "The monkey eats a banana in the tree."
+ },
+ {
+  "id": "month-n",
+  "headword": "month",
+  "pos": "noun",
+  "example": "January is the first month of the year."
+ },
+ {
+  "id": "moon-n",
+  "headword": "moon",
+  "pos": "noun",
+  "example": "At night, the moon is in the sky."
+ },
+ {
+  "id": "more-det",
+  "headword": "more",
+  "pos": "determiner",
+  "example": "I want more milk in my tea, please."
+ },
+ {
+  "id": "more-pron",
+  "headword": "more",
+  "pos": "pronoun",
+  "example": "This cake is very good. Can I have more?"
+ },
+ {
+  "id": "morning-n",
+  "headword": "morning",
+  "pos": "noun",
+  "example": "I have breakfast at seven in the morning."
+ },
+ {
+  "id": "most-det",
+  "headword": "most",
+  "pos": "determiner",
+  "example": "Most children like ice cream."
+ },
+ {
+  "id": "mother-n",
+  "headword": "mother",
+  "pos": "noun",
+  "example": "My mother is a teacher."
+ },
+ {
+  "id": "mountain-n",
+  "headword": "mountain",
+  "pos": "noun",
+  "example": "There is snow on the top of the mountain."
+ },
+ {
+  "id": "mouth-n",
+  "headword": "mouth",
+  "pos": "noun",
+  "example": "Open your mouth and eat your soup."
+ },
+ {
+  "id": "move-n",
+  "headword": "move",
+  "pos": "noun",
+  "example": "It is your move in the game now."
+ },
+ {
+  "id": "movie-n",
+  "headword": "movie",
+  "pos": "noun",
+  "example": "We watch a funny movie on Friday night."
+ },
+ {
+  "id": "mr-n",
+  "headword": "Mr.",
+  "pos": "noun",
+  "example": "Mr. Brown is my English teacher."
+ },
+ {
+  "id": "mrs-n",
+  "headword": "Mrs.",
+  "pos": "noun",
+  "example": "Mrs. Smith lives next to us."
+ },
+ {
+  "id": "much-adv",
+  "headword": "much",
+  "pos": "adverb",
+  "example": "I like this song very much."
+ },
+ {
+  "id": "much-det",
+  "headword": "much",
+  "pos": "determiner",
+  "example": "I do not have much time today."
+ },
+ {
+  "id": "much-pron",
+  "headword": "much",
+  "pos": "pronoun",
+  "example": "I am not hungry, so I do not eat much."
+ },
+ {
+  "id": "mum-n",
+  "headword": "mum",
+  "pos": "noun",
+  "example": "My mum makes pizza on Saturdays."
+ },
+ {
+  "id": "music-n",
+  "headword": "music",
+  "pos": "noun",
+  "example": "I listen to music in my room."
+ },
+ {
+  "id": "must-modal",
+  "headword": "must",
+  "pos": "modal auxiliary",
+  "example": "You must stop at a red light."
+ },
+ {
+  "id": "my-det",
+  "headword": "my",
+  "pos": "determiner",
+  "example": "This is my bag."
+ },
+ {
+  "id": "name-n",
+  "headword": "name",
+  "pos": "noun",
+  "example": "My name is Anna."
+ },
+ {
+  "id": "nationality-n",
+  "headword": "nationality",
+  "pos": "noun",
+  "example": "My nationality is French."
+ },
+ {
+  "id": "near-prep",
+  "headword": "near",
+  "pos": "preposition",
+  "example": "I live near the station."
+ },
+ {
+  "id": "neck-n",
+  "headword": "neck",
+  "pos": "noun",
+  "example": "She has a long scarf around her neck."
+ },
+ {
+  "id": "need-modal",
+  "headword": "need",
+  "pos": "modal auxiliary",
+  "example": "You need not pay. It is free."
+ },
+ {
+  "id": "neighbor-n",
+  "headword": "neighbor",
+  "pos": "noun",
+  "example": "My neighbor lives in the house next to mine."
+ },
+ {
+  "id": "never-adv",
+  "headword": "never",
+  "pos": "adverb",
+  "example": "I never drink coffee at night."
+ },
+ {
+  "id": "new-adj",
+  "headword": "new",
+  "pos": "adjective",
+  "example": "I have a new bike. It is not old."
+ },
+ {
+  "id": "newspaper-n",
+  "headword": "newspaper",
+  "pos": "noun",
+  "example": "My grandfather reads the newspaper every morning."
+ },
+ {
+  "id": "nice-adj",
+  "headword": "nice",
+  "pos": "adjective",
+  "example": "Your new teacher is very nice."
+ },
+ {
+  "id": "night-n",
+  "headword": "night",
+  "pos": "noun",
+  "example": "I sleep eight hours every night."
+ },
+ {
+  "id": "no-adv",
+  "headword": "no",
+  "pos": "adverb",
+  "example": "Are you hungry? No, I am not."
+ },
+ {
+  "id": "no-det",
+  "headword": "no",
+  "pos": "determiner",
+  "example": "There is no milk in the fridge."
+ },
+ {
+  "id": "noise-n",
+  "headword": "noise",
+  "pos": "noun",
+  "example": "The cars in the street make a lot of noise."
+ },
+ {
+  "id": "nose-n",
+  "headword": "nose",
+  "pos": "noun",
+  "example": "I smell the flowers with my nose."
+ },
+ {
+  "id": "not-adv",
+  "headword": "not",
+  "pos": "adverb",
+  "example": "I am not tired today."
+ },
+ {
+  "id": "note-n",
+  "headword": "note",
+  "pos": "noun",
+  "example": "Here is a ten-euro note for the bread."
+ },
+ {
+  "id": "note-v",
+  "headword": "note",
+  "pos": "verb",
+  "example": "Please note the date of the party."
+ },
+ {
+  "id": "nothing-pron",
+  "headword": "nothing",
+  "pos": "pronoun",
+  "example": "The box is empty. There is nothing in it."
+ },
+ {
+  "id": "november-n",
+  "headword": "November",
+  "pos": "noun",
+  "example": "My birthday is in November."
+ },
+ {
+  "id": "now-adv",
+  "headword": "now",
+  "pos": "adverb",
+  "example": "It is late. I go to bed now."
+ },
+ {
+  "id": "number-n",
+  "headword": "number",
+  "pos": "noun",
+  "example": "What is your phone number?"
+ },
+ {
+  "id": "nurse-n",
+  "headword": "nurse",
+  "pos": "noun",
+  "example": "The nurse helps the sick people in the hospital."
+ },
+ {
+  "id": "o-clock-adv",
+  "headword": "o'clock",
+  "pos": "adverb",
+  "example": "School starts at nine o'clock."
+ },
+ {
+  "id": "october-n",
+  "headword": "October",
+  "pos": "noun",
+  "example": "In October, the leaves are red and brown."
+ },
+ {
+  "id": "of-prep",
+  "headword": "of",
+  "pos": "preposition",
+  "example": "I drink a cup of tea."
+ },
+ {
+  "id": "off-adj",
+  "headword": "off",
+  "pos": "adjective",
+  "example": "The light is off. The room is dark."
+ },
+ {
+  "id": "office-n",
+  "headword": "office",
+  "pos": "noun",
+  "example": "My mother works in a big office."
+ },
+ {
+  "id": "often-adv",
+  "headword": "often",
+  "pos": "adverb",
+  "example": "I often play football with my friends."
+ },
+ {
+  "id": "ok-adj",
+  "headword": "OK",
+  "pos": "adjective",
+  "example": "I am OK, thank you. And you?"
+ },
+ {
+  "id": "ok-adv",
+  "headword": "OK",
+  "pos": "adverb",
+  "example": "My old computer still works OK."
+ },
+ {
+  "id": "old-adj",
+  "headword": "old",
+  "pos": "adjective",
+  "example": "My grandfather is old. He is ninety."
+ },
+ {
+  "id": "olympics-n",
+  "headword": "Olympics",
+  "pos": "noun",
+  "example": "I watch the Olympics on TV every four years."
+ },
+ {
+  "id": "on-prep",
+  "headword": "on",
+  "pos": "preposition",
+  "example": "The book is on the table."
+ },
+ {
+  "id": "once-adv",
+  "headword": "once",
+  "pos": "adverb",
+  "example": "I go swimming once a week."
+ },
+ {
+  "id": "one-det",
+  "headword": "one",
+  "pos": "determiner",
+  "example": "I have one brother and two sisters."
+ },
+ {
+  "id": "only-adj",
+  "headword": "only",
+  "pos": "adjective",
+  "example": "Tom is the only boy in the class."
+ },
+ {
+  "id": "only-adv",
+  "headword": "only",
+  "pos": "adverb",
+  "example": "I only drink water with my lunch."
+ },
+ {
+  "id": "open-v",
+  "headword": "open",
+  "pos": "verb",
+  "example": "Please open the window. It is hot."
+ },
+ {
+  "id": "opera-n",
+  "headword": "opera",
+  "pos": "noun",
+  "example": "We listen to an opera at the theatre."
+ },
+ {
+  "id": "or-conj",
+  "headword": "or",
+  "pos": "conjunction",
+  "example": "Do you want tea or coffee?"
+ },
+ {
+  "id": "orange-adj",
+  "headword": "orange",
+  "pos": "adjective",
+  "example": "I have an orange T-shirt."
+ },
+ {
+  "id": "orange-n",
+  "headword": "orange",
+  "pos": "noun",
+  "example": "I eat an orange every morning."
+ },
+ {
+  "id": "order-n",
+  "headword": "order",
+  "pos": "noun",
+  "example": "My order from the shop arrives today."
+ },
+ {
+  "id": "other-det",
+  "headword": "other",
+  "pos": "determiner",
+  "example": "My other sister lives in London."
+ },
+ {
+  "id": "our-det",
+  "headword": "our",
+  "pos": "determiner",
+  "example": "Our house has a big garden."
+ },
+ {
+  "id": "ours-pron",
+  "headword": "ours",
+  "pos": "pronoun",
+  "example": "That red car is ours."
+ },
+ {
+  "id": "out-adv",
+  "headword": "out",
+  "pos": "adverb",
+  "example": "My dad is out. He is at work."
+ },
+ {
+  "id": "over-prep",
+  "headword": "over",
+  "pos": "preposition",
+  "example": "The plane flies over the city."
+ },
+ {
+  "id": "own-adj",
+  "headword": "own",
+  "pos": "adjective",
+  "example": "I have my own room. I do not share it."
+ },
+ {
+  "id": "owner-n",
+  "headword": "owner",
+  "pos": "noun",
+  "example": "The owner of the shop is my uncle."
+ },
+ {
+  "id": "p-m-adv",
+  "headword": "p.m.",
+  "pos": "adverb",
+  "example": "The shop closes at 6 p.m."
+ },
+ {
+  "id": "page-n",
+  "headword": "page",
+  "pos": "noun",
+  "example": "Open your book at page ten."
+ },
+ {
+  "id": "paint-n",
+  "headword": "paint",
+  "pos": "noun",
+  "example": "I buy blue paint for my bedroom wall."
+ },
+ {
+  "id": "paint-v",
+  "headword": "paint",
+  "pos": "verb",
+  "example": "I paint a picture of my cat."
+ },
+ {
+  "id": "painting-n",
+  "headword": "painting",
+  "pos": "noun",
+  "example": "There is a beautiful painting on the wall."
+ },
+ {
+  "id": "pair-n",
+  "headword": "pair",
+  "pos": "noun",
+  "example": "I need a new pair of shoes."
+ },
+ {
+  "id": "palace-n",
+  "headword": "palace",
+  "pos": "noun",
+  "example": "The king and queen live in a big palace."
+ },
+ {
+  "id": "paper-n",
+  "headword": "paper",
+  "pos": "noun",
+  "example": "I write my name on a piece of paper."
+ },
+ {
+  "id": "paragraph-n",
+  "headword": "paragraph",
+  "pos": "noun",
+  "example": "Read the first paragraph of the text."
+ },
+ {
+  "id": "pardon-n",
+  "headword": "pardon",
+  "pos": "noun",
+  "example": "Pardon? Can you say that again, please?"
+ },
+ {
+  "id": "parent-n",
+  "headword": "parent",
+  "pos": "noun",
+  "example": "My parents live in a small town."
+ },
+ {
+  "id": "park-n",
+  "headword": "park",
+  "pos": "noun",
+  "example": "The children play in the park after school."
+ },
+ {
+  "id": "partner-n",
+  "headword": "partner",
+  "pos": "noun",
+  "example": "I live with my partner and our dog."
+ },
+ {
+  "id": "party-n",
+  "headword": "party",
+  "pos": "noun",
+  "example": "We have a birthday party on Saturday."
+ },
+ {
+  "id": "past-adv",
+  "headword": "past",
+  "pos": "adverb",
+  "example": "A bus goes past every ten minutes."
+ },
+ {
+  "id": "past-prep",
+  "headword": "past",
+  "pos": "preposition",
+  "example": "It is ten past five."
+ },
+ {
+  "id": "pay-n",
+  "headword": "pay",
+  "pos": "noun",
+  "example": "The pay in my new job is good."
+ },
+ {
+  "id": "peace-n",
+  "headword": "peace",
+  "pos": "noun",
+  "example": "The two countries want peace, not war."
+ },
+ {
+  "id": "pen-n",
+  "headword": "pen",
+  "pos": "noun",
+  "example": "I write a letter with a blue pen."
+ },
+ {
+  "id": "pencil-n",
+  "headword": "pencil",
+  "pos": "noun",
+  "example": "I draw a house with my pencil."
+ },
+ {
+  "id": "people-n",
+  "headword": "people",
+  "pos": "noun",
+  "example": "There are many people in the street today."
+ },
+ {
+  "id": "period-n",
+  "headword": "period",
+  "pos": "noun",
+  "example": "The first period at school is English."
+ }
+]

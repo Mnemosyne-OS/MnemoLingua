@@ -1,0 +1,398 @@
+{
+ "decoys": {
+  "caught": 6,
+  "total": 6,
+  "missed": []
+ },
+ "toReview": 4,
+ "cards": {
+  "stressful-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "stretch-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "stricken-adj": {
+   "check": "to-review",
+   "problems": [
+    "english: 'stricken' is above B1"
+   ]
+  },
+  "strike-v": {
+   "check": "to-review",
+   "problems": [
+    "es example: grammar: no personal 'a' before 'los árboles' ('alcanzar los árboles')"
+   ]
+  },
+  "strip-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "stripe-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "struggle-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "stubborn-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "stuck-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "studio-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "stuffed-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "stumble-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "stun-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "stunning-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "stupid-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "stylish-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "subconscious-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "submarine-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "substantial-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "substitute-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "suddenly-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "suffer-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "sufficient-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "suffix-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "suicide-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "summarize-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "summit-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "sunbathe-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "sundial-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "sunrise-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "sunset-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "superior-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "superstition-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "supply-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "support-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "supporter-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "supportive-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "suppose-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "supposedly-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "surely-adv": {
+   "check": "to-review",
+   "problems": [
+    "es word: wrong sense: 'seguramente' means 'probably', not incredulous 'surely'"
+   ]
+  },
+  "surface-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "surgeon-n": {
+   "check": "to-review",
+   "problems": [
+    "fr example: unnatural: 'a opéré son cœur', say 'l'a opéré du cœur'"
+   ]
+  },
+  "surgery-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "surprise-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "surprisingly-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "surround-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "surrounding-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "survival-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "survivor-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "suspect-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "suspicion-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "swarm-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "swear-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "sweat-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "sweatshirt-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "swell-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "swimmer-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "switch-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "switch-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "swollen-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "sword-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "sympathy-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "symptom-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "syndrome-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "systematic-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "tablet-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "take-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "takeaway-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "takeoff-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "tale-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "talented-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "talk-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "talkative-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "tank-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "tape-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "taste-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "taste-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "tasteless-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "tasty-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "tax-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "teaching-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "teammate-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "teamwork-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "tear-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "tease-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "technique-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "technological-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "teen-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "telecommunications-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "telegram-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "teller-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "temper-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "temporary-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "tempt-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "tend-v": {
+   "check": "two-pass",
+   "problems": []
+  }
+ }
+}

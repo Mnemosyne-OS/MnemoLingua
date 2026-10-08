@@ -1,0 +1,582 @@
+[
+ {
+  "id": "anger-n",
+  "headword": "anger",
+  "pos": "noun"
+ },
+ {
+  "id": "angle-n",
+  "headword": "angle",
+  "pos": "noun"
+ },
+ {
+  "id": "animated-adj",
+  "headword": "animated",
+  "pos": "adjective"
+ },
+ {
+  "id": "animation-n",
+  "headword": "animation",
+  "pos": "noun",
+  "sourceTopics": [
+   "Hobbies and pastimes",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "announce-v",
+  "headword": "announce",
+  "pos": "verb"
+ },
+ {
+  "id": "announcement-n",
+  "headword": "announcement",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs"
+  ]
+ },
+ {
+  "id": "annoyance-n",
+  "headword": "annoyance",
+  "pos": "noun"
+ },
+ {
+  "id": "annoyed-adj",
+  "headword": "annoyed",
+  "pos": "adjective"
+ },
+ {
+  "id": "annual-adj",
+  "headword": "annual",
+  "pos": "adjective"
+ },
+ {
+  "id": "annually-adv",
+  "headword": "annually",
+  "pos": "adverb"
+ },
+ {
+  "id": "ant-n",
+  "headword": "ant",
+  "pos": "noun"
+ },
+ {
+  "id": "anti-adj",
+  "headword": "anti",
+  "pos": "adjective"
+ },
+ {
+  "id": "antique-n",
+  "headword": "antique",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "antonym-n",
+  "headword": "antonym",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education"
+  ]
+ },
+ {
+  "id": "anxiety-n",
+  "headword": "anxiety",
+  "pos": "noun"
+ },
+ {
+  "id": "anxiously-adv",
+  "headword": "anxiously",
+  "pos": "adverb"
+ },
+ {
+  "id": "anyhow-adv",
+  "headword": "anyhow",
+  "pos": "adverb"
+ },
+ {
+  "id": "ape-n",
+  "headword": "ape",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education"
+  ]
+ },
+ {
+  "id": "apology-n",
+  "headword": "apology",
+  "pos": "noun"
+ },
+ {
+  "id": "apparent-adj",
+  "headword": "apparent",
+  "pos": "adjective"
+ },
+ {
+  "id": "appeal-n",
+  "headword": "appeal",
+  "pos": "noun"
+ },
+ {
+  "id": "appetite-n",
+  "headword": "appetite",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "applaud-v",
+  "headword": "applaud",
+  "pos": "verb"
+ },
+ {
+  "id": "applause-n",
+  "headword": "applause",
+  "pos": "noun"
+ },
+ {
+  "id": "application-n",
+  "headword": "application",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs"
+  ]
+ },
+ {
+  "id": "appoint-v",
+  "headword": "appoint",
+  "pos": "verb"
+ },
+ {
+  "id": "appreciation-n",
+  "headword": "appreciation",
+  "pos": "noun"
+ },
+ {
+  "id": "approach-n",
+  "headword": "approach",
+  "pos": "noun"
+ },
+ {
+  "id": "approval-n",
+  "headword": "approval",
+  "pos": "noun"
+ },
+ {
+  "id": "approve-v",
+  "headword": "approve",
+  "pos": "verb"
+ },
+ {
+  "id": "approximately-adv",
+  "headword": "approximately",
+  "pos": "adverb"
+ },
+ {
+  "id": "architect-n",
+  "headword": "architect",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "arise-v",
+  "headword": "arise",
+  "pos": "verb"
+ },
+ {
+  "id": "arithmetic-n",
+  "headword": "arithmetic",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education"
+  ]
+ },
+ {
+  "id": "arm-v",
+  "headword": "arm",
+  "pos": "verb"
+ },
+ {
+  "id": "army-n",
+  "headword": "army",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Relations with other people"
+  ]
+ },
+ {
+  "id": "arrange-v",
+  "headword": "arrange",
+  "pos": "verb"
+ },
+ {
+  "id": "arrangement-n",
+  "headword": "arrangement",
+  "pos": "noun"
+ },
+ {
+  "id": "arrest-n",
+  "headword": "arrest",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs",
+   "Relations with other people"
+  ]
+ },
+ {
+  "id": "arrest-v",
+  "headword": "arrest",
+  "pos": "verb"
+ },
+ {
+  "id": "arrival-n",
+  "headword": "arrival",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel and services vocab",
+   "Travel"
+  ]
+ },
+ {
+  "id": "arrow-n",
+  "headword": "arrow",
+  "pos": "noun",
+  "sourceTopics": [
+   "Hobbies and pastimes",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "artist-n",
+  "headword": "artist",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "artistic-adj",
+  "headword": "artistic",
+  "pos": "adjective"
+ },
+ {
+  "id": "ashamed-adj",
+  "headword": "ashamed",
+  "pos": "adjective"
+ },
+ {
+  "id": "aside-adv",
+  "headword": "aside",
+  "pos": "adverb"
+ },
+ {
+  "id": "aspect-n",
+  "headword": "aspect",
+  "pos": "noun"
+ },
+ {
+  "id": "aspirin-n",
+  "headword": "aspirin",
+  "pos": "noun"
+ },
+ {
+  "id": "assign-v",
+  "headword": "assign",
+  "pos": "verb"
+ },
+ {
+  "id": "assignment-n",
+  "headword": "assignment",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education"
+  ]
+ },
+ {
+  "id": "assist-v",
+  "headword": "assist",
+  "pos": "verb"
+ },
+ {
+  "id": "assistance-n",
+  "headword": "assistance",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs"
+  ]
+ },
+ {
+  "id": "assistant-n",
+  "headword": "assistant",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "associate-v",
+  "headword": "associate",
+  "pos": "verb"
+ },
+ {
+  "id": "assume-v",
+  "headword": "assume",
+  "pos": "verb"
+ },
+ {
+  "id": "astronomer-n",
+  "headword": "astronomer",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "athletic-adj",
+  "headword": "athletic",
+  "pos": "adjective"
+ },
+ {
+  "id": "atlantic-adj",
+  "headword": "Atlantic",
+  "pos": "adjective"
+ },
+ {
+  "id": "atmosphere-n",
+  "headword": "atmosphere",
+  "pos": "noun"
+ },
+ {
+  "id": "atomic-adj",
+  "headword": "atomic",
+  "pos": "adjective"
+ },
+ {
+  "id": "attach-v",
+  "headword": "attach",
+  "pos": "verb"
+ },
+ {
+  "id": "attachment-n",
+  "headword": "attachment",
+  "pos": "noun"
+ },
+ {
+  "id": "attain-v",
+  "headword": "attain",
+  "pos": "verb"
+ },
+ {
+  "id": "attempt-v",
+  "headword": "attempt",
+  "pos": "verb"
+ },
+ {
+  "id": "attend-v",
+  "headword": "attend",
+  "pos": "verb"
+ },
+ {
+  "id": "attract-v",
+  "headword": "attract",
+  "pos": "verb"
+ },
+ {
+  "id": "attraction-n",
+  "headword": "attraction",
+  "pos": "noun"
+ },
+ {
+  "id": "authority-n",
+  "headword": "authority",
+  "pos": "noun"
+ },
+ {
+  "id": "auxiliary-adj",
+  "headword": "auxiliary",
+  "pos": "adjective"
+ },
+ {
+  "id": "available-adj",
+  "headword": "available",
+  "pos": "adjective"
+ },
+ {
+  "id": "avenue-n",
+  "headword": "avenue",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "award-v",
+  "headword": "award",
+  "pos": "verb"
+ },
+ {
+  "id": "aware-adj",
+  "headword": "aware",
+  "pos": "adjective"
+ },
+ {
+  "id": "awareness-n",
+  "headword": "awareness",
+  "pos": "noun"
+ },
+ {
+  "id": "awesome-adj",
+  "headword": "awesome",
+  "pos": "adjective"
+ },
+ {
+  "id": "awkward-adj",
+  "headword": "awkward",
+  "pos": "adjective"
+ },
+ {
+  "id": "babysit-v",
+  "headword": "babysit",
+  "pos": "verb"
+ },
+ {
+  "id": "babysitter-n",
+  "headword": "babysitter",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "back-v",
+  "headword": "back",
+  "pos": "verb"
+ },
+ {
+  "id": "backache-n",
+  "headword": "backache",
+  "pos": "noun"
+ },
+ {
+  "id": "backpack-n",
+  "headword": "backpack",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "backpacker-n",
+  "headword": "backpacker",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel and services vocab",
+   "Travel"
+  ]
+ },
+ {
+  "id": "backpacking-n",
+  "headword": "backpacking",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel and services vocab",
+   "Travel"
+  ]
+ },
+ {
+  "id": "bacon-n",
+  "headword": "bacon",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "baggage-n",
+  "headword": "baggage",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel and services vocab",
+   "Travel"
+  ]
+ },
+ {
+  "id": "baker-n",
+  "headword": "baker",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "bakery-n",
+  "headword": "bakery",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "balance-n",
+  "headword": "balance",
+  "pos": "noun"
+ },
+ {
+  "id": "bald-adj",
+  "headword": "bald",
+  "pos": "adjective"
+ },
+ {
+  "id": "bandage-n",
+  "headword": "bandage",
+  "pos": "noun"
+ },
+ {
+  "id": "bang-n",
+  "headword": "bang",
+  "pos": "noun"
+ },
+ {
+  "id": "bang-v",
+  "headword": "bang",
+  "pos": "verb"
+ },
+ {
+  "id": "bank-account-n",
+  "headword": "bank account",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel and services vocab",
+   "Travel"
+  ]
+ },
+ {
+  "id": "bar-v",
+  "headword": "bar",
+  "pos": "verb"
+ },
+ {
+  "id": "barbecue-v",
+  "headword": "barbecue",
+  "pos": "verb"
+ }
+]

@@ -1,0 +1,572 @@
+[
+ {
+  "id": "plenty-pron",
+  "headword": "plenty",
+  "pos": "pronoun",
+  "example": "Don't buy more bread. We have plenty at home."
+ },
+ {
+  "id": "plug-n",
+  "headword": "plug",
+  "pos": "noun",
+  "example": "The plug on this lamp doesn't fit the socket in Spain."
+ },
+ {
+  "id": "plus-conj",
+  "headword": "plus",
+  "pos": "conjunction",
+  "example": "The hotel was cheap, plus it was close to the beach."
+ },
+ {
+  "id": "pocket-money-n",
+  "headword": "pocket money",
+  "pos": "noun",
+  "example": "My parents give me ten euros of pocket money every week."
+ },
+ {
+  "id": "poet-n",
+  "headword": "poet",
+  "pos": "noun",
+  "example": "The poet read his new poems to a small audience."
+ },
+ {
+  "id": "poetry-n",
+  "headword": "poetry",
+  "pos": "noun",
+  "example": "She enjoys reading poetry, especially poems about nature."
+ },
+ {
+  "id": "poison-n",
+  "headword": "poison",
+  "pos": "noun",
+  "example": "Keep the rat poison away from children and pets."
+ },
+ {
+  "id": "poisonous-adj",
+  "headword": "poisonous",
+  "pos": "adjective",
+  "example": "Don't eat those mushrooms because some of them are poisonous."
+ },
+ {
+  "id": "pole-n",
+  "headword": "pole",
+  "pos": "noun",
+  "example": "They hung the flag at the top of a tall pole."
+ },
+ {
+  "id": "policy-n",
+  "headword": "policy",
+  "pos": "noun",
+  "example": "The company has a new policy on working from home."
+ },
+ {
+  "id": "politely-adv",
+  "headword": "politely",
+  "pos": "adverb",
+  "example": "He politely asked the waiter for another glass of water."
+ },
+ {
+  "id": "politician-n",
+  "headword": "politician",
+  "pos": "noun",
+  "example": "The politician promised to build a new hospital in the town."
+ },
+ {
+  "id": "politics-n",
+  "headword": "politics",
+  "pos": "noun",
+  "example": "My uncle loves talking about politics at family dinners."
+ },
+ {
+  "id": "pollutant-n",
+  "headword": "pollutant",
+  "pos": "noun",
+  "example": "Cars produce pollutants that make the air dirty."
+ },
+ {
+  "id": "pond-n",
+  "headword": "pond",
+  "pos": "noun",
+  "example": "There are fish and frogs in the pond in the park."
+ },
+ {
+  "id": "popcorn-n",
+  "headword": "popcorn",
+  "pos": "noun",
+  "example": "We always buy a big box of popcorn at the cinema."
+ },
+ {
+  "id": "pork-n",
+  "headword": "pork",
+  "pos": "noun",
+  "example": "We had roast pork with potatoes for Sunday lunch."
+ },
+ {
+  "id": "port-n",
+  "headword": "port",
+  "pos": "noun",
+  "example": "The ship stayed in the port for two days."
+ },
+ {
+  "id": "positive-adj",
+  "headword": "positive",
+  "pos": "adjective",
+  "example": "Try to stay positive, even when things go wrong."
+ },
+ {
+  "id": "positively-adv",
+  "headword": "positively",
+  "pos": "adverb",
+  "example": "The students reacted positively to the new timetable."
+ },
+ {
+  "id": "possess-v",
+  "headword": "possess",
+  "pos": "verb",
+  "example": "He doesn't possess a car, so he goes everywhere by bike."
+ },
+ {
+  "id": "possession-n",
+  "headword": "possession",
+  "pos": "noun",
+  "example": "The old watch is my most valuable possession."
+ },
+ {
+  "id": "possessive-adj",
+  "headword": "possessive",
+  "pos": "adjective",
+  "example": "She left him because he was too possessive and jealous."
+ },
+ {
+  "id": "possibility-n",
+  "headword": "possibility",
+  "pos": "noun",
+  "example": "There is a possibility of rain this afternoon."
+ },
+ {
+  "id": "postcard-n",
+  "headword": "postcard",
+  "pos": "noun",
+  "example": "I sent my grandmother a postcard from the beach."
+ },
+ {
+  "id": "postman-n",
+  "headword": "postman",
+  "pos": "noun",
+  "example": "The postman brings our letters at ten every morning."
+ },
+ {
+  "id": "pot-n",
+  "headword": "pot",
+  "pos": "noun",
+  "example": "She cooked the soup in a large pot."
+ },
+ {
+  "id": "potential-n",
+  "headword": "potential",
+  "pos": "noun",
+  "example": "The coach thinks the young player has great potential."
+ },
+ {
+  "id": "pottery-n",
+  "headword": "pottery",
+  "pos": "noun",
+  "example": "We bought some beautiful pottery at the market in Greece."
+ },
+ {
+  "id": "pound-n",
+  "headword": "pound",
+  "pos": "noun",
+  "example": "This sandwich costs four pounds in London."
+ },
+ {
+  "id": "poverty-n",
+  "headword": "poverty",
+  "pos": "noun",
+  "example": "Many families in the city live in poverty."
+ },
+ {
+  "id": "powder-n",
+  "headword": "powder",
+  "pos": "noun",
+  "example": "Put two spoons of washing powder in the machine."
+ },
+ {
+  "id": "practical-adj",
+  "headword": "practical",
+  "pos": "adjective",
+  "example": "Trainers are more practical than high heels for a long walk."
+ },
+ {
+  "id": "praise-n",
+  "headword": "praise",
+  "pos": "noun",
+  "example": "The young chef received a lot of praise for his cooking."
+ },
+ {
+  "id": "prayer-n",
+  "headword": "prayer",
+  "pos": "noun",
+  "example": "Before dinner, the family says a short prayer."
+ },
+ {
+  "id": "precious-adj",
+  "headword": "precious",
+  "pos": "adjective",
+  "example": "Gold and silver are precious metals."
+ },
+ {
+  "id": "preference-n",
+  "headword": "preference",
+  "pos": "noun",
+  "example": "Do you have a preference for the window or the aisle seat?"
+ },
+ {
+  "id": "prefix-n",
+  "headword": "prefix",
+  "pos": "noun",
+  "example": "The prefix 'un' changes 'happy' into 'unhappy'."
+ },
+ {
+  "id": "pregnant-adj",
+  "headword": "pregnant",
+  "pos": "adjective",
+  "example": "My sister is pregnant and the baby will arrive in May."
+ },
+ {
+  "id": "prejudice-n",
+  "headword": "prejudice",
+  "pos": "noun",
+  "example": "We should fight prejudice against people from other countries."
+ },
+ {
+  "id": "preparation-n",
+  "headword": "preparation",
+  "pos": "noun",
+  "example": "Good preparation is the key to passing your exams."
+ },
+ {
+  "id": "prepared-adj",
+  "headword": "prepared",
+  "pos": "adjective",
+  "example": "Are you prepared for the job interview tomorrow?"
+ },
+ {
+  "id": "preposition-n",
+  "headword": "preposition",
+  "pos": "noun",
+  "example": "'On' is the correct preposition in 'on Monday'."
+ },
+ {
+  "id": "preschool-adj",
+  "headword": "preschool",
+  "pos": "adjective",
+  "example": "Preschool children learn through songs and games."
+ },
+ {
+  "id": "prescription-n",
+  "headword": "prescription",
+  "pos": "noun",
+  "example": "The doctor gave me a prescription for some antibiotics."
+ },
+ {
+  "id": "presence-n",
+  "headword": "presence",
+  "pos": "noun",
+  "example": "The presence of the police made everyone feel safer."
+ },
+ {
+  "id": "present-adj",
+  "headword": "present",
+  "pos": "adjective",
+  "example": "Twenty students were present at the meeting."
+ },
+ {
+  "id": "presentation-n",
+  "headword": "presentation",
+  "pos": "noun",
+  "example": "Tomorrow I have to give a presentation to the whole class."
+ },
+ {
+  "id": "preservation-n",
+  "headword": "preservation",
+  "pos": "noun",
+  "example": "The group works for the preservation of old buildings."
+ },
+ {
+  "id": "preserve-v",
+  "headword": "preserve",
+  "pos": "verb",
+  "example": "Salt helps to preserve fish for a long time."
+ },
+ {
+  "id": "president-n",
+  "headword": "president",
+  "pos": "noun",
+  "example": "The president will visit our country next month."
+ },
+ {
+  "id": "press-n",
+  "headword": "press",
+  "pos": "noun",
+  "example": "The actor refused to talk to the press about his marriage."
+ },
+ {
+  "id": "press-v",
+  "headword": "press",
+  "pos": "verb",
+  "example": "Press the green button to start the machine."
+ },
+ {
+  "id": "previous-adj",
+  "headword": "previous",
+  "pos": "adjective",
+  "example": "I liked my previous job more than this one."
+ },
+ {
+  "id": "priest-n",
+  "headword": "priest",
+  "pos": "noun",
+  "example": "The priest married the young couple in the village church."
+ },
+ {
+  "id": "primarily-adv",
+  "headword": "primarily",
+  "pos": "adverb",
+  "example": "This app is primarily for students, but anyone can use it."
+ },
+ {
+  "id": "primary-school-n",
+  "headword": "primary school",
+  "pos": "noun",
+  "example": "My little brother goes to the primary school near our house."
+ },
+ {
+  "id": "primitive-adj",
+  "headword": "primitive",
+  "pos": "adjective",
+  "example": "Early people used primitive tools made of stone."
+ },
+ {
+  "id": "principle-n",
+  "headword": "principle",
+  "pos": "noun",
+  "example": "He never lies because honesty is an important principle for him."
+ },
+ {
+  "id": "print-n",
+  "headword": "print",
+  "pos": "noun",
+  "example": "The print in this book is too small for me to read."
+ },
+ {
+  "id": "prison-n",
+  "headword": "prison",
+  "pos": "noun",
+  "example": "The thief spent five years in prison."
+ },
+ {
+  "id": "prisoner-n",
+  "headword": "prisoner",
+  "pos": "noun",
+  "example": "Two prisoners escaped from the prison last night."
+ },
+ {
+  "id": "privacy-n",
+  "headword": "privacy",
+  "pos": "noun",
+  "example": "Teenagers need some privacy, so knock before you enter."
+ },
+ {
+  "id": "prize-n",
+  "headword": "prize",
+  "pos": "noun",
+  "example": "She won first prize in the photography competition."
+ },
+ {
+  "id": "probability-n",
+  "headword": "probability",
+  "pos": "noun",
+  "example": "The probability of winning the lottery is very small."
+ },
+ {
+  "id": "proceed-v",
+  "headword": "proceed",
+  "pos": "verb",
+  "example": "Passengers for Madrid should proceed to gate twelve."
+ },
+ {
+  "id": "process-n",
+  "headword": "process",
+  "pos": "noun",
+  "example": "Learning a language is a slow process."
+ },
+ {
+  "id": "proclaim-v",
+  "headword": "proclaim",
+  "pos": "verb",
+  "example": "After the war, the people proclaimed a new republic."
+ },
+ {
+  "id": "procrastination-n",
+  "headword": "procrastination",
+  "pos": "noun",
+  "example": "Procrastination means I always do my homework at the last minute."
+ },
+ {
+  "id": "producer-n",
+  "headword": "producer",
+  "pos": "noun",
+  "example": "The film producer is looking for money for his next movie."
+ },
+ {
+  "id": "productive-adj",
+  "headword": "productive",
+  "pos": "adjective",
+  "example": "I had a productive morning and finished all my emails."
+ },
+ {
+  "id": "profession-n",
+  "headword": "profession",
+  "pos": "noun",
+  "example": "Nursing is a difficult but rewarding profession."
+ },
+ {
+  "id": "professor-n",
+  "headword": "professor",
+  "pos": "noun",
+  "example": "Our history professor writes books about ancient Rome."
+ },
+ {
+  "id": "program-v",
+  "headword": "program",
+  "pos": "verb",
+  "example": "You can program the oven to start cooking at six."
+ },
+ {
+  "id": "progress-n",
+  "headword": "progress",
+  "pos": "noun",
+  "example": "My English teacher says I am making good progress."
+ },
+ {
+  "id": "prohibition-n",
+  "headword": "prohibition",
+  "pos": "noun",
+  "example": "There is a prohibition on fishing in this river."
+ },
+ {
+  "id": "prominent-adj",
+  "headword": "prominent",
+  "pos": "adjective",
+  "example": "Her father is a prominent doctor in the city."
+ },
+ {
+  "id": "promise-v",
+  "headword": "promise",
+  "pos": "verb",
+  "example": "I promise to call you when I arrive."
+ },
+ {
+  "id": "promote-v",
+  "headword": "promote",
+  "pos": "verb",
+  "example": "The singer is travelling around Europe to promote her new album."
+ },
+ {
+  "id": "promotion-n",
+  "headword": "promotion",
+  "pos": "noun",
+  "example": "After three years, she got a promotion and a higher salary."
+ },
+ {
+  "id": "pronoun-n",
+  "headword": "pronoun",
+  "pos": "noun",
+  "example": "'She' is a pronoun that we use for a woman or a girl."
+ },
+ {
+  "id": "proof-n",
+  "headword": "proof",
+  "pos": "noun",
+  "example": "You need proof of your address to open a bank account."
+ },
+ {
+  "id": "properly-adv",
+  "headword": "properly",
+  "pos": "adverb",
+  "example": "Close the door properly, or the cold air will come in."
+ },
+ {
+  "id": "property-n",
+  "headword": "property",
+  "pos": "noun",
+  "example": "Please don't touch that bag; it is my property."
+ },
+ {
+  "id": "proportion-n",
+  "headword": "proportion",
+  "pos": "noun",
+  "example": "A large proportion of the students come by bus."
+ },
+ {
+  "id": "proposal-n",
+  "headword": "proposal",
+  "pos": "noun",
+  "example": "The council accepted our proposal for a new playground."
+ },
+ {
+  "id": "propose-v",
+  "headword": "propose",
+  "pos": "verb",
+  "example": "I propose that we meet again next Friday."
+ },
+ {
+  "id": "prosperity-n",
+  "headword": "prosperity",
+  "pos": "noun",
+  "example": "The new factory brought prosperity to the small town."
+ },
+ {
+  "id": "prosperous-adj",
+  "headword": "prosperous",
+  "pos": "adjective",
+  "example": "The town became prosperous after the new port opened."
+ },
+ {
+  "id": "protect-v",
+  "headword": "protect",
+  "pos": "verb",
+  "example": "Wear sunglasses to protect your eyes from the sun."
+ },
+ {
+  "id": "protection-n",
+  "headword": "protection",
+  "pos": "noun",
+  "example": "This cream gives good protection against the sun."
+ },
+ {
+  "id": "protective-adj",
+  "headword": "protective",
+  "pos": "adjective",
+  "example": "Workers must wear protective glasses in the factory."
+ },
+ {
+  "id": "protest-n",
+  "headword": "protest",
+  "pos": "noun",
+  "example": "Thousands of people joined the protest against the new law."
+ },
+ {
+  "id": "proud-adj",
+  "headword": "proud",
+  "pos": "adjective",
+  "example": "Her parents were very proud when she finished university."
+ },
+ {
+  "id": "prove-v",
+  "headword": "prove",
+  "pos": "verb",
+  "example": "Can you prove that you were at home last night?"
+ }
+]

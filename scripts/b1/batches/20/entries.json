@@ -1,0 +1,557 @@
+[
+ {
+  "id": "religion-n",
+  "headword": "religion",
+  "pos": "noun",
+  "sourceTopics": [
+   "Nationalities and countries",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "religious-adj",
+  "headword": "religious",
+  "pos": "adjective"
+ },
+ {
+  "id": "rely-v",
+  "headword": "rely",
+  "pos": "verb"
+ },
+ {
+  "id": "remainder-n",
+  "headword": "remainder",
+  "pos": "noun"
+ },
+ {
+  "id": "remark-v",
+  "headword": "remark",
+  "pos": "verb"
+ },
+ {
+  "id": "remarkable-adj",
+  "headword": "remarkable",
+  "pos": "adjective"
+ },
+ {
+  "id": "remedy-n",
+  "headword": "remedy",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel and services vocab"
+  ]
+ },
+ {
+  "id": "remembrance-n",
+  "headword": "remembrance",
+  "pos": "noun"
+ },
+ {
+  "id": "remote-control-n",
+  "headword": "remote control",
+  "pos": "noun"
+ },
+ {
+  "id": "remove-v",
+  "headword": "remove",
+  "pos": "verb"
+ },
+ {
+  "id": "renew-v",
+  "headword": "renew",
+  "pos": "verb"
+ },
+ {
+  "id": "repay-v",
+  "headword": "repay",
+  "pos": "verb"
+ },
+ {
+  "id": "repeatedly-adv",
+  "headword": "repeatedly",
+  "pos": "adverb"
+ },
+ {
+  "id": "reply-v",
+  "headword": "reply",
+  "pos": "verb"
+ },
+ {
+  "id": "report-v",
+  "headword": "report",
+  "pos": "verb"
+ },
+ {
+  "id": "representative-n",
+  "headword": "representative",
+  "pos": "noun"
+ },
+ {
+  "id": "reproduce-v",
+  "headword": "reproduce",
+  "pos": "verb"
+ },
+ {
+  "id": "republic-n",
+  "headword": "republic",
+  "pos": "noun",
+  "sourceTopics": [
+   "Nationalities and countries"
+  ]
+ },
+ {
+  "id": "reputation-n",
+  "headword": "reputation",
+  "pos": "noun"
+ },
+ {
+  "id": "request-v",
+  "headword": "request",
+  "pos": "verb"
+ },
+ {
+  "id": "require-v",
+  "headword": "require",
+  "pos": "verb"
+ },
+ {
+  "id": "requirement-n",
+  "headword": "requirement",
+  "pos": "noun"
+ },
+ {
+  "id": "rescue-n",
+  "headword": "rescue",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs",
+   "Relations with other people"
+  ]
+ },
+ {
+  "id": "rescue-v",
+  "headword": "rescue",
+  "pos": "verb"
+ },
+ {
+  "id": "researcher-n",
+  "headword": "researcher",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "resemble-v",
+  "headword": "resemble",
+  "pos": "verb"
+ },
+ {
+  "id": "reservation-n",
+  "headword": "reservation",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel"
+  ]
+ },
+ {
+  "id": "reserve-n",
+  "headword": "reserve",
+  "pos": "noun"
+ },
+ {
+  "id": "reserve-v",
+  "headword": "reserve",
+  "pos": "verb"
+ },
+ {
+  "id": "resident-adj",
+  "headword": "resident",
+  "pos": "adjective"
+ },
+ {
+  "id": "residential-adj",
+  "headword": "residential",
+  "pos": "adjective"
+ },
+ {
+  "id": "resist-v",
+  "headword": "resist",
+  "pos": "verb"
+ },
+ {
+  "id": "resolve-v",
+  "headword": "resolve",
+  "pos": "verb"
+ },
+ {
+  "id": "resort-n",
+  "headword": "resort",
+  "pos": "noun",
+  "sourceTopics": [
+   "Holidays",
+   "Travel"
+  ]
+ },
+ {
+  "id": "resource-n",
+  "headword": "resource",
+  "pos": "noun"
+ },
+ {
+  "id": "respect-n",
+  "headword": "respect",
+  "pos": "noun",
+  "sourceTopics": [
+   "Relations with other people"
+  ]
+ },
+ {
+  "id": "respect-v",
+  "headword": "respect",
+  "pos": "verb"
+ },
+ {
+  "id": "respectable-adj",
+  "headword": "respectable",
+  "pos": "adjective"
+ },
+ {
+  "id": "respond-v",
+  "headword": "respond",
+  "pos": "verb"
+ },
+ {
+  "id": "responsibility-n",
+  "headword": "responsibility",
+  "pos": "noun"
+ },
+ {
+  "id": "responsible-adj",
+  "headword": "responsible",
+  "pos": "adjective"
+ },
+ {
+  "id": "rest-n",
+  "headword": "rest",
+  "pos": "noun",
+  "sourceTopics": [
+   "Hobbies and pastimes",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "rest-v",
+  "headword": "rest",
+  "pos": "verb"
+ },
+ {
+  "id": "restore-v",
+  "headword": "restore",
+  "pos": "verb"
+ },
+ {
+  "id": "restrict-v",
+  "headword": "restrict",
+  "pos": "verb"
+ },
+ {
+  "id": "result-v",
+  "headword": "result",
+  "pos": "verb"
+ },
+ {
+  "id": "retail-n",
+  "headword": "retail",
+  "pos": "noun"
+ },
+ {
+  "id": "retain-v",
+  "headword": "retain",
+  "pos": "verb"
+ },
+ {
+  "id": "retell-v",
+  "headword": "retell",
+  "pos": "verb"
+ },
+ {
+  "id": "retrospect-n",
+  "headword": "retrospect",
+  "pos": "noun"
+ },
+ {
+  "id": "reunification-n",
+  "headword": "reunification",
+  "pos": "noun"
+ },
+ {
+  "id": "reunify-v",
+  "headword": "reunify",
+  "pos": "verb"
+ },
+ {
+  "id": "revise-v",
+  "headword": "revise",
+  "pos": "verb"
+ },
+ {
+  "id": "revision-n",
+  "headword": "revision",
+  "pos": "noun"
+ },
+ {
+  "id": "reward-n",
+  "headword": "reward",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs"
+  ]
+ },
+ {
+  "id": "rewrite-v",
+  "headword": "rewrite",
+  "pos": "verb"
+ },
+ {
+  "id": "rid-v",
+  "headword": "rid",
+  "pos": "verb"
+ },
+ {
+  "id": "riddle-v",
+  "headword": "riddle",
+  "pos": "verb"
+ },
+ {
+  "id": "ridiculous-adj",
+  "headword": "ridiculous",
+  "pos": "adjective"
+ },
+ {
+  "id": "ripe-adj",
+  "headword": "ripe",
+  "pos": "adjective"
+ },
+ {
+  "id": "rise-n",
+  "headword": "rise",
+  "pos": "noun"
+ },
+ {
+  "id": "rise-v",
+  "headword": "rise",
+  "pos": "verb"
+ },
+ {
+  "id": "risk-n",
+  "headword": "risk",
+  "pos": "noun"
+ },
+ {
+  "id": "roadside-n",
+  "headword": "roadside",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "robot-n",
+  "headword": "robot",
+  "pos": "noun",
+  "sourceTopics": [
+   "Scientific development"
+  ]
+ },
+ {
+  "id": "rolling-adj",
+  "headword": "rolling",
+  "pos": "adjective"
+ },
+ {
+  "id": "room-v",
+  "headword": "room",
+  "pos": "verb"
+ },
+ {
+  "id": "rotten-adj",
+  "headword": "rotten",
+  "pos": "adjective"
+ },
+ {
+  "id": "rough-adj",
+  "headword": "rough",
+  "pos": "adjective"
+ },
+ {
+  "id": "round-adj",
+  "headword": "round",
+  "pos": "adjective"
+ },
+ {
+  "id": "round-n",
+  "headword": "round",
+  "pos": "noun"
+ },
+ {
+  "id": "routine-n",
+  "headword": "routine",
+  "pos": "noun"
+ },
+ {
+  "id": "rubber-n",
+  "headword": "rubber",
+  "pos": "noun"
+ },
+ {
+  "id": "rubbish-n",
+  "headword": "rubbish",
+  "pos": "noun"
+ },
+ {
+  "id": "rudely-adv",
+  "headword": "rudely",
+  "pos": "adverb"
+ },
+ {
+  "id": "ruin-n",
+  "headword": "ruin",
+  "pos": "noun",
+  "sourceTopics": [
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "runaway-n",
+  "headword": "runaway",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "runway-n",
+  "headword": "runway",
+  "pos": "noun",
+  "sourceTopics": [
+   "Ways of travelling",
+   "Travel"
+  ]
+ },
+ {
+  "id": "rush-v",
+  "headword": "rush",
+  "pos": "verb"
+ },
+ {
+  "id": "sacred-adj",
+  "headword": "sacred",
+  "pos": "adjective"
+ },
+ {
+  "id": "sadness-n",
+  "headword": "sadness",
+  "pos": "noun"
+ },
+ {
+  "id": "safari-n",
+  "headword": "safari",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel and services vocab",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "safeguard-n",
+  "headword": "safeguard",
+  "pos": "noun"
+ },
+ {
+  "id": "safely-adv",
+  "headword": "safely",
+  "pos": "adverb"
+ },
+ {
+  "id": "safety-n",
+  "headword": "safety",
+  "pos": "noun"
+ },
+ {
+  "id": "salesman-n",
+  "headword": "salesman",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "salmon-n",
+  "headword": "salmon",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "sand-n",
+  "headword": "sand",
+  "pos": "noun"
+ },
+ {
+  "id": "sandal-n",
+  "headword": "sandal",
+  "pos": "noun",
+  "sourceTopics": [
+   "Clothes",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "satellite-n",
+  "headword": "satellite",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs"
+  ]
+ },
+ {
+  "id": "satisfaction-n",
+  "headword": "satisfaction",
+  "pos": "noun"
+ },
+ {
+  "id": "satisfied-adj",
+  "headword": "satisfied",
+  "pos": "adjective"
+ },
+ {
+  "id": "saucepan-n",
+  "headword": "saucepan",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "saucer-n",
+  "headword": "saucer",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "scan-n",
+  "headword": "scan",
+  "pos": "noun"
+ }
+]

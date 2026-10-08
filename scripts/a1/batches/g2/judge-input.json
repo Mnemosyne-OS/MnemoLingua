@@ -1,0 +1,786 @@
+[
+ {
+  "id": "r001",
+  "headword": "I am not",
+  "pos": "grammar (NEG. DEC.)",
+  "example": "I am not hungry.",
+  "fr": {
+   "exampleA": "Je n'ai pas faim.",
+   "exampleB": "Je n'ai pas faim."
+  },
+  "es": {
+   "exampleA": "No tengo hambre.",
+   "exampleB": "No tengo hambre."
+  }
+ },
+ {
+  "id": "r002",
+  "headword": "I am not",
+  "pos": "grammar (NEG. DEC.)",
+  "example": "I am not at home today.",
+  "fr": {
+   "exampleA": "Je ne suis pas à la maison aujourd'hui.",
+   "exampleB": "Je ne suis pas à la maison aujourd'hui."
+  },
+  "es": {
+   "exampleA": "Hoy no estoy en casa.",
+   "exampleB": "Hoy no estoy en casa."
+  }
+ },
+ {
+  "id": "r003",
+  "headword": "he/she is",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "She is my sister.",
+  "fr": {
+   "exampleA": "C'est ma sœur.",
+   "exampleB": "C'est ma sœur."
+  },
+  "es": {
+   "exampleA": "Es mi hermana.",
+   "exampleB": "Es mi hermana."
+  }
+ },
+ {
+  "id": "r004",
+  "headword": "he/she is",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "He is a teacher.",
+  "fr": {
+   "exampleA": "Il est professeur.",
+   "exampleB": "Il est professeur."
+  },
+  "es": {
+   "exampleA": "Es profesor.",
+   "exampleB": "Es profesor."
+  }
+ },
+ {
+  "id": "r005",
+  "headword": "they are",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "They are my friends.",
+  "fr": {
+   "exampleA": "Ce sont mes amis.",
+   "exampleB": "Ce sont mes amis."
+  },
+  "es": {
+   "exampleA": "Son mis amigos.",
+   "exampleB": "Son mis amigos."
+  }
+ },
+ {
+  "id": "r006",
+  "headword": "they are",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "They are in the park.",
+  "fr": {
+   "exampleA": "Ils sont au parc.",
+   "exampleB": "Ils sont au parc."
+  },
+  "es": {
+   "exampleA": "Están en el parque.",
+   "exampleB": "Están en el parque."
+  }
+ },
+ {
+  "id": "r007",
+  "headword": "It is",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "It is cold today.",
+  "fr": {
+   "exampleA": "Il fait froid aujourd'hui.",
+   "exampleB": "Il fait froid aujourd'hui."
+  },
+  "es": {
+   "exampleA": "Hoy hace frío.",
+   "exampleB": "Hoy hace frío."
+  }
+ },
+ {
+  "id": "r008",
+  "headword": "It is",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "It is a big house.",
+  "fr": {
+   "exampleA": "C'est une grande maison.",
+   "exampleB": "C'est une grande maison."
+  },
+  "es": {
+   "exampleA": "Es una casa grande.",
+   "exampleB": "Es una casa grande."
+  }
+ },
+ {
+  "id": "r009",
+  "headword": "TENSE/ASPECT: PRESENT (BE)",
+  "pos": "grammar (NEG. DEC.)",
+  "example": "My brother is not tall.",
+  "fr": {
+   "exampleA": "Mon frère n'est pas grand.",
+   "exampleB": "Mon frère n'est pas grand."
+  },
+  "es": {
+   "exampleA": "Mi hermano no es alto.",
+   "exampleB": "Mi hermano no es alto."
+  }
+ },
+ {
+  "id": "r010",
+  "headword": "TENSE/ASPECT: PRESENT (BE)",
+  "pos": "grammar (NEG. DEC.)",
+  "example": "We are not late.",
+  "fr": {
+   "exampleA": "Nous ne sommes pas en retard.",
+   "exampleB": "Nous ne sommes pas en retard."
+  },
+  "es": {
+   "exampleA": "No llegamos tarde.",
+   "exampleB": "No llegamos tarde."
+  }
+ },
+ {
+  "id": "r011",
+  "headword": "TENSE/ASPECT: PAST (BE)",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "I was tired yesterday.",
+  "fr": {
+   "exampleA": "J'étais fatigué hier.",
+   "exampleB": "J'étais fatigué hier."
+  },
+  "es": {
+   "exampleA": "Ayer estaba cansado.",
+   "exampleB": "Ayer estaba cansado."
+  }
+ },
+ {
+  "id": "r012",
+  "headword": "TENSE/ASPECT: PAST (BE)",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "They were at school on Monday.",
+  "fr": {
+   "exampleA": "Ils étaient à l'école lundi.",
+   "exampleB": "Ils étaient à l'école lundi."
+  },
+  "es": {
+   "exampleA": "El lunes estaban en el colegio.",
+   "exampleB": "El lunes estaban en el colegio."
+  }
+ },
+ {
+  "id": "r013",
+  "headword": "VERB to DO",
+  "pos": "grammar",
+  "example": "I do my homework every day.",
+  "fr": {
+   "exampleA": "J'espère que tu vas bien.",
+   "exampleB": "Je fais mes devoirs tous les jours."
+  },
+  "es": {
+   "exampleA": "Hago los deberes todos los días.",
+   "exampleB": "Hago los deberes todos los días."
+  }
+ },
+ {
+  "id": "r014",
+  "headword": "TENSE/ASPECT: PRESENT (lexical verbs)",
+  "pos": "grammar (NEG. DEC.)",
+  "example": "I don't like milk.",
+  "fr": {
+   "exampleA": "Je n'aime pas le lait.",
+   "exampleB": "Je n'aime pas le lait."
+  },
+  "es": {
+   "exampleA": "No me gusta la leche.",
+   "exampleB": "No me gusta la leche."
+  }
+ },
+ {
+  "id": "r015",
+  "headword": "TENSE/ASPECT: PRESENT (lexical verbs)",
+  "pos": "grammar (NEG. DEC.)",
+  "example": "She doesn't play tennis.",
+  "fr": {
+   "exampleA": "Elle ne joue pas au tennis.",
+   "exampleB": "Elle ne joue pas au tennis."
+  },
+  "es": {
+   "exampleA": "Ella no juega al tenis.",
+   "exampleB": "No juega al tenis."
+  }
+ },
+ {
+  "id": "r016",
+  "headword": "TENSE/ASPECT: PRESENT (lexical verbs; third person & singular)",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "He lives in London.",
+  "fr": {
+   "exampleA": "Il habite à Londres.",
+   "exampleB": "Il habite à Londres."
+  },
+  "es": {
+   "exampleA": "Vive en Londres.",
+   "exampleB": "Vive en Londres."
+  }
+ },
+ {
+  "id": "r017",
+  "headword": "TENSE/ASPECT: PRESENT (lexical verbs; third person & singular)",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "My mother works in a shop.",
+  "fr": {
+   "exampleA": "Ma mère travaille dans un magasin.",
+   "exampleB": "Ma mère travaille dans un magasin."
+  },
+  "es": {
+   "exampleA": "Mi madre trabaja en una tienda.",
+   "exampleB": "Mi madre trabaja en una tienda."
+  }
+ },
+ {
+  "id": "r018",
+  "headword": "MODAL/AUX: can",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "I can swim.",
+  "fr": {
+   "exampleA": "Je sais nager.",
+   "exampleB": "Je sais nager."
+  },
+  "es": {
+   "exampleA": "Sé nadar.",
+   "exampleB": "Sé nadar."
+  }
+ },
+ {
+  "id": "r019",
+  "headword": "MODAL/AUX: can",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "My sister can speak English.",
+  "fr": {
+   "exampleA": "Ma sœur sait parler anglais.",
+   "exampleB": "Ma sœur sait parler anglais."
+  },
+  "es": {
+   "exampleA": "Mi hermana sabe hablar inglés.",
+   "exampleB": "Mi hermana sabe hablar inglés."
+  }
+ },
+ {
+  "id": "r020",
+  "headword": "my/our/your/her/their (except for 'his' and 'its')",
+  "pos": "grammar",
+  "example": "I think it is cold today.",
+  "fr": {
+   "exampleA": "Leur chien est très petit.",
+   "exampleB": "Leur chien est très petit."
+  },
+  "es": {
+   "exampleA": "Su perro es muy pequeño.",
+   "exampleB": "Su perro es muy pequeño."
+  }
+ },
+ {
+  "id": "r021",
+  "headword": "there+be",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "There is a cat in the garden.",
+  "fr": {
+   "exampleA": "Il y a un chat dans le jardin.",
+   "exampleB": "Il y a un chat dans le jardin."
+  },
+  "es": {
+   "exampleA": "Hay un gato en el jardín.",
+   "exampleB": "Hay un gato en el jardín."
+  }
+ },
+ {
+  "id": "r022",
+  "headword": "there+be",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "There are two books on the table.",
+  "fr": {
+   "exampleA": "Il y a deux livres sur la table.",
+   "exampleB": "Il y a deux livres sur la table."
+  },
+  "es": {
+   "exampleA": "Hay dos libros en la mesa.",
+   "exampleB": "Hay dos libros en la mesa."
+  }
+ },
+ {
+  "id": "r023",
+  "headword": "INDEFINITE ARTICLES",
+  "pos": "grammar",
+  "example": "The shop is open.",
+  "fr": {
+   "exampleA": "Elle mange une pomme.",
+   "exampleB": "Elle mange une pomme."
+  },
+  "es": {
+   "exampleA": "Come una manzana.",
+   "exampleB": "Come una manzana."
+  }
+ },
+ {
+  "id": "r024",
+  "headword": "TENSE/ASPECT: PRESENT (lexical verbs)",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "Are you from Spain?",
+  "fr": {
+   "exampleA": "J'aime les pommes.",
+   "exampleB": "J'aime les pommes."
+  },
+  "es": {
+   "exampleA": "Me gustan las manzanas.",
+   "exampleB": "Me gustan las manzanas."
+  }
+ },
+ {
+  "id": "r025",
+  "headword": "let's (not followed by 'not')",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "Let's go to the park.",
+  "fr": {
+   "exampleA": "Allons au parc.",
+   "exampleB": "Allons au parc."
+  },
+  "es": {
+   "exampleA": "Vamos al parque.",
+   "exampleB": "Vamos al parque."
+  }
+ },
+ {
+  "id": "r026",
+  "headword": "let's (not followed by 'not')",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "Let's eat lunch now.",
+  "fr": {
+   "exampleA": "Déjeunons maintenant.",
+   "exampleB": "Déjeunons maintenant."
+  },
+  "es": {
+   "exampleA": "Vamos a comer ya.",
+   "exampleB": "Vamos a comer ya."
+  }
+ },
+ {
+  "id": "r027",
+  "headword": "me/us/him/her/them (except for 'you' and 'it')",
+  "pos": "grammar",
+  "example": "Please help me.",
+  "fr": {
+   "exampleA": "Aide-moi, s'il te plaît.",
+   "exampleB": "Aide-moi, s'il te plaît."
+  },
+  "es": {
+   "exampleA": "Ayúdame, por favor.",
+   "exampleB": "Ayúdame, por favor."
+  }
+ },
+ {
+  "id": "r028",
+  "headword": "me/us/him/her/them (except for 'you' and 'it')",
+  "pos": "grammar",
+  "example": "I see them every day.",
+  "fr": {
+   "exampleA": "Je les vois tous les jours.",
+   "exampleB": "Je les vois tous les jours."
+  },
+  "es": {
+   "exampleA": "Los veo todos los días.",
+   "exampleB": "Los veo todos los días."
+  }
+ },
+ {
+  "id": "r029",
+  "headword": "DEFINITE ARTICLES",
+  "pos": "grammar",
+  "example": "The sun is hot.",
+  "fr": {
+   "exampleA": "Le soleil est chaud.",
+   "exampleB": "Le soleil est chaud."
+  },
+  "es": {
+   "exampleA": "El sol está caliente.",
+   "exampleB": "El sol quema."
+  }
+ },
+ {
+  "id": "r030",
+  "headword": "DEFINITE ARTICLES",
+  "pos": "grammar",
+  "example": "Close the door, please.",
+  "fr": {
+   "exampleA": "Ferme la porte, s'il te plaît.",
+   "exampleB": "Ferme la porte, s'il te plaît."
+  },
+  "es": {
+   "exampleA": "Cierra la puerta, por favor.",
+   "exampleB": "Cierra la puerta, por favor."
+  }
+ },
+ {
+  "id": "r031",
+  "headword": "DETERMINER: no",
+  "pos": "grammar",
+  "example": "I have no money.",
+  "fr": {
+   "exampleA": "Je n'ai pas d'argent.",
+   "exampleB": "Je n'ai pas d'argent."
+  },
+  "es": {
+   "exampleA": "No tengo dinero.",
+   "exampleB": "No tengo dinero."
+  }
+ },
+ {
+  "id": "r032",
+  "headword": "DETERMINER: no",
+  "pos": "grammar",
+  "example": "There is no milk in the fridge.",
+  "fr": {
+   "exampleA": "Il n'y a pas de lait dans le frigo.",
+   "exampleB": "Il n'y a pas de lait dans le frigo."
+  },
+  "es": {
+   "exampleA": "No hay leche en la nevera.",
+   "exampleB": "No hay leche en la nevera."
+  }
+ },
+ {
+  "id": "r033",
+  "headword": "INDEFINITE PRONOUNS",
+  "pos": "grammar",
+  "example": "Someone is at the door.",
+  "fr": {
+   "exampleA": "Quelqu'un est à la porte.",
+   "exampleB": "Quelqu'un est à la porte."
+  },
+  "es": {
+   "exampleA": "Hay alguien en la puerta.",
+   "exampleB": "Hay alguien en la puerta."
+  }
+ },
+ {
+  "id": "r034",
+  "headword": "INDEFINITE PRONOUNS",
+  "pos": "grammar",
+  "example": "I want something to drink.",
+  "fr": {
+   "exampleA": "Je veux quelque chose à boire.",
+   "exampleB": "Je veux quelque chose à boire."
+  },
+  "es": {
+   "exampleA": "Quiero algo de beber.",
+   "exampleB": "Quiero algo de beber."
+  }
+ },
+ {
+  "id": "r035",
+  "headword": "ADVERBS: INTENSIFIERS: extremely/greatly/really/so/terribly/too/unbelievably/very",
+  "pos": "grammar",
+  "example": "This soup is very hot.",
+  "fr": {
+   "exampleA": "Cette soupe est très chaude.",
+   "exampleB": "Cette soupe est très chaude."
+  },
+  "es": {
+   "exampleA": "Esta sopa está muy caliente.",
+   "exampleB": "Esta sopa está muy caliente."
+  }
+ },
+ {
+  "id": "r036",
+  "headword": "ADVERBS: INTENSIFIERS: extremely/greatly/really/so/terribly/too/unbelievably/very",
+  "pos": "grammar",
+  "example": "I am really happy today.",
+  "fr": {
+   "exampleA": "Je suis vraiment content aujourd'hui.",
+   "exampleB": "Je suis vraiment content aujourd'hui."
+  },
+  "es": {
+   "exampleA": "Hoy estoy muy contento.",
+   "exampleB": "Hoy estoy muy contento."
+  }
+ },
+ {
+  "id": "r037",
+  "headword": "COMPARATIVE OF SUPERIORITY: -er",
+  "pos": "grammar",
+  "example": "My brother is taller than me.",
+  "fr": {
+   "exampleA": "Mon frère est plus grand que moi.",
+   "exampleB": "Mon frère est plus grand que moi."
+  },
+  "es": {
+   "exampleA": "Mi hermano es más alto que yo.",
+   "exampleB": "Mi hermano es más alto que yo."
+  }
+ },
+ {
+  "id": "r038",
+  "headword": "COMPARATIVE OF SUPERIORITY: -er",
+  "pos": "grammar",
+  "example": "A car is faster than a bike.",
+  "fr": {
+   "exampleA": "Une voiture est plus rapide qu'un vélo.",
+   "exampleB": "Une voiture est plus rapide qu'un vélo."
+  },
+  "es": {
+   "exampleA": "Un coche es más rápido que una bici.",
+   "exampleB": "Un coche es más rápido que una bici."
+  }
+ },
+ {
+  "id": "r039",
+  "headword": "WH- QUESTION: Why ...?",
+  "pos": "grammar (AFF. INT./NEG. INT.)",
+  "example": "Why are you sad?",
+  "fr": {
+   "exampleA": "Pourquoi es-tu triste ?",
+   "exampleB": "Pourquoi tu es triste ?"
+  },
+  "es": {
+   "exampleA": "¿Por qué estás triste?",
+   "exampleB": "¿Por qué estás triste?"
+  }
+ },
+ {
+  "id": "r040",
+  "headword": "WH- QUESTION: Why ...?",
+  "pos": "grammar (AFF. INT./NEG. INT.)",
+  "example": "Why don't you like cats?",
+  "fr": {
+   "exampleA": "Pourquoi tu n'aimes pas les chats ?",
+   "exampleB": "Pourquoi tu n'aimes pas les chats ?"
+  },
+  "es": {
+   "exampleA": "¿Por qué no te gustan los gatos?",
+   "exampleB": "¿Por qué no te gustan los gatos?"
+  }
+ },
+ {
+  "id": "r041",
+  "headword": "WH- QUESTION: Where ...?",
+  "pos": "grammar (AFF. INT./NEG. INT.)",
+  "example": "Where is my bag?",
+  "fr": {
+   "exampleA": "Où est mon sac ?",
+   "exampleB": "Où est mon sac ?"
+  },
+  "es": {
+   "exampleA": "¿Dónde está mi bolso?",
+   "exampleB": "¿Dónde está mi bolso?"
+  }
+ },
+ {
+  "id": "r042",
+  "headword": "WH- QUESTION: Where ...?",
+  "pos": "grammar (AFF. INT./NEG. INT.)",
+  "example": "Where do you live?",
+  "fr": {
+   "exampleA": "Où est-ce que tu habites ?",
+   "exampleB": "Où habites-tu ?"
+  },
+  "es": {
+   "exampleA": "¿Dónde vives?",
+   "exampleB": "¿Dónde vives?"
+  }
+ },
+ {
+  "id": "r043",
+  "headword": "WH- QUESTION: How ADJ/ADV ...?",
+  "pos": "grammar (AFF. INT./NEG. INT.)",
+  "example": "How old are you?",
+  "fr": {
+   "exampleA": "Quel âge as-tu ?",
+   "exampleB": "Quel âge as-tu ?"
+  },
+  "es": {
+   "exampleA": "¿Cuántos años tienes?",
+   "exampleB": "¿Cuántos años tienes?"
+  }
+ },
+ {
+  "id": "r044",
+  "headword": "WH- QUESTION: How ADJ/ADV ...?",
+  "pos": "grammar (AFF. INT./NEG. INT.)",
+  "example": "How tall is your father?",
+  "fr": {
+   "exampleA": "Combien mesure ton père ?",
+   "exampleB": "Combien mesure ton père ?"
+  },
+  "es": {
+   "exampleA": "¿Cuánto mide tu padre?",
+   "exampleB": "¿Cuánto mide tu padre?"
+  }
+ },
+ {
+  "id": "r045",
+  "headword": "COORDINATING CONJUNCTIONS",
+  "pos": "grammar",
+  "example": "I like tea and coffee.",
+  "fr": {
+   "exampleA": "J'aime le thé et le café.",
+   "exampleB": "J'aime le thé et le café."
+  },
+  "es": {
+   "exampleA": "Me gustan el té y el café.",
+   "exampleB": "Me gustan el té y el café."
+  }
+ },
+ {
+  "id": "r046",
+  "headword": "COORDINATING CONJUNCTIONS",
+  "pos": "grammar",
+  "example": "She is tired, but she is happy.",
+  "fr": {
+   "exampleA": "Elle est fatiguée, mais elle est heureuse.",
+   "exampleB": "Elle est fatiguée, mais elle est contente."
+  },
+  "es": {
+   "exampleA": "Está cansada, pero está contenta.",
+   "exampleB": "Está cansada, pero está contenta."
+  }
+ },
+ {
+  "id": "r047",
+  "headword": "SUBORDINATE CLAUSE: after/albeit/although/because/before/despite/except/for/lest/like/once/since/so/than/though/till/unless/until/where/whereas/wheresoever/whether/while/whilst tagged as IN",
+  "pos": "grammar",
+  "example": "I stay home because I am sick.",
+  "fr": {
+   "exampleA": "Je reste à la maison parce que je suis malade.",
+   "exampleB": "Je reste à la maison parce que je suis malade."
+  },
+  "es": {
+   "exampleA": "Me quedo en casa porque estoy enfermo.",
+   "exampleB": "Me quedo en casa porque estoy enfermo."
+  }
+ },
+ {
+  "id": "r048",
+  "headword": "SUBORDINATE CLAUSE: after/albeit/although/because/before/despite/except/for/lest/like/once/since/so/than/though/till/unless/until/where/whereas/wheresoever/whether/while/whilst tagged as IN",
+  "pos": "grammar",
+  "example": "Wash your hands before you eat.",
+  "fr": {
+   "exampleA": "Lave-toi les mains avant de manger.",
+   "exampleB": "Lave-toi les mains avant de manger."
+  },
+  "es": {
+   "exampleA": "Lávate las manos antes de comer.",
+   "exampleB": "Lávate las manos antes de comer."
+  }
+ },
+ {
+  "id": "r049",
+  "headword": "TENSE/ASPECT: PRESENT (BE)",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "The shop is open.",
+  "fr": {
+   "exampleA": "Le magasin est ouvert.",
+   "exampleB": "Le magasin est ouvert."
+  },
+  "es": {
+   "exampleA": "Soy estudiante.",
+   "exampleB": "La tienda está abierta."
+  }
+ },
+ {
+  "id": "r050",
+  "headword": "TO-INFINITIVE: to DO (not preceded by 'not')",
+  "pos": "grammar",
+  "example": "I want to sleep.",
+  "fr": {
+   "exampleA": "Je veux dormir.",
+   "exampleB": "Je veux dormir."
+  },
+  "es": {
+   "exampleA": "Quiero dormir.",
+   "exampleB": "Quiero dormir."
+  }
+ },
+ {
+  "id": "r051",
+  "headword": "TO-INFINITIVE: to DO (not preceded by 'not')",
+  "pos": "grammar",
+  "example": "She goes to the shop to buy bread.",
+  "fr": {
+   "exampleA": "Elle va au magasin pour acheter du pain.",
+   "exampleB": "Elle va au magasin pour acheter du pain."
+  },
+  "es": {
+   "exampleA": "Va a la tienda a comprar pan.",
+   "exampleB": "Va a la tienda a comprar pan."
+  }
+ },
+ {
+  "id": "r052",
+  "headword": "VERB OBJECT to DO",
+  "pos": "grammar",
+  "example": "My mother wants me to study.",
+  "fr": {
+   "exampleA": "Ma mère veut que j'étudie.",
+   "exampleB": "Ma mère veut que j'étudie."
+  },
+  "es": {
+   "exampleA": "Mi madre quiere que estudie.",
+   "exampleB": "Mi madre quiere que estudie."
+  }
+ },
+ {
+  "id": "r053",
+  "headword": "VERB OBJECT to DO",
+  "pos": "grammar",
+  "example": "I asked him to help me.",
+  "fr": {
+   "exampleA": "Je lui ai demandé de m'aider.",
+   "exampleB": "Je lui ai demandé de m'aider."
+  },
+  "es": {
+   "exampleA": "Le pedí que me ayudara.",
+   "exampleB": "Le pedí que me ayudara."
+  }
+ },
+ {
+  "id": "r054",
+  "headword": "VERB V-ING",
+  "pos": "grammar",
+  "example": "I like reading books.",
+  "fr": {
+   "exampleA": "J'aime lire des livres.",
+   "exampleB": "J'aime lire des livres."
+  },
+  "es": {
+   "exampleA": "Me gusta leer libros.",
+   "exampleB": "Me gusta leer libros."
+  }
+ },
+ {
+  "id": "r055",
+  "headword": "VERB V-ING",
+  "pos": "grammar",
+  "example": "He loves playing football.",
+  "fr": {
+   "exampleA": "Il adore jouer au foot.",
+   "exampleB": "Il adore jouer au foot."
+  },
+  "es": {
+   "exampleA": "Le encanta jugar al fútbol.",
+   "exampleB": "Le encanta jugar al fútbol."
+  }
+ },
+ {
+  "id": "r056",
+  "headword": "hope/know/think+CLAUSE (without 'that')",
+  "pos": "grammar",
+  "example": "I hope you are well.",
+  "fr": {
+   "exampleA": "J'espère que tu vas bien.",
+   "exampleB": "J'espère que tu vas bien."
+  },
+  "es": {
+   "exampleA": "Me llamo Anna.",
+   "exampleB": "Espero que estés bien."
+  }
+ }
+]

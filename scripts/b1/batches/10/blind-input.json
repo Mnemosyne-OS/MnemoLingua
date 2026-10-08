@@ -1,0 +1,572 @@
+[
+ {
+  "id": "fix-v",
+  "headword": "fix",
+  "pos": "verb",
+  "example": "My dad can fix the broken chair this weekend."
+ },
+ {
+  "id": "flash-adj",
+  "headword": "flash",
+  "pos": "adjective",
+  "example": "A flash flood destroyed several houses near the river."
+ },
+ {
+  "id": "flat-adj",
+  "headword": "flat",
+  "pos": "adjective",
+  "example": "The land here is flat, so it is easy to cycle."
+ },
+ {
+  "id": "flavor-n",
+  "headword": "flavor",
+  "pos": "noun",
+  "example": "Which ice cream flavor do you like best, chocolate or lemon?"
+ },
+ {
+  "id": "float-v",
+  "headword": "float",
+  "pos": "verb",
+  "example": "Wood will float on water, but a stone will sink."
+ },
+ {
+  "id": "flock-n",
+  "headword": "flock",
+  "pos": "noun",
+  "example": "A flock of sheep was walking slowly across the road."
+ },
+ {
+  "id": "flood-v",
+  "headword": "flood",
+  "pos": "verb",
+  "example": "Heavy rain can flood the streets in a few minutes."
+ },
+ {
+  "id": "flow-n",
+  "headword": "flow",
+  "pos": "noun",
+  "example": "The flow of the river is very strong in spring."
+ },
+ {
+  "id": "flow-v",
+  "headword": "flow",
+  "pos": "verb",
+  "example": "The river flows through the town and into the sea."
+ },
+ {
+  "id": "flu-n",
+  "headword": "flu",
+  "pos": "noun",
+  "example": "I stayed in bed for a week because I had the flu."
+ },
+ {
+  "id": "fluent-adj",
+  "headword": "fluent",
+  "pos": "adjective",
+  "example": "After two years in Madrid, she is fluent in Spanish."
+ },
+ {
+  "id": "fluently-adv",
+  "headword": "fluently",
+  "pos": "adverb",
+  "example": "He speaks English fluently because his mother is American."
+ },
+ {
+  "id": "flunk-v",
+  "headword": "flunk",
+  "pos": "verb",
+  "example": "If you do not study, you will flunk the maths test."
+ },
+ {
+  "id": "flute-n",
+  "headword": "flute",
+  "pos": "noun",
+  "example": "My sister plays the flute in the school orchestra."
+ },
+ {
+  "id": "fold-n",
+  "headword": "fold",
+  "pos": "noun",
+  "example": "There is a fold in the middle of the letter."
+ },
+ {
+  "id": "fold-v",
+  "headword": "fold",
+  "pos": "verb",
+  "example": "Please fold your clothes and put them in the drawer."
+ },
+ {
+  "id": "folk-n",
+  "headword": "folk",
+  "pos": "noun",
+  "example": "The old folk in the village still tell stories about the war."
+ },
+ {
+  "id": "fond-adj",
+  "headword": "fond",
+  "pos": "adjective",
+  "example": "My grandmother is very fond of her garden."
+ },
+ {
+  "id": "fondness-n",
+  "headword": "fondness",
+  "pos": "noun",
+  "example": "He has a great fondness for old films."
+ },
+ {
+  "id": "fool-v",
+  "headword": "fool",
+  "pos": "verb",
+  "example": "Don't try to fool me; I know you ate the cake."
+ },
+ {
+  "id": "foolish-adj",
+  "headword": "foolish",
+  "pos": "adjective",
+  "example": "It was foolish to go out in the storm without a coat."
+ },
+ {
+  "id": "foot-n",
+  "headword": "foot",
+  "pos": "noun",
+  "example": "I hurt my foot when I was playing football."
+ },
+ {
+  "id": "forbidden-adj",
+  "headword": "forbidden",
+  "pos": "adjective",
+  "example": "Smoking is forbidden inside the hospital."
+ },
+ {
+  "id": "forecast-n",
+  "headword": "forecast",
+  "pos": "noun",
+  "example": "The weather forecast says it will rain tomorrow."
+ },
+ {
+  "id": "forehead-n",
+  "headword": "forehead",
+  "pos": "noun",
+  "example": "Her forehead felt hot, so we called the doctor."
+ },
+ {
+  "id": "forgive-v",
+  "headword": "forgive",
+  "pos": "verb",
+  "example": "Please forgive me for forgetting your birthday."
+ },
+ {
+  "id": "form-v",
+  "headword": "form",
+  "pos": "verb",
+  "example": "The students will form small groups of four."
+ },
+ {
+  "id": "formal-adj",
+  "headword": "formal",
+  "pos": "adjective",
+  "example": "You need to wear formal clothes to the wedding."
+ },
+ {
+  "id": "formally-adv",
+  "headword": "formally",
+  "pos": "adverb",
+  "example": "The new library was formally opened by the mayor."
+ },
+ {
+  "id": "format-n",
+  "headword": "format",
+  "pos": "noun",
+  "example": "Please send the document in PDF format."
+ },
+ {
+  "id": "format-v",
+  "headword": "format",
+  "pos": "verb",
+  "example": "You must format the new memory card before you use it."
+ },
+ {
+  "id": "former-adj",
+  "headword": "former",
+  "pos": "adjective",
+  "example": "The former president now writes books about his life."
+ },
+ {
+  "id": "formula-n",
+  "headword": "formula",
+  "pos": "noun",
+  "example": "The teacher wrote the formula for the area of a circle."
+ },
+ {
+  "id": "forth-adv",
+  "headword": "forth",
+  "pos": "adverb",
+  "example": "He walked back and forth in the waiting room."
+ },
+ {
+  "id": "fortnight-n",
+  "headword": "fortnight",
+  "pos": "noun",
+  "example": "We are going to Italy for a fortnight in August."
+ },
+ {
+  "id": "fortunate-adj",
+  "headword": "fortunate",
+  "pos": "adjective",
+  "example": "We were fortunate to find a hotel room so late."
+ },
+ {
+  "id": "foundation-n",
+  "headword": "foundation",
+  "pos": "noun",
+  "example": "The workers are building the foundation of the new house."
+ },
+ {
+  "id": "fountain-n",
+  "headword": "fountain",
+  "pos": "noun",
+  "example": "Children were playing near the fountain in the main square."
+ },
+ {
+  "id": "fragment-n",
+  "headword": "fragment",
+  "pos": "noun",
+  "example": "We found a small fragment of glass on the kitchen floor."
+ },
+ {
+  "id": "freely-adv",
+  "headword": "freely",
+  "pos": "adverb",
+  "example": "In this park, dogs can run freely without a lead."
+ },
+ {
+  "id": "freezer-n",
+  "headword": "freezer",
+  "pos": "noun",
+  "example": "Put the ice cream back in the freezer, please."
+ },
+ {
+  "id": "freezing-adj",
+  "headword": "freezing",
+  "pos": "adjective",
+  "example": "It is freezing outside, so wear your warm coat."
+ },
+ {
+  "id": "frequency-n",
+  "headword": "frequency",
+  "pos": "noun",
+  "example": "The frequency of buses is lower on Sundays."
+ },
+ {
+  "id": "frequent-adj",
+  "headword": "frequent",
+  "pos": "adjective",
+  "example": "There are frequent trains between the two cities."
+ },
+ {
+  "id": "frequently-adv",
+  "headword": "frequently",
+  "pos": "adverb",
+  "example": "She frequently visits her parents at the weekend."
+ },
+ {
+  "id": "freshman-n",
+  "headword": "freshman",
+  "pos": "noun",
+  "example": "As a freshman, he did not know anyone at the university."
+ },
+ {
+  "id": "friendliness-n",
+  "headword": "friendliness",
+  "pos": "noun",
+  "example": "Visitors always talk about the friendliness of the local people."
+ },
+ {
+  "id": "fright-n",
+  "headword": "fright",
+  "pos": "noun",
+  "example": "The loud noise gave me a terrible fright."
+ },
+ {
+  "id": "frost-n",
+  "headword": "frost",
+  "pos": "noun",
+  "example": "There was frost on the car windows this morning."
+ },
+ {
+  "id": "frozen-adj",
+  "headword": "frozen",
+  "pos": "adjective",
+  "example": "We bought frozen vegetables because they last longer."
+ },
+ {
+  "id": "frustrated-adj",
+  "headword": "frustrated",
+  "pos": "adjective",
+  "example": "He felt frustrated because his computer kept stopping."
+ },
+ {
+  "id": "frustration-n",
+  "headword": "frustration",
+  "pos": "noun",
+  "example": "She shouted in frustration when she missed the bus again."
+ },
+ {
+  "id": "fry-v",
+  "headword": "fry",
+  "pos": "verb",
+  "example": "Fry the onions in a little oil for five minutes."
+ },
+ {
+  "id": "frying-pan-n",
+  "headword": "frying pan",
+  "pos": "noun",
+  "example": "She cooked the eggs in a large frying pan."
+ },
+ {
+  "id": "fuel-n",
+  "headword": "fuel",
+  "pos": "noun",
+  "example": "The price of fuel for cars has gone up again."
+ },
+ {
+  "id": "full-stop-n",
+  "headword": "full stop",
+  "pos": "noun",
+  "example": "Every sentence in English ends with a full stop."
+ },
+ {
+  "id": "full-time-adj",
+  "headword": "full-time",
+  "pos": "adjective",
+  "example": "She found a full-time job at the bank."
+ },
+ {
+  "id": "full-time-adv",
+  "headword": "full-time",
+  "pos": "adverb",
+  "example": "My mother works full-time in a hospital."
+ },
+ {
+  "id": "function-n",
+  "headword": "function",
+  "pos": "noun",
+  "example": "The main function of the heart is to move blood around the body."
+ },
+ {
+  "id": "fund-n",
+  "headword": "fund",
+  "pos": "noun",
+  "example": "The school started a fund to buy new computers."
+ },
+ {
+  "id": "fund-v",
+  "headword": "fund",
+  "pos": "verb",
+  "example": "The city will fund a new park for the children."
+ },
+ {
+  "id": "funeral-n",
+  "headword": "funeral",
+  "pos": "noun",
+  "example": "Many people came to the funeral to say goodbye to him."
+ },
+ {
+  "id": "fur-n",
+  "headword": "fur",
+  "pos": "noun",
+  "example": "Our cat has soft white fur."
+ },
+ {
+  "id": "furnish-v",
+  "headword": "furnish",
+  "pos": "verb",
+  "example": "They want to furnish the living room with modern chairs."
+ },
+ {
+  "id": "further-adv",
+  "headword": "further",
+  "pos": "adverb",
+  "example": "The station is further than I thought."
+ },
+ {
+  "id": "furthermore-adv",
+  "headword": "furthermore",
+  "pos": "adverb",
+  "example": "The flat is cheap; furthermore, it is close to my office."
+ },
+ {
+  "id": "furthest-adv",
+  "headword": "furthest",
+  "pos": "adverb",
+  "example": "Which planet is furthest from the sun?"
+ },
+ {
+  "id": "fuss-n",
+  "headword": "fuss",
+  "pos": "noun",
+  "example": "There was a lot of fuss when the singer arrived at the hotel."
+ },
+ {
+  "id": "future-adj",
+  "headword": "future",
+  "pos": "adjective",
+  "example": "She met her future husband at university."
+ },
+ {
+  "id": "gain-n",
+  "headword": "gain",
+  "pos": "noun",
+  "example": "Eating too much sugar can lead to weight gain."
+ },
+ {
+  "id": "gain-v",
+  "headword": "gain",
+  "pos": "verb",
+  "example": "You can gain a lot of experience by working abroad."
+ },
+ {
+  "id": "gall-n",
+  "headword": "gall",
+  "pos": "noun",
+  "example": "He had the gall to ask me for more money."
+ },
+ {
+  "id": "gallon-n",
+  "headword": "gallon",
+  "pos": "noun",
+  "example": "The car uses one gallon of petrol every thirty miles."
+ },
+ {
+  "id": "gap-n",
+  "headword": "gap",
+  "pos": "noun",
+  "example": "The cat got out through a gap in the fence."
+ },
+ {
+  "id": "gardening-n",
+  "headword": "gardening",
+  "pos": "noun",
+  "example": "My grandfather spends every morning doing some gardening."
+ },
+ {
+  "id": "garment-n",
+  "headword": "garment",
+  "pos": "noun",
+  "example": "Wash this garment by hand in cold water."
+ },
+ {
+  "id": "gay-adj",
+  "headword": "gay",
+  "pos": "adjective",
+  "example": "Her brother is gay and lives with his boyfriend."
+ },
+ {
+  "id": "gee-interj",
+  "headword": "gee",
+  "pos": "interjection",
+  "example": "Gee, that is a really big dog!"
+ },
+ {
+  "id": "gene-n",
+  "headword": "gene",
+  "pos": "noun",
+  "example": "Eye colour depends on a gene from your parents."
+ },
+ {
+  "id": "general-adj",
+  "headword": "general",
+  "pos": "adjective",
+  "example": "I have a general idea of the plan, but not the details."
+ },
+ {
+  "id": "general-n",
+  "headword": "general",
+  "pos": "noun",
+  "example": "The general ordered his soldiers to stay in the camp."
+ },
+ {
+  "id": "generally-adv",
+  "headword": "generally",
+  "pos": "adverb",
+  "example": "I generally go to bed at about eleven o'clock."
+ },
+ {
+  "id": "generate-v",
+  "headword": "generate",
+  "pos": "verb",
+  "example": "The wind farm can generate electricity for the whole town."
+ },
+ {
+  "id": "generous-adj",
+  "headword": "generous",
+  "pos": "adjective",
+  "example": "My uncle is very generous and always buys us presents."
+ },
+ {
+  "id": "genetic-adj",
+  "headword": "genetic",
+  "pos": "adjective",
+  "example": "Some illnesses are genetic and pass from parents to children."
+ },
+ {
+  "id": "genetically-adv",
+  "headword": "genetically",
+  "pos": "adverb",
+  "example": "Some people do not want to eat genetically modified food."
+ },
+ {
+  "id": "genetics-n",
+  "headword": "genetics",
+  "pos": "noun",
+  "example": "In genetics, scientists study how parents pass features to children."
+ },
+ {
+  "id": "gentleman-n",
+  "headword": "gentleman",
+  "pos": "noun",
+  "example": "A gentleman opened the door for my grandmother."
+ },
+ {
+  "id": "geographical-adj",
+  "headword": "geographical",
+  "pos": "adjective",
+  "example": "The map shows the geographical position of each country."
+ },
+ {
+  "id": "geography-n",
+  "headword": "geography",
+  "pos": "noun",
+  "example": "In geography we learned about rivers and mountains."
+ },
+ {
+  "id": "geology-n",
+  "headword": "geology",
+  "pos": "noun",
+  "example": "She studied geology because she loves rocks and volcanoes."
+ },
+ {
+  "id": "gesture-n",
+  "headword": "gesture",
+  "pos": "noun",
+  "example": "He made a gesture with his hand to tell us to stop."
+ },
+ {
+  "id": "giant-adj",
+  "headword": "giant",
+  "pos": "adjective",
+  "example": "We shared a giant pizza with our friends."
+ },
+ {
+  "id": "gifted-adj",
+  "headword": "gifted",
+  "pos": "adjective",
+  "example": "She is a gifted pianist who started playing at four."
+ },
+ {
+  "id": "giggle-n",
+  "headword": "giggle",
+  "pos": "noun",
+  "example": "We heard a giggle from behind the curtain."
+ }
+]

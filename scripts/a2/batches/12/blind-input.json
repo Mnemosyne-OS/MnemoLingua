@@ -1,0 +1,566 @@
+[
+ {
+  "id": "rock-n",
+  "headword": "rock",
+  "pos": "noun",
+  "example": "The children sat on a big rock near the river."
+ },
+ {
+  "id": "roll-n",
+  "headword": "roll",
+  "pos": "noun",
+  "example": "I had a cheese roll and an apple for lunch."
+ },
+ {
+  "id": "romance-n",
+  "headword": "romance",
+  "pos": "noun",
+  "example": "Their romance started on a summer holiday in Italy."
+ },
+ {
+  "id": "romantic-adj",
+  "headword": "romantic",
+  "pos": "adjective",
+  "example": "We had a romantic dinner by candlelight for our anniversary."
+ },
+ {
+  "id": "roof-n",
+  "headword": "roof",
+  "pos": "noun",
+  "example": "There is a cat sitting on the roof of our house."
+ },
+ {
+  "id": "root-n",
+  "headword": "root",
+  "pos": "noun",
+  "example": "The roots of the tree go deep under the ground."
+ },
+ {
+  "id": "rope-n",
+  "headword": "rope",
+  "pos": "noun",
+  "example": "They used a long rope to climb the mountain."
+ },
+ {
+  "id": "roughly-adv",
+  "headword": "roughly",
+  "pos": "adverb",
+  "example": "The trip takes roughly two hours, maybe a little more."
+ },
+ {
+  "id": "round-adv",
+  "headword": "round",
+  "pos": "adverb",
+  "example": "She turned round when I called her name."
+ },
+ {
+  "id": "roundabout-n",
+  "headword": "roundabout",
+  "pos": "noun",
+  "example": "Turn left at the roundabout and the station is there."
+ },
+ {
+  "id": "royal-adj",
+  "headword": "royal",
+  "pos": "adjective",
+  "example": "Many tourists visit the royal palace to see the king's home."
+ },
+ {
+  "id": "rugby-n",
+  "headword": "rugby",
+  "pos": "noun",
+  "example": "My brother plays rugby with his team every Saturday."
+ },
+ {
+  "id": "ruin-v",
+  "headword": "ruin",
+  "pos": "verb",
+  "example": "The rain ruined our picnic in the park."
+ },
+ {
+  "id": "rumor-n",
+  "headword": "rumor",
+  "pos": "noun",
+  "example": "There is a rumor that our teacher is leaving."
+ },
+ {
+  "id": "runner-n",
+  "headword": "runner",
+  "pos": "noun",
+  "example": "The fastest runner finished the race in ten minutes."
+ },
+ {
+  "id": "running-n",
+  "headword": "running",
+  "pos": "noun",
+  "example": "Running is good for your health, so I go every morning."
+ },
+ {
+  "id": "rush-n",
+  "headword": "rush",
+  "pos": "noun",
+  "example": "There's no rush; we have plenty of time."
+ },
+ {
+  "id": "sadly-adv",
+  "headword": "sadly",
+  "pos": "adverb",
+  "example": "Sadly, our old dog died last winter."
+ },
+ {
+  "id": "safe-adj",
+  "headword": "safe",
+  "pos": "adjective",
+  "example": "Is it safe to swim in this river?"
+ },
+ {
+  "id": "sailing-n",
+  "headword": "sailing",
+  "pos": "noun",
+  "example": "We went sailing on the lake in a small boat."
+ },
+ {
+  "id": "sake-n",
+  "headword": "sake",
+  "pos": "noun",
+  "example": "Please stop smoking, for the sake of your health."
+ },
+ {
+  "id": "salt-n",
+  "headword": "salt",
+  "pos": "noun",
+  "example": "This soup needs a little more salt."
+ },
+ {
+  "id": "sample-n",
+  "headword": "sample",
+  "pos": "noun",
+  "example": "The shop gave us a free sample of the new perfume."
+ },
+ {
+  "id": "sandy-adj",
+  "headword": "sandy",
+  "pos": "adjective",
+  "example": "We walked along a long, sandy beach by the sea."
+ },
+ {
+  "id": "satisfy-v",
+  "headword": "satisfy",
+  "pos": "verb",
+  "example": "Nothing satisfies my sister; she always wants more."
+ },
+ {
+  "id": "sauce-n",
+  "headword": "sauce",
+  "pos": "noun",
+  "example": "I like my pasta with tomato sauce and cheese."
+ },
+ {
+  "id": "sausage-n",
+  "headword": "sausage",
+  "pos": "noun",
+  "example": "We cooked sausages on the barbecue in the garden."
+ },
+ {
+  "id": "scale-n",
+  "headword": "scale",
+  "pos": "noun",
+  "example": "On a scale of one to ten, I'd give the film eight."
+ },
+ {
+  "id": "scarf-n",
+  "headword": "scarf",
+  "pos": "noun",
+  "example": "It's cold outside, so wear a warm scarf around your neck."
+ },
+ {
+  "id": "scene-n",
+  "headword": "scene",
+  "pos": "noun",
+  "example": "The last scene of the film made everyone cry."
+ },
+ {
+  "id": "scenery-n",
+  "headword": "scenery",
+  "pos": "noun",
+  "example": "The scenery in the mountains is beautiful in autumn."
+ },
+ {
+  "id": "schedule-n",
+  "headword": "schedule",
+  "pos": "noun",
+  "example": "My schedule is very busy this week, with meetings every day."
+ },
+ {
+  "id": "schoolchild-n",
+  "headword": "schoolchild",
+  "pos": "noun",
+  "example": "Every schoolchild in the town got a free book."
+ },
+ {
+  "id": "schoolwork-n",
+  "headword": "schoolwork",
+  "pos": "noun",
+  "example": "She finishes her schoolwork before she watches TV."
+ },
+ {
+  "id": "scientific-adj",
+  "headword": "scientific",
+  "pos": "adjective",
+  "example": "Scientific tests showed that the water was clean."
+ },
+ {
+  "id": "scissors-n",
+  "headword": "scissors",
+  "pos": "noun",
+  "example": "Can I borrow your scissors to cut this paper?"
+ },
+ {
+  "id": "scream-n",
+  "headword": "scream",
+  "pos": "noun",
+  "example": "We heard a loud scream when she saw the spider."
+ },
+ {
+  "id": "screen-n",
+  "headword": "screen",
+  "pos": "noun",
+  "example": "My phone screen is broken, so I can't read messages."
+ },
+ {
+  "id": "screw-n",
+  "headword": "screw",
+  "pos": "noun",
+  "example": "You need a small screw to fix the door handle."
+ },
+ {
+  "id": "script-n",
+  "headword": "script",
+  "pos": "noun",
+  "example": "The actors read the script before they started filming."
+ },
+ {
+  "id": "seafood-n",
+  "headword": "seafood",
+  "pos": "noun",
+  "example": "We ate fresh seafood, like fish and prawns, by the sea."
+ },
+ {
+  "id": "search-n",
+  "headword": "search",
+  "pos": "noun",
+  "example": "After a long search, I found my keys under the bed."
+ },
+ {
+  "id": "seaside-n",
+  "headword": "seaside",
+  "pos": "noun",
+  "example": "Every summer we spend two weeks at the seaside."
+ },
+ {
+  "id": "second-n",
+  "headword": "second",
+  "pos": "noun",
+  "example": "Wait a second, I'm coming!"
+ },
+ {
+  "id": "second-pron",
+  "headword": "second",
+  "pos": "pronoun",
+  "example": "I ate the first cake, and my sister ate the second."
+ },
+ {
+  "id": "secret-n",
+  "headword": "secret",
+  "pos": "noun",
+  "example": "Can you keep a secret? Don't tell anyone about the party."
+ },
+ {
+  "id": "secretary-n",
+  "headword": "secretary",
+  "pos": "noun",
+  "example": "The secretary answers the phone and writes letters for the boss."
+ },
+ {
+  "id": "seed-n",
+  "headword": "seed",
+  "pos": "noun",
+  "example": "We put some seeds in the ground, and flowers grew."
+ },
+ {
+  "id": "seek-v",
+  "headword": "seek",
+  "pos": "verb",
+  "example": "Many young people leave home to seek work in the city."
+ },
+ {
+  "id": "seem-v",
+  "headword": "seem",
+  "pos": "verb",
+  "example": "You seem tired today; did you sleep badly?"
+ },
+ {
+  "id": "semester-n",
+  "headword": "semester",
+  "pos": "noun",
+  "example": "The exams are at the end of each semester."
+ },
+ {
+  "id": "send-v",
+  "headword": "send",
+  "pos": "verb",
+  "example": "I'll send you a message when I arrive."
+ },
+ {
+  "id": "senior-adj",
+  "headword": "senior",
+  "pos": "adjective",
+  "example": "She is a senior manager and leads a team of twenty."
+ },
+ {
+  "id": "senior-n",
+  "headword": "senior",
+  "pos": "noun",
+  "example": "Seniors over sixty-five pay less for the bus."
+ },
+ {
+  "id": "sense-n",
+  "headword": "sense",
+  "pos": "noun",
+  "example": "Dogs have a very good sense of smell."
+ },
+ {
+  "id": "separate-adj",
+  "headword": "separate",
+  "pos": "adjective",
+  "example": "The two brothers sleep in separate bedrooms now."
+ },
+ {
+  "id": "seriously-adv",
+  "headword": "seriously",
+  "pos": "adverb",
+  "example": "He was seriously hurt in the accident and went to hospital."
+ },
+ {
+  "id": "serve-v",
+  "headword": "serve",
+  "pos": "verb",
+  "example": "The waiter served us soup and then fish."
+ },
+ {
+  "id": "set-n",
+  "headword": "set",
+  "pos": "noun",
+  "example": "My grandmother gave me a set of six cups."
+ },
+ {
+  "id": "several-det",
+  "headword": "several",
+  "pos": "determiner",
+  "example": "I have read this book several times."
+ },
+ {
+  "id": "several-pron",
+  "headword": "several",
+  "pos": "pronoun",
+  "example": "I bought some apples, and several were bad."
+ },
+ {
+  "id": "sew-v",
+  "headword": "sew",
+  "pos": "verb",
+  "example": "My mother sewed a button back on my shirt."
+ },
+ {
+  "id": "shade-n",
+  "headword": "shade",
+  "pos": "noun",
+  "example": "It's very hot, so let's sit in the shade of that tree."
+ },
+ {
+  "id": "shadow-n",
+  "headword": "shadow",
+  "pos": "noun",
+  "example": "In the evening sun, my shadow looks very long."
+ },
+ {
+  "id": "shall-modal",
+  "headword": "shall",
+  "pos": "modal auxiliary",
+  "example": "It's cold in here. Shall I close the window?"
+ },
+ {
+  "id": "shampoo-n",
+  "headword": "shampoo",
+  "pos": "noun",
+  "example": "I wash my hair with this shampoo every morning."
+ },
+ {
+  "id": "shape-n",
+  "headword": "shape",
+  "pos": "noun",
+  "example": "The cake was in the shape of a heart."
+ },
+ {
+  "id": "share-n",
+  "headword": "share",
+  "pos": "noun",
+  "example": "Everyone paid their share of the bill at the restaurant."
+ },
+ {
+  "id": "shell-n",
+  "headword": "shell",
+  "pos": "noun",
+  "example": "The children collected shells on the beach."
+ },
+ {
+  "id": "shine-v",
+  "headword": "shine",
+  "pos": "verb",
+  "example": "The sun is shining, so let's go to the park."
+ },
+ {
+  "id": "shock-n",
+  "headword": "shock",
+  "pos": "noun",
+  "example": "The bad news was a big shock for the whole family."
+ },
+ {
+  "id": "shoot-v",
+  "headword": "shoot",
+  "pos": "verb",
+  "example": "The player shot the ball, and it went into the goal."
+ },
+ {
+  "id": "shop-assistant-n",
+  "headword": "shop assistant",
+  "pos": "noun",
+  "example": "The shop assistant helped me find a jacket in my size."
+ },
+ {
+  "id": "shore-n",
+  "headword": "shore",
+  "pos": "noun",
+  "example": "We walked along the shore of the lake at sunset."
+ },
+ {
+  "id": "shorts-n",
+  "headword": "shorts",
+  "pos": "noun",
+  "example": "It's very hot, so I'm wearing shorts and a T-shirt."
+ },
+ {
+  "id": "shot-n",
+  "headword": "shot",
+  "pos": "noun",
+  "example": "His first shot hit the goalpost, but the second went in."
+ },
+ {
+  "id": "shout-n",
+  "headword": "shout",
+  "pos": "noun",
+  "example": "We heard a shout for help from the river."
+ },
+ {
+  "id": "show-n",
+  "headword": "show",
+  "pos": "noun",
+  "example": "We watched a funny show on TV last night."
+ },
+ {
+  "id": "shut-v",
+  "headword": "shut",
+  "pos": "verb",
+  "example": "Please shut the door; it's cold outside."
+ },
+ {
+  "id": "sightseeing-n",
+  "headword": "sightseeing",
+  "pos": "noun",
+  "example": "We spent the day sightseeing and visited three museums."
+ },
+ {
+  "id": "significant-adj",
+  "headword": "significant",
+  "pos": "adjective",
+  "example": "There was a significant change in the weather after the storm."
+ },
+ {
+  "id": "silence-n",
+  "headword": "silence",
+  "pos": "noun",
+  "example": "There was complete silence in the room during the exam."
+ },
+ {
+  "id": "silently-adv",
+  "headword": "silently",
+  "pos": "adverb",
+  "example": "The cat walked silently across the room."
+ },
+ {
+  "id": "silly-adj",
+  "headword": "silly",
+  "pos": "adjective",
+  "example": "Don't be silly; you can't wear sandals in the snow."
+ },
+ {
+  "id": "silver-adj",
+  "headword": "silver",
+  "pos": "adjective",
+  "example": "She wore a silver necklace with her black dress."
+ },
+ {
+  "id": "silver-n",
+  "headword": "silver",
+  "pos": "noun",
+  "example": "These old spoons are made of silver."
+ },
+ {
+  "id": "similar-adj",
+  "headword": "similar",
+  "pos": "adjective",
+  "example": "My sister and I have similar faces, but different hair."
+ },
+ {
+  "id": "simple-adj",
+  "headword": "simple",
+  "pos": "adjective",
+  "example": "The question was simple, so everyone knew the answer."
+ },
+ {
+  "id": "simply-adv",
+  "headword": "simply",
+  "pos": "adverb",
+  "example": "Simply press this button and the machine starts."
+ },
+ {
+  "id": "since-prep",
+  "headword": "since",
+  "pos": "preposition",
+  "example": "I have lived in this town since 2015."
+ },
+ {
+  "id": "singing-n",
+  "headword": "singing",
+  "pos": "noun",
+  "example": "Her singing is beautiful; she should join a choir."
+ },
+ {
+  "id": "single-adj",
+  "headword": "single",
+  "pos": "adjective",
+  "example": "He is single; he doesn't have a wife or girlfriend."
+ },
+ {
+  "id": "singular-adj",
+  "headword": "singular",
+  "pos": "adjective",
+  "example": "\"Child\" is a singular noun, and \"children\" is plural."
+ },
+ {
+  "id": "singular-n",
+  "headword": "singular",
+  "pos": "noun",
+  "example": "The singular of \"mice\" is \"mouse\"."
+ }
+]

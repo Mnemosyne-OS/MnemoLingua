@@ -1,0 +1,376 @@
+{
+ "r001": {
+  "english": "does not show the past passive (sentence belongs to would)",
+  "fr": {
+   "exampleA": "wrong meaning: translates \"The letters were sent yesterday morning\", not the English sentence",
+   "exampleB": "wrong meaning: translates \"The letters were sent yesterday morning\", not the English sentence"
+  },
+  "es": {
+   "exampleA": "wrong meaning: translates \"The letters were sent yesterday morning\", not the English sentence",
+   "exampleB": "wrong meaning: translates \"The letters were sent yesterday morning\", not the English sentence"
+  }
+ },
+ "r002": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  }
+ },
+ "r003": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  }
+ },
+ "r004": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "wrong meaning: \"I don't like the red shoes. I prefer the black ones.\"",
+   "exampleB": "ok"
+  }
+ },
+ "r005": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  }
+ },
+ "r006": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  }
+ },
+ "r007": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  }
+ },
+ "r008": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  }
+ },
+ "r009": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  }
+ },
+ "r010": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  }
+ },
+ "r011": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  }
+ },
+ "r012": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "non-standard word order; \"Tu n'as besoin de rien apporter\" or \"Tu n'as rien à apporter\""
+  },
+  "es": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  }
+ },
+ "r013": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  }
+ },
+ "r014": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  }
+ },
+ "r015": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  }
+ },
+ "r016": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  }
+ },
+ "r017": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  }
+ },
+ "r018": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  }
+ },
+ "r019": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  }
+ },
+ "r020": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  }
+ },
+ "r021": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  }
+ },
+ "r022": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  }
+ },
+ "r023": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  }
+ },
+ "r024": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  }
+ },
+ "r025": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  }
+ },
+ "r026": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "wrong meaning: \"Does your brother play football on Saturdays?\"",
+   "exampleB": "ok"
+  }
+ },
+ "r027": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  }
+ },
+ "r028": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  }
+ },
+ "r029": {
+  "english": "does not show \"should\" (sentence shows ones)",
+  "fr": {
+   "exampleA": "wrong meaning: translates \"You should drink more water every day\", not the English sentence",
+   "exampleB": "wrong meaning: translates \"You should drink more water every day\", not the English sentence"
+  },
+  "es": {
+   "exampleA": "wrong meaning: translates \"You should drink more water every day\", not the English sentence",
+   "exampleB": "wrong meaning: translates \"You should drink more water every day\", not the English sentence"
+  }
+ },
+ "r030": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  }
+ },
+ "r031": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  }
+ },
+ "r032": {
+  "english": "does not show \"have to\" (sentence is present perfect)",
+  "fr": {
+   "exampleA": "wrong meaning: translates \"She has to wear a uniform at work\", not the English sentence",
+   "exampleB": "wrong meaning: translates \"She has to wear a uniform at work\", not the English sentence"
+  },
+  "es": {
+   "exampleA": "wrong meaning: translates \"She has to wear a uniform at work\", not the English sentence",
+   "exampleB": "wrong meaning: translates \"She has to wear a uniform at work\", not the English sentence"
+  }
+ },
+ "r033": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  }
+ },
+ "r034": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "wrong meaning: \"I don't like the red shoes. I prefer the black ones.\"",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  }
+ }
+}

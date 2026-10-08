@@ -1,0 +1,566 @@
+[
+ {
+  "id": "can-n",
+  "headword": "can",
+  "pos": "noun",
+  "example": "I bought a can of tomato soup at the shop."
+ },
+ {
+  "id": "capital-n",
+  "headword": "capital",
+  "pos": "noun",
+  "example": "Paris is the capital of France."
+ },
+ {
+  "id": "capital-letter-n",
+  "headword": "capital letter",
+  "pos": "noun",
+  "example": "Always start a sentence with a capital letter."
+ },
+ {
+  "id": "captain-n",
+  "headword": "captain",
+  "pos": "noun",
+  "example": "The captain told the passengers to stay on the ship."
+ },
+ {
+  "id": "car-park-n",
+  "headword": "car park",
+  "pos": "noun",
+  "example": "We left the car in the car park near the station."
+ },
+ {
+  "id": "carrot-n",
+  "headword": "carrot",
+  "pos": "noun",
+  "example": "Rabbits love eating carrots."
+ },
+ {
+  "id": "cash-n",
+  "headword": "cash",
+  "pos": "noun",
+  "example": "Can I pay in cash, or do you need a card?"
+ },
+ {
+  "id": "cassette-n",
+  "headword": "cassette",
+  "pos": "noun",
+  "example": "My dad still listens to music on old cassettes."
+ },
+ {
+  "id": "castle-n",
+  "headword": "castle",
+  "pos": "noun",
+  "example": "The king lived in a big castle on the hill."
+ },
+ {
+  "id": "cause-v",
+  "headword": "cause",
+  "pos": "verb",
+  "example": "The heavy rain caused a lot of problems on the roads."
+ },
+ {
+  "id": "cent-n",
+  "headword": "cent",
+  "pos": "noun",
+  "example": "This pen costs fifty cents."
+ },
+ {
+  "id": "center-n",
+  "headword": "center",
+  "pos": "noun",
+  "example": "There is a big fountain in the center of the square."
+ },
+ {
+  "id": "centimeter-n",
+  "headword": "centimeter",
+  "pos": "noun",
+  "example": "The baby is fifty centimeters long."
+ },
+ {
+  "id": "century-n",
+  "headword": "century",
+  "pos": "noun",
+  "example": "This church was built in the twelfth century."
+ },
+ {
+  "id": "cereal-n",
+  "headword": "cereal",
+  "pos": "noun",
+  "example": "I eat a bowl of cereal with milk every morning."
+ },
+ {
+  "id": "certain-adj",
+  "headword": "certain",
+  "pos": "adjective",
+  "example": "Are you certain that the shop is open today?"
+ },
+ {
+  "id": "certainly-adv",
+  "headword": "certainly",
+  "pos": "adverb",
+  "example": "It will certainly rain tomorrow, so take an umbrella."
+ },
+ {
+  "id": "chain-n",
+  "headword": "chain",
+  "pos": "noun",
+  "example": "She wears a gold chain around her neck."
+ },
+ {
+  "id": "chairman-n",
+  "headword": "chairman",
+  "pos": "noun",
+  "example": "The chairman opened the meeting at nine o'clock."
+ },
+ {
+  "id": "challenge-n",
+  "headword": "challenge",
+  "pos": "noun",
+  "example": "Learning a new language is a big challenge."
+ },
+ {
+  "id": "champagne-n",
+  "headword": "champagne",
+  "pos": "noun",
+  "example": "We opened a bottle of champagne at the wedding."
+ },
+ {
+  "id": "championship-n",
+  "headword": "championship",
+  "pos": "noun",
+  "example": "Our team won the football championship this year."
+ },
+ {
+  "id": "chance-n",
+  "headword": "chance",
+  "pos": "noun",
+  "example": "There is a good chance that we will win."
+ },
+ {
+  "id": "chapter-n",
+  "headword": "chapter",
+  "pos": "noun",
+  "example": "I read the first chapter of the book last night."
+ },
+ {
+  "id": "chart-n",
+  "headword": "chart",
+  "pos": "noun",
+  "example": "The chart on the wall shows the weather for each month."
+ },
+ {
+  "id": "chat-v",
+  "headword": "chat",
+  "pos": "verb",
+  "example": "We chatted about our holidays over a cup of coffee."
+ },
+ {
+  "id": "cheap-adj",
+  "headword": "cheap",
+  "pos": "adjective",
+  "example": "This shirt was very cheap, only five euros."
+ },
+ {
+  "id": "check-v",
+  "headword": "check",
+  "pos": "verb",
+  "example": "Please check your answers before you finish the test."
+ },
+ {
+  "id": "cheek-n",
+  "headword": "cheek",
+  "pos": "noun",
+  "example": "She kissed her grandmother on the cheek."
+ },
+ {
+  "id": "cheer-v",
+  "headword": "cheer",
+  "pos": "verb",
+  "example": "The fans cheered when their team scored a goal."
+ },
+ {
+  "id": "chef-n",
+  "headword": "chef",
+  "pos": "noun",
+  "example": "The chef cooked a wonderful dinner for us."
+ },
+ {
+  "id": "chemical-adj",
+  "headword": "chemical",
+  "pos": "adjective",
+  "example": "Don't touch that bottle, it has a dangerous chemical liquid."
+ },
+ {
+  "id": "cheque-n",
+  "headword": "cheque",
+  "pos": "noun",
+  "example": "He paid for the car with a cheque."
+ },
+ {
+  "id": "chess-n",
+  "headword": "chess",
+  "pos": "noun",
+  "example": "My grandfather taught me to play chess."
+ },
+ {
+  "id": "chest-n",
+  "headword": "chest",
+  "pos": "noun",
+  "example": "He had a pain in his chest and went to the doctor."
+ },
+ {
+  "id": "childhood-n",
+  "headword": "childhood",
+  "pos": "noun",
+  "example": "I had a happy childhood in a small village."
+ },
+ {
+  "id": "chili-n",
+  "headword": "chili",
+  "pos": "noun",
+  "example": "Be careful, this soup has a lot of chili in it."
+ },
+ {
+  "id": "chimpanzee-n",
+  "headword": "chimpanzee",
+  "pos": "noun",
+  "example": "The chimpanzee climbed the tree and ate a banana."
+ },
+ {
+  "id": "chin-n",
+  "headword": "chin",
+  "pos": "noun",
+  "example": "He hit his chin when he fell off his bike."
+ },
+ {
+  "id": "chirp-n",
+  "headword": "chirp",
+  "pos": "noun",
+  "example": "We heard the chirp of a small bird in the garden."
+ },
+ {
+  "id": "choice-n",
+  "headword": "choice",
+  "pos": "noun",
+  "example": "You can have tea or coffee, it's your choice."
+ },
+ {
+  "id": "cigarette-n",
+  "headword": "cigarette",
+  "pos": "noun",
+  "example": "Smoking cigarettes is bad for your health."
+ },
+ {
+  "id": "citizen-n",
+  "headword": "citizen",
+  "pos": "noun",
+  "example": "She was born in Spain, so she is a Spanish citizen."
+ },
+ {
+  "id": "claim-v",
+  "headword": "claim",
+  "pos": "verb",
+  "example": "He claims that he saw a ghost, but nobody believes him."
+ },
+ {
+  "id": "classic-adj",
+  "headword": "classic",
+  "pos": "adjective",
+  "example": "Casablanca is a classic film that everyone should watch."
+ },
+ {
+  "id": "classical-music-n",
+  "headword": "classical music",
+  "pos": "noun",
+  "example": "My mother likes listening to classical music, like Mozart."
+ },
+ {
+  "id": "cleaner-n",
+  "headword": "cleaner",
+  "pos": "noun",
+  "example": "The cleaner comes every Monday to clean our office."
+ },
+ {
+  "id": "clear-adj",
+  "headword": "clear",
+  "pos": "adjective",
+  "example": "The teacher's explanation was very clear, so I understood."
+ },
+ {
+  "id": "clearly-adv",
+  "headword": "clearly",
+  "pos": "adverb",
+  "example": "Please speak clearly so everyone can hear you."
+ },
+ {
+  "id": "clerk-n",
+  "headword": "clerk",
+  "pos": "noun",
+  "example": "The clerk at the bank helped me open an account."
+ },
+ {
+  "id": "click-v",
+  "headword": "click",
+  "pos": "verb",
+  "example": "Click on the blue button to start the game."
+ },
+ {
+  "id": "climb-v",
+  "headword": "climb",
+  "pos": "verb",
+  "example": "We climbed the mountain and saw the sea from the top."
+ },
+ {
+  "id": "climbing-n",
+  "headword": "climbing",
+  "pos": "noun",
+  "example": "Climbing is my favourite sport, and I go every weekend."
+ },
+ {
+  "id": "clone-v",
+  "headword": "clone",
+  "pos": "verb",
+  "example": "Scientists cloned a sheep and called her Dolly."
+ },
+ {
+  "id": "clown-n",
+  "headword": "clown",
+  "pos": "noun",
+  "example": "The clown at the circus made the children laugh."
+ },
+ {
+  "id": "clue-n",
+  "headword": "clue",
+  "pos": "noun",
+  "example": "The police found a clue: a shoe near the door."
+ },
+ {
+  "id": "coast-n",
+  "headword": "coast",
+  "pos": "noun",
+  "example": "We drove along the coast and stopped at every beach."
+ },
+ {
+  "id": "coin-n",
+  "headword": "coin",
+  "pos": "noun",
+  "example": "I put a one-euro coin in the machine."
+ },
+ {
+  "id": "cola-n",
+  "headword": "cola",
+  "pos": "noun",
+  "example": "He ordered a burger and a glass of cola."
+ },
+ {
+  "id": "colorful-adj",
+  "headword": "colorful",
+  "pos": "adjective",
+  "example": "The market was full of colorful flowers and fruit."
+ },
+ {
+  "id": "column-n",
+  "headword": "column",
+  "pos": "noun",
+  "example": "Write your name in the first column of the table."
+ },
+ {
+  "id": "comb-n",
+  "headword": "comb",
+  "pos": "noun",
+  "example": "She took a comb from her bag and fixed her hair."
+ },
+ {
+  "id": "comfortable-adj",
+  "headword": "comfortable",
+  "pos": "adjective",
+  "example": "This sofa is very comfortable, I could sleep on it."
+ },
+ {
+  "id": "comic-adj",
+  "headword": "comic",
+  "pos": "adjective",
+  "example": "He played a comic role, and the audience laughed a lot."
+ },
+ {
+  "id": "comic-n",
+  "headword": "comic",
+  "pos": "noun",
+  "example": "My little brother reads comics about superheroes."
+ },
+ {
+  "id": "commitment-n",
+  "headword": "commitment",
+  "pos": "noun",
+  "example": "Having a dog is a big commitment for many years."
+ },
+ {
+  "id": "committee-n",
+  "headword": "committee",
+  "pos": "noun",
+  "example": "The school committee decided to build a new library."
+ },
+ {
+  "id": "common-adj",
+  "headword": "common",
+  "pos": "adjective",
+  "example": "Smith is a very common name in England."
+ },
+ {
+  "id": "communicate-v",
+  "headword": "communicate",
+  "pos": "verb",
+  "example": "We communicate with our cousins in Canada by email."
+ },
+ {
+  "id": "communication-n",
+  "headword": "communication",
+  "pos": "noun",
+  "example": "Good communication is important in a team."
+ },
+ {
+  "id": "company-n",
+  "headword": "company",
+  "pos": "noun",
+  "example": "My father works for a big computer company."
+ },
+ {
+  "id": "comparative-n",
+  "headword": "comparative",
+  "pos": "noun",
+  "example": "The comparative of \"big\" is \"bigger\"."
+ },
+ {
+  "id": "compare-v",
+  "headword": "compare",
+  "pos": "verb",
+  "example": "Compare the two prices before you buy the phone."
+ },
+ {
+  "id": "competition-n",
+  "headword": "competition",
+  "pos": "noun",
+  "example": "She won first prize in a singing competition."
+ },
+ {
+  "id": "complain-v",
+  "headword": "complain",
+  "pos": "verb",
+  "example": "He complained to the waiter because his soup was cold."
+ },
+ {
+  "id": "complaint-n",
+  "headword": "complaint",
+  "pos": "noun",
+  "example": "I made a complaint because the hotel room was dirty."
+ },
+ {
+  "id": "complete-adj",
+  "headword": "complete",
+  "pos": "adjective",
+  "example": "Is the list complete, or do we need more names?"
+ },
+ {
+  "id": "composer-n",
+  "headword": "composer",
+  "pos": "noun",
+  "example": "Mozart was a famous composer who wrote beautiful music."
+ },
+ {
+  "id": "concentrate-v",
+  "headword": "concentrate",
+  "pos": "verb",
+  "example": "Please be quiet, I need to concentrate on my homework."
+ },
+ {
+  "id": "concern-n",
+  "headword": "concern",
+  "pos": "noun",
+  "example": "Her main concern is her son's health."
+ },
+ {
+  "id": "condition-n",
+  "headword": "condition",
+  "pos": "noun",
+  "example": "The old car is still in very good condition."
+ },
+ {
+  "id": "confident-adj",
+  "headword": "confident",
+  "pos": "adjective",
+  "example": "She studied a lot, so she felt confident before the exam."
+ },
+ {
+  "id": "confuse-v",
+  "headword": "confuse",
+  "pos": "verb",
+  "example": "The long instructions confused me, so I asked for help."
+ },
+ {
+  "id": "confused-adj",
+  "headword": "confused",
+  "pos": "adjective",
+  "example": "I was confused because the two streets had the same name."
+ },
+ {
+  "id": "consequence-n",
+  "headword": "consequence",
+  "pos": "noun",
+  "example": "He didn't study, and the consequence was a bad mark."
+ },
+ {
+  "id": "consider-v",
+  "headword": "consider",
+  "pos": "verb",
+  "example": "We are considering a trip to Italy next summer."
+ },
+ {
+  "id": "consist-v",
+  "headword": "consist",
+  "pos": "verb",
+  "example": "The meal consists of soup, fish and a dessert."
+ },
+ {
+  "id": "contact-n",
+  "headword": "contact",
+  "pos": "noun",
+  "example": "Do you still have contact with your old school friends?"
+ },
+ {
+  "id": "contact-v",
+  "headword": "contact",
+  "pos": "verb",
+  "example": "If you have any questions, contact me by phone."
+ },
+ {
+  "id": "container-n",
+  "headword": "container",
+  "pos": "noun",
+  "example": "Put the rice in a plastic container in the fridge."
+ },
+ {
+  "id": "context-n",
+  "headword": "context",
+  "pos": "noun",
+  "example": "Read the whole sentence; the context helps you understand new words."
+ },
+ {
+  "id": "continent-n",
+  "headword": "continent",
+  "pos": "noun",
+  "example": "Africa is a very large continent with many countries."
+ },
+ {
+  "id": "continue-v",
+  "headword": "continue",
+  "pos": "verb",
+  "example": "After lunch, we continued our walk along the river."
+ },
+ {
+  "id": "contrast-n",
+  "headword": "contrast",
+  "pos": "noun",
+  "example": "There is a big contrast between the noisy city and the village."
+ }
+]

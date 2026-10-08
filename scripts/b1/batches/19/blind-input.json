@@ -1,0 +1,572 @@
+[
+ {
+  "id": "proverb-n",
+  "headword": "proverb",
+  "pos": "noun",
+  "example": "My grandmother often repeats an old proverb about patience."
+ },
+ {
+  "id": "provided-conj",
+  "headword": "provided",
+  "pos": "conjunction",
+  "example": "You can borrow my car, provided you bring it back tonight."
+ },
+ {
+  "id": "psychological-adj",
+  "headword": "psychological",
+  "pos": "adjective",
+  "example": "Losing his job caused him serious psychological problems."
+ },
+ {
+  "id": "pub-n",
+  "headword": "pub",
+  "pos": "noun",
+  "example": "We met some friends at the pub for a drink."
+ },
+ {
+  "id": "public-adj",
+  "headword": "public",
+  "pos": "adjective",
+  "example": "The library is a public building, so anyone can go in."
+ },
+ {
+  "id": "public-transport-n",
+  "headword": "public transport",
+  "pos": "noun",
+  "example": "I don't have a car, so I use public transport."
+ },
+ {
+  "id": "publicly-adv",
+  "headword": "publicly",
+  "pos": "adverb",
+  "example": "The minister publicly apologized for his mistake on television."
+ },
+ {
+  "id": "publisher-n",
+  "headword": "publisher",
+  "pos": "noun",
+  "example": "She sent her first novel to a publisher in London."
+ },
+ {
+  "id": "pullover-n",
+  "headword": "pullover",
+  "pos": "noun",
+  "example": "It was cold, so he put on a warm pullover."
+ },
+ {
+  "id": "pump-n",
+  "headword": "pump",
+  "pos": "noun",
+  "example": "I used a pump to put air in my bike tyres."
+ },
+ {
+  "id": "punish-v",
+  "headword": "punish",
+  "pos": "verb",
+  "example": "The teacher punished the boys for fighting in class."
+ },
+ {
+  "id": "punishment-n",
+  "headword": "punishment",
+  "pos": "noun",
+  "example": "His punishment was to stay at home all weekend."
+ },
+ {
+  "id": "pupil-n",
+  "headword": "pupil",
+  "pos": "noun",
+  "example": "There are thirty pupils in my daughter's class."
+ },
+ {
+  "id": "puppy-n",
+  "headword": "puppy",
+  "pos": "noun",
+  "example": "We got a little puppy for my son's birthday."
+ },
+ {
+  "id": "pure-adj",
+  "headword": "pure",
+  "pos": "adjective",
+  "example": "The water from this mountain spring is very pure."
+ },
+ {
+  "id": "purify-v",
+  "headword": "purify",
+  "pos": "verb",
+  "example": "We used tablets to purify the water before drinking it."
+ },
+ {
+  "id": "purse-n",
+  "headword": "purse",
+  "pos": "noun",
+  "example": "She took some coins out of her purse to pay."
+ },
+ {
+  "id": "push-n",
+  "headword": "push",
+  "pos": "noun",
+  "example": "The car wouldn't start, so we gave it a push."
+ },
+ {
+  "id": "puzzle-n",
+  "headword": "puzzle",
+  "pos": "noun",
+  "example": "The children spent the afternoon doing a big puzzle."
+ },
+ {
+  "id": "quake-n",
+  "headword": "quake",
+  "pos": "noun",
+  "example": "Many houses fell down during the quake."
+ },
+ {
+  "id": "qualified-adj",
+  "headword": "qualified",
+  "pos": "adjective",
+  "example": "She is a qualified nurse with ten years of experience."
+ },
+ {
+  "id": "qualify-v",
+  "headword": "qualify",
+  "pos": "verb",
+  "example": "Our team needs to win today to qualify for the final."
+ },
+ {
+  "id": "quality-adj",
+  "headword": "quality",
+  "pos": "adjective",
+  "example": "This shop only sells quality furniture made by hand."
+ },
+ {
+  "id": "quantity-n",
+  "headword": "quantity",
+  "pos": "noun",
+  "example": "They bought a large quantity of rice for the party."
+ },
+ {
+  "id": "question-mark-n",
+  "headword": "question mark",
+  "pos": "noun",
+  "example": "Don't forget to put a question mark at the end."
+ },
+ {
+  "id": "questionnaire-n",
+  "headword": "questionnaire",
+  "pos": "noun",
+  "example": "Please fill in this short questionnaire about our hotel."
+ },
+ {
+  "id": "queue-n",
+  "headword": "queue",
+  "pos": "noun",
+  "example": "There was a long queue outside the cinema."
+ },
+ {
+  "id": "race-n",
+  "headword": "race",
+  "pos": "noun",
+  "example": "He ran very fast and won the race."
+ },
+ {
+  "id": "race-v",
+  "headword": "race",
+  "pos": "verb",
+  "example": "The two boys raced each other to the end of the beach."
+ },
+ {
+  "id": "racial-adj",
+  "headword": "racial",
+  "pos": "adjective",
+  "example": "The school does not accept any racial discrimination."
+ },
+ {
+  "id": "radiation-n",
+  "headword": "radiation",
+  "pos": "noun",
+  "example": "Too much radiation from the sun can damage your skin."
+ },
+ {
+  "id": "rage-n",
+  "headword": "rage",
+  "pos": "noun",
+  "example": "He shouted in rage when he saw his broken car."
+ },
+ {
+  "id": "rail-n",
+  "headword": "rail",
+  "pos": "noun",
+  "example": "Travelling by rail is often faster than driving."
+ },
+ {
+  "id": "railroad-n",
+  "headword": "railroad",
+  "pos": "noun",
+  "example": "The old railroad went across the whole country."
+ },
+ {
+  "id": "railway-n",
+  "headword": "railway",
+  "pos": "noun",
+  "example": "They are building a new railway between the two cities."
+ },
+ {
+  "id": "rainfall-n",
+  "headword": "rainfall",
+  "pos": "noun",
+  "example": "This region has very little rainfall in summer."
+ },
+ {
+  "id": "rainforest-n",
+  "headword": "rainforest",
+  "pos": "noun",
+  "example": "Thousands of different animals live in the rainforest."
+ },
+ {
+  "id": "rank-n",
+  "headword": "rank",
+  "pos": "noun",
+  "example": "He reached the rank of captain in the army."
+ },
+ {
+  "id": "rap-v",
+  "headword": "rap",
+  "pos": "verb",
+  "example": "He loves music and likes to rap with his friends."
+ },
+ {
+  "id": "rapid-adj",
+  "headword": "rapid",
+  "pos": "adjective",
+  "example": "The city has seen rapid growth in the last ten years."
+ },
+ {
+  "id": "rapidly-adv",
+  "headword": "rapidly",
+  "pos": "adverb",
+  "example": "Prices are rising rapidly this year."
+ },
+ {
+  "id": "rare-adj",
+  "headword": "rare",
+  "pos": "adjective",
+  "example": "This bird is very rare, so few people have seen it."
+ },
+ {
+  "id": "rarely-adv",
+  "headword": "rarely",
+  "pos": "adverb",
+  "example": "I rarely watch TV because I prefer reading."
+ },
+ {
+  "id": "raspberry-n",
+  "headword": "raspberry",
+  "pos": "noun",
+  "example": "She put a fresh raspberry on top of each cake."
+ },
+ {
+  "id": "ration-n",
+  "headword": "ration",
+  "pos": "noun",
+  "example": "Each soldier received a daily ration of bread and water."
+ },
+ {
+  "id": "rational-adj",
+  "headword": "rational",
+  "pos": "adjective",
+  "example": "Try to stay calm and make a rational decision."
+ },
+ {
+  "id": "razor-n",
+  "headword": "razor",
+  "pos": "noun",
+  "example": "He shaves every morning with an electric razor."
+ },
+ {
+  "id": "reach-n",
+  "headword": "reach",
+  "pos": "noun",
+  "example": "Keep these medicines out of the reach of children."
+ },
+ {
+  "id": "react-v",
+  "headword": "react",
+  "pos": "verb",
+  "example": "How did your parents react when you told them the news?"
+ },
+ {
+  "id": "realistic-adj",
+  "headword": "realistic",
+  "pos": "adjective",
+  "example": "We need a realistic plan that we can actually finish."
+ },
+ {
+  "id": "reality-n",
+  "headword": "reality",
+  "pos": "noun",
+  "example": "He dreams of being famous, but the reality is very different."
+ },
+ {
+  "id": "rearrange-v",
+  "headword": "rearrange",
+  "pos": "verb",
+  "example": "We rearranged the furniture to make the room bigger."
+ },
+ {
+  "id": "reasonable-adj",
+  "headword": "reasonable",
+  "pos": "adjective",
+  "example": "The hotel was clean and the price was reasonable."
+ },
+ {
+  "id": "rebuild-v",
+  "headword": "rebuild",
+  "pos": "verb",
+  "example": "After the fire, they had to rebuild their house."
+ },
+ {
+  "id": "recall-v",
+  "headword": "recall",
+  "pos": "verb",
+  "example": "I can't recall the name of that film."
+ },
+ {
+  "id": "reception-n",
+  "headword": "reception",
+  "pos": "noun",
+  "example": "Leave your key at reception when you go out."
+ },
+ {
+  "id": "recite-v",
+  "headword": "recite",
+  "pos": "verb",
+  "example": "The little girl recited a poem in front of the class."
+ },
+ {
+  "id": "reclaim-v",
+  "headword": "reclaim",
+  "pos": "verb",
+  "example": "You can reclaim your bags at the airport desk."
+ },
+ {
+  "id": "recognize-v",
+  "headword": "recognize",
+  "pos": "verb",
+  "example": "I didn't recognize her because she had short hair."
+ },
+ {
+  "id": "recommend-v",
+  "headword": "recommend",
+  "pos": "verb",
+  "example": "Can you recommend a good restaurant near here?"
+ },
+ {
+  "id": "record-n",
+  "headword": "record",
+  "pos": "noun",
+  "example": "The doctor keeps a record of every patient's visits."
+ },
+ {
+  "id": "recording-n",
+  "headword": "recording",
+  "pos": "noun",
+  "example": "We listened to a recording of the concert."
+ },
+ {
+  "id": "recover-v",
+  "headword": "recover",
+  "pos": "verb",
+  "example": "It took him two weeks to recover from the flu."
+ },
+ {
+  "id": "recovery-n",
+  "headword": "recovery",
+  "pos": "noun",
+  "example": "After the operation, she made a quick recovery."
+ },
+ {
+  "id": "recycled-adj",
+  "headword": "recycled",
+  "pos": "adjective",
+  "example": "This notebook is made from recycled paper."
+ },
+ {
+  "id": "recycling-n",
+  "headword": "recycling",
+  "pos": "noun",
+  "example": "We put bottles and cans in the recycling every week."
+ },
+ {
+  "id": "reduce-v",
+  "headword": "reduce",
+  "pos": "verb",
+  "example": "Walking to work helps me reduce my stress."
+ },
+ {
+  "id": "reduction-n",
+  "headword": "reduction",
+  "pos": "noun",
+  "example": "There is a big reduction on all winter coats this week."
+ },
+ {
+  "id": "reef-n",
+  "headword": "reef",
+  "pos": "noun",
+  "example": "We went swimming near a coral reef full of colourful fish."
+ },
+ {
+  "id": "referee-n",
+  "headword": "referee",
+  "pos": "noun",
+  "example": "The referee stopped the game because a player was hurt."
+ },
+ {
+  "id": "reflection-n",
+  "headword": "reflection",
+  "pos": "noun",
+  "example": "She looked at her reflection in the shop window."
+ },
+ {
+  "id": "refreshments-n",
+  "headword": "refreshments",
+  "pos": "noun",
+  "example": "Free refreshments will be served during the break."
+ },
+ {
+  "id": "refund-n",
+  "headword": "refund",
+  "pos": "noun",
+  "example": "The shoes were broken, so the shop gave me a refund."
+ },
+ {
+  "id": "refusal-n",
+  "headword": "refusal",
+  "pos": "noun",
+  "example": "His refusal to help us made everyone angry."
+ },
+ {
+  "id": "refuse-n",
+  "headword": "refuse",
+  "pos": "noun",
+  "example": "The council collects household refuse every Monday."
+ },
+ {
+  "id": "refuse-v",
+  "headword": "refuse",
+  "pos": "verb",
+  "example": "She refused to answer any questions about her private life."
+ },
+ {
+  "id": "regain-v",
+  "headword": "regain",
+  "pos": "verb",
+  "example": "After a long rest, he slowly regained his strength."
+ },
+ {
+  "id": "regard-v",
+  "headword": "regard",
+  "pos": "verb",
+  "example": "Many people regard her as the best singer in the country."
+ },
+ {
+  "id": "regarding-prep",
+  "headword": "regarding",
+  "pos": "preposition",
+  "example": "I am writing regarding the job you advertised last week."
+ },
+ {
+  "id": "region-n",
+  "headword": "region",
+  "pos": "noun",
+  "example": "This region of France is famous for its wine."
+ },
+ {
+  "id": "regional-adj",
+  "headword": "regional",
+  "pos": "adjective",
+  "example": "You can try many regional dishes at the market."
+ },
+ {
+  "id": "register-n",
+  "headword": "register",
+  "pos": "noun",
+  "example": "The teacher calls the register at the start of every lesson."
+ },
+ {
+  "id": "register-v",
+  "headword": "register",
+  "pos": "verb",
+  "example": "You need to register online before the course starts."
+ },
+ {
+  "id": "registration-n",
+  "headword": "registration",
+  "pos": "noun",
+  "example": "Online registration for the race closes on Friday."
+ },
+ {
+  "id": "regulation-n",
+  "headword": "regulation",
+  "pos": "noun",
+  "example": "The new safety regulations say that everyone must wear a helmet."
+ },
+ {
+  "id": "reject-v",
+  "headword": "reject",
+  "pos": "verb",
+  "example": "The company rejected his application because he had no experience."
+ },
+ {
+  "id": "relate-v",
+  "headword": "relate",
+  "pos": "verb",
+  "example": "Many teenagers can relate to the problems in this book."
+ },
+ {
+  "id": "relation-n",
+  "headword": "relation",
+  "pos": "noun",
+  "example": "Today, relations between the two countries are much better."
+ },
+ {
+  "id": "relationship-n",
+  "headword": "relationship",
+  "pos": "noun",
+  "example": "She has a very good relationship with her brother."
+ },
+ {
+  "id": "relative-adj",
+  "headword": "relative",
+  "pos": "adjective",
+  "example": "After the storm, we enjoyed a period of relative calm."
+ },
+ {
+  "id": "relative-n",
+  "headword": "relative",
+  "pos": "noun",
+  "example": "All our relatives came to my grandfather's birthday party."
+ },
+ {
+  "id": "relatively-adv",
+  "headword": "relatively",
+  "pos": "adverb",
+  "example": "The exam was relatively easy, so most students passed."
+ },
+ {
+  "id": "relaxing-adj",
+  "headword": "relaxing",
+  "pos": "adjective",
+  "example": "A hot bath is very relaxing after a long day."
+ },
+ {
+  "id": "release-v",
+  "headword": "release",
+  "pos": "verb",
+  "example": "The band will release their new album next month."
+ },
+ {
+  "id": "reliable-adj",
+  "headword": "reliable",
+  "pos": "adjective",
+  "example": "My old car is still very reliable and never breaks down."
+ }
+]

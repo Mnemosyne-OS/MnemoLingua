@@ -1,0 +1,952 @@
+{
+ "counseling-n": {
+  "gloss": {
+   "fr": "la thérapie",
+   "es": "la terapia"
+  },
+  "exampleGloss": {
+   "fr": "Après son divorce, elle a suivi une thérapie pour parler de ce qu'elle ressentait.",
+   "es": "Después de divorciarse, fue a terapia para hablar de sus sentimientos."
+  }
+ },
+ "count-n": {
+  "gloss": {
+   "fr": "le décompte",
+   "es": "el recuento"
+  },
+  "exampleGloss": {
+   "fr": "Au dernier décompte, quarante personnes s'étaient inscrites au voyage.",
+   "es": "Según el último recuento, cuarenta personas se habían apuntado al viaje."
+  }
+ },
+ "counter-v": {
+  "gloss": {
+   "fr": "contrer",
+   "es": "rebatir"
+  },
+  "exampleGloss": {
+   "fr": "Elle s'est appuyée sur des faits pour contrer son argument.",
+   "es": "Usó datos para rebatir su argumento."
+  }
+ },
+ "countless-adj": {
+  "gloss": {
+   "fr": "innombrable",
+   "es": "incontable"
+  },
+  "exampleGloss": {
+   "fr": "Je t'ai dit mille fois de fermer la porte !",
+   "es": "¡Te he dicho mil veces que cierres la puerta!"
+  }
+ },
+ "county-n": {
+  "gloss": {
+   "fr": "le comté",
+   "es": "el condado"
+  },
+  "exampleGloss": {
+   "fr": "Ils habitent dans un comté tranquille du sud de l'Angleterre.",
+   "es": "Viven en un condado tranquilo del sur de Inglaterra."
+  }
+ },
+ "courage-n": {
+  "gloss": {
+   "fr": "le courage",
+   "es": "el valor"
+  },
+  "exampleGloss": {
+   "fr": "Il faut du courage pour sauter dans la mer froide.",
+   "es": "Hace falta valor para tirarse al mar frío."
+  }
+ },
+ "courageous-adj": {
+  "gloss": {
+   "fr": "courageux",
+   "es": "valiente"
+  },
+  "exampleGloss": {
+   "fr": "Le pompier courageux a sauvé un enfant de la maison en flammes.",
+   "es": "El valiente bombero salvó a un niño de la casa en llamas."
+  }
+ },
+ "courgette-n": {
+  "gloss": {
+   "fr": "la courgette",
+   "es": "el calabacín"
+  },
+  "exampleGloss": {
+   "fr": "J'ai coupé une courgette en petits morceaux pour la soupe.",
+   "es": "Corté un calabacín en trozos pequeños para la sopa."
+  }
+ },
+ "craft-n": {
+  "gloss": {
+   "fr": "l'artisanat",
+   "es": "la artesanía"
+  },
+  "exampleGloss": {
+   "fr": "La poterie est un artisanat qui demande des années d'apprentissage.",
+   "es": "La alfarería es una artesanía que se tarda años en aprender."
+  }
+ },
+ "crash-n": {
+  "gloss": {
+   "fr": "l'accident",
+   "es": "el accidente"
+  },
+  "exampleGloss": {
+   "fr": "Personne n'a été blessé dans l'accident de voiture de ce matin.",
+   "es": "Nadie resultó herido en el accidente de coche de esta mañana."
+  }
+ },
+ "crash-v": {
+  "gloss": {
+   "fr": "percuter",
+   "es": "chocar"
+  },
+  "exampleGloss": {
+   "fr": "Le conducteur a perdu le contrôle et la voiture a percuté un arbre.",
+   "es": "El conductor perdió el control y el coche chocó contra un árbol."
+  }
+ },
+ "creator-n": {
+  "gloss": {
+   "fr": "le créateur",
+   "es": "el creador"
+  },
+  "exampleGloss": {
+   "fr": "La créatrice du jeu est une jeune femme de Madrid.",
+   "es": "La creadora del juego es una joven de Madrid."
+  }
+ },
+ "criminal-n": {
+  "gloss": {
+   "fr": "le criminel",
+   "es": "el delincuente"
+  },
+  "exampleGloss": {
+   "fr": "La police a arrêté le malfaiteur deux jours après le vol.",
+   "es": "La policía atrapó al delincuente dos días después del robo."
+  }
+ },
+ "crisis-n": {
+  "gloss": {
+   "fr": "la crise",
+   "es": "la crisis"
+  },
+  "exampleGloss": {
+   "fr": "Beaucoup de familles ont perdu leur logement pendant la crise économique.",
+   "es": "Muchas familias perdieron su casa durante la crisis económica."
+  }
+ },
+ "critic-n": {
+  "gloss": {
+   "fr": "le critique",
+   "es": "el crítico"
+  },
+  "exampleGloss": {
+   "fr": "Le critique de cinéma a dit que le nouveau film était ennuyeux.",
+   "es": "El crítico de cine dijo que la nueva película era aburrida."
+  }
+ },
+ "critical-adj": {
+  "gloss": {
+   "fr": "critique",
+   "es": "crítico"
+  },
+  "exampleGloss": {
+   "fr": "Mon patron est très critique envers tout ce que je fais.",
+   "es": "Mi jefe es muy crítico con todo lo que hago."
+  }
+ },
+ "crop-n": {
+  "gloss": {
+   "fr": "la culture",
+   "es": "el cultivo"
+  },
+  "exampleGloss": {
+   "fr": "Le riz est la principale culture dans cette région du pays.",
+   "es": "El arroz es el cultivo principal en esta zona del país."
+  }
+ },
+ "crossing-n": {
+  "gloss": {
+   "fr": "le passage piéton",
+   "es": "el paso de peatones"
+  },
+  "exampleGloss": {
+   "fr": "Utilise toujours le passage piéton pour traverser la rue.",
+   "es": "Usa siempre el paso de peatones para cruzar la calle."
+  }
+ },
+ "crossroads-n": {
+  "gloss": {
+   "fr": "le carrefour",
+   "es": "el cruce"
+  },
+  "exampleGloss": {
+   "fr": "Tournez à gauche au carrefour et la banque est sur votre droite.",
+   "es": "Gire a la izquierda en el cruce y el banco está a su derecha."
+  }
+ },
+ "crow-n": {
+  "gloss": {
+   "fr": "le corbeau",
+   "es": "el cuervo"
+  },
+  "exampleGloss": {
+   "fr": "Un gros corbeau noir était posé sur le toit.",
+   "es": "Un cuervo grande y negro estaba posado en el tejado."
+  }
+ },
+ "cruel-adj": {
+  "gloss": {
+   "fr": "cruel",
+   "es": "cruel"
+  },
+  "exampleGloss": {
+   "fr": "C'est cruel de garder un chien dans une cage aussi petite.",
+   "es": "Es cruel tener a un perro en una jaula tan pequeña."
+  }
+ },
+ "crush-n": {
+  "gloss": {
+   "fr": "la cohue",
+   "es": "la aglomeración"
+  },
+  "exampleGloss": {
+   "fr": "Il y avait une cohue terrible à la gare après le concert.",
+   "es": "Había una aglomeración terrible de gente en la estación después del concierto."
+  }
+ },
+ "cucumber-n": {
+  "gloss": {
+   "fr": "le concombre",
+   "es": "el pepino"
+  },
+  "exampleGloss": {
+   "fr": "J'ai mis du concombre et de la tomate dans la salade.",
+   "es": "Puse pepino y tomate en la ensalada."
+  }
+ },
+ "cultivate-v": {
+  "gloss": {
+   "fr": "cultiver",
+   "es": "cultivar"
+  },
+  "exampleGloss": {
+   "fr": "Ici, les agriculteurs cultivent du raisin pour faire du vin.",
+   "es": "Aquí los agricultores cultivan uva para hacer vino."
+  }
+ },
+ "cultural-adj": {
+  "gloss": {
+   "fr": "culturel",
+   "es": "cultural"
+  },
+  "exampleGloss": {
+   "fr": "La ville propose de nombreux événements culturels, comme des concerts et des expositions.",
+   "es": "La ciudad tiene muchos eventos culturales, como conciertos y exposiciones."
+  }
+ },
+ "cure-n": {
+  "gloss": {
+   "fr": "le remède",
+   "es": "la cura"
+  },
+  "exampleGloss": {
+   "fr": "Les médecins cherchent encore un remède contre cette maladie.",
+   "es": "Los médicos siguen buscando una cura para esta enfermedad."
+  }
+ },
+ "curiosity-n": {
+  "gloss": {
+   "fr": "la curiosité",
+   "es": "la curiosidad"
+  },
+  "exampleGloss": {
+   "fr": "Par curiosité, j'ai ouvert la boîte pour voir ce qu'il y avait dedans.",
+   "es": "Por curiosidad, abrí la caja para ver qué había dentro."
+  }
+ },
+ "curious-adj": {
+  "gloss": {
+   "fr": "curieux",
+   "es": "curioso"
+  },
+  "exampleGloss": {
+   "fr": "Les enfants sont curieux et posent beaucoup de questions.",
+   "es": "Los niños son curiosos y hacen muchas preguntas."
+  }
+ },
+ "curiously-adv": {
+  "gloss": {
+   "fr": "avec curiosité",
+   "es": "con curiosidad"
+  },
+  "exampleGloss": {
+   "fr": "Le chat a regardé le nouveau jouet avec curiosité.",
+   "es": "El gato miró el juguete nuevo con curiosidad."
+  }
+ },
+ "curly-adj": {
+  "gloss": {
+   "fr": "bouclé",
+   "es": "rizado"
+  },
+  "exampleGloss": {
+   "fr": "Ma sœur a les cheveux longs et bouclés, mais les miens sont raides.",
+   "es": "Mi hermana tiene el pelo largo y rizado, pero el mío es liso."
+  }
+ },
+ "currency-n": {
+  "gloss": {
+   "fr": "la monnaie",
+   "es": "la moneda"
+  },
+  "exampleGloss": {
+   "fr": "L'euro est la monnaie de la France et de l'Espagne.",
+   "es": "El euro es la moneda de Francia y España."
+  }
+ },
+ "current-adj": {
+  "gloss": {
+   "fr": "actuel",
+   "es": "actual"
+  },
+  "exampleGloss": {
+   "fr": "Quelle est votre adresse actuelle ?",
+   "es": "¿Cuál es tu dirección actual?"
+  }
+ },
+ "currently-adv": {
+  "gloss": {
+   "fr": "actuellement",
+   "es": "actualmente"
+  },
+  "exampleGloss": {
+   "fr": "Elle travaille actuellement dans un hôtel à Londres.",
+   "es": "Actualmente trabaja en un hotel de Londres."
+  }
+ },
+ "curriculum-n": {
+  "gloss": {
+   "fr": "le programme scolaire",
+   "es": "el plan de estudios"
+  },
+  "exampleGloss": {
+   "fr": "Dans notre pays, la musique fait partie du programme scolaire.",
+   "es": "En nuestro país, la música forma parte del plan de estudios."
+  }
+ },
+ "curtain-n": {
+  "gloss": {
+   "fr": "le rideau",
+   "es": "la cortina"
+  },
+  "exampleGloss": {
+   "fr": "Ferme le rideau, s'il te plaît, j'ai le soleil dans les yeux.",
+   "es": "Cierra la cortina, por favor, que me da el sol en los ojos."
+  }
+ },
+ "curve-n": {
+  "gloss": {
+   "fr": "le virage",
+   "es": "la curva"
+  },
+  "exampleGloss": {
+   "fr": "Roule doucement, il y a un virage serré un peu plus loin.",
+   "es": "Conduce despacio, que hay una curva cerrada más adelante."
+  }
+ },
+ "cushion-n": {
+  "gloss": {
+   "fr": "le coussin",
+   "es": "el cojín"
+  },
+  "exampleGloss": {
+   "fr": "Elle a mis un coussin moelleux derrière son dos sur le canapé.",
+   "es": "Se puso un cojín blandito detrás de la espalda en el sofá."
+  }
+ },
+ "customs-n": {
+  "gloss": {
+   "fr": "la douane",
+   "es": "la aduana"
+  },
+  "exampleGloss": {
+   "fr": "Nous avons dû ouvrir nos sacs à la douane à notre arrivée.",
+   "es": "Tuvimos que abrir las maletas en la aduana al llegar."
+  }
+ },
+ "cut-n": {
+  "gloss": {
+   "fr": "la coupure",
+   "es": "el corte"
+  },
+  "exampleGloss": {
+   "fr": "J'ai une petite coupure au doigt à cause du couteau.",
+   "es": "Tengo un pequeño corte en el dedo por el cuchillo."
+  }
+ },
+ "cv-n": {
+  "gloss": {
+   "fr": "le CV",
+   "es": "el currículum"
+  },
+  "exampleGloss": {
+   "fr": "Envoie ton CV au responsable si tu veux le poste.",
+   "es": "Envía tu currículum al encargado si quieres el trabajo."
+  }
+ },
+ "cycle-n": {
+  "gloss": {
+   "fr": "la balade à vélo",
+   "es": "el paseo en bici"
+  },
+  "exampleGloss": {
+   "fr": "Dimanche, nous avons fait une longue balade à vélo le long de la rivière.",
+   "es": "El domingo dimos un largo paseo en bici junto al río."
+  }
+ },
+ "cycle-v": {
+  "gloss": {
+   "fr": "aller à vélo",
+   "es": "ir en bici"
+  },
+  "exampleGloss": {
+   "fr": "Je vais au travail à vélo tous les jours, même quand il pleut.",
+   "es": "Voy al trabajo en bici todos los días, incluso cuando llueve."
+  }
+ },
+ "daisy-n": {
+  "gloss": {
+   "fr": "la pâquerette",
+   "es": "la margarita"
+  },
+  "exampleGloss": {
+   "fr": "La petite fille a cueilli une pâquerette blanche dans le jardin.",
+   "es": "La niña cogió una margarita blanca en el jardín."
+  }
+ },
+ "damage-n": {
+  "gloss": {
+   "fr": "les dégâts",
+   "es": "los daños"
+  },
+  "exampleGloss": {
+   "fr": "La tempête a causé beaucoup de dégâts aux maisons.",
+   "es": "La tormenta causó muchos daños en las casas."
+  }
+ },
+ "damage-v": {
+  "gloss": {
+   "fr": "abîmer",
+   "es": "dañar"
+  },
+  "exampleGloss": {
+   "fr": "Trop de soleil peut abîmer la peau.",
+   "es": "Demasiado sol puede dañar la piel."
+  }
+ },
+ "damaged-adj": {
+  "gloss": {
+   "fr": "endommagé",
+   "es": "dañado"
+  },
+  "exampleGloss": {
+   "fr": "Le magasin m'a donné un nouveau téléphone parce que le mien était endommagé.",
+   "es": "La tienda me dio un móvil nuevo porque el mío estaba dañado."
+  }
+ },
+ "damp-adj": {
+  "gloss": {
+   "fr": "humide",
+   "es": "húmedo"
+  },
+  "exampleGloss": {
+   "fr": "Les serviettes sont encore humides, alors laisse-les sécher dehors.",
+   "es": "Las toallas todavía están húmedas, así que déjalas fuera para que se sequen."
+  }
+ },
+ "dangerously-adv": {
+  "gloss": {
+   "fr": "dangereusement",
+   "es": "peligrosamente"
+  },
+  "exampleGloss": {
+   "fr": "Il roulait dangereusement vite sur la route mouillée.",
+   "es": "Conducía peligrosamente rápido por la carretera mojada."
+  }
+ },
+ "dare-v": {
+  "gloss": {
+   "fr": "oser",
+   "es": "atreverse"
+  },
+  "exampleGloss": {
+   "fr": "Je n'ai pas osé parler de la vitre cassée à ma mère.",
+   "es": "No me atreví a contarle a mi madre lo de la ventana rota."
+  }
+ },
+ "darkness-n": {
+  "gloss": {
+   "fr": "l'obscurité",
+   "es": "la oscuridad"
+  },
+  "exampleGloss": {
+   "fr": "Les lumières se sont éteintes et la pièce était plongée dans l'obscurité totale.",
+   "es": "Se apagaron las luces y la habitación quedó a oscuras por completo."
+  }
+ },
+ "date-v": {
+  "gloss": {
+   "fr": "sortir ensemble",
+   "es": "salir juntos"
+  },
+  "exampleGloss": {
+   "fr": "Ils ont commencé à sortir ensemble quand ils étaient à l'université.",
+   "es": "Empezaron a salir juntos cuando estaban en la universidad."
+  }
+ },
+ "dating-n": {
+  "gloss": {
+   "fr": "les rencontres",
+   "es": "las citas"
+  },
+  "exampleGloss": {
+   "fr": "Ma cousine a rencontré son mari sur un site de rencontres.",
+   "es": "Mi prima conoció a su marido en una aplicación de citas."
+  }
+ },
+ "daze-n": {
+  "gloss": {
+   "fr": "l'état second",
+   "es": "el aturdimiento"
+  },
+  "exampleGloss": {
+   "fr": "Après la mauvaise nouvelle, il errait dans un état second.",
+   "es": "Después de la mala noticia, andaba aturdido de un lado para otro."
+  }
+ },
+ "dazzle-n": {
+  "gloss": {
+   "fr": "l'éblouissement",
+   "es": "el deslumbramiento"
+  },
+  "exampleGloss": {
+   "fr": "L'éblouissement des phares de la voiture empêchait de bien voir.",
+   "es": "El resplandor de los faros del coche hacía difícil ver."
+  }
+ },
+ "deadline-n": {
+  "gloss": {
+   "fr": "la date limite",
+   "es": "la fecha límite"
+  },
+  "exampleGloss": {
+   "fr": "La date limite pour le projet est vendredi prochain.",
+   "es": "La fecha límite del proyecto es el viernes que viene."
+  }
+ },
+ "deadly-adj": {
+  "gloss": {
+   "fr": "mortel",
+   "es": "mortal"
+  },
+  "exampleGloss": {
+   "fr": "Certains serpents de cette forêt sont mortels, alors faites attention.",
+   "es": "Algunas serpientes de este bosque son mortales, así que ten cuidado."
+  }
+ },
+ "deaf-adj": {
+  "gloss": {
+   "fr": "sourd",
+   "es": "sordo"
+  },
+  "exampleGloss": {
+   "fr": "Mon grand-père est sourd, alors il n'entend pas le téléphone.",
+   "es": "Mi abuelo es sordo, así que no oye el teléfono."
+  }
+ },
+ "deal-v": {
+  "gloss": {
+   "fr": "gérer",
+   "es": "tratar"
+  },
+  "exampleGloss": {
+   "fr": "Le professeur sait comment gérer les élèves difficiles.",
+   "es": "El profesor sabe cómo tratar a los alumnos difíciles."
+  }
+ },
+ "dealer-n": {
+  "gloss": {
+   "fr": "le concessionnaire",
+   "es": "el concesionario"
+  },
+  "exampleGloss": {
+   "fr": "Nous avons acheté notre nouvelle voiture chez un concessionnaire en ville.",
+   "es": "Compramos el coche nuevo en un concesionario del centro."
+  }
+ },
+ "debris-n": {
+  "gloss": {
+   "fr": "les débris",
+   "es": "los escombros"
+  },
+  "exampleGloss": {
+   "fr": "Après la tempête, il y avait des débris partout sur la plage.",
+   "es": "Después de la tormenta, había restos por toda la playa."
+  }
+ },
+ "debt-n": {
+  "gloss": {
+   "fr": "la dette",
+   "es": "la deuda"
+  },
+  "exampleGloss": {
+   "fr": "Il a emprunté de l'argent à la banque et maintenant il est endetté.",
+   "es": "Pidió dinero prestado al banco y ahora tiene deudas."
+  }
+ },
+ "decision-n": {
+  "gloss": {
+   "fr": "la décision",
+   "es": "la decisión"
+  },
+  "exampleGloss": {
+   "fr": "M'installer en Espagne a été la meilleure décision de ma vie.",
+   "es": "Mudarme a España fue la mejor decisión de mi vida."
+  }
+ },
+ "declaration-n": {
+  "gloss": {
+   "fr": "la déclaration",
+   "es": "la declaración"
+  },
+  "exampleGloss": {
+   "fr": "Les deux pays ont signé une déclaration de paix.",
+   "es": "Los dos países firmaron una declaración de paz."
+  }
+ },
+ "declare-v": {
+  "gloss": {
+   "fr": "déclarer",
+   "es": "declarar"
+  },
+  "exampleGloss": {
+   "fr": "Avez-vous quelque chose à déclarer à la douane ?",
+   "es": "¿Tiene algo que declarar en la aduana?"
+  }
+ },
+ "decline-n": {
+  "gloss": {
+   "fr": "la baisse",
+   "es": "el descenso"
+  },
+  "exampleGloss": {
+   "fr": "Il y a eu une baisse du nombre de visiteurs cette année.",
+   "es": "Este año ha habido un descenso en el número de visitantes."
+  }
+ },
+ "decrease-n": {
+  "gloss": {
+   "fr": "la baisse",
+   "es": "la bajada"
+  },
+  "exampleGloss": {
+   "fr": "Il y a eu une forte baisse des prix après Noël.",
+   "es": "Hubo una gran bajada de precios después de Navidad."
+  }
+ },
+ "decrease-v": {
+  "gloss": {
+   "fr": "baisser",
+   "es": "bajar"
+  },
+  "exampleGloss": {
+   "fr": "La température va beaucoup baisser cette nuit.",
+   "es": "La temperatura va a bajar mucho esta noche."
+  }
+ },
+ "dedicate-v": {
+  "gloss": {
+   "fr": "dédier",
+   "es": "dedicar"
+  },
+  "exampleGloss": {
+   "fr": "La chanteuse veut dédier cette chanson à sa mère.",
+   "es": "La cantante quiere dedicar esta canción a su madre."
+  }
+ },
+ "deed-n": {
+  "gloss": {
+   "fr": "l'action",
+   "es": "la obra"
+  },
+  "exampleGloss": {
+   "fr": "Aider la vieille dame à faire ses courses, c'était une bonne action.",
+   "es": "Ayudar a la señora mayor con la compra fue una buena obra."
+  }
+ },
+ "defeat-v": {
+  "gloss": {
+   "fr": "battre",
+   "es": "vencer"
+  },
+  "exampleGloss": {
+   "fr": "Notre équipe espère battre les champions samedi.",
+   "es": "Nuestro equipo espera vencer a los campeones el sábado."
+  }
+ },
+ "defend-v": {
+  "gloss": {
+   "fr": "défendre",
+   "es": "defender"
+  },
+  "exampleGloss": {
+   "fr": "À l'école, elle essaie toujours de défendre son petit frère.",
+   "es": "En el colegio siempre intenta defender a su hermano pequeño."
+  }
+ },
+ "defender-n": {
+  "gloss": {
+   "fr": "le défenseur",
+   "es": "el defensa"
+  },
+  "exampleGloss": {
+   "fr": "Le défenseur a arrêté le ballon avant qu'il n'atteigne le but.",
+   "es": "El defensa paró el balón antes de que llegara a la portería."
+  }
+ },
+ "defense-n": {
+  "gloss": {
+   "fr": "la défense",
+   "es": "la defensa"
+  },
+  "exampleGloss": {
+   "fr": "L'équipe a perdu parce que sa défense était très faible.",
+   "es": "El equipo perdió porque su defensa era muy floja."
+  }
+ },
+ "deficiency-n": {
+  "gloss": {
+   "fr": "la carence",
+   "es": "la carencia"
+  },
+  "exampleGloss": {
+   "fr": "Une carence en vitamine D peut provoquer de la fatigue.",
+   "es": "La carencia de vitamina D puede hacer que te sientas cansado."
+  }
+ },
+ "define-v": {
+  "gloss": {
+   "fr": "définir",
+   "es": "definir"
+  },
+  "exampleGloss": {
+   "fr": "Tu peux définir ce mot en anglais simple ?",
+   "es": "¿Puedes definir esta palabra en un inglés sencillo?"
+  }
+ },
+ "definite-adj": {
+  "gloss": {
+   "fr": "définitif",
+   "es": "definitivo"
+  },
+  "exampleGloss": {
+   "fr": "Il nous faut une réponse définitive d'ici lundi, pas un peut-être.",
+   "es": "Necesitamos una respuesta definitiva antes del lunes, no un quizás."
+  }
+ },
+ "definite-article-n": {
+  "gloss": {
+   "fr": "l'article défini",
+   "es": "el artículo determinado"
+  },
+  "exampleGloss": {
+   "fr": "En anglais, « the » est l'article défini.",
+   "es": "En inglés, «the» es el artículo determinado."
+  }
+ },
+ "definitely-adv": {
+  "gloss": {
+   "fr": "sans faute",
+   "es": "sin falta"
+  },
+  "exampleGloss": {
+   "fr": "Je viendrai sans faute à ta fête samedi.",
+   "es": "Iré sin falta a tu fiesta el sábado."
+  }
+ },
+ "definition-n": {
+  "gloss": {
+   "fr": "la définition",
+   "es": "la definición"
+  },
+  "exampleGloss": {
+   "fr": "Cherche la définition de ce mot dans ton dictionnaire.",
+   "es": "Busca la definición de esta palabra en el diccionario."
+  }
+ },
+ "delay-v": {
+  "gloss": {
+   "fr": "retarder",
+   "es": "retrasar"
+  },
+  "exampleGloss": {
+   "fr": "Les fortes chutes de neige vont retarder tous les vols ce matin.",
+   "es": "La fuerte nevada va a retrasar todos los vuelos esta mañana."
+  }
+ },
+ "delete-v": {
+  "gloss": {
+   "fr": "supprimer",
+   "es": "borrar"
+  },
+  "exampleGloss": {
+   "fr": "J'ai supprimé par erreur toutes les photos de mon téléphone.",
+   "es": "Borré sin querer todas las fotos del móvil."
+  }
+ },
+ "delicate-adj": {
+  "gloss": {
+   "fr": "fragile",
+   "es": "delicado"
+  },
+  "exampleGloss": {
+   "fr": "Fais attention à ces verres, ils sont très fragiles.",
+   "es": "Ten cuidado con esas copas, son muy delicadas."
+  }
+ },
+ "delight-n": {
+  "gloss": {
+   "fr": "la joie",
+   "es": "la alegría"
+  },
+  "exampleGloss": {
+   "fr": "À ma grande joie, j'ai réussi l'examen avec une très bonne note.",
+   "es": "Para mi alegría, aprobé el examen con una nota alta."
+  }
+ },
+ "delighted-adj": {
+  "gloss": {
+   "fr": "ravi",
+   "es": "encantado"
+  },
+  "exampleGloss": {
+   "fr": "Elle était ravie des fleurs que tu lui as envoyées.",
+   "es": "Estaba encantada con las flores que le enviaste."
+  }
+ },
+ "delightful-adj": {
+  "gloss": {
+   "fr": "charmant",
+   "es": "estupendo"
+  },
+  "exampleGloss": {
+   "fr": "Nous avons fait un déjeuner charmant dans un petit restaurant avec jardin.",
+   "es": "Tuvimos una comida estupenda en un pequeño restaurante con jardín."
+  }
+ },
+ "deliver-v": {
+  "gloss": {
+   "fr": "livrer",
+   "es": "entregar"
+  },
+  "exampleGloss": {
+   "fr": "Le magasin livrera le nouveau canapé mardi.",
+   "es": "La tienda entregará el sofá nuevo el martes."
+  }
+ },
+ "delivery-n": {
+  "gloss": {
+   "fr": "la livraison",
+   "es": "el envío"
+  },
+  "exampleGloss": {
+   "fr": "La livraison est gratuite à partir de cinquante euros d'achat.",
+   "es": "El envío es gratis si gastas más de cincuenta euros."
+  }
+ },
+ "demand-n": {
+  "gloss": {
+   "fr": "la demande",
+   "es": "la demanda"
+  },
+  "exampleGloss": {
+   "fr": "Il y a une forte demande d'infirmières dans ce pays.",
+   "es": "Hay una gran demanda de enfermeros en este país."
+  }
+ },
+ "demand-v": {
+  "gloss": {
+   "fr": "exiger",
+   "es": "exigir"
+  },
+  "exampleGloss": {
+   "fr": "Le client a exigé de parler au responsable.",
+   "es": "El cliente exigió hablar con el encargado."
+  }
+ },
+ "democracy-n": {
+  "gloss": {
+   "fr": "la démocratie",
+   "es": "la democracia"
+  },
+  "exampleGloss": {
+   "fr": "En démocratie, les gens choisissent leurs dirigeants en votant.",
+   "es": "En una democracia, la gente elige a sus gobernantes votando."
+  }
+ },
+ "democratic-adj": {
+  "gloss": {
+   "fr": "démocratique",
+   "es": "democrático"
+  },
+  "exampleGloss": {
+   "fr": "La classe a pris une décision démocratique en votant.",
+   "es": "La clase tomó una decisión democrática mediante una votación."
+  }
+ },
+ "demonstrate-v": {
+  "gloss": {
+   "fr": "montrer",
+   "es": "mostrar"
+  },
+  "exampleGloss": {
+   "fr": "Le professeur va montrer comment utiliser la machine.",
+   "es": "El profesor va a mostrar cómo se usa la máquina."
+  }
+ },
+ "demonstration-n": {
+  "gloss": {
+   "fr": "la manifestation",
+   "es": "la manifestación"
+  },
+  "exampleGloss": {
+   "fr": "Des milliers de personnes ont rejoint la manifestation contre la nouvelle loi.",
+   "es": "Miles de personas se unieron a la manifestación contra la nueva ley."
+  }
+ },
+ "deny-v": {
+  "gloss": {
+   "fr": "nier",
+   "es": "negar"
+  },
+  "exampleGloss": {
+   "fr": "Il continue de nier avoir pris l'argent.",
+   "es": "Sigue negando que cogiera el dinero."
+  }
+ },
+ "depart-v": {
+  "gloss": {
+   "fr": "partir",
+   "es": "salir"
+  },
+  "exampleGloss": {
+   "fr": "Le train partira du quai numéro quatre à neuf heures.",
+   "es": "El tren saldrá del andén cuatro a las nueve."
+  }
+ }
+}

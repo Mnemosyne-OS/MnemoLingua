@@ -1,0 +1,392 @@
+{
+ "decoys": {
+  "caught": 6,
+  "total": 6,
+  "missed": []
+ },
+ "toReview": 1,
+ "cards": {
+  "abandon-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "able-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "abnormal-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "aboard-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "aborigine-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "above-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "absence-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "absent-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "absolute-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "absolutely-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "absorb-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "abstract-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "abundance-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "abundant-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "academic-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "academy-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "accent-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "acceptance-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "access-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "accessible-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "accessory-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "accidental-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "accidentally-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "accompany-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "accomplish-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "according-to-prep": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "account-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "accountant-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "accuracy-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "accurate-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "accurately-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "accuse-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "accustom-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "ache-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "achievement-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "acknowledge-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "acknowledgment-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "acquaintance-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "acquire-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "act-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "active-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "actress-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "ad-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "adapt-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "address-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "addressee-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "administration-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "admiration-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "admission-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "adopt-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "adorable-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "advance-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "adverb-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "adverbial-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "advert-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "advertise-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "adviser-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "aerobics-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "affect-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "affection-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "afford-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "after-conj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "afterward-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "afterwards-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "agenda-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "aggressive-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "agreement-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "agricultural-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "agriculture-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "aid-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "aid-v": {
+   "check": "to-review",
+   "problems": [
+    "fr example: ungrammatical: 'aider ta guérison' needs 'aider à' or 'favoriser'"
+   ]
+  },
+  "aim-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "air-conditioning-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "air-force-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "airline-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "alarm-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "alcohol-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "alcoholic-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "alike-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "alike-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "allergic-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "allowance-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "aloud-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "alphabet-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "alternative-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "alternative-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "altogether-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "amazed-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "amazing-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "ambitious-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "ambulance-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "amount-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "amusing-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "analysis-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "analyze-v": {
+   "check": "two-pass",
+   "problems": []
+  }
+ }
+}

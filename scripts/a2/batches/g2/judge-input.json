@@ -1,0 +1,478 @@
+[
+ {
+  "id": "r001",
+  "headword": "PASSIVE: PAST",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "I would like a cup of tea, please.",
+  "fr": {
+   "exampleA": "Les lettres ont été envoyées hier matin.",
+   "exampleB": "Les lettres ont été envoyées hier matin."
+  },
+  "es": {
+   "exampleA": "Las cartas se enviaron ayer por la mañana.",
+   "exampleB": "Las cartas se enviaron ayer por la mañana."
+  }
+ },
+ {
+  "id": "r002",
+  "headword": "TENSE/ASPECT: PAST (BE)",
+  "pos": "grammar (NEG. DEC.)",
+  "example": "I wasn't at home last night.",
+  "fr": {
+   "exampleA": "Je n'étais pas à la maison hier soir.",
+   "exampleB": "Je n'étais pas à la maison hier soir."
+  },
+  "es": {
+   "exampleA": "Anoche no estaba en casa.",
+   "exampleB": "Anoche no estaba en casa."
+  }
+ },
+ {
+  "id": "r003",
+  "headword": "TENSE/ASPECT: PAST (BE)",
+  "pos": "grammar (NEG. DEC.)",
+  "example": "The shops weren't open on Sunday morning.",
+  "fr": {
+   "exampleA": "Les magasins n'étaient pas ouverts dimanche matin.",
+   "exampleB": "Les magasins n'étaient pas ouverts dimanche matin."
+  },
+  "es": {
+   "exampleA": "Las tiendas no estaban abiertas el domingo por la mañana.",
+   "exampleB": "Las tiendas no estaban abiertas el domingo por la mañana."
+  }
+ },
+ {
+  "id": "r004",
+  "headword": "PHRASAL VERBS (V+NP+PARTICLE)",
+  "pos": "grammar",
+  "example": "Please turn the TV off before you go to bed.",
+  "fr": {
+   "exampleA": "Éteins la télé avant d'aller te coucher, s'il te plaît.",
+   "exampleB": "Éteins la télé avant d'aller te coucher, s'il te plaît."
+  },
+  "es": {
+   "exampleA": "No me gustan los zapatos rojos. Prefiero los negros.",
+   "exampleB": "Apaga la tele antes de irte a la cama, por favor."
+  }
+ },
+ {
+  "id": "r005",
+  "headword": "TENSE/ASPECT: FUTURE",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "I will call you tomorrow evening.",
+  "fr": {
+   "exampleA": "Je t'appellerai demain soir.",
+   "exampleB": "Je t'appellerai demain soir."
+  },
+  "es": {
+   "exampleA": "Te llamaré mañana por la tarde.",
+   "exampleB": "Te llamaré mañana por la noche."
+  }
+ },
+ {
+  "id": "r006",
+  "headword": "TENSE/ASPECT: FUTURE",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "The train will arrive at ten o'clock.",
+  "fr": {
+   "exampleA": "Le train arrivera à dix heures.",
+   "exampleB": "Le train arrivera à dix heures."
+  },
+  "es": {
+   "exampleA": "El tren llegará a las diez.",
+   "exampleB": "El tren llegará a las diez."
+  }
+ },
+ {
+  "id": "r007",
+  "headword": "TENSE/ASPECT: PRESENT (lexical verbs)",
+  "pos": "grammar (NEG. DEC.)",
+  "example": "I don't watch TV in the morning.",
+  "fr": {
+   "exampleA": "Je ne regarde pas la télé le matin.",
+   "exampleB": "Je ne regarde pas la télé le matin."
+  },
+  "es": {
+   "exampleA": "No veo la tele por la mañana.",
+   "exampleB": "No veo la tele por la mañana."
+  }
+ },
+ {
+  "id": "r008",
+  "headword": "TENSE/ASPECT: PRESENT (lexical verbs)",
+  "pos": "grammar (NEG. DEC.)",
+  "example": "My brother doesn't like vegetables.",
+  "fr": {
+   "exampleA": "Mon frère n'aime pas les légumes.",
+   "exampleB": "Mon frère n'aime pas les légumes."
+  },
+  "es": {
+   "exampleA": "A mi hermano no le gustan las verduras.",
+   "exampleB": "A mi hermano no le gustan las verduras."
+  }
+ },
+ {
+  "id": "r009",
+  "headword": "MODAL/AUX: be going to",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "We are going to visit my aunt this weekend.",
+  "fr": {
+   "exampleA": "Nous allons rendre visite à ma tante ce week-end.",
+   "exampleB": "On va rendre visite à ma tante ce week-end."
+  },
+  "es": {
+   "exampleA": "Vamos a visitar a mi tía este fin de semana.",
+   "exampleB": "Vamos a visitar a mi tía este fin de semana."
+  }
+ },
+ {
+  "id": "r010",
+  "headword": "MODAL/AUX: be going to",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "Look at those dark clouds! It's going to rain.",
+  "fr": {
+   "exampleA": "Regarde ces nuages noirs ! Il va pleuvoir.",
+   "exampleB": "Regarde ces nuages noirs ! Il va pleuvoir."
+  },
+  "es": {
+   "exampleA": "¡Mira esas nubes negras! Va a llover.",
+   "exampleB": "¡Mira esas nubes negras! Va a llover."
+  }
+ },
+ {
+  "id": "r011",
+  "headword": "MODAL/AUX: need (to)",
+  "pos": "grammar",
+  "example": "I need to buy some milk after work.",
+  "fr": {
+   "exampleA": "Je dois acheter du lait après le travail.",
+   "exampleB": "Il faut que j'achète du lait après le travail."
+  },
+  "es": {
+   "exampleA": "Necesito comprar leche después del trabajo.",
+   "exampleB": "Tengo que comprar leche después del trabajo."
+  }
+ },
+ {
+  "id": "r012",
+  "headword": "MODAL/AUX: need (to)",
+  "pos": "grammar",
+  "example": "You don't need to bring anything to the party.",
+  "fr": {
+   "exampleA": "Tu n'as pas besoin d'apporter quoi que ce soit à la fête.",
+   "exampleB": "Tu n'as rien besoin d'apporter à la fête."
+  },
+  "es": {
+   "exampleA": "No hace falta que traigas nada a la fiesta.",
+   "exampleB": "No hace falta que traigas nada a la fiesta."
+  }
+ },
+ {
+  "id": "r013",
+  "headword": "MODAL/AUX: will",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "Don't worry, I will help you with your homework.",
+  "fr": {
+   "exampleA": "Ne t'inquiète pas, je t'aiderai à faire tes devoirs.",
+   "exampleB": "Ne t'inquiète pas, je vais t'aider à faire tes devoirs."
+  },
+  "es": {
+   "exampleA": "No te preocupes, te ayudaré con los deberes.",
+   "exampleB": "No te preocupes, te ayudaré con los deberes."
+  }
+ },
+ {
+  "id": "r014",
+  "headword": "MODAL/AUX: will",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "I think it will be sunny tomorrow.",
+  "fr": {
+   "exampleA": "Je pense qu'il fera beau demain.",
+   "exampleB": "Je pense qu'il fera beau demain."
+  },
+  "es": {
+   "exampleA": "Creo que mañana hará sol.",
+   "exampleB": "Creo que mañana hará sol."
+  }
+ },
+ {
+  "id": "r015",
+  "headword": "FUNCTIONAL QUESTION: Can you ...?",
+  "pos": "grammar (AFF. INT.)",
+  "example": "Can you open the window, please?",
+  "fr": {
+   "exampleA": "Tu peux ouvrir la fenêtre, s'il te plaît ?",
+   "exampleB": "Tu peux ouvrir la fenêtre, s'il te plaît ?"
+  },
+  "es": {
+   "exampleA": "¿Puedes abrir la ventana, por favor?",
+   "exampleB": "¿Puedes abrir la ventana, por favor?"
+  }
+ },
+ {
+  "id": "r016",
+  "headword": "FUNCTIONAL QUESTION: Can you ...?",
+  "pos": "grammar (AFF. INT.)",
+  "example": "Can you tell me the way to the station?",
+  "fr": {
+   "exampleA": "Pouvez-vous m'indiquer le chemin de la gare ?",
+   "exampleB": "Vous pouvez m'indiquer le chemin de la gare ?"
+  },
+  "es": {
+   "exampleA": "¿Me puede decir cómo llegar a la estación?",
+   "exampleB": "¿Me puede decir cómo llegar a la estación?"
+  }
+ },
+ {
+  "id": "r017",
+  "headword": "DETERMINER: another",
+  "pos": "grammar",
+  "example": "Can I have another cup of coffee, please?",
+  "fr": {
+   "exampleA": "Je pourrais avoir un autre café, s'il vous plaît ?",
+   "exampleB": "Je peux avoir une autre tasse de café, s'il vous plaît ?"
+  },
+  "es": {
+   "exampleA": "¿Me pone otro café, por favor?",
+   "exampleB": "¿Me pone otra taza de café, por favor?"
+  }
+ },
+ {
+  "id": "r018",
+  "headword": "DETERMINER: another",
+  "pos": "grammar",
+  "example": "We need another chair for our guest.",
+  "fr": {
+   "exampleA": "Il nous faut une autre chaise pour notre invité.",
+   "exampleB": "Il nous faut une autre chaise pour notre invité."
+  },
+  "es": {
+   "exampleA": "Necesitamos otra silla para nuestro invitado.",
+   "exampleB": "Necesitamos otra silla para nuestro invitado."
+  }
+ },
+ {
+  "id": "r019",
+  "headword": "much UNCOUNTABLE NOUN",
+  "pos": "grammar",
+  "example": "We don't have much time before the film.",
+  "fr": {
+   "exampleA": "On n'a pas beaucoup de temps avant le film.",
+   "exampleB": "On n'a pas beaucoup de temps avant le film."
+  },
+  "es": {
+   "exampleA": "No tenemos mucho tiempo antes de la película.",
+   "exampleB": "No tenemos mucho tiempo antes de la película."
+  }
+ },
+ {
+  "id": "r020",
+  "headword": "much UNCOUNTABLE NOUN",
+  "pos": "grammar",
+  "example": "How much money do you have in your wallet?",
+  "fr": {
+   "exampleA": "Combien d'argent tu as dans ton portefeuille ?",
+   "exampleB": "Combien d'argent as-tu dans ton portefeuille ?"
+  },
+  "es": {
+   "exampleA": "¿Cuánto dinero llevas en la cartera?",
+   "exampleB": "¿Cuánto dinero llevas en la cartera?"
+  }
+ },
+ {
+  "id": "r021",
+  "headword": "SUPERLATIVE OF SUPERIORITY: most+ADJ/ADV",
+  "pos": "grammar",
+  "example": "This is the most beautiful beach in Spain.",
+  "fr": {
+   "exampleA": "C'est la plus belle plage d'Espagne.",
+   "exampleB": "C'est la plus belle plage d'Espagne."
+  },
+  "es": {
+   "exampleA": "Esta es la playa más bonita de España.",
+   "exampleB": "Esta es la playa más bonita de España."
+  }
+ },
+ {
+  "id": "r022",
+  "headword": "SUPERLATIVE OF SUPERIORITY: most+ADJ/ADV",
+  "pos": "grammar",
+  "example": "Maths is the most difficult subject for me.",
+  "fr": {
+   "exampleA": "Les maths, c'est la matière la plus difficile pour moi.",
+   "exampleB": "Les maths, c'est la matière la plus difficile pour moi."
+  },
+  "es": {
+   "exampleA": "Las matemáticas son la asignatura más difícil para mí.",
+   "exampleB": "Las matemáticas son la asignatura más difícil para mí."
+  }
+ },
+ {
+  "id": "r023",
+  "headword": "V+that+CLAUSE",
+  "pos": "grammar",
+  "example": "I think that she is right.",
+  "fr": {
+   "exampleA": "Je pense qu'elle a raison.",
+   "exampleB": "Je pense qu'elle a raison."
+  },
+  "es": {
+   "exampleA": "Creo que tiene razón.",
+   "exampleB": "Creo que tiene razón."
+  }
+ },
+ {
+  "id": "r024",
+  "headword": "V+that+CLAUSE",
+  "pos": "grammar",
+  "example": "We hope that you will enjoy your stay.",
+  "fr": {
+   "exampleA": "Nous espérons que vous apprécierez votre séjour.",
+   "exampleB": "Nous espérons que vous apprécierez votre séjour."
+  },
+  "es": {
+   "exampleA": "Esperamos que disfrute de su estancia.",
+   "exampleB": "Esperamos que disfrute de su estancia."
+  }
+ },
+ {
+  "id": "r025",
+  "headword": "ADVERBIAL CLAUSE: as",
+  "pos": "grammar",
+  "example": "As it was raining, we stayed inside.",
+  "fr": {
+   "exampleA": "Comme il pleuvait, nous sommes restés à l'intérieur.",
+   "exampleB": "Comme il pleuvait, nous sommes restés à l'intérieur."
+  },
+  "es": {
+   "exampleA": "Como llovía, nos quedamos dentro.",
+   "exampleB": "Como llovía, nos quedamos dentro."
+  }
+ },
+ {
+  "id": "r026",
+  "headword": "TENSE/ASPECT: PRESENT PERFECT",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "She has lost her keys again.",
+  "fr": {
+   "exampleA": "Elle a encore perdu ses clés.",
+   "exampleB": "Elle a encore perdu ses clés."
+  },
+  "es": {
+   "exampleA": "¿Tu hermano juega al fútbol los sábados?",
+   "exampleB": "Ha vuelto a perder las llaves."
+  }
+ },
+ {
+  "id": "r027",
+  "headword": "ADVERBIAL CLAUSE: as",
+  "pos": "grammar",
+  "example": "As I was leaving the house, the phone rang.",
+  "fr": {
+   "exampleA": "Au moment où je sortais de la maison, le téléphone a sonné.",
+   "exampleB": "Au moment où je quittais la maison, le téléphone a sonné."
+  },
+  "es": {
+   "exampleA": "Cuando salía de casa, sonó el teléfono.",
+   "exampleB": "Cuando salía de casa, sonó el teléfono."
+  }
+ },
+ {
+  "id": "r028",
+  "headword": "INDIRECT SPEECH: SAY/EXPLAIN/REPORT",
+  "pos": "grammar",
+  "example": "She said that she was tired.",
+  "fr": {
+   "exampleA": "Elle a dit qu'elle était fatiguée.",
+   "exampleB": "Elle a dit qu'elle était fatiguée."
+  },
+  "es": {
+   "exampleA": "Dijo que estaba cansada.",
+   "exampleB": "Dijo que estaba cansada."
+  }
+ },
+ {
+  "id": "r029",
+  "headword": "MODAL/AUX: should",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "I don't like the red shoes. I prefer the black ones.",
+  "fr": {
+   "exampleA": "Tu devrais boire plus d'eau tous les jours.",
+   "exampleB": "Tu devrais boire plus d'eau tous les jours."
+  },
+  "es": {
+   "exampleA": "Deberías beber más agua todos los días.",
+   "exampleB": "Deberías beber más agua todos los días."
+  }
+ },
+ {
+  "id": "r030",
+  "headword": "INDIRECT SPEECH: SAY/EXPLAIN/REPORT",
+  "pos": "grammar",
+  "example": "The teacher explained that the test was on Friday.",
+  "fr": {
+   "exampleA": "Le professeur a expliqué que le contrôle avait lieu vendredi.",
+   "exampleB": "Le professeur a expliqué que le contrôle était vendredi."
+  },
+  "es": {
+   "exampleA": "La profesora explicó que el examen era el viernes.",
+   "exampleB": "El profesor explicó que el examen era el viernes."
+  }
+ },
+ {
+  "id": "r031",
+  "headword": "HAVE/LET/MAKE+NP+INFINITIVE",
+  "pos": "grammar",
+  "example": "My mum let me stay up late on Saturday.",
+  "fr": {
+   "exampleA": "Ma mère m'a laissé veiller tard samedi.",
+   "exampleB": "Ma mère m'a laissé me coucher tard samedi."
+  },
+  "es": {
+   "exampleA": "Mi madre me dejó quedarme despierto hasta tarde el sábado.",
+   "exampleB": "Mi madre me dejó acostarme tarde el sábado."
+  }
+ },
+ {
+  "id": "r032",
+  "headword": "MODAL/AUX: have to",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "I have visited London three times.",
+  "fr": {
+   "exampleA": "Elle doit porter un uniforme au travail.",
+   "exampleB": "Elle doit porter un uniforme au travail."
+  },
+  "es": {
+   "exampleA": "Tiene que llevar uniforme en el trabajo.",
+   "exampleB": "Tiene que llevar uniforme en el trabajo."
+  }
+ },
+ {
+  "id": "r033",
+  "headword": "HAVE/LET/MAKE+NP+INFINITIVE",
+  "pos": "grammar",
+  "example": "That sad film made me cry.",
+  "fr": {
+   "exampleA": "Ce film triste m'a fait pleurer.",
+   "exampleB": "Ce film triste m'a fait pleurer."
+  },
+  "es": {
+   "exampleA": "Esa película triste me hizo llorar.",
+   "exampleB": "Esa película triste me hizo llorar."
+  }
+ },
+ {
+  "id": "r034",
+  "headword": "SENTENCE PATTERN: SUBJECT+V+OBJECT",
+  "pos": "grammar (NEG. DEC.)",
+  "example": "I don't eat meat on Fridays.",
+  "fr": {
+   "exampleA": "Je n'aime pas les chaussures rouges. Je préfère les noires.",
+   "exampleB": "Je ne mange pas de viande le vendredi."
+  },
+  "es": {
+   "exampleA": "No como carne los viernes.",
+   "exampleB": "No como carne los viernes."
+  }
+ }
+]

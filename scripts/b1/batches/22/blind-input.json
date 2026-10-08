@@ -1,0 +1,572 @@
+[
+ {
+  "id": "ski-v",
+  "headword": "ski",
+  "pos": "verb",
+  "example": "We ski in the Alps every February."
+ },
+ {
+  "id": "skin-n",
+  "headword": "skin",
+  "pos": "noun",
+  "example": "Use sun cream to protect your skin at the beach."
+ },
+ {
+  "id": "skyscraper-n",
+  "headword": "skyscraper",
+  "pos": "noun",
+  "example": "From the top of the skyscraper you can see the whole city."
+ },
+ {
+  "id": "slavery-n",
+  "headword": "slavery",
+  "pos": "noun",
+  "example": "Slavery ended in the United States in 1865."
+ },
+ {
+  "id": "sleep-n",
+  "headword": "sleep",
+  "pos": "noun",
+  "example": "I only got four hours of sleep last night."
+ },
+ {
+  "id": "sleeve-n",
+  "headword": "sleeve",
+  "pos": "noun",
+  "example": "This shirt is too big, the sleeves cover my hands."
+ },
+ {
+  "id": "slight-n",
+  "headword": "slight",
+  "pos": "noun",
+  "example": "She felt his rude comment was a slight against her family."
+ },
+ {
+  "id": "slightly-adv",
+  "headword": "slightly",
+  "pos": "adverb",
+  "example": "The blue shirt is slightly more expensive than the white one."
+ },
+ {
+  "id": "slip-n",
+  "headword": "slip",
+  "pos": "noun",
+  "example": "One slip on the icy steps and he broke his arm."
+ },
+ {
+  "id": "slip-v",
+  "headword": "slip",
+  "pos": "verb",
+  "example": "Be careful not to slip on the wet floor."
+ },
+ {
+  "id": "slogan-n",
+  "headword": "slogan",
+  "pos": "noun",
+  "example": "The company's new slogan is short and easy to remember."
+ },
+ {
+  "id": "slope-n",
+  "headword": "slope",
+  "pos": "noun",
+  "example": "The children rode their sledges down the snowy slope."
+ },
+ {
+  "id": "slot-n",
+  "headword": "slot",
+  "pos": "noun",
+  "example": "Put a coin in the slot and press the green button."
+ },
+ {
+  "id": "slow-adv",
+  "headword": "slow",
+  "pos": "adverb",
+  "example": "Please drive slow near the school."
+ },
+ {
+  "id": "slow-v",
+  "headword": "slow",
+  "pos": "verb",
+  "example": "The bus slowed and stopped at the corner."
+ },
+ {
+  "id": "smell-v",
+  "headword": "smell",
+  "pos": "verb",
+  "example": "The kitchen smells of fresh bread every morning."
+ },
+ {
+  "id": "smile-v",
+  "headword": "smile",
+  "pos": "verb",
+  "example": "The baby smiled when she saw her mother."
+ },
+ {
+  "id": "smoker-n",
+  "headword": "smoker",
+  "pos": "noun",
+  "example": "My uncle was a heavy smoker, but he stopped last year."
+ },
+ {
+  "id": "sneeze-n",
+  "headword": "sneeze",
+  "pos": "noun",
+  "example": "Her loud sneeze woke up the whole house."
+ },
+ {
+  "id": "snowboard-n",
+  "headword": "snowboard",
+  "pos": "noun",
+  "example": "He rented a snowboard for his first day in the mountains."
+ },
+ {
+  "id": "snowstorm-n",
+  "headword": "snowstorm",
+  "pos": "noun",
+  "example": "The snowstorm closed the airport for two days."
+ },
+ {
+  "id": "soap-opera-n",
+  "headword": "soap opera",
+  "pos": "noun",
+  "example": "My grandmother watches her favourite soap opera every afternoon."
+ },
+ {
+  "id": "social-networking-n",
+  "headword": "social networking",
+  "pos": "noun",
+  "example": "Teenagers spend a lot of time on social networking every day."
+ },
+ {
+  "id": "socially-adv",
+  "headword": "socially",
+  "pos": "adverb",
+  "example": "We work together, but we never meet socially."
+ },
+ {
+  "id": "soil-v",
+  "headword": "soil",
+  "pos": "verb",
+  "example": "Don't soil your clean shirt while you are painting."
+ },
+ {
+  "id": "solid-adj",
+  "headword": "solid",
+  "pos": "adjective",
+  "example": "Water becomes solid when it freezes."
+ },
+ {
+  "id": "somehow-adv",
+  "headword": "somehow",
+  "pos": "adverb",
+  "example": "I lost the map, but somehow we found the hotel."
+ },
+ {
+  "id": "someplace-adv",
+  "headword": "someplace",
+  "pos": "adverb",
+  "example": "Let's go someplace quiet where we can talk."
+ },
+ {
+  "id": "sometime-adv",
+  "headword": "sometime",
+  "pos": "adverb",
+  "example": "Let's have lunch together sometime next week."
+ },
+ {
+  "id": "sometimes-adv",
+  "headword": "sometimes",
+  "pos": "adverb",
+  "example": "I sometimes walk to work when the weather is nice."
+ },
+ {
+  "id": "soothe-v",
+  "headword": "soothe",
+  "pos": "verb",
+  "example": "A warm drink can soothe a sore throat."
+ },
+ {
+  "id": "sophomore-n",
+  "headword": "sophomore",
+  "pos": "noun",
+  "example": "She is a sophomore, so this is her second year at college."
+ },
+ {
+  "id": "sore-adj",
+  "headword": "sore",
+  "pos": "adjective",
+  "example": "My legs are sore after the long run yesterday."
+ },
+ {
+  "id": "sorrow-n",
+  "headword": "sorrow",
+  "pos": "noun",
+  "example": "She felt great sorrow when her old dog died."
+ },
+ {
+  "id": "sort-n",
+  "headword": "sort",
+  "pos": "noun",
+  "example": "What sort of music do you like listening to?"
+ },
+ {
+  "id": "soul-n",
+  "headword": "soul",
+  "pos": "noun",
+  "example": "Many religions believe that the soul lives after death."
+ },
+ {
+  "id": "sour-adj",
+  "headword": "sour",
+  "pos": "adjective",
+  "example": "Lemons taste sour, so I add sugar to the juice."
+ },
+ {
+  "id": "southeast-adj",
+  "headword": "southeast",
+  "pos": "adjective",
+  "example": "A strong southeast wind brought warm air to the island."
+ },
+ {
+  "id": "southeast-n",
+  "headword": "southeast",
+  "pos": "noun",
+  "example": "The rain will move to the southeast of the country tonight."
+ },
+ {
+  "id": "southern-adj",
+  "headword": "southern",
+  "pos": "adjective",
+  "example": "Seville is a beautiful city in southern Spain."
+ },
+ {
+  "id": "southwest-adj",
+  "headword": "southwest",
+  "pos": "adjective",
+  "example": "We stayed in a small village on the southwest coast."
+ },
+ {
+  "id": "southwest-n",
+  "headword": "southwest",
+  "pos": "noun",
+  "example": "The farm is in the southwest of England, near the sea."
+ },
+ {
+  "id": "souvenir-n",
+  "headword": "souvenir",
+  "pos": "noun",
+  "example": "I bought a small souvenir of Paris for my sister."
+ },
+ {
+  "id": "sparkle-n",
+  "headword": "sparkle",
+  "pos": "noun",
+  "example": "I loved the sparkle of the lights on the Christmas tree."
+ },
+ {
+  "id": "specialist-n",
+  "headword": "specialist",
+  "pos": "noun",
+  "example": "My doctor sent me to a heart specialist at the hospital."
+ },
+ {
+  "id": "specialize-v",
+  "headword": "specialize",
+  "pos": "verb",
+  "example": "This restaurant specializes in fish from the local coast."
+ },
+ {
+  "id": "specially-adv",
+  "headword": "specially",
+  "pos": "adverb",
+  "example": "My mum made this cake specially for my birthday."
+ },
+ {
+  "id": "spectacular-adj",
+  "headword": "spectacular",
+  "pos": "adjective",
+  "example": "The view from the top of the mountain was spectacular."
+ },
+ {
+  "id": "spectator-n",
+  "headword": "spectator",
+  "pos": "noun",
+  "example": "Thousands of spectators watched the final match in the stadium."
+ },
+ {
+  "id": "speed-v",
+  "headword": "speed",
+  "pos": "verb",
+  "example": "Drivers who speed near schools must pay a big fine."
+ },
+ {
+  "id": "spelling-n",
+  "headword": "spelling",
+  "pos": "noun",
+  "example": "Check your spelling before you send the email."
+ },
+ {
+  "id": "sphere-n",
+  "headword": "sphere",
+  "pos": "noun",
+  "example": "The Earth is not a perfect sphere."
+ },
+ {
+  "id": "spice-n",
+  "headword": "spice",
+  "pos": "noun",
+  "example": "Cinnamon is my favourite spice for cakes."
+ },
+ {
+  "id": "spicy-adj",
+  "headword": "spicy",
+  "pos": "adjective",
+  "example": "This curry is too spicy for me, I need some water."
+ },
+ {
+  "id": "spider-n",
+  "headword": "spider",
+  "pos": "noun",
+  "example": "A big spider was making a web in the corner."
+ },
+ {
+  "id": "spinach-n",
+  "headword": "spinach",
+  "pos": "noun",
+  "example": "I cooked spinach with garlic and olive oil."
+ },
+ {
+  "id": "spiral-adj",
+  "headword": "spiral",
+  "pos": "adjective",
+  "example": "A narrow spiral staircase leads to the top of the tower."
+ },
+ {
+  "id": "spirit-n",
+  "headword": "spirit",
+  "pos": "noun",
+  "example": "The team played with great spirit and never gave up."
+ },
+ {
+  "id": "spiritual-adj",
+  "headword": "spiritual",
+  "pos": "adjective",
+  "example": "For her, walking in the mountains is a spiritual experience."
+ },
+ {
+  "id": "split-n",
+  "headword": "split",
+  "pos": "noun",
+  "example": "There is a split in my jeans, so I need to sew them."
+ },
+ {
+  "id": "spoil-v",
+  "headword": "spoil",
+  "pos": "verb",
+  "example": "The rain spoiled our picnic in the park."
+ },
+ {
+  "id": "sponge-n",
+  "headword": "sponge",
+  "pos": "noun",
+  "example": "She washed the car with a big yellow sponge."
+ },
+ {
+  "id": "sponsor-n",
+  "headword": "sponsor",
+  "pos": "noun",
+  "example": "A local bank is the main sponsor of our football team."
+ },
+ {
+  "id": "sports-adj",
+  "headword": "sports",
+  "pos": "adjective",
+  "example": "He drives a red sports car that goes very fast."
+ },
+ {
+  "id": "sportsmanship-n",
+  "headword": "sportsmanship",
+  "pos": "noun",
+  "example": "The players showed good sportsmanship and shook hands after the game."
+ },
+ {
+  "id": "stable-adj",
+  "headword": "stable",
+  "pos": "adjective",
+  "example": "The ladder isn't stable, so hold it while I climb."
+ },
+ {
+  "id": "stall-n",
+  "headword": "stall",
+  "pos": "noun",
+  "example": "We bought fresh fruit from a stall at the market."
+ },
+ {
+  "id": "standard-n",
+  "headword": "standard",
+  "pos": "noun",
+  "example": "The hotel was cheap, but the standard of the rooms was high."
+ },
+ {
+  "id": "star-v",
+  "headword": "star",
+  "pos": "verb",
+  "example": "Her favourite actor stars in a new film this year."
+ },
+ {
+  "id": "stare-v",
+  "headword": "stare",
+  "pos": "verb",
+  "example": "It's rude to stare at people on the train."
+ },
+ {
+  "id": "status-n",
+  "headword": "status",
+  "pos": "noun",
+  "example": "In some countries, teachers have a high social status."
+ },
+ {
+  "id": "stay-n",
+  "headword": "stay",
+  "pos": "noun",
+  "example": "We enjoyed our stay at the small hotel by the lake."
+ },
+ {
+  "id": "steadily-adv",
+  "headword": "steadily",
+  "pos": "adverb",
+  "example": "Prices have risen steadily over the last five years."
+ },
+ {
+  "id": "steady-adj",
+  "headword": "steady",
+  "pos": "adjective",
+  "example": "Hold the camera steady or the photo will be blurred."
+ },
+ {
+  "id": "steam-n",
+  "headword": "steam",
+  "pos": "noun",
+  "example": "Steam rose from the hot soup on the table."
+ },
+ {
+  "id": "steel-n",
+  "headword": "steel",
+  "pos": "noun",
+  "example": "The bridge is made of steel and concrete."
+ },
+ {
+  "id": "steep-adj",
+  "headword": "steep",
+  "pos": "adjective",
+  "example": "The road up to the castle is very steep."
+ },
+ {
+  "id": "stem-v",
+  "headword": "stem",
+  "pos": "verb",
+  "example": "His fear of dogs stems from a bad experience as a child."
+ },
+ {
+  "id": "stick-v",
+  "headword": "stick",
+  "pos": "verb",
+  "example": "Please stick a stamp on the envelope before you post it."
+ },
+ {
+  "id": "sticker-n",
+  "headword": "sticker",
+  "pos": "noun",
+  "example": "My son put a dinosaur sticker on his school bag."
+ },
+ {
+  "id": "sticky-adj",
+  "headword": "sticky",
+  "pos": "adjective",
+  "example": "My fingers are sticky after eating the honey cake."
+ },
+ {
+  "id": "stir-v",
+  "headword": "stir",
+  "pos": "verb",
+  "example": "Stir the soup slowly so it doesn't burn."
+ },
+ {
+  "id": "storage-n",
+  "headword": "storage",
+  "pos": "noun",
+  "example": "We keep old furniture in storage in the garage."
+ },
+ {
+  "id": "stormy-adj",
+  "headword": "stormy",
+  "pos": "adjective",
+  "example": "It was a stormy night, and the wind broke a window."
+ },
+ {
+  "id": "storyteller-n",
+  "headword": "storyteller",
+  "pos": "noun",
+  "example": "My grandfather was a great storyteller, and we loved his tales."
+ },
+ {
+  "id": "strain-n",
+  "headword": "strain",
+  "pos": "noun",
+  "example": "The strain of working long hours made her ill."
+ },
+ {
+  "id": "strangely-adv",
+  "headword": "strangely",
+  "pos": "adverb",
+  "example": "He was strangely quiet at dinner, so I asked what was wrong."
+ },
+ {
+  "id": "strategic-adj",
+  "headword": "strategic",
+  "pos": "adjective",
+  "example": "The castle was built in a strategic position above the river."
+ },
+ {
+  "id": "straw-n",
+  "headword": "straw",
+  "pos": "noun",
+  "example": "The horses sleep on dry straw in the barn."
+ },
+ {
+  "id": "strawberry-n",
+  "headword": "strawberry",
+  "pos": "noun",
+  "example": "I put a fresh strawberry on top of each cake."
+ },
+ {
+  "id": "stream-n",
+  "headword": "stream",
+  "pos": "noun",
+  "example": "A small stream runs through the forest behind our house."
+ },
+ {
+  "id": "stream-v",
+  "headword": "stream",
+  "pos": "verb",
+  "example": "I usually stream music on my phone while I run."
+ },
+ {
+  "id": "strengthen-v",
+  "headword": "strengthen",
+  "pos": "verb",
+  "example": "Swimming helps to strengthen your back and arms."
+ },
+ {
+  "id": "stress-n",
+  "headword": "stress",
+  "pos": "noun",
+  "example": "Too much stress at work can make you ill."
+ },
+ {
+  "id": "stressed-adj",
+  "headword": "stressed",
+  "pos": "adjective",
+  "example": "I feel stressed because I have three exams this week."
+ }
+]

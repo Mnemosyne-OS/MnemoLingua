@@ -1,0 +1,392 @@
+{
+ "decoys": {
+  "caught": 6,
+  "total": 6,
+  "missed": []
+ },
+ "toReview": 1,
+ "cards": {
+  "unafraid-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "unbelievable-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "uncertainty-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "unclear-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "uncontrollable-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "uncover-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "underage-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "undergo-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "underline-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "underneath-prep": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "underpants-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "undo-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "undress-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "unemployed-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "unemployment-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "unexpected-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "unexpectedly-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "unfairly-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "unfit-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "unfold-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "unfortunate-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "unfriendly-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "unheard-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "unify-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "uninterested-adj": {
+   "check": "to-review",
+   "problems": [
+    "es word: wrong sense: 'desinteresado' means selfless/unselfish; here 'sin interés' / 'poco interesado'"
+   ]
+  },
+  "uninteresting-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "union-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "unique-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "unite-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "universe-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "unless-conj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "unlikely-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "unlucky-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "unpack-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "unpredictable-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "unrelated-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "untidy-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "until-conj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "unusually-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "unwanted-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "unwell-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "update-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "uplifted-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "upload-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "upper-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "upstairs-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "upstairs-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "up-to-date-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "upward-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "urge-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "urgent-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "usage-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "used-to-modal": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "useless-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "vacancy-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "vague-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "vain-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "valuable-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "van-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "variety-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "various-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "vary-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "vast-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "vegetarian-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "vegetarian-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "vehicle-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "vein-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "vessel-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "vet-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "via-prep": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "vice-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "vice-president-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "victim-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "victory-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "video-clip-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "view-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "viewpoint-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "violence-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "violently-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "virtual-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "virus-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "visa-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "visible-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "vision-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "visual-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "visually-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "vivid-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "vividly-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "volcano-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "volume-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "volunteer-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "vote-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "vowel-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "voyage-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "wagon-n": {
+   "check": "two-pass",
+   "problems": []
+  }
+ }
+}

@@ -1,0 +1,606 @@
+[
+ {
+  "id": "sink-n",
+  "headword": "sink",
+  "pos": "noun",
+  "sourceTopics": [
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "sitting-room-n",
+  "headword": "sitting room",
+  "pos": "noun",
+  "sourceTopics": [
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "situation-n",
+  "headword": "situation",
+  "pos": "noun"
+ },
+ {
+  "id": "skate-n",
+  "headword": "skate",
+  "pos": "noun",
+  "sourceTopics": [
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "skateboarding-n",
+  "headword": "skateboarding",
+  "pos": "noun",
+  "sourceTopics": [
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "skating-n",
+  "headword": "skating",
+  "pos": "noun",
+  "sourceTopics": [
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "ski-n",
+  "headword": "ski",
+  "pos": "noun",
+  "sourceTopics": [
+   "Leisure activities",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "skiing-n",
+  "headword": "skiing",
+  "pos": "noun",
+  "sourceTopics": [
+   "Leisure activities",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "slave-n",
+  "headword": "slave",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs",
+   "Relations with other people"
+  ]
+ },
+ {
+  "id": "sleepless-adj",
+  "headword": "sleepless",
+  "pos": "adjective"
+ },
+ {
+  "id": "sleepy-adj",
+  "headword": "sleepy",
+  "pos": "adjective"
+ },
+ {
+  "id": "slice-n",
+  "headword": "slice",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "slide-n",
+  "headword": "slide",
+  "pos": "noun"
+ },
+ {
+  "id": "slim-adj",
+  "headword": "slim",
+  "pos": "adjective"
+ },
+ {
+  "id": "slowly-adv",
+  "headword": "slowly",
+  "pos": "adverb"
+ },
+ {
+  "id": "smoke-v",
+  "headword": "smoke",
+  "pos": "verb"
+ },
+ {
+  "id": "smooth-adj",
+  "headword": "smooth",
+  "pos": "adjective"
+ },
+ {
+  "id": "smoothly-adv",
+  "headword": "smoothly",
+  "pos": "adverb"
+ },
+ {
+  "id": "snack-n",
+  "headword": "snack",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "snow-v",
+  "headword": "snow",
+  "pos": "verb"
+ },
+ {
+  "id": "snowboarding-n",
+  "headword": "snowboarding",
+  "pos": "noun",
+  "sourceTopics": [
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "so-adv",
+  "headword": "so",
+  "pos": "adverb"
+ },
+ {
+  "id": "soap-n",
+  "headword": "soap",
+  "pos": "noun",
+  "sourceTopics": [
+   "Shopping"
+  ]
+ },
+ {
+  "id": "society-n",
+  "headword": "society",
+  "pos": "noun",
+  "sourceTopics": [
+   "Nationalities and countries",
+   "Places"
+  ]
+ },
+ {
+  "id": "sock-n",
+  "headword": "sock",
+  "pos": "noun",
+  "sourceTopics": [
+   "Shopping"
+  ]
+ },
+ {
+  "id": "soda-n",
+  "headword": "soda",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "soft-adj",
+  "headword": "soft",
+  "pos": "adjective"
+ },
+ {
+  "id": "soft-drink-n",
+  "headword": "soft drink",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "softly-adv",
+  "headword": "softly",
+  "pos": "adverb"
+ },
+ {
+  "id": "software-n",
+  "headword": "software",
+  "pos": "noun",
+  "sourceTopics": [
+   "Technical and legal language",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "soldier-n",
+  "headword": "soldier",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs",
+   "Relations with other people"
+  ]
+ },
+ {
+  "id": "solution-n",
+  "headword": "solution",
+  "pos": "noun"
+ },
+ {
+  "id": "somebody-pron",
+  "headword": "somebody",
+  "pos": "pronoun"
+ },
+ {
+  "id": "someday-adv",
+  "headword": "someday",
+  "pos": "adverb"
+ },
+ {
+  "id": "somewhere-adv",
+  "headword": "somewhere",
+  "pos": "adverb"
+ },
+ {
+  "id": "sound-n",
+  "headword": "sound",
+  "pos": "noun"
+ },
+ {
+  "id": "sound-v",
+  "headword": "sound",
+  "pos": "verb"
+ },
+ {
+  "id": "source-n",
+  "headword": "source",
+  "pos": "noun"
+ },
+ {
+  "id": "south-adj",
+  "headword": "south",
+  "pos": "adjective"
+ },
+ {
+  "id": "south-adv",
+  "headword": "south",
+  "pos": "adverb"
+ },
+ {
+  "id": "south-n",
+  "headword": "south",
+  "pos": "noun"
+ },
+ {
+  "id": "space-n",
+  "headword": "space",
+  "pos": "noun"
+ },
+ {
+  "id": "spaceship-n",
+  "headword": "spaceship",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs",
+   "Travel"
+  ]
+ },
+ {
+  "id": "spaghetti-n",
+  "headword": "spaghetti",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "speaker-n",
+  "headword": "speaker",
+  "pos": "noun",
+  "sourceTopics": [
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "specific-adj",
+  "headword": "specific",
+  "pos": "adjective"
+ },
+ {
+  "id": "speed-n",
+  "headword": "speed",
+  "pos": "noun"
+ },
+ {
+  "id": "spell-v",
+  "headword": "spell",
+  "pos": "verb"
+ },
+ {
+  "id": "spill-v",
+  "headword": "spill",
+  "pos": "verb"
+ },
+ {
+  "id": "splash-v",
+  "headword": "splash",
+  "pos": "verb"
+ },
+ {
+  "id": "split-adj",
+  "headword": "split",
+  "pos": "adjective"
+ },
+ {
+  "id": "spoon-n",
+  "headword": "spoon",
+  "pos": "noun",
+  "sourceTopics": [
+   "Shopping"
+  ]
+ },
+ {
+  "id": "sports-center-n",
+  "headword": "sports center",
+  "pos": "noun",
+  "variants": [
+   "sports centre"
+  ],
+  "sourceTopics": [
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "spread-n",
+  "headword": "spread",
+  "pos": "noun"
+ },
+ {
+  "id": "square-adj",
+  "headword": "square",
+  "pos": "adjective"
+ },
+ {
+  "id": "square-n",
+  "headword": "square",
+  "pos": "noun"
+ },
+ {
+  "id": "stadium-n",
+  "headword": "stadium",
+  "pos": "noun",
+  "sourceTopics": [
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "staff-n",
+  "headword": "staff",
+  "pos": "noun",
+  "sourceTopics": [
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "stair-n",
+  "headword": "stair",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "stamp-n",
+  "headword": "stamp",
+  "pos": "noun",
+  "sourceTopics": [
+   "Relations with other people"
+  ]
+ },
+ {
+  "id": "stand-v",
+  "headword": "stand",
+  "pos": "verb"
+ },
+ {
+  "id": "state-n",
+  "headword": "state",
+  "pos": "noun"
+ },
+ {
+  "id": "statement-n",
+  "headword": "statement",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs"
+  ]
+ },
+ {
+  "id": "statue-n",
+  "headword": "statue",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping"
+  ]
+ },
+ {
+  "id": "steak-n",
+  "headword": "steak",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "steal-v",
+  "headword": "steal",
+  "pos": "verb"
+ },
+ {
+  "id": "step-n",
+  "headword": "step",
+  "pos": "noun"
+ },
+ {
+  "id": "still-adv",
+  "headword": "still",
+  "pos": "adverb"
+ },
+ {
+  "id": "stomach-n",
+  "headword": "stomach",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel and services vocab",
+   "Health and body care"
+  ]
+ },
+ {
+  "id": "stomachache-n",
+  "headword": "stomachache",
+  "pos": "noun",
+  "sourceTopics": [
+   "Health and body care"
+  ]
+ },
+ {
+  "id": "storm-n",
+  "headword": "storm",
+  "pos": "noun",
+  "sourceTopics": [
+   "Media",
+   "Weather"
+  ]
+ },
+ {
+  "id": "stove-n",
+  "headword": "stove",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "straight-adj",
+  "headword": "straight",
+  "pos": "adjective"
+ },
+ {
+  "id": "stranger-n",
+  "headword": "stranger",
+  "pos": "noun"
+ },
+ {
+  "id": "strategy-n",
+  "headword": "strategy",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education"
+  ]
+ },
+ {
+  "id": "strength-n",
+  "headword": "strength",
+  "pos": "noun"
+ },
+ {
+  "id": "strike-n",
+  "headword": "strike",
+  "pos": "noun"
+ },
+ {
+  "id": "string-n",
+  "headword": "string",
+  "pos": "noun"
+ },
+ {
+  "id": "strongly-adv",
+  "headword": "strongly",
+  "pos": "adverb"
+ },
+ {
+  "id": "structure-n",
+  "headword": "structure",
+  "pos": "noun"
+ },
+ {
+  "id": "study-n",
+  "headword": "study",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Education"
+  ]
+ },
+ {
+  "id": "stuff-n",
+  "headword": "stuff",
+  "pos": "noun"
+ },
+ {
+  "id": "style-n",
+  "headword": "style",
+  "pos": "noun"
+ },
+ {
+  "id": "succeed-v",
+  "headword": "succeed",
+  "pos": "verb"
+ },
+ {
+  "id": "success-n",
+  "headword": "success",
+  "pos": "noun"
+ },
+ {
+  "id": "successfully-adv",
+  "headword": "successfully",
+  "pos": "adverb"
+ },
+ {
+  "id": "such-det",
+  "headword": "such",
+  "pos": "determiner"
+ },
+ {
+  "id": "such-pron",
+  "headword": "such",
+  "pos": "pronoun"
+ },
+ {
+  "id": "sudden-adj",
+  "headword": "sudden",
+  "pos": "adjective"
+ },
+ {
+  "id": "suggest-v",
+  "headword": "suggest",
+  "pos": "verb"
+ },
+ {
+  "id": "suit-n",
+  "headword": "suit",
+  "pos": "noun",
+  "sourceTopics": [
+   "Shopping"
+  ]
+ },
+ {
+  "id": "suit-v",
+  "headword": "suit",
+  "pos": "verb"
+ },
+ {
+  "id": "suitable-adj",
+  "headword": "suitable",
+  "pos": "adjective"
+ },
+ {
+  "id": "suitcase-n",
+  "headword": "suitcase",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel and services vocab",
+   "Travel"
+  ]
+ }
+]

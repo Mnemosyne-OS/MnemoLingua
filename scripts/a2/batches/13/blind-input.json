@@ -1,0 +1,566 @@
+[
+ {
+  "id": "sink-n",
+  "headword": "sink",
+  "pos": "noun",
+  "example": "I washed the dishes in the kitchen sink."
+ },
+ {
+  "id": "sitting-room-n",
+  "headword": "sitting room",
+  "pos": "noun",
+  "example": "We watch TV in the sitting room every evening."
+ },
+ {
+  "id": "situation-n",
+  "headword": "situation",
+  "pos": "noun",
+  "example": "We are in a difficult situation because we have no money."
+ },
+ {
+  "id": "skate-n",
+  "headword": "skate",
+  "pos": "noun",
+  "example": "I need new skates for the ice rink."
+ },
+ {
+  "id": "skateboarding-n",
+  "headword": "skateboarding",
+  "pos": "noun",
+  "example": "Skateboarding is popular with teenagers in my town."
+ },
+ {
+  "id": "skating-n",
+  "headword": "skating",
+  "pos": "noun",
+  "example": "We went skating on the frozen lake."
+ },
+ {
+  "id": "ski-n",
+  "headword": "ski",
+  "pos": "noun",
+  "example": "She put on her skis and went down the mountain."
+ },
+ {
+  "id": "skiing-n",
+  "headword": "skiing",
+  "pos": "noun",
+  "example": "We go skiing in the Alps every winter."
+ },
+ {
+  "id": "slave-n",
+  "headword": "slave",
+  "pos": "noun",
+  "example": "In the past, many slaves worked on farms without pay."
+ },
+ {
+  "id": "sleepless-adj",
+  "headword": "sleepless",
+  "pos": "adjective",
+  "example": "The baby cried, so I had a sleepless night."
+ },
+ {
+  "id": "sleepy-adj",
+  "headword": "sleepy",
+  "pos": "adjective",
+  "example": "I feel sleepy after a big lunch."
+ },
+ {
+  "id": "slice-n",
+  "headword": "slice",
+  "pos": "noun",
+  "example": "Can I have a slice of bread, please?"
+ },
+ {
+  "id": "slide-n",
+  "headword": "slide",
+  "pos": "noun",
+  "example": "The children played on the slide in the park."
+ },
+ {
+  "id": "slim-adj",
+  "headword": "slim",
+  "pos": "adjective",
+  "example": "She is tall and slim."
+ },
+ {
+  "id": "slowly-adv",
+  "headword": "slowly",
+  "pos": "adverb",
+  "example": "Please speak slowly, I don't understand."
+ },
+ {
+  "id": "smoke-v",
+  "headword": "smoke",
+  "pos": "verb",
+  "example": "Please don't smoke in the house."
+ },
+ {
+  "id": "smooth-adj",
+  "headword": "smooth",
+  "pos": "adjective",
+  "example": "This stone is smooth, not rough."
+ },
+ {
+  "id": "smoothly-adv",
+  "headword": "smoothly",
+  "pos": "adverb",
+  "example": "The meeting went smoothly and finished early."
+ },
+ {
+  "id": "snack-n",
+  "headword": "snack",
+  "pos": "noun",
+  "example": "I usually eat a small snack at four o'clock."
+ },
+ {
+  "id": "snow-v",
+  "headword": "snow",
+  "pos": "verb",
+  "example": "It snowed all night, so the streets are white."
+ },
+ {
+  "id": "snowboarding-n",
+  "headword": "snowboarding",
+  "pos": "noun",
+  "example": "My brother loves snowboarding more than skiing."
+ },
+ {
+  "id": "so-adv",
+  "headword": "so",
+  "pos": "adverb",
+  "example": "I'm so tired today."
+ },
+ {
+  "id": "soap-n",
+  "headword": "soap",
+  "pos": "noun",
+  "example": "Wash your hands with soap and water."
+ },
+ {
+  "id": "society-n",
+  "headword": "society",
+  "pos": "noun",
+  "example": "Old people are important in our society."
+ },
+ {
+  "id": "sock-n",
+  "headword": "sock",
+  "pos": "noun",
+  "example": "I can't find my other sock."
+ },
+ {
+  "id": "soda-n",
+  "headword": "soda",
+  "pos": "noun",
+  "example": "Would you like a soda with your pizza?"
+ },
+ {
+  "id": "soft-adj",
+  "headword": "soft",
+  "pos": "adjective",
+  "example": "My cat's fur is very soft."
+ },
+ {
+  "id": "soft-drink-n",
+  "headword": "soft drink",
+  "pos": "noun",
+  "example": "Children love soft drinks, but they have lots of sugar."
+ },
+ {
+  "id": "softly-adv",
+  "headword": "softly",
+  "pos": "adverb",
+  "example": "She spoke softly because the baby was asleep."
+ },
+ {
+  "id": "software-n",
+  "headword": "software",
+  "pos": "noun",
+  "example": "I installed new software on my computer."
+ },
+ {
+  "id": "soldier-n",
+  "headword": "soldier",
+  "pos": "noun",
+  "example": "The soldiers marched through the town."
+ },
+ {
+  "id": "solution-n",
+  "headword": "solution",
+  "pos": "noun",
+  "example": "We need to find a solution to this problem."
+ },
+ {
+  "id": "somebody-pron",
+  "headword": "somebody",
+  "pos": "pronoun",
+  "example": "Somebody left an umbrella on the bus."
+ },
+ {
+  "id": "someday-adv",
+  "headword": "someday",
+  "pos": "adverb",
+  "example": "Someday I want to visit Japan."
+ },
+ {
+  "id": "somewhere-adv",
+  "headword": "somewhere",
+  "pos": "adverb",
+  "example": "I left my keys somewhere in the house."
+ },
+ {
+  "id": "sound-n",
+  "headword": "sound",
+  "pos": "noun",
+  "example": "I love the sound of the rain."
+ },
+ {
+  "id": "sound-v",
+  "headword": "sound",
+  "pos": "verb",
+  "example": "Your plan sounds great!"
+ },
+ {
+  "id": "source-n",
+  "headword": "source",
+  "pos": "noun",
+  "example": "The sun is our main source of light."
+ },
+ {
+  "id": "south-adj",
+  "headword": "south",
+  "pos": "adjective",
+  "example": "We live on the south coast of England."
+ },
+ {
+  "id": "south-adv",
+  "headword": "south",
+  "pos": "adverb",
+  "example": "The birds fly south in winter."
+ },
+ {
+  "id": "south-n",
+  "headword": "south",
+  "pos": "noun",
+  "example": "It is warmer in the south of France."
+ },
+ {
+  "id": "space-n",
+  "headword": "space",
+  "pos": "noun",
+  "example": "There isn't enough space in my car for five people."
+ },
+ {
+  "id": "spaceship-n",
+  "headword": "spaceship",
+  "pos": "noun",
+  "example": "The spaceship flew to the moon."
+ },
+ {
+  "id": "spaghetti-n",
+  "headword": "spaghetti",
+  "pos": "noun",
+  "example": "We had spaghetti with tomato sauce for dinner."
+ },
+ {
+  "id": "speaker-n",
+  "headword": "speaker",
+  "pos": "noun",
+  "example": "The speaker at the conference was very interesting."
+ },
+ {
+  "id": "specific-adj",
+  "headword": "specific",
+  "pos": "adjective",
+  "example": "Can you give me a specific date for the meeting?"
+ },
+ {
+  "id": "speed-n",
+  "headword": "speed",
+  "pos": "noun",
+  "example": "The car was going at a high speed."
+ },
+ {
+  "id": "spell-v",
+  "headword": "spell",
+  "pos": "verb",
+  "example": "How do you spell your name?"
+ },
+ {
+  "id": "spill-v",
+  "headword": "spill",
+  "pos": "verb",
+  "example": "I spilled coffee on my new shirt."
+ },
+ {
+  "id": "splash-v",
+  "headword": "splash",
+  "pos": "verb",
+  "example": "The children splashed each other in the pool."
+ },
+ {
+  "id": "split-adj",
+  "headword": "split",
+  "pos": "adjective",
+  "example": "The family is split: half want a dog, half don't."
+ },
+ {
+  "id": "spoon-n",
+  "headword": "spoon",
+  "pos": "noun",
+  "example": "Eat your soup with a spoon."
+ },
+ {
+  "id": "sports-center-n",
+  "headword": "sports center",
+  "pos": "noun",
+  "example": "I go swimming at the sports center on Saturdays."
+ },
+ {
+  "id": "spread-n",
+  "headword": "spread",
+  "pos": "noun",
+  "example": "I put chocolate spread on my toast."
+ },
+ {
+  "id": "square-adj",
+  "headword": "square",
+  "pos": "adjective",
+  "example": "The table is square, not round."
+ },
+ {
+  "id": "square-n",
+  "headword": "square",
+  "pos": "noun",
+  "example": "There is a market in the main square."
+ },
+ {
+  "id": "stadium-n",
+  "headword": "stadium",
+  "pos": "noun",
+  "example": "The football stadium was full of fans."
+ },
+ {
+  "id": "staff-n",
+  "headword": "staff",
+  "pos": "noun",
+  "example": "The hotel staff were very friendly."
+ },
+ {
+  "id": "stair-n",
+  "headword": "stair",
+  "pos": "noun",
+  "example": "She sat on the bottom stair and waited."
+ },
+ {
+  "id": "stamp-n",
+  "headword": "stamp",
+  "pos": "noun",
+  "example": "I need a stamp for this letter."
+ },
+ {
+  "id": "stand-v",
+  "headword": "stand",
+  "pos": "verb",
+  "example": "We had to stand on the bus because it was full."
+ },
+ {
+  "id": "state-n",
+  "headword": "state",
+  "pos": "noun",
+  "example": "Texas is a big state in the USA."
+ },
+ {
+  "id": "statement-n",
+  "headword": "statement",
+  "pos": "noun",
+  "example": "The police made a statement about the accident."
+ },
+ {
+  "id": "statue-n",
+  "headword": "statue",
+  "pos": "noun",
+  "example": "There is a statue of the king in the park."
+ },
+ {
+  "id": "steak-n",
+  "headword": "steak",
+  "pos": "noun",
+  "example": "I'd like steak and chips, please."
+ },
+ {
+  "id": "steal-v",
+  "headword": "steal",
+  "pos": "verb",
+  "example": "Someone stole my bike last night."
+ },
+ {
+  "id": "step-n",
+  "headword": "step",
+  "pos": "noun",
+  "example": "The first step is to read the instructions."
+ },
+ {
+  "id": "still-adv",
+  "headword": "still",
+  "pos": "adverb",
+  "example": "Are you still at work?"
+ },
+ {
+  "id": "stomach-n",
+  "headword": "stomach",
+  "pos": "noun",
+  "example": "My stomach hurts after eating too much."
+ },
+ {
+  "id": "stomachache-n",
+  "headword": "stomachache",
+  "pos": "noun",
+  "example": "I have a stomachache, so I won't eat lunch."
+ },
+ {
+  "id": "storm-n",
+  "headword": "storm",
+  "pos": "noun",
+  "example": "The storm broke many trees last night."
+ },
+ {
+  "id": "stove-n",
+  "headword": "stove",
+  "pos": "noun",
+  "example": "The soup is cooking on the stove."
+ },
+ {
+  "id": "straight-adj",
+  "headword": "straight",
+  "pos": "adjective",
+  "example": "She has long, straight hair."
+ },
+ {
+  "id": "stranger-n",
+  "headword": "stranger",
+  "pos": "noun",
+  "example": "Don't open the door to strangers."
+ },
+ {
+  "id": "strategy-n",
+  "headword": "strategy",
+  "pos": "noun",
+  "example": "Our teacher gave us a good strategy for learning new words."
+ },
+ {
+  "id": "strength-n",
+  "headword": "strength",
+  "pos": "noun",
+  "example": "You need a lot of strength to lift that box."
+ },
+ {
+  "id": "strike-n",
+  "headword": "strike",
+  "pos": "noun",
+  "example": "The trains aren't running because of a strike."
+ },
+ {
+  "id": "string-n",
+  "headword": "string",
+  "pos": "noun",
+  "example": "Tie the box with a piece of string."
+ },
+ {
+  "id": "strongly-adv",
+  "headword": "strongly",
+  "pos": "adverb",
+  "example": "I strongly believe that everyone should learn to swim."
+ },
+ {
+  "id": "structure-n",
+  "headword": "structure",
+  "pos": "noun",
+  "example": "The structure of the bridge is very strong."
+ },
+ {
+  "id": "study-n",
+  "headword": "study",
+  "pos": "noun",
+  "example": "This book is about the study of plants."
+ },
+ {
+  "id": "stuff-n",
+  "headword": "stuff",
+  "pos": "noun",
+  "example": "I have too much stuff in my bag."
+ },
+ {
+  "id": "style-n",
+  "headword": "style",
+  "pos": "noun",
+  "example": "I like her style; her clothes are always beautiful."
+ },
+ {
+  "id": "succeed-v",
+  "headword": "succeed",
+  "pos": "verb",
+  "example": "If you work hard, you will succeed."
+ },
+ {
+  "id": "success-n",
+  "headword": "success",
+  "pos": "noun",
+  "example": "The party was a great success."
+ },
+ {
+  "id": "successfully-adv",
+  "headword": "successfully",
+  "pos": "adverb",
+  "example": "She successfully passed her driving test."
+ },
+ {
+  "id": "such-det",
+  "headword": "such",
+  "pos": "determiner",
+  "example": "It was such a beautiful day."
+ },
+ {
+  "id": "such-pron",
+  "headword": "such",
+  "pos": "pronoun",
+  "example": "He is a child, and we must treat him as such."
+ },
+ {
+  "id": "sudden-adj",
+  "headword": "sudden",
+  "pos": "adjective",
+  "example": "There was a sudden noise, and the dog jumped."
+ },
+ {
+  "id": "suggest-v",
+  "headword": "suggest",
+  "pos": "verb",
+  "example": "My friend suggested a good restaurant near the station."
+ },
+ {
+  "id": "suit-n",
+  "headword": "suit",
+  "pos": "noun",
+  "example": "He wore a black suit to the wedding."
+ },
+ {
+  "id": "suit-v",
+  "headword": "suit",
+  "pos": "verb",
+  "example": "That blue dress really suits you."
+ },
+ {
+  "id": "suitable-adj",
+  "headword": "suitable",
+  "pos": "adjective",
+  "example": "These shoes are not suitable for walking in the mountains."
+ },
+ {
+  "id": "suitcase-n",
+  "headword": "suitcase",
+  "pos": "noun",
+  "example": "I packed my suitcase for the holiday."
+ }
+]

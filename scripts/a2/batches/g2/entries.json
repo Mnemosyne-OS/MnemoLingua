@@ -1,0 +1,170 @@
+[
+ {
+  "id": "g2-64-1-a",
+  "headword": "TENSE/ASPECT: PAST (BE)",
+  "pos": "grammar (NEG. DEC.)",
+  "theme": "g-past-future"
+ },
+ {
+  "id": "g2-64-1-b",
+  "headword": "TENSE/ASPECT: PAST (BE)",
+  "pos": "grammar (NEG. DEC.)",
+  "theme": "g-past-future"
+ },
+ {
+  "id": "g2-69-a",
+  "headword": "TENSE/ASPECT: FUTURE",
+  "pos": "grammar (AFF. DEC.)",
+  "theme": "g-past-future"
+ },
+ {
+  "id": "g2-69-b",
+  "headword": "TENSE/ASPECT: FUTURE",
+  "pos": "grammar (AFF. DEC.)",
+  "theme": "g-past-future"
+ },
+ {
+  "id": "g2-65-1-a",
+  "headword": "TENSE/ASPECT: PRESENT (lexical verbs)",
+  "pos": "grammar (NEG. DEC.)",
+  "theme": "g-present"
+ },
+ {
+  "id": "g2-65-1-b",
+  "headword": "TENSE/ASPECT: PRESENT (lexical verbs)",
+  "pos": "grammar (NEG. DEC.)",
+  "theme": "g-present"
+ },
+ {
+  "id": "g2-122-a",
+  "headword": "MODAL/AUX: be going to",
+  "pos": "grammar (AFF. DEC.)",
+  "theme": "g-modals"
+ },
+ {
+  "id": "g2-122-b",
+  "headword": "MODAL/AUX: be going to",
+  "pos": "grammar (AFF. DEC.)",
+  "theme": "g-modals"
+ },
+ {
+  "id": "g2-136-a",
+  "headword": "MODAL/AUX: need (to)",
+  "pos": "grammar",
+  "theme": "g-modals"
+ },
+ {
+  "id": "g2-136-b",
+  "headword": "MODAL/AUX: need (to)",
+  "pos": "grammar",
+  "theme": "g-modals"
+ },
+ {
+  "id": "g2-141-a",
+  "headword": "MODAL/AUX: will",
+  "pos": "grammar (AFF. DEC.)",
+  "theme": "g-modals"
+ },
+ {
+  "id": "g2-141-b",
+  "headword": "MODAL/AUX: will",
+  "pos": "grammar (AFF. DEC.)",
+  "theme": "g-modals"
+ },
+ {
+  "id": "g2-249-a",
+  "headword": "FUNCTIONAL QUESTION: Can you ...?",
+  "pos": "grammar (AFF. INT.)",
+  "theme": "g-modals"
+ },
+ {
+  "id": "g2-249-b",
+  "headword": "FUNCTIONAL QUESTION: Can you ...?",
+  "pos": "grammar (AFF. INT.)",
+  "theme": "g-modals"
+ },
+ {
+  "id": "g2-17-a",
+  "headword": "DETERMINER: another",
+  "pos": "grammar",
+  "theme": "g-words"
+ },
+ {
+  "id": "g2-17-b",
+  "headword": "DETERMINER: another",
+  "pos": "grammar",
+  "theme": "g-words"
+ },
+ {
+  "id": "g2-18-a",
+  "headword": "much UNCOUNTABLE NOUN",
+  "pos": "grammar",
+  "theme": "g-compare"
+ },
+ {
+  "id": "g2-18-b",
+  "headword": "much UNCOUNTABLE NOUN",
+  "pos": "grammar",
+  "theme": "g-compare"
+ },
+ {
+  "id": "g2-41-a",
+  "headword": "SUPERLATIVE OF SUPERIORITY: most+ADJ/ADV",
+  "pos": "grammar",
+  "theme": "g-compare"
+ },
+ {
+  "id": "g2-41-b",
+  "headword": "SUPERLATIVE OF SUPERIORITY: most+ADJ/ADV",
+  "pos": "grammar",
+  "theme": "g-compare"
+ },
+ {
+  "id": "g2-152-a",
+  "headword": "V+that+CLAUSE",
+  "pos": "grammar",
+  "theme": "g-sentences"
+ },
+ {
+  "id": "g2-152-b",
+  "headword": "V+that+CLAUSE",
+  "pos": "grammar",
+  "theme": "g-sentences"
+ },
+ {
+  "id": "g2-157-a",
+  "headword": "ADVERBIAL CLAUSE: as",
+  "pos": "grammar",
+  "theme": "g-sentences"
+ },
+ {
+  "id": "g2-157-b",
+  "headword": "ADVERBIAL CLAUSE: as",
+  "pos": "grammar",
+  "theme": "g-sentences"
+ },
+ {
+  "id": "g2-200-a",
+  "headword": "INDIRECT SPEECH: SAY/EXPLAIN/REPORT",
+  "pos": "grammar",
+  "theme": "g-sentences"
+ },
+ {
+  "id": "g2-200-b",
+  "headword": "INDIRECT SPEECH: SAY/EXPLAIN/REPORT",
+  "pos": "grammar",
+  "theme": "g-sentences"
+ },
+ {
+  "id": "g2-206-a",
+  "headword": "HAVE/LET/MAKE+NP+INFINITIVE",
+  "pos": "grammar",
+  "theme": "g-sentences"
+ },
+ {
+  "id": "g2-206-b",
+  "headword": "HAVE/LET/MAKE+NP+INFINITIVE",
+  "pos": "grammar",
+  "theme": "g-sentences"
+ }
+]

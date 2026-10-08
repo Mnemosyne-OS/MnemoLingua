@@ -1,0 +1,563 @@
+[
+ {
+  "id": "proverb-n",
+  "headword": "proverb",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Language"
+  ]
+ },
+ {
+  "id": "provided-conj",
+  "headword": "provided",
+  "pos": "conjunction"
+ },
+ {
+  "id": "psychological-adj",
+  "headword": "psychological",
+  "pos": "adjective"
+ },
+ {
+  "id": "pub-n",
+  "headword": "pub",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "public-adj",
+  "headword": "public",
+  "pos": "adjective"
+ },
+ {
+  "id": "public-transport-n",
+  "headword": "public transport",
+  "pos": "noun",
+  "sourceTopics": [
+   "Ways of travelling",
+   "Travel"
+  ]
+ },
+ {
+  "id": "publicly-adv",
+  "headword": "publicly",
+  "pos": "adverb"
+ },
+ {
+  "id": "publisher-n",
+  "headword": "publisher",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "pullover-n",
+  "headword": "pullover",
+  "pos": "noun"
+ },
+ {
+  "id": "pump-n",
+  "headword": "pump",
+  "pos": "noun"
+ },
+ {
+  "id": "punish-v",
+  "headword": "punish",
+  "pos": "verb"
+ },
+ {
+  "id": "punishment-n",
+  "headword": "punishment",
+  "pos": "noun",
+  "sourceTopics": [
+   "Relations with other people"
+  ]
+ },
+ {
+  "id": "pupil-n",
+  "headword": "pupil",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Education"
+  ]
+ },
+ {
+  "id": "puppy-n",
+  "headword": "puppy",
+  "pos": "noun"
+ },
+ {
+  "id": "pure-adj",
+  "headword": "pure",
+  "pos": "adjective"
+ },
+ {
+  "id": "purify-v",
+  "headword": "purify",
+  "pos": "verb"
+ },
+ {
+  "id": "purse-n",
+  "headword": "purse",
+  "pos": "noun",
+  "sourceTopics": [
+   "Shopping",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "push-n",
+  "headword": "push",
+  "pos": "noun"
+ },
+ {
+  "id": "puzzle-n",
+  "headword": "puzzle",
+  "pos": "noun",
+  "sourceTopics": [
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "quake-n",
+  "headword": "quake",
+  "pos": "noun"
+ },
+ {
+  "id": "qualified-adj",
+  "headword": "qualified",
+  "pos": "adjective"
+ },
+ {
+  "id": "qualify-v",
+  "headword": "qualify",
+  "pos": "verb"
+ },
+ {
+  "id": "quality-adj",
+  "headword": "quality",
+  "pos": "adjective"
+ },
+ {
+  "id": "quantity-n",
+  "headword": "quantity",
+  "pos": "noun"
+ },
+ {
+  "id": "question-mark-n",
+  "headword": "question mark",
+  "pos": "noun"
+ },
+ {
+  "id": "questionnaire-n",
+  "headword": "questionnaire",
+  "pos": "noun"
+ },
+ {
+  "id": "queue-n",
+  "headword": "queue",
+  "pos": "noun"
+ },
+ {
+  "id": "race-n",
+  "headword": "race",
+  "pos": "noun",
+  "sourceTopics": [
+   "Hobbies and pastimes",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "race-v",
+  "headword": "race",
+  "pos": "verb"
+ },
+ {
+  "id": "racial-adj",
+  "headword": "racial",
+  "pos": "adjective"
+ },
+ {
+  "id": "radiation-n",
+  "headword": "radiation",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs"
+  ]
+ },
+ {
+  "id": "rage-n",
+  "headword": "rage",
+  "pos": "noun"
+ },
+ {
+  "id": "rail-n",
+  "headword": "rail",
+  "pos": "noun",
+  "sourceTopics": [
+   "Ways of travelling",
+   "Travel"
+  ]
+ },
+ {
+  "id": "railroad-n",
+  "headword": "railroad",
+  "pos": "noun",
+  "sourceTopics": [
+   "Ways of travelling"
+  ]
+ },
+ {
+  "id": "railway-n",
+  "headword": "railway",
+  "pos": "noun",
+  "sourceTopics": [
+   "Ways of travelling",
+   "Travel"
+  ]
+ },
+ {
+  "id": "rainfall-n",
+  "headword": "rainfall",
+  "pos": "noun",
+  "sourceTopics": [
+   "Media",
+   "Weather"
+  ]
+ },
+ {
+  "id": "rainforest-n",
+  "headword": "rainforest",
+  "pos": "noun",
+  "sourceTopics": [
+   "Nationalities and countries",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "rank-n",
+  "headword": "rank",
+  "pos": "noun"
+ },
+ {
+  "id": "rap-v",
+  "headword": "rap",
+  "pos": "verb"
+ },
+ {
+  "id": "rapid-adj",
+  "headword": "rapid",
+  "pos": "adjective"
+ },
+ {
+  "id": "rapidly-adv",
+  "headword": "rapidly",
+  "pos": "adverb"
+ },
+ {
+  "id": "rare-adj",
+  "headword": "rare",
+  "pos": "adjective"
+ },
+ {
+  "id": "rarely-adv",
+  "headword": "rarely",
+  "pos": "adverb"
+ },
+ {
+  "id": "raspberry-n",
+  "headword": "raspberry",
+  "pos": "noun"
+ },
+ {
+  "id": "ration-n",
+  "headword": "ration",
+  "pos": "noun"
+ },
+ {
+  "id": "rational-adj",
+  "headword": "rational",
+  "pos": "adjective"
+ },
+ {
+  "id": "razor-n",
+  "headword": "razor",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms"
+  ]
+ },
+ {
+  "id": "reach-n",
+  "headword": "reach",
+  "pos": "noun"
+ },
+ {
+  "id": "react-v",
+  "headword": "react",
+  "pos": "verb"
+ },
+ {
+  "id": "realistic-adj",
+  "headword": "realistic",
+  "pos": "adjective"
+ },
+ {
+  "id": "reality-n",
+  "headword": "reality",
+  "pos": "noun"
+ },
+ {
+  "id": "rearrange-v",
+  "headword": "rearrange",
+  "pos": "verb"
+ },
+ {
+  "id": "reasonable-adj",
+  "headword": "reasonable",
+  "pos": "adjective"
+ },
+ {
+  "id": "rebuild-v",
+  "headword": "rebuild",
+  "pos": "verb"
+ },
+ {
+  "id": "recall-v",
+  "headword": "recall",
+  "pos": "verb"
+ },
+ {
+  "id": "reception-n",
+  "headword": "reception",
+  "pos": "noun"
+ },
+ {
+  "id": "recite-v",
+  "headword": "recite",
+  "pos": "verb"
+ },
+ {
+  "id": "reclaim-v",
+  "headword": "reclaim",
+  "pos": "verb"
+ },
+ {
+  "id": "recognize-v",
+  "headword": "recognize",
+  "pos": "verb",
+  "variants": [
+   "recognise"
+  ]
+ },
+ {
+  "id": "recommend-v",
+  "headword": "recommend",
+  "pos": "verb"
+ },
+ {
+  "id": "record-n",
+  "headword": "record",
+  "pos": "noun"
+ },
+ {
+  "id": "recording-n",
+  "headword": "recording",
+  "pos": "noun",
+  "sourceTopics": [
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "recover-v",
+  "headword": "recover",
+  "pos": "verb"
+ },
+ {
+  "id": "recovery-n",
+  "headword": "recovery",
+  "pos": "noun"
+ },
+ {
+  "id": "recycled-adj",
+  "headword": "recycled",
+  "pos": "adjective"
+ },
+ {
+  "id": "recycling-n",
+  "headword": "recycling",
+  "pos": "noun"
+ },
+ {
+  "id": "reduce-v",
+  "headword": "reduce",
+  "pos": "verb"
+ },
+ {
+  "id": "reduction-n",
+  "headword": "reduction",
+  "pos": "noun"
+ },
+ {
+  "id": "reef-n",
+  "headword": "reef",
+  "pos": "noun"
+ },
+ {
+  "id": "referee-n",
+  "headword": "referee",
+  "pos": "noun",
+  "sourceTopics": [
+   "Hobbies and pastimes"
+  ]
+ },
+ {
+  "id": "reflection-n",
+  "headword": "reflection",
+  "pos": "noun"
+ },
+ {
+  "id": "refreshments-n",
+  "headword": "refreshments",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "refund-n",
+  "headword": "refund",
+  "pos": "noun"
+ },
+ {
+  "id": "refusal-n",
+  "headword": "refusal",
+  "pos": "noun"
+ },
+ {
+  "id": "refuse-n",
+  "headword": "refuse",
+  "pos": "noun"
+ },
+ {
+  "id": "refuse-v",
+  "headword": "refuse",
+  "pos": "verb"
+ },
+ {
+  "id": "regain-v",
+  "headword": "regain",
+  "pos": "verb"
+ },
+ {
+  "id": "regard-v",
+  "headword": "regard",
+  "pos": "verb"
+ },
+ {
+  "id": "regarding-prep",
+  "headword": "regarding",
+  "pos": "preposition"
+ },
+ {
+  "id": "region-n",
+  "headword": "region",
+  "pos": "noun",
+  "sourceTopics": [
+   "Nationalities and countries",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "regional-adj",
+  "headword": "regional",
+  "pos": "adjective"
+ },
+ {
+  "id": "register-n",
+  "headword": "register",
+  "pos": "noun"
+ },
+ {
+  "id": "register-v",
+  "headword": "register",
+  "pos": "verb"
+ },
+ {
+  "id": "registration-n",
+  "headword": "registration",
+  "pos": "noun"
+ },
+ {
+  "id": "regulation-n",
+  "headword": "regulation",
+  "pos": "noun"
+ },
+ {
+  "id": "reject-v",
+  "headword": "reject",
+  "pos": "verb"
+ },
+ {
+  "id": "relate-v",
+  "headword": "relate",
+  "pos": "verb"
+ },
+ {
+  "id": "relation-n",
+  "headword": "relation",
+  "pos": "noun",
+  "sourceTopics": [
+   "Relations with other people"
+  ]
+ },
+ {
+  "id": "relationship-n",
+  "headword": "relationship",
+  "pos": "noun",
+  "sourceTopics": [
+   "Relations with other people"
+  ]
+ },
+ {
+  "id": "relative-adj",
+  "headword": "relative",
+  "pos": "adjective"
+ },
+ {
+  "id": "relative-n",
+  "headword": "relative",
+  "pos": "noun",
+  "sourceTopics": [
+   "Family life",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "relatively-adv",
+  "headword": "relatively",
+  "pos": "adverb"
+ },
+ {
+  "id": "relaxing-adj",
+  "headword": "relaxing",
+  "pos": "adjective"
+ },
+ {
+  "id": "release-v",
+  "headword": "release",
+  "pos": "verb"
+ },
+ {
+  "id": "reliable-adj",
+  "headword": "reliable",
+  "pos": "adjective"
+ }
+]

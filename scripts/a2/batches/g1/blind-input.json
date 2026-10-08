@@ -1,0 +1,170 @@
+[
+ {
+  "id": "g2-62-a",
+  "headword": "TENSE/ASPECT: PRESENT PERFECT",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "I have visited London three times."
+ },
+ {
+  "id": "g2-62-b",
+  "headword": "TENSE/ASPECT: PRESENT PERFECT",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "She has lost her keys again."
+ },
+ {
+  "id": "g2-66-a",
+  "headword": "TENSE/ASPECT: PAST PROGRESSIVE",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "I was cooking dinner when you called."
+ },
+ {
+  "id": "g2-66-b",
+  "headword": "TENSE/ASPECT: PAST PROGRESSIVE",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "At five o'clock, the children were playing in the garden."
+ },
+ {
+  "id": "g2-76-a",
+  "headword": "PASSIVE: PAST",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "This house was built in 1920."
+ },
+ {
+  "id": "g2-76-b",
+  "headword": "PASSIVE: PAST",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "The letters were sent yesterday morning."
+ },
+ {
+  "id": "g2-65-2-a",
+  "headword": "TENSE/ASPECT: PRESENT (lexical verbs)",
+  "pos": "grammar (AFF. INT.)",
+  "example": "Do you like chocolate ice cream?"
+ },
+ {
+  "id": "g2-65-2-b",
+  "headword": "TENSE/ASPECT: PRESENT (lexical verbs)",
+  "pos": "grammar (AFF. INT.)",
+  "example": "Does your brother play football on Saturdays?"
+ },
+ {
+  "id": "g2-127-a",
+  "headword": "MODAL/AUX: have to",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "I have to get up at six tomorrow."
+ },
+ {
+  "id": "g2-127-b",
+  "headword": "MODAL/AUX: have to",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "She has to wear a uniform at work."
+ },
+ {
+  "id": "g2-139-a",
+  "headword": "MODAL/AUX: should",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "You should drink more water every day."
+ },
+ {
+  "id": "g2-139-b",
+  "headword": "MODAL/AUX: should",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "We should leave now, or we will be late."
+ },
+ {
+  "id": "g2-142-a",
+  "headword": "MODAL/AUX: would",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "I would like a cup of tea, please."
+ },
+ {
+  "id": "g2-142-b",
+  "headword": "MODAL/AUX: would",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "She would love to visit Japan one day."
+ },
+ {
+  "id": "g2-11-a",
+  "headword": "This/That N",
+  "pos": "grammar (AFF. DEC./NEG. DEC.)",
+  "example": "This bag is very heavy."
+ },
+ {
+  "id": "g2-11-b",
+  "headword": "This/That N",
+  "pos": "grammar (AFF. DEC./NEG. DEC.)",
+  "example": "That restaurant isn't open on Sundays."
+ },
+ {
+  "id": "g2-25-a",
+  "headword": "INDEFINITE PRONOUN/PROP-WORDS: ones (except for 'one')",
+  "pos": "grammar",
+  "example": "I don't like the red shoes. I prefer the black ones."
+ },
+ {
+  "id": "g2-25-b",
+  "headword": "INDEFINITE PRONOUN/PROP-WORDS: ones (except for 'one')",
+  "pos": "grammar",
+  "example": "Which cakes do you want? The small ones, please."
+ },
+ {
+  "id": "g2-39-a",
+  "headword": "COMPARATIVE OF SUPERIORITY: more+ADJ/ADV",
+  "pos": "grammar",
+  "example": "This book is more interesting than the film."
+ },
+ {
+  "id": "g2-39-b",
+  "headword": "COMPARATIVE OF SUPERIORITY: more+ADJ/ADV",
+  "pos": "grammar",
+  "example": "Could you speak more slowly, please?"
+ },
+ {
+  "id": "g2-56-a",
+  "headword": "PHRASAL VERBS (V+NP+PARTICLE)",
+  "pos": "grammar",
+  "example": "Please turn the TV off before you go to bed."
+ },
+ {
+  "id": "g2-56-b",
+  "headword": "PHRASAL VERBS (V+NP+PARTICLE)",
+  "pos": "grammar",
+  "example": "Put your coat on. It's cold outside."
+ },
+ {
+  "id": "g2-156-a",
+  "headword": "ADVERBIAL CLAUSE: if",
+  "pos": "grammar",
+  "example": "If it rains tomorrow, we will stay at home."
+ },
+ {
+  "id": "g2-156-b",
+  "headword": "ADVERBIAL CLAUSE: if",
+  "pos": "grammar",
+  "example": "If you are hungry, there is bread in the kitchen."
+ },
+ {
+  "id": "g2-196-1-a",
+  "headword": "SENTENCE PATTERN: SUBJECT+V+OBJECT",
+  "pos": "grammar (NEG. DEC.)",
+  "example": "I don't eat meat on Fridays."
+ },
+ {
+  "id": "g2-196-1-b",
+  "headword": "SENTENCE PATTERN: SUBJECT+V+OBJECT",
+  "pos": "grammar (NEG. DEC.)",
+  "example": "My sister didn't finish her homework yesterday."
+ },
+ {
+  "id": "g2-202-a",
+  "headword": "INDIRECT QUESTION: DECIDE/EXPLAIN/KNOW/LEARN/SEE/UNDERSTAND/WONDER",
+  "pos": "grammar",
+  "example": "I don't know where the station is."
+ },
+ {
+  "id": "g2-202-b",
+  "headword": "INDIRECT QUESTION: DECIDE/EXPLAIN/KNOW/LEARN/SEE/UNDERSTAND/WONDER",
+  "pos": "grammar",
+  "example": "She wonders why her friend didn't call her."
+ }
+]

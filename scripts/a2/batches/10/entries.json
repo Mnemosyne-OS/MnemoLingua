@@ -1,0 +1,623 @@
+[
+ {
+  "id": "organized-adj",
+  "headword": "organized",
+  "pos": "adjective",
+  "variants": [
+   "organised"
+  ]
+ },
+ {
+  "id": "original-adj",
+  "headword": "original",
+  "pos": "adjective"
+ },
+ {
+  "id": "orphan-n",
+  "headword": "orphan",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "other-pron",
+  "headword": "other",
+  "pos": "pronoun"
+ },
+ {
+  "id": "ourselves-pron",
+  "headword": "ourselves",
+  "pos": "pronoun"
+ },
+ {
+  "id": "out-of-prep",
+  "headword": "out of",
+  "pos": "preposition"
+ },
+ {
+  "id": "outside-prep",
+  "headword": "outside",
+  "pos": "preposition"
+ },
+ {
+  "id": "oven-n",
+  "headword": "oven",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "over-adv",
+  "headword": "over",
+  "pos": "adverb"
+ },
+ {
+  "id": "overseas-adv",
+  "headword": "overseas",
+  "pos": "adverb"
+ },
+ {
+  "id": "overweight-adj",
+  "headword": "overweight",
+  "pos": "adjective"
+ },
+ {
+  "id": "own-pron",
+  "headword": "own",
+  "pos": "pronoun"
+ },
+ {
+  "id": "pacific-adj",
+  "headword": "pacific",
+  "pos": "adjective"
+ },
+ {
+  "id": "pack-n",
+  "headword": "pack",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "pack-v",
+  "headword": "pack",
+  "pos": "verb"
+ },
+ {
+  "id": "painter-n",
+  "headword": "painter",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "pal-n",
+  "headword": "pal",
+  "pos": "noun",
+  "sourceTopics": [
+   "Personal information",
+   "Relations with other people"
+  ]
+ },
+ {
+  "id": "pan-n",
+  "headword": "pan",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "panic-n",
+  "headword": "panic",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs",
+   "Health and body care"
+  ]
+ },
+ {
+  "id": "park-v",
+  "headword": "park",
+  "pos": "verb"
+ },
+ {
+  "id": "part-n",
+  "headword": "part",
+  "pos": "noun"
+ },
+ {
+  "id": "partly-adv",
+  "headword": "partly",
+  "pos": "adverb"
+ },
+ {
+  "id": "pass-n",
+  "headword": "pass",
+  "pos": "noun"
+ },
+ {
+  "id": "pass-v",
+  "headword": "pass",
+  "pos": "verb"
+ },
+ {
+  "id": "passage-n",
+  "headword": "passage",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "passenger-n",
+  "headword": "passenger",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel and services vocab",
+   "Travel"
+  ]
+ },
+ {
+  "id": "pasta-n",
+  "headword": "pasta",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "path-n",
+  "headword": "path",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "Places"
+  ]
+ },
+ {
+  "id": "patient-n",
+  "headword": "patient",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel and services vocab",
+   "Health and body care"
+  ]
+ },
+ {
+  "id": "pc-n",
+  "headword": "PC",
+  "pos": "noun",
+  "sourceTopics": [
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "pea-n",
+  "headword": "pea",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "peaceful-adj",
+  "headword": "peaceful",
+  "pos": "adjective"
+ },
+ {
+  "id": "pear-n",
+  "headword": "pear",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "pence-n",
+  "headword": "pence",
+  "pos": "noun",
+  "sourceTopics": [
+   "Shopping"
+  ]
+ },
+ {
+  "id": "penfriend-n",
+  "headword": "penfriend",
+  "pos": "noun",
+  "variants": [
+   "pen friend"
+  ],
+  "sourceTopics": [
+   "Relations with other people"
+  ]
+ },
+ {
+  "id": "pepper-n",
+  "headword": "pepper",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "perfect-adj",
+  "headword": "perfect",
+  "pos": "adjective"
+ },
+ {
+  "id": "perfectly-adv",
+  "headword": "perfectly",
+  "pos": "adverb"
+ },
+ {
+  "id": "perform-v",
+  "headword": "perform",
+  "pos": "verb"
+ },
+ {
+  "id": "performance-n",
+  "headword": "performance",
+  "pos": "noun"
+ },
+ {
+  "id": "perfume-n",
+  "headword": "perfume",
+  "pos": "noun",
+  "sourceTopics": [
+   "Shopping"
+  ]
+ },
+ {
+  "id": "perhaps-adv",
+  "headword": "perhaps",
+  "pos": "adverb"
+ },
+ {
+  "id": "permission-n",
+  "headword": "permission",
+  "pos": "noun"
+ },
+ {
+  "id": "personality-n",
+  "headword": "personality",
+  "pos": "noun",
+  "sourceTopics": [
+   "Personal information",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "petrol-n",
+  "headword": "petrol",
+  "pos": "noun",
+  "sourceTopics": [
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "petrol-station-n",
+  "headword": "petrol station",
+  "pos": "noun",
+  "sourceTopics": [
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "photograph-n",
+  "headword": "photograph",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "photographer-n",
+  "headword": "photographer",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "photography-n",
+  "headword": "photography",
+  "pos": "noun",
+  "sourceTopics": [
+   "Hobbies and pastimes",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "physical-adj",
+  "headword": "physical",
+  "pos": "adjective"
+ },
+ {
+  "id": "physically-adv",
+  "headword": "physically",
+  "pos": "adverb"
+ },
+ {
+  "id": "pile-n",
+  "headword": "pile",
+  "pos": "noun",
+  "sourceTopics": [
+   "Collocation",
+   "Language"
+  ]
+ },
+ {
+  "id": "pilgrim-n",
+  "headword": "pilgrim",
+  "pos": "noun"
+ },
+ {
+  "id": "pill-n",
+  "headword": "pill",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel and services vocab",
+   "Health and body care"
+  ]
+ },
+ {
+  "id": "pilot-n",
+  "headword": "pilot",
+  "pos": "noun",
+  "sourceTopics": [
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "pink-n",
+  "headword": "pink",
+  "pos": "noun"
+ },
+ {
+  "id": "pity-n",
+  "headword": "pity",
+  "pos": "noun"
+ },
+ {
+  "id": "planet-n",
+  "headword": "planet",
+  "pos": "noun",
+  "sourceTopics": [
+   "Nationalities and countries",
+   "Places"
+  ]
+ },
+ {
+  "id": "plant-n",
+  "headword": "plant",
+  "pos": "noun"
+ },
+ {
+  "id": "plastic-adj",
+  "headword": "plastic",
+  "pos": "adjective"
+ },
+ {
+  "id": "plate-n",
+  "headword": "plate",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "playful-adj",
+  "headword": "playful",
+  "pos": "adjective"
+ },
+ {
+  "id": "playground-n",
+  "headword": "playground",
+  "pos": "noun",
+  "sourceTopics": [
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "pleasant-adj",
+  "headword": "pleasant",
+  "pos": "adjective"
+ },
+ {
+  "id": "pleased-adj",
+  "headword": "pleased",
+  "pos": "adjective"
+ },
+ {
+  "id": "pleasing-adj",
+  "headword": "pleasing",
+  "pos": "adjective"
+ },
+ {
+  "id": "plenty-n",
+  "headword": "plenty",
+  "pos": "noun",
+  "sourceTopics": [
+   "Collocation",
+   "Language"
+  ]
+ },
+ {
+  "id": "plural-n",
+  "headword": "plural",
+  "pos": "noun",
+  "sourceTopics": [
+   "Language"
+  ]
+ },
+ {
+  "id": "plus-prep",
+  "headword": "plus",
+  "pos": "preposition"
+ },
+ {
+  "id": "point-v",
+  "headword": "point",
+  "pos": "verb"
+ },
+ {
+  "id": "police-n",
+  "headword": "police",
+  "pos": "noun",
+  "sourceTopics": [
+   "Relations with other people"
+  ]
+ },
+ {
+  "id": "police-officer-n",
+  "headword": "police officer",
+  "pos": "noun",
+  "sourceTopics": [
+   "Relations with other people"
+  ]
+ },
+ {
+  "id": "police-station-n",
+  "headword": "police station",
+  "pos": "noun",
+  "sourceTopics": [
+   "Services"
+  ]
+ },
+ {
+  "id": "policeman-n",
+  "headword": "policeman",
+  "pos": "noun",
+  "sourceTopics": [
+   "Relations with other people"
+  ]
+ },
+ {
+  "id": "policewoman-n",
+  "headword": "policewoman",
+  "pos": "noun",
+  "sourceTopics": [
+   "Relations with other people"
+  ]
+ },
+ {
+  "id": "polite-adj",
+  "headword": "polite",
+  "pos": "adjective"
+ },
+ {
+  "id": "political-adj",
+  "headword": "political",
+  "pos": "adjective"
+ },
+ {
+  "id": "pollute-v",
+  "headword": "pollute",
+  "pos": "verb"
+ },
+ {
+  "id": "popular-adj",
+  "headword": "popular",
+  "pos": "adjective"
+ },
+ {
+  "id": "population-n",
+  "headword": "population",
+  "pos": "noun",
+  "sourceTopics": [
+   "Nationalities and countries"
+  ]
+ },
+ {
+  "id": "portrait-n",
+  "headword": "portrait",
+  "pos": "noun",
+  "sourceTopics": [
+   "Arts",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "position-n",
+  "headword": "position",
+  "pos": "noun"
+ },
+ {
+  "id": "possible-adj",
+  "headword": "possible",
+  "pos": "adjective"
+ },
+ {
+  "id": "possibly-adv",
+  "headword": "possibly",
+  "pos": "adverb"
+ },
+ {
+  "id": "post-v",
+  "headword": "post",
+  "pos": "verb"
+ },
+ {
+  "id": "post-office-n",
+  "headword": "post office",
+  "pos": "noun",
+  "sourceTopics": [
+   "Services"
+  ]
+ },
+ {
+  "id": "pour-v",
+  "headword": "pour",
+  "pos": "verb"
+ },
+ {
+  "id": "power-n",
+  "headword": "power",
+  "pos": "noun"
+ },
+ {
+  "id": "powerful-adj",
+  "headword": "powerful",
+  "pos": "adjective"
+ },
+ {
+  "id": "precise-adj",
+  "headword": "precise",
+  "pos": "adjective"
+ },
+ {
+  "id": "predict-v",
+  "headword": "predict",
+  "pos": "verb"
+ },
+ {
+  "id": "prediction-n",
+  "headword": "prediction",
+  "pos": "noun"
+ },
+ {
+  "id": "prefer-v",
+  "headword": "prefer",
+  "pos": "verb"
+ },
+ {
+  "id": "prepare-v",
+  "headword": "prepare",
+  "pos": "verb"
+ }
+]

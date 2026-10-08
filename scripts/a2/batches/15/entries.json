@@ -1,0 +1,548 @@
+[
+ {
+  "id": "understand-v",
+  "headword": "understand",
+  "pos": "verb"
+ },
+ {
+  "id": "underwater-adj",
+  "headword": "underwater",
+  "pos": "adjective"
+ },
+ {
+  "id": "uneasy-adj",
+  "headword": "uneasy",
+  "pos": "adjective"
+ },
+ {
+  "id": "unfair-adj",
+  "headword": "unfair",
+  "pos": "adjective"
+ },
+ {
+  "id": "unforgettable-adj",
+  "headword": "unforgettable",
+  "pos": "adjective"
+ },
+ {
+  "id": "unfortunately-adv",
+  "headword": "unfortunately",
+  "pos": "adverb"
+ },
+ {
+  "id": "unhappy-adj",
+  "headword": "unhappy",
+  "pos": "adjective"
+ },
+ {
+  "id": "unhealthy-adj",
+  "headword": "unhealthy",
+  "pos": "adjective"
+ },
+ {
+  "id": "uniform-adj",
+  "headword": "uniform",
+  "pos": "adjective"
+ },
+ {
+  "id": "uniform-n",
+  "headword": "uniform",
+  "pos": "noun",
+  "sourceTopics": [
+   "Shopping"
+  ]
+ },
+ {
+  "id": "unimportant-adj",
+  "headword": "unimportant",
+  "pos": "adjective"
+ },
+ {
+  "id": "unit-n",
+  "headword": "unit",
+  "pos": "noun"
+ },
+ {
+  "id": "university-n",
+  "headword": "university",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Education"
+  ]
+ },
+ {
+  "id": "unknown-adj",
+  "headword": "unknown",
+  "pos": "adjective"
+ },
+ {
+  "id": "unlike-adj",
+  "headword": "unlike",
+  "pos": "adjective"
+ },
+ {
+  "id": "unnecessary-adj",
+  "headword": "unnecessary",
+  "pos": "adjective"
+ },
+ {
+  "id": "unpleasant-adj",
+  "headword": "unpleasant",
+  "pos": "adjective"
+ },
+ {
+  "id": "unusual-adj",
+  "headword": "unusual",
+  "pos": "adjective"
+ },
+ {
+  "id": "up-adv",
+  "headword": "up",
+  "pos": "adverb"
+ },
+ {
+  "id": "upon-prep",
+  "headword": "upon",
+  "pos": "preposition"
+ },
+ {
+  "id": "upset-adj",
+  "headword": "upset",
+  "pos": "adjective"
+ },
+ {
+  "id": "upstairs-adv",
+  "headword": "upstairs",
+  "pos": "adverb"
+ },
+ {
+  "id": "use-n",
+  "headword": "use",
+  "pos": "noun"
+ },
+ {
+  "id": "used-adj",
+  "headword": "used",
+  "pos": "adjective"
+ },
+ {
+  "id": "useful-adj",
+  "headword": "useful",
+  "pos": "adjective"
+ },
+ {
+  "id": "usual-adj",
+  "headword": "usual",
+  "pos": "adjective"
+ },
+ {
+  "id": "valley-n",
+  "headword": "valley",
+  "pos": "noun"
+ },
+ {
+  "id": "value-n",
+  "headword": "value",
+  "pos": "noun"
+ },
+ {
+  "id": "verb-n",
+  "headword": "verb",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Language"
+  ]
+ },
+ {
+  "id": "video-game-n",
+  "headword": "video game",
+  "pos": "noun",
+  "sourceTopics": [
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "view-n",
+  "headword": "view",
+  "pos": "noun"
+ },
+ {
+  "id": "village-n",
+  "headword": "village",
+  "pos": "noun",
+  "sourceTopics": [
+   "Nationalities and countries",
+   "Places"
+  ]
+ },
+ {
+  "id": "violent-adj",
+  "headword": "violent",
+  "pos": "adjective"
+ },
+ {
+  "id": "violin-n",
+  "headword": "violin",
+  "pos": "noun",
+  "sourceTopics": [
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "visitor-n",
+  "headword": "visitor",
+  "pos": "noun",
+  "sourceTopics": [
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "vocabulary-n",
+  "headword": "vocabulary",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Language"
+  ]
+ },
+ {
+  "id": "voice-n",
+  "headword": "voice",
+  "pos": "noun"
+ },
+ {
+  "id": "walking-n",
+  "headword": "walking",
+  "pos": "noun",
+  "sourceTopics": [
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "wallet-n",
+  "headword": "wallet",
+  "pos": "noun",
+  "sourceTopics": [
+   "Shopping",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "wander-v",
+  "headword": "wander",
+  "pos": "verb"
+ },
+ {
+  "id": "washing-machine-n",
+  "headword": "washing machine",
+  "pos": "noun",
+  "sourceTopics": [
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "washing-up-n",
+  "headword": "washing-up",
+  "pos": "noun"
+ },
+ {
+  "id": "wave-n",
+  "headword": "wave",
+  "pos": "noun"
+ },
+ {
+  "id": "weak-adj",
+  "headword": "weak",
+  "pos": "adjective"
+ },
+ {
+  "id": "wealth-n",
+  "headword": "wealth",
+  "pos": "noun",
+  "sourceTopics": [
+   "Personal information"
+  ]
+ },
+ {
+  "id": "web-n",
+  "headword": "web",
+  "pos": "noun",
+  "sourceTopics": [
+   "Media",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "web-page-n",
+  "headword": "web page",
+  "pos": "noun",
+  "sourceTopics": [
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "website-n",
+  "headword": "website",
+  "pos": "noun",
+  "sourceTopics": [
+   "Media",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "wedding-n",
+  "headword": "wedding",
+  "pos": "noun",
+  "sourceTopics": [
+   "Family life",
+   "Daily life"
+  ]
+ },
+ {
+  "id": "weekday-n",
+  "headword": "weekday",
+  "pos": "noun"
+ },
+ {
+  "id": "weekly-adj",
+  "headword": "weekly",
+  "pos": "adjective"
+ },
+ {
+  "id": "weekly-adv",
+  "headword": "weekly",
+  "pos": "adverb"
+ },
+ {
+  "id": "weep-n",
+  "headword": "weep",
+  "pos": "noun"
+ },
+ {
+  "id": "weigh-v",
+  "headword": "weigh",
+  "pos": "verb"
+ },
+ {
+  "id": "weight-n",
+  "headword": "weight",
+  "pos": "noun"
+ },
+ {
+  "id": "well-known-adj",
+  "headword": "well-known",
+  "pos": "adjective"
+ },
+ {
+  "id": "west-adj",
+  "headword": "west",
+  "pos": "adjective"
+ },
+ {
+  "id": "west-adv",
+  "headword": "west",
+  "pos": "adverb"
+ },
+ {
+  "id": "west-n",
+  "headword": "west",
+  "pos": "noun"
+ },
+ {
+  "id": "wet-adj",
+  "headword": "wet",
+  "pos": "adjective"
+ },
+ {
+  "id": "whatever-det",
+  "headword": "whatever",
+  "pos": "determiner"
+ },
+ {
+  "id": "wheelchair-n",
+  "headword": "wheelchair",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "Travel"
+  ]
+ },
+ {
+  "id": "while-conj",
+  "headword": "while",
+  "pos": "conjunction"
+ },
+ {
+  "id": "whole-adj",
+  "headword": "whole",
+  "pos": "adjective"
+ },
+ {
+  "id": "whom-pron",
+  "headword": "whom",
+  "pos": "pronoun"
+ },
+ {
+  "id": "wide-adj",
+  "headword": "wide",
+  "pos": "adjective"
+ },
+ {
+  "id": "wide-adv",
+  "headword": "wide",
+  "pos": "adverb"
+ },
+ {
+  "id": "widely-adv",
+  "headword": "widely",
+  "pos": "adverb"
+ },
+ {
+  "id": "wild-adj",
+  "headword": "wild",
+  "pos": "adjective"
+ },
+ {
+  "id": "windy-adj",
+  "headword": "windy",
+  "pos": "adjective"
+ },
+ {
+  "id": "wine-n",
+  "headword": "wine",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "winner-n",
+  "headword": "winner",
+  "pos": "noun",
+  "sourceTopics": [
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "wisdom-n",
+  "headword": "wisdom",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "wise-adj",
+  "headword": "wise",
+  "pos": "adjective"
+ },
+ {
+  "id": "wish-v",
+  "headword": "wish",
+  "pos": "verb"
+ },
+ {
+  "id": "within-prep",
+  "headword": "within",
+  "pos": "preposition"
+ },
+ {
+  "id": "without-prep",
+  "headword": "without",
+  "pos": "preposition"
+ },
+ {
+  "id": "wonder-v",
+  "headword": "wonder",
+  "pos": "verb"
+ },
+ {
+  "id": "wood-n",
+  "headword": "wood",
+  "pos": "noun",
+  "sourceTopics": [
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "wooden-adj",
+  "headword": "wooden",
+  "pos": "adjective"
+ },
+ {
+  "id": "wool-n",
+  "headword": "wool",
+  "pos": "noun",
+  "sourceTopics": [
+   "Clothes",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "worldwide-adv",
+  "headword": "worldwide",
+  "pos": "adverb"
+ },
+ {
+  "id": "worried-adj",
+  "headword": "worried",
+  "pos": "adjective"
+ },
+ {
+  "id": "worry-v",
+  "headword": "worry",
+  "pos": "verb"
+ },
+ {
+  "id": "worse-adj",
+  "headword": "worse",
+  "pos": "adjective"
+ },
+ {
+  "id": "worse-adv",
+  "headword": "worse",
+  "pos": "adverb"
+ },
+ {
+  "id": "worst-adj",
+  "headword": "worst",
+  "pos": "adjective"
+ },
+ {
+  "id": "writing-n",
+  "headword": "writing",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Education"
+  ]
+ },
+ {
+  "id": "wrong-adv",
+  "headword": "wrong",
+  "pos": "adverb"
+ },
+ {
+  "id": "yeah-adv",
+  "headword": "yeah",
+  "pos": "adverb"
+ },
+ {
+  "id": "youth-n",
+  "headword": "youth",
+  "pos": "noun"
+ },
+ {
+  "id": "zone-n",
+  "headword": "zone",
+  "pos": "noun",
+  "sourceTopics": [
+   "Nationalities and countries",
+   "Places"
+  ]
+ }
+]

@@ -1,0 +1,314 @@
+[
+ {
+  "id": "g-1-a",
+  "headword": "I am",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "I am a student."
+ },
+ {
+  "id": "g-1-b",
+  "headword": "I am",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "I am happy today."
+ },
+ {
+  "id": "g-2-2-a",
+  "headword": "Are you ...?",
+  "pos": "grammar (AFF. INT.)",
+  "example": "Are you tired?"
+ },
+ {
+  "id": "g-2-2-b",
+  "headword": "Are you ...?",
+  "pos": "grammar (AFF. INT.)",
+  "example": "Are you from Spain?"
+ },
+ {
+  "id": "g-4-a",
+  "headword": "we are",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "We are friends."
+ },
+ {
+  "id": "g-4-b",
+  "headword": "we are",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "We are at home now."
+ },
+ {
+  "id": "g-8-a",
+  "headword": "This/That is",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "This is my bag."
+ },
+ {
+  "id": "g-8-b",
+  "headword": "This/That is",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "That is a big house."
+ },
+ {
+  "id": "g-58-a",
+  "headword": "TENSE/ASPECT: PRESENT (BE)",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "She is a teacher."
+ },
+ {
+  "id": "g-58-b",
+  "headword": "TENSE/ASPECT: PRESENT (BE)",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "The shop is open."
+ },
+ {
+  "id": "g-58-2-a",
+  "headword": "TENSE/ASPECT: PRESENT (BE)",
+  "pos": "grammar (AFF. INT.)",
+  "example": "Is he your brother?"
+ },
+ {
+  "id": "g-58-2-b",
+  "headword": "TENSE/ASPECT: PRESENT (BE)",
+  "pos": "grammar (AFF. INT.)",
+  "example": "Is the coffee hot?"
+ },
+ {
+  "id": "g-59-a",
+  "headword": "TENSE/ASPECT: PRESENT (lexical verbs)",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "I like apples."
+ },
+ {
+  "id": "g-59-b",
+  "headword": "TENSE/ASPECT: PRESENT (lexical verbs)",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "He works in a bank."
+ },
+ {
+  "id": "g-59-2-a",
+  "headword": "TENSE/ASPECT: PRESENT (lexicalverbs)",
+  "pos": "grammar (AFF. INT.)",
+  "example": "Do you like tea?"
+ },
+ {
+  "id": "g-59-2-b",
+  "headword": "TENSE/ASPECT: PRESENT (lexicalverbs)",
+  "pos": "grammar (AFF. INT.)",
+  "example": "Does she live here?"
+ },
+ {
+  "id": "g-61-a",
+  "headword": "TENSE/ASPECT: PRESENT PROGRESSIVE",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "I am eating lunch now."
+ },
+ {
+  "id": "g-61-b",
+  "headword": "TENSE/ASPECT: PRESENT PROGRESSIVE",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "They are playing in the park."
+ },
+ {
+  "id": "g-123-2-a",
+  "headword": "MODAL/AUX: can",
+  "pos": "grammar (AFF. INT.)",
+  "example": "Can you swim?"
+ },
+ {
+  "id": "g-123-2-b",
+  "headword": "MODAL/AUX: can",
+  "pos": "grammar (AFF. INT.)",
+  "example": "Can I open the window?"
+ },
+ {
+  "id": "g-117-a",
+  "headword": "IMPERATIVE: AFFIRMATIVE (lexical verbs)",
+  "pos": "grammar (AFF. IMP.)",
+  "example": "Open the door, please."
+ },
+ {
+  "id": "g-117-b",
+  "headword": "IMPERATIVE: AFFIRMATIVE (lexical verbs)",
+  "pos": "grammar (AFF. IMP.)",
+  "example": "Sit here."
+ },
+ {
+  "id": "g-6-a",
+  "headword": "my/our/your/her/their (except for 'his' and 'its')",
+  "pos": "grammar",
+  "example": "My name is Anna."
+ },
+ {
+  "id": "g-6-b",
+  "headword": "my/our/your/her/their (except for 'his' and 'its')",
+  "pos": "grammar",
+  "example": "Their dog is very small."
+ },
+ {
+  "id": "g-13-a",
+  "headword": "INDEFINITE ARTICLES",
+  "pos": "grammar",
+  "example": "I have a cat."
+ },
+ {
+  "id": "g-13-b",
+  "headword": "INDEFINITE ARTICLES",
+  "pos": "grammar",
+  "example": "She eats an apple."
+ },
+ {
+  "id": "g-15-a",
+  "headword": "DETERMINERS: some/any",
+  "pos": "grammar",
+  "example": "I have some bread."
+ },
+ {
+  "id": "g-15-b",
+  "headword": "DETERMINERS: some/any",
+  "pos": "grammar",
+  "example": "Do you have any milk?"
+ },
+ {
+  "id": "g-21-a",
+  "headword": "PREPOSITIONS",
+  "pos": "grammar",
+  "example": "The book is on the table."
+ },
+ {
+  "id": "g-21-b",
+  "headword": "PREPOSITIONS",
+  "pos": "grammar",
+  "example": "I go to school by bus."
+ },
+ {
+  "id": "g-32-a",
+  "headword": "ADVERBS OF FREQUENCY: always/usually/often/frequently/occasionally/sometimes/rarely",
+  "pos": "grammar",
+  "example": "I always drink coffee in the morning."
+ },
+ {
+  "id": "g-32-b",
+  "headword": "ADVERBS OF FREQUENCY: always/usually/often/frequently/occasionally/sometimes/rarely",
+  "pos": "grammar",
+  "example": "She sometimes walks to work."
+ },
+ {
+  "id": "g-35-a",
+  "headword": "ADVERBS OF NEGATION: never",
+  "pos": "grammar",
+  "example": "I never eat meat."
+ },
+ {
+  "id": "g-35-b",
+  "headword": "ADVERBS OF NEGATION: never",
+  "pos": "grammar",
+  "example": "He never watches TV."
+ },
+ {
+  "id": "g-40-a",
+  "headword": "SUPERLATIVE OF SUPERIORITY: -est",
+  "pos": "grammar",
+  "example": "He is the tallest boy in the class."
+ },
+ {
+  "id": "g-40-b",
+  "headword": "SUPERLATIVE OF SUPERIORITY: -est",
+  "pos": "grammar",
+  "example": "This is the biggest room."
+ },
+ {
+  "id": "g-239-a",
+  "headword": "WH- QUESTION: What ...?",
+  "pos": "grammar (AFF. INT./NEG. INT.)",
+  "example": "What is your name?"
+ },
+ {
+  "id": "g-239-b",
+  "headword": "WH- QUESTION: What ...?",
+  "pos": "grammar (AFF. INT./NEG. INT.)",
+  "example": "What do you want for dinner?"
+ },
+ {
+  "id": "g-246-a",
+  "headword": "WH- QUESTION: How ...?",
+  "pos": "grammar (AFF. INT./NEG. INT.)",
+  "example": "How are you?"
+ },
+ {
+  "id": "g-246-b",
+  "headword": "WH- QUESTION: How ...?",
+  "pos": "grammar (AFF. INT./NEG. INT.)",
+  "example": "How do you go to work?"
+ },
+ {
+  "id": "g-196-2-a",
+  "headword": "SENTENCE PATTERN: SUBJECT+V+OBJECT",
+  "pos": "grammar (AFF. INT.)",
+  "example": "Do you have a car?"
+ },
+ {
+  "id": "g-196-2-b",
+  "headword": "SENTENCE PATTERN: SUBJECT+V+OBJECT",
+  "pos": "grammar (AFF. INT.)",
+  "example": "Does he play football?"
+ },
+ {
+  "id": "g-155-a",
+  "headword": "ADVERBIAL CLAUSE: when",
+  "pos": "grammar",
+  "example": "When it rains, I stay at home."
+ },
+ {
+  "id": "g-155-b",
+  "headword": "ADVERBIAL CLAUSE: when",
+  "pos": "grammar",
+  "example": "Call me when you are home."
+ },
+ {
+  "id": "g-162-a",
+  "headword": "hope/know/think+CLAUSE (without 'that')",
+  "pos": "grammar",
+  "example": "I think it is cold today."
+ },
+ {
+  "id": "g-162-b",
+  "headword": "hope/know/think+CLAUSE (without 'that')",
+  "pos": "grammar",
+  "example": "I hope you are well."
+ },
+ {
+  "id": "g-101-a",
+  "headword": "VERB to DO",
+  "pos": "grammar",
+  "example": "I do my homework every day."
+ },
+ {
+  "id": "g-101-b",
+  "headword": "VERB to DO",
+  "pos": "grammar",
+  "example": "She does the dishes after dinner."
+ },
+ {
+  "id": "g-105-a",
+  "headword": "V-ING (not preceded by 'not')",
+  "pos": "grammar",
+  "example": "I like reading books."
+ },
+ {
+  "id": "g-105-b",
+  "headword": "V-ING (not preceded by 'not')",
+  "pos": "grammar",
+  "example": "Swimming is fun."
+ },
+ {
+  "id": "g-55-a",
+  "headword": "PHRASAL VERBS (V+PARTICLE)",
+  "pos": "grammar",
+  "example": "I get up at seven."
+ },
+ {
+  "id": "g-55-b",
+  "headword": "PHRASAL VERBS (V+PARTICLE)",
+  "pos": "grammar",
+  "example": "Please turn off the light."
+ }
+]

@@ -1,0 +1,1237 @@
+[
+ {
+  "id": "proverb-n",
+  "example": "My grandmother often repeats an old proverb about patience.",
+  "gloss": {
+   "fr": "le proverbe",
+   "es": "el proverbio"
+  },
+  "exampleGloss": {
+   "fr": "Ma grand-mère répète souvent un vieux proverbe sur la patience.",
+   "es": "Mi abuela repite a menudo un viejo proverbio sobre la paciencia."
+  },
+  "topic": "school"
+ },
+ {
+  "id": "provided-conj",
+  "example": "You can borrow my car, provided you bring it back tonight.",
+  "gloss": {
+   "fr": "à condition que",
+   "es": "siempre que"
+  },
+  "exampleGloss": {
+   "fr": "Tu peux emprunter ma voiture, à condition de la ramener ce soir.",
+   "es": "Puedes coger mi coche, siempre que me lo devuelvas esta noche."
+  },
+  "topic": "smallwords"
+ },
+ {
+  "id": "psychological-adj",
+  "example": "Losing his job caused him serious psychological problems.",
+  "gloss": {
+   "fr": "psychologique",
+   "es": "psicológico"
+  },
+  "exampleGloss": {
+   "fr": "Perdre son travail lui a causé de graves problèmes psychologiques.",
+   "es": "Perder su trabajo le causó graves problemas psicológicos."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "pub-n",
+  "example": "We met some friends at the pub for a drink.",
+  "gloss": {
+   "fr": "le pub",
+   "es": "el pub"
+  },
+  "exampleGloss": {
+   "fr": "On a retrouvé des amis au pub pour boire un verre.",
+   "es": "Quedamos con unos amigos en el pub para tomar algo."
+  },
+  "topic": "town"
+ },
+ {
+  "id": "public-adj",
+  "example": "The library is a public building, so anyone can go in.",
+  "gloss": {
+   "fr": "public",
+   "es": "público"
+  },
+  "exampleGloss": {
+   "fr": "La bibliothèque est un bâtiment public, donc tout le monde peut y entrer.",
+   "es": "La biblioteca es un edificio público, así que cualquiera puede entrar."
+  },
+  "topic": "town"
+ },
+ {
+  "id": "public-transport-n",
+  "example": "I don't have a car, so I use public transport.",
+  "gloss": {
+   "fr": "les transports en commun",
+   "es": "el transporte público"
+  },
+  "exampleGloss": {
+   "fr": "Je n'ai pas de voiture, alors je prends les transports en commun.",
+   "es": "No tengo coche, así que uso el transporte público."
+  },
+  "topic": "transport"
+ },
+ {
+  "id": "publicly-adv",
+  "example": "The minister publicly apologized for his mistake on television.",
+  "gloss": {
+   "fr": "publiquement",
+   "es": "públicamente"
+  },
+  "exampleGloss": {
+   "fr": "Le ministre s'est excusé publiquement de son erreur à la télévision.",
+   "es": "El ministro pidió perdón públicamente por su error en televisión."
+  },
+  "topic": "smallwords"
+ },
+ {
+  "id": "publisher-n",
+  "example": "She sent her first novel to a publisher in London.",
+  "gloss": {
+   "fr": "l'éditeur",
+   "es": "la editorial"
+  },
+  "exampleGloss": {
+   "fr": "Elle a envoyé son premier roman à un éditeur à Londres.",
+   "es": "Envió su primera novela a una editorial de Londres."
+  },
+  "topic": "work"
+ },
+ {
+  "id": "pullover-n",
+  "example": "It was cold, so he put on a warm pullover.",
+  "gloss": {
+   "fr": "le pull",
+   "es": "el jersey"
+  },
+  "exampleGloss": {
+   "fr": "Il faisait froid, alors il a mis un pull chaud.",
+   "es": "Hacía frío, así que se puso un jersey calentito."
+  },
+  "topic": "clothes"
+ },
+ {
+  "id": "pump-n",
+  "example": "I used a pump to put air in my bike tyres.",
+  "gloss": {
+   "fr": "la pompe",
+   "es": "la bomba"
+  },
+  "exampleGloss": {
+   "fr": "J'ai utilisé une pompe pour gonfler les pneus de mon vélo.",
+   "es": "Usé una bomba para inflar las ruedas de la bici."
+  },
+  "topic": "home"
+ },
+ {
+  "id": "punish-v",
+  "example": "The teacher punished the boys for fighting in class.",
+  "gloss": {
+   "fr": "punir",
+   "es": "castigar"
+  },
+  "exampleGloss": {
+   "fr": "Le professeur a puni les garçons parce qu'ils s'étaient battus en classe.",
+   "es": "El profesor castigó a los chicos por pelearse en clase."
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "punishment-n",
+  "example": "His punishment was to stay at home all weekend.",
+  "gloss": {
+   "fr": "la punition",
+   "es": "el castigo"
+  },
+  "exampleGloss": {
+   "fr": "Sa punition, c'était de rester à la maison tout le week-end.",
+   "es": "Su castigo fue quedarse en casa todo el fin de semana."
+  },
+  "topic": "people"
+ },
+ {
+  "id": "pupil-n",
+  "example": "There are thirty pupils in my daughter's class.",
+  "gloss": {
+   "fr": "l'élève",
+   "es": "el alumno"
+  },
+  "exampleGloss": {
+   "fr": "Il y a trente élèves dans la classe de ma fille.",
+   "es": "Hay treinta alumnos en la clase de mi hija."
+  },
+  "topic": "school"
+ },
+ {
+  "id": "puppy-n",
+  "example": "We got a little puppy for my son's birthday.",
+  "gloss": {
+   "fr": "le chiot",
+   "es": "el cachorro"
+  },
+  "exampleGloss": {
+   "fr": "On a eu un petit chiot pour l'anniversaire de mon fils.",
+   "es": "Le regalamos un cachorro a mi hijo por su cumpleaños."
+  },
+  "topic": "animals"
+ },
+ {
+  "id": "pure-adj",
+  "example": "The water from this mountain spring is very pure.",
+  "gloss": {
+   "fr": "pur",
+   "es": "puro"
+  },
+  "exampleGloss": {
+   "fr": "L'eau de cette source de montagne est très pure.",
+   "es": "El agua de este manantial de montaña es muy pura."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "purify-v",
+  "example": "We used tablets to purify the water before drinking it.",
+  "gloss": {
+   "fr": "purifier",
+   "es": "purificar"
+  },
+  "exampleGloss": {
+   "fr": "On a utilisé des pastilles pour purifier l'eau avant de la boire.",
+   "es": "Usamos pastillas para purificar el agua antes de bebérnosla."
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "purse-n",
+  "example": "She took some coins out of her purse to pay.",
+  "gloss": {
+   "fr": "le porte-monnaie",
+   "es": "el monedero"
+  },
+  "exampleGloss": {
+   "fr": "Elle a sorti des pièces de son porte-monnaie pour payer.",
+   "es": "Sacó unas monedas del monedero para pagar."
+  },
+  "topic": "shopping"
+ },
+ {
+  "id": "push-n",
+  "example": "The car wouldn't start, so we gave it a push.",
+  "gloss": {
+   "fr": "la poussée",
+   "es": "el empujón"
+  },
+  "exampleGloss": {
+   "fr": "La voiture ne voulait pas démarrer, alors on l'a poussée.",
+   "es": "El coche no arrancaba, así que le dimos un empujón."
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "puzzle-n",
+  "example": "The children spent the afternoon doing a big puzzle.",
+  "gloss": {
+   "fr": "le puzzle",
+   "es": "el puzle"
+  },
+  "exampleGloss": {
+   "fr": "Les enfants ont passé l'après-midi à faire un grand puzzle.",
+   "es": "Los niños pasaron la tarde haciendo un puzle grande."
+  },
+  "topic": "leisure"
+ },
+ {
+  "id": "quake-n",
+  "example": "Many houses fell down during the quake.",
+  "gloss": {
+   "fr": "le séisme",
+   "es": "el terremoto"
+  },
+  "exampleGloss": {
+   "fr": "Beaucoup de maisons se sont effondrées pendant le séisme.",
+   "es": "Muchas casas se derrumbaron durante el terremoto."
+  },
+  "topic": "nature"
+ },
+ {
+  "id": "qualified-adj",
+  "example": "She is a qualified nurse with ten years of experience.",
+  "gloss": {
+   "fr": "diplômé",
+   "es": "titulado"
+  },
+  "exampleGloss": {
+   "fr": "C'est une infirmière diplômée qui a dix ans d'expérience.",
+   "es": "Es una enfermera titulada con diez años de experiencia."
+  },
+  "topic": "work"
+ },
+ {
+  "id": "qualify-v",
+  "example": "Our team needs to win today to qualify for the final.",
+  "gloss": {
+   "fr": "se qualifier",
+   "es": "clasificarse"
+  },
+  "exampleGloss": {
+   "fr": "Notre équipe doit gagner aujourd'hui pour se qualifier pour la finale.",
+   "es": "Nuestro equipo tiene que ganar hoy para clasificarse para la final."
+  },
+  "topic": "leisure"
+ },
+ {
+  "id": "quality-adj",
+  "example": "This shop only sells quality furniture made by hand.",
+  "gloss": {
+   "fr": "de qualité",
+   "es": "de calidad"
+  },
+  "exampleGloss": {
+   "fr": "Ce magasin ne vend que des meubles de qualité faits à la main.",
+   "es": "Esta tienda solo vende muebles de calidad hechos a mano."
+  },
+  "topic": "shopping"
+ },
+ {
+  "id": "quantity-n",
+  "example": "They bought a large quantity of rice for the party.",
+  "gloss": {
+   "fr": "la quantité",
+   "es": "la cantidad"
+  },
+  "exampleGloss": {
+   "fr": "Ils ont acheté une grande quantité de riz pour la fête.",
+   "es": "Compraron una gran cantidad de arroz para la fiesta."
+  },
+  "topic": "shopping"
+ },
+ {
+  "id": "question-mark-n",
+  "example": "Don't forget to put a question mark at the end.",
+  "gloss": {
+   "fr": "le point d'interrogation",
+   "es": "el signo de interrogación"
+  },
+  "exampleGloss": {
+   "fr": "N'oublie pas de mettre un point d'interrogation à la fin.",
+   "es": "No te olvides de poner un signo de interrogación al final."
+  },
+  "topic": "school"
+ },
+ {
+  "id": "questionnaire-n",
+  "example": "Please fill in this short questionnaire about our hotel.",
+  "gloss": {
+   "fr": "le questionnaire",
+   "es": "el cuestionario"
+  },
+  "exampleGloss": {
+   "fr": "Merci de remplir ce court questionnaire sur notre hôtel.",
+   "es": "Por favor, rellene este breve cuestionario sobre nuestro hotel."
+  },
+  "topic": "work"
+ },
+ {
+  "id": "queue-n",
+  "example": "There was a long queue outside the cinema.",
+  "gloss": {
+   "fr": "la file d'attente",
+   "es": "la cola"
+  },
+  "exampleGloss": {
+   "fr": "Il y avait une longue file d'attente devant le cinéma.",
+   "es": "Había una cola larga delante del cine."
+  },
+  "topic": "town"
+ },
+ {
+  "id": "race-n",
+  "example": "He ran very fast and won the race.",
+  "gloss": {
+   "fr": "la course",
+   "es": "la carrera"
+  },
+  "exampleGloss": {
+   "fr": "Il a couru très vite et a gagné la course.",
+   "es": "Corrió muy rápido y ganó la carrera."
+  },
+  "topic": "leisure"
+ },
+ {
+  "id": "race-v",
+  "example": "The two boys raced each other to the end of the beach.",
+  "gloss": {
+   "fr": "faire la course",
+   "es": "echar una carrera"
+  },
+  "exampleGloss": {
+   "fr": "Les deux garçons ont fait la course jusqu'au bout de la plage.",
+   "es": "Los dos chicos echaron una carrera hasta el final de la playa."
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "racial-adj",
+  "example": "The school does not accept any racial discrimination.",
+  "gloss": {
+   "fr": "racial",
+   "es": "racial"
+  },
+  "exampleGloss": {
+   "fr": "L'école n'accepte aucune discrimination raciale.",
+   "es": "El colegio no acepta ningún tipo de discriminación racial."
+  },
+  "topic": "people"
+ },
+ {
+  "id": "radiation-n",
+  "example": "Too much radiation from the sun can damage your skin.",
+  "gloss": {
+   "fr": "le rayonnement",
+   "es": "la radiación"
+  },
+  "exampleGloss": {
+   "fr": "Trop de rayonnement solaire peut abîmer la peau.",
+   "es": "Demasiada radiación solar puede dañar la piel."
+  },
+  "topic": "nature"
+ },
+ {
+  "id": "rage-n",
+  "example": "He shouted in rage when he saw his broken car.",
+  "gloss": {
+   "fr": "la rage",
+   "es": "la rabia"
+  },
+  "exampleGloss": {
+   "fr": "Il a hurlé de rage en voyant sa voiture cassée.",
+   "es": "Gritó de rabia al ver su coche roto."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "rail-n",
+  "example": "Travelling by rail is often faster than driving.",
+  "gloss": {
+   "fr": "le train",
+   "es": "el tren"
+  },
+  "exampleGloss": {
+   "fr": "Voyager en train est souvent plus rapide qu'en voiture.",
+   "es": "Viajar en tren suele ser más rápido que en coche."
+  },
+  "topic": "transport"
+ },
+ {
+  "id": "railroad-n",
+  "example": "The old railroad went across the whole country.",
+  "gloss": {
+   "fr": "le chemin de fer",
+   "es": "el ferrocarril"
+  },
+  "exampleGloss": {
+   "fr": "L'ancien chemin de fer traversait tout le pays.",
+   "es": "El antiguo ferrocarril cruzaba todo el país."
+  },
+  "topic": "transport"
+ },
+ {
+  "id": "railway-n",
+  "example": "They are building a new railway between the two cities.",
+  "gloss": {
+   "fr": "la voie ferrée",
+   "es": "la vía férrea"
+  },
+  "exampleGloss": {
+   "fr": "On construit une nouvelle voie ferrée entre les deux villes.",
+   "es": "Están construyendo una nueva vía férrea entre las dos ciudades."
+  },
+  "topic": "transport"
+ },
+ {
+  "id": "rainfall-n",
+  "example": "This region has very little rainfall in summer.",
+  "gloss": {
+   "fr": "les précipitations",
+   "es": "las precipitaciones"
+  },
+  "exampleGloss": {
+   "fr": "Cette région a très peu de précipitations en été.",
+   "es": "Esta región tiene muy pocas precipitaciones en verano."
+  },
+  "topic": "nature"
+ },
+ {
+  "id": "rainforest-n",
+  "example": "Thousands of different animals live in the rainforest.",
+  "gloss": {
+   "fr": "la forêt tropicale",
+   "es": "la selva tropical"
+  },
+  "exampleGloss": {
+   "fr": "Des milliers d'animaux différents vivent dans la forêt tropicale.",
+   "es": "Miles de animales distintos viven en la selva tropical."
+  },
+  "topic": "nature"
+ },
+ {
+  "id": "rank-n",
+  "example": "He reached the rank of captain in the army.",
+  "gloss": {
+   "fr": "le grade",
+   "es": "el rango"
+  },
+  "exampleGloss": {
+   "fr": "Il a atteint le grade de capitaine dans l'armée.",
+   "es": "Alcanzó el rango de capitán en el ejército."
+  },
+  "topic": "work"
+ },
+ {
+  "id": "rap-v",
+  "example": "He loves music and likes to rap with his friends.",
+  "gloss": {
+   "fr": "rapper",
+   "es": "rapear"
+  },
+  "exampleGloss": {
+   "fr": "Il adore la musique et aime rapper avec ses amis.",
+   "es": "Le encanta la música y le gusta rapear con sus amigos."
+  },
+  "topic": "leisure"
+ },
+ {
+  "id": "rapid-adj",
+  "example": "The city has seen rapid growth in the last ten years.",
+  "gloss": {
+   "fr": "rapide",
+   "es": "rápido"
+  },
+  "exampleGloss": {
+   "fr": "La ville a connu une croissance rapide ces dix dernières années.",
+   "es": "La ciudad ha tenido un crecimiento rápido en los últimos diez años."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "rapidly-adv",
+  "example": "Prices are rising rapidly this year.",
+  "gloss": {
+   "fr": "rapidement",
+   "es": "rápidamente"
+  },
+  "exampleGloss": {
+   "fr": "Les prix augmentent rapidement cette année.",
+   "es": "Los precios están subiendo rápidamente este año."
+  },
+  "topic": "smallwords"
+ },
+ {
+  "id": "rare-adj",
+  "example": "This bird is very rare, so few people have seen it.",
+  "gloss": {
+   "fr": "rare",
+   "es": "raro"
+  },
+  "exampleGloss": {
+   "fr": "Cet oiseau est très rare, donc peu de gens l'ont vu.",
+   "es": "Este pájaro es muy raro, así que poca gente lo ha visto."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "rarely-adv",
+  "example": "I rarely watch TV because I prefer reading.",
+  "gloss": {
+   "fr": "rarement",
+   "es": "rara vez"
+  },
+  "exampleGloss": {
+   "fr": "Je regarde rarement la télé parce que je préfère lire.",
+   "es": "Rara vez veo la tele porque prefiero leer."
+  },
+  "topic": "smallwords"
+ },
+ {
+  "id": "raspberry-n",
+  "example": "She put a fresh raspberry on top of each cake.",
+  "gloss": {
+   "fr": "la framboise",
+   "es": "la frambuesa"
+  },
+  "exampleGloss": {
+   "fr": "Elle a mis une framboise fraîche sur chaque gâteau.",
+   "es": "Puso una frambuesa fresca encima de cada pastel."
+  },
+  "topic": "food"
+ },
+ {
+  "id": "ration-n",
+  "example": "Each soldier received a daily ration of bread and water.",
+  "gloss": {
+   "fr": "la ration",
+   "es": "la ración"
+  },
+  "exampleGloss": {
+   "fr": "Chaque soldat recevait une ration quotidienne de pain et d'eau.",
+   "es": "Cada soldado recibía una ración diaria de pan y agua."
+  },
+  "topic": "food"
+ },
+ {
+  "id": "rational-adj",
+  "example": "Try to stay calm and make a rational decision.",
+  "gloss": {
+   "fr": "rationnel",
+   "es": "racional"
+  },
+  "exampleGloss": {
+   "fr": "Essaie de rester calme et de prendre une décision rationnelle.",
+   "es": "Intenta mantener la calma y tomar una decisión racional."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "razor-n",
+  "example": "He shaves every morning with an electric razor.",
+  "gloss": {
+   "fr": "le rasoir",
+   "es": "la maquinilla de afeitar"
+  },
+  "exampleGloss": {
+   "fr": "Il se rase tous les matins avec un rasoir électrique.",
+   "es": "Se afeita todas las mañanas con una maquinilla eléctrica."
+  },
+  "topic": "home"
+ },
+ {
+  "id": "reach-n",
+  "example": "Keep these medicines out of the reach of children.",
+  "gloss": {
+   "fr": "la portée",
+   "es": "el alcance"
+  },
+  "exampleGloss": {
+   "fr": "Gardez ces médicaments hors de la portée des enfants.",
+   "es": "Mantenga estos medicamentos fuera del alcance de los niños."
+  },
+  "topic": "home"
+ },
+ {
+  "id": "react-v",
+  "example": "How did your parents react when you told them the news?",
+  "gloss": {
+   "fr": "réagir",
+   "es": "reaccionar"
+  },
+  "exampleGloss": {
+   "fr": "Comment tes parents ont-ils réagi quand tu leur as annoncé la nouvelle ?",
+   "es": "¿Cómo reaccionaron tus padres cuando les contaste la noticia?"
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "realistic-adj",
+  "example": "We need a realistic plan that we can actually finish.",
+  "gloss": {
+   "fr": "réaliste",
+   "es": "realista"
+  },
+  "exampleGloss": {
+   "fr": "Il nous faut un plan réaliste qu'on peut vraiment terminer.",
+   "es": "Necesitamos un plan realista que podamos terminar de verdad."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "reality-n",
+  "example": "He dreams of being famous, but the reality is very different.",
+  "gloss": {
+   "fr": "la réalité",
+   "es": "la realidad"
+  },
+  "exampleGloss": {
+   "fr": "Il rêve d'être célèbre, mais la réalité est bien différente.",
+   "es": "Sueña con ser famoso, pero la realidad es muy distinta."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "rearrange-v",
+  "example": "We rearranged the furniture to make the room bigger.",
+  "gloss": {
+   "fr": "réaménager",
+   "es": "reorganizar"
+  },
+  "exampleGloss": {
+   "fr": "On a changé les meubles de place pour agrandir la pièce.",
+   "es": "Cambiamos los muebles de sitio para que la habitación pareciera más grande."
+  },
+  "topic": "home"
+ },
+ {
+  "id": "reasonable-adj",
+  "example": "The hotel was clean and the price was reasonable.",
+  "gloss": {
+   "fr": "raisonnable",
+   "es": "razonable"
+  },
+  "exampleGloss": {
+   "fr": "L'hôtel était propre et le prix était raisonnable.",
+   "es": "El hotel estaba limpio y el precio era razonable."
+  },
+  "topic": "shopping"
+ },
+ {
+  "id": "rebuild-v",
+  "example": "After the fire, they had to rebuild their house.",
+  "gloss": {
+   "fr": "reconstruire",
+   "es": "reconstruir"
+  },
+  "exampleGloss": {
+   "fr": "Après l'incendie, ils ont dû reconstruire leur maison.",
+   "es": "Después del incendio, tuvieron que reconstruir su casa."
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "recall-v",
+  "example": "I can't recall the name of that film.",
+  "gloss": {
+   "fr": "se rappeler",
+   "es": "recordar"
+  },
+  "exampleGloss": {
+   "fr": "Je n'arrive pas à me rappeler le titre de ce film.",
+   "es": "No consigo recordar el título de esa película."
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "reception-n",
+  "example": "Leave your key at reception when you go out.",
+  "gloss": {
+   "fr": "la réception",
+   "es": "la recepción"
+  },
+  "exampleGloss": {
+   "fr": "Laissez votre clé à la réception quand vous sortez.",
+   "es": "Deje la llave en recepción cuando salga."
+  },
+  "topic": "town"
+ },
+ {
+  "id": "recite-v",
+  "example": "The little girl recited a poem in front of the class.",
+  "gloss": {
+   "fr": "réciter",
+   "es": "recitar"
+  },
+  "exampleGloss": {
+   "fr": "La petite fille a récité un poème devant la classe.",
+   "es": "La niña recitó un poema delante de la clase."
+  },
+  "topic": "school"
+ },
+ {
+  "id": "reclaim-v",
+  "example": "You can reclaim your bags at the airport desk.",
+  "gloss": {
+   "fr": "récupérer",
+   "es": "recuperar"
+  },
+  "exampleGloss": {
+   "fr": "Vous pouvez récupérer vos bagages au guichet de l'aéroport.",
+   "es": "Puede recuperar sus maletas en el mostrador del aeropuerto."
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "recognize-v",
+  "example": "I didn't recognize her because she had short hair.",
+  "gloss": {
+   "fr": "reconnaître",
+   "es": "reconocer"
+  },
+  "exampleGloss": {
+   "fr": "Je ne l'ai pas reconnue parce qu'elle avait les cheveux courts.",
+   "es": "No la reconocí porque tenía el pelo corto."
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "recommend-v",
+  "example": "Can you recommend a good restaurant near here?",
+  "gloss": {
+   "fr": "recommander",
+   "es": "recomendar"
+  },
+  "exampleGloss": {
+   "fr": "Vous pouvez me recommander un bon restaurant près d'ici ?",
+   "es": "¿Me puede recomendar un buen restaurante por aquí cerca?"
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "record-n",
+  "example": "The doctor keeps a record of every patient's visits.",
+  "gloss": {
+   "fr": "le dossier",
+   "es": "el registro"
+  },
+  "exampleGloss": {
+   "fr": "Le médecin tient un dossier des visites de chaque patient.",
+   "es": "El médico lleva un registro de las visitas de cada paciente."
+  },
+  "topic": "work"
+ },
+ {
+  "id": "recording-n",
+  "example": "We listened to a recording of the concert.",
+  "gloss": {
+   "fr": "l'enregistrement",
+   "es": "la grabación"
+  },
+  "exampleGloss": {
+   "fr": "On a écouté un enregistrement du concert.",
+   "es": "Escuchamos una grabación del concierto."
+  },
+  "topic": "leisure"
+ },
+ {
+  "id": "recover-v",
+  "example": "It took him two weeks to recover from the flu.",
+  "gloss": {
+   "fr": "se remettre",
+   "es": "recuperarse"
+  },
+  "exampleGloss": {
+   "fr": "Il lui a fallu deux semaines pour se remettre de la grippe.",
+   "es": "Tardó dos semanas en recuperarse de la gripe."
+  },
+  "topic": "body"
+ },
+ {
+  "id": "recovery-n",
+  "example": "After the operation, she made a quick recovery.",
+  "gloss": {
+   "fr": "la guérison",
+   "es": "la recuperación"
+  },
+  "exampleGloss": {
+   "fr": "Après l'opération, elle a guéri rapidement.",
+   "es": "Después de la operación, tuvo una recuperación rápida."
+  },
+  "topic": "body"
+ },
+ {
+  "id": "recycled-adj",
+  "example": "This notebook is made from recycled paper.",
+  "gloss": {
+   "fr": "recyclé",
+   "es": "reciclado"
+  },
+  "exampleGloss": {
+   "fr": "Ce cahier est fabriqué en papier recyclé.",
+   "es": "Este cuaderno está hecho de papel reciclado."
+  },
+  "topic": "nature"
+ },
+ {
+  "id": "recycling-n",
+  "example": "We put bottles and cans in the recycling every week.",
+  "gloss": {
+   "fr": "le recyclage",
+   "es": "el reciclaje"
+  },
+  "exampleGloss": {
+   "fr": "Chaque semaine, on met les bouteilles et les canettes au recyclage.",
+   "es": "Cada semana echamos las botellas y las latas al reciclaje."
+  },
+  "topic": "nature"
+ },
+ {
+  "id": "reduce-v",
+  "example": "Walking to work helps me reduce my stress.",
+  "gloss": {
+   "fr": "réduire",
+   "es": "reducir"
+  },
+  "exampleGloss": {
+   "fr": "Aller au travail à pied m'aide à réduire mon stress.",
+   "es": "Ir andando al trabajo me ayuda a reducir el estrés."
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "reduction-n",
+  "example": "There is a big reduction on all winter coats this week.",
+  "gloss": {
+   "fr": "la réduction",
+   "es": "el descuento"
+  },
+  "exampleGloss": {
+   "fr": "Il y a une grosse réduction sur tous les manteaux d'hiver cette semaine.",
+   "es": "Esta semana hay un gran descuento en todos los abrigos de invierno."
+  },
+  "topic": "shopping"
+ },
+ {
+  "id": "reef-n",
+  "example": "We went swimming near a coral reef full of colourful fish.",
+  "gloss": {
+   "fr": "le récif",
+   "es": "el arrecife"
+  },
+  "exampleGloss": {
+   "fr": "On est allés nager près d'un récif de corail plein de poissons colorés.",
+   "es": "Fuimos a nadar cerca de un arrecife de coral lleno de peces de colores."
+  },
+  "topic": "nature"
+ },
+ {
+  "id": "referee-n",
+  "example": "The referee stopped the game because a player was hurt.",
+  "gloss": {
+   "fr": "l'arbitre",
+   "es": "el árbitro"
+  },
+  "exampleGloss": {
+   "fr": "L'arbitre a arrêté le match parce qu'un joueur était blessé.",
+   "es": "El árbitro paró el partido porque un jugador estaba herido."
+  },
+  "topic": "leisure"
+ },
+ {
+  "id": "reflection-n",
+  "example": "She looked at her reflection in the shop window.",
+  "gloss": {
+   "fr": "le reflet",
+   "es": "el reflejo"
+  },
+  "exampleGloss": {
+   "fr": "Elle a regardé son reflet dans la vitrine.",
+   "es": "Se miró en el reflejo del escaparate."
+  },
+  "topic": "nature"
+ },
+ {
+  "id": "refreshments-n",
+  "example": "Free refreshments will be served during the break.",
+  "gloss": {
+   "fr": "les rafraîchissements",
+   "es": "el refrigerio"
+  },
+  "exampleGloss": {
+   "fr": "Des rafraîchissements gratuits seront servis pendant la pause.",
+   "es": "Se servirá un refrigerio gratuito durante el descanso."
+  },
+  "topic": "food"
+ },
+ {
+  "id": "refund-n",
+  "example": "The shoes were broken, so the shop gave me a refund.",
+  "gloss": {
+   "fr": "le remboursement",
+   "es": "el reembolso"
+  },
+  "exampleGloss": {
+   "fr": "Les chaussures étaient abîmées, alors le magasin m'a remboursé.",
+   "es": "Los zapatos estaban rotos, así que la tienda me hizo un reembolso."
+  },
+  "topic": "shopping"
+ },
+ {
+  "id": "refusal-n",
+  "example": "His refusal to help us made everyone angry.",
+  "gloss": {
+   "fr": "le refus",
+   "es": "la negativa"
+  },
+  "exampleGloss": {
+   "fr": "Son refus de nous aider a mis tout le monde en colère.",
+   "es": "Su negativa a ayudarnos enfadó a todo el mundo."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "refuse-n",
+  "example": "The council collects household refuse every Monday.",
+  "gloss": {
+   "fr": "les ordures",
+   "es": "la basura"
+  },
+  "exampleGloss": {
+   "fr": "La mairie ramasse les ordures ménagères tous les lundis.",
+   "es": "El ayuntamiento recoge la basura doméstica todos los lunes."
+  },
+  "topic": "home"
+ },
+ {
+  "id": "refuse-v",
+  "example": "She refused to answer any questions about her private life.",
+  "gloss": {
+   "fr": "refuser",
+   "es": "negarse"
+  },
+  "exampleGloss": {
+   "fr": "Elle a refusé de répondre aux questions sur sa vie privée.",
+   "es": "Se negó a responder a preguntas sobre su vida privada."
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "regain-v",
+  "example": "After a long rest, he slowly regained his strength.",
+  "gloss": {
+   "fr": "retrouver",
+   "es": "recuperar"
+  },
+  "exampleGloss": {
+   "fr": "Après un long repos, il a peu à peu retrouvé ses forces.",
+   "es": "Tras un largo descanso, recuperó poco a poco las fuerzas."
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "regard-v",
+  "example": "Many people regard her as the best singer in the country.",
+  "gloss": {
+   "fr": "considérer",
+   "es": "considerar"
+  },
+  "exampleGloss": {
+   "fr": "Beaucoup de gens la considèrent comme la meilleure chanteuse du pays.",
+   "es": "Mucha gente la considera la mejor cantante del país."
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "regarding-prep",
+  "example": "I am writing regarding the job you advertised last week.",
+  "gloss": {
+   "fr": "concernant",
+   "es": "en relación con"
+  },
+  "exampleGloss": {
+   "fr": "Je vous écris concernant le poste que vous avez publié la semaine dernière.",
+   "es": "Le escribo en relación con el puesto que anunciaron la semana pasada."
+  },
+  "topic": "smallwords"
+ },
+ {
+  "id": "region-n",
+  "example": "This region of France is famous for its wine.",
+  "gloss": {
+   "fr": "la région",
+   "es": "la región"
+  },
+  "exampleGloss": {
+   "fr": "Cette région de France est célèbre pour son vin.",
+   "es": "Esta región de Francia es famosa por su vino."
+  },
+  "topic": "nature"
+ },
+ {
+  "id": "regional-adj",
+  "example": "You can try many regional dishes at the market.",
+  "gloss": {
+   "fr": "régional",
+   "es": "regional"
+  },
+  "exampleGloss": {
+   "fr": "Au marché, on peut goûter beaucoup de plats régionaux.",
+   "es": "En el mercado puedes probar muchos platos regionales."
+  },
+  "topic": "town"
+ },
+ {
+  "id": "register-n",
+  "example": "The teacher calls the register at the start of every lesson.",
+  "gloss": {
+   "fr": "la liste d'appel",
+   "es": "la lista"
+  },
+  "exampleGloss": {
+   "fr": "Le professeur fait l'appel au début de chaque cours.",
+   "es": "El profesor pasa lista al principio de cada clase."
+  },
+  "topic": "school"
+ },
+ {
+  "id": "register-v",
+  "example": "You need to register online before the course starts.",
+  "gloss": {
+   "fr": "s'inscrire",
+   "es": "inscribirse"
+  },
+  "exampleGloss": {
+   "fr": "Il faut s'inscrire en ligne avant le début du cours.",
+   "es": "Tienes que inscribirte por internet antes de que empiece el curso."
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "registration-n",
+  "example": "Online registration for the race closes on Friday.",
+  "gloss": {
+   "fr": "l'inscription",
+   "es": "la inscripción"
+  },
+  "exampleGloss": {
+   "fr": "Les inscriptions en ligne pour la course se terminent vendredi.",
+   "es": "La inscripción por internet para la carrera se cierra el viernes."
+  },
+  "topic": "school"
+ },
+ {
+  "id": "regulation-n",
+  "example": "The new safety regulations say that everyone must wear a helmet.",
+  "gloss": {
+   "fr": "le règlement",
+   "es": "la normativa"
+  },
+  "exampleGloss": {
+   "fr": "Le nouveau règlement de sécurité impose à tout le monde de porter un casque.",
+   "es": "La nueva normativa de seguridad dice que todos deben llevar casco."
+  },
+  "topic": "work"
+ },
+ {
+  "id": "reject-v",
+  "example": "The company rejected his application because he had no experience.",
+  "gloss": {
+   "fr": "rejeter",
+   "es": "rechazar"
+  },
+  "exampleGloss": {
+   "fr": "L'entreprise a rejeté sa candidature parce qu'il n'avait pas d'expérience.",
+   "es": "La empresa rechazó su solicitud porque no tenía experiencia."
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "relate-v",
+  "example": "Many teenagers can relate to the problems in this book.",
+  "gloss": {
+   "fr": "s'identifier à",
+   "es": "identificarse con"
+  },
+  "exampleGloss": {
+   "fr": "Beaucoup d'ados peuvent s'identifier aux problèmes de ce livre.",
+   "es": "Muchos adolescentes se pueden identificar con los problemas de este libro."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "relation-n",
+  "example": "Today, relations between the two countries are much better.",
+  "gloss": {
+   "fr": "la relation",
+   "es": "la relación"
+  },
+  "exampleGloss": {
+   "fr": "Aujourd'hui, les relations entre les deux pays sont bien meilleures.",
+   "es": "Hoy en día, las relaciones entre los dos países son mucho mejores."
+  },
+  "topic": "people"
+ },
+ {
+  "id": "relationship-n",
+  "example": "She has a very good relationship with her brother.",
+  "gloss": {
+   "fr": "la relation",
+   "es": "la relación"
+  },
+  "exampleGloss": {
+   "fr": "Elle a une très bonne relation avec son frère.",
+   "es": "Tiene muy buena relación con su hermano."
+  },
+  "topic": "people"
+ },
+ {
+  "id": "relative-adj",
+  "example": "After the storm, we enjoyed a period of relative calm.",
+  "gloss": {
+   "fr": "relatif",
+   "es": "relativo"
+  },
+  "exampleGloss": {
+   "fr": "Après la tempête, on a profité d'une période de calme relatif.",
+   "es": "Después de la tormenta, disfrutamos de un periodo de relativa calma."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "relative-n",
+  "example": "All our relatives came to my grandfather's birthday party.",
+  "gloss": {
+   "fr": "le parent",
+   "es": "el pariente"
+  },
+  "exampleGloss": {
+   "fr": "Toute notre famille est venue à l'anniversaire de mon grand-père.",
+   "es": "Todos nuestros parientes vinieron al cumpleaños de mi abuelo."
+  },
+  "topic": "people"
+ },
+ {
+  "id": "relatively-adv",
+  "example": "The exam was relatively easy, so most students passed.",
+  "gloss": {
+   "fr": "relativement",
+   "es": "relativamente"
+  },
+  "exampleGloss": {
+   "fr": "L'examen était relativement facile, donc la plupart des élèves l'ont réussi.",
+   "es": "El examen fue relativamente fácil, así que aprobaron casi todos los alumnos."
+  },
+  "topic": "smallwords"
+ },
+ {
+  "id": "relaxing-adj",
+  "example": "A hot bath is very relaxing after a long day.",
+  "gloss": {
+   "fr": "relaxant",
+   "es": "relajante"
+  },
+  "exampleGloss": {
+   "fr": "Un bain chaud, c'est très relaxant après une longue journée.",
+   "es": "Un baño caliente es muy relajante después de un día largo."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "release-v",
+  "example": "The band will release their new album next month.",
+  "gloss": {
+   "fr": "sortir",
+   "es": "lanzar"
+  },
+  "exampleGloss": {
+   "fr": "Le groupe va sortir son nouvel album le mois prochain.",
+   "es": "El grupo lanzará su nuevo disco el mes que viene."
+  },
+  "topic": "leisure"
+ },
+ {
+  "id": "reliable-adj",
+  "example": "My old car is still very reliable and never breaks down.",
+  "gloss": {
+   "fr": "fiable",
+   "es": "fiable"
+  },
+  "exampleGloss": {
+   "fr": "Ma vieille voiture est toujours très fiable et ne tombe jamais en panne.",
+   "es": "Mi coche viejo sigue siendo muy fiable y nunca se estropea."
+  },
+  "topic": "feelings"
+ }
+]

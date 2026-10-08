@@ -1,0 +1,392 @@
+{
+ "decoys": {
+  "caught": 6,
+  "total": 6,
+  "missed": []
+ },
+ "toReview": 1,
+ "cards": {
+  "evenly-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "eventually-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "evident-adj": {
+   "check": "to-review",
+   "problems": [
+    "fr example: unnatural calque 'évident à son sourire'; say 'On voyait à son sourire...'"
+   ]
+  },
+  "exact-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "examination-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "examine-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "examiner-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "excellence-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "excess-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "exchange-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "exchange-rate-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "excitedly-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "excitement-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "exclusive-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "excuse-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "exhausted-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "existence-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "exit-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "exit-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "expand-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "expense-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "experience-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "experienced-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "experiment-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "exploration-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "explosion-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "expose-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "express-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "extend-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "extensively-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "extent-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "extinct-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "extinction-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "extra-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "extraordinary-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "extreme-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "extreme-sports-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "eyesight-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "face-to-face-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "face-to-face-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "facility-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "fade-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "failure-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "faint-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "fair-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "faithful-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "fake-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "fall-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "fallen-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "fancy-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "fancy-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "fantasy-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "faraway-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "farewell-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "farming-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "farmland-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "farther-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "farthest-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "fascinate-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "fashionable-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "fasten-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "favorable-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "fax-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "fax-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "feast-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "feed-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "fellow-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "ferry-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "festive-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "fetch-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "feverishly-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "few-pron": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "fifth-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "fight-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "filling-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "film-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "film-maker-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "filter-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "finance-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "financial-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "finding-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "fine-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "finger-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "fire-station-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "firefighter-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "firework-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "firm-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "firm-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "firmly-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "first-floor-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "first-lady-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "first-floor-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "fish-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "fit-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "fitness-n": {
+   "check": "two-pass",
+   "problems": []
+  }
+ }
+}

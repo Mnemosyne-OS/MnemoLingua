@@ -1,0 +1,362 @@
+{
+ "decoys": {
+  "caught": 6,
+  "total": 6,
+  "missed": []
+ },
+ "toReview": 2,
+ "cards": {
+  "until-prep": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "up-prep": {
+   "check": "to-review",
+   "problems": [
+    "fr word: 'en haut de' means 'at the top of', wrong sense for 'walk up the hill' (the example uses 'monter')"
+   ]
+  },
+  "us-pron": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "use-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "usually-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "vacation-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "vase-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "vegetable-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "very-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "video-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "visit-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "volleyball-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "vote-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "wait-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "waiter-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "waitress-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "wake-n": {
+   "check": "to-review",
+   "problems": [
+    "english: 'wake' (funeral vigil) is not A1 vocabulary; the A1 sense is the verb 'wake (up)'"
+   ]
+  },
+  "walk-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "walk-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "wall-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "war-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "warm-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "was-be": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "wash-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "wash-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "watch-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "watch-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "water-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "way-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "we-pron": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "weather-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "wednesday-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "week-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "weekend-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "welcome-interj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "welcome-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "well-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "well-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "were-be": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "what-det": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "wheel-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "when-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "when-conj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "where-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "where-conj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "which-det": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "which-pron": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "white-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "white-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "who-pron": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "whose-det": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "whose-pron": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "why-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "wife-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "will-modal": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "win-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "wind-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "window-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "winter-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "wish-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "with-prep": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "woman-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "wonderful-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "word-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "work-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "work-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "worker-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "world-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "worry-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "would-modal": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "write-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "writer-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "wrong-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "yard-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "year-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "yellow-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "yellow-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "yes-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "yesterday-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "yet-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "yogurt-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "you-pron": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "young-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "your-det": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "yours-pron": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "yourself-pron": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "zoo-n": {
+   "check": "two-pass",
+   "problems": []
+  }
+ }
+}

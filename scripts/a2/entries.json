@@ -1,0 +1,7149 @@
+{
+ "entries": [
+  {
+   "id": "ability-n",
+   "headword": "ability",
+   "pos": "noun"
+  },
+  {
+   "id": "abroad-adv",
+   "headword": "abroad",
+   "pos": "adverb"
+  },
+  {
+   "id": "accept-v",
+   "headword": "accept",
+   "pos": "verb"
+  },
+  {
+   "id": "acceptable-adj",
+   "headword": "acceptable",
+   "pos": "adjective"
+  },
+  {
+   "id": "accident-n",
+   "headword": "accident",
+   "pos": "noun"
+  },
+  {
+   "id": "account-n",
+   "headword": "account",
+   "pos": "noun"
+  },
+  {
+   "id": "achieve-v",
+   "headword": "achieve",
+   "pos": "verb"
+  },
+  {
+   "id": "across-adv",
+   "headword": "across",
+   "pos": "adverb"
+  },
+  {
+   "id": "across-prep",
+   "headword": "across",
+   "pos": "preposition"
+  },
+  {
+   "id": "act-n",
+   "headword": "act",
+   "pos": "noun"
+  },
+  {
+   "id": "actually-adv",
+   "headword": "actually",
+   "pos": "adverb"
+  },
+  {
+   "id": "addition-n",
+   "headword": "addition",
+   "pos": "noun"
+  },
+  {
+   "id": "additional-adj",
+   "headword": "additional",
+   "pos": "adjective"
+  },
+  {
+   "id": "adjective-n",
+   "headword": "adjective",
+   "pos": "noun"
+  },
+  {
+   "id": "adjust-v",
+   "headword": "adjust",
+   "pos": "verb"
+  },
+  {
+   "id": "admire-v",
+   "headword": "admire",
+   "pos": "verb"
+  },
+  {
+   "id": "admit-v",
+   "headword": "admit",
+   "pos": "verb"
+  },
+  {
+   "id": "adult-adj",
+   "headword": "adult",
+   "pos": "adjective"
+  },
+  {
+   "id": "adult-n",
+   "headword": "adult",
+   "pos": "noun"
+  },
+  {
+   "id": "advanced-adj",
+   "headword": "advanced",
+   "pos": "adjective"
+  },
+  {
+   "id": "advantage-n",
+   "headword": "advantage",
+   "pos": "noun"
+  },
+  {
+   "id": "adventure-n",
+   "headword": "adventure",
+   "pos": "noun"
+  },
+  {
+   "id": "advertisement-n",
+   "headword": "advertisement",
+   "pos": "noun"
+  },
+  {
+   "id": "advertising-n",
+   "headword": "advertising",
+   "pos": "noun"
+  },
+  {
+   "id": "advice-n",
+   "headword": "advice",
+   "pos": "noun"
+  },
+  {
+   "id": "advise-v",
+   "headword": "advise",
+   "pos": "verb"
+  },
+  {
+   "id": "affair-n",
+   "headword": "affair",
+   "pos": "noun"
+  },
+  {
+   "id": "after-adv",
+   "headword": "after",
+   "pos": "adverb"
+  },
+  {
+   "id": "against-prep",
+   "headword": "against",
+   "pos": "preposition"
+  },
+  {
+   "id": "aged-adj",
+   "headword": "aged",
+   "pos": "adjective"
+  },
+  {
+   "id": "agency-n",
+   "headword": "agency",
+   "pos": "noun"
+  },
+  {
+   "id": "agent-n",
+   "headword": "agent",
+   "pos": "noun"
+  },
+  {
+   "id": "ahead-adv",
+   "headword": "ahead",
+   "pos": "adverb"
+  },
+  {
+   "id": "air-n",
+   "headword": "air",
+   "pos": "noun"
+  },
+  {
+   "id": "aisle-n",
+   "headword": "aisle",
+   "pos": "noun"
+  },
+  {
+   "id": "alarm-n",
+   "headword": "alarm",
+   "pos": "noun"
+  },
+  {
+   "id": "alarm-clock-n",
+   "headword": "alarm clock",
+   "pos": "noun"
+  },
+  {
+   "id": "alive-adj",
+   "headword": "alive",
+   "pos": "adjective"
+  },
+  {
+   "id": "all-adv",
+   "headword": "all",
+   "pos": "adverb"
+  },
+  {
+   "id": "allow-v",
+   "headword": "allow",
+   "pos": "verb"
+  },
+  {
+   "id": "alone-adj",
+   "headword": "alone",
+   "pos": "adjective"
+  },
+  {
+   "id": "along-prep",
+   "headword": "along",
+   "pos": "preposition"
+  },
+  {
+   "id": "alright-adj",
+   "headword": "alright",
+   "pos": "adjective"
+  },
+  {
+   "id": "alright-adv",
+   "headword": "alright",
+   "pos": "adverb"
+  },
+  {
+   "id": "although-conj",
+   "headword": "although",
+   "pos": "conjunction"
+  },
+  {
+   "id": "ambition-n",
+   "headword": "ambition",
+   "pos": "noun"
+  },
+  {
+   "id": "among-prep",
+   "headword": "among",
+   "pos": "preposition"
+  },
+  {
+   "id": "amused-adj",
+   "headword": "amused",
+   "pos": "adjective"
+  },
+  {
+   "id": "amusement-n",
+   "headword": "amusement",
+   "pos": "noun"
+  },
+  {
+   "id": "ancestor-n",
+   "headword": "ancestor",
+   "pos": "noun"
+  },
+  {
+   "id": "ancient-adj",
+   "headword": "ancient",
+   "pos": "adjective"
+  },
+  {
+   "id": "angel-n",
+   "headword": "angel",
+   "pos": "noun"
+  },
+  {
+   "id": "angrily-adv",
+   "headword": "angrily",
+   "pos": "adverb"
+  },
+  {
+   "id": "ankle-n",
+   "headword": "ankle",
+   "pos": "noun"
+  },
+  {
+   "id": "anniversary-n",
+   "headword": "anniversary",
+   "pos": "noun"
+  },
+  {
+   "id": "annoy-v",
+   "headword": "annoy",
+   "pos": "verb"
+  },
+  {
+   "id": "annoying-adj",
+   "headword": "annoying",
+   "pos": "adjective"
+  },
+  {
+   "id": "another-pron",
+   "headword": "another",
+   "pos": "pronoun"
+  },
+  {
+   "id": "anxious-adj",
+   "headword": "anxious",
+   "pos": "adjective"
+  },
+  {
+   "id": "anymore-adv",
+   "headword": "anymore",
+   "pos": "adverb"
+  },
+  {
+   "id": "anyway-adv",
+   "headword": "anyway",
+   "pos": "adverb"
+  },
+  {
+   "id": "anywhere-adv",
+   "headword": "anywhere",
+   "pos": "adverb"
+  },
+  {
+   "id": "apart-adv",
+   "headword": "apart",
+   "pos": "adverb"
+  },
+  {
+   "id": "apartment-n",
+   "headword": "apartment",
+   "pos": "noun"
+  },
+  {
+   "id": "apologize-v",
+   "headword": "apologize",
+   "pos": "verb",
+   "variants": [
+    "apologise"
+   ]
+  },
+  {
+   "id": "apparently-adv",
+   "headword": "apparently",
+   "pos": "adverb"
+  },
+  {
+   "id": "appear-v",
+   "headword": "appear",
+   "pos": "verb"
+  },
+  {
+   "id": "appearance-n",
+   "headword": "appearance",
+   "pos": "noun"
+  },
+  {
+   "id": "apply-v",
+   "headword": "apply",
+   "pos": "verb"
+  },
+  {
+   "id": "appointment-n",
+   "headword": "appointment",
+   "pos": "noun"
+  },
+  {
+   "id": "appreciate-v",
+   "headword": "appreciate",
+   "pos": "verb"
+  },
+  {
+   "id": "appropriate-adj",
+   "headword": "appropriate",
+   "pos": "adjective"
+  },
+  {
+   "id": "architecture-n",
+   "headword": "architecture",
+   "pos": "noun"
+  },
+  {
+   "id": "area-n",
+   "headword": "area",
+   "pos": "noun"
+  },
+  {
+   "id": "argue-v",
+   "headword": "argue",
+   "pos": "verb"
+  },
+  {
+   "id": "argument-n",
+   "headword": "argument",
+   "pos": "noun"
+  },
+  {
+   "id": "armchair-n",
+   "headword": "armchair",
+   "pos": "noun"
+  },
+  {
+   "id": "armed-adj",
+   "headword": "armed",
+   "pos": "adjective"
+  },
+  {
+   "id": "around-adv",
+   "headword": "around",
+   "pos": "adverb"
+  },
+  {
+   "id": "artificial-adj",
+   "headword": "artificial",
+   "pos": "adjective"
+  },
+  {
+   "id": "as-conj",
+   "headword": "as",
+   "pos": "conjunction"
+  },
+  {
+   "id": "asleep-adj",
+   "headword": "asleep",
+   "pos": "adjective"
+  },
+  {
+   "id": "assistant-adj",
+   "headword": "assistant",
+   "pos": "adjective"
+  },
+  {
+   "id": "association-n",
+   "headword": "association",
+   "pos": "noun"
+  },
+  {
+   "id": "astronaut-n",
+   "headword": "astronaut",
+   "pos": "noun"
+  },
+  {
+   "id": "athlete-n",
+   "headword": "athlete",
+   "pos": "noun"
+  },
+  {
+   "id": "atom-n",
+   "headword": "atom",
+   "pos": "noun"
+  },
+  {
+   "id": "attack-n",
+   "headword": "attack",
+   "pos": "noun"
+  },
+  {
+   "id": "attack-v",
+   "headword": "attack",
+   "pos": "verb"
+  },
+  {
+   "id": "attempt-n",
+   "headword": "attempt",
+   "pos": "noun"
+  },
+  {
+   "id": "attention-n",
+   "headword": "attention",
+   "pos": "noun"
+  },
+  {
+   "id": "attitude-n",
+   "headword": "attitude",
+   "pos": "noun"
+  },
+  {
+   "id": "attractive-adj",
+   "headword": "attractive",
+   "pos": "adjective"
+  },
+  {
+   "id": "audience-n",
+   "headword": "audience",
+   "pos": "noun"
+  },
+  {
+   "id": "audio-adj",
+   "headword": "audio",
+   "pos": "adjective"
+  },
+  {
+   "id": "author-n",
+   "headword": "author",
+   "pos": "noun"
+  },
+  {
+   "id": "automatic-adj",
+   "headword": "automatic",
+   "pos": "adjective"
+  },
+  {
+   "id": "automatically-adv",
+   "headword": "automatically",
+   "pos": "adverb"
+  },
+  {
+   "id": "average-adj",
+   "headword": "average",
+   "pos": "adjective"
+  },
+  {
+   "id": "average-n",
+   "headword": "average",
+   "pos": "noun"
+  },
+  {
+   "id": "avoid-v",
+   "headword": "avoid",
+   "pos": "verb"
+  },
+  {
+   "id": "award-n",
+   "headword": "award",
+   "pos": "noun"
+  },
+  {
+   "id": "awful-adj",
+   "headword": "awful",
+   "pos": "adjective"
+  },
+  {
+   "id": "back-adj",
+   "headword": "back",
+   "pos": "adjective"
+  },
+  {
+   "id": "background-n",
+   "headword": "background",
+   "pos": "noun"
+  },
+  {
+   "id": "badly-adv",
+   "headword": "badly",
+   "pos": "adverb"
+  },
+  {
+   "id": "badminton-n",
+   "headword": "badminton",
+   "pos": "noun"
+  },
+  {
+   "id": "bake-v",
+   "headword": "bake",
+   "pos": "verb"
+  },
+  {
+   "id": "balcony-n",
+   "headword": "balcony",
+   "pos": "noun"
+  },
+  {
+   "id": "balloon-n",
+   "headword": "balloon",
+   "pos": "noun"
+  },
+  {
+   "id": "bank-v",
+   "headword": "bank",
+   "pos": "verb"
+  },
+  {
+   "id": "banking-n",
+   "headword": "banking",
+   "pos": "noun"
+  },
+  {
+   "id": "barbecue-n",
+   "headword": "barbecue",
+   "pos": "noun"
+  },
+  {
+   "id": "barber-n",
+   "headword": "barber",
+   "pos": "noun"
+  },
+  {
+   "id": "bargain-n",
+   "headword": "bargain",
+   "pos": "noun"
+  },
+  {
+   "id": "base-n",
+   "headword": "base",
+   "pos": "noun"
+  },
+  {
+   "id": "basic-adj",
+   "headword": "basic",
+   "pos": "adjective"
+  },
+  {
+   "id": "basically-adv",
+   "headword": "basically",
+   "pos": "adverb"
+  },
+  {
+   "id": "basket-n",
+   "headword": "basket",
+   "pos": "noun"
+  },
+  {
+   "id": "batch-n",
+   "headword": "batch",
+   "pos": "noun"
+  },
+  {
+   "id": "battery-n",
+   "headword": "battery",
+   "pos": "noun"
+  },
+  {
+   "id": "bay-n",
+   "headword": "bay",
+   "pos": "noun"
+  },
+  {
+   "id": "bear-v",
+   "headword": "bear",
+   "pos": "verb"
+  },
+  {
+   "id": "beauty-n",
+   "headword": "beauty",
+   "pos": "noun"
+  },
+  {
+   "id": "been-be",
+   "headword": "been",
+   "pos": "be-verb"
+  },
+  {
+   "id": "beer-n",
+   "headword": "beer",
+   "pos": "noun"
+  },
+  {
+   "id": "before-conj",
+   "headword": "before",
+   "pos": "conjunction"
+  },
+  {
+   "id": "beg-v",
+   "headword": "beg",
+   "pos": "verb"
+  },
+  {
+   "id": "beginner-n",
+   "headword": "beginner",
+   "pos": "noun"
+  },
+  {
+   "id": "beginning-n",
+   "headword": "beginning",
+   "pos": "noun"
+  },
+  {
+   "id": "behavior-n",
+   "headword": "behavior",
+   "pos": "noun",
+   "variants": [
+    "behaviour"
+   ]
+  },
+  {
+   "id": "being-n",
+   "headword": "being",
+   "pos": "noun"
+  },
+  {
+   "id": "belly-n",
+   "headword": "belly",
+   "pos": "noun"
+  },
+  {
+   "id": "belong-v",
+   "headword": "belong",
+   "pos": "verb"
+  },
+  {
+   "id": "belt-n",
+   "headword": "belt",
+   "pos": "noun"
+  },
+  {
+   "id": "bench-n",
+   "headword": "bench",
+   "pos": "noun"
+  },
+  {
+   "id": "bend-v",
+   "headword": "bend",
+   "pos": "verb"
+  },
+  {
+   "id": "besides-adv",
+   "headword": "besides",
+   "pos": "adverb"
+  },
+  {
+   "id": "better-adv",
+   "headword": "better",
+   "pos": "adverb"
+  },
+  {
+   "id": "beyond-prep",
+   "headword": "beyond",
+   "pos": "preposition"
+  },
+  {
+   "id": "bill-n",
+   "headword": "bill",
+   "pos": "noun"
+  },
+  {
+   "id": "bit-n",
+   "headword": "bit",
+   "pos": "noun"
+  },
+  {
+   "id": "bite-n",
+   "headword": "bite",
+   "pos": "noun"
+  },
+  {
+   "id": "blackboard-n",
+   "headword": "blackboard",
+   "pos": "noun"
+  },
+  {
+   "id": "blame-v",
+   "headword": "blame",
+   "pos": "verb"
+  },
+  {
+   "id": "blanket-n",
+   "headword": "blanket",
+   "pos": "noun"
+  },
+  {
+   "id": "blonde-adj",
+   "headword": "blonde",
+   "pos": "adjective"
+  },
+  {
+   "id": "blood-n",
+   "headword": "blood",
+   "pos": "noun"
+  },
+  {
+   "id": "bloom-n",
+   "headword": "bloom",
+   "pos": "noun"
+  },
+  {
+   "id": "blow-n",
+   "headword": "blow",
+   "pos": "noun"
+  },
+  {
+   "id": "board-game-n",
+   "headword": "board game",
+   "pos": "noun"
+  },
+  {
+   "id": "boil-v",
+   "headword": "boil",
+   "pos": "verb"
+  },
+  {
+   "id": "boiled-adj",
+   "headword": "boiled",
+   "pos": "adjective"
+  },
+  {
+   "id": "bonus-n",
+   "headword": "bonus",
+   "pos": "noun"
+  },
+  {
+   "id": "bookcase-n",
+   "headword": "bookcase",
+   "pos": "noun"
+  },
+  {
+   "id": "bookshelf-n",
+   "headword": "bookshelf",
+   "pos": "noun"
+  },
+  {
+   "id": "bookshop-n",
+   "headword": "bookshop",
+   "pos": "noun"
+  },
+  {
+   "id": "bored-adj",
+   "headword": "bored",
+   "pos": "adjective"
+  },
+  {
+   "id": "boss-n",
+   "headword": "boss",
+   "pos": "noun"
+  },
+  {
+   "id": "bother-v",
+   "headword": "bother",
+   "pos": "verb"
+  },
+  {
+   "id": "bra-n",
+   "headword": "bra",
+   "pos": "noun"
+  },
+  {
+   "id": "brainstorm-n",
+   "headword": "brainstorm",
+   "pos": "noun"
+  },
+  {
+   "id": "brake-n",
+   "headword": "brake",
+   "pos": "noun"
+  },
+  {
+   "id": "branch-n",
+   "headword": "branch",
+   "pos": "noun"
+  },
+  {
+   "id": "brand-n",
+   "headword": "brand",
+   "pos": "noun"
+  },
+  {
+   "id": "brave-adj",
+   "headword": "brave",
+   "pos": "adjective"
+  },
+  {
+   "id": "break-n",
+   "headword": "break",
+   "pos": "noun"
+  },
+  {
+   "id": "breeze-n",
+   "headword": "breeze",
+   "pos": "noun"
+  },
+  {
+   "id": "bride-n",
+   "headword": "bride",
+   "pos": "noun"
+  },
+  {
+   "id": "brilliant-adj",
+   "headword": "brilliant",
+   "pos": "adjective"
+  },
+  {
+   "id": "brown-n",
+   "headword": "brown",
+   "pos": "noun"
+  },
+  {
+   "id": "budget-n",
+   "headword": "budget",
+   "pos": "noun"
+  },
+  {
+   "id": "bug-n",
+   "headword": "bug",
+   "pos": "noun"
+  },
+  {
+   "id": "bulb-n",
+   "headword": "bulb",
+   "pos": "noun"
+  },
+  {
+   "id": "burn-n",
+   "headword": "burn",
+   "pos": "noun"
+  },
+  {
+   "id": "bury-v",
+   "headword": "bury",
+   "pos": "verb"
+  },
+  {
+   "id": "bus-station-n",
+   "headword": "bus station",
+   "pos": "noun"
+  },
+  {
+   "id": "bus-stop-n",
+   "headword": "bus stop",
+   "pos": "noun"
+  },
+  {
+   "id": "bush-n",
+   "headword": "bush",
+   "pos": "noun"
+  },
+  {
+   "id": "businessman-n",
+   "headword": "businessman",
+   "pos": "noun"
+  },
+  {
+   "id": "businesswoman-n",
+   "headword": "businesswoman",
+   "pos": "noun"
+  },
+  {
+   "id": "cab-n",
+   "headword": "cab",
+   "pos": "noun"
+  },
+  {
+   "id": "cafeteria-n",
+   "headword": "cafeteria",
+   "pos": "noun"
+  },
+  {
+   "id": "calendar-n",
+   "headword": "calendar",
+   "pos": "noun"
+  },
+  {
+   "id": "call-v",
+   "headword": "call",
+   "pos": "verb"
+  },
+  {
+   "id": "camp-v",
+   "headword": "camp",
+   "pos": "verb"
+  },
+  {
+   "id": "camping-n",
+   "headword": "camping",
+   "pos": "noun"
+  },
+  {
+   "id": "campus-n",
+   "headword": "campus",
+   "pos": "noun"
+  },
+  {
+   "id": "can-n",
+   "headword": "can",
+   "pos": "noun"
+  },
+  {
+   "id": "capital-n",
+   "headword": "capital",
+   "pos": "noun"
+  },
+  {
+   "id": "capital-letter-n",
+   "headword": "capital letter",
+   "pos": "noun"
+  },
+  {
+   "id": "captain-n",
+   "headword": "captain",
+   "pos": "noun"
+  },
+  {
+   "id": "car-park-n",
+   "headword": "car park",
+   "pos": "noun"
+  },
+  {
+   "id": "carrot-n",
+   "headword": "carrot",
+   "pos": "noun"
+  },
+  {
+   "id": "cash-n",
+   "headword": "cash",
+   "pos": "noun"
+  },
+  {
+   "id": "cassette-n",
+   "headword": "cassette",
+   "pos": "noun"
+  },
+  {
+   "id": "castle-n",
+   "headword": "castle",
+   "pos": "noun"
+  },
+  {
+   "id": "cause-v",
+   "headword": "cause",
+   "pos": "verb"
+  },
+  {
+   "id": "cent-n",
+   "headword": "cent",
+   "pos": "noun"
+  },
+  {
+   "id": "center-n",
+   "headword": "center",
+   "pos": "noun",
+   "variants": [
+    "centre"
+   ]
+  },
+  {
+   "id": "centimeter-n",
+   "headword": "centimeter",
+   "pos": "noun",
+   "variants": [
+    "centimetre"
+   ]
+  },
+  {
+   "id": "century-n",
+   "headword": "century",
+   "pos": "noun"
+  },
+  {
+   "id": "cereal-n",
+   "headword": "cereal",
+   "pos": "noun"
+  },
+  {
+   "id": "certain-adj",
+   "headword": "certain",
+   "pos": "adjective"
+  },
+  {
+   "id": "certainly-adv",
+   "headword": "certainly",
+   "pos": "adverb"
+  },
+  {
+   "id": "chain-n",
+   "headword": "chain",
+   "pos": "noun"
+  },
+  {
+   "id": "chairman-n",
+   "headword": "chairman",
+   "pos": "noun"
+  },
+  {
+   "id": "challenge-n",
+   "headword": "challenge",
+   "pos": "noun"
+  },
+  {
+   "id": "champagne-n",
+   "headword": "champagne",
+   "pos": "noun"
+  },
+  {
+   "id": "championship-n",
+   "headword": "championship",
+   "pos": "noun"
+  },
+  {
+   "id": "chance-n",
+   "headword": "chance",
+   "pos": "noun"
+  },
+  {
+   "id": "chapter-n",
+   "headword": "chapter",
+   "pos": "noun"
+  },
+  {
+   "id": "chart-n",
+   "headword": "chart",
+   "pos": "noun"
+  },
+  {
+   "id": "chat-v",
+   "headword": "chat",
+   "pos": "verb"
+  },
+  {
+   "id": "cheap-adj",
+   "headword": "cheap",
+   "pos": "adjective"
+  },
+  {
+   "id": "check-v",
+   "headword": "check",
+   "pos": "verb"
+  },
+  {
+   "id": "cheek-n",
+   "headword": "cheek",
+   "pos": "noun"
+  },
+  {
+   "id": "cheer-v",
+   "headword": "cheer",
+   "pos": "verb"
+  },
+  {
+   "id": "chef-n",
+   "headword": "chef",
+   "pos": "noun"
+  },
+  {
+   "id": "chemical-adj",
+   "headword": "chemical",
+   "pos": "adjective"
+  },
+  {
+   "id": "cheque-n",
+   "headword": "cheque",
+   "pos": "noun"
+  },
+  {
+   "id": "chess-n",
+   "headword": "chess",
+   "pos": "noun"
+  },
+  {
+   "id": "chest-n",
+   "headword": "chest",
+   "pos": "noun"
+  },
+  {
+   "id": "childhood-n",
+   "headword": "childhood",
+   "pos": "noun"
+  },
+  {
+   "id": "chili-n",
+   "headword": "chili",
+   "pos": "noun",
+   "variants": [
+    "chilli"
+   ]
+  },
+  {
+   "id": "chimpanzee-n",
+   "headword": "chimpanzee",
+   "pos": "noun"
+  },
+  {
+   "id": "chin-n",
+   "headword": "chin",
+   "pos": "noun"
+  },
+  {
+   "id": "chirp-n",
+   "headword": "chirp",
+   "pos": "noun"
+  },
+  {
+   "id": "choice-n",
+   "headword": "choice",
+   "pos": "noun"
+  },
+  {
+   "id": "cigarette-n",
+   "headword": "cigarette",
+   "pos": "noun"
+  },
+  {
+   "id": "citizen-n",
+   "headword": "citizen",
+   "pos": "noun"
+  },
+  {
+   "id": "claim-v",
+   "headword": "claim",
+   "pos": "verb"
+  },
+  {
+   "id": "classic-adj",
+   "headword": "classic",
+   "pos": "adjective"
+  },
+  {
+   "id": "classical-music-n",
+   "headword": "classical music",
+   "pos": "noun"
+  },
+  {
+   "id": "cleaner-n",
+   "headword": "cleaner",
+   "pos": "noun"
+  },
+  {
+   "id": "clear-adj",
+   "headword": "clear",
+   "pos": "adjective"
+  },
+  {
+   "id": "clearly-adv",
+   "headword": "clearly",
+   "pos": "adverb"
+  },
+  {
+   "id": "clerk-n",
+   "headword": "clerk",
+   "pos": "noun"
+  },
+  {
+   "id": "click-v",
+   "headword": "click",
+   "pos": "verb"
+  },
+  {
+   "id": "climb-v",
+   "headword": "climb",
+   "pos": "verb"
+  },
+  {
+   "id": "climbing-n",
+   "headword": "climbing",
+   "pos": "noun"
+  },
+  {
+   "id": "clone-v",
+   "headword": "clone",
+   "pos": "verb"
+  },
+  {
+   "id": "clown-n",
+   "headword": "clown",
+   "pos": "noun"
+  },
+  {
+   "id": "clue-n",
+   "headword": "clue",
+   "pos": "noun"
+  },
+  {
+   "id": "coast-n",
+   "headword": "coast",
+   "pos": "noun"
+  },
+  {
+   "id": "coin-n",
+   "headword": "coin",
+   "pos": "noun"
+  },
+  {
+   "id": "cola-n",
+   "headword": "cola",
+   "pos": "noun"
+  },
+  {
+   "id": "colorful-adj",
+   "headword": "colorful",
+   "pos": "adjective",
+   "variants": [
+    "colourful"
+   ]
+  },
+  {
+   "id": "column-n",
+   "headword": "column",
+   "pos": "noun"
+  },
+  {
+   "id": "comb-n",
+   "headword": "comb",
+   "pos": "noun"
+  },
+  {
+   "id": "comfortable-adj",
+   "headword": "comfortable",
+   "pos": "adjective"
+  },
+  {
+   "id": "comic-adj",
+   "headword": "comic",
+   "pos": "adjective"
+  },
+  {
+   "id": "comic-n",
+   "headword": "comic",
+   "pos": "noun"
+  },
+  {
+   "id": "commitment-n",
+   "headword": "commitment",
+   "pos": "noun"
+  },
+  {
+   "id": "committee-n",
+   "headword": "committee",
+   "pos": "noun"
+  },
+  {
+   "id": "common-adj",
+   "headword": "common",
+   "pos": "adjective"
+  },
+  {
+   "id": "communicate-v",
+   "headword": "communicate",
+   "pos": "verb"
+  },
+  {
+   "id": "communication-n",
+   "headword": "communication",
+   "pos": "noun"
+  },
+  {
+   "id": "company-n",
+   "headword": "company",
+   "pos": "noun"
+  },
+  {
+   "id": "comparative-n",
+   "headword": "comparative",
+   "pos": "noun"
+  },
+  {
+   "id": "compare-v",
+   "headword": "compare",
+   "pos": "verb"
+  },
+  {
+   "id": "competition-n",
+   "headword": "competition",
+   "pos": "noun"
+  },
+  {
+   "id": "complain-v",
+   "headword": "complain",
+   "pos": "verb"
+  },
+  {
+   "id": "complaint-n",
+   "headword": "complaint",
+   "pos": "noun"
+  },
+  {
+   "id": "complete-adj",
+   "headword": "complete",
+   "pos": "adjective"
+  },
+  {
+   "id": "composer-n",
+   "headword": "composer",
+   "pos": "noun"
+  },
+  {
+   "id": "concentrate-v",
+   "headword": "concentrate",
+   "pos": "verb"
+  },
+  {
+   "id": "concern-n",
+   "headword": "concern",
+   "pos": "noun"
+  },
+  {
+   "id": "condition-n",
+   "headword": "condition",
+   "pos": "noun"
+  },
+  {
+   "id": "confident-adj",
+   "headword": "confident",
+   "pos": "adjective"
+  },
+  {
+   "id": "confuse-v",
+   "headword": "confuse",
+   "pos": "verb"
+  },
+  {
+   "id": "confused-adj",
+   "headword": "confused",
+   "pos": "adjective"
+  },
+  {
+   "id": "consequence-n",
+   "headword": "consequence",
+   "pos": "noun"
+  },
+  {
+   "id": "consider-v",
+   "headword": "consider",
+   "pos": "verb"
+  },
+  {
+   "id": "consist-v",
+   "headword": "consist",
+   "pos": "verb"
+  },
+  {
+   "id": "contact-n",
+   "headword": "contact",
+   "pos": "noun"
+  },
+  {
+   "id": "contact-v",
+   "headword": "contact",
+   "pos": "verb"
+  },
+  {
+   "id": "container-n",
+   "headword": "container",
+   "pos": "noun"
+  },
+  {
+   "id": "context-n",
+   "headword": "context",
+   "pos": "noun"
+  },
+  {
+   "id": "continent-n",
+   "headword": "continent",
+   "pos": "noun"
+  },
+  {
+   "id": "continue-v",
+   "headword": "continue",
+   "pos": "verb"
+  },
+  {
+   "id": "contrast-n",
+   "headword": "contrast",
+   "pos": "noun"
+  },
+  {
+   "id": "control-n",
+   "headword": "control",
+   "pos": "noun"
+  },
+  {
+   "id": "convenience-n",
+   "headword": "convenience",
+   "pos": "noun"
+  },
+  {
+   "id": "convenient-adj",
+   "headword": "convenient",
+   "pos": "adjective"
+  },
+  {
+   "id": "cooker-n",
+   "headword": "cooker",
+   "pos": "noun"
+  },
+  {
+   "id": "cooking-n",
+   "headword": "cooking",
+   "pos": "noun"
+  },
+  {
+   "id": "cooler-n",
+   "headword": "cooler",
+   "pos": "noun"
+  },
+  {
+   "id": "copy-v",
+   "headword": "copy",
+   "pos": "verb"
+  },
+  {
+   "id": "correctly-adv",
+   "headword": "correctly",
+   "pos": "adverb"
+  },
+  {
+   "id": "cost-n",
+   "headword": "cost",
+   "pos": "noun"
+  },
+  {
+   "id": "cost-v",
+   "headword": "cost",
+   "pos": "verb"
+  },
+  {
+   "id": "count-v",
+   "headword": "count",
+   "pos": "verb"
+  },
+  {
+   "id": "country-n",
+   "headword": "country",
+   "pos": "noun"
+  },
+  {
+   "id": "countryside-n",
+   "headword": "countryside",
+   "pos": "noun"
+  },
+  {
+   "id": "couple-n",
+   "headword": "couple",
+   "pos": "noun"
+  },
+  {
+   "id": "court-n",
+   "headword": "court",
+   "pos": "noun"
+  },
+  {
+   "id": "cover-v",
+   "headword": "cover",
+   "pos": "verb"
+  },
+  {
+   "id": "crazy-adj",
+   "headword": "crazy",
+   "pos": "adjective"
+  },
+  {
+   "id": "cream-adj",
+   "headword": "cream",
+   "pos": "adjective"
+  },
+  {
+   "id": "create-v",
+   "headword": "create",
+   "pos": "verb"
+  },
+  {
+   "id": "creative-adj",
+   "headword": "creative",
+   "pos": "adjective"
+  },
+  {
+   "id": "creativity-n",
+   "headword": "creativity",
+   "pos": "noun"
+  },
+  {
+   "id": "creature-n",
+   "headword": "creature",
+   "pos": "noun"
+  },
+  {
+   "id": "credit-n",
+   "headword": "credit",
+   "pos": "noun"
+  },
+  {
+   "id": "cricket-n",
+   "headword": "cricket",
+   "pos": "noun"
+  },
+  {
+   "id": "crime-n",
+   "headword": "crime",
+   "pos": "noun"
+  },
+  {
+   "id": "crisp-n",
+   "headword": "crisp",
+   "pos": "noun"
+  },
+  {
+   "id": "criticize-v",
+   "headword": "criticize",
+   "pos": "verb",
+   "variants": [
+    "criticise"
+   ]
+  },
+  {
+   "id": "cross-n",
+   "headword": "cross",
+   "pos": "noun"
+  },
+  {
+   "id": "cross-v",
+   "headword": "cross",
+   "pos": "verb"
+  },
+  {
+   "id": "crowd-n",
+   "headword": "crowd",
+   "pos": "noun"
+  },
+  {
+   "id": "crowded-adj",
+   "headword": "crowded",
+   "pos": "adjective"
+  },
+  {
+   "id": "crown-n",
+   "headword": "crown",
+   "pos": "noun"
+  },
+  {
+   "id": "cruise-n",
+   "headword": "cruise",
+   "pos": "noun"
+  },
+  {
+   "id": "cry-v",
+   "headword": "cry",
+   "pos": "verb"
+  },
+  {
+   "id": "cupboard-n",
+   "headword": "cupboard",
+   "pos": "noun"
+  },
+  {
+   "id": "curry-n",
+   "headword": "curry",
+   "pos": "noun"
+  },
+  {
+   "id": "curse-n",
+   "headword": "curse",
+   "pos": "noun"
+  },
+  {
+   "id": "custom-n",
+   "headword": "custom",
+   "pos": "noun"
+  },
+  {
+   "id": "customer-n",
+   "headword": "customer",
+   "pos": "noun"
+  },
+  {
+   "id": "cycling-n",
+   "headword": "cycling",
+   "pos": "noun"
+  },
+  {
+   "id": "daily-adj",
+   "headword": "daily",
+   "pos": "adjective"
+  },
+  {
+   "id": "daily-adv",
+   "headword": "daily",
+   "pos": "adverb"
+  },
+  {
+   "id": "dam-n",
+   "headword": "dam",
+   "pos": "noun"
+  },
+  {
+   "id": "dancer-n",
+   "headword": "dancer",
+   "pos": "noun"
+  },
+  {
+   "id": "danger-n",
+   "headword": "danger",
+   "pos": "noun"
+  },
+  {
+   "id": "dangerous-adj",
+   "headword": "dangerous",
+   "pos": "adjective"
+  },
+  {
+   "id": "daylight-n",
+   "headword": "daylight",
+   "pos": "noun"
+  },
+  {
+   "id": "dead-adj",
+   "headword": "dead",
+   "pos": "adjective"
+  },
+  {
+   "id": "deal-n",
+   "headword": "deal",
+   "pos": "noun"
+  },
+  {
+   "id": "death-n",
+   "headword": "death",
+   "pos": "noun"
+  },
+  {
+   "id": "debate-n",
+   "headword": "debate",
+   "pos": "noun"
+  },
+  {
+   "id": "decide-v",
+   "headword": "decide",
+   "pos": "verb"
+  },
+  {
+   "id": "deep-adv",
+   "headword": "deep",
+   "pos": "adverb"
+  },
+  {
+   "id": "deeply-adv",
+   "headword": "deeply",
+   "pos": "adverb"
+  },
+  {
+   "id": "degree-n",
+   "headword": "degree",
+   "pos": "noun"
+  },
+  {
+   "id": "delay-n",
+   "headword": "delay",
+   "pos": "noun"
+  },
+  {
+   "id": "dentist-n",
+   "headword": "dentist",
+   "pos": "noun"
+  },
+  {
+   "id": "department-store-n",
+   "headword": "department store",
+   "pos": "noun"
+  },
+  {
+   "id": "depend-v",
+   "headword": "depend",
+   "pos": "verb"
+  },
+  {
+   "id": "description-n",
+   "headword": "description",
+   "pos": "noun"
+  },
+  {
+   "id": "desert-n",
+   "headword": "desert",
+   "pos": "noun"
+  },
+  {
+   "id": "dessert-n",
+   "headword": "dessert",
+   "pos": "noun"
+  },
+  {
+   "id": "destroy-v",
+   "headword": "destroy",
+   "pos": "verb"
+  },
+  {
+   "id": "detail-n",
+   "headword": "detail",
+   "pos": "noun"
+  },
+  {
+   "id": "develop-v",
+   "headword": "develop",
+   "pos": "verb"
+  },
+  {
+   "id": "developed-adj",
+   "headword": "developed",
+   "pos": "adjective"
+  },
+  {
+   "id": "diamond-n",
+   "headword": "diamond",
+   "pos": "noun"
+  },
+  {
+   "id": "diary-n",
+   "headword": "diary",
+   "pos": "noun"
+  },
+  {
+   "id": "die-v",
+   "headword": "die",
+   "pos": "verb"
+  },
+  {
+   "id": "diet-n",
+   "headword": "diet",
+   "pos": "noun"
+  },
+  {
+   "id": "differently-adv",
+   "headword": "differently",
+   "pos": "adverb"
+  },
+  {
+   "id": "difficulty-n",
+   "headword": "difficulty",
+   "pos": "noun"
+  },
+  {
+   "id": "digital-camera-n",
+   "headword": "digital camera",
+   "pos": "noun"
+  },
+  {
+   "id": "dinosaur-n",
+   "headword": "dinosaur",
+   "pos": "noun"
+  },
+  {
+   "id": "direct-adj",
+   "headword": "direct",
+   "pos": "adjective"
+  },
+  {
+   "id": "direction-n",
+   "headword": "direction",
+   "pos": "noun"
+  },
+  {
+   "id": "director-n",
+   "headword": "director",
+   "pos": "noun"
+  },
+  {
+   "id": "disadvantage-n",
+   "headword": "disadvantage",
+   "pos": "noun"
+  },
+  {
+   "id": "disagree-v",
+   "headword": "disagree",
+   "pos": "verb"
+  },
+  {
+   "id": "disappear-v",
+   "headword": "disappear",
+   "pos": "verb"
+  },
+  {
+   "id": "disappointed-adj",
+   "headword": "disappointed",
+   "pos": "adjective"
+  },
+  {
+   "id": "disappointing-adj",
+   "headword": "disappointing",
+   "pos": "adjective"
+  },
+  {
+   "id": "disco-n",
+   "headword": "disco",
+   "pos": "noun"
+  },
+  {
+   "id": "discover-v",
+   "headword": "discover",
+   "pos": "verb"
+  },
+  {
+   "id": "discussion-n",
+   "headword": "discussion",
+   "pos": "noun"
+  },
+  {
+   "id": "dishonest-adj",
+   "headword": "dishonest",
+   "pos": "adjective"
+  },
+  {
+   "id": "dislike-n",
+   "headword": "dislike",
+   "pos": "noun"
+  },
+  {
+   "id": "display-n",
+   "headword": "display",
+   "pos": "noun"
+  },
+  {
+   "id": "disturb-v",
+   "headword": "disturb",
+   "pos": "verb"
+  },
+  {
+   "id": "divide-v",
+   "headword": "divide",
+   "pos": "verb"
+  },
+  {
+   "id": "dizzy-adj",
+   "headword": "dizzy",
+   "pos": "adjective"
+  },
+  {
+   "id": "done-do",
+   "headword": "done",
+   "pos": "do-verb"
+  },
+  {
+   "id": "double-adj",
+   "headword": "double",
+   "pos": "adjective"
+  },
+  {
+   "id": "doubt-n",
+   "headword": "doubt",
+   "pos": "noun"
+  },
+  {
+   "id": "down-prep",
+   "headword": "down",
+   "pos": "preposition"
+  },
+  {
+   "id": "download-v",
+   "headword": "download",
+   "pos": "verb"
+  },
+  {
+   "id": "downstairs-adv",
+   "headword": "downstairs",
+   "pos": "adverb"
+  },
+  {
+   "id": "downtown-adv",
+   "headword": "downtown",
+   "pos": "adverb"
+  },
+  {
+   "id": "draw-n",
+   "headword": "draw",
+   "pos": "noun"
+  },
+  {
+   "id": "drawer-n",
+   "headword": "drawer",
+   "pos": "noun"
+  },
+  {
+   "id": "drawing-n",
+   "headword": "drawing",
+   "pos": "noun"
+  },
+  {
+   "id": "dream-v",
+   "headword": "dream",
+   "pos": "verb"
+  },
+  {
+   "id": "dress-v",
+   "headword": "dress",
+   "pos": "verb"
+  },
+  {
+   "id": "dressed-adj",
+   "headword": "dressed",
+   "pos": "adjective"
+  },
+  {
+   "id": "drill-n",
+   "headword": "drill",
+   "pos": "noun"
+  },
+  {
+   "id": "drive-v",
+   "headword": "drive",
+   "pos": "verb"
+  },
+  {
+   "id": "driver-s-license-n",
+   "headword": "driver's license",
+   "pos": "noun",
+   "variants": [
+    "driving licence"
+   ]
+  },
+  {
+   "id": "drop-n",
+   "headword": "drop",
+   "pos": "noun"
+  },
+  {
+   "id": "drug-n",
+   "headword": "drug",
+   "pos": "noun"
+  },
+  {
+   "id": "drugstore-n",
+   "headword": "drugstore",
+   "pos": "noun"
+  },
+  {
+   "id": "dry-v",
+   "headword": "dry",
+   "pos": "verb"
+  },
+  {
+   "id": "duck-n",
+   "headword": "duck",
+   "pos": "noun"
+  },
+  {
+   "id": "during-prep",
+   "headword": "during",
+   "pos": "preposition"
+  },
+  {
+   "id": "dust-n",
+   "headword": "dust",
+   "pos": "noun"
+  },
+  {
+   "id": "early-adj",
+   "headword": "early",
+   "pos": "adjective"
+  },
+  {
+   "id": "earn-v",
+   "headword": "earn",
+   "pos": "verb"
+  },
+  {
+   "id": "earring-n",
+   "headword": "earring",
+   "pos": "noun"
+  },
+  {
+   "id": "earth-n",
+   "headword": "earth",
+   "pos": "noun"
+  },
+  {
+   "id": "earthquake-n",
+   "headword": "earthquake",
+   "pos": "noun"
+  },
+  {
+   "id": "easily-adv",
+   "headword": "easily",
+   "pos": "adverb"
+  },
+  {
+   "id": "east-adj",
+   "headword": "east",
+   "pos": "adjective"
+  },
+  {
+   "id": "east-adv",
+   "headword": "east",
+   "pos": "adverb"
+  },
+  {
+   "id": "east-n",
+   "headword": "east",
+   "pos": "noun"
+  },
+  {
+   "id": "editor-n",
+   "headword": "editor",
+   "pos": "noun"
+  },
+  {
+   "id": "education-n",
+   "headword": "education",
+   "pos": "noun"
+  },
+  {
+   "id": "educational-adj",
+   "headword": "educational",
+   "pos": "adjective"
+  },
+  {
+   "id": "effect-n",
+   "headword": "effect",
+   "pos": "noun"
+  },
+  {
+   "id": "effort-n",
+   "headword": "effort",
+   "pos": "noun"
+  },
+  {
+   "id": "either-conj",
+   "headword": "either",
+   "pos": "conjunction"
+  },
+  {
+   "id": "elderly-adj",
+   "headword": "elderly",
+   "pos": "adjective"
+  },
+  {
+   "id": "electric-adj",
+   "headword": "electric",
+   "pos": "adjective"
+  },
+  {
+   "id": "elephant-n",
+   "headword": "elephant",
+   "pos": "noun"
+  },
+  {
+   "id": "elevator-n",
+   "headword": "elevator",
+   "pos": "noun"
+  },
+  {
+   "id": "elsewhere-adv",
+   "headword": "elsewhere",
+   "pos": "adverb"
+  },
+  {
+   "id": "email-v",
+   "headword": "email",
+   "pos": "verb"
+  },
+  {
+   "id": "embarrassing-adj",
+   "headword": "embarrassing",
+   "pos": "adjective"
+  },
+  {
+   "id": "emergency-n",
+   "headword": "emergency",
+   "pos": "noun"
+  },
+  {
+   "id": "empty-adj",
+   "headword": "empty",
+   "pos": "adjective"
+  },
+  {
+   "id": "encourage-v",
+   "headword": "encourage",
+   "pos": "verb"
+  },
+  {
+   "id": "end-v",
+   "headword": "end",
+   "pos": "verb"
+  },
+  {
+   "id": "endangered-adj",
+   "headword": "endangered",
+   "pos": "adjective"
+  },
+  {
+   "id": "ending-n",
+   "headword": "ending",
+   "pos": "noun"
+  },
+  {
+   "id": "energetic-adj",
+   "headword": "energetic",
+   "pos": "adjective"
+  },
+  {
+   "id": "enormous-adj",
+   "headword": "enormous",
+   "pos": "adjective"
+  },
+  {
+   "id": "enough-adv",
+   "headword": "enough",
+   "pos": "adverb"
+  },
+  {
+   "id": "enough-det",
+   "headword": "enough",
+   "pos": "determiner"
+  },
+  {
+   "id": "enough-pron",
+   "headword": "enough",
+   "pos": "pronoun"
+  },
+  {
+   "id": "enter-v",
+   "headword": "enter",
+   "pos": "verb"
+  },
+  {
+   "id": "entertainment-n",
+   "headword": "entertainment",
+   "pos": "noun"
+  },
+  {
+   "id": "entrance-n",
+   "headword": "entrance",
+   "pos": "noun"
+  },
+  {
+   "id": "envelope-n",
+   "headword": "envelope",
+   "pos": "noun"
+  },
+  {
+   "id": "envy-n",
+   "headword": "envy",
+   "pos": "noun"
+  },
+  {
+   "id": "episode-n",
+   "headword": "episode",
+   "pos": "noun"
+  },
+  {
+   "id": "error-n",
+   "headword": "error",
+   "pos": "noun"
+  },
+  {
+   "id": "escalator-n",
+   "headword": "escalator",
+   "pos": "noun"
+  },
+  {
+   "id": "escape-n",
+   "headword": "escape",
+   "pos": "noun"
+  },
+  {
+   "id": "especially-adv",
+   "headword": "especially",
+   "pos": "adverb"
+  },
+  {
+   "id": "essay-n",
+   "headword": "essay",
+   "pos": "noun"
+  },
+  {
+   "id": "establish-v",
+   "headword": "establish",
+   "pos": "verb"
+  },
+  {
+   "id": "euro-n",
+   "headword": "euro",
+   "pos": "noun"
+  },
+  {
+   "id": "even-adv",
+   "headword": "even",
+   "pos": "adverb"
+  },
+  {
+   "id": "ever-adv",
+   "headword": "ever",
+   "pos": "adverb"
+  },
+  {
+   "id": "evidence-n",
+   "headword": "evidence",
+   "pos": "noun"
+  },
+  {
+   "id": "exactly-adv",
+   "headword": "exactly",
+   "pos": "adverb"
+  },
+  {
+   "id": "exam-n",
+   "headword": "exam",
+   "pos": "noun"
+  },
+  {
+   "id": "except-conj",
+   "headword": "except",
+   "pos": "conjunction"
+  },
+  {
+   "id": "except-prep",
+   "headword": "except",
+   "pos": "preposition"
+  },
+  {
+   "id": "exchange-n",
+   "headword": "exchange",
+   "pos": "noun"
+  },
+  {
+   "id": "exercise-n",
+   "headword": "exercise",
+   "pos": "noun"
+  },
+  {
+   "id": "exhibition-n",
+   "headword": "exhibition",
+   "pos": "noun"
+  },
+  {
+   "id": "exist-v",
+   "headword": "exist",
+   "pos": "verb"
+  },
+  {
+   "id": "expect-v",
+   "headword": "expect",
+   "pos": "verb"
+  },
+  {
+   "id": "experience-n",
+   "headword": "experience",
+   "pos": "noun"
+  },
+  {
+   "id": "expert-n",
+   "headword": "expert",
+   "pos": "noun"
+  },
+  {
+   "id": "explain-v",
+   "headword": "explain",
+   "pos": "verb"
+  },
+  {
+   "id": "explanation-n",
+   "headword": "explanation",
+   "pos": "noun"
+  },
+  {
+   "id": "explore-v",
+   "headword": "explore",
+   "pos": "verb"
+  },
+  {
+   "id": "express-n",
+   "headword": "express",
+   "pos": "noun"
+  },
+  {
+   "id": "expression-n",
+   "headword": "expression",
+   "pos": "noun"
+  },
+  {
+   "id": "extra-adj",
+   "headword": "extra",
+   "pos": "adjective"
+  },
+  {
+   "id": "extra-adv",
+   "headword": "extra",
+   "pos": "adverb"
+  },
+  {
+   "id": "extremely-adv",
+   "headword": "extremely",
+   "pos": "adverb"
+  },
+  {
+   "id": "face-v",
+   "headword": "face",
+   "pos": "verb"
+  },
+  {
+   "id": "fact-n",
+   "headword": "fact",
+   "pos": "noun"
+  },
+  {
+   "id": "fail-v",
+   "headword": "fail",
+   "pos": "verb"
+  },
+  {
+   "id": "fairly-adv",
+   "headword": "fairly",
+   "pos": "adverb"
+  },
+  {
+   "id": "fall-v",
+   "headword": "fall",
+   "pos": "verb"
+  },
+  {
+   "id": "familiar-adj",
+   "headword": "familiar",
+   "pos": "adjective"
+  },
+  {
+   "id": "fancy-adj",
+   "headword": "fancy",
+   "pos": "adjective"
+  },
+  {
+   "id": "fantastic-adj",
+   "headword": "fantastic",
+   "pos": "adjective"
+  },
+  {
+   "id": "far-adv",
+   "headword": "far",
+   "pos": "adverb"
+  },
+  {
+   "id": "fare-n",
+   "headword": "fare",
+   "pos": "noun"
+  },
+  {
+   "id": "fascinating-adj",
+   "headword": "fascinating",
+   "pos": "adjective"
+  },
+  {
+   "id": "fashion-n",
+   "headword": "fashion",
+   "pos": "noun"
+  },
+  {
+   "id": "fast-food-n",
+   "headword": "fast food",
+   "pos": "noun"
+  },
+  {
+   "id": "fault-n",
+   "headword": "fault",
+   "pos": "noun"
+  },
+  {
+   "id": "favor-n",
+   "headword": "favor",
+   "pos": "noun",
+   "variants": [
+    "favour"
+   ]
+  },
+  {
+   "id": "fear-n",
+   "headword": "fear",
+   "pos": "noun"
+  },
+  {
+   "id": "feather-n",
+   "headword": "feather",
+   "pos": "noun"
+  },
+  {
+   "id": "feature-n",
+   "headword": "feature",
+   "pos": "noun"
+  },
+  {
+   "id": "fee-n",
+   "headword": "fee",
+   "pos": "noun"
+  },
+  {
+   "id": "feel-n",
+   "headword": "feel",
+   "pos": "noun"
+  },
+  {
+   "id": "female-adj",
+   "headword": "female",
+   "pos": "adjective"
+  },
+  {
+   "id": "fence-n",
+   "headword": "fence",
+   "pos": "noun"
+  },
+  {
+   "id": "few-det",
+   "headword": "few",
+   "pos": "determiner"
+  },
+  {
+   "id": "fiction-n",
+   "headword": "fiction",
+   "pos": "noun"
+  },
+  {
+   "id": "fighter-n",
+   "headword": "fighter",
+   "pos": "noun"
+  },
+  {
+   "id": "figure-n",
+   "headword": "figure",
+   "pos": "noun"
+  },
+  {
+   "id": "figure-v",
+   "headword": "figure",
+   "pos": "verb"
+  },
+  {
+   "id": "film-n",
+   "headword": "film",
+   "pos": "noun"
+  },
+  {
+   "id": "final-adj",
+   "headword": "final",
+   "pos": "adjective"
+  },
+  {
+   "id": "final-n",
+   "headword": "final",
+   "pos": "noun"
+  },
+  {
+   "id": "finally-adv",
+   "headword": "finally",
+   "pos": "adverb"
+  },
+  {
+   "id": "first-name-n",
+   "headword": "first name",
+   "pos": "noun"
+  },
+  {
+   "id": "fisherman-n",
+   "headword": "fisherman",
+   "pos": "noun"
+  },
+  {
+   "id": "fit-adj",
+   "headword": "fit",
+   "pos": "adjective"
+  },
+  {
+   "id": "fix-n",
+   "headword": "fix",
+   "pos": "noun"
+  },
+  {
+   "id": "flea-n",
+   "headword": "flea",
+   "pos": "noun"
+  },
+  {
+   "id": "flight-n",
+   "headword": "flight",
+   "pos": "noun"
+  },
+  {
+   "id": "float-n",
+   "headword": "float",
+   "pos": "noun"
+  },
+  {
+   "id": "flood-n",
+   "headword": "flood",
+   "pos": "noun"
+  },
+  {
+   "id": "flour-n",
+   "headword": "flour",
+   "pos": "noun"
+  },
+  {
+   "id": "fog-n",
+   "headword": "fog",
+   "pos": "noun"
+  },
+  {
+   "id": "folder-n",
+   "headword": "folder",
+   "pos": "noun"
+  },
+  {
+   "id": "follow-v",
+   "headword": "follow",
+   "pos": "verb"
+  },
+  {
+   "id": "fool-n",
+   "headword": "fool",
+   "pos": "noun"
+  },
+  {
+   "id": "footballer-n",
+   "headword": "footballer",
+   "pos": "noun"
+  },
+  {
+   "id": "for-conj",
+   "headword": "for",
+   "pos": "conjunction"
+  },
+  {
+   "id": "forbid-v",
+   "headword": "forbid",
+   "pos": "verb"
+  },
+  {
+   "id": "force-n",
+   "headword": "force",
+   "pos": "noun"
+  },
+  {
+   "id": "forest-n",
+   "headword": "forest",
+   "pos": "noun"
+  },
+  {
+   "id": "forever-adv",
+   "headword": "forever",
+   "pos": "adverb"
+  },
+  {
+   "id": "fork-n",
+   "headword": "fork",
+   "pos": "noun"
+  },
+  {
+   "id": "fortunately-adv",
+   "headword": "fortunately",
+   "pos": "adverb"
+  },
+  {
+   "id": "fortune-n",
+   "headword": "fortune",
+   "pos": "noun"
+  },
+  {
+   "id": "forward-adv",
+   "headword": "forward",
+   "pos": "adverb"
+  },
+  {
+   "id": "frame-n",
+   "headword": "frame",
+   "pos": "noun"
+  },
+  {
+   "id": "frank-adj",
+   "headword": "frank",
+   "pos": "adjective"
+  },
+  {
+   "id": "free-adv",
+   "headword": "free",
+   "pos": "adverb"
+  },
+  {
+   "id": "freedom-n",
+   "headword": "freedom",
+   "pos": "noun"
+  },
+  {
+   "id": "freeze-v",
+   "headword": "freeze",
+   "pos": "verb"
+  },
+  {
+   "id": "fresh-adj",
+   "headword": "fresh",
+   "pos": "adjective"
+  },
+  {
+   "id": "fridge-n",
+   "headword": "fridge",
+   "pos": "noun"
+  },
+  {
+   "id": "fried-adj",
+   "headword": "fried",
+   "pos": "adjective"
+  },
+  {
+   "id": "friendship-n",
+   "headword": "friendship",
+   "pos": "noun"
+  },
+  {
+   "id": "frighten-v",
+   "headword": "frighten",
+   "pos": "verb"
+  },
+  {
+   "id": "frightened-adj",
+   "headword": "frightened",
+   "pos": "adjective"
+  },
+  {
+   "id": "frightening-adj",
+   "headword": "frightening",
+   "pos": "adjective"
+  },
+  {
+   "id": "front-n",
+   "headword": "front",
+   "pos": "noun"
+  },
+  {
+   "id": "fry-n",
+   "headword": "fry",
+   "pos": "noun"
+  },
+  {
+   "id": "fully-adv",
+   "headword": "fully",
+   "pos": "adverb"
+  },
+  {
+   "id": "function-v",
+   "headword": "function",
+   "pos": "verb"
+  },
+  {
+   "id": "furniture-n",
+   "headword": "furniture",
+   "pos": "noun"
+  },
+  {
+   "id": "further-adj",
+   "headword": "further",
+   "pos": "adjective"
+  },
+  {
+   "id": "gallery-n",
+   "headword": "gallery",
+   "pos": "noun"
+  },
+  {
+   "id": "garage-n",
+   "headword": "garage",
+   "pos": "noun"
+  },
+  {
+   "id": "garlic-n",
+   "headword": "garlic",
+   "pos": "noun"
+  },
+  {
+   "id": "gas-n",
+   "headword": "gas",
+   "pos": "noun"
+  },
+  {
+   "id": "gate-n",
+   "headword": "gate",
+   "pos": "noun"
+  },
+  {
+   "id": "gather-v",
+   "headword": "gather",
+   "pos": "verb"
+  },
+  {
+   "id": "gender-n",
+   "headword": "gender",
+   "pos": "noun"
+  },
+  {
+   "id": "generation-n",
+   "headword": "generation",
+   "pos": "noun"
+  },
+  {
+   "id": "gentle-adj",
+   "headword": "gentle",
+   "pos": "adjective"
+  },
+  {
+   "id": "given-adj",
+   "headword": "given",
+   "pos": "adjective"
+  },
+  {
+   "id": "globe-n",
+   "headword": "globe",
+   "pos": "noun"
+  },
+  {
+   "id": "glove-n",
+   "headword": "glove",
+   "pos": "noun"
+  },
+  {
+   "id": "gold-n",
+   "headword": "gold",
+   "pos": "noun"
+  },
+  {
+   "id": "golden-adj",
+   "headword": "golden",
+   "pos": "adjective"
+  },
+  {
+   "id": "golf-n",
+   "headword": "golf",
+   "pos": "noun"
+  },
+  {
+   "id": "good-looking-adj",
+   "headword": "good-looking",
+   "pos": "adjective"
+  },
+  {
+   "id": "government-n",
+   "headword": "government",
+   "pos": "noun"
+  },
+  {
+   "id": "grace-n",
+   "headword": "grace",
+   "pos": "noun"
+  },
+  {
+   "id": "gradually-adv",
+   "headword": "gradually",
+   "pos": "adverb"
+  },
+  {
+   "id": "graduate-v",
+   "headword": "graduate",
+   "pos": "verb"
+  },
+  {
+   "id": "gram-n",
+   "headword": "gram",
+   "pos": "noun",
+   "variants": [
+    "gramme"
+   ]
+  },
+  {
+   "id": "grandchild-n",
+   "headword": "grandchild",
+   "pos": "noun"
+  },
+  {
+   "id": "granddad-n",
+   "headword": "granddad",
+   "pos": "noun"
+  },
+  {
+   "id": "granddaughter-n",
+   "headword": "granddaughter",
+   "pos": "noun"
+  },
+  {
+   "id": "grandson-n",
+   "headword": "grandson",
+   "pos": "noun"
+  },
+  {
+   "id": "granny-n",
+   "headword": "granny",
+   "pos": "noun"
+  },
+  {
+   "id": "grateful-adj",
+   "headword": "grateful",
+   "pos": "adjective"
+  },
+  {
+   "id": "greatly-adv",
+   "headword": "greatly",
+   "pos": "adverb"
+  },
+  {
+   "id": "greedy-adj",
+   "headword": "greedy",
+   "pos": "adjective"
+  },
+  {
+   "id": "green-n",
+   "headword": "green",
+   "pos": "noun"
+  },
+  {
+   "id": "grilled-adj",
+   "headword": "grilled",
+   "pos": "adjective"
+  },
+  {
+   "id": "grocery-store-n",
+   "headword": "grocery store",
+   "pos": "noun"
+  },
+  {
+   "id": "guard-n",
+   "headword": "guard",
+   "pos": "noun"
+  },
+  {
+   "id": "guidebook-n",
+   "headword": "guidebook",
+   "pos": "noun"
+  },
+  {
+   "id": "gun-n",
+   "headword": "gun",
+   "pos": "noun"
+  },
+  {
+   "id": "half-det",
+   "headword": "half",
+   "pos": "determiner"
+  },
+  {
+   "id": "half-pron",
+   "headword": "half",
+   "pos": "pronoun"
+  },
+  {
+   "id": "half-price-adj",
+   "headword": "half-price",
+   "pos": "adjective"
+  },
+  {
+   "id": "half-price-adv",
+   "headword": "half-price",
+   "pos": "adverb"
+  },
+  {
+   "id": "ham-n",
+   "headword": "ham",
+   "pos": "noun"
+  },
+  {
+   "id": "hand-v",
+   "headword": "hand",
+   "pos": "verb"
+  },
+  {
+   "id": "handbag-n",
+   "headword": "handbag",
+   "pos": "noun"
+  },
+  {
+   "id": "handicapped-adj",
+   "headword": "handicapped",
+   "pos": "adjective"
+  },
+  {
+   "id": "handle-n",
+   "headword": "handle",
+   "pos": "noun"
+  },
+  {
+   "id": "happily-adv",
+   "headword": "happily",
+   "pos": "adverb"
+  },
+  {
+   "id": "happiness-n",
+   "headword": "happiness",
+   "pos": "noun"
+  },
+  {
+   "id": "hardly-adv",
+   "headword": "hardly",
+   "pos": "adverb"
+  },
+  {
+   "id": "harm-v",
+   "headword": "harm",
+   "pos": "verb"
+  },
+  {
+   "id": "harmful-adj",
+   "headword": "harmful",
+   "pos": "adjective"
+  },
+  {
+   "id": "harmony-n",
+   "headword": "harmony",
+   "pos": "noun"
+  },
+  {
+   "id": "harvest-n",
+   "headword": "harvest",
+   "pos": "noun"
+  },
+  {
+   "id": "hate-v",
+   "headword": "hate",
+   "pos": "verb"
+  },
+  {
+   "id": "head-v",
+   "headword": "head",
+   "pos": "verb"
+  },
+  {
+   "id": "headphone-n",
+   "headword": "headphone",
+   "pos": "noun"
+  },
+  {
+   "id": "headteacher-n",
+   "headword": "headteacher",
+   "pos": "noun"
+  },
+  {
+   "id": "heat-n",
+   "headword": "heat",
+   "pos": "noun"
+  },
+  {
+   "id": "heating-n",
+   "headword": "heating",
+   "pos": "noun"
+  },
+  {
+   "id": "heavily-adv",
+   "headword": "heavily",
+   "pos": "adverb"
+  },
+  {
+   "id": "help-n",
+   "headword": "help",
+   "pos": "noun"
+  },
+  {
+   "id": "helpful-adj",
+   "headword": "helpful",
+   "pos": "adjective"
+  },
+  {
+   "id": "hero-n",
+   "headword": "hero",
+   "pos": "noun"
+  },
+  {
+   "id": "herself-pron",
+   "headword": "herself",
+   "pos": "pronoun"
+  },
+  {
+   "id": "hey-interj",
+   "headword": "hey",
+   "pos": "interjection"
+  },
+  {
+   "id": "high-adv",
+   "headword": "high",
+   "pos": "adverb"
+  },
+  {
+   "id": "high-school-n",
+   "headword": "high school",
+   "pos": "noun"
+  },
+  {
+   "id": "highway-n",
+   "headword": "highway",
+   "pos": "noun"
+  },
+  {
+   "id": "hike-n",
+   "headword": "hike",
+   "pos": "noun"
+  },
+  {
+   "id": "hiking-n",
+   "headword": "hiking",
+   "pos": "noun"
+  },
+  {
+   "id": "himself-pron",
+   "headword": "himself",
+   "pos": "pronoun"
+  },
+  {
+   "id": "hip-hop-n",
+   "headword": "hip hop",
+   "pos": "noun",
+   "variants": [
+    "hip-hop",
+    "hiphop"
+   ]
+  },
+  {
+   "id": "hit-v",
+   "headword": "hit",
+   "pos": "verb"
+  },
+  {
+   "id": "hockey-n",
+   "headword": "hockey",
+   "pos": "noun"
+  },
+  {
+   "id": "hold-v",
+   "headword": "hold",
+   "pos": "verb"
+  },
+  {
+   "id": "home-adv",
+   "headword": "home",
+   "pos": "adverb"
+  },
+  {
+   "id": "honey-n",
+   "headword": "honey",
+   "pos": "noun"
+  },
+  {
+   "id": "honor-n",
+   "headword": "honor",
+   "pos": "noun",
+   "variants": [
+    "honour"
+   ]
+  },
+  {
+   "id": "horror-n",
+   "headword": "horror",
+   "pos": "noun"
+  },
+  {
+   "id": "host-n",
+   "headword": "host",
+   "pos": "noun"
+  },
+  {
+   "id": "however-adv",
+   "headword": "however",
+   "pos": "adverb"
+  },
+  {
+   "id": "hug-v",
+   "headword": "hug",
+   "pos": "verb"
+  },
+  {
+   "id": "human-adj",
+   "headword": "human",
+   "pos": "adjective"
+  },
+  {
+   "id": "hunter-n",
+   "headword": "hunter",
+   "pos": "noun"
+  },
+  {
+   "id": "hurry-v",
+   "headword": "hurry",
+   "pos": "verb"
+  },
+  {
+   "id": "id-n",
+   "headword": "ID",
+   "pos": "noun"
+  },
+  {
+   "id": "id-card-n",
+   "headword": "ID card",
+   "pos": "noun"
+  },
+  {
+   "id": "ill-adj",
+   "headword": "ill",
+   "pos": "adjective"
+  },
+  {
+   "id": "illegal-adj",
+   "headword": "illegal",
+   "pos": "adjective"
+  },
+  {
+   "id": "image-n",
+   "headword": "image",
+   "pos": "noun"
+  },
+  {
+   "id": "imagination-n",
+   "headword": "imagination",
+   "pos": "noun"
+  },
+  {
+   "id": "impact-n",
+   "headword": "impact",
+   "pos": "noun"
+  },
+  {
+   "id": "impatient-adj",
+   "headword": "impatient",
+   "pos": "adjective"
+  },
+  {
+   "id": "importance-n",
+   "headword": "importance",
+   "pos": "noun"
+  },
+  {
+   "id": "importantly-adv",
+   "headword": "importantly",
+   "pos": "adverb"
+  },
+  {
+   "id": "impossible-adj",
+   "headword": "impossible",
+   "pos": "adjective"
+  },
+  {
+   "id": "impress-v",
+   "headword": "impress",
+   "pos": "verb"
+  },
+  {
+   "id": "improve-v",
+   "headword": "improve",
+   "pos": "verb"
+  },
+  {
+   "id": "in-adv",
+   "headword": "in",
+   "pos": "adverb"
+  },
+  {
+   "id": "inch-n",
+   "headword": "inch",
+   "pos": "noun"
+  },
+  {
+   "id": "include-v",
+   "headword": "include",
+   "pos": "verb"
+  },
+  {
+   "id": "increase-v",
+   "headword": "increase",
+   "pos": "verb"
+  },
+  {
+   "id": "indeed-adv",
+   "headword": "indeed",
+   "pos": "adverb"
+  },
+  {
+   "id": "independence-n",
+   "headword": "independence",
+   "pos": "noun"
+  },
+  {
+   "id": "indicate-v",
+   "headword": "indicate",
+   "pos": "verb"
+  },
+  {
+   "id": "indoor-adj",
+   "headword": "indoor",
+   "pos": "adjective"
+  },
+  {
+   "id": "inexpensive-adj",
+   "headword": "inexpensive",
+   "pos": "adjective"
+  },
+  {
+   "id": "influence-n",
+   "headword": "influence",
+   "pos": "noun"
+  },
+  {
+   "id": "injure-v",
+   "headword": "injure",
+   "pos": "verb"
+  },
+  {
+   "id": "inner-adj",
+   "headword": "inner",
+   "pos": "adjective"
+  },
+  {
+   "id": "insect-n",
+   "headword": "insect",
+   "pos": "noun"
+  },
+  {
+   "id": "inside-adv",
+   "headword": "inside",
+   "pos": "adverb"
+  },
+  {
+   "id": "inspiration-n",
+   "headword": "inspiration",
+   "pos": "noun"
+  },
+  {
+   "id": "instant-adj",
+   "headword": "instant",
+   "pos": "adjective"
+  },
+  {
+   "id": "instead-adv",
+   "headword": "instead",
+   "pos": "adverb"
+  },
+  {
+   "id": "instrument-n",
+   "headword": "instrument",
+   "pos": "noun"
+  },
+  {
+   "id": "intelligence-n",
+   "headword": "intelligence",
+   "pos": "noun"
+  },
+  {
+   "id": "intelligent-adj",
+   "headword": "intelligent",
+   "pos": "adjective"
+  },
+  {
+   "id": "interest-n",
+   "headword": "interest",
+   "pos": "noun"
+  },
+  {
+   "id": "international-adj",
+   "headword": "international",
+   "pos": "adjective"
+  },
+  {
+   "id": "invade-v",
+   "headword": "invade",
+   "pos": "verb"
+  },
+  {
+   "id": "invent-v",
+   "headword": "invent",
+   "pos": "verb"
+  },
+  {
+   "id": "invention-n",
+   "headword": "invention",
+   "pos": "noun"
+  },
+  {
+   "id": "invite-v",
+   "headword": "invite",
+   "pos": "verb"
+  },
+  {
+   "id": "issue-n",
+   "headword": "issue",
+   "pos": "noun"
+  },
+  {
+   "id": "it-n",
+   "headword": "IT",
+   "pos": "noun"
+  },
+  {
+   "id": "itself-pron",
+   "headword": "itself",
+   "pos": "pronoun"
+  },
+  {
+   "id": "jam-n",
+   "headword": "jam",
+   "pos": "noun"
+  },
+  {
+   "id": "jelly-n",
+   "headword": "jelly",
+   "pos": "noun"
+  },
+  {
+   "id": "joke-n",
+   "headword": "joke",
+   "pos": "noun"
+  },
+  {
+   "id": "journey-n",
+   "headword": "journey",
+   "pos": "noun"
+  },
+  {
+   "id": "joy-n",
+   "headword": "joy",
+   "pos": "noun"
+  },
+  {
+   "id": "junior-adj",
+   "headword": "junior",
+   "pos": "adjective"
+  },
+  {
+   "id": "junk-n",
+   "headword": "junk",
+   "pos": "noun"
+  },
+  {
+   "id": "killer-n",
+   "headword": "killer",
+   "pos": "noun"
+  },
+  {
+   "id": "kilo-n",
+   "headword": "kilo",
+   "pos": "noun"
+  },
+  {
+   "id": "kilogram-n",
+   "headword": "kilogram",
+   "pos": "noun",
+   "variants": [
+    "kilogramme"
+   ]
+  },
+  {
+   "id": "kilometer-n",
+   "headword": "kilometer",
+   "pos": "noun",
+   "variants": [
+    "kilometre"
+   ]
+  },
+  {
+   "id": "kind-adj",
+   "headword": "kind",
+   "pos": "adjective"
+  },
+  {
+   "id": "kindly-adj",
+   "headword": "kindly",
+   "pos": "adjective"
+  },
+  {
+   "id": "kingdom-n",
+   "headword": "kingdom",
+   "pos": "noun"
+  },
+  {
+   "id": "kit-n",
+   "headword": "kit",
+   "pos": "noun"
+  },
+  {
+   "id": "knock-n",
+   "headword": "knock",
+   "pos": "noun"
+  },
+  {
+   "id": "knowledge-n",
+   "headword": "knowledge",
+   "pos": "noun"
+  },
+  {
+   "id": "labor-n",
+   "headword": "labor",
+   "pos": "noun",
+   "variants": [
+    "labour"
+   ]
+  },
+  {
+   "id": "lack-n",
+   "headword": "lack",
+   "pos": "noun"
+  },
+  {
+   "id": "lake-n",
+   "headword": "lake",
+   "pos": "noun"
+  },
+  {
+   "id": "lamp-n",
+   "headword": "lamp",
+   "pos": "noun"
+  },
+  {
+   "id": "land-v",
+   "headword": "land",
+   "pos": "verb"
+  },
+  {
+   "id": "landscape-n",
+   "headword": "landscape",
+   "pos": "noun"
+  },
+  {
+   "id": "lane-n",
+   "headword": "lane",
+   "pos": "noun"
+  },
+  {
+   "id": "last-det",
+   "headword": "last",
+   "pos": "determiner"
+  },
+  {
+   "id": "last-pron",
+   "headword": "last",
+   "pos": "pronoun"
+  },
+  {
+   "id": "latest-adj",
+   "headword": "latest",
+   "pos": "adjective"
+  },
+  {
+   "id": "latter-adv",
+   "headword": "latter",
+   "pos": "adverb"
+  },
+  {
+   "id": "latter-pron",
+   "headword": "latter",
+   "pos": "pronoun"
+  },
+  {
+   "id": "law-n",
+   "headword": "law",
+   "pos": "noun"
+  },
+  {
+   "id": "lawyer-n",
+   "headword": "lawyer",
+   "pos": "noun"
+  },
+  {
+   "id": "laziness-n",
+   "headword": "laziness",
+   "pos": "noun"
+  },
+  {
+   "id": "lead-n",
+   "headword": "lead",
+   "pos": "noun"
+  },
+  {
+   "id": "learner-n",
+   "headword": "learner",
+   "pos": "noun"
+  },
+  {
+   "id": "least-det",
+   "headword": "least",
+   "pos": "determiner"
+  },
+  {
+   "id": "leather-n",
+   "headword": "leather",
+   "pos": "noun"
+  },
+  {
+   "id": "left-adv",
+   "headword": "left",
+   "pos": "adverb"
+  },
+  {
+   "id": "left-n",
+   "headword": "left",
+   "pos": "noun"
+  },
+  {
+   "id": "left-hand-adj",
+   "headword": "left-hand",
+   "pos": "adjective"
+  },
+  {
+   "id": "leisure-n",
+   "headword": "leisure",
+   "pos": "noun"
+  },
+  {
+   "id": "lemon-n",
+   "headword": "lemon",
+   "pos": "noun"
+  },
+  {
+   "id": "lemonade-n",
+   "headword": "lemonade",
+   "pos": "noun"
+  },
+  {
+   "id": "lend-v",
+   "headword": "lend",
+   "pos": "verb"
+  },
+  {
+   "id": "less-adv",
+   "headword": "less",
+   "pos": "adverb"
+  },
+  {
+   "id": "less-det",
+   "headword": "less",
+   "pos": "determiner"
+  },
+  {
+   "id": "less-pron",
+   "headword": "less",
+   "pos": "pronoun"
+  },
+  {
+   "id": "level-n",
+   "headword": "level",
+   "pos": "noun"
+  },
+  {
+   "id": "liberty-n",
+   "headword": "liberty",
+   "pos": "noun"
+  },
+  {
+   "id": "license-v",
+   "headword": "license",
+   "pos": "verb",
+   "variants": [
+    "licence"
+   ]
+  },
+  {
+   "id": "lie-v",
+   "headword": "lie",
+   "pos": "verb"
+  },
+  {
+   "id": "lifestyle-n",
+   "headword": "lifestyle",
+   "pos": "noun"
+  },
+  {
+   "id": "likely-adj",
+   "headword": "likely",
+   "pos": "adjective"
+  },
+  {
+   "id": "lip-n",
+   "headword": "lip",
+   "pos": "noun"
+  },
+  {
+   "id": "liter-n",
+   "headword": "liter",
+   "pos": "noun",
+   "variants": [
+    "litre"
+   ]
+  },
+  {
+   "id": "lively-adj",
+   "headword": "lively",
+   "pos": "adjective"
+  },
+  {
+   "id": "load-n",
+   "headword": "load",
+   "pos": "noun"
+  },
+  {
+   "id": "local-adj",
+   "headword": "local",
+   "pos": "adjective"
+  },
+  {
+   "id": "lock-n",
+   "headword": "lock",
+   "pos": "noun"
+  },
+  {
+   "id": "logical-adj",
+   "headword": "logical",
+   "pos": "adjective"
+  },
+  {
+   "id": "long-adv",
+   "headword": "long",
+   "pos": "adverb"
+  },
+  {
+   "id": "loose-adj",
+   "headword": "loose",
+   "pos": "adjective"
+  },
+  {
+   "id": "lose-v",
+   "headword": "lose",
+   "pos": "verb"
+  },
+  {
+   "id": "lost-adj",
+   "headword": "lost",
+   "pos": "adjective"
+  },
+  {
+   "id": "lot-n",
+   "headword": "lot",
+   "pos": "noun"
+  },
+  {
+   "id": "loudly-adv",
+   "headword": "loudly",
+   "pos": "adverb"
+  },
+  {
+   "id": "lover-n",
+   "headword": "lover",
+   "pos": "noun"
+  },
+  {
+   "id": "low-adj",
+   "headword": "low",
+   "pos": "adjective"
+  },
+  {
+   "id": "low-adv",
+   "headword": "low",
+   "pos": "adverb"
+  },
+  {
+   "id": "luckily-adv",
+   "headword": "luckily",
+   "pos": "adverb"
+  },
+  {
+   "id": "lunchtime-n",
+   "headword": "lunchtime",
+   "pos": "noun"
+  },
+  {
+   "id": "lyric-adj",
+   "headword": "lyric",
+   "pos": "adjective"
+  },
+  {
+   "id": "mad-adj",
+   "headword": "mad",
+   "pos": "adjective"
+  },
+  {
+   "id": "magic-adj",
+   "headword": "magic",
+   "pos": "adjective"
+  },
+  {
+   "id": "magic-n",
+   "headword": "magic",
+   "pos": "noun"
+  },
+  {
+   "id": "main-course-n",
+   "headword": "main course",
+   "pos": "noun"
+  },
+  {
+   "id": "mainly-adv",
+   "headword": "mainly",
+   "pos": "adverb"
+  },
+  {
+   "id": "major-adj",
+   "headword": "major",
+   "pos": "adjective"
+  },
+  {
+   "id": "maker-n",
+   "headword": "maker",
+   "pos": "noun"
+  },
+  {
+   "id": "make-up-n",
+   "headword": "make-up",
+   "pos": "noun"
+  },
+  {
+   "id": "male-n",
+   "headword": "male",
+   "pos": "noun"
+  },
+  {
+   "id": "mall-n",
+   "headword": "mall",
+   "pos": "noun"
+  },
+  {
+   "id": "manage-v",
+   "headword": "manage",
+   "pos": "verb"
+  },
+  {
+   "id": "manager-n",
+   "headword": "manager",
+   "pos": "noun"
+  },
+  {
+   "id": "manner-n",
+   "headword": "manner",
+   "pos": "noun"
+  },
+  {
+   "id": "mark-n",
+   "headword": "mark",
+   "pos": "noun"
+  },
+  {
+   "id": "mark-v",
+   "headword": "mark",
+   "pos": "verb"
+  },
+  {
+   "id": "market-n",
+   "headword": "market",
+   "pos": "noun"
+  },
+  {
+   "id": "married-adj",
+   "headword": "married",
+   "pos": "adjective"
+  },
+  {
+   "id": "marry-v",
+   "headword": "marry",
+   "pos": "verb"
+  },
+  {
+   "id": "marvelous-adj",
+   "headword": "marvelous",
+   "pos": "adjective",
+   "variants": [
+    "marvellous"
+   ]
+  },
+  {
+   "id": "material-n",
+   "headword": "material",
+   "pos": "noun"
+  },
+  {
+   "id": "matter-v",
+   "headword": "matter",
+   "pos": "verb"
+  },
+  {
+   "id": "max-n",
+   "headword": "max",
+   "pos": "noun"
+  },
+  {
+   "id": "mean-adj",
+   "headword": "mean",
+   "pos": "adjective"
+  },
+  {
+   "id": "meaning-n",
+   "headword": "meaning",
+   "pos": "noun"
+  },
+  {
+   "id": "medal-n",
+   "headword": "medal",
+   "pos": "noun"
+  },
+  {
+   "id": "medical-adj",
+   "headword": "medical",
+   "pos": "adjective"
+  },
+  {
+   "id": "melon-n",
+   "headword": "melon",
+   "pos": "noun"
+  },
+  {
+   "id": "member-n",
+   "headword": "member",
+   "pos": "noun"
+  },
+  {
+   "id": "mention-n",
+   "headword": "mention",
+   "pos": "noun"
+  },
+  {
+   "id": "menu-n",
+   "headword": "menu",
+   "pos": "noun"
+  },
+  {
+   "id": "metal-n",
+   "headword": "metal",
+   "pos": "noun"
+  },
+  {
+   "id": "meter-n",
+   "headword": "meter",
+   "pos": "noun",
+   "variants": [
+    "metre"
+   ]
+  },
+  {
+   "id": "method-n",
+   "headword": "method",
+   "pos": "noun"
+  },
+  {
+   "id": "midday-n",
+   "headword": "midday",
+   "pos": "noun"
+  },
+  {
+   "id": "middle-n",
+   "headword": "middle",
+   "pos": "noun"
+  },
+  {
+   "id": "midnight-n",
+   "headword": "midnight",
+   "pos": "noun"
+  },
+  {
+   "id": "might-modal",
+   "headword": "might",
+   "pos": "modal auxiliary"
+  },
+  {
+   "id": "military-adj",
+   "headword": "military",
+   "pos": "adjective"
+  },
+  {
+   "id": "mind-v",
+   "headword": "mind",
+   "pos": "verb"
+  },
+  {
+   "id": "mineral-water-n",
+   "headword": "mineral water",
+   "pos": "noun"
+  },
+  {
+   "id": "mirror-n",
+   "headword": "mirror",
+   "pos": "noun"
+  },
+  {
+   "id": "missing-adj",
+   "headword": "missing",
+   "pos": "adjective"
+  },
+  {
+   "id": "mistake-n",
+   "headword": "mistake",
+   "pos": "noun"
+  },
+  {
+   "id": "mix-v",
+   "headword": "mix",
+   "pos": "verb"
+  },
+  {
+   "id": "mobile-adj",
+   "headword": "mobile",
+   "pos": "adjective"
+  },
+  {
+   "id": "model-n",
+   "headword": "model",
+   "pos": "noun"
+  },
+  {
+   "id": "modern-adj",
+   "headword": "modern",
+   "pos": "adjective"
+  },
+  {
+   "id": "mood-n",
+   "headword": "mood",
+   "pos": "noun"
+  },
+  {
+   "id": "mosque-n",
+   "headword": "mosque",
+   "pos": "noun"
+  },
+  {
+   "id": "most-adv",
+   "headword": "most",
+   "pos": "adverb"
+  },
+  {
+   "id": "most-pron",
+   "headword": "most",
+   "pos": "pronoun"
+  },
+  {
+   "id": "mostly-adv",
+   "headword": "mostly",
+   "pos": "adverb"
+  },
+  {
+   "id": "motorway-n",
+   "headword": "motorway",
+   "pos": "noun"
+  },
+  {
+   "id": "move-v",
+   "headword": "move",
+   "pos": "verb"
+  },
+  {
+   "id": "mp3-player-n",
+   "headword": "MP3 player",
+   "pos": "noun"
+  },
+  {
+   "id": "ms-n",
+   "headword": "Ms.",
+   "pos": "noun",
+   "variants": [
+    "Ms"
+   ]
+  },
+  {
+   "id": "mug-n",
+   "headword": "mug",
+   "pos": "noun"
+  },
+  {
+   "id": "murder-n",
+   "headword": "murder",
+   "pos": "noun"
+  },
+  {
+   "id": "museum-n",
+   "headword": "museum",
+   "pos": "noun"
+  },
+  {
+   "id": "mushroom-n",
+   "headword": "mushroom",
+   "pos": "noun"
+  },
+  {
+   "id": "musical-adj",
+   "headword": "musical",
+   "pos": "adjective"
+  },
+  {
+   "id": "myself-pron",
+   "headword": "myself",
+   "pos": "pronoun"
+  },
+  {
+   "id": "mysterious-adj",
+   "headword": "mysterious",
+   "pos": "adjective"
+  },
+  {
+   "id": "mystery-n",
+   "headword": "mystery",
+   "pos": "noun"
+  },
+  {
+   "id": "napkin-n",
+   "headword": "napkin",
+   "pos": "noun"
+  },
+  {
+   "id": "nation-n",
+   "headword": "nation",
+   "pos": "noun"
+  },
+  {
+   "id": "national-adj",
+   "headword": "national",
+   "pos": "adjective"
+  },
+  {
+   "id": "native-adj",
+   "headword": "native",
+   "pos": "adjective"
+  },
+  {
+   "id": "natural-adj",
+   "headword": "natural",
+   "pos": "adjective"
+  },
+  {
+   "id": "nature-n",
+   "headword": "nature",
+   "pos": "noun"
+  },
+  {
+   "id": "nearly-adv",
+   "headword": "nearly",
+   "pos": "adverb"
+  },
+  {
+   "id": "necessary-adj",
+   "headword": "necessary",
+   "pos": "adjective"
+  },
+  {
+   "id": "need-v",
+   "headword": "need",
+   "pos": "verb"
+  },
+  {
+   "id": "negative-adj",
+   "headword": "negative",
+   "pos": "adjective"
+  },
+  {
+   "id": "nervous-adj",
+   "headword": "nervous",
+   "pos": "adjective"
+  },
+  {
+   "id": "net-adj",
+   "headword": "net",
+   "pos": "adjective"
+  },
+  {
+   "id": "next-adv",
+   "headword": "next",
+   "pos": "adverb"
+  },
+  {
+   "id": "next-det",
+   "headword": "next",
+   "pos": "determiner"
+  },
+  {
+   "id": "next-to-prep",
+   "headword": "next to",
+   "pos": "preposition"
+  },
+  {
+   "id": "no-one-pron",
+   "headword": "no one",
+   "pos": "pronoun"
+  },
+  {
+   "id": "nobody-pron",
+   "headword": "nobody",
+   "pos": "pronoun"
+  },
+  {
+   "id": "noisy-adj",
+   "headword": "noisy",
+   "pos": "adjective"
+  },
+  {
+   "id": "noon-n",
+   "headword": "noon",
+   "pos": "noun"
+  },
+  {
+   "id": "normal-adj",
+   "headword": "normal",
+   "pos": "adjective"
+  },
+  {
+   "id": "north-adj",
+   "headword": "north",
+   "pos": "adjective"
+  },
+  {
+   "id": "north-adv",
+   "headword": "north",
+   "pos": "adverb"
+  },
+  {
+   "id": "north-n",
+   "headword": "north",
+   "pos": "noun"
+  },
+  {
+   "id": "notice-n",
+   "headword": "notice",
+   "pos": "noun"
+  },
+  {
+   "id": "noun-n",
+   "headword": "noun",
+   "pos": "noun"
+  },
+  {
+   "id": "novel-n",
+   "headword": "novel",
+   "pos": "noun"
+  },
+  {
+   "id": "nowadays-adv",
+   "headword": "nowadays",
+   "pos": "adverb"
+  },
+  {
+   "id": "oak-n",
+   "headword": "oak",
+   "pos": "noun"
+  },
+  {
+   "id": "occupation-n",
+   "headword": "occupation",
+   "pos": "noun"
+  },
+  {
+   "id": "off-adv",
+   "headword": "off",
+   "pos": "adverb"
+  },
+  {
+   "id": "offer-n",
+   "headword": "offer",
+   "pos": "noun"
+  },
+  {
+   "id": "offer-v",
+   "headword": "offer",
+   "pos": "verb"
+  },
+  {
+   "id": "official-adj",
+   "headword": "official",
+   "pos": "adjective"
+  },
+  {
+   "id": "oil-n",
+   "headword": "oil",
+   "pos": "noun"
+  },
+  {
+   "id": "olive-oil-n",
+   "headword": "olive oil",
+   "pos": "noun"
+  },
+  {
+   "id": "olympic-adj",
+   "headword": "Olympic",
+   "pos": "adjective"
+  },
+  {
+   "id": "omelet-n",
+   "headword": "omelet",
+   "pos": "noun",
+   "variants": [
+    "omelette"
+   ]
+  },
+  {
+   "id": "on-adv",
+   "headword": "on",
+   "pos": "adverb"
+  },
+  {
+   "id": "one-pron",
+   "headword": "one",
+   "pos": "pronoun"
+  },
+  {
+   "id": "onion-n",
+   "headword": "onion",
+   "pos": "noun"
+  },
+  {
+   "id": "online-adj",
+   "headword": "online",
+   "pos": "adjective"
+  },
+  {
+   "id": "online-adv",
+   "headword": "online",
+   "pos": "adverb"
+  },
+  {
+   "id": "operate-v",
+   "headword": "operate",
+   "pos": "verb"
+  },
+  {
+   "id": "opinion-n",
+   "headword": "opinion",
+   "pos": "noun"
+  },
+  {
+   "id": "opportunity-n",
+   "headword": "opportunity",
+   "pos": "noun"
+  },
+  {
+   "id": "oppose-v",
+   "headword": "oppose",
+   "pos": "verb"
+  },
+  {
+   "id": "opposite-adj",
+   "headword": "opposite",
+   "pos": "adjective"
+  },
+  {
+   "id": "opposite-prep",
+   "headword": "opposite",
+   "pos": "preposition"
+  },
+  {
+   "id": "order-v",
+   "headword": "order",
+   "pos": "verb"
+  },
+  {
+   "id": "organize-v",
+   "headword": "organize",
+   "pos": "verb",
+   "variants": [
+    "organise"
+   ]
+  },
+  {
+   "id": "organized-adj",
+   "headword": "organized",
+   "pos": "adjective",
+   "variants": [
+    "organised"
+   ]
+  },
+  {
+   "id": "original-adj",
+   "headword": "original",
+   "pos": "adjective"
+  },
+  {
+   "id": "orphan-n",
+   "headword": "orphan",
+   "pos": "noun"
+  },
+  {
+   "id": "other-pron",
+   "headword": "other",
+   "pos": "pronoun"
+  },
+  {
+   "id": "ourselves-pron",
+   "headword": "ourselves",
+   "pos": "pronoun"
+  },
+  {
+   "id": "out-of-prep",
+   "headword": "out of",
+   "pos": "preposition"
+  },
+  {
+   "id": "outside-prep",
+   "headword": "outside",
+   "pos": "preposition"
+  },
+  {
+   "id": "oven-n",
+   "headword": "oven",
+   "pos": "noun"
+  },
+  {
+   "id": "over-adv",
+   "headword": "over",
+   "pos": "adverb"
+  },
+  {
+   "id": "overseas-adv",
+   "headword": "overseas",
+   "pos": "adverb"
+  },
+  {
+   "id": "overweight-adj",
+   "headword": "overweight",
+   "pos": "adjective"
+  },
+  {
+   "id": "own-pron",
+   "headword": "own",
+   "pos": "pronoun"
+  },
+  {
+   "id": "pacific-adj",
+   "headword": "pacific",
+   "pos": "adjective"
+  },
+  {
+   "id": "pack-n",
+   "headword": "pack",
+   "pos": "noun"
+  },
+  {
+   "id": "pack-v",
+   "headword": "pack",
+   "pos": "verb"
+  },
+  {
+   "id": "painter-n",
+   "headword": "painter",
+   "pos": "noun"
+  },
+  {
+   "id": "pal-n",
+   "headword": "pal",
+   "pos": "noun"
+  },
+  {
+   "id": "pan-n",
+   "headword": "pan",
+   "pos": "noun"
+  },
+  {
+   "id": "panic-n",
+   "headword": "panic",
+   "pos": "noun"
+  },
+  {
+   "id": "park-v",
+   "headword": "park",
+   "pos": "verb"
+  },
+  {
+   "id": "part-n",
+   "headword": "part",
+   "pos": "noun"
+  },
+  {
+   "id": "partly-adv",
+   "headword": "partly",
+   "pos": "adverb"
+  },
+  {
+   "id": "pass-n",
+   "headword": "pass",
+   "pos": "noun"
+  },
+  {
+   "id": "pass-v",
+   "headword": "pass",
+   "pos": "verb"
+  },
+  {
+   "id": "passage-n",
+   "headword": "passage",
+   "pos": "noun"
+  },
+  {
+   "id": "passenger-n",
+   "headword": "passenger",
+   "pos": "noun"
+  },
+  {
+   "id": "pasta-n",
+   "headword": "pasta",
+   "pos": "noun"
+  },
+  {
+   "id": "path-n",
+   "headword": "path",
+   "pos": "noun"
+  },
+  {
+   "id": "patient-n",
+   "headword": "patient",
+   "pos": "noun"
+  },
+  {
+   "id": "pc-n",
+   "headword": "PC",
+   "pos": "noun"
+  },
+  {
+   "id": "pea-n",
+   "headword": "pea",
+   "pos": "noun"
+  },
+  {
+   "id": "peaceful-adj",
+   "headword": "peaceful",
+   "pos": "adjective"
+  },
+  {
+   "id": "pear-n",
+   "headword": "pear",
+   "pos": "noun"
+  },
+  {
+   "id": "pence-n",
+   "headword": "pence",
+   "pos": "noun"
+  },
+  {
+   "id": "penfriend-n",
+   "headword": "penfriend",
+   "pos": "noun",
+   "variants": [
+    "pen friend"
+   ]
+  },
+  {
+   "id": "pepper-n",
+   "headword": "pepper",
+   "pos": "noun"
+  },
+  {
+   "id": "perfect-adj",
+   "headword": "perfect",
+   "pos": "adjective"
+  },
+  {
+   "id": "perfectly-adv",
+   "headword": "perfectly",
+   "pos": "adverb"
+  },
+  {
+   "id": "perform-v",
+   "headword": "perform",
+   "pos": "verb"
+  },
+  {
+   "id": "performance-n",
+   "headword": "performance",
+   "pos": "noun"
+  },
+  {
+   "id": "perfume-n",
+   "headword": "perfume",
+   "pos": "noun"
+  },
+  {
+   "id": "perhaps-adv",
+   "headword": "perhaps",
+   "pos": "adverb"
+  },
+  {
+   "id": "permission-n",
+   "headword": "permission",
+   "pos": "noun"
+  },
+  {
+   "id": "personality-n",
+   "headword": "personality",
+   "pos": "noun"
+  },
+  {
+   "id": "petrol-n",
+   "headword": "petrol",
+   "pos": "noun"
+  },
+  {
+   "id": "petrol-station-n",
+   "headword": "petrol station",
+   "pos": "noun"
+  },
+  {
+   "id": "photograph-n",
+   "headword": "photograph",
+   "pos": "noun"
+  },
+  {
+   "id": "photographer-n",
+   "headword": "photographer",
+   "pos": "noun"
+  },
+  {
+   "id": "photography-n",
+   "headword": "photography",
+   "pos": "noun"
+  },
+  {
+   "id": "physical-adj",
+   "headword": "physical",
+   "pos": "adjective"
+  },
+  {
+   "id": "physically-adv",
+   "headword": "physically",
+   "pos": "adverb"
+  },
+  {
+   "id": "pile-n",
+   "headword": "pile",
+   "pos": "noun"
+  },
+  {
+   "id": "pilgrim-n",
+   "headword": "pilgrim",
+   "pos": "noun"
+  },
+  {
+   "id": "pill-n",
+   "headword": "pill",
+   "pos": "noun"
+  },
+  {
+   "id": "pilot-n",
+   "headword": "pilot",
+   "pos": "noun"
+  },
+  {
+   "id": "pink-n",
+   "headword": "pink",
+   "pos": "noun"
+  },
+  {
+   "id": "pity-n",
+   "headword": "pity",
+   "pos": "noun"
+  },
+  {
+   "id": "planet-n",
+   "headword": "planet",
+   "pos": "noun"
+  },
+  {
+   "id": "plant-n",
+   "headword": "plant",
+   "pos": "noun"
+  },
+  {
+   "id": "plastic-adj",
+   "headword": "plastic",
+   "pos": "adjective"
+  },
+  {
+   "id": "plate-n",
+   "headword": "plate",
+   "pos": "noun"
+  },
+  {
+   "id": "playful-adj",
+   "headword": "playful",
+   "pos": "adjective"
+  },
+  {
+   "id": "playground-n",
+   "headword": "playground",
+   "pos": "noun"
+  },
+  {
+   "id": "pleasant-adj",
+   "headword": "pleasant",
+   "pos": "adjective"
+  },
+  {
+   "id": "pleased-adj",
+   "headword": "pleased",
+   "pos": "adjective"
+  },
+  {
+   "id": "pleasing-adj",
+   "headword": "pleasing",
+   "pos": "adjective"
+  },
+  {
+   "id": "plenty-n",
+   "headword": "plenty",
+   "pos": "noun"
+  },
+  {
+   "id": "plural-n",
+   "headword": "plural",
+   "pos": "noun"
+  },
+  {
+   "id": "plus-prep",
+   "headword": "plus",
+   "pos": "preposition"
+  },
+  {
+   "id": "point-v",
+   "headword": "point",
+   "pos": "verb"
+  },
+  {
+   "id": "police-n",
+   "headword": "police",
+   "pos": "noun"
+  },
+  {
+   "id": "police-officer-n",
+   "headword": "police officer",
+   "pos": "noun"
+  },
+  {
+   "id": "police-station-n",
+   "headword": "police station",
+   "pos": "noun"
+  },
+  {
+   "id": "policeman-n",
+   "headword": "policeman",
+   "pos": "noun"
+  },
+  {
+   "id": "policewoman-n",
+   "headword": "policewoman",
+   "pos": "noun"
+  },
+  {
+   "id": "polite-adj",
+   "headword": "polite",
+   "pos": "adjective"
+  },
+  {
+   "id": "political-adj",
+   "headword": "political",
+   "pos": "adjective"
+  },
+  {
+   "id": "pollute-v",
+   "headword": "pollute",
+   "pos": "verb"
+  },
+  {
+   "id": "popular-adj",
+   "headword": "popular",
+   "pos": "adjective"
+  },
+  {
+   "id": "population-n",
+   "headword": "population",
+   "pos": "noun"
+  },
+  {
+   "id": "portrait-n",
+   "headword": "portrait",
+   "pos": "noun"
+  },
+  {
+   "id": "position-n",
+   "headword": "position",
+   "pos": "noun"
+  },
+  {
+   "id": "possible-adj",
+   "headword": "possible",
+   "pos": "adjective"
+  },
+  {
+   "id": "possibly-adv",
+   "headword": "possibly",
+   "pos": "adverb"
+  },
+  {
+   "id": "post-v",
+   "headword": "post",
+   "pos": "verb"
+  },
+  {
+   "id": "post-office-n",
+   "headword": "post office",
+   "pos": "noun"
+  },
+  {
+   "id": "pour-v",
+   "headword": "pour",
+   "pos": "verb"
+  },
+  {
+   "id": "power-n",
+   "headword": "power",
+   "pos": "noun"
+  },
+  {
+   "id": "powerful-adj",
+   "headword": "powerful",
+   "pos": "adjective"
+  },
+  {
+   "id": "precise-adj",
+   "headword": "precise",
+   "pos": "adjective"
+  },
+  {
+   "id": "predict-v",
+   "headword": "predict",
+   "pos": "verb"
+  },
+  {
+   "id": "prediction-n",
+   "headword": "prediction",
+   "pos": "noun"
+  },
+  {
+   "id": "prefer-v",
+   "headword": "prefer",
+   "pos": "verb"
+  },
+  {
+   "id": "prepare-v",
+   "headword": "prepare",
+   "pos": "verb"
+  },
+  {
+   "id": "pressure-n",
+   "headword": "pressure",
+   "pos": "noun"
+  },
+  {
+   "id": "pretend-v",
+   "headword": "pretend",
+   "pos": "verb"
+  },
+  {
+   "id": "pretty-adv",
+   "headword": "pretty",
+   "pos": "adverb"
+  },
+  {
+   "id": "prevent-v",
+   "headword": "prevent",
+   "pos": "verb"
+  },
+  {
+   "id": "pride-n",
+   "headword": "pride",
+   "pos": "noun"
+  },
+  {
+   "id": "principal-adj",
+   "headword": "principal",
+   "pos": "adjective"
+  },
+  {
+   "id": "print-v",
+   "headword": "print",
+   "pos": "verb"
+  },
+  {
+   "id": "printer-n",
+   "headword": "printer",
+   "pos": "noun"
+  },
+  {
+   "id": "private-adj",
+   "headword": "private",
+   "pos": "adjective"
+  },
+  {
+   "id": "pro-n",
+   "headword": "pro",
+   "pos": "noun"
+  },
+  {
+   "id": "probably-adv",
+   "headword": "probably",
+   "pos": "adverb"
+  },
+  {
+   "id": "produce-v",
+   "headword": "produce",
+   "pos": "verb"
+  },
+  {
+   "id": "product-n",
+   "headword": "product",
+   "pos": "noun"
+  },
+  {
+   "id": "production-n",
+   "headword": "production",
+   "pos": "noun"
+  },
+  {
+   "id": "professional-adj",
+   "headword": "professional",
+   "pos": "adjective"
+  },
+  {
+   "id": "progressive-adj",
+   "headword": "progressive",
+   "pos": "adjective"
+  },
+  {
+   "id": "promise-n",
+   "headword": "promise",
+   "pos": "noun"
+  },
+  {
+   "id": "pronounce-v",
+   "headword": "pronounce",
+   "pos": "verb"
+  },
+  {
+   "id": "pronunciation-n",
+   "headword": "pronunciation",
+   "pos": "noun"
+  },
+  {
+   "id": "proper-adj",
+   "headword": "proper",
+   "pos": "adjective"
+  },
+  {
+   "id": "provide-v",
+   "headword": "provide",
+   "pos": "verb"
+  },
+  {
+   "id": "psychologist-n",
+   "headword": "psychologist",
+   "pos": "noun"
+  },
+  {
+   "id": "public-n",
+   "headword": "public",
+   "pos": "noun"
+  },
+  {
+   "id": "publish-v",
+   "headword": "publish",
+   "pos": "verb"
+  },
+  {
+   "id": "pull-v",
+   "headword": "pull",
+   "pos": "verb"
+  },
+  {
+   "id": "punctuation-n",
+   "headword": "punctuation",
+   "pos": "noun"
+  },
+  {
+   "id": "purple-adj",
+   "headword": "purple",
+   "pos": "adjective"
+  },
+  {
+   "id": "purpose-n",
+   "headword": "purpose",
+   "pos": "noun"
+  },
+  {
+   "id": "pursue-v",
+   "headword": "pursue",
+   "pos": "verb"
+  },
+  {
+   "id": "quality-n",
+   "headword": "quality",
+   "pos": "noun"
+  },
+  {
+   "id": "queen-n",
+   "headword": "queen",
+   "pos": "noun"
+  },
+  {
+   "id": "quick-adj",
+   "headword": "quick",
+   "pos": "adjective"
+  },
+  {
+   "id": "quietly-adv",
+   "headword": "quietly",
+   "pos": "adverb"
+  },
+  {
+   "id": "quit-v",
+   "headword": "quit",
+   "pos": "verb"
+  },
+  {
+   "id": "quite-adv",
+   "headword": "quite",
+   "pos": "adverb"
+  },
+  {
+   "id": "quiz-n",
+   "headword": "quiz",
+   "pos": "noun"
+  },
+  {
+   "id": "racket-n",
+   "headword": "racket",
+   "pos": "noun"
+  },
+  {
+   "id": "raincoat-n",
+   "headword": "raincoat",
+   "pos": "noun"
+  },
+  {
+   "id": "raise-v",
+   "headword": "raise",
+   "pos": "verb"
+  },
+  {
+   "id": "range-n",
+   "headword": "range",
+   "pos": "noun"
+  },
+  {
+   "id": "rap-n",
+   "headword": "rap",
+   "pos": "noun"
+  },
+  {
+   "id": "rate-n",
+   "headword": "rate",
+   "pos": "noun"
+  },
+  {
+   "id": "rather-adv",
+   "headword": "rather",
+   "pos": "adverb"
+  },
+  {
+   "id": "rating-n",
+   "headword": "rating",
+   "pos": "noun"
+  },
+  {
+   "id": "raw-adj",
+   "headword": "raw",
+   "pos": "adjective"
+  },
+  {
+   "id": "ray-n",
+   "headword": "ray",
+   "pos": "noun"
+  },
+  {
+   "id": "reach-v",
+   "headword": "reach",
+   "pos": "verb"
+  },
+  {
+   "id": "realize-v",
+   "headword": "realize",
+   "pos": "verb",
+   "variants": [
+    "realise"
+   ]
+  },
+  {
+   "id": "receipt-n",
+   "headword": "receipt",
+   "pos": "noun"
+  },
+  {
+   "id": "receive-v",
+   "headword": "receive",
+   "pos": "verb"
+  },
+  {
+   "id": "recent-adj",
+   "headword": "recent",
+   "pos": "adjective"
+  },
+  {
+   "id": "recently-adv",
+   "headword": "recently",
+   "pos": "adverb"
+  },
+  {
+   "id": "receptionist-n",
+   "headword": "receptionist",
+   "pos": "noun"
+  },
+  {
+   "id": "record-v",
+   "headword": "record",
+   "pos": "verb"
+  },
+  {
+   "id": "recycle-v",
+   "headword": "recycle",
+   "pos": "verb"
+  },
+  {
+   "id": "red-n",
+   "headword": "red",
+   "pos": "noun"
+  },
+  {
+   "id": "refer-v",
+   "headword": "refer",
+   "pos": "verb"
+  },
+  {
+   "id": "reflect-v",
+   "headword": "reflect",
+   "pos": "verb"
+  },
+  {
+   "id": "refrigerator-n",
+   "headword": "refrigerator",
+   "pos": "noun"
+  },
+  {
+   "id": "regret-v",
+   "headword": "regret",
+   "pos": "verb"
+  },
+  {
+   "id": "regular-adj",
+   "headword": "regular",
+   "pos": "adjective"
+  },
+  {
+   "id": "regularly-adv",
+   "headword": "regularly",
+   "pos": "adverb"
+  },
+  {
+   "id": "relax-v",
+   "headword": "relax",
+   "pos": "verb"
+  },
+  {
+   "id": "relaxed-adj",
+   "headword": "relaxed",
+   "pos": "adjective"
+  },
+  {
+   "id": "release-n",
+   "headword": "release",
+   "pos": "noun"
+  },
+  {
+   "id": "remain-v",
+   "headword": "remain",
+   "pos": "verb"
+  },
+  {
+   "id": "remind-v",
+   "headword": "remind",
+   "pos": "verb"
+  },
+  {
+   "id": "remote-adj",
+   "headword": "remote",
+   "pos": "adjective"
+  },
+  {
+   "id": "rent-n",
+   "headword": "rent",
+   "pos": "noun"
+  },
+  {
+   "id": "rent-v",
+   "headword": "rent",
+   "pos": "verb"
+  },
+  {
+   "id": "repair-n",
+   "headword": "repair",
+   "pos": "noun"
+  },
+  {
+   "id": "repair-v",
+   "headword": "repair",
+   "pos": "verb"
+  },
+  {
+   "id": "replace-v",
+   "headword": "replace",
+   "pos": "verb"
+  },
+  {
+   "id": "reply-n",
+   "headword": "reply",
+   "pos": "noun"
+  },
+  {
+   "id": "report-n",
+   "headword": "report",
+   "pos": "noun"
+  },
+  {
+   "id": "represent-v",
+   "headword": "represent",
+   "pos": "verb"
+  },
+  {
+   "id": "request-n",
+   "headword": "request",
+   "pos": "noun"
+  },
+  {
+   "id": "research-n",
+   "headword": "research",
+   "pos": "noun"
+  },
+  {
+   "id": "response-n",
+   "headword": "response",
+   "pos": "noun"
+  },
+  {
+   "id": "retire-v",
+   "headword": "retire",
+   "pos": "verb"
+  },
+  {
+   "id": "retired-adj",
+   "headword": "retired",
+   "pos": "adjective"
+  },
+  {
+   "id": "return-n",
+   "headword": "return",
+   "pos": "noun"
+  },
+  {
+   "id": "return-v",
+   "headword": "return",
+   "pos": "verb"
+  },
+  {
+   "id": "reunion-n",
+   "headword": "reunion",
+   "pos": "noun"
+  },
+  {
+   "id": "reveal-v",
+   "headword": "reveal",
+   "pos": "verb"
+  },
+  {
+   "id": "rhythm-n",
+   "headword": "rhythm",
+   "pos": "noun"
+  },
+  {
+   "id": "right-n",
+   "headword": "right",
+   "pos": "noun"
+  },
+  {
+   "id": "right-hand-adj",
+   "headword": "right-hand",
+   "pos": "adjective"
+  },
+  {
+   "id": "ring-n",
+   "headword": "ring",
+   "pos": "noun"
+  },
+  {
+   "id": "road-n",
+   "headword": "road",
+   "pos": "noun"
+  },
+  {
+   "id": "roast-v",
+   "headword": "roast",
+   "pos": "verb"
+  },
+  {
+   "id": "rob-v",
+   "headword": "rob",
+   "pos": "verb"
+  },
+  {
+   "id": "robbery-n",
+   "headword": "robbery",
+   "pos": "noun"
+  },
+  {
+   "id": "robin-n",
+   "headword": "robin",
+   "pos": "noun"
+  },
+  {
+   "id": "rock-n",
+   "headword": "rock",
+   "pos": "noun"
+  },
+  {
+   "id": "roll-n",
+   "headword": "roll",
+   "pos": "noun"
+  },
+  {
+   "id": "romance-n",
+   "headword": "romance",
+   "pos": "noun"
+  },
+  {
+   "id": "romantic-adj",
+   "headword": "romantic",
+   "pos": "adjective"
+  },
+  {
+   "id": "roof-n",
+   "headword": "roof",
+   "pos": "noun"
+  },
+  {
+   "id": "root-n",
+   "headword": "root",
+   "pos": "noun"
+  },
+  {
+   "id": "rope-n",
+   "headword": "rope",
+   "pos": "noun"
+  },
+  {
+   "id": "roughly-adv",
+   "headword": "roughly",
+   "pos": "adverb"
+  },
+  {
+   "id": "round-adv",
+   "headword": "round",
+   "pos": "adverb"
+  },
+  {
+   "id": "roundabout-n",
+   "headword": "roundabout",
+   "pos": "noun"
+  },
+  {
+   "id": "royal-adj",
+   "headword": "royal",
+   "pos": "adjective"
+  },
+  {
+   "id": "rugby-n",
+   "headword": "rugby",
+   "pos": "noun"
+  },
+  {
+   "id": "ruin-v",
+   "headword": "ruin",
+   "pos": "verb"
+  },
+  {
+   "id": "rumor-n",
+   "headword": "rumor",
+   "pos": "noun",
+   "variants": [
+    "rumour"
+   ]
+  },
+  {
+   "id": "runner-n",
+   "headword": "runner",
+   "pos": "noun"
+  },
+  {
+   "id": "running-n",
+   "headword": "running",
+   "pos": "noun"
+  },
+  {
+   "id": "rush-n",
+   "headword": "rush",
+   "pos": "noun"
+  },
+  {
+   "id": "sadly-adv",
+   "headword": "sadly",
+   "pos": "adverb"
+  },
+  {
+   "id": "safe-adj",
+   "headword": "safe",
+   "pos": "adjective"
+  },
+  {
+   "id": "sailing-n",
+   "headword": "sailing",
+   "pos": "noun"
+  },
+  {
+   "id": "sake-n",
+   "headword": "sake",
+   "pos": "noun"
+  },
+  {
+   "id": "salt-n",
+   "headword": "salt",
+   "pos": "noun"
+  },
+  {
+   "id": "sample-n",
+   "headword": "sample",
+   "pos": "noun"
+  },
+  {
+   "id": "sandy-adj",
+   "headword": "sandy",
+   "pos": "adjective"
+  },
+  {
+   "id": "satisfy-v",
+   "headword": "satisfy",
+   "pos": "verb"
+  },
+  {
+   "id": "sauce-n",
+   "headword": "sauce",
+   "pos": "noun"
+  },
+  {
+   "id": "sausage-n",
+   "headword": "sausage",
+   "pos": "noun"
+  },
+  {
+   "id": "scale-n",
+   "headword": "scale",
+   "pos": "noun"
+  },
+  {
+   "id": "scarf-n",
+   "headword": "scarf",
+   "pos": "noun"
+  },
+  {
+   "id": "scene-n",
+   "headword": "scene",
+   "pos": "noun"
+  },
+  {
+   "id": "scenery-n",
+   "headword": "scenery",
+   "pos": "noun"
+  },
+  {
+   "id": "schedule-n",
+   "headword": "schedule",
+   "pos": "noun"
+  },
+  {
+   "id": "schoolchild-n",
+   "headword": "schoolchild",
+   "pos": "noun"
+  },
+  {
+   "id": "schoolwork-n",
+   "headword": "schoolwork",
+   "pos": "noun"
+  },
+  {
+   "id": "scientific-adj",
+   "headword": "scientific",
+   "pos": "adjective"
+  },
+  {
+   "id": "scissors-n",
+   "headword": "scissors",
+   "pos": "noun"
+  },
+  {
+   "id": "scream-n",
+   "headword": "scream",
+   "pos": "noun"
+  },
+  {
+   "id": "screen-n",
+   "headword": "screen",
+   "pos": "noun"
+  },
+  {
+   "id": "screw-n",
+   "headword": "screw",
+   "pos": "noun"
+  },
+  {
+   "id": "script-n",
+   "headword": "script",
+   "pos": "noun"
+  },
+  {
+   "id": "seafood-n",
+   "headword": "seafood",
+   "pos": "noun"
+  },
+  {
+   "id": "search-n",
+   "headword": "search",
+   "pos": "noun"
+  },
+  {
+   "id": "seaside-n",
+   "headword": "seaside",
+   "pos": "noun"
+  },
+  {
+   "id": "second-n",
+   "headword": "second",
+   "pos": "noun"
+  },
+  {
+   "id": "second-pron",
+   "headword": "second",
+   "pos": "pronoun"
+  },
+  {
+   "id": "secret-n",
+   "headword": "secret",
+   "pos": "noun"
+  },
+  {
+   "id": "secretary-n",
+   "headword": "secretary",
+   "pos": "noun"
+  },
+  {
+   "id": "seed-n",
+   "headword": "seed",
+   "pos": "noun"
+  },
+  {
+   "id": "seek-v",
+   "headword": "seek",
+   "pos": "verb"
+  },
+  {
+   "id": "seem-v",
+   "headword": "seem",
+   "pos": "verb"
+  },
+  {
+   "id": "semester-n",
+   "headword": "semester",
+   "pos": "noun"
+  },
+  {
+   "id": "send-v",
+   "headword": "send",
+   "pos": "verb"
+  },
+  {
+   "id": "senior-adj",
+   "headword": "senior",
+   "pos": "adjective"
+  },
+  {
+   "id": "senior-n",
+   "headword": "senior",
+   "pos": "noun"
+  },
+  {
+   "id": "sense-n",
+   "headword": "sense",
+   "pos": "noun"
+  },
+  {
+   "id": "separate-adj",
+   "headword": "separate",
+   "pos": "adjective"
+  },
+  {
+   "id": "seriously-adv",
+   "headword": "seriously",
+   "pos": "adverb"
+  },
+  {
+   "id": "serve-v",
+   "headword": "serve",
+   "pos": "verb"
+  },
+  {
+   "id": "set-n",
+   "headword": "set",
+   "pos": "noun"
+  },
+  {
+   "id": "several-det",
+   "headword": "several",
+   "pos": "determiner"
+  },
+  {
+   "id": "several-pron",
+   "headword": "several",
+   "pos": "pronoun"
+  },
+  {
+   "id": "sew-v",
+   "headword": "sew",
+   "pos": "verb"
+  },
+  {
+   "id": "shade-n",
+   "headword": "shade",
+   "pos": "noun"
+  },
+  {
+   "id": "shadow-n",
+   "headword": "shadow",
+   "pos": "noun"
+  },
+  {
+   "id": "shall-modal",
+   "headword": "shall",
+   "pos": "modal auxiliary"
+  },
+  {
+   "id": "shampoo-n",
+   "headword": "shampoo",
+   "pos": "noun"
+  },
+  {
+   "id": "shape-n",
+   "headword": "shape",
+   "pos": "noun"
+  },
+  {
+   "id": "share-n",
+   "headword": "share",
+   "pos": "noun"
+  },
+  {
+   "id": "shell-n",
+   "headword": "shell",
+   "pos": "noun"
+  },
+  {
+   "id": "shine-v",
+   "headword": "shine",
+   "pos": "verb"
+  },
+  {
+   "id": "shock-n",
+   "headword": "shock",
+   "pos": "noun"
+  },
+  {
+   "id": "shoot-v",
+   "headword": "shoot",
+   "pos": "verb"
+  },
+  {
+   "id": "shop-assistant-n",
+   "headword": "shop assistant",
+   "pos": "noun"
+  },
+  {
+   "id": "shore-n",
+   "headword": "shore",
+   "pos": "noun"
+  },
+  {
+   "id": "shorts-n",
+   "headword": "shorts",
+   "pos": "noun"
+  },
+  {
+   "id": "shot-n",
+   "headword": "shot",
+   "pos": "noun"
+  },
+  {
+   "id": "shout-n",
+   "headword": "shout",
+   "pos": "noun"
+  },
+  {
+   "id": "show-n",
+   "headword": "show",
+   "pos": "noun"
+  },
+  {
+   "id": "shut-v",
+   "headword": "shut",
+   "pos": "verb"
+  },
+  {
+   "id": "sightseeing-n",
+   "headword": "sightseeing",
+   "pos": "noun"
+  },
+  {
+   "id": "significant-adj",
+   "headword": "significant",
+   "pos": "adjective"
+  },
+  {
+   "id": "silence-n",
+   "headword": "silence",
+   "pos": "noun"
+  },
+  {
+   "id": "silently-adv",
+   "headword": "silently",
+   "pos": "adverb"
+  },
+  {
+   "id": "silly-adj",
+   "headword": "silly",
+   "pos": "adjective"
+  },
+  {
+   "id": "silver-adj",
+   "headword": "silver",
+   "pos": "adjective"
+  },
+  {
+   "id": "silver-n",
+   "headword": "silver",
+   "pos": "noun"
+  },
+  {
+   "id": "similar-adj",
+   "headword": "similar",
+   "pos": "adjective"
+  },
+  {
+   "id": "simple-adj",
+   "headword": "simple",
+   "pos": "adjective"
+  },
+  {
+   "id": "simply-adv",
+   "headword": "simply",
+   "pos": "adverb"
+  },
+  {
+   "id": "since-prep",
+   "headword": "since",
+   "pos": "preposition"
+  },
+  {
+   "id": "singing-n",
+   "headword": "singing",
+   "pos": "noun"
+  },
+  {
+   "id": "single-adj",
+   "headword": "single",
+   "pos": "adjective"
+  },
+  {
+   "id": "singular-adj",
+   "headword": "singular",
+   "pos": "adjective"
+  },
+  {
+   "id": "singular-n",
+   "headword": "singular",
+   "pos": "noun"
+  },
+  {
+   "id": "sink-n",
+   "headword": "sink",
+   "pos": "noun"
+  },
+  {
+   "id": "sitting-room-n",
+   "headword": "sitting room",
+   "pos": "noun"
+  },
+  {
+   "id": "situation-n",
+   "headword": "situation",
+   "pos": "noun"
+  },
+  {
+   "id": "skate-n",
+   "headword": "skate",
+   "pos": "noun"
+  },
+  {
+   "id": "skateboarding-n",
+   "headword": "skateboarding",
+   "pos": "noun"
+  },
+  {
+   "id": "skating-n",
+   "headword": "skating",
+   "pos": "noun"
+  },
+  {
+   "id": "ski-n",
+   "headword": "ski",
+   "pos": "noun"
+  },
+  {
+   "id": "skiing-n",
+   "headword": "skiing",
+   "pos": "noun"
+  },
+  {
+   "id": "slave-n",
+   "headword": "slave",
+   "pos": "noun"
+  },
+  {
+   "id": "sleepless-adj",
+   "headword": "sleepless",
+   "pos": "adjective"
+  },
+  {
+   "id": "sleepy-adj",
+   "headword": "sleepy",
+   "pos": "adjective"
+  },
+  {
+   "id": "slice-n",
+   "headword": "slice",
+   "pos": "noun"
+  },
+  {
+   "id": "slide-n",
+   "headword": "slide",
+   "pos": "noun"
+  },
+  {
+   "id": "slim-adj",
+   "headword": "slim",
+   "pos": "adjective"
+  },
+  {
+   "id": "slowly-adv",
+   "headword": "slowly",
+   "pos": "adverb"
+  },
+  {
+   "id": "smoke-v",
+   "headword": "smoke",
+   "pos": "verb"
+  },
+  {
+   "id": "smooth-adj",
+   "headword": "smooth",
+   "pos": "adjective"
+  },
+  {
+   "id": "smoothly-adv",
+   "headword": "smoothly",
+   "pos": "adverb"
+  },
+  {
+   "id": "snack-n",
+   "headword": "snack",
+   "pos": "noun"
+  },
+  {
+   "id": "snow-v",
+   "headword": "snow",
+   "pos": "verb"
+  },
+  {
+   "id": "snowboarding-n",
+   "headword": "snowboarding",
+   "pos": "noun"
+  },
+  {
+   "id": "so-adv",
+   "headword": "so",
+   "pos": "adverb"
+  },
+  {
+   "id": "soap-n",
+   "headword": "soap",
+   "pos": "noun"
+  },
+  {
+   "id": "society-n",
+   "headword": "society",
+   "pos": "noun"
+  },
+  {
+   "id": "sock-n",
+   "headword": "sock",
+   "pos": "noun"
+  },
+  {
+   "id": "soda-n",
+   "headword": "soda",
+   "pos": "noun"
+  },
+  {
+   "id": "soft-adj",
+   "headword": "soft",
+   "pos": "adjective"
+  },
+  {
+   "id": "soft-drink-n",
+   "headword": "soft drink",
+   "pos": "noun"
+  },
+  {
+   "id": "softly-adv",
+   "headword": "softly",
+   "pos": "adverb"
+  },
+  {
+   "id": "software-n",
+   "headword": "software",
+   "pos": "noun"
+  },
+  {
+   "id": "soldier-n",
+   "headword": "soldier",
+   "pos": "noun"
+  },
+  {
+   "id": "solution-n",
+   "headword": "solution",
+   "pos": "noun"
+  },
+  {
+   "id": "somebody-pron",
+   "headword": "somebody",
+   "pos": "pronoun"
+  },
+  {
+   "id": "someday-adv",
+   "headword": "someday",
+   "pos": "adverb"
+  },
+  {
+   "id": "somewhere-adv",
+   "headword": "somewhere",
+   "pos": "adverb"
+  },
+  {
+   "id": "sound-n",
+   "headword": "sound",
+   "pos": "noun"
+  },
+  {
+   "id": "sound-v",
+   "headword": "sound",
+   "pos": "verb"
+  },
+  {
+   "id": "source-n",
+   "headword": "source",
+   "pos": "noun"
+  },
+  {
+   "id": "south-adj",
+   "headword": "south",
+   "pos": "adjective"
+  },
+  {
+   "id": "south-adv",
+   "headword": "south",
+   "pos": "adverb"
+  },
+  {
+   "id": "south-n",
+   "headword": "south",
+   "pos": "noun"
+  },
+  {
+   "id": "space-n",
+   "headword": "space",
+   "pos": "noun"
+  },
+  {
+   "id": "spaceship-n",
+   "headword": "spaceship",
+   "pos": "noun"
+  },
+  {
+   "id": "spaghetti-n",
+   "headword": "spaghetti",
+   "pos": "noun"
+  },
+  {
+   "id": "speaker-n",
+   "headword": "speaker",
+   "pos": "noun"
+  },
+  {
+   "id": "specific-adj",
+   "headword": "specific",
+   "pos": "adjective"
+  },
+  {
+   "id": "speed-n",
+   "headword": "speed",
+   "pos": "noun"
+  },
+  {
+   "id": "spell-v",
+   "headword": "spell",
+   "pos": "verb"
+  },
+  {
+   "id": "spill-v",
+   "headword": "spill",
+   "pos": "verb"
+  },
+  {
+   "id": "splash-v",
+   "headword": "splash",
+   "pos": "verb"
+  },
+  {
+   "id": "split-adj",
+   "headword": "split",
+   "pos": "adjective"
+  },
+  {
+   "id": "spoon-n",
+   "headword": "spoon",
+   "pos": "noun"
+  },
+  {
+   "id": "sports-center-n",
+   "headword": "sports center",
+   "pos": "noun",
+   "variants": [
+    "sports centre"
+   ]
+  },
+  {
+   "id": "spread-n",
+   "headword": "spread",
+   "pos": "noun"
+  },
+  {
+   "id": "square-adj",
+   "headword": "square",
+   "pos": "adjective"
+  },
+  {
+   "id": "square-n",
+   "headword": "square",
+   "pos": "noun"
+  },
+  {
+   "id": "stadium-n",
+   "headword": "stadium",
+   "pos": "noun"
+  },
+  {
+   "id": "staff-n",
+   "headword": "staff",
+   "pos": "noun"
+  },
+  {
+   "id": "stair-n",
+   "headword": "stair",
+   "pos": "noun"
+  },
+  {
+   "id": "stamp-n",
+   "headword": "stamp",
+   "pos": "noun"
+  },
+  {
+   "id": "stand-v",
+   "headword": "stand",
+   "pos": "verb"
+  },
+  {
+   "id": "state-n",
+   "headword": "state",
+   "pos": "noun"
+  },
+  {
+   "id": "statement-n",
+   "headword": "statement",
+   "pos": "noun"
+  },
+  {
+   "id": "statue-n",
+   "headword": "statue",
+   "pos": "noun"
+  },
+  {
+   "id": "steak-n",
+   "headword": "steak",
+   "pos": "noun"
+  },
+  {
+   "id": "steal-v",
+   "headword": "steal",
+   "pos": "verb"
+  },
+  {
+   "id": "step-n",
+   "headword": "step",
+   "pos": "noun"
+  },
+  {
+   "id": "still-adv",
+   "headword": "still",
+   "pos": "adverb"
+  },
+  {
+   "id": "stomach-n",
+   "headword": "stomach",
+   "pos": "noun"
+  },
+  {
+   "id": "stomachache-n",
+   "headword": "stomachache",
+   "pos": "noun"
+  },
+  {
+   "id": "storm-n",
+   "headword": "storm",
+   "pos": "noun"
+  },
+  {
+   "id": "stove-n",
+   "headword": "stove",
+   "pos": "noun"
+  },
+  {
+   "id": "straight-adj",
+   "headword": "straight",
+   "pos": "adjective"
+  },
+  {
+   "id": "stranger-n",
+   "headword": "stranger",
+   "pos": "noun"
+  },
+  {
+   "id": "strategy-n",
+   "headword": "strategy",
+   "pos": "noun"
+  },
+  {
+   "id": "strength-n",
+   "headword": "strength",
+   "pos": "noun"
+  },
+  {
+   "id": "strike-n",
+   "headword": "strike",
+   "pos": "noun"
+  },
+  {
+   "id": "string-n",
+   "headword": "string",
+   "pos": "noun"
+  },
+  {
+   "id": "strongly-adv",
+   "headword": "strongly",
+   "pos": "adverb"
+  },
+  {
+   "id": "structure-n",
+   "headword": "structure",
+   "pos": "noun"
+  },
+  {
+   "id": "study-n",
+   "headword": "study",
+   "pos": "noun"
+  },
+  {
+   "id": "stuff-n",
+   "headword": "stuff",
+   "pos": "noun"
+  },
+  {
+   "id": "style-n",
+   "headword": "style",
+   "pos": "noun"
+  },
+  {
+   "id": "succeed-v",
+   "headword": "succeed",
+   "pos": "verb"
+  },
+  {
+   "id": "success-n",
+   "headword": "success",
+   "pos": "noun"
+  },
+  {
+   "id": "successfully-adv",
+   "headword": "successfully",
+   "pos": "adverb"
+  },
+  {
+   "id": "such-det",
+   "headword": "such",
+   "pos": "determiner"
+  },
+  {
+   "id": "such-pron",
+   "headword": "such",
+   "pos": "pronoun"
+  },
+  {
+   "id": "sudden-adj",
+   "headword": "sudden",
+   "pos": "adjective"
+  },
+  {
+   "id": "suggest-v",
+   "headword": "suggest",
+   "pos": "verb"
+  },
+  {
+   "id": "suit-n",
+   "headword": "suit",
+   "pos": "noun"
+  },
+  {
+   "id": "suit-v",
+   "headword": "suit",
+   "pos": "verb"
+  },
+  {
+   "id": "suitable-adj",
+   "headword": "suitable",
+   "pos": "adjective"
+  },
+  {
+   "id": "suitcase-n",
+   "headword": "suitcase",
+   "pos": "noun"
+  },
+  {
+   "id": "summary-n",
+   "headword": "summary",
+   "pos": "noun"
+  },
+  {
+   "id": "sunflower-n",
+   "headword": "sunflower",
+   "pos": "noun"
+  },
+  {
+   "id": "sunglasses-n",
+   "headword": "sunglasses",
+   "pos": "noun"
+  },
+  {
+   "id": "sunlight-n",
+   "headword": "sunlight",
+   "pos": "noun"
+  },
+  {
+   "id": "superlative-n",
+   "headword": "superlative",
+   "pos": "noun"
+  },
+  {
+   "id": "superstar-n",
+   "headword": "superstar",
+   "pos": "noun"
+  },
+  {
+   "id": "supper-n",
+   "headword": "supper",
+   "pos": "noun"
+  },
+  {
+   "id": "support-n",
+   "headword": "support",
+   "pos": "noun"
+  },
+  {
+   "id": "sure-adv",
+   "headword": "sure",
+   "pos": "adverb"
+  },
+  {
+   "id": "surf-v",
+   "headword": "surf",
+   "pos": "verb"
+  },
+  {
+   "id": "surfing-n",
+   "headword": "surfing",
+   "pos": "noun"
+  },
+  {
+   "id": "surname-n",
+   "headword": "surname",
+   "pos": "noun"
+  },
+  {
+   "id": "surprised-adj",
+   "headword": "surprised",
+   "pos": "adjective"
+  },
+  {
+   "id": "surprising-adj",
+   "headword": "surprising",
+   "pos": "adjective"
+  },
+  {
+   "id": "survive-v",
+   "headword": "survive",
+   "pos": "verb"
+  },
+  {
+   "id": "swallow-v",
+   "headword": "swallow",
+   "pos": "verb"
+  },
+  {
+   "id": "sweat-v",
+   "headword": "sweat",
+   "pos": "verb"
+  },
+  {
+   "id": "sweater-n",
+   "headword": "sweater",
+   "pos": "noun"
+  },
+  {
+   "id": "sweet-n",
+   "headword": "sweet",
+   "pos": "noun"
+  },
+  {
+   "id": "sweetheart-n",
+   "headword": "sweetheart",
+   "pos": "noun"
+  },
+  {
+   "id": "swimming-costume-n",
+   "headword": "swimming costume",
+   "pos": "noun"
+  },
+  {
+   "id": "swimsuit-n",
+   "headword": "swimsuit",
+   "pos": "noun"
+  },
+  {
+   "id": "symbol-n",
+   "headword": "symbol",
+   "pos": "noun"
+  },
+  {
+   "id": "symphony-n",
+   "headword": "symphony",
+   "pos": "noun"
+  },
+  {
+   "id": "system-n",
+   "headword": "system",
+   "pos": "noun"
+  },
+  {
+   "id": "table-tennis-n",
+   "headword": "table tennis",
+   "pos": "noun"
+  },
+  {
+   "id": "tablespoon-n",
+   "headword": "tablespoon",
+   "pos": "noun"
+  },
+  {
+   "id": "talent-n",
+   "headword": "talent",
+   "pos": "noun"
+  },
+  {
+   "id": "tap-n",
+   "headword": "tap",
+   "pos": "noun"
+  },
+  {
+   "id": "tape-n",
+   "headword": "tape",
+   "pos": "noun"
+  },
+  {
+   "id": "target-n",
+   "headword": "target",
+   "pos": "noun"
+  },
+  {
+   "id": "task-n",
+   "headword": "task",
+   "pos": "noun"
+  },
+  {
+   "id": "tear-n",
+   "headword": "tear",
+   "pos": "noun"
+  },
+  {
+   "id": "teenage-adj",
+   "headword": "teenage",
+   "pos": "adjective"
+  },
+  {
+   "id": "teenager-n",
+   "headword": "teenager",
+   "pos": "noun"
+  },
+  {
+   "id": "telephone-v",
+   "headword": "telephone",
+   "pos": "verb"
+  },
+  {
+   "id": "temperature-n",
+   "headword": "temperature",
+   "pos": "noun"
+  },
+  {
+   "id": "terrify-v",
+   "headword": "terrify",
+   "pos": "verb"
+  },
+  {
+   "id": "terrorist-adj",
+   "headword": "terrorist",
+   "pos": "adjective"
+  },
+  {
+   "id": "text-n",
+   "headword": "text",
+   "pos": "noun"
+  },
+  {
+   "id": "text-v",
+   "headword": "text",
+   "pos": "verb"
+  },
+  {
+   "id": "text-message-n",
+   "headword": "text message",
+   "pos": "noun"
+  },
+  {
+   "id": "textbook-n",
+   "headword": "textbook",
+   "pos": "noun"
+  },
+  {
+   "id": "theirs-pron",
+   "headword": "theirs",
+   "pos": "pronoun"
+  },
+  {
+   "id": "themselves-pron",
+   "headword": "themselves",
+   "pos": "pronoun"
+  },
+  {
+   "id": "therefore-adv",
+   "headword": "therefore",
+   "pos": "adverb"
+  },
+  {
+   "id": "thief-n",
+   "headword": "thief",
+   "pos": "noun"
+  },
+  {
+   "id": "third-adj",
+   "headword": "third",
+   "pos": "adjective"
+  },
+  {
+   "id": "thirsty-adj",
+   "headword": "thirsty",
+   "pos": "adjective"
+  },
+  {
+   "id": "though-conj",
+   "headword": "though",
+   "pos": "conjunction"
+  },
+  {
+   "id": "thought-n",
+   "headword": "thought",
+   "pos": "noun"
+  },
+  {
+   "id": "throw-v",
+   "headword": "throw",
+   "pos": "verb"
+  },
+  {
+   "id": "thunderstorm-n",
+   "headword": "thunderstorm",
+   "pos": "noun"
+  },
+  {
+   "id": "tidy-adj",
+   "headword": "tidy",
+   "pos": "adjective"
+  },
+  {
+   "id": "tidy-v",
+   "headword": "tidy",
+   "pos": "verb"
+  },
+  {
+   "id": "tie-n",
+   "headword": "tie",
+   "pos": "noun"
+  },
+  {
+   "id": "tights-n",
+   "headword": "tights",
+   "pos": "noun"
+  },
+  {
+   "id": "till-prep",
+   "headword": "till",
+   "pos": "preposition"
+  },
+  {
+   "id": "timetable-n",
+   "headword": "timetable",
+   "pos": "noun"
+  },
+  {
+   "id": "tip-n",
+   "headword": "tip",
+   "pos": "noun"
+  },
+  {
+   "id": "title-n",
+   "headword": "title",
+   "pos": "noun"
+  },
+  {
+   "id": "toast-n",
+   "headword": "toast",
+   "pos": "noun"
+  },
+  {
+   "id": "toe-n",
+   "headword": "toe",
+   "pos": "noun"
+  },
+  {
+   "id": "tone-n",
+   "headword": "tone",
+   "pos": "noun"
+  },
+  {
+   "id": "tonight-n",
+   "headword": "tonight",
+   "pos": "noun"
+  },
+  {
+   "id": "toothache-n",
+   "headword": "toothache",
+   "pos": "noun"
+  },
+  {
+   "id": "toothbrush-n",
+   "headword": "toothbrush",
+   "pos": "noun"
+  },
+  {
+   "id": "tour-n",
+   "headword": "tour",
+   "pos": "noun"
+  },
+  {
+   "id": "tour-guide-n",
+   "headword": "tour guide",
+   "pos": "noun"
+  },
+  {
+   "id": "tourist-n",
+   "headword": "tourist",
+   "pos": "noun"
+  },
+  {
+   "id": "toward-prep",
+   "headword": "toward",
+   "pos": "preposition",
+   "variants": [
+    "towards"
+   ]
+  },
+  {
+   "id": "track-n",
+   "headword": "track",
+   "pos": "noun"
+  },
+  {
+   "id": "trade-n",
+   "headword": "trade",
+   "pos": "noun"
+  },
+  {
+   "id": "tradition-n",
+   "headword": "tradition",
+   "pos": "noun"
+  },
+  {
+   "id": "traditional-adj",
+   "headword": "traditional",
+   "pos": "adjective"
+  },
+  {
+   "id": "traffic-n",
+   "headword": "traffic",
+   "pos": "noun"
+  },
+  {
+   "id": "traffic-light-n",
+   "headword": "traffic light",
+   "pos": "noun"
+  },
+  {
+   "id": "train-v",
+   "headword": "train",
+   "pos": "verb"
+  },
+  {
+   "id": "training-n",
+   "headword": "training",
+   "pos": "noun"
+  },
+  {
+   "id": "tram-n",
+   "headword": "tram",
+   "pos": "noun"
+  },
+  {
+   "id": "trap-n",
+   "headword": "trap",
+   "pos": "noun"
+  },
+  {
+   "id": "travel-n",
+   "headword": "travel",
+   "pos": "noun"
+  },
+  {
+   "id": "traveler-n",
+   "headword": "traveler",
+   "pos": "noun",
+   "variants": [
+    "traveller"
+   ]
+  },
+  {
+   "id": "treasure-n",
+   "headword": "treasure",
+   "pos": "noun"
+  },
+  {
+   "id": "trick-n",
+   "headword": "trick",
+   "pos": "noun"
+  },
+  {
+   "id": "trouble-n",
+   "headword": "trouble",
+   "pos": "noun"
+  },
+  {
+   "id": "truly-adv",
+   "headword": "truly",
+   "pos": "adverb"
+  },
+  {
+   "id": "trust-v",
+   "headword": "trust",
+   "pos": "verb"
+  },
+  {
+   "id": "truth-n",
+   "headword": "truth",
+   "pos": "noun"
+  },
+  {
+   "id": "try-v",
+   "headword": "try",
+   "pos": "verb"
+  },
+  {
+   "id": "tune-n",
+   "headword": "tune",
+   "pos": "noun"
+  },
+  {
+   "id": "twice-adv",
+   "headword": "twice",
+   "pos": "adverb"
+  },
+  {
+   "id": "uncertain-adj",
+   "headword": "uncertain",
+   "pos": "adjective"
+  },
+  {
+   "id": "uncomfortable-adj",
+   "headword": "uncomfortable",
+   "pos": "adjective"
+  },
+  {
+   "id": "understand-v",
+   "headword": "understand",
+   "pos": "verb"
+  },
+  {
+   "id": "underwater-adj",
+   "headword": "underwater",
+   "pos": "adjective"
+  },
+  {
+   "id": "uneasy-adj",
+   "headword": "uneasy",
+   "pos": "adjective"
+  },
+  {
+   "id": "unfair-adj",
+   "headword": "unfair",
+   "pos": "adjective"
+  },
+  {
+   "id": "unforgettable-adj",
+   "headword": "unforgettable",
+   "pos": "adjective"
+  },
+  {
+   "id": "unfortunately-adv",
+   "headword": "unfortunately",
+   "pos": "adverb"
+  },
+  {
+   "id": "unhappy-adj",
+   "headword": "unhappy",
+   "pos": "adjective"
+  },
+  {
+   "id": "unhealthy-adj",
+   "headword": "unhealthy",
+   "pos": "adjective"
+  },
+  {
+   "id": "uniform-adj",
+   "headword": "uniform",
+   "pos": "adjective"
+  },
+  {
+   "id": "uniform-n",
+   "headword": "uniform",
+   "pos": "noun"
+  },
+  {
+   "id": "unimportant-adj",
+   "headword": "unimportant",
+   "pos": "adjective"
+  },
+  {
+   "id": "unit-n",
+   "headword": "unit",
+   "pos": "noun"
+  },
+  {
+   "id": "university-n",
+   "headword": "university",
+   "pos": "noun"
+  },
+  {
+   "id": "unknown-adj",
+   "headword": "unknown",
+   "pos": "adjective"
+  },
+  {
+   "id": "unlike-adj",
+   "headword": "unlike",
+   "pos": "adjective"
+  },
+  {
+   "id": "unnecessary-adj",
+   "headword": "unnecessary",
+   "pos": "adjective"
+  },
+  {
+   "id": "unpleasant-adj",
+   "headword": "unpleasant",
+   "pos": "adjective"
+  },
+  {
+   "id": "unusual-adj",
+   "headword": "unusual",
+   "pos": "adjective"
+  },
+  {
+   "id": "up-adv",
+   "headword": "up",
+   "pos": "adverb"
+  },
+  {
+   "id": "upon-prep",
+   "headword": "upon",
+   "pos": "preposition"
+  },
+  {
+   "id": "upset-adj",
+   "headword": "upset",
+   "pos": "adjective"
+  },
+  {
+   "id": "upstairs-adv",
+   "headword": "upstairs",
+   "pos": "adverb"
+  },
+  {
+   "id": "use-n",
+   "headword": "use",
+   "pos": "noun"
+  },
+  {
+   "id": "used-adj",
+   "headword": "used",
+   "pos": "adjective"
+  },
+  {
+   "id": "useful-adj",
+   "headword": "useful",
+   "pos": "adjective"
+  },
+  {
+   "id": "usual-adj",
+   "headword": "usual",
+   "pos": "adjective"
+  },
+  {
+   "id": "valley-n",
+   "headword": "valley",
+   "pos": "noun"
+  },
+  {
+   "id": "value-n",
+   "headword": "value",
+   "pos": "noun"
+  },
+  {
+   "id": "verb-n",
+   "headword": "verb",
+   "pos": "noun"
+  },
+  {
+   "id": "video-game-n",
+   "headword": "video game",
+   "pos": "noun"
+  },
+  {
+   "id": "view-n",
+   "headword": "view",
+   "pos": "noun"
+  },
+  {
+   "id": "village-n",
+   "headword": "village",
+   "pos": "noun"
+  },
+  {
+   "id": "violent-adj",
+   "headword": "violent",
+   "pos": "adjective"
+  },
+  {
+   "id": "violin-n",
+   "headword": "violin",
+   "pos": "noun"
+  },
+  {
+   "id": "visitor-n",
+   "headword": "visitor",
+   "pos": "noun"
+  },
+  {
+   "id": "vocabulary-n",
+   "headword": "vocabulary",
+   "pos": "noun"
+  },
+  {
+   "id": "voice-n",
+   "headword": "voice",
+   "pos": "noun"
+  },
+  {
+   "id": "walking-n",
+   "headword": "walking",
+   "pos": "noun"
+  },
+  {
+   "id": "wallet-n",
+   "headword": "wallet",
+   "pos": "noun"
+  },
+  {
+   "id": "wander-v",
+   "headword": "wander",
+   "pos": "verb"
+  },
+  {
+   "id": "washing-machine-n",
+   "headword": "washing machine",
+   "pos": "noun"
+  },
+  {
+   "id": "washing-up-n",
+   "headword": "washing-up",
+   "pos": "noun"
+  },
+  {
+   "id": "wave-n",
+   "headword": "wave",
+   "pos": "noun"
+  },
+  {
+   "id": "weak-adj",
+   "headword": "weak",
+   "pos": "adjective"
+  },
+  {
+   "id": "wealth-n",
+   "headword": "wealth",
+   "pos": "noun"
+  },
+  {
+   "id": "web-n",
+   "headword": "web",
+   "pos": "noun"
+  },
+  {
+   "id": "web-page-n",
+   "headword": "web page",
+   "pos": "noun"
+  },
+  {
+   "id": "website-n",
+   "headword": "website",
+   "pos": "noun"
+  },
+  {
+   "id": "wedding-n",
+   "headword": "wedding",
+   "pos": "noun"
+  },
+  {
+   "id": "weekday-n",
+   "headword": "weekday",
+   "pos": "noun"
+  },
+  {
+   "id": "weekly-adj",
+   "headword": "weekly",
+   "pos": "adjective"
+  },
+  {
+   "id": "weekly-adv",
+   "headword": "weekly",
+   "pos": "adverb"
+  },
+  {
+   "id": "weep-n",
+   "headword": "weep",
+   "pos": "noun"
+  },
+  {
+   "id": "weigh-v",
+   "headword": "weigh",
+   "pos": "verb"
+  },
+  {
+   "id": "weight-n",
+   "headword": "weight",
+   "pos": "noun"
+  },
+  {
+   "id": "well-known-adj",
+   "headword": "well-known",
+   "pos": "adjective"
+  },
+  {
+   "id": "west-adj",
+   "headword": "west",
+   "pos": "adjective"
+  },
+  {
+   "id": "west-adv",
+   "headword": "west",
+   "pos": "adverb"
+  },
+  {
+   "id": "west-n",
+   "headword": "west",
+   "pos": "noun"
+  },
+  {
+   "id": "wet-adj",
+   "headword": "wet",
+   "pos": "adjective"
+  },
+  {
+   "id": "whatever-det",
+   "headword": "whatever",
+   "pos": "determiner"
+  },
+  {
+   "id": "wheelchair-n",
+   "headword": "wheelchair",
+   "pos": "noun"
+  },
+  {
+   "id": "while-conj",
+   "headword": "while",
+   "pos": "conjunction"
+  },
+  {
+   "id": "whole-adj",
+   "headword": "whole",
+   "pos": "adjective"
+  },
+  {
+   "id": "whom-pron",
+   "headword": "whom",
+   "pos": "pronoun"
+  },
+  {
+   "id": "wide-adj",
+   "headword": "wide",
+   "pos": "adjective"
+  },
+  {
+   "id": "wide-adv",
+   "headword": "wide",
+   "pos": "adverb"
+  },
+  {
+   "id": "widely-adv",
+   "headword": "widely",
+   "pos": "adverb"
+  },
+  {
+   "id": "wild-adj",
+   "headword": "wild",
+   "pos": "adjective"
+  },
+  {
+   "id": "windy-adj",
+   "headword": "windy",
+   "pos": "adjective"
+  },
+  {
+   "id": "wine-n",
+   "headword": "wine",
+   "pos": "noun"
+  },
+  {
+   "id": "winner-n",
+   "headword": "winner",
+   "pos": "noun"
+  },
+  {
+   "id": "wisdom-n",
+   "headword": "wisdom",
+   "pos": "noun"
+  },
+  {
+   "id": "wise-adj",
+   "headword": "wise",
+   "pos": "adjective"
+  },
+  {
+   "id": "wish-v",
+   "headword": "wish",
+   "pos": "verb"
+  },
+  {
+   "id": "within-prep",
+   "headword": "within",
+   "pos": "preposition"
+  },
+  {
+   "id": "without-prep",
+   "headword": "without",
+   "pos": "preposition"
+  },
+  {
+   "id": "wonder-v",
+   "headword": "wonder",
+   "pos": "verb"
+  },
+  {
+   "id": "wood-n",
+   "headword": "wood",
+   "pos": "noun"
+  },
+  {
+   "id": "wooden-adj",
+   "headword": "wooden",
+   "pos": "adjective"
+  },
+  {
+   "id": "wool-n",
+   "headword": "wool",
+   "pos": "noun"
+  },
+  {
+   "id": "worldwide-adv",
+   "headword": "worldwide",
+   "pos": "adverb"
+  },
+  {
+   "id": "worried-adj",
+   "headword": "worried",
+   "pos": "adjective"
+  },
+  {
+   "id": "worry-v",
+   "headword": "worry",
+   "pos": "verb"
+  },
+  {
+   "id": "worse-adj",
+   "headword": "worse",
+   "pos": "adjective"
+  },
+  {
+   "id": "worse-adv",
+   "headword": "worse",
+   "pos": "adverb"
+  },
+  {
+   "id": "worst-adj",
+   "headword": "worst",
+   "pos": "adjective"
+  },
+  {
+   "id": "writing-n",
+   "headword": "writing",
+   "pos": "noun"
+  },
+  {
+   "id": "wrong-adv",
+   "headword": "wrong",
+   "pos": "adverb"
+  },
+  {
+   "id": "yeah-adv",
+   "headword": "yeah",
+   "pos": "adverb"
+  },
+  {
+   "id": "youth-n",
+   "headword": "youth",
+   "pos": "noun"
+  },
+  {
+   "id": "zone-n",
+   "headword": "zone",
+   "pos": "noun"
+  }
+ ],
+ "numbers": [
+  {
+   "id": "hundred-num",
+   "headword": "hundred",
+   "pos": "number"
+  },
+  {
+   "id": "million-num",
+   "headword": "million",
+   "pos": "number"
+  },
+  {
+   "id": "thousand-num",
+   "headword": "thousand",
+   "pos": "number"
+  }
+ ]
+}

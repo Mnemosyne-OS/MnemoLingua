@@ -1,0 +1,302 @@
+[
+ {
+  "id": "g-1-1-a",
+  "headword": "I am not",
+  "pos": "grammar (NEG. DEC.)",
+  "theme": "g-be"
+ },
+ {
+  "id": "g-1-1-b",
+  "headword": "I am not",
+  "pos": "grammar (NEG. DEC.)",
+  "theme": "g-be"
+ },
+ {
+  "id": "g-3-a",
+  "headword": "he/she is",
+  "pos": "grammar (AFF. DEC.)",
+  "theme": "g-be"
+ },
+ {
+  "id": "g-3-b",
+  "headword": "he/she is",
+  "pos": "grammar (AFF. DEC.)",
+  "theme": "g-be"
+ },
+ {
+  "id": "g-5-a",
+  "headword": "they are",
+  "pos": "grammar (AFF. DEC.)",
+  "theme": "g-be"
+ },
+ {
+  "id": "g-5-b",
+  "headword": "they are",
+  "pos": "grammar (AFF. DEC.)",
+  "theme": "g-be"
+ },
+ {
+  "id": "g-10-a",
+  "headword": "It is",
+  "pos": "grammar (AFF. DEC.)",
+  "theme": "g-be"
+ },
+ {
+  "id": "g-10-b",
+  "headword": "It is",
+  "pos": "grammar (AFF. DEC.)",
+  "theme": "g-be"
+ },
+ {
+  "id": "g-58-1-a",
+  "headword": "TENSE/ASPECT: PRESENT (BE)",
+  "pos": "grammar (NEG. DEC.)",
+  "theme": "g-be"
+ },
+ {
+  "id": "g-58-1-b",
+  "headword": "TENSE/ASPECT: PRESENT (BE)",
+  "pos": "grammar (NEG. DEC.)",
+  "theme": "g-be"
+ },
+ {
+  "id": "g-64-a",
+  "headword": "TENSE/ASPECT: PAST (BE)",
+  "pos": "grammar (AFF. DEC.)",
+  "theme": "g-be"
+ },
+ {
+  "id": "g-64-b",
+  "headword": "TENSE/ASPECT: PAST (BE)",
+  "pos": "grammar (AFF. DEC.)",
+  "theme": "g-be"
+ },
+ {
+  "id": "g-59-1-a",
+  "headword": "TENSE/ASPECT: PRESENT (lexical verbs)",
+  "pos": "grammar (NEG. DEC.)",
+  "theme": "g-present"
+ },
+ {
+  "id": "g-59-1-b",
+  "headword": "TENSE/ASPECT: PRESENT (lexical verbs)",
+  "pos": "grammar (NEG. DEC.)",
+  "theme": "g-present"
+ },
+ {
+  "id": "g-60-a",
+  "headword": "TENSE/ASPECT: PRESENT (lexical verbs; third person & singular)",
+  "pos": "grammar (AFF. DEC.)",
+  "theme": "g-present"
+ },
+ {
+  "id": "g-60-b",
+  "headword": "TENSE/ASPECT: PRESENT (lexical verbs; third person & singular)",
+  "pos": "grammar (AFF. DEC.)",
+  "theme": "g-present"
+ },
+ {
+  "id": "g-123-a",
+  "headword": "MODAL/AUX: can",
+  "pos": "grammar (AFF. DEC.)",
+  "theme": "g-can"
+ },
+ {
+  "id": "g-123-b",
+  "headword": "MODAL/AUX: can",
+  "pos": "grammar (AFF. DEC.)",
+  "theme": "g-can"
+ },
+ {
+  "id": "g-146-a",
+  "headword": "there+be",
+  "pos": "grammar (AFF. DEC.)",
+  "theme": "g-can"
+ },
+ {
+  "id": "g-146-b",
+  "headword": "there+be",
+  "pos": "grammar (AFF. DEC.)",
+  "theme": "g-can"
+ },
+ {
+  "id": "g-120-a",
+  "headword": "let's (not followed by 'not')",
+  "pos": "grammar (AFF. DEC.)",
+  "theme": "g-can"
+ },
+ {
+  "id": "g-120-b",
+  "headword": "let's (not followed by 'not')",
+  "pos": "grammar (AFF. DEC.)",
+  "theme": "g-can"
+ },
+ {
+  "id": "g-7-a",
+  "headword": "me/us/him/her/them (except for 'you' and 'it')",
+  "pos": "grammar",
+  "theme": "g-words"
+ },
+ {
+  "id": "g-7-b",
+  "headword": "me/us/him/her/them (except for 'you' and 'it')",
+  "pos": "grammar",
+  "theme": "g-words"
+ },
+ {
+  "id": "g-14-a",
+  "headword": "DEFINITE ARTICLES",
+  "pos": "grammar",
+  "theme": "g-words"
+ },
+ {
+  "id": "g-14-b",
+  "headword": "DEFINITE ARTICLES",
+  "pos": "grammar",
+  "theme": "g-words"
+ },
+ {
+  "id": "g-16-a",
+  "headword": "DETERMINER: no",
+  "pos": "grammar",
+  "theme": "g-words"
+ },
+ {
+  "id": "g-16-b",
+  "headword": "DETERMINER: no",
+  "pos": "grammar",
+  "theme": "g-words"
+ },
+ {
+  "id": "g-24-a",
+  "headword": "INDEFINITE PRONOUNS",
+  "pos": "grammar",
+  "theme": "g-words"
+ },
+ {
+  "id": "g-24-b",
+  "headword": "INDEFINITE PRONOUNS",
+  "pos": "grammar",
+  "theme": "g-words"
+ },
+ {
+  "id": "g-33-a",
+  "headword": "ADVERBS: INTENSIFIERS: extremely/greatly/really/so/terribly/too/unbelievably/very",
+  "pos": "grammar",
+  "theme": "g-compare"
+ },
+ {
+  "id": "g-33-b",
+  "headword": "ADVERBS: INTENSIFIERS: extremely/greatly/really/so/terribly/too/unbelievably/very",
+  "pos": "grammar",
+  "theme": "g-compare"
+ },
+ {
+  "id": "g-38-a",
+  "headword": "COMPARATIVE OF SUPERIORITY: -er",
+  "pos": "grammar",
+  "theme": "g-compare"
+ },
+ {
+  "id": "g-38-b",
+  "headword": "COMPARATIVE OF SUPERIORITY: -er",
+  "pos": "grammar",
+  "theme": "g-compare"
+ },
+ {
+  "id": "g-235-a",
+  "headword": "WH- QUESTION: Why ...?",
+  "pos": "grammar (AFF. INT./NEG. INT.)",
+  "theme": "g-questions"
+ },
+ {
+  "id": "g-235-b",
+  "headword": "WH- QUESTION: Why ...?",
+  "pos": "grammar (AFF. INT./NEG. INT.)",
+  "theme": "g-questions"
+ },
+ {
+  "id": "g-245-a",
+  "headword": "WH- QUESTION: Where ...?",
+  "pos": "grammar (AFF. INT./NEG. INT.)",
+  "theme": "g-questions"
+ },
+ {
+  "id": "g-245-b",
+  "headword": "WH- QUESTION: Where ...?",
+  "pos": "grammar (AFF. INT./NEG. INT.)",
+  "theme": "g-questions"
+ },
+ {
+  "id": "g-247-a",
+  "headword": "WH- QUESTION: How ADJ/ADV ...?",
+  "pos": "grammar (AFF. INT./NEG. INT.)",
+  "theme": "g-questions"
+ },
+ {
+  "id": "g-247-b",
+  "headword": "WH- QUESTION: How ADJ/ADV ...?",
+  "pos": "grammar (AFF. INT./NEG. INT.)",
+  "theme": "g-questions"
+ },
+ {
+  "id": "g-150-a",
+  "headword": "COORDINATING CONJUNCTIONS",
+  "pos": "grammar",
+  "theme": "g-sentences"
+ },
+ {
+  "id": "g-150-b",
+  "headword": "COORDINATING CONJUNCTIONS",
+  "pos": "grammar",
+  "theme": "g-sentences"
+ },
+ {
+  "id": "g-161-a",
+  "headword": "SUBORDINATE CLAUSE: after/albeit/although/because/before/despite/except/for/lest/like/once/since/so/than/though/till/unless/until/where/whereas/wheresoever/whether/while/whilst tagged as IN",
+  "pos": "grammar",
+  "theme": "g-sentences"
+ },
+ {
+  "id": "g-161-b",
+  "headword": "SUBORDINATE CLAUSE: after/albeit/although/because/before/despite/except/for/lest/like/once/since/so/than/though/till/unless/until/where/whereas/wheresoever/whether/while/whilst tagged as IN",
+  "pos": "grammar",
+  "theme": "g-sentences"
+ },
+ {
+  "id": "g-88-a",
+  "headword": "TO-INFINITIVE: to DO (not preceded by 'not')",
+  "pos": "grammar",
+  "theme": "g-sentences"
+ },
+ {
+  "id": "g-88-b",
+  "headword": "TO-INFINITIVE: to DO (not preceded by 'not')",
+  "pos": "grammar",
+  "theme": "g-sentences"
+ },
+ {
+  "id": "g-103-a",
+  "headword": "VERB OBJECT to DO",
+  "pos": "grammar",
+  "theme": "g-sentences"
+ },
+ {
+  "id": "g-103-b",
+  "headword": "VERB OBJECT to DO",
+  "pos": "grammar",
+  "theme": "g-sentences"
+ },
+ {
+  "id": "g-112-a",
+  "headword": "VERB V-ING",
+  "pos": "grammar",
+  "theme": "g-sentences"
+ },
+ {
+  "id": "g-112-b",
+  "headword": "VERB V-ING",
+  "pos": "grammar",
+  "theme": "g-sentences"
+ }
+]

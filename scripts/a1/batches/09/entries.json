@@ -1,0 +1,616 @@
+[
+ {
+  "id": "sea-n",
+  "headword": "sea",
+  "pos": "noun",
+  "sourceTopics": [
+   "Nationalities and countries",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "seat-n",
+  "headword": "seat",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "second-adj",
+  "headword": "second",
+  "pos": "adjective"
+ },
+ {
+  "id": "section-n",
+  "headword": "section",
+  "pos": "noun"
+ },
+ {
+  "id": "see-v",
+  "headword": "see",
+  "pos": "verb"
+ },
+ {
+  "id": "self-n",
+  "headword": "self",
+  "pos": "noun"
+ },
+ {
+  "id": "sell-v",
+  "headword": "sell",
+  "pos": "verb"
+ },
+ {
+  "id": "sentence-n",
+  "headword": "sentence",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Education"
+  ]
+ },
+ {
+  "id": "september-n",
+  "headword": "September",
+  "pos": "noun"
+ },
+ {
+  "id": "set-v",
+  "headword": "set",
+  "pos": "verb"
+ },
+ {
+  "id": "share-v",
+  "headword": "share",
+  "pos": "verb"
+ },
+ {
+  "id": "she-pron",
+  "headword": "she",
+  "pos": "pronoun"
+ },
+ {
+  "id": "sheep-n",
+  "headword": "sheep",
+  "pos": "noun"
+ },
+ {
+  "id": "shelf-n",
+  "headword": "shelf",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "ship-n",
+  "headword": "ship",
+  "pos": "noun",
+  "sourceTopics": [
+   "Ways of travelling",
+   "Travel"
+  ]
+ },
+ {
+  "id": "shirt-n",
+  "headword": "shirt",
+  "pos": "noun",
+  "sourceTopics": [
+   "Clothes",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "shoe-n",
+  "headword": "shoe",
+  "pos": "noun",
+  "sourceTopics": [
+   "Clothes",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "shop-n",
+  "headword": "shop",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "Daily life"
+  ]
+ },
+ {
+  "id": "shopping-n",
+  "headword": "shopping",
+  "pos": "noun",
+  "sourceTopics": [
+   "Shopping",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "short-adj",
+  "headword": "short",
+  "pos": "adjective"
+ },
+ {
+  "id": "should-modal",
+  "headword": "should",
+  "pos": "modal auxiliary"
+ },
+ {
+  "id": "shoulder-n",
+  "headword": "shoulder",
+  "pos": "noun",
+  "sourceTopics": [
+   "Health and body care"
+  ]
+ },
+ {
+  "id": "show-v",
+  "headword": "show",
+  "pos": "verb"
+ },
+ {
+  "id": "shower-n",
+  "headword": "shower",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "shy-adj",
+  "headword": "shy",
+  "pos": "adjective"
+ },
+ {
+  "id": "sick-adj",
+  "headword": "sick",
+  "pos": "adjective"
+ },
+ {
+  "id": "side-n",
+  "headword": "side",
+  "pos": "noun"
+ },
+ {
+  "id": "sight-n",
+  "headword": "sight",
+  "pos": "noun"
+ },
+ {
+  "id": "sign-n",
+  "headword": "sign",
+  "pos": "noun",
+  "sourceTopics": [
+   "Personal information",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "sing-v",
+  "headword": "sing",
+  "pos": "verb"
+ },
+ {
+  "id": "sir-n",
+  "headword": "sir",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel and services vocab",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "sister-n",
+  "headword": "sister",
+  "pos": "noun",
+  "sourceTopics": [
+   "Family life",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "sit-v",
+  "headword": "sit",
+  "pos": "verb"
+ },
+ {
+  "id": "site-n",
+  "headword": "site",
+  "pos": "noun"
+ },
+ {
+  "id": "size-n",
+  "headword": "size",
+  "pos": "noun",
+  "sourceTopics": [
+   "Clothes",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "skill-n",
+  "headword": "skill",
+  "pos": "noun"
+ },
+ {
+  "id": "skirt-n",
+  "headword": "skirt",
+  "pos": "noun",
+  "sourceTopics": [
+   "Clothes",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "sky-n",
+  "headword": "sky",
+  "pos": "noun",
+  "sourceTopics": [
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "sleep-v",
+  "headword": "sleep",
+  "pos": "verb"
+ },
+ {
+  "id": "slow-adj",
+  "headword": "slow",
+  "pos": "adjective"
+ },
+ {
+  "id": "smart-adj",
+  "headword": "smart",
+  "pos": "adjective"
+ },
+ {
+  "id": "smell-n",
+  "headword": "smell",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "smile-n",
+  "headword": "smile",
+  "pos": "noun"
+ },
+ {
+  "id": "smith-n",
+  "headword": "smith",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "smoke-n",
+  "headword": "smoke",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "smoking-n",
+  "headword": "smoking",
+  "pos": "noun",
+  "sourceTopics": [
+   "Hobbies and pastimes",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "snake-n",
+  "headword": "snake",
+  "pos": "noun"
+ },
+ {
+  "id": "snow-n",
+  "headword": "snow",
+  "pos": "noun",
+  "sourceTopics": [
+   "Media",
+   "Weather"
+  ]
+ },
+ {
+  "id": "snowy-adj",
+  "headword": "snowy",
+  "pos": "adjective"
+ },
+ {
+  "id": "so-conj",
+  "headword": "so",
+  "pos": "conjunction"
+ },
+ {
+  "id": "social-adj",
+  "headword": "social",
+  "pos": "adjective"
+ },
+ {
+  "id": "sofa-n",
+  "headword": "sofa",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "solve-v",
+  "headword": "solve",
+  "pos": "verb"
+ },
+ {
+  "id": "some-det",
+  "headword": "some",
+  "pos": "determiner"
+ },
+ {
+  "id": "some-pron",
+  "headword": "some",
+  "pos": "pronoun"
+ },
+ {
+  "id": "someone-pron",
+  "headword": "someone",
+  "pos": "pronoun"
+ },
+ {
+  "id": "something-pron",
+  "headword": "something",
+  "pos": "pronoun"
+ },
+ {
+  "id": "son-n",
+  "headword": "son",
+  "pos": "noun",
+  "sourceTopics": [
+   "Family life",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "song-n",
+  "headword": "song",
+  "pos": "noun",
+  "sourceTopics": [
+   "Hobbies and pastimes",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "soon-adv",
+  "headword": "soon",
+  "pos": "adverb"
+ },
+ {
+  "id": "soup-n",
+  "headword": "soup",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "speak-v",
+  "headword": "speak",
+  "pos": "verb"
+ },
+ {
+  "id": "special-adj",
+  "headword": "special",
+  "pos": "adjective"
+ },
+ {
+  "id": "speech-n",
+  "headword": "speech",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs"
+  ]
+ },
+ {
+  "id": "spell-n",
+  "headword": "spell",
+  "pos": "noun"
+ },
+ {
+  "id": "spend-v",
+  "headword": "spend",
+  "pos": "verb"
+ },
+ {
+  "id": "sport-n",
+  "headword": "sport",
+  "pos": "noun",
+  "sourceTopics": [
+   "Hobbies and lifestyles",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "spot-n",
+  "headword": "spot",
+  "pos": "noun"
+ },
+ {
+  "id": "spring-n",
+  "headword": "spring",
+  "pos": "noun"
+ },
+ {
+  "id": "spy-n",
+  "headword": "spy",
+  "pos": "noun",
+  "sourceTopics": [
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "stand-n",
+  "headword": "stand",
+  "pos": "noun"
+ },
+ {
+  "id": "star-n",
+  "headword": "star",
+  "pos": "noun",
+  "sourceTopics": [
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "start-n",
+  "headword": "start",
+  "pos": "noun"
+ },
+ {
+  "id": "start-v",
+  "headword": "start",
+  "pos": "verb"
+ },
+ {
+  "id": "station-n",
+  "headword": "station",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "Travel"
+  ]
+ },
+ {
+  "id": "stay-v",
+  "headword": "stay",
+  "pos": "verb"
+ },
+ {
+  "id": "step-v",
+  "headword": "step",
+  "pos": "verb"
+ },
+ {
+  "id": "still-adj",
+  "headword": "still",
+  "pos": "adjective"
+ },
+ {
+  "id": "stone-n",
+  "headword": "stone",
+  "pos": "noun"
+ },
+ {
+  "id": "stop-n",
+  "headword": "stop",
+  "pos": "noun"
+ },
+ {
+  "id": "store-n",
+  "headword": "store",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping"
+  ]
+ },
+ {
+  "id": "story-n",
+  "headword": "story",
+  "pos": "noun",
+  "sourceTopics": [
+   "Books and literature",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "straight-adv",
+  "headword": "straight",
+  "pos": "adverb"
+ },
+ {
+  "id": "strange-adj",
+  "headword": "strange",
+  "pos": "adjective"
+ },
+ {
+  "id": "street-n",
+  "headword": "street",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "strict-adj",
+  "headword": "strict",
+  "pos": "adjective"
+ },
+ {
+  "id": "strong-adj",
+  "headword": "strong",
+  "pos": "adjective"
+ },
+ {
+  "id": "student-n",
+  "headword": "student",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Education"
+  ]
+ },
+ {
+  "id": "study-v",
+  "headword": "study",
+  "pos": "verb"
+ },
+ {
+  "id": "subject-n",
+  "headword": "subject",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education"
+  ]
+ },
+ {
+  "id": "successful-adj",
+  "headword": "successful",
+  "pos": "adjective"
+ },
+ {
+  "id": "sugar-n",
+  "headword": "sugar",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "suggestion-n",
+  "headword": "suggestion",
+  "pos": "noun"
+ },
+ {
+  "id": "sum-n",
+  "headword": "sum",
+  "pos": "noun"
+ },
+ {
+  "id": "summer-n",
+  "headword": "summer",
+  "pos": "noun"
+ }
+]

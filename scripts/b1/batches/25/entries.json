@@ -1,0 +1,546 @@
+[
+ {
+  "id": "unafraid-adj",
+  "headword": "unafraid",
+  "pos": "adjective"
+ },
+ {
+  "id": "unbelievable-adj",
+  "headword": "unbelievable",
+  "pos": "adjective"
+ },
+ {
+  "id": "uncertainty-n",
+  "headword": "uncertainty",
+  "pos": "noun"
+ },
+ {
+  "id": "unclear-adj",
+  "headword": "unclear",
+  "pos": "adjective"
+ },
+ {
+  "id": "uncontrollable-adj",
+  "headword": "uncontrollable",
+  "pos": "adjective"
+ },
+ {
+  "id": "uncover-v",
+  "headword": "uncover",
+  "pos": "verb"
+ },
+ {
+  "id": "underage-adj",
+  "headword": "underage",
+  "pos": "adjective"
+ },
+ {
+  "id": "undergo-v",
+  "headword": "undergo",
+  "pos": "verb"
+ },
+ {
+  "id": "underline-v",
+  "headword": "underline",
+  "pos": "verb"
+ },
+ {
+  "id": "underneath-prep",
+  "headword": "underneath",
+  "pos": "preposition"
+ },
+ {
+  "id": "underpants-n",
+  "headword": "underpants",
+  "pos": "noun",
+  "sourceTopics": [
+   "Clothes",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "undo-v",
+  "headword": "undo",
+  "pos": "verb"
+ },
+ {
+  "id": "undress-v",
+  "headword": "undress",
+  "pos": "verb"
+ },
+ {
+  "id": "unemployed-adj",
+  "headword": "unemployed",
+  "pos": "adjective"
+ },
+ {
+  "id": "unemployment-n",
+  "headword": "unemployment",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Daily life"
+  ]
+ },
+ {
+  "id": "unexpected-adj",
+  "headword": "unexpected",
+  "pos": "adjective"
+ },
+ {
+  "id": "unexpectedly-adv",
+  "headword": "unexpectedly",
+  "pos": "adverb"
+ },
+ {
+  "id": "unfairly-adv",
+  "headword": "unfairly",
+  "pos": "adverb"
+ },
+ {
+  "id": "unfit-adj",
+  "headword": "unfit",
+  "pos": "adjective"
+ },
+ {
+  "id": "unfold-v",
+  "headword": "unfold",
+  "pos": "verb"
+ },
+ {
+  "id": "unfortunate-adj",
+  "headword": "unfortunate",
+  "pos": "adjective"
+ },
+ {
+  "id": "unfriendly-adj",
+  "headword": "unfriendly",
+  "pos": "adjective"
+ },
+ {
+  "id": "unheard-adj",
+  "headword": "unheard",
+  "pos": "adjective"
+ },
+ {
+  "id": "unify-v",
+  "headword": "unify",
+  "pos": "verb"
+ },
+ {
+  "id": "uninterested-adj",
+  "headword": "uninterested",
+  "pos": "adjective"
+ },
+ {
+  "id": "uninteresting-adj",
+  "headword": "uninteresting",
+  "pos": "adjective"
+ },
+ {
+  "id": "union-n",
+  "headword": "union",
+  "pos": "noun"
+ },
+ {
+  "id": "unique-adj",
+  "headword": "unique",
+  "pos": "adjective"
+ },
+ {
+  "id": "unite-v",
+  "headword": "unite",
+  "pos": "verb"
+ },
+ {
+  "id": "universe-n",
+  "headword": "universe",
+  "pos": "noun"
+ },
+ {
+  "id": "unless-conj",
+  "headword": "unless",
+  "pos": "conjunction"
+ },
+ {
+  "id": "unlikely-adj",
+  "headword": "unlikely",
+  "pos": "adjective"
+ },
+ {
+  "id": "unlucky-adj",
+  "headword": "unlucky",
+  "pos": "adjective"
+ },
+ {
+  "id": "unpack-v",
+  "headword": "unpack",
+  "pos": "verb"
+ },
+ {
+  "id": "unpredictable-adj",
+  "headword": "unpredictable",
+  "pos": "adjective"
+ },
+ {
+  "id": "unrelated-adj",
+  "headword": "unrelated",
+  "pos": "adjective"
+ },
+ {
+  "id": "untidy-adj",
+  "headword": "untidy",
+  "pos": "adjective"
+ },
+ {
+  "id": "until-conj",
+  "headword": "until",
+  "pos": "conjunction"
+ },
+ {
+  "id": "unusually-adv",
+  "headword": "unusually",
+  "pos": "adverb"
+ },
+ {
+  "id": "unwanted-adj",
+  "headword": "unwanted",
+  "pos": "adjective"
+ },
+ {
+  "id": "unwell-adj",
+  "headword": "unwell",
+  "pos": "adjective"
+ },
+ {
+  "id": "update-v",
+  "headword": "update",
+  "pos": "verb"
+ },
+ {
+  "id": "uplifted-adj",
+  "headword": "uplifted",
+  "pos": "adjective"
+ },
+ {
+  "id": "upload-v",
+  "headword": "upload",
+  "pos": "verb"
+ },
+ {
+  "id": "upper-adj",
+  "headword": "upper",
+  "pos": "adjective"
+ },
+ {
+  "id": "upstairs-adj",
+  "headword": "upstairs",
+  "pos": "adjective"
+ },
+ {
+  "id": "upstairs-n",
+  "headword": "upstairs",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "up-to-date-adj",
+  "headword": "up-to-date",
+  "pos": "adjective"
+ },
+ {
+  "id": "upward-adj",
+  "headword": "upward",
+  "pos": "adjective"
+ },
+ {
+  "id": "urge-n",
+  "headword": "urge",
+  "pos": "noun"
+ },
+ {
+  "id": "urgent-adj",
+  "headword": "urgent",
+  "pos": "adjective"
+ },
+ {
+  "id": "usage-n",
+  "headword": "usage",
+  "pos": "noun"
+ },
+ {
+  "id": "used-to-modal",
+  "headword": "used to",
+  "pos": "modal auxiliary"
+ },
+ {
+  "id": "useless-adj",
+  "headword": "useless",
+  "pos": "adjective"
+ },
+ {
+  "id": "vacancy-n",
+  "headword": "vacancy",
+  "pos": "noun"
+ },
+ {
+  "id": "vague-adj",
+  "headword": "vague",
+  "pos": "adjective"
+ },
+ {
+  "id": "vain-adj",
+  "headword": "vain",
+  "pos": "adjective"
+ },
+ {
+  "id": "valuable-adj",
+  "headword": "valuable",
+  "pos": "adjective"
+ },
+ {
+  "id": "van-n",
+  "headword": "van",
+  "pos": "noun",
+  "sourceTopics": [
+   "Ways of travelling",
+   "Travel"
+  ]
+ },
+ {
+  "id": "variety-n",
+  "headword": "variety",
+  "pos": "noun"
+ },
+ {
+  "id": "various-adj",
+  "headword": "various",
+  "pos": "adjective"
+ },
+ {
+  "id": "vary-v",
+  "headword": "vary",
+  "pos": "verb"
+ },
+ {
+  "id": "vast-adj",
+  "headword": "vast",
+  "pos": "adjective"
+ },
+ {
+  "id": "vegetarian-adj",
+  "headword": "vegetarian",
+  "pos": "adjective"
+ },
+ {
+  "id": "vegetarian-n",
+  "headword": "vegetarian",
+  "pos": "noun",
+  "sourceTopics": [
+   "Personal information",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "vehicle-n",
+  "headword": "vehicle",
+  "pos": "noun",
+  "sourceTopics": [
+   "Ways of travelling",
+   "Travel"
+  ]
+ },
+ {
+  "id": "vein-n",
+  "headword": "vein",
+  "pos": "noun"
+ },
+ {
+  "id": "vessel-n",
+  "headword": "vessel",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "vet-n",
+  "headword": "vet",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "via-prep",
+  "headword": "via",
+  "pos": "preposition"
+ },
+ {
+  "id": "vice-adj",
+  "headword": "vice",
+  "pos": "adjective"
+ },
+ {
+  "id": "vice-president-n",
+  "headword": "vice president",
+  "pos": "noun"
+ },
+ {
+  "id": "victim-n",
+  "headword": "victim",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs",
+   "Relations with other people"
+  ]
+ },
+ {
+  "id": "victory-n",
+  "headword": "victory",
+  "pos": "noun",
+  "sourceTopics": [
+   "Relations with other people"
+  ]
+ },
+ {
+  "id": "video-clip-n",
+  "headword": "video clip",
+  "pos": "noun",
+  "sourceTopics": [
+   "Media",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "view-v",
+  "headword": "view",
+  "pos": "verb"
+ },
+ {
+  "id": "viewpoint-n",
+  "headword": "viewpoint",
+  "pos": "noun"
+ },
+ {
+  "id": "violence-n",
+  "headword": "violence",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs",
+   "Relations with other people"
+  ]
+ },
+ {
+  "id": "violently-adv",
+  "headword": "violently",
+  "pos": "adverb"
+ },
+ {
+  "id": "virtual-adj",
+  "headword": "virtual",
+  "pos": "adjective"
+ },
+ {
+  "id": "virus-n",
+  "headword": "virus",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel and services vocab",
+   "Health and body care"
+  ]
+ },
+ {
+  "id": "visa-n",
+  "headword": "visa",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel and services vocab",
+   "Travel"
+  ]
+ },
+ {
+  "id": "visible-adj",
+  "headword": "visible",
+  "pos": "adjective"
+ },
+ {
+  "id": "vision-n",
+  "headword": "vision",
+  "pos": "noun"
+ },
+ {
+  "id": "visual-adj",
+  "headword": "visual",
+  "pos": "adjective"
+ },
+ {
+  "id": "visually-adv",
+  "headword": "visually",
+  "pos": "adverb"
+ },
+ {
+  "id": "vivid-adj",
+  "headword": "vivid",
+  "pos": "adjective"
+ },
+ {
+  "id": "vividly-adv",
+  "headword": "vividly",
+  "pos": "adverb"
+ },
+ {
+  "id": "volcano-n",
+  "headword": "volcano",
+  "pos": "noun",
+  "sourceTopics": [
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "volume-n",
+  "headword": "volume",
+  "pos": "noun",
+  "sourceTopics": [
+   "Books and literature"
+  ]
+ },
+ {
+  "id": "volunteer-v",
+  "headword": "volunteer",
+  "pos": "verb"
+ },
+ {
+  "id": "vote-v",
+  "headword": "vote",
+  "pos": "verb"
+ },
+ {
+  "id": "vowel-n",
+  "headword": "vowel",
+  "pos": "noun"
+ },
+ {
+  "id": "voyage-n",
+  "headword": "voyage",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel and services vocab",
+   "Travel"
+  ]
+ },
+ {
+  "id": "wagon-n",
+  "headword": "wagon",
+  "pos": "noun",
+  "sourceTopics": [
+   "Ways of travelling",
+   "Travel"
+  ]
+ }
+]

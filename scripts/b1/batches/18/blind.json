@@ -1,0 +1,952 @@
+{
+  "plenty-pron": {
+    "gloss": {
+      "fr": "beaucoup",
+      "es": "de sobra"
+    },
+    "exampleGloss": {
+      "fr": "N'achète pas plus de pain. On en a plein à la maison.",
+      "es": "No compres más pan. Tenemos de sobra en casa."
+    }
+  },
+  "plug-n": {
+    "gloss": {
+      "fr": "la prise (fiche)",
+      "es": "el enchufe"
+    },
+    "exampleGloss": {
+      "fr": "La prise de cette lampe ne rentre pas dans les prises espagnoles.",
+      "es": "El enchufe de esta lámpara no encaja en los enchufes de España."
+    }
+  },
+  "plus-conj": {
+    "gloss": {
+      "fr": "en plus",
+      "es": "además"
+    },
+    "exampleGloss": {
+      "fr": "L'hôtel n'était pas cher, et en plus il était près de la plage.",
+      "es": "El hotel era barato y, además, estaba cerca de la playa."
+    }
+  },
+  "pocket-money-n": {
+    "gloss": {
+      "fr": "l'argent de poche",
+      "es": "la paga"
+    },
+    "exampleGloss": {
+      "fr": "Mes parents me donnent dix euros d'argent de poche chaque semaine.",
+      "es": "Mis padres me dan diez euros de paga cada semana."
+    }
+  },
+  "poet-n": {
+    "gloss": {
+      "fr": "le poète",
+      "es": "el poeta"
+    },
+    "exampleGloss": {
+      "fr": "Le poète a lu ses nouveaux poèmes devant un petit public.",
+      "es": "El poeta leyó sus nuevos poemas ante un público reducido."
+    }
+  },
+  "poetry-n": {
+    "gloss": {
+      "fr": "la poésie",
+      "es": "la poesía"
+    },
+    "exampleGloss": {
+      "fr": "Elle aime lire de la poésie, surtout des poèmes sur la nature.",
+      "es": "Le gusta leer poesía, sobre todo poemas sobre la naturaleza."
+    }
+  },
+  "poison-n": {
+    "gloss": {
+      "fr": "le poison",
+      "es": "el veneno"
+    },
+    "exampleGloss": {
+      "fr": "Garde la mort-aux-rats hors de portée des enfants et des animaux.",
+      "es": "Mantén el veneno para ratas lejos de los niños y las mascotas."
+    }
+  },
+  "poisonous-adj": {
+    "gloss": {
+      "fr": "vénéneux",
+      "es": "venenoso"
+    },
+    "exampleGloss": {
+      "fr": "Ne mange pas ces champignons, certains sont vénéneux.",
+      "es": "No comas esas setas porque algunas son venenosas."
+    }
+  },
+  "pole-n": {
+    "gloss": {
+      "fr": "le mât",
+      "es": "el mástil"
+    },
+    "exampleGloss": {
+      "fr": "Ils ont hissé le drapeau en haut d'un grand mât.",
+      "es": "Colgaron la bandera en lo alto de un mástil alto."
+    }
+  },
+  "policy-n": {
+    "gloss": {
+      "fr": "la politique (règle)",
+      "es": "la política"
+    },
+    "exampleGloss": {
+      "fr": "L'entreprise a une nouvelle politique sur le télétravail.",
+      "es": "La empresa tiene una nueva política sobre el teletrabajo."
+    }
+  },
+  "politely-adv": {
+    "gloss": {
+      "fr": "poliment",
+      "es": "educadamente"
+    },
+    "exampleGloss": {
+      "fr": "Il a poliment demandé un autre verre d'eau au serveur.",
+      "es": "Le pidió educadamente otro vaso de agua al camarero."
+    }
+  },
+  "politician-n": {
+    "gloss": {
+      "fr": "l'homme politique",
+      "es": "el político"
+    },
+    "exampleGloss": {
+      "fr": "L'homme politique a promis de construire un nouvel hôpital en ville.",
+      "es": "El político prometió construir un hospital nuevo en el pueblo."
+    }
+  },
+  "politics-n": {
+    "gloss": {
+      "fr": "la politique",
+      "es": "la política"
+    },
+    "exampleGloss": {
+      "fr": "Mon oncle adore parler de politique aux repas de famille.",
+      "es": "A mi tío le encanta hablar de política en las comidas familiares."
+    }
+  },
+  "pollutant-n": {
+    "gloss": {
+      "fr": "le polluant",
+      "es": "el contaminante"
+    },
+    "exampleGloss": {
+      "fr": "Les voitures produisent des polluants qui salissent l'air.",
+      "es": "Los coches producen contaminantes que ensucian el aire."
+    }
+  },
+  "pond-n": {
+    "gloss": {
+      "fr": "l'étang",
+      "es": "el estanque"
+    },
+    "exampleGloss": {
+      "fr": "Il y a des poissons et des grenouilles dans l'étang du parc.",
+      "es": "Hay peces y ranas en el estanque del parque."
+    }
+  },
+  "popcorn-n": {
+    "gloss": {
+      "fr": "le pop-corn",
+      "es": "las palomitas"
+    },
+    "exampleGloss": {
+      "fr": "On achète toujours une grande boîte de pop-corn au cinéma.",
+      "es": "Siempre compramos una caja grande de palomitas en el cine."
+    }
+  },
+  "pork-n": {
+    "gloss": {
+      "fr": "le porc",
+      "es": "el cerdo"
+    },
+    "exampleGloss": {
+      "fr": "Nous avons mangé du rôti de porc avec des pommes de terre au déjeuner du dimanche.",
+      "es": "Comimos cerdo asado con patatas en la comida del domingo."
+    }
+  },
+  "port-n": {
+    "gloss": {
+      "fr": "le port",
+      "es": "el puerto"
+    },
+    "exampleGloss": {
+      "fr": "Le navire est resté deux jours au port.",
+      "es": "El barco se quedó dos días en el puerto."
+    }
+  },
+  "positive-adj": {
+    "gloss": {
+      "fr": "positif",
+      "es": "positivo"
+    },
+    "exampleGloss": {
+      "fr": "Essaie de rester positif, même quand les choses tournent mal.",
+      "es": "Intenta mantenerte positivo, incluso cuando las cosas salen mal."
+    }
+  },
+  "positively-adv": {
+    "gloss": {
+      "fr": "positivement",
+      "es": "positivamente"
+    },
+    "exampleGloss": {
+      "fr": "Les élèves ont réagi positivement au nouvel emploi du temps.",
+      "es": "Los alumnos reaccionaron positivamente al nuevo horario."
+    }
+  },
+  "possess-v": {
+    "gloss": {
+      "fr": "posséder",
+      "es": "tener"
+    },
+    "exampleGloss": {
+      "fr": "Il ne possède pas de voiture, alors il va partout à vélo.",
+      "es": "No tiene coche, así que va a todas partes en bici."
+    }
+  },
+  "possession-n": {
+    "gloss": {
+      "fr": "le bien",
+      "es": "la posesión"
+    },
+    "exampleGloss": {
+      "fr": "Cette vieille montre est mon bien le plus précieux.",
+      "es": "El reloj viejo es mi posesión más valiosa."
+    }
+  },
+  "possessive-adj": {
+    "gloss": {
+      "fr": "possessif",
+      "es": "posesivo"
+    },
+    "exampleGloss": {
+      "fr": "Elle l'a quitté parce qu'il était trop possessif et jaloux.",
+      "es": "Lo dejó porque era demasiado posesivo y celoso."
+    }
+  },
+  "possibility-n": {
+    "gloss": {
+      "fr": "la possibilité",
+      "es": "la posibilidad"
+    },
+    "exampleGloss": {
+      "fr": "Il est possible qu'il pleuve cet après-midi.",
+      "es": "Hay posibilidad de lluvia esta tarde."
+    }
+  },
+  "postcard-n": {
+    "gloss": {
+      "fr": "la carte postale",
+      "es": "la postal"
+    },
+    "exampleGloss": {
+      "fr": "J'ai envoyé une carte postale de la plage à ma grand-mère.",
+      "es": "Le mandé una postal a mi abuela desde la playa."
+    }
+  },
+  "postman-n": {
+    "gloss": {
+      "fr": "le facteur",
+      "es": "el cartero"
+    },
+    "exampleGloss": {
+      "fr": "Le facteur nous apporte le courrier tous les matins à dix heures.",
+      "es": "El cartero nos trae las cartas todas las mañanas a las diez."
+    }
+  },
+  "pot-n": {
+    "gloss": {
+      "fr": "la marmite",
+      "es": "la olla"
+    },
+    "exampleGloss": {
+      "fr": "Elle a fait cuire la soupe dans une grande marmite.",
+      "es": "Hizo la sopa en una olla grande."
+    }
+  },
+  "potential-n": {
+    "gloss": {
+      "fr": "le potentiel",
+      "es": "el potencial"
+    },
+    "exampleGloss": {
+      "fr": "L'entraîneur pense que le jeune joueur a un grand potentiel.",
+      "es": "El entrenador cree que el joven jugador tiene mucho potencial."
+    }
+  },
+  "pottery-n": {
+    "gloss": {
+      "fr": "la poterie",
+      "es": "la cerámica"
+    },
+    "exampleGloss": {
+      "fr": "Nous avons acheté de belles poteries au marché en Grèce.",
+      "es": "Compramos una cerámica preciosa en el mercado en Grecia."
+    }
+  },
+  "pound-n": {
+    "gloss": {
+      "fr": "la livre",
+      "es": "la libra"
+    },
+    "exampleGloss": {
+      "fr": "Ce sandwich coûte quatre livres à Londres.",
+      "es": "Este sándwich cuesta cuatro libras en Londres."
+    }
+  },
+  "poverty-n": {
+    "gloss": {
+      "fr": "la pauvreté",
+      "es": "la pobreza"
+    },
+    "exampleGloss": {
+      "fr": "Beaucoup de familles de la ville vivent dans la pauvreté.",
+      "es": "Muchas familias de la ciudad viven en la pobreza."
+    }
+  },
+  "powder-n": {
+    "gloss": {
+      "fr": "la poudre",
+      "es": "el polvo"
+    },
+    "exampleGloss": {
+      "fr": "Mets deux cuillerées de lessive en poudre dans la machine.",
+      "es": "Echa dos cucharadas de detergente en polvo en la lavadora."
+    }
+  },
+  "practical-adj": {
+    "gloss": {
+      "fr": "pratique",
+      "es": "práctico"
+    },
+    "exampleGloss": {
+      "fr": "Les baskets sont plus pratiques que les talons hauts pour une longue marche.",
+      "es": "Las zapatillas son más prácticas que los tacones para una caminata larga."
+    }
+  },
+  "praise-n": {
+    "gloss": {
+      "fr": "les éloges",
+      "es": "los elogios"
+    },
+    "exampleGloss": {
+      "fr": "Le jeune chef a reçu beaucoup d'éloges pour sa cuisine.",
+      "es": "El joven cocinero recibió muchos elogios por su cocina."
+    }
+  },
+  "prayer-n": {
+    "gloss": {
+      "fr": "la prière",
+      "es": "la oración"
+    },
+    "exampleGloss": {
+      "fr": "Avant le dîner, la famille dit une courte prière.",
+      "es": "Antes de cenar, la familia reza una breve oración."
+    }
+  },
+  "precious-adj": {
+    "gloss": {
+      "fr": "précieux",
+      "es": "precioso"
+    },
+    "exampleGloss": {
+      "fr": "L'or et l'argent sont des métaux précieux.",
+      "es": "El oro y la plata son metales preciosos."
+    }
+  },
+  "preference-n": {
+    "gloss": {
+      "fr": "la préférence",
+      "es": "la preferencia"
+    },
+    "exampleGloss": {
+      "fr": "Vous avez une préférence pour la place côté hublot ou côté couloir ?",
+      "es": "¿Tiene preferencia por el asiento de ventanilla o de pasillo?"
+    }
+  },
+  "prefix-n": {
+    "gloss": {
+      "fr": "le préfixe",
+      "es": "el prefijo"
+    },
+    "exampleGloss": {
+      "fr": "Le préfixe « un » transforme « happy » en « unhappy ».",
+      "es": "El prefijo «un» convierte «happy» en «unhappy»."
+    }
+  },
+  "pregnant-adj": {
+    "gloss": {
+      "fr": "enceinte",
+      "es": "embarazada"
+    },
+    "exampleGloss": {
+      "fr": "Ma sœur est enceinte et le bébé arrivera en mai.",
+      "es": "Mi hermana está embarazada y el bebé llegará en mayo."
+    }
+  },
+  "prejudice-n": {
+    "gloss": {
+      "fr": "les préjugés",
+      "es": "los prejuicios"
+    },
+    "exampleGloss": {
+      "fr": "Nous devons lutter contre les préjugés envers les personnes venues d'autres pays.",
+      "es": "Debemos luchar contra los prejuicios hacia la gente de otros países."
+    }
+  },
+  "preparation-n": {
+    "gloss": {
+      "fr": "la préparation",
+      "es": "la preparación"
+    },
+    "exampleGloss": {
+      "fr": "Une bonne préparation est la clé pour réussir ses examens.",
+      "es": "Una buena preparación es la clave para aprobar los exámenes."
+    }
+  },
+  "prepared-adj": {
+    "gloss": {
+      "fr": "prêt",
+      "es": "preparado"
+    },
+    "exampleGloss": {
+      "fr": "Tu es prêt pour l'entretien d'embauche de demain ?",
+      "es": "¿Estás preparado para la entrevista de trabajo de mañana?"
+    }
+  },
+  "preposition-n": {
+    "gloss": {
+      "fr": "la préposition",
+      "es": "la preposición"
+    },
+    "exampleGloss": {
+      "fr": "« On » est la bonne préposition dans « on Monday ».",
+      "es": "«On» es la preposición correcta en «on Monday»."
+    }
+  },
+  "preschool-adj": {
+    "gloss": {
+      "fr": "d'âge préscolaire",
+      "es": "preescolar"
+    },
+    "exampleGloss": {
+      "fr": "Les enfants d'âge préscolaire apprennent avec des chansons et des jeux.",
+      "es": "Los niños en edad preescolar aprenden con canciones y juegos."
+    }
+  },
+  "prescription-n": {
+    "gloss": {
+      "fr": "l'ordonnance",
+      "es": "la receta"
+    },
+    "exampleGloss": {
+      "fr": "Le médecin m'a fait une ordonnance pour des antibiotiques.",
+      "es": "El médico me dio una receta para unos antibióticos."
+    }
+  },
+  "presence-n": {
+    "gloss": {
+      "fr": "la présence",
+      "es": "la presencia"
+    },
+    "exampleGloss": {
+      "fr": "La présence de la police a rassuré tout le monde.",
+      "es": "La presencia de la policía hizo que todos se sintieran más seguros."
+    }
+  },
+  "present-adj": {
+    "gloss": {
+      "fr": "présent",
+      "es": "presente"
+    },
+    "exampleGloss": {
+      "fr": "Vingt élèves étaient présents à la réunion.",
+      "es": "Había veinte alumnos presentes en la reunión."
+    }
+  },
+  "presentation-n": {
+    "gloss": {
+      "fr": "l'exposé",
+      "es": "la presentación"
+    },
+    "exampleGloss": {
+      "fr": "Demain, je dois faire un exposé devant toute la classe.",
+      "es": "Mañana tengo que hacer una presentación delante de toda la clase."
+    }
+  },
+  "preservation-n": {
+    "gloss": {
+      "fr": "la préservation",
+      "es": "la conservación"
+    },
+    "exampleGloss": {
+      "fr": "Le groupe œuvre pour la préservation des bâtiments anciens.",
+      "es": "El grupo trabaja por la conservación de los edificios antiguos."
+    }
+  },
+  "preserve-v": {
+    "gloss": {
+      "fr": "conserver",
+      "es": "conservar"
+    },
+    "exampleGloss": {
+      "fr": "Le sel aide à conserver le poisson longtemps.",
+      "es": "La sal ayuda a conservar el pescado durante mucho tiempo."
+    }
+  },
+  "president-n": {
+    "gloss": {
+      "fr": "le président",
+      "es": "el presidente"
+    },
+    "exampleGloss": {
+      "fr": "Le président se rendra dans notre pays le mois prochain.",
+      "es": "El presidente visitará nuestro país el mes que viene."
+    }
+  },
+  "press-n": {
+    "gloss": {
+      "fr": "la presse",
+      "es": "la prensa"
+    },
+    "exampleGloss": {
+      "fr": "L'acteur a refusé de parler de son mariage à la presse.",
+      "es": "El actor se negó a hablar con la prensa sobre su matrimonio."
+    }
+  },
+  "press-v": {
+    "gloss": {
+      "fr": "appuyer sur",
+      "es": "pulsar"
+    },
+    "exampleGloss": {
+      "fr": "Appuie sur le bouton vert pour mettre la machine en marche.",
+      "es": "Pulsa el botón verde para poner en marcha la máquina."
+    }
+  },
+  "previous-adj": {
+    "gloss": {
+      "fr": "précédent",
+      "es": "anterior"
+    },
+    "exampleGloss": {
+      "fr": "J'aimais plus mon travail précédent que celui-ci.",
+      "es": "Me gustaba más mi trabajo anterior que este."
+    }
+  },
+  "priest-n": {
+    "gloss": {
+      "fr": "le prêtre",
+      "es": "el cura"
+    },
+    "exampleGloss": {
+      "fr": "Le prêtre a marié le jeune couple dans l'église du village.",
+      "es": "El cura casó a la joven pareja en la iglesia del pueblo."
+    }
+  },
+  "primarily-adv": {
+    "gloss": {
+      "fr": "principalement",
+      "es": "principalmente"
+    },
+    "exampleGloss": {
+      "fr": "Cette appli est principalement destinée aux étudiants, mais tout le monde peut l'utiliser.",
+      "es": "Esta aplicación es principalmente para estudiantes, pero cualquiera puede usarla."
+    }
+  },
+  "primary-school-n": {
+    "gloss": {
+      "fr": "l'école primaire",
+      "es": "el colegio de primaria"
+    },
+    "exampleGloss": {
+      "fr": "Mon petit frère va à l'école primaire près de chez nous.",
+      "es": "Mi hermano pequeño va al colegio de primaria cerca de casa."
+    }
+  },
+  "primitive-adj": {
+    "gloss": {
+      "fr": "primitif",
+      "es": "primitivo"
+    },
+    "exampleGloss": {
+      "fr": "Les premiers hommes utilisaient des outils primitifs en pierre.",
+      "es": "Los primeros seres humanos usaban herramientas primitivas de piedra."
+    }
+  },
+  "principle-n": {
+    "gloss": {
+      "fr": "le principe",
+      "es": "el principio"
+    },
+    "exampleGloss": {
+      "fr": "Il ne ment jamais, car l'honnêteté est un principe important pour lui.",
+      "es": "Nunca miente porque la honradez es un principio importante para él."
+    }
+  },
+  "print-n": {
+    "gloss": {
+      "fr": "les caractères",
+      "es": "la letra"
+    },
+    "exampleGloss": {
+      "fr": "Les caractères de ce livre sont trop petits pour que je puisse le lire.",
+      "es": "La letra de este libro es demasiado pequeña para que yo la lea."
+    }
+  },
+  "prison-n": {
+    "gloss": {
+      "fr": "la prison",
+      "es": "la cárcel"
+    },
+    "exampleGloss": {
+      "fr": "Le voleur a passé cinq ans en prison.",
+      "es": "El ladrón pasó cinco años en la cárcel."
+    }
+  },
+  "prisoner-n": {
+    "gloss": {
+      "fr": "le prisonnier",
+      "es": "el preso"
+    },
+    "exampleGloss": {
+      "fr": "Deux prisonniers se sont évadés de la prison la nuit dernière.",
+      "es": "Dos presos se escaparon de la cárcel anoche."
+    }
+  },
+  "privacy-n": {
+    "gloss": {
+      "fr": "l'intimité",
+      "es": "la intimidad"
+    },
+    "exampleGloss": {
+      "fr": "Les ados ont besoin d'un peu d'intimité, alors frappe avant d'entrer.",
+      "es": "Los adolescentes necesitan algo de intimidad, así que llama antes de entrar."
+    }
+  },
+  "prize-n": {
+    "gloss": {
+      "fr": "le prix",
+      "es": "el premio"
+    },
+    "exampleGloss": {
+      "fr": "Elle a gagné le premier prix du concours de photographie.",
+      "es": "Ganó el primer premio en el concurso de fotografía."
+    }
+  },
+  "probability-n": {
+    "gloss": {
+      "fr": "la probabilité",
+      "es": "la probabilidad"
+    },
+    "exampleGloss": {
+      "fr": "La probabilité de gagner au loto est très faible.",
+      "es": "La probabilidad de ganar la lotería es muy pequeña."
+    }
+  },
+  "proceed-v": {
+    "gloss": {
+      "fr": "se rendre",
+      "es": "dirigirse"
+    },
+    "exampleGloss": {
+      "fr": "Les passagers à destination de Madrid sont priés de se rendre à la porte douze.",
+      "es": "Los pasajeros con destino a Madrid deben dirigirse a la puerta doce."
+    }
+  },
+  "process-n": {
+    "gloss": {
+      "fr": "le processus",
+      "es": "el proceso"
+    },
+    "exampleGloss": {
+      "fr": "Apprendre une langue est un processus lent.",
+      "es": "Aprender un idioma es un proceso lento."
+    }
+  },
+  "proclaim-v": {
+    "gloss": {
+      "fr": "proclamer",
+      "es": "proclamar"
+    },
+    "exampleGloss": {
+      "fr": "Après la guerre, le peuple a proclamé une nouvelle république.",
+      "es": "Después de la guerra, el pueblo proclamó una nueva república."
+    }
+  },
+  "procrastination-n": {
+    "gloss": {
+      "fr": "la procrastination",
+      "es": "la procrastinación"
+    },
+    "exampleGloss": {
+      "fr": "À cause de la procrastination, je fais toujours mes devoirs à la dernière minute.",
+      "es": "Por culpa de la procrastinación, siempre hago los deberes en el último momento."
+    }
+  },
+  "producer-n": {
+    "gloss": {
+      "fr": "le producteur",
+      "es": "el productor"
+    },
+    "exampleGloss": {
+      "fr": "Le producteur cherche de l'argent pour son prochain film.",
+      "es": "El productor de cine está buscando dinero para su próxima película."
+    }
+  },
+  "productive-adj": {
+    "gloss": {
+      "fr": "productif",
+      "es": "productivo"
+    },
+    "exampleGloss": {
+      "fr": "J'ai eu une matinée productive et j'ai répondu à tous mes e-mails.",
+      "es": "He tenido una mañana productiva y he terminado todos los correos."
+    }
+  },
+  "profession-n": {
+    "gloss": {
+      "fr": "la profession",
+      "es": "la profesión"
+    },
+    "exampleGloss": {
+      "fr": "Infirmier est une profession difficile mais gratifiante.",
+      "es": "La enfermería es una profesión difícil pero gratificante."
+    }
+  },
+  "professor-n": {
+    "gloss": {
+      "fr": "le professeur (d'université)",
+      "es": "el profesor (de universidad)"
+    },
+    "exampleGloss": {
+      "fr": "Notre professeur d'histoire écrit des livres sur la Rome antique.",
+      "es": "Nuestro profesor de historia escribe libros sobre la antigua Roma."
+    }
+  },
+  "program-v": {
+    "gloss": {
+      "fr": "programmer",
+      "es": "programar"
+    },
+    "exampleGloss": {
+      "fr": "On peut programmer le four pour qu'il commence à cuire à six heures.",
+      "es": "Puedes programar el horno para que empiece a cocinar a las seis."
+    }
+  },
+  "progress-n": {
+    "gloss": {
+      "fr": "les progrès",
+      "es": "el progreso"
+    },
+    "exampleGloss": {
+      "fr": "Mon professeur d'anglais dit que je fais de bons progrès.",
+      "es": "Mi profesor de inglés dice que estoy progresando mucho."
+    }
+  },
+  "prohibition-n": {
+    "gloss": {
+      "fr": "l'interdiction",
+      "es": "la prohibición"
+    },
+    "exampleGloss": {
+      "fr": "La pêche est interdite dans cette rivière.",
+      "es": "Está prohibido pescar en este río."
+    }
+  },
+  "prominent-adj": {
+    "gloss": {
+      "fr": "éminent",
+      "es": "destacado"
+    },
+    "exampleGloss": {
+      "fr": "Son père est un médecin éminent de la ville.",
+      "es": "Su padre es un médico destacado de la ciudad."
+    }
+  },
+  "promise-v": {
+    "gloss": {
+      "fr": "promettre",
+      "es": "prometer"
+    },
+    "exampleGloss": {
+      "fr": "Je te promets de t'appeler quand j'arrive.",
+      "es": "Te prometo que te llamaré cuando llegue."
+    }
+  },
+  "promote-v": {
+    "gloss": {
+      "fr": "promouvoir",
+      "es": "promocionar"
+    },
+    "exampleGloss": {
+      "fr": "La chanteuse voyage à travers l'Europe pour promouvoir son nouvel album.",
+      "es": "La cantante está viajando por Europa para promocionar su nuevo disco."
+    }
+  },
+  "promotion-n": {
+    "gloss": {
+      "fr": "la promotion",
+      "es": "el ascenso"
+    },
+    "exampleGloss": {
+      "fr": "Au bout de trois ans, elle a obtenu une promotion et un meilleur salaire.",
+      "es": "A los tres años, consiguió un ascenso y un sueldo más alto."
+    }
+  },
+  "pronoun-n": {
+    "gloss": {
+      "fr": "le pronom",
+      "es": "el pronombre"
+    },
+    "exampleGloss": {
+      "fr": "« She » est un pronom qu'on utilise pour une femme ou une fille.",
+      "es": "«She» es un pronombre que usamos para una mujer o una niña."
+    }
+  },
+  "proof-n": {
+    "gloss": {
+      "fr": "le justificatif",
+      "es": "el justificante"
+    },
+    "exampleGloss": {
+      "fr": "Il faut un justificatif de domicile pour ouvrir un compte bancaire.",
+      "es": "Necesitas un justificante de domicilio para abrir una cuenta bancaria."
+    }
+  },
+  "properly-adv": {
+    "gloss": {
+      "fr": "correctement",
+      "es": "bien"
+    },
+    "exampleGloss": {
+      "fr": "Ferme bien la porte, sinon l'air froid va entrer.",
+      "es": "Cierra bien la puerta o entrará el aire frío."
+    }
+  },
+  "property-n": {
+    "gloss": {
+      "fr": "la propriété",
+      "es": "la propiedad"
+    },
+    "exampleGloss": {
+      "fr": "Ne touchez pas à ce sac, s'il vous plaît, il m'appartient.",
+      "es": "Por favor, no toques esa bolsa; es de mi propiedad."
+    }
+  },
+  "proportion-n": {
+    "gloss": {
+      "fr": "la proportion",
+      "es": "la proporción"
+    },
+    "exampleGloss": {
+      "fr": "Une grande proportion des élèves vient en bus.",
+      "es": "Una gran proporción de los alumnos viene en autobús."
+    }
+  },
+  "proposal-n": {
+    "gloss": {
+      "fr": "la proposition",
+      "es": "la propuesta"
+    },
+    "exampleGloss": {
+      "fr": "La mairie a accepté notre proposition d'une nouvelle aire de jeux.",
+      "es": "El ayuntamiento aceptó nuestra propuesta de un nuevo parque infantil."
+    }
+  },
+  "propose-v": {
+    "gloss": {
+      "fr": "proposer",
+      "es": "proponer"
+    },
+    "exampleGloss": {
+      "fr": "Je propose qu'on se revoie vendredi prochain.",
+      "es": "Propongo que volvamos a reunirnos el viernes que viene."
+    }
+  },
+  "prosperity-n": {
+    "gloss": {
+      "fr": "la prospérité",
+      "es": "la prosperidad"
+    },
+    "exampleGloss": {
+      "fr": "La nouvelle usine a apporté la prospérité à la petite ville.",
+      "es": "La nueva fábrica trajo prosperidad al pueblo."
+    }
+  },
+  "prosperous-adj": {
+    "gloss": {
+      "fr": "prospère",
+      "es": "próspero"
+    },
+    "exampleGloss": {
+      "fr": "La ville est devenue prospère après l'ouverture du nouveau port.",
+      "es": "La ciudad se volvió próspera después de que abriera el nuevo puerto."
+    }
+  },
+  "protect-v": {
+    "gloss": {
+      "fr": "protéger",
+      "es": "proteger"
+    },
+    "exampleGloss": {
+      "fr": "Porte des lunettes de soleil pour protéger tes yeux du soleil.",
+      "es": "Ponte gafas de sol para protegerte los ojos del sol."
+    }
+  },
+  "protection-n": {
+    "gloss": {
+      "fr": "la protection",
+      "es": "la protección"
+    },
+    "exampleGloss": {
+      "fr": "Cette crème offre une bonne protection contre le soleil.",
+      "es": "Esta crema da buena protección contra el sol."
+    }
+  },
+  "protective-adj": {
+    "gloss": {
+      "fr": "de protection",
+      "es": "protector"
+    },
+    "exampleGloss": {
+      "fr": "Les ouvriers doivent porter des lunettes de protection à l'usine.",
+      "es": "Los trabajadores tienen que llevar gafas protectoras en la fábrica."
+    }
+  },
+  "protest-n": {
+    "gloss": {
+      "fr": "la manifestation",
+      "es": "la protesta"
+    },
+    "exampleGloss": {
+      "fr": "Des milliers de personnes ont rejoint la manifestation contre la nouvelle loi.",
+      "es": "Miles de personas se unieron a la protesta contra la nueva ley."
+    }
+  },
+  "proud-adj": {
+    "gloss": {
+      "fr": "fier",
+      "es": "orgulloso"
+    },
+    "exampleGloss": {
+      "fr": "Ses parents étaient très fiers quand elle a terminé l'université.",
+      "es": "Sus padres estaban muy orgullosos cuando terminó la carrera."
+    }
+  },
+  "prove-v": {
+    "gloss": {
+      "fr": "prouver",
+      "es": "demostrar"
+    },
+    "exampleGloss": {
+      "fr": "Tu peux prouver que tu étais chez toi hier soir ?",
+      "es": "¿Puedes demostrar que estabas en casa anoche?"
+    }
+  }
+}

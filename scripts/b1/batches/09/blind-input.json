@@ -1,0 +1,572 @@
+[
+ {
+  "id": "evenly-adv",
+  "headword": "evenly",
+  "pos": "adverb",
+  "example": "Spread the butter evenly over the bread."
+ },
+ {
+  "id": "eventually-adv",
+  "headword": "eventually",
+  "pos": "adverb",
+  "example": "We waited for an hour, and eventually the bus arrived."
+ },
+ {
+  "id": "evident-adj",
+  "headword": "evident",
+  "pos": "adjective",
+  "example": "It was evident from her smile that she was happy."
+ },
+ {
+  "id": "exact-adj",
+  "headword": "exact",
+  "pos": "adjective",
+  "example": "Can you tell me the exact time, please?"
+ },
+ {
+  "id": "examination-n",
+  "headword": "examination",
+  "pos": "noun",
+  "example": "All students must take a written examination in June."
+ },
+ {
+  "id": "examine-v",
+  "headword": "examine",
+  "pos": "verb",
+  "example": "The doctor will examine your eyes before you get glasses."
+ },
+ {
+  "id": "examiner-n",
+  "headword": "examiner",
+  "pos": "noun",
+  "example": "The examiner asked me to read the text aloud."
+ },
+ {
+  "id": "excellence-n",
+  "headword": "excellence",
+  "pos": "noun",
+  "example": "The school won a prize for excellence in teaching."
+ },
+ {
+  "id": "excess-n",
+  "headword": "excess",
+  "pos": "noun",
+  "example": "An excess of sugar in your diet is bad for your teeth."
+ },
+ {
+  "id": "exchange-v",
+  "headword": "exchange",
+  "pos": "verb",
+  "example": "Can I exchange this shirt for a bigger size?"
+ },
+ {
+  "id": "exchange-rate-n",
+  "headword": "exchange rate",
+  "pos": "noun",
+  "example": "The exchange rate between the euro and the dollar changes every day."
+ },
+ {
+  "id": "excitedly-adv",
+  "headword": "excitedly",
+  "pos": "adverb",
+  "example": "The children talked excitedly about their trip to the zoo."
+ },
+ {
+  "id": "excitement-n",
+  "headword": "excitement",
+  "pos": "noun",
+  "example": "She could not sleep because of the excitement before her birthday."
+ },
+ {
+  "id": "exclusive-adj",
+  "headword": "exclusive",
+  "pos": "adjective",
+  "example": "They stayed at an exclusive hotel that only rich people can afford."
+ },
+ {
+  "id": "excuse-v",
+  "headword": "excuse",
+  "pos": "verb",
+  "example": "Please excuse me for arriving so late."
+ },
+ {
+  "id": "exhausted-adj",
+  "headword": "exhausted",
+  "pos": "adjective",
+  "example": "After the long walk, we were completely exhausted."
+ },
+ {
+  "id": "existence-n",
+  "headword": "existence",
+  "pos": "noun",
+  "example": "Many people do not believe in the existence of ghosts."
+ },
+ {
+  "id": "exit-n",
+  "headword": "exit",
+  "pos": "noun",
+  "example": "Please leave the building by the nearest exit."
+ },
+ {
+  "id": "exit-v",
+  "headword": "exit",
+  "pos": "verb",
+  "example": "Passengers should exit the train through the doors on the left."
+ },
+ {
+  "id": "expand-v",
+  "headword": "expand",
+  "pos": "verb",
+  "example": "The company plans to expand and open three new shops."
+ },
+ {
+  "id": "expense-n",
+  "headword": "expense",
+  "pos": "noun",
+  "example": "A new car is a big expense for a young family."
+ },
+ {
+  "id": "experience-v",
+  "headword": "experience",
+  "pos": "verb",
+  "example": "Many people experience stress before an important exam."
+ },
+ {
+  "id": "experienced-adj",
+  "headword": "experienced",
+  "pos": "adjective",
+  "example": "We need an experienced driver who has driven for many years."
+ },
+ {
+  "id": "experiment-n",
+  "headword": "experiment",
+  "pos": "noun",
+  "example": "In science class we did an experiment with water and salt."
+ },
+ {
+  "id": "exploration-n",
+  "headword": "exploration",
+  "pos": "noun",
+  "example": "The exploration of space began in the twentieth century."
+ },
+ {
+  "id": "explosion-n",
+  "headword": "explosion",
+  "pos": "noun",
+  "example": "People heard a loud explosion when the gas tank blew up."
+ },
+ {
+  "id": "expose-v",
+  "headword": "expose",
+  "pos": "verb",
+  "example": "Do not expose your skin to the sun for too long."
+ },
+ {
+  "id": "express-v",
+  "headword": "express",
+  "pos": "verb",
+  "example": "It is sometimes hard to express your feelings in a foreign language."
+ },
+ {
+  "id": "extend-v",
+  "headword": "extend",
+  "pos": "verb",
+  "example": "They want to extend their holiday for another week."
+ },
+ {
+  "id": "extensively-adv",
+  "headword": "extensively",
+  "pos": "adverb",
+  "example": "She has travelled extensively in Asia and South America."
+ },
+ {
+  "id": "extent-n",
+  "headword": "extent",
+  "pos": "noun",
+  "example": "We do not yet know the full extent of the damage."
+ },
+ {
+  "id": "extinct-adj",
+  "headword": "extinct",
+  "pos": "adjective",
+  "example": "Dinosaurs became extinct millions of years ago."
+ },
+ {
+  "id": "extinction-n",
+  "headword": "extinction",
+  "pos": "noun",
+  "example": "Many wild animals are in danger of extinction."
+ },
+ {
+  "id": "extra-n",
+  "headword": "extra",
+  "pos": "noun",
+  "example": "The room costs eighty euros, and breakfast is an extra."
+ },
+ {
+  "id": "extraordinary-adj",
+  "headword": "extraordinary",
+  "pos": "adjective",
+  "example": "She has an extraordinary voice that nobody can forget."
+ },
+ {
+  "id": "extreme-adj",
+  "headword": "extreme",
+  "pos": "adjective",
+  "example": "The extreme cold in winter makes life difficult in the north."
+ },
+ {
+  "id": "extreme-sports-n",
+  "headword": "extreme sports",
+  "pos": "noun",
+  "example": "My brother loves extreme sports like skydiving and rock climbing."
+ },
+ {
+  "id": "eyesight-n",
+  "headword": "eyesight",
+  "pos": "noun",
+  "example": "My grandfather's eyesight is poor, so he cannot read small letters."
+ },
+ {
+  "id": "face-to-face-adv",
+  "headword": "face to face",
+  "pos": "adverb",
+  "example": "I prefer to talk to people face to face, not by email."
+ },
+ {
+  "id": "face-to-face-adj",
+  "headword": "face-to-face",
+  "pos": "adjective",
+  "example": "We had a face-to-face meeting instead of a video call."
+ },
+ {
+  "id": "facility-n",
+  "headword": "facility",
+  "pos": "noun",
+  "example": "The hotel has a sports facility with a pool and a gym."
+ },
+ {
+  "id": "fade-v",
+  "headword": "fade",
+  "pos": "verb",
+  "example": "My blue jeans began to fade after many washes."
+ },
+ {
+  "id": "failure-n",
+  "headword": "failure",
+  "pos": "noun",
+  "example": "The plan was a failure because nobody came to the meeting."
+ },
+ {
+  "id": "faint-adj",
+  "headword": "faint",
+  "pos": "adjective",
+  "example": "We heard a faint sound from the room next door."
+ },
+ {
+  "id": "fair-n",
+  "headword": "fair",
+  "pos": "noun",
+  "example": "We went on the big wheel at the summer fair."
+ },
+ {
+  "id": "faithful-adj",
+  "headword": "faithful",
+  "pos": "adjective",
+  "example": "Our old dog was a faithful friend for fifteen years."
+ },
+ {
+  "id": "fake-adj",
+  "headword": "fake",
+  "pos": "adjective",
+  "example": "The police found fake money in his bag."
+ },
+ {
+  "id": "fall-n",
+  "headword": "fall",
+  "pos": "noun",
+  "example": "My grandmother broke her arm in a fall on the ice."
+ },
+ {
+  "id": "fallen-adj",
+  "headword": "fallen",
+  "pos": "adjective",
+  "example": "The road was blocked by a fallen tree after the storm."
+ },
+ {
+  "id": "fancy-n",
+  "headword": "fancy",
+  "pos": "noun",
+  "example": "Her interest in painting was only a fancy that lasted one week."
+ },
+ {
+  "id": "fancy-v",
+  "headword": "fancy",
+  "pos": "verb",
+  "example": "Do you fancy going to the cinema tonight?"
+ },
+ {
+  "id": "fantasy-n",
+  "headword": "fantasy",
+  "pos": "noun",
+  "example": "She loves fantasy books full of dragons and magic."
+ },
+ {
+  "id": "faraway-adj",
+  "headword": "faraway",
+  "pos": "adjective",
+  "example": "He dreamed of travelling to faraway countries."
+ },
+ {
+  "id": "farewell-n",
+  "headword": "farewell",
+  "pos": "noun",
+  "example": "We had a farewell party for our teacher before she left."
+ },
+ {
+  "id": "farming-n",
+  "headword": "farming",
+  "pos": "noun",
+  "example": "Farming is still important in this part of the country."
+ },
+ {
+  "id": "farmland-n",
+  "headword": "farmland",
+  "pos": "noun",
+  "example": "The new houses were built on farmland outside the town."
+ },
+ {
+  "id": "farther-adv",
+  "headword": "farther",
+  "pos": "adverb",
+  "example": "We walked farther than we planned and got lost."
+ },
+ {
+  "id": "farthest-adv",
+  "headword": "farthest",
+  "pos": "adverb",
+  "example": "Of all the children, Tom threw the ball farthest."
+ },
+ {
+  "id": "fascinate-v",
+  "headword": "fascinate",
+  "pos": "verb",
+  "example": "Old castles always fascinate my little brother."
+ },
+ {
+  "id": "fashionable-adj",
+  "headword": "fashionable",
+  "pos": "adjective",
+  "example": "Short jackets are very fashionable this year."
+ },
+ {
+  "id": "fasten-v",
+  "headword": "fasten",
+  "pos": "verb",
+  "example": "Please fasten your seat belt before the plane takes off."
+ },
+ {
+  "id": "favorable-adj",
+  "headword": "favorable",
+  "pos": "adjective",
+  "example": "The weather was favorable, so the race started on time."
+ },
+ {
+  "id": "fax-n",
+  "headword": "fax",
+  "pos": "noun",
+  "example": "The office sent us a fax with the new prices."
+ },
+ {
+  "id": "fax-v",
+  "headword": "fax",
+  "pos": "verb",
+  "example": "Could you fax me the contract this afternoon?"
+ },
+ {
+  "id": "feast-n",
+  "headword": "feast",
+  "pos": "noun",
+  "example": "After the wedding there was a feast with lots of food."
+ },
+ {
+  "id": "feed-v",
+  "headword": "feed",
+  "pos": "verb",
+  "example": "Can you feed the cat while I am away?"
+ },
+ {
+  "id": "fellow-n",
+  "headword": "fellow",
+  "pos": "noun",
+  "example": "He is a nice fellow who always helps his neighbours."
+ },
+ {
+  "id": "ferry-n",
+  "headword": "ferry",
+  "pos": "noun",
+  "example": "We took the ferry across the sea to the island."
+ },
+ {
+  "id": "festive-adj",
+  "headword": "festive",
+  "pos": "adjective",
+  "example": "The streets look festive with all the lights in December."
+ },
+ {
+  "id": "fetch-v",
+  "headword": "fetch",
+  "pos": "verb",
+  "example": "Could you fetch some water from the kitchen?"
+ },
+ {
+  "id": "feverishly-adv",
+  "headword": "feverishly",
+  "pos": "adverb",
+  "example": "He worked feverishly to finish the report before the deadline."
+ },
+ {
+  "id": "few-pron",
+  "headword": "few",
+  "pos": "pronoun",
+  "example": "Many people were invited, but few came to the party."
+ },
+ {
+  "id": "fifth-n",
+  "headword": "fifth",
+  "pos": "noun",
+  "example": "A fifth of the students in our class walk to school."
+ },
+ {
+  "id": "fight-v",
+  "headword": "fight",
+  "pos": "verb",
+  "example": "My two cats fight over the best place on the sofa."
+ },
+ {
+  "id": "filling-n",
+  "headword": "filling",
+  "pos": "noun",
+  "example": "I like sandwiches with a cheese and tomato filling."
+ },
+ {
+  "id": "film-v",
+  "headword": "film",
+  "pos": "verb",
+  "example": "They decided to film the wedding with a small camera."
+ },
+ {
+  "id": "film-maker-n",
+  "headword": "film-maker",
+  "pos": "noun",
+  "example": "The young film-maker won a prize for her first movie."
+ },
+ {
+  "id": "filter-n",
+  "headword": "filter",
+  "pos": "noun",
+  "example": "Change the filter in the coffee machine every week."
+ },
+ {
+  "id": "finance-v",
+  "headword": "finance",
+  "pos": "verb",
+  "example": "The bank agreed to finance the new sports centre."
+ },
+ {
+  "id": "financial-adj",
+  "headword": "financial",
+  "pos": "adjective",
+  "example": "The company had financial problems and lost a lot of money."
+ },
+ {
+  "id": "finding-n",
+  "headword": "finding",
+  "pos": "noun",
+  "example": "The main finding of the study is that sleep helps memory."
+ },
+ {
+  "id": "fine-n",
+  "headword": "fine",
+  "pos": "noun",
+  "example": "He had to pay a fine for parking in the wrong place."
+ },
+ {
+  "id": "finger-n",
+  "headword": "finger",
+  "pos": "noun",
+  "example": "She wears a gold ring on her finger."
+ },
+ {
+  "id": "fire-station-n",
+  "headword": "fire station",
+  "pos": "noun",
+  "example": "The fire station is next to the hospital."
+ },
+ {
+  "id": "firefighter-n",
+  "headword": "firefighter",
+  "pos": "noun",
+  "example": "The firefighter saved a child from the burning house."
+ },
+ {
+  "id": "firework-n",
+  "headword": "firework",
+  "pos": "noun",
+  "example": "We watched a big firework light up the sky at midnight."
+ },
+ {
+  "id": "firm-adj",
+  "headword": "firm",
+  "pos": "adjective",
+  "example": "This bed is too firm, and I cannot sleep well."
+ },
+ {
+  "id": "firm-n",
+  "headword": "firm",
+  "pos": "noun",
+  "example": "My father works for a small law firm in the city."
+ },
+ {
+  "id": "firmly-adv",
+  "headword": "firmly",
+  "pos": "adverb",
+  "example": "Hold the rope firmly so you do not fall."
+ },
+ {
+  "id": "first-floor-n",
+  "headword": "first floor",
+  "pos": "noun",
+  "example": "Our flat is on the first floor, above the shop."
+ },
+ {
+  "id": "first-lady-n",
+  "headword": "first lady",
+  "pos": "noun",
+  "example": "The first lady visited a school with the president."
+ },
+ {
+  "id": "first-floor-adj",
+  "headword": "first-floor",
+  "pos": "adjective",
+  "example": "We booked a first-floor room with a view of the sea."
+ },
+ {
+  "id": "fish-v",
+  "headword": "fish",
+  "pos": "verb",
+  "example": "On Sundays my uncle likes to fish in the river."
+ },
+ {
+  "id": "fit-v",
+  "headword": "fit",
+  "pos": "verb",
+  "example": "These shoes do not fit me; they are too small."
+ },
+ {
+  "id": "fitness-n",
+  "headword": "fitness",
+  "pos": "noun",
+  "example": "Swimming is a good way to improve your fitness."
+ }
+]

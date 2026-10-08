@@ -1,0 +1,541 @@
+[
+ {
+  "id": "greedy-adj",
+  "headword": "greedy",
+  "pos": "adjective"
+ },
+ {
+  "id": "green-n",
+  "headword": "green",
+  "pos": "noun"
+ },
+ {
+  "id": "grilled-adj",
+  "headword": "grilled",
+  "pos": "adjective"
+ },
+ {
+  "id": "grocery-store-n",
+  "headword": "grocery store",
+  "pos": "noun"
+ },
+ {
+  "id": "guard-n",
+  "headword": "guard",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "guidebook-n",
+  "headword": "guidebook",
+  "pos": "noun"
+ },
+ {
+  "id": "gun-n",
+  "headword": "gun",
+  "pos": "noun"
+ },
+ {
+  "id": "half-det",
+  "headword": "half",
+  "pos": "determiner"
+ },
+ {
+  "id": "half-pron",
+  "headword": "half",
+  "pos": "pronoun"
+ },
+ {
+  "id": "half-price-adj",
+  "headword": "half-price",
+  "pos": "adjective"
+ },
+ {
+  "id": "half-price-adv",
+  "headword": "half-price",
+  "pos": "adverb"
+ },
+ {
+  "id": "ham-n",
+  "headword": "ham",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "hand-v",
+  "headword": "hand",
+  "pos": "verb"
+ },
+ {
+  "id": "handbag-n",
+  "headword": "handbag",
+  "pos": "noun",
+  "sourceTopics": [
+   "Shopping",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "handicapped-adj",
+  "headword": "handicapped",
+  "pos": "adjective"
+ },
+ {
+  "id": "handle-n",
+  "headword": "handle",
+  "pos": "noun"
+ },
+ {
+  "id": "happily-adv",
+  "headword": "happily",
+  "pos": "adverb"
+ },
+ {
+  "id": "happiness-n",
+  "headword": "happiness",
+  "pos": "noun"
+ },
+ {
+  "id": "hardly-adv",
+  "headword": "hardly",
+  "pos": "adverb"
+ },
+ {
+  "id": "harm-v",
+  "headword": "harm",
+  "pos": "verb"
+ },
+ {
+  "id": "harmful-adj",
+  "headword": "harmful",
+  "pos": "adjective"
+ },
+ {
+  "id": "harmony-n",
+  "headword": "harmony",
+  "pos": "noun"
+ },
+ {
+  "id": "harvest-n",
+  "headword": "harvest",
+  "pos": "noun"
+ },
+ {
+  "id": "hate-v",
+  "headword": "hate",
+  "pos": "verb"
+ },
+ {
+  "id": "head-v",
+  "headword": "head",
+  "pos": "verb"
+ },
+ {
+  "id": "headphone-n",
+  "headword": "headphone",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "headteacher-n",
+  "headword": "headteacher",
+  "pos": "noun",
+  "sourceTopics": [
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "heat-n",
+  "headword": "heat",
+  "pos": "noun"
+ },
+ {
+  "id": "heating-n",
+  "headword": "heating",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "heavily-adv",
+  "headword": "heavily",
+  "pos": "adverb"
+ },
+ {
+  "id": "help-n",
+  "headword": "help",
+  "pos": "noun"
+ },
+ {
+  "id": "helpful-adj",
+  "headword": "helpful",
+  "pos": "adjective"
+ },
+ {
+  "id": "hero-n",
+  "headword": "hero",
+  "pos": "noun"
+ },
+ {
+  "id": "herself-pron",
+  "headword": "herself",
+  "pos": "pronoun"
+ },
+ {
+  "id": "hey-interj",
+  "headword": "hey",
+  "pos": "interjection"
+ },
+ {
+  "id": "high-adv",
+  "headword": "high",
+  "pos": "adverb"
+ },
+ {
+  "id": "high-school-n",
+  "headword": "high school",
+  "pos": "noun"
+ },
+ {
+  "id": "highway-n",
+  "headword": "highway",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "Travel"
+  ]
+ },
+ {
+  "id": "hike-n",
+  "headword": "hike",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel and services vocab",
+   "Travel"
+  ]
+ },
+ {
+  "id": "hiking-n",
+  "headword": "hiking",
+  "pos": "noun"
+ },
+ {
+  "id": "himself-pron",
+  "headword": "himself",
+  "pos": "pronoun"
+ },
+ {
+  "id": "hip-hop-n",
+  "headword": "hip hop",
+  "pos": "noun",
+  "variants": [
+   "hip-hop",
+   "hiphop"
+  ],
+  "sourceTopics": [
+   "Hobbies and pastimes",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "hit-v",
+  "headword": "hit",
+  "pos": "verb"
+ },
+ {
+  "id": "hockey-n",
+  "headword": "hockey",
+  "pos": "noun",
+  "sourceTopics": [
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "hold-v",
+  "headword": "hold",
+  "pos": "verb"
+ },
+ {
+  "id": "home-adv",
+  "headword": "home",
+  "pos": "adverb"
+ },
+ {
+  "id": "honey-n",
+  "headword": "honey",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "honor-n",
+  "headword": "honor",
+  "pos": "noun",
+  "variants": [
+   "honour"
+  ]
+ },
+ {
+  "id": "horror-n",
+  "headword": "horror",
+  "pos": "noun"
+ },
+ {
+  "id": "host-n",
+  "headword": "host",
+  "pos": "noun"
+ },
+ {
+  "id": "however-adv",
+  "headword": "however",
+  "pos": "adverb"
+ },
+ {
+  "id": "hug-v",
+  "headword": "hug",
+  "pos": "verb"
+ },
+ {
+  "id": "human-adj",
+  "headword": "human",
+  "pos": "adjective"
+ },
+ {
+  "id": "hunter-n",
+  "headword": "hunter",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "hurry-v",
+  "headword": "hurry",
+  "pos": "verb"
+ },
+ {
+  "id": "id-n",
+  "headword": "ID",
+  "pos": "noun"
+ },
+ {
+  "id": "id-card-n",
+  "headword": "ID card",
+  "pos": "noun",
+  "sourceTopics": [
+   "Services"
+  ]
+ },
+ {
+  "id": "ill-adj",
+  "headword": "ill",
+  "pos": "adjective"
+ },
+ {
+  "id": "illegal-adj",
+  "headword": "illegal",
+  "pos": "adjective"
+ },
+ {
+  "id": "image-n",
+  "headword": "image",
+  "pos": "noun"
+ },
+ {
+  "id": "imagination-n",
+  "headword": "imagination",
+  "pos": "noun"
+ },
+ {
+  "id": "impact-n",
+  "headword": "impact",
+  "pos": "noun"
+ },
+ {
+  "id": "impatient-adj",
+  "headword": "impatient",
+  "pos": "adjective"
+ },
+ {
+  "id": "importance-n",
+  "headword": "importance",
+  "pos": "noun"
+ },
+ {
+  "id": "importantly-adv",
+  "headword": "importantly",
+  "pos": "adverb"
+ },
+ {
+  "id": "impossible-adj",
+  "headword": "impossible",
+  "pos": "adjective"
+ },
+ {
+  "id": "impress-v",
+  "headword": "impress",
+  "pos": "verb"
+ },
+ {
+  "id": "improve-v",
+  "headword": "improve",
+  "pos": "verb"
+ },
+ {
+  "id": "in-adv",
+  "headword": "in",
+  "pos": "adverb"
+ },
+ {
+  "id": "inch-n",
+  "headword": "inch",
+  "pos": "noun"
+ },
+ {
+  "id": "include-v",
+  "headword": "include",
+  "pos": "verb"
+ },
+ {
+  "id": "increase-v",
+  "headword": "increase",
+  "pos": "verb"
+ },
+ {
+  "id": "indeed-adv",
+  "headword": "indeed",
+  "pos": "adverb"
+ },
+ {
+  "id": "independence-n",
+  "headword": "independence",
+  "pos": "noun"
+ },
+ {
+  "id": "indicate-v",
+  "headword": "indicate",
+  "pos": "verb"
+ },
+ {
+  "id": "indoor-adj",
+  "headword": "indoor",
+  "pos": "adjective"
+ },
+ {
+  "id": "inexpensive-adj",
+  "headword": "inexpensive",
+  "pos": "adjective"
+ },
+ {
+  "id": "influence-n",
+  "headword": "influence",
+  "pos": "noun"
+ },
+ {
+  "id": "injure-v",
+  "headword": "injure",
+  "pos": "verb"
+ },
+ {
+  "id": "inner-adj",
+  "headword": "inner",
+  "pos": "adjective"
+ },
+ {
+  "id": "insect-n",
+  "headword": "insect",
+  "pos": "noun"
+ },
+ {
+  "id": "inside-adv",
+  "headword": "inside",
+  "pos": "adverb"
+ },
+ {
+  "id": "inspiration-n",
+  "headword": "inspiration",
+  "pos": "noun"
+ },
+ {
+  "id": "instant-adj",
+  "headword": "instant",
+  "pos": "adjective"
+ },
+ {
+  "id": "instead-adv",
+  "headword": "instead",
+  "pos": "adverb"
+ },
+ {
+  "id": "instrument-n",
+  "headword": "instrument",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "intelligence-n",
+  "headword": "intelligence",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "intelligent-adj",
+  "headword": "intelligent",
+  "pos": "adjective"
+ },
+ {
+  "id": "interest-n",
+  "headword": "interest",
+  "pos": "noun",
+  "sourceTopics": [
+   "Personal information",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "international-adj",
+  "headword": "international",
+  "pos": "adjective"
+ },
+ {
+  "id": "invade-v",
+  "headword": "invade",
+  "pos": "verb"
+ },
+ {
+  "id": "invent-v",
+  "headword": "invent",
+  "pos": "verb"
+ },
+ {
+  "id": "invention-n",
+  "headword": "invention",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education"
+  ]
+ },
+ {
+  "id": "invite-v",
+  "headword": "invite",
+  "pos": "verb"
+ }
+]

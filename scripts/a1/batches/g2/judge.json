@@ -1,0 +1,618 @@
+{
+ "r001": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  }
+ },
+ "r002": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  }
+ },
+ "r003": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  }
+ },
+ "r004": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  }
+ },
+ "r005": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  }
+ },
+ "r006": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  }
+ },
+ "r007": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  }
+ },
+ "r008": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  }
+ },
+ "r009": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  }
+ },
+ "r010": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  }
+ },
+ "r011": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  }
+ },
+ "r012": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  }
+ },
+ "r013": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "wrong meaning: translates a different sentence",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  }
+ },
+ "r014": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  }
+ },
+ "r015": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  }
+ },
+ "r016": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  }
+ },
+ "r017": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  }
+ },
+ "r018": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  }
+ },
+ "r019": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  }
+ },
+ "r020": {
+  "english": "no possessive determiner (my/our/your/her/their) in the sentence",
+  "fr": {
+   "exampleA": "wrong meaning: translates a different sentence",
+   "exampleB": "wrong meaning: translates a different sentence"
+  },
+  "es": {
+   "exampleA": "wrong meaning: translates a different sentence",
+   "exampleB": "wrong meaning: translates a different sentence"
+  }
+ },
+ "r021": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  }
+ },
+ "r022": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  }
+ },
+ "r023": {
+  "english": "no indefinite article (a/an) in the sentence",
+  "fr": {
+   "exampleA": "wrong meaning: translates a different sentence",
+   "exampleB": "wrong meaning: translates a different sentence"
+  },
+  "es": {
+   "exampleA": "wrong meaning: translates a different sentence",
+   "exampleB": "wrong meaning: translates a different sentence"
+  }
+ },
+ "r024": {
+  "english": "a question with 'be', not an affirmative statement with a lexical verb",
+  "fr": {
+   "exampleA": "wrong meaning: translates a different sentence",
+   "exampleB": "wrong meaning: translates a different sentence"
+  },
+  "es": {
+   "exampleA": "wrong meaning: translates a different sentence",
+   "exampleB": "wrong meaning: translates a different sentence"
+  }
+ },
+ "r025": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  }
+ },
+ "r026": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  }
+ },
+ "r027": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  }
+ },
+ "r028": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  }
+ },
+ "r029": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "unnatural calque: 'El sol está caliente'; natural is 'El sol quema' / 'calienta'",
+   "exampleB": "ok"
+  }
+ },
+ "r030": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  }
+ },
+ "r031": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  }
+ },
+ "r032": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  }
+ },
+ "r033": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  }
+ },
+ "r034": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  }
+ },
+ "r035": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  }
+ },
+ "r036": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  }
+ },
+ "r037": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  }
+ },
+ "r038": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  }
+ },
+ "r039": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  }
+ },
+ "r040": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  }
+ },
+ "r041": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  }
+ },
+ "r042": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  }
+ },
+ "r043": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  }
+ },
+ "r044": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  }
+ },
+ "r045": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  }
+ },
+ "r046": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  }
+ },
+ "r047": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  }
+ },
+ "r048": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  }
+ },
+ "r049": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "wrong meaning: translates a different sentence",
+   "exampleB": "ok"
+  }
+ },
+ "r050": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  }
+ },
+ "r051": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  }
+ },
+ "r052": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  }
+ },
+ "r053": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  }
+ },
+ "r054": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  }
+ },
+ "r055": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  }
+ },
+ "r056": {
+  "english": "ok",
+  "fr": {
+   "exampleA": "ok",
+   "exampleB": "ok"
+  },
+  "es": {
+   "exampleA": "wrong meaning: translates a different sentence",
+   "exampleB": "ok"
+  }
+ }
+}

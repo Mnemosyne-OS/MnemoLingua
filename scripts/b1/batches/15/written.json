@@ -1,0 +1,1237 @@
+[
+ {
+  "id": "measure-n",
+  "example": "The government took new measures to reduce traffic in the city.",
+  "gloss": {
+   "fr": "la mesure",
+   "es": "la medida"
+  },
+  "exampleGloss": {
+   "fr": "Le gouvernement a pris de nouvelles mesures pour réduire la circulation en ville.",
+   "es": "El gobierno tomó nuevas medidas para reducir el tráfico en la ciudad."
+  },
+  "topic": "work"
+ },
+ {
+  "id": "measure-v",
+  "example": "Can you measure the window before we buy the curtains?",
+  "gloss": {
+   "fr": "mesurer",
+   "es": "medir"
+  },
+  "exampleGloss": {
+   "fr": "Tu peux mesurer la fenêtre avant qu'on achète les rideaux ?",
+   "es": "¿Puedes medir la ventana antes de que compremos las cortinas?"
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "measurement-n",
+  "example": "The tailor took my measurements to make a new suit.",
+  "gloss": {
+   "fr": "la mesure",
+   "es": "la medida"
+  },
+  "exampleGloss": {
+   "fr": "Le tailleur a pris mes mesures pour faire un nouveau costume.",
+   "es": "El sastre me tomó las medidas para hacer un traje nuevo."
+  },
+  "topic": "clothes"
+ },
+ {
+  "id": "mechanic-n",
+  "example": "The mechanic repaired the brakes on my car.",
+  "gloss": {
+   "fr": "le mécanicien",
+   "es": "el mecánico"
+  },
+  "exampleGloss": {
+   "fr": "Le mécanicien a réparé les freins de ma voiture.",
+   "es": "El mecánico reparó los frenos de mi coche."
+  },
+  "topic": "work"
+ },
+ {
+  "id": "mechanical-adj",
+  "example": "The old clock has a mechanical system with small wheels inside.",
+  "gloss": {
+   "fr": "mécanique",
+   "es": "mecánico"
+  },
+  "exampleGloss": {
+   "fr": "La vieille horloge a un système mécanique avec de petites roues à l'intérieur.",
+   "es": "El reloj antiguo tiene un sistema mecánico con pequeñas ruedas dentro."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "meditate-v",
+  "example": "She meditates for ten minutes every morning to feel calm.",
+  "gloss": {
+   "fr": "méditer",
+   "es": "meditar"
+  },
+  "exampleGloss": {
+   "fr": "Elle médite dix minutes chaque matin pour se sentir calme.",
+   "es": "Medita diez minutos cada mañana para sentirse tranquila."
+  },
+  "topic": "leisure"
+ },
+ {
+  "id": "meditation-n",
+  "example": "Meditation helps me relax after a stressful day at work.",
+  "gloss": {
+   "fr": "la méditation",
+   "es": "la meditación"
+  },
+  "exampleGloss": {
+   "fr": "La méditation m'aide à me détendre après une journée stressante au travail.",
+   "es": "La meditación me ayuda a relajarme después de un día estresante en el trabajo."
+  },
+  "topic": "leisure"
+ },
+ {
+  "id": "mediterranean-n",
+  "example": "We spent our summer holiday sailing on the Mediterranean.",
+  "gloss": {
+   "fr": "la Méditerranée",
+   "es": "el Mediterráneo"
+  },
+  "exampleGloss": {
+   "fr": "Nous avons passé nos vacances d'été à faire de la voile sur la Méditerranée.",
+   "es": "Pasamos las vacaciones de verano navegando por el Mediterráneo."
+  },
+  "topic": "nature"
+ },
+ {
+  "id": "medium-adj",
+  "example": "I'd like a medium coffee with milk, please.",
+  "gloss": {
+   "fr": "moyen",
+   "es": "mediano"
+  },
+  "exampleGloss": {
+   "fr": "Je voudrais un café moyen au lait, s'il vous plaît.",
+   "es": "Quería un café mediano con leche, por favor."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "medium-n",
+  "example": "Television is still a powerful medium for advertising.",
+  "gloss": {
+   "fr": "le média",
+   "es": "el medio"
+  },
+  "exampleGloss": {
+   "fr": "La télévision reste un média puissant pour la publicité.",
+   "es": "La televisión sigue siendo un medio muy potente para la publicidad."
+  },
+  "topic": "leisure"
+ },
+ {
+  "id": "melt-v",
+  "example": "The ice cream melted quickly in the hot sun.",
+  "gloss": {
+   "fr": "fondre",
+   "es": "derretirse"
+  },
+  "exampleGloss": {
+   "fr": "La glace a fondu rapidement sous le soleil brûlant.",
+   "es": "El helado se derritió rápidamente bajo el sol."
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "membership-n",
+  "example": "My gym membership costs thirty euros a month.",
+  "gloss": {
+   "fr": "l'abonnement",
+   "es": "la cuota de socio"
+  },
+  "exampleGloss": {
+   "fr": "Mon abonnement à la salle de sport coûte trente euros par mois.",
+   "es": "Mi cuota del gimnasio cuesta treinta euros al mes."
+  },
+  "topic": "leisure"
+ },
+ {
+  "id": "memorable-adj",
+  "example": "Our wedding day was the most memorable day of my life.",
+  "gloss": {
+   "fr": "mémorable",
+   "es": "memorable"
+  },
+  "exampleGloss": {
+   "fr": "Le jour de notre mariage a été le jour le plus mémorable de ma vie.",
+   "es": "El día de nuestra boda fue el día más memorable de mi vida."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "memorize-v",
+  "example": "Actors have to memorize long pages of text.",
+  "gloss": {
+   "fr": "mémoriser",
+   "es": "memorizar"
+  },
+  "exampleGloss": {
+   "fr": "Les acteurs doivent mémoriser de longues pages de texte.",
+   "es": "Los actores tienen que memorizar páginas de texto muy largas."
+  },
+  "topic": "school"
+ },
+ {
+  "id": "mend-v",
+  "example": "My grandmother mended the hole in my jacket.",
+  "gloss": {
+   "fr": "raccommoder",
+   "es": "remendar"
+  },
+  "exampleGloss": {
+   "fr": "Ma grand-mère a raccommodé le trou de ma veste.",
+   "es": "Mi abuela me remendó el agujero de la chaqueta."
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "mental-adj",
+  "example": "Sport is good for both your physical and mental health.",
+  "gloss": {
+   "fr": "mental",
+   "es": "mental"
+  },
+  "exampleGloss": {
+   "fr": "Le sport est bon pour la santé physique et mentale.",
+   "es": "El deporte es bueno para la salud física y mental."
+  },
+  "topic": "body"
+ },
+ {
+  "id": "mentally-adv",
+  "example": "After the long exam, I felt mentally tired.",
+  "gloss": {
+   "fr": "mentalement",
+   "es": "mentalmente"
+  },
+  "exampleGloss": {
+   "fr": "Après ce long examen, je me sentais fatigué mentalement.",
+   "es": "Después del largo examen, me sentía agotado mentalmente."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "mention-v",
+  "example": "She didn't mention that she was moving to another city.",
+  "gloss": {
+   "fr": "mentionner",
+   "es": "mencionar"
+  },
+  "exampleGloss": {
+   "fr": "Elle n'a pas mentionné qu'elle déménageait dans une autre ville.",
+   "es": "No mencionó que se mudaba a otra ciudad."
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "merchant-n",
+  "example": "The merchant sold silk and spices in the old market.",
+  "gloss": {
+   "fr": "le marchand",
+   "es": "el comerciante"
+  },
+  "exampleGloss": {
+   "fr": "Le marchand vendait de la soie et des épices au vieux marché.",
+   "es": "El comerciante vendía seda y especias en el antiguo mercado."
+  },
+  "topic": "work"
+ },
+ {
+  "id": "mere-adj",
+  "example": "The ticket cost a mere five euros.",
+  "gloss": {
+   "fr": "simple",
+   "es": "mero"
+  },
+  "exampleGloss": {
+   "fr": "Le billet ne coûtait que cinq euros.",
+   "es": "La entrada costaba apenas cinco euros."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "merely-adv",
+  "example": "I'm not angry, I'm merely asking a question.",
+  "gloss": {
+   "fr": "simplement",
+   "es": "simplemente"
+  },
+  "exampleGloss": {
+   "fr": "Je ne suis pas en colère, je pose simplement une question.",
+   "es": "No estoy enfadado, simplemente te hago una pregunta."
+  },
+  "topic": "smallwords"
+ },
+ {
+  "id": "mess-n",
+  "example": "The kitchen was a mess after the party.",
+  "gloss": {
+   "fr": "le désordre",
+   "es": "el desorden"
+  },
+  "exampleGloss": {
+   "fr": "La cuisine était en désordre après la fête.",
+   "es": "La cocina era un desastre después de la fiesta."
+  },
+  "topic": "home"
+ },
+ {
+  "id": "message-board-n",
+  "example": "I asked for advice on a message board for travellers.",
+  "gloss": {
+   "fr": "le forum",
+   "es": "el foro"
+  },
+  "exampleGloss": {
+   "fr": "J'ai demandé conseil sur un forum de voyageurs.",
+   "es": "Pedí consejo en un foro de viajeros."
+  },
+  "topic": "leisure"
+ },
+ {
+  "id": "messy-adj",
+  "example": "My brother's room is always messy, with clothes everywhere.",
+  "gloss": {
+   "fr": "en désordre",
+   "es": "desordenado"
+  },
+  "exampleGloss": {
+   "fr": "La chambre de mon frère est toujours en désordre, avec des vêtements partout.",
+   "es": "La habitación de mi hermano siempre está desordenada, con ropa por todas partes."
+  },
+  "topic": "home"
+ },
+ {
+  "id": "middle-aged-adj",
+  "example": "A middle-aged man with grey hair opened the door.",
+  "gloss": {
+   "fr": "d'âge mûr",
+   "es": "de mediana edad"
+  },
+  "exampleGloss": {
+   "fr": "Un homme d'âge mûr aux cheveux gris a ouvert la porte.",
+   "es": "Un hombre de mediana edad con el pelo canoso abrió la puerta."
+  },
+  "topic": "people"
+ },
+ {
+  "id": "mild-adj",
+  "example": "The winter here is mild, so it rarely snows.",
+  "gloss": {
+   "fr": "doux",
+   "es": "suave"
+  },
+  "exampleGloss": {
+   "fr": "L'hiver est doux ici, donc il neige rarement.",
+   "es": "Aquí el invierno es suave, así que casi nunca nieva."
+  },
+  "topic": "nature"
+ },
+ {
+  "id": "mile-n",
+  "example": "The beach is only two miles from our hotel.",
+  "gloss": {
+   "fr": "le mile",
+   "es": "la milla"
+  },
+  "exampleGloss": {
+   "fr": "La plage n'est qu'à deux miles de notre hôtel.",
+   "es": "La playa está a solo dos millas de nuestro hotel."
+  },
+  "topic": "transport"
+ },
+ {
+  "id": "mineral-n",
+  "example": "Fruit and vegetables give us important vitamins and minerals.",
+  "gloss": {
+   "fr": "le minéral",
+   "es": "el mineral"
+  },
+  "exampleGloss": {
+   "fr": "Les fruits et légumes nous apportent des vitamines et des minéraux importants.",
+   "es": "La fruta y la verdura nos aportan vitaminas y minerales importantes."
+  },
+  "topic": "food"
+ },
+ {
+  "id": "minimize-v",
+  "example": "Wear a helmet to minimize the risk of injury.",
+  "gloss": {
+   "fr": "réduire au minimum",
+   "es": "minimizar"
+  },
+  "exampleGloss": {
+   "fr": "Porte un casque pour réduire au minimum le risque de blessure.",
+   "es": "Ponte el casco para minimizar el riesgo de lesiones."
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "minimum-adj",
+  "example": "The minimum age for this job is eighteen.",
+  "gloss": {
+   "fr": "minimum",
+   "es": "mínimo"
+  },
+  "exampleGloss": {
+   "fr": "L'âge minimum pour ce travail est de dix-huit ans.",
+   "es": "La edad mínima para este trabajo es de dieciocho años."
+  },
+  "topic": "work"
+ },
+ {
+  "id": "minimum-n",
+  "example": "You should sleep a minimum of seven hours a night.",
+  "gloss": {
+   "fr": "le minimum",
+   "es": "el mínimo"
+  },
+  "exampleGloss": {
+   "fr": "Tu devrais dormir un minimum de sept heures par nuit.",
+   "es": "Deberías dormir un mínimo de siete horas cada noche."
+  },
+  "topic": "time"
+ },
+ {
+  "id": "minor-adj",
+  "example": "It was only a minor accident, and nobody was hurt.",
+  "gloss": {
+   "fr": "mineur",
+   "es": "leve"
+  },
+  "exampleGloss": {
+   "fr": "Ce n'était qu'un accident mineur, et personne n'a été blessé.",
+   "es": "Fue solo un accidente leve y nadie resultó herido."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "minority-n",
+  "example": "Only a minority of students voted against the plan.",
+  "gloss": {
+   "fr": "la minorité",
+   "es": "la minoría"
+  },
+  "exampleGloss": {
+   "fr": "Seule une minorité d'élèves a voté contre le projet.",
+   "es": "Solo una minoría de estudiantes votó en contra del plan."
+  },
+  "topic": "people"
+ },
+ {
+  "id": "minus-prep",
+  "example": "Ten minus four is six.",
+  "gloss": {
+   "fr": "moins",
+   "es": "menos"
+  },
+  "exampleGloss": {
+   "fr": "Dix moins quatre font six.",
+   "es": "Diez menos cuatro son seis."
+  },
+  "topic": "smallwords"
+ },
+ {
+  "id": "miracle-n",
+  "example": "It was a miracle that nobody died in the fire.",
+  "gloss": {
+   "fr": "le miracle",
+   "es": "el milagro"
+  },
+  "exampleGloss": {
+   "fr": "C'était un miracle que personne ne soit mort dans l'incendie.",
+   "es": "Fue un milagro que nadie muriera en el incendio."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "mischief-n",
+  "example": "The children got into mischief while their parents were out.",
+  "gloss": {
+   "fr": "les bêtises",
+   "es": "las travesuras"
+  },
+  "exampleGloss": {
+   "fr": "Les enfants ont fait des bêtises pendant que leurs parents étaient sortis.",
+   "es": "Los niños hicieron travesuras mientras sus padres estaban fuera."
+  },
+  "topic": "people"
+ },
+ {
+  "id": "miserable-adj",
+  "example": "I felt miserable when my best friend moved away.",
+  "gloss": {
+   "fr": "malheureux",
+   "es": "triste"
+  },
+  "exampleGloss": {
+   "fr": "Je me suis senti malheureux quand mon meilleur ami a déménagé.",
+   "es": "Me sentí muy triste cuando mi mejor amigo se mudó."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "misery-n",
+  "example": "The war brought misery to thousands of families.",
+  "gloss": {
+   "fr": "la misère",
+   "es": "la miseria"
+  },
+  "exampleGloss": {
+   "fr": "La guerre a plongé des milliers de familles dans la misère.",
+   "es": "La guerra trajo la miseria a miles de familias."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "mislead-v",
+  "example": "The advert misleads people about the real price.",
+  "gloss": {
+   "fr": "induire en erreur",
+   "es": "engañar"
+  },
+  "exampleGloss": {
+   "fr": "La publicité induit les gens en erreur sur le vrai prix.",
+   "es": "El anuncio engaña a la gente sobre el precio real."
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "mission-n",
+  "example": "The astronauts returned safely from their mission in space.",
+  "gloss": {
+   "fr": "la mission",
+   "es": "la misión"
+  },
+  "exampleGloss": {
+   "fr": "Les astronautes sont rentrés sains et saufs de leur mission dans l'espace.",
+   "es": "Los astronautas volvieron sanos y salvos de su misión en el espacio."
+  },
+  "topic": "work"
+ },
+ {
+  "id": "misty-adj",
+  "example": "It was a misty morning, and we couldn't see the hills.",
+  "gloss": {
+   "fr": "brumeux",
+   "es": "neblinoso"
+  },
+  "exampleGloss": {
+   "fr": "C'était un matin brumeux, et on ne voyait pas les collines.",
+   "es": "Era una mañana con niebla y no veíamos las colinas."
+  },
+  "topic": "nature"
+ },
+ {
+  "id": "misunderstanding-n",
+  "example": "There was a misunderstanding about the time of the meeting.",
+  "gloss": {
+   "fr": "le malentendu",
+   "es": "el malentendido"
+  },
+  "exampleGloss": {
+   "fr": "Il y a eu un malentendu sur l'heure de la réunion.",
+   "es": "Hubo un malentendido sobre la hora de la reunión."
+  },
+  "topic": "people"
+ },
+ {
+  "id": "mixing-bowl-n",
+  "example": "Put the flour and eggs in a large mixing bowl.",
+  "gloss": {
+   "fr": "le saladier",
+   "es": "el bol"
+  },
+  "exampleGloss": {
+   "fr": "Mets la farine et les œufs dans un grand saladier.",
+   "es": "Pon la harina y los huevos en un bol grande."
+  },
+  "topic": "home"
+ },
+ {
+  "id": "modal-verb-n",
+  "example": "\"Can\" and \"must\" are examples of a modal verb.",
+  "gloss": {
+   "fr": "le verbe modal",
+   "es": "el verbo modal"
+  },
+  "exampleGloss": {
+   "fr": "« Can » et « must » sont des exemples de verbe modal.",
+   "es": "«Can» y «must» son ejemplos de verbo modal."
+  },
+  "topic": "school"
+ },
+ {
+  "id": "model-adj",
+  "example": "He built a model train that runs around the garden.",
+  "gloss": {
+   "fr": "miniature",
+   "es": "en miniatura"
+  },
+  "exampleGloss": {
+   "fr": "Il a construit un train miniature qui fait le tour du jardin.",
+   "es": "Construyó un tren en miniatura que da vueltas por el jardín."
+  },
+  "topic": "leisure"
+ },
+ {
+  "id": "model-v",
+  "example": "She models clothes for a famous fashion designer.",
+  "gloss": {
+   "fr": "présenter (en tant que mannequin)",
+   "es": "desfilar"
+  },
+  "exampleGloss": {
+   "fr": "Elle présente des vêtements pour un célèbre créateur de mode.",
+   "es": "Desfila con ropa de un diseñador de moda famoso."
+  },
+  "topic": "clothes"
+ },
+ {
+  "id": "modem-n",
+  "example": "If the internet stops working, try turning the modem off and on.",
+  "gloss": {
+   "fr": "le modem",
+   "es": "el módem"
+  },
+  "exampleGloss": {
+   "fr": "Si internet ne marche plus, essaie d'éteindre et de rallumer le modem.",
+   "es": "Si internet deja de funcionar, prueba a apagar y encender el módem."
+  },
+  "topic": "home"
+ },
+ {
+  "id": "moderate-adj",
+  "example": "Moderate exercise, like walking, is good for older people.",
+  "gloss": {
+   "fr": "modéré",
+   "es": "moderado"
+  },
+  "exampleGloss": {
+   "fr": "Un exercice modéré, comme la marche, est bon pour les personnes âgées.",
+   "es": "El ejercicio moderado, como caminar, es bueno para las personas mayores."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "modify-v",
+  "example": "We had to modify the recipe because my son can't eat nuts.",
+  "gloss": {
+   "fr": "modifier",
+   "es": "modificar"
+  },
+  "exampleGloss": {
+   "fr": "Nous avons dû modifier la recette parce que mon fils ne peut pas manger de noix.",
+   "es": "Tuvimos que modificar la receta porque mi hijo no puede comer frutos secos."
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "moisture-n",
+  "example": "This cream keeps moisture in your skin during the winter.",
+  "gloss": {
+   "fr": "l'humidité",
+   "es": "la humedad"
+  },
+  "exampleGloss": {
+   "fr": "Cette crème garde l'humidité dans ta peau pendant l'hiver.",
+   "es": "Esta crema mantiene la humedad de la piel durante el invierno."
+  },
+  "topic": "nature"
+ },
+ {
+  "id": "molecule-n",
+  "example": "A water molecule has two hydrogen atoms and one oxygen atom.",
+  "gloss": {
+   "fr": "la molécule",
+   "es": "la molécula"
+  },
+  "exampleGloss": {
+   "fr": "Une molécule d'eau contient deux atomes d'hydrogène et un atome d'oxygène.",
+   "es": "Una molécula de agua tiene dos átomos de hidrógeno y uno de oxígeno."
+  },
+  "topic": "school"
+ },
+ {
+  "id": "monitor-n",
+  "example": "I bought a bigger monitor for my computer.",
+  "gloss": {
+   "fr": "l'écran",
+   "es": "el monitor"
+  },
+  "exampleGloss": {
+   "fr": "J'ai acheté un écran plus grand pour mon ordinateur.",
+   "es": "Me compré un monitor más grande para el ordenador."
+  },
+  "topic": "work"
+ },
+ {
+  "id": "monitor-v",
+  "example": "The nurses monitor the patient's heart all night.",
+  "gloss": {
+   "fr": "surveiller",
+   "es": "controlar"
+  },
+  "exampleGloss": {
+   "fr": "Les infirmières surveillent le cœur du patient toute la nuit.",
+   "es": "Las enfermeras controlan el corazón del paciente toda la noche."
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "monk-n",
+  "example": "The monks live quietly in a building on the hill.",
+  "gloss": {
+   "fr": "le moine",
+   "es": "el monje"
+  },
+  "exampleGloss": {
+   "fr": "Les moines vivent dans le calme dans un bâtiment sur la colline.",
+   "es": "Los monjes viven tranquilamente en un edificio en la colina."
+  },
+  "topic": "people"
+ },
+ {
+  "id": "monster-n",
+  "example": "My little sister is afraid of the monster in the film.",
+  "gloss": {
+   "fr": "le monstre",
+   "es": "el monstruo"
+  },
+  "exampleGloss": {
+   "fr": "Ma petite sœur a peur du monstre dans le film.",
+   "es": "Mi hermana pequeña tiene miedo del monstruo de la película."
+  },
+  "topic": "leisure"
+ },
+ {
+  "id": "monthly-adj",
+  "example": "Our monthly rent is eight hundred euros.",
+  "gloss": {
+   "fr": "mensuel",
+   "es": "mensual"
+  },
+  "exampleGloss": {
+   "fr": "Notre loyer mensuel est de huit cents euros.",
+   "es": "Nuestro alquiler mensual es de ochocientos euros."
+  },
+  "topic": "time"
+ },
+ {
+  "id": "monthly-adv",
+  "example": "The magazine is published monthly.",
+  "gloss": {
+   "fr": "tous les mois",
+   "es": "mensualmente"
+  },
+  "exampleGloss": {
+   "fr": "Le magazine paraît tous les mois.",
+   "es": "La revista se publica mensualmente."
+  },
+  "topic": "time"
+ },
+ {
+  "id": "monument-n",
+  "example": "Tourists take photos in front of the monument in the main square.",
+  "gloss": {
+   "fr": "le monument",
+   "es": "el monumento"
+  },
+  "exampleGloss": {
+   "fr": "Les touristes prennent des photos devant le monument de la place principale.",
+   "es": "Los turistas se hacen fotos delante del monumento de la plaza mayor."
+  },
+  "topic": "town"
+ },
+ {
+  "id": "moral-n",
+  "example": "The moral of the story is that we should always tell the truth.",
+  "gloss": {
+   "fr": "la morale",
+   "es": "la moraleja"
+  },
+  "exampleGloss": {
+   "fr": "La morale de l'histoire, c'est qu'il faut toujours dire la vérité.",
+   "es": "La moraleja de la historia es que siempre hay que decir la verdad."
+  },
+  "topic": "school"
+ },
+ {
+  "id": "more-adv",
+  "example": "You should sleep more if you feel tired all the time.",
+  "gloss": {
+   "fr": "plus",
+   "es": "más"
+  },
+  "exampleGloss": {
+   "fr": "Tu devrais dormir plus si tu te sens tout le temps fatigué.",
+   "es": "Deberías dormir más si siempre estás cansado."
+  },
+  "topic": "smallwords"
+ },
+ {
+  "id": "moreover-adv",
+  "example": "The hotel was cheap; moreover, it was very close to the beach.",
+  "gloss": {
+   "fr": "de plus",
+   "es": "además"
+  },
+  "exampleGloss": {
+   "fr": "L'hôtel n'était pas cher ; de plus, il était tout près de la plage.",
+   "es": "El hotel era barato; además, estaba muy cerca de la playa."
+  },
+  "topic": "smallwords"
+ },
+ {
+  "id": "mosquito-n",
+  "example": "A mosquito bit me on the arm last night.",
+  "gloss": {
+   "fr": "le moustique",
+   "es": "el mosquito"
+  },
+  "exampleGloss": {
+   "fr": "Un moustique m'a piqué au bras hier soir.",
+   "es": "Anoche me picó un mosquito en el brazo."
+  },
+  "topic": "animals"
+ },
+ {
+  "id": "moss-n",
+  "example": "Green moss grows on the rocks near the river.",
+  "gloss": {
+   "fr": "la mousse",
+   "es": "el musgo"
+  },
+  "exampleGloss": {
+   "fr": "De la mousse verte pousse sur les rochers près de la rivière.",
+   "es": "En las rocas cerca del río crece musgo verde."
+  },
+  "topic": "nature"
+ },
+ {
+  "id": "motherland-n",
+  "example": "After many years abroad, he returned to his motherland.",
+  "gloss": {
+   "fr": "la patrie",
+   "es": "la patria"
+  },
+  "exampleGloss": {
+   "fr": "Après de nombreuses années à l'étranger, il est rentré dans sa patrie.",
+   "es": "Después de muchos años en el extranjero, volvió a su patria."
+  },
+  "topic": "people"
+ },
+ {
+  "id": "motionless-adj",
+  "example": "The cat sat motionless, watching the bird in the tree.",
+  "gloss": {
+   "fr": "immobile",
+   "es": "inmóvil"
+  },
+  "exampleGloss": {
+   "fr": "Le chat était assis, immobile, à regarder l'oiseau dans l'arbre.",
+   "es": "El gato estaba sentado, inmóvil, mirando al pájaro del árbol."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "motivate-v",
+  "example": "A good teacher can motivate students to work harder.",
+  "gloss": {
+   "fr": "motiver",
+   "es": "motivar"
+  },
+  "exampleGloss": {
+   "fr": "Un bon professeur peut motiver les élèves à travailler davantage.",
+   "es": "Un buen profesor puede motivar a los alumnos a esforzarse más."
+  },
+  "topic": "school"
+ },
+ {
+  "id": "motivation-n",
+  "example": "I lost my motivation to study after the summer holidays.",
+  "gloss": {
+   "fr": "la motivation",
+   "es": "la motivación"
+  },
+  "exampleGloss": {
+   "fr": "J'ai perdu ma motivation pour étudier après les vacances d'été.",
+   "es": "Perdí la motivación para estudiar después de las vacaciones de verano."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "motive-n",
+  "example": "The police still don't know the motive for the crime.",
+  "gloss": {
+   "fr": "le mobile",
+   "es": "el móvil"
+  },
+  "exampleGloss": {
+   "fr": "La police ne connaît toujours pas le mobile du crime.",
+   "es": "La policía todavía no conoce el móvil del crimen."
+  },
+  "topic": "people"
+ },
+ {
+  "id": "motor-n",
+  "example": "The boat has a small electric motor.",
+  "gloss": {
+   "fr": "le moteur",
+   "es": "el motor"
+  },
+  "exampleGloss": {
+   "fr": "Le bateau a un petit moteur électrique.",
+   "es": "El barco tiene un pequeño motor eléctrico."
+  },
+  "topic": "transport"
+ },
+ {
+  "id": "motorcycle-n",
+  "example": "He rides his motorcycle to work every day.",
+  "gloss": {
+   "fr": "la moto",
+   "es": "la moto"
+  },
+  "exampleGloss": {
+   "fr": "Il va au travail à moto tous les jours.",
+   "es": "Va al trabajo en moto todos los días."
+  },
+  "topic": "transport"
+ },
+ {
+  "id": "motto-n",
+  "example": "Our school motto is \"Learn, share and grow\".",
+  "gloss": {
+   "fr": "la devise",
+   "es": "el lema"
+  },
+  "exampleGloss": {
+   "fr": "La devise de notre école est « Apprendre, partager et grandir ».",
+   "es": "El lema de nuestro colegio es «Aprender, compartir y crecer»."
+  },
+  "topic": "school"
+ },
+ {
+  "id": "mount-n",
+  "example": "Mount Everest is the highest mountain in the world.",
+  "gloss": {
+   "fr": "le mont",
+   "es": "el monte"
+  },
+  "exampleGloss": {
+   "fr": "Le mont Everest est la plus haute montagne du monde.",
+   "es": "El monte Everest es la montaña más alta del mundo."
+  },
+  "topic": "nature"
+ },
+ {
+  "id": "mountaintop-n",
+  "example": "From the mountaintop, we could see the whole valley.",
+  "gloss": {
+   "fr": "le sommet",
+   "es": "la cima"
+  },
+  "exampleGloss": {
+   "fr": "Du sommet de la montagne, on voyait toute la vallée.",
+   "es": "Desde la cima de la montaña se veía todo el valle."
+  },
+  "topic": "nature"
+ },
+ {
+  "id": "mourn-v",
+  "example": "The whole village mourned the death of the old doctor.",
+  "gloss": {
+   "fr": "pleurer",
+   "es": "llorar"
+  },
+  "exampleGloss": {
+   "fr": "Tout le village a pleuré la mort du vieux médecin.",
+   "es": "Todo el pueblo lloró la muerte del viejo médico."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "movement-n",
+  "example": "The doctor watched the movement of my arm carefully.",
+  "gloss": {
+   "fr": "le mouvement",
+   "es": "el movimiento"
+  },
+  "exampleGloss": {
+   "fr": "Le médecin a observé attentivement le mouvement de mon bras.",
+   "es": "El médico observó con atención el movimiento de mi brazo."
+  },
+  "topic": "body"
+ },
+ {
+  "id": "mud-n",
+  "example": "After the rain, my boots were covered in mud.",
+  "gloss": {
+   "fr": "la boue",
+   "es": "el barro"
+  },
+  "exampleGloss": {
+   "fr": "Après la pluie, mes bottes étaient couvertes de boue.",
+   "es": "Después de la lluvia, mis botas estaban cubiertas de barro."
+  },
+  "topic": "nature"
+ },
+ {
+  "id": "mule-n",
+  "example": "The farmer used a mule to carry the bags up the hill.",
+  "gloss": {
+   "fr": "la mule",
+   "es": "la mula"
+  },
+  "exampleGloss": {
+   "fr": "Le fermier utilisait une mule pour porter les sacs en haut de la colline.",
+   "es": "El granjero usaba una mula para subir los sacos por la colina."
+  },
+  "topic": "animals"
+ },
+ {
+  "id": "murder-v",
+  "example": "In the novel, the gardener murders a rich old man.",
+  "gloss": {
+   "fr": "assassiner",
+   "es": "asesinar"
+  },
+  "exampleGloss": {
+   "fr": "Dans le roman, le jardinier assassine un vieil homme riche.",
+   "es": "En la novela, el jardinero asesina a un anciano rico."
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "murderer-n",
+  "example": "The police finally caught the murderer after ten years.",
+  "gloss": {
+   "fr": "le meurtrier",
+   "es": "el asesino"
+  },
+  "exampleGloss": {
+   "fr": "La police a enfin arrêté le meurtrier au bout de dix ans.",
+   "es": "La policía por fin detuvo al asesino después de diez años."
+  },
+  "topic": "people"
+ },
+ {
+  "id": "muscle-n",
+  "example": "I hurt a muscle in my leg while I was running.",
+  "gloss": {
+   "fr": "le muscle",
+   "es": "el músculo"
+  },
+  "exampleGloss": {
+   "fr": "Je me suis fait mal à un muscle de la jambe en courant.",
+   "es": "Me hice daño en un músculo de la pierna mientras corría."
+  },
+  "topic": "body"
+ },
+ {
+  "id": "mustard-n",
+  "example": "Would you like some mustard on your sandwich?",
+  "gloss": {
+   "fr": "la moutarde",
+   "es": "la mostaza"
+  },
+  "exampleGloss": {
+   "fr": "Tu veux de la moutarde dans ton sandwich ?",
+   "es": "¿Quieres mostaza en el sándwich?"
+  },
+  "topic": "food"
+ },
+ {
+  "id": "mutual-adj",
+  "example": "Anna and I met through a mutual friend.",
+  "gloss": {
+   "fr": "commun",
+   "es": "en común"
+  },
+  "exampleGloss": {
+   "fr": "Anna et moi nous sommes rencontrés grâce à un ami commun.",
+   "es": "Anna y yo nos conocimos a través de un amigo en común."
+  },
+  "topic": "people"
+ },
+ {
+  "id": "myth-n",
+  "example": "We read an old Greek myth about a man who could fly.",
+  "gloss": {
+   "fr": "le mythe",
+   "es": "el mito"
+  },
+  "exampleGloss": {
+   "fr": "Nous avons lu un vieux mythe grec sur un homme qui savait voler.",
+   "es": "Leímos un antiguo mito griego sobre un hombre que podía volar."
+  },
+  "topic": "leisure"
+ },
+ {
+  "id": "nail-n",
+  "example": "She painted her nails red for the party.",
+  "gloss": {
+   "fr": "l'ongle",
+   "es": "la uña"
+  },
+  "exampleGloss": {
+   "fr": "Elle s'est mis du vernis rouge sur les ongles pour la fête.",
+   "es": "Se pintó las uñas de rojo para la fiesta."
+  },
+  "topic": "body"
+ },
+ {
+  "id": "naked-adj",
+  "example": "The baby was naked after his bath.",
+  "gloss": {
+   "fr": "nu",
+   "es": "desnudo"
+  },
+  "exampleGloss": {
+   "fr": "Le bébé était tout nu après son bain.",
+   "es": "El bebé estaba desnudo después del baño."
+  },
+  "topic": "body"
+ },
+ {
+  "id": "name-v",
+  "example": "They named their daughter after her grandmother.",
+  "gloss": {
+   "fr": "nommer",
+   "es": "poner nombre"
+  },
+  "exampleGloss": {
+   "fr": "Ils ont donné à leur fille le prénom de sa grand-mère.",
+   "es": "Le pusieron a su hija el nombre de su abuela."
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "nap-n",
+  "example": "My grandfather has a short nap after lunch every day.",
+  "gloss": {
+   "fr": "la sieste",
+   "es": "la siesta"
+  },
+  "exampleGloss": {
+   "fr": "Mon grand-père fait une petite sieste après le déjeuner tous les jours.",
+   "es": "Mi abuelo se echa una siesta corta después de comer todos los días."
+  },
+  "topic": "time"
+ },
+ {
+  "id": "narrate-v",
+  "example": "A famous actor narrates the documentary about whales.",
+  "gloss": {
+   "fr": "raconter",
+   "es": "narrar"
+  },
+  "exampleGloss": {
+   "fr": "Un acteur célèbre raconte le documentaire sur les baleines.",
+   "es": "Un actor famoso narra el documental sobre las ballenas."
+  },
+  "topic": "leisure"
+ },
+ {
+  "id": "narrative-adj",
+  "example": "The student wrote a narrative essay about her first day at school.",
+  "gloss": {
+   "fr": "narratif",
+   "es": "narrativo"
+  },
+  "exampleGloss": {
+   "fr": "L'élève a écrit une rédaction narrative sur son premier jour d'école.",
+   "es": "La alumna escribió una redacción narrativa sobre su primer día de colegio."
+  },
+  "topic": "school"
+ },
+ {
+  "id": "narrow-adj",
+  "example": "The street is too narrow for two cars to pass.",
+  "gloss": {
+   "fr": "étroit",
+   "es": "estrecho"
+  },
+  "exampleGloss": {
+   "fr": "La rue est trop étroite pour que deux voitures se croisent.",
+   "es": "La calle es demasiado estrecha para que pasen dos coches."
+  },
+  "topic": "town"
+ },
+ {
+  "id": "nasty-adj",
+  "example": "He said some nasty things to his sister, and she cried.",
+  "gloss": {
+   "fr": "méchant",
+   "es": "desagradable"
+  },
+  "exampleGloss": {
+   "fr": "Il a dit des choses méchantes à sa sœur, et elle a pleuré.",
+   "es": "Le dijo cosas desagradables a su hermana y ella se echó a llorar."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "nationalist-n",
+  "example": "The nationalists want their region to become an independent country.",
+  "gloss": {
+   "fr": "le nationaliste",
+   "es": "el nacionalista"
+  },
+  "exampleGloss": {
+   "fr": "Les nationalistes veulent que leur région devienne un pays indépendant.",
+   "es": "Los nacionalistas quieren que su región se convierta en un país independiente."
+  },
+  "topic": "people"
+ },
+ {
+  "id": "naturally-adv",
+  "example": "Her hair is naturally curly.",
+  "gloss": {
+   "fr": "naturellement",
+   "es": "de forma natural"
+  },
+  "exampleGloss": {
+   "fr": "Elle a les cheveux naturellement bouclés.",
+   "es": "Tiene el pelo rizado de forma natural."
+  },
+  "topic": "smallwords"
+ },
+ {
+  "id": "navy-blue-adj",
+  "example": "He wore a navy blue jacket and a white shirt.",
+  "gloss": {
+   "fr": "bleu marine",
+   "es": "azul marino"
+  },
+  "exampleGloss": {
+   "fr": "Il portait une veste bleu marine et une chemise blanche.",
+   "es": "Llevaba una chaqueta azul marino y una camisa blanca."
+  },
+  "topic": "clothes"
+ },
+ {
+  "id": "near-adj",
+  "example": "Let's walk to the station, it's very near.",
+  "gloss": {
+   "fr": "proche",
+   "es": "cercano"
+  },
+  "exampleGloss": {
+   "fr": "Allons à la gare à pied, c'est tout près.",
+   "es": "Vamos andando a la estación, está muy cerca."
+  },
+  "topic": "town"
+ }
+]

@@ -1,0 +1,572 @@
+[
+ {
+  "id": "sea-n",
+  "headword": "sea",
+  "pos": "noun",
+  "example": "We swim in the sea in summer."
+ },
+ {
+  "id": "seat-n",
+  "headword": "seat",
+  "pos": "noun",
+  "example": "Sit on this seat, please."
+ },
+ {
+  "id": "second-adj",
+  "headword": "second",
+  "pos": "adjective",
+  "example": "Tuesday is the second day of the week."
+ },
+ {
+  "id": "section-n",
+  "headword": "section",
+  "pos": "noun",
+  "example": "The milk is in the cold section of the shop."
+ },
+ {
+  "id": "see-v",
+  "headword": "see",
+  "pos": "verb",
+  "example": "I see a cat in the garden."
+ },
+ {
+  "id": "self-n",
+  "headword": "self",
+  "pos": "noun",
+  "example": "With friends, you can be your true self."
+ },
+ {
+  "id": "sell-v",
+  "headword": "sell",
+  "pos": "verb",
+  "example": "He sells fruit at the market."
+ },
+ {
+  "id": "sentence-n",
+  "headword": "sentence",
+  "pos": "noun",
+  "example": "Write a short sentence in English."
+ },
+ {
+  "id": "september-n",
+  "headword": "September",
+  "pos": "noun",
+  "example": "School starts in September."
+ },
+ {
+  "id": "set-v",
+  "headword": "set",
+  "pos": "verb",
+  "example": "I set the table for dinner."
+ },
+ {
+  "id": "share-v",
+  "headword": "share",
+  "pos": "verb",
+  "example": "I share my cake with my brother."
+ },
+ {
+  "id": "she-pron",
+  "headword": "she",
+  "pos": "pronoun",
+  "example": "She is a teacher."
+ },
+ {
+  "id": "sheep-n",
+  "headword": "sheep",
+  "pos": "noun",
+  "example": "The sheep eats grass on the farm."
+ },
+ {
+  "id": "shelf-n",
+  "headword": "shelf",
+  "pos": "noun",
+  "example": "The books are on the shelf."
+ },
+ {
+  "id": "ship-n",
+  "headword": "ship",
+  "pos": "noun",
+  "example": "A big ship crosses the sea."
+ },
+ {
+  "id": "shirt-n",
+  "headword": "shirt",
+  "pos": "noun",
+  "example": "He wears a white shirt to work."
+ },
+ {
+  "id": "shoe-n",
+  "headword": "shoe",
+  "pos": "noun",
+  "example": "My left shoe is too small."
+ },
+ {
+  "id": "shop-n",
+  "headword": "shop",
+  "pos": "noun",
+  "example": "The shop opens at nine o'clock."
+ },
+ {
+  "id": "shopping-n",
+  "headword": "shopping",
+  "pos": "noun",
+  "example": "I do the shopping on Saturday."
+ },
+ {
+  "id": "short-adj",
+  "headword": "short",
+  "pos": "adjective",
+  "example": "My sister has short hair."
+ },
+ {
+  "id": "should-modal",
+  "headword": "should",
+  "pos": "modal auxiliary",
+  "example": "You look tired. You should go to bed."
+ },
+ {
+  "id": "shoulder-n",
+  "headword": "shoulder",
+  "pos": "noun",
+  "example": "My bag is heavy on my shoulder."
+ },
+ {
+  "id": "show-v",
+  "headword": "show",
+  "pos": "verb",
+  "example": "Please show me your new phone."
+ },
+ {
+  "id": "shower-n",
+  "headword": "shower",
+  "pos": "noun",
+  "example": "I have a shower every morning."
+ },
+ {
+  "id": "shy-adj",
+  "headword": "shy",
+  "pos": "adjective",
+  "example": "She is shy and does not talk much."
+ },
+ {
+  "id": "sick-adj",
+  "headword": "sick",
+  "pos": "adjective",
+  "example": "I am sick, so I stay in bed."
+ },
+ {
+  "id": "side-n",
+  "headword": "side",
+  "pos": "noun",
+  "example": "The bank is on the left side of the street."
+ },
+ {
+  "id": "sight-n",
+  "headword": "sight",
+  "pos": "noun",
+  "example": "My grandfather has poor sight and needs glasses."
+ },
+ {
+  "id": "sign-n",
+  "headword": "sign",
+  "pos": "noun",
+  "example": "The sign on the door says 'Closed'."
+ },
+ {
+  "id": "sing-v",
+  "headword": "sing",
+  "pos": "verb",
+  "example": "My mother sings in the kitchen."
+ },
+ {
+  "id": "sir-n",
+  "headword": "sir",
+  "pos": "noun",
+  "example": "Can I help you, sir?"
+ },
+ {
+  "id": "sister-n",
+  "headword": "sister",
+  "pos": "noun",
+  "example": "My sister is ten years old."
+ },
+ {
+  "id": "sit-v",
+  "headword": "sit",
+  "pos": "verb",
+  "example": "We sit at the table to eat."
+ },
+ {
+  "id": "site-n",
+  "headword": "site",
+  "pos": "noun",
+  "example": "Look for the train times on this site."
+ },
+ {
+  "id": "size-n",
+  "headword": "size",
+  "pos": "noun",
+  "example": "I need this dress in a bigger size."
+ },
+ {
+  "id": "skill-n",
+  "headword": "skill",
+  "pos": "noun",
+  "example": "Cooking is a useful skill."
+ },
+ {
+  "id": "skirt-n",
+  "headword": "skirt",
+  "pos": "noun",
+  "example": "She wears a red skirt today."
+ },
+ {
+  "id": "sky-n",
+  "headword": "sky",
+  "pos": "noun",
+  "example": "The sky is blue today."
+ },
+ {
+  "id": "sleep-v",
+  "headword": "sleep",
+  "pos": "verb",
+  "example": "Babies sleep a lot."
+ },
+ {
+  "id": "slow-adj",
+  "headword": "slow",
+  "pos": "adjective",
+  "example": "The old bus is very slow."
+ },
+ {
+  "id": "smart-adj",
+  "headword": "smart",
+  "pos": "adjective",
+  "example": "My dog is very smart."
+ },
+ {
+  "id": "smell-n",
+  "headword": "smell",
+  "pos": "noun",
+  "example": "I love the smell of fresh bread."
+ },
+ {
+  "id": "smile-n",
+  "headword": "smile",
+  "pos": "noun",
+  "example": "She has a big smile on her face."
+ },
+ {
+  "id": "smith-n",
+  "headword": "smith",
+  "pos": "noun",
+  "example": "The smith makes things from metal."
+ },
+ {
+  "id": "smoke-n",
+  "headword": "smoke",
+  "pos": "noun",
+  "example": "There is black smoke in the kitchen."
+ },
+ {
+  "id": "smoking-n",
+  "headword": "smoking",
+  "pos": "noun",
+  "example": "Smoking is bad for your health."
+ },
+ {
+  "id": "snake-n",
+  "headword": "snake",
+  "pos": "noun",
+  "example": "The snake is long and green."
+ },
+ {
+  "id": "snow-n",
+  "headword": "snow",
+  "pos": "noun",
+  "example": "Children play in the snow."
+ },
+ {
+  "id": "snowy-adj",
+  "headword": "snowy",
+  "pos": "adjective",
+  "example": "It is a cold, snowy day."
+ },
+ {
+  "id": "so-conj",
+  "headword": "so",
+  "pos": "conjunction",
+  "example": "It is raining, so I take an umbrella."
+ },
+ {
+  "id": "social-adj",
+  "headword": "social",
+  "pos": "adjective",
+  "example": "I use social media every day."
+ },
+ {
+  "id": "sofa-n",
+  "headword": "sofa",
+  "pos": "noun",
+  "example": "The cat sleeps on the sofa."
+ },
+ {
+  "id": "solve-v",
+  "headword": "solve",
+  "pos": "verb",
+  "example": "Can you solve this maths problem?"
+ },
+ {
+  "id": "some-det",
+  "headword": "some",
+  "pos": "determiner",
+  "example": "There are some apples on the table."
+ },
+ {
+  "id": "some-pron",
+  "headword": "some",
+  "pos": "pronoun",
+  "example": "These cakes are good. Do you want some?"
+ },
+ {
+  "id": "someone-pron",
+  "headword": "someone",
+  "pos": "pronoun",
+  "example": "Someone is at the door."
+ },
+ {
+  "id": "something-pron",
+  "headword": "something",
+  "pos": "pronoun",
+  "example": "I want something to eat."
+ },
+ {
+  "id": "son-n",
+  "headword": "son",
+  "pos": "noun",
+  "example": "Their son is five years old."
+ },
+ {
+  "id": "song-n",
+  "headword": "song",
+  "pos": "noun",
+  "example": "This is my favourite song."
+ },
+ {
+  "id": "soon-adv",
+  "headword": "soon",
+  "pos": "adverb",
+  "example": "The bus comes soon."
+ },
+ {
+  "id": "soup-n",
+  "headword": "soup",
+  "pos": "noun",
+  "example": "I eat hot soup in winter."
+ },
+ {
+  "id": "speak-v",
+  "headword": "speak",
+  "pos": "verb",
+  "example": "I speak French and a little English."
+ },
+ {
+  "id": "special-adj",
+  "headword": "special",
+  "pos": "adjective",
+  "example": "Today is a special day: my birthday!"
+ },
+ {
+  "id": "speech-n",
+  "headword": "speech",
+  "pos": "noun",
+  "example": "The teacher gives a short speech at the party."
+ },
+ {
+  "id": "spell-n",
+  "headword": "spell",
+  "pos": "noun",
+  "example": "The witch puts a spell on the prince."
+ },
+ {
+  "id": "spend-v",
+  "headword": "spend",
+  "pos": "verb",
+  "example": "I spend ten euros on books."
+ },
+ {
+  "id": "sport-n",
+  "headword": "sport",
+  "pos": "noun",
+  "example": "Football is my favourite sport."
+ },
+ {
+  "id": "spot-n",
+  "headword": "spot",
+  "pos": "noun",
+  "example": "My dog is white with black spots."
+ },
+ {
+  "id": "spring-n",
+  "headword": "spring",
+  "pos": "noun",
+  "example": "Flowers grow in spring."
+ },
+ {
+  "id": "spy-n",
+  "headword": "spy",
+  "pos": "noun",
+  "example": "The spy has a secret name."
+ },
+ {
+  "id": "stand-n",
+  "headword": "stand",
+  "pos": "noun",
+  "example": "We buy fruit at a stand in the market."
+ },
+ {
+  "id": "star-n",
+  "headword": "star",
+  "pos": "noun",
+  "example": "She is a big film star."
+ },
+ {
+  "id": "start-n",
+  "headword": "start",
+  "pos": "noun",
+  "example": "We are late for the start of the film."
+ },
+ {
+  "id": "start-v",
+  "headword": "start",
+  "pos": "verb",
+  "example": "Lessons start at eight o'clock."
+ },
+ {
+  "id": "station-n",
+  "headword": "station",
+  "pos": "noun",
+  "example": "The train leaves from the station at ten."
+ },
+ {
+  "id": "stay-v",
+  "headword": "stay",
+  "pos": "verb",
+  "example": "I stay at home on Sunday."
+ },
+ {
+  "id": "step-v",
+  "headword": "step",
+  "pos": "verb",
+  "example": "Do not step on the cat's tail!"
+ },
+ {
+  "id": "still-adj",
+  "headword": "still",
+  "pos": "adjective",
+  "example": "Please stay still for the photo."
+ },
+ {
+  "id": "stone-n",
+  "headword": "stone",
+  "pos": "noun",
+  "example": "The old house is made of stone."
+ },
+ {
+  "id": "stop-n",
+  "headword": "stop",
+  "pos": "noun",
+  "example": "I wait at the bus stop."
+ },
+ {
+  "id": "store-n",
+  "headword": "store",
+  "pos": "noun",
+  "example": "The store sells clothes and shoes."
+ },
+ {
+  "id": "story-n",
+  "headword": "story",
+  "pos": "noun",
+  "example": "My dad reads me a story at night."
+ },
+ {
+  "id": "straight-adv",
+  "headword": "straight",
+  "pos": "adverb",
+  "example": "Go straight on, then turn left."
+ },
+ {
+  "id": "strange-adj",
+  "headword": "strange",
+  "pos": "adjective",
+  "example": "I hear a strange noise in the night."
+ },
+ {
+  "id": "street-n",
+  "headword": "street",
+  "pos": "noun",
+  "example": "I live in a quiet street."
+ },
+ {
+  "id": "strict-adj",
+  "headword": "strict",
+  "pos": "adjective",
+  "example": "Our teacher is strict about homework."
+ },
+ {
+  "id": "strong-adj",
+  "headword": "strong",
+  "pos": "adjective",
+  "example": "He is strong and carries the heavy box."
+ },
+ {
+  "id": "student-n",
+  "headword": "student",
+  "pos": "noun",
+  "example": "She is a student at the university."
+ },
+ {
+  "id": "study-v",
+  "headword": "study",
+  "pos": "verb",
+  "example": "I study English every evening."
+ },
+ {
+  "id": "subject-n",
+  "headword": "subject",
+  "pos": "noun",
+  "example": "My favourite subject at school is maths."
+ },
+ {
+  "id": "successful-adj",
+  "headword": "successful",
+  "pos": "adjective",
+  "example": "Her new shop is very successful."
+ },
+ {
+  "id": "sugar-n",
+  "headword": "sugar",
+  "pos": "noun",
+  "example": "I don't take sugar in my coffee."
+ },
+ {
+  "id": "suggestion-n",
+  "headword": "suggestion",
+  "pos": "noun",
+  "example": "Do you have a suggestion for dinner?"
+ },
+ {
+  "id": "sum-n",
+  "headword": "sum",
+  "pos": "noun",
+  "example": "The sum of two and three is five."
+ },
+ {
+  "id": "summer-n",
+  "headword": "summer",
+  "pos": "noun",
+  "example": "We go to the beach in summer."
+ }
+]

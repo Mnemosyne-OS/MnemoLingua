@@ -1,0 +1,566 @@
+[
+ {
+  "id": "fancy-adj",
+  "headword": "fancy",
+  "pos": "adjective",
+  "example": "We had dinner at a fancy restaurant for her birthday."
+ },
+ {
+  "id": "fantastic-adj",
+  "headword": "fantastic",
+  "pos": "adjective",
+  "example": "The concert was fantastic! I loved every song."
+ },
+ {
+  "id": "far-adv",
+  "headword": "far",
+  "pos": "adverb",
+  "example": "My school isn't far from my house."
+ },
+ {
+  "id": "fare-n",
+  "headword": "fare",
+  "pos": "noun",
+  "example": "The bus fare is two euros."
+ },
+ {
+  "id": "fascinating-adj",
+  "headword": "fascinating",
+  "pos": "adjective",
+  "example": "The book about space was fascinating."
+ },
+ {
+  "id": "fashion-n",
+  "headword": "fashion",
+  "pos": "noun",
+  "example": "She loves fashion and reads lots of magazines about clothes."
+ },
+ {
+  "id": "fast-food-n",
+  "headword": "fast food",
+  "pos": "noun",
+  "example": "Fast food is quick but not very healthy."
+ },
+ {
+  "id": "fault-n",
+  "headword": "fault",
+  "pos": "noun",
+  "example": "It's not my fault that we missed the bus."
+ },
+ {
+  "id": "favor-n",
+  "headword": "favor",
+  "pos": "noun",
+  "example": "Can you do me a favor and close the window?"
+ },
+ {
+  "id": "fear-n",
+  "headword": "fear",
+  "pos": "noun",
+  "example": "He has a great fear of big dogs."
+ },
+ {
+  "id": "feather-n",
+  "headword": "feather",
+  "pos": "noun",
+  "example": "The bird lost a white feather in the garden."
+ },
+ {
+  "id": "feature-n",
+  "headword": "feature",
+  "pos": "noun",
+  "example": "The best feature of this phone is its camera."
+ },
+ {
+  "id": "fee-n",
+  "headword": "fee",
+  "pos": "noun",
+  "example": "The bank charges a small fee for this service."
+ },
+ {
+  "id": "feel-n",
+  "headword": "feel",
+  "pos": "noun",
+  "example": "I love the soft feel of this jumper."
+ },
+ {
+  "id": "female-adj",
+  "headword": "female",
+  "pos": "adjective",
+  "example": "The female bird is brown and the male is red."
+ },
+ {
+  "id": "fence-n",
+  "headword": "fence",
+  "pos": "noun",
+  "example": "There is a wooden fence around our garden."
+ },
+ {
+  "id": "few-det",
+  "headword": "few",
+  "pos": "determiner",
+  "example": "Few people live in this small village."
+ },
+ {
+  "id": "fiction-n",
+  "headword": "fiction",
+  "pos": "noun",
+  "example": "I prefer fiction to books about real life."
+ },
+ {
+  "id": "fighter-n",
+  "headword": "fighter",
+  "pos": "noun",
+  "example": "The boxer is a strong fighter."
+ },
+ {
+  "id": "figure-n",
+  "headword": "figure",
+  "pos": "noun",
+  "example": "Write the figure 7 on the board."
+ },
+ {
+  "id": "figure-v",
+  "headword": "figure",
+  "pos": "verb",
+  "example": "I figured you were tired, so I didn't call."
+ },
+ {
+  "id": "film-n",
+  "headword": "film",
+  "pos": "noun",
+  "example": "We watched a funny film at the cinema."
+ },
+ {
+  "id": "final-adj",
+  "headword": "final",
+  "pos": "adjective",
+  "example": "This is the final question of the test."
+ },
+ {
+  "id": "final-n",
+  "headword": "final",
+  "pos": "noun",
+  "example": "Our team played in the final and won the cup."
+ },
+ {
+  "id": "finally-adv",
+  "headword": "finally",
+  "pos": "adverb",
+  "example": "After two hours, the bus finally arrived."
+ },
+ {
+  "id": "first-name-n",
+  "headword": "first name",
+  "pos": "noun",
+  "example": "My first name is Anna and my surname is Smith."
+ },
+ {
+  "id": "fisherman-n",
+  "headword": "fisherman",
+  "pos": "noun",
+  "example": "The fisherman caught a big fish this morning."
+ },
+ {
+  "id": "fit-adj",
+  "headword": "fit",
+  "pos": "adjective",
+  "example": "He runs every day to stay fit."
+ },
+ {
+  "id": "fix-n",
+  "headword": "fix",
+  "pos": "noun",
+  "example": "This is only a quick fix; we need a new pipe."
+ },
+ {
+  "id": "flea-n",
+  "headword": "flea",
+  "pos": "noun",
+  "example": "Our dog has fleas, so he scratches all day."
+ },
+ {
+  "id": "flight-n",
+  "headword": "flight",
+  "pos": "noun",
+  "example": "Our flight to Rome leaves at eight o'clock."
+ },
+ {
+  "id": "float-n",
+  "headword": "float",
+  "pos": "noun",
+  "example": "The child swam with a float in the pool."
+ },
+ {
+  "id": "flood-n",
+  "headword": "flood",
+  "pos": "noun",
+  "example": "After the heavy rain, there was a flood in the village."
+ },
+ {
+  "id": "flour-n",
+  "headword": "flour",
+  "pos": "noun",
+  "example": "You need flour, eggs and milk to make pancakes."
+ },
+ {
+  "id": "fog-n",
+  "headword": "fog",
+  "pos": "noun",
+  "example": "The fog was so thick that we couldn't see the road."
+ },
+ {
+  "id": "folder-n",
+  "headword": "folder",
+  "pos": "noun",
+  "example": "Save the photos in a new folder on your computer."
+ },
+ {
+  "id": "follow-v",
+  "headword": "follow",
+  "pos": "verb",
+  "example": "Follow me, I know the way."
+ },
+ {
+  "id": "fool-n",
+  "headword": "fool",
+  "pos": "noun",
+  "example": "I felt like a fool when I forgot her name."
+ },
+ {
+  "id": "footballer-n",
+  "headword": "footballer",
+  "pos": "noun",
+  "example": "My cousin wants to be a professional footballer."
+ },
+ {
+  "id": "for-conj",
+  "headword": "for",
+  "pos": "conjunction",
+  "example": "We stayed inside, for it was raining heavily."
+ },
+ {
+  "id": "forbid-v",
+  "headword": "forbid",
+  "pos": "verb",
+  "example": "My parents forbid me to use my phone at dinner."
+ },
+ {
+  "id": "force-n",
+  "headword": "force",
+  "pos": "noun",
+  "example": "He opened the heavy door with great force."
+ },
+ {
+  "id": "forest-n",
+  "headword": "forest",
+  "pos": "noun",
+  "example": "We went for a long walk in the forest."
+ },
+ {
+  "id": "forever-adv",
+  "headword": "forever",
+  "pos": "adverb",
+  "example": "I will remember this day forever."
+ },
+ {
+  "id": "fork-n",
+  "headword": "fork",
+  "pos": "noun",
+  "example": "Eat your salad with a fork, please."
+ },
+ {
+  "id": "fortunately-adv",
+  "headword": "fortunately",
+  "pos": "adverb",
+  "example": "I lost my wallet, but fortunately someone found it."
+ },
+ {
+  "id": "fortune-n",
+  "headword": "fortune",
+  "pos": "noun",
+  "example": "He made a fortune selling houses."
+ },
+ {
+  "id": "forward-adv",
+  "headword": "forward",
+  "pos": "adverb",
+  "example": "Take two steps forward, please."
+ },
+ {
+  "id": "frame-n",
+  "headword": "frame",
+  "pos": "noun",
+  "example": "I put my favourite photo in a silver frame."
+ },
+ {
+  "id": "frank-adj",
+  "headword": "frank",
+  "pos": "adjective",
+  "example": "Please be frank with me. Do you like my dress?"
+ },
+ {
+  "id": "free-adv",
+  "headword": "free",
+  "pos": "adverb",
+  "example": "Children under five travel free on the bus."
+ },
+ {
+  "id": "freedom-n",
+  "headword": "freedom",
+  "pos": "noun",
+  "example": "Teenagers often want more freedom from their parents."
+ },
+ {
+  "id": "freeze-v",
+  "headword": "freeze",
+  "pos": "verb",
+  "example": "Water freezes at zero degrees."
+ },
+ {
+  "id": "fresh-adj",
+  "headword": "fresh",
+  "pos": "adjective",
+  "example": "I buy fresh bread every morning."
+ },
+ {
+  "id": "fridge-n",
+  "headword": "fridge",
+  "pos": "noun",
+  "example": "Put the milk back in the fridge."
+ },
+ {
+  "id": "fried-adj",
+  "headword": "fried",
+  "pos": "adjective",
+  "example": "We had fried chicken with chips for lunch."
+ },
+ {
+  "id": "friendship-n",
+  "headword": "friendship",
+  "pos": "noun",
+  "example": "Their friendship started at primary school."
+ },
+ {
+  "id": "frighten-v",
+  "headword": "frighten",
+  "pos": "verb",
+  "example": "The loud noise frightened the baby."
+ },
+ {
+  "id": "frightened-adj",
+  "headword": "frightened",
+  "pos": "adjective",
+  "example": "The little girl was frightened during the storm."
+ },
+ {
+  "id": "frightening-adj",
+  "headword": "frightening",
+  "pos": "adjective",
+  "example": "The film was so frightening that I couldn't sleep."
+ },
+ {
+  "id": "front-n",
+  "headword": "front",
+  "pos": "noun",
+  "example": "Let's sit at the front of the bus."
+ },
+ {
+  "id": "fry-n",
+  "headword": "fry",
+  "pos": "noun",
+  "example": "Can I have a burger and fries, please?"
+ },
+ {
+  "id": "fully-adv",
+  "headword": "fully",
+  "pos": "adverb",
+  "example": "I haven't fully understood the question."
+ },
+ {
+  "id": "function-v",
+  "headword": "function",
+  "pos": "verb",
+  "example": "The lift isn't functioning, so take the stairs."
+ },
+ {
+  "id": "furniture-n",
+  "headword": "furniture",
+  "pos": "noun",
+  "example": "We bought new furniture for the living room."
+ },
+ {
+  "id": "further-adj",
+  "headword": "further",
+  "pos": "adjective",
+  "example": "For further information, please call our office."
+ },
+ {
+  "id": "gallery-n",
+  "headword": "gallery",
+  "pos": "noun",
+  "example": "The gallery has paintings by many famous artists."
+ },
+ {
+  "id": "garage-n",
+  "headword": "garage",
+  "pos": "noun",
+  "example": "Dad keeps his car and our bikes in the garage."
+ },
+ {
+  "id": "garlic-n",
+  "headword": "garlic",
+  "pos": "noun",
+  "example": "Add some garlic to the tomato sauce."
+ },
+ {
+  "id": "gas-n",
+  "headword": "gas",
+  "pos": "noun",
+  "example": "We need to buy gas before the long drive."
+ },
+ {
+  "id": "gate-n",
+  "headword": "gate",
+  "pos": "noun",
+  "example": "Close the garden gate so the dog can't get out."
+ },
+ {
+  "id": "gather-v",
+  "headword": "gather",
+  "pos": "verb",
+  "example": "The family gathered around the table for dinner."
+ },
+ {
+  "id": "gender-n",
+  "headword": "gender",
+  "pos": "noun",
+  "example": "In French, every noun has a gender."
+ },
+ {
+  "id": "generation-n",
+  "headword": "generation",
+  "pos": "noun",
+  "example": "Three generations of my family live in this house."
+ },
+ {
+  "id": "gentle-adj",
+  "headword": "gentle",
+  "pos": "adjective",
+  "example": "Be gentle with the baby."
+ },
+ {
+  "id": "given-adj",
+  "headword": "given",
+  "pos": "adjective",
+  "example": "You must finish the test in the given time."
+ },
+ {
+  "id": "globe-n",
+  "headword": "globe",
+  "pos": "noun",
+  "example": "The teacher showed us Japan on the globe."
+ },
+ {
+  "id": "glove-n",
+  "headword": "glove",
+  "pos": "noun",
+  "example": "It's cold, so wear your gloves."
+ },
+ {
+  "id": "gold-n",
+  "headword": "gold",
+  "pos": "noun",
+  "example": "Her ring is made of gold."
+ },
+ {
+  "id": "golden-adj",
+  "headword": "golden",
+  "pos": "adjective",
+  "example": "She has long golden hair."
+ },
+ {
+  "id": "golf-n",
+  "headword": "golf",
+  "pos": "noun",
+  "example": "My grandfather plays golf every Sunday."
+ },
+ {
+  "id": "good-looking-adj",
+  "headword": "good-looking",
+  "pos": "adjective",
+  "example": "Her brother is tall and good-looking."
+ },
+ {
+  "id": "government-n",
+  "headword": "government",
+  "pos": "noun",
+  "example": "The government built a new hospital in our town."
+ },
+ {
+  "id": "grace-n",
+  "headword": "grace",
+  "pos": "noun",
+  "example": "She dances with grace, like a cat."
+ },
+ {
+  "id": "gradually-adv",
+  "headword": "gradually",
+  "pos": "adverb",
+  "example": "The weather gradually got warmer in spring."
+ },
+ {
+  "id": "graduate-v",
+  "headword": "graduate",
+  "pos": "verb",
+  "example": "My sister graduated from university last year."
+ },
+ {
+  "id": "gram-n",
+  "headword": "gram",
+  "pos": "noun",
+  "example": "I need two hundred grams of cheese."
+ },
+ {
+  "id": "grandchild-n",
+  "headword": "grandchild",
+  "pos": "noun",
+  "example": "Their first grandchild was born in May."
+ },
+ {
+  "id": "granddad-n",
+  "headword": "granddad",
+  "pos": "noun",
+  "example": "My granddad tells great stories about his childhood."
+ },
+ {
+  "id": "granddaughter-n",
+  "headword": "granddaughter",
+  "pos": "noun",
+  "example": "Their granddaughter visits them every weekend."
+ },
+ {
+  "id": "grandson-n",
+  "headword": "grandson",
+  "pos": "noun",
+  "example": "Her grandson is learning to walk."
+ },
+ {
+  "id": "granny-n",
+  "headword": "granny",
+  "pos": "noun",
+  "example": "Granny made a chocolate cake for us."
+ },
+ {
+  "id": "grateful-adj",
+  "headword": "grateful",
+  "pos": "adjective",
+  "example": "I'm very grateful for your help."
+ },
+ {
+  "id": "greatly-adv",
+  "headword": "greatly",
+  "pos": "adverb",
+  "example": "Prices have greatly increased this year."
+ }
+]

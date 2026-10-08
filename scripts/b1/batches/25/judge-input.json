@@ -1,0 +1,1820 @@
+[
+ {
+  "id": "r001",
+  "headword": "unafraid",
+  "pos": "adjective",
+  "example": "The little girl was unafraid of the big dog.",
+  "fr": {
+   "wordA": "sans peur",
+   "wordB": "sans peur",
+   "exampleA": "La petite fille n'avait pas peur du gros chien.",
+   "exampleB": "La petite fille n'avait pas peur du gros chien."
+  },
+  "es": {
+   "wordA": "sin miedo",
+   "wordB": "sin miedo",
+   "exampleA": "La niña no tenía miedo del perro grande.",
+   "exampleB": "La niña no le tenía miedo al perro grande."
+  }
+ },
+ {
+  "id": "r002",
+  "headword": "unbelievable",
+  "pos": "adjective",
+  "example": "The view from the top of the mountain was unbelievable.",
+  "fr": {
+   "wordA": "incroyable",
+   "wordB": "incroyable",
+   "exampleA": "La vue depuis le sommet de la montagne était incroyable.",
+   "exampleB": "La vue depuis le sommet de la montagne était incroyable."
+  },
+  "es": {
+   "wordA": "increíble",
+   "wordB": "increíble",
+   "exampleA": "La vista desde la cima de la montaña era increíble.",
+   "exampleB": "La vista desde la cima de la montaña era increíble."
+  }
+ },
+ {
+  "id": "r003",
+  "headword": "uncertainty",
+  "pos": "noun",
+  "example": "There is a lot of uncertainty about the future of the company.",
+  "fr": {
+   "wordA": "l'incertitude",
+   "wordB": "l'incertitude",
+   "exampleA": "Il y a beaucoup d'incertitude sur l'avenir de l'entreprise.",
+   "exampleB": "Il y a beaucoup d'incertitude sur l'avenir de l'entreprise."
+  },
+  "es": {
+   "wordA": "la incertidumbre",
+   "wordB": "la incertidumbre",
+   "exampleA": "Hay mucha incertidumbre sobre el futuro de la empresa.",
+   "exampleB": "Hay mucha incertidumbre sobre el futuro de la empresa."
+  }
+ },
+ {
+  "id": "r004",
+  "headword": "unclear",
+  "pos": "adjective",
+  "example": "The instructions were unclear, so we didn't know what to do.",
+  "fr": {
+   "wordA": "pas clair",
+   "wordB": "pas clair",
+   "exampleA": "Les instructions n'étaient pas claires, alors nous ne savions pas quoi faire.",
+   "exampleB": "Les instructions n'étaient pas claires, alors on ne savait pas quoi faire."
+  },
+  "es": {
+   "wordA": "poco claro",
+   "wordB": "poco claro",
+   "exampleA": "Las instrucciones no estaban claras, así que no sabíamos qué hacer.",
+   "exampleB": "Las instrucciones no estaban claras, así que no sabíamos qué hacer."
+  }
+ },
+ {
+  "id": "r005",
+  "headword": "uncontrollable",
+  "pos": "adjective",
+  "example": "She had an uncontrollable desire to laugh during the meeting.",
+  "fr": {
+   "wordA": "incontrôlable",
+   "wordB": "incontrôlable",
+   "exampleA": "Elle avait une envie incontrôlable de rire pendant la réunion.",
+   "exampleB": "Elle avait une envie irrépressible de rire pendant la réunion."
+  },
+  "es": {
+   "wordA": "incontrolable",
+   "wordB": "incontrolable",
+   "exampleA": "Tenía unas ganas incontrolables de reírse durante la reunión.",
+   "exampleB": "Tenía unas ganas incontrolables de reírse durante la reunión."
+  }
+ },
+ {
+  "id": "r006",
+  "headword": "singer",
+  "pos": "noun",
+  "example": "We play soccer in the park on Saturday.",
+  "fr": {
+   "wordA": "le chanteur",
+   "wordB": "le chanteur",
+   "exampleA": "Le chanteur a une belle voix.",
+   "exampleB": "Le chanteur a une belle voix."
+  },
+  "es": {
+   "wordA": "el cantante",
+   "wordB": "el cantante",
+   "exampleA": "El cantante tiene una voz bonita.",
+   "exampleB": "El cantante tiene una voz bonita."
+  }
+ },
+ {
+  "id": "r007",
+  "headword": "uncover",
+  "pos": "verb",
+  "example": "The journalist worked for months to uncover the truth.",
+  "fr": {
+   "wordA": "découvrir",
+   "wordB": "découvrir",
+   "exampleA": "Le journaliste a travaillé pendant des mois pour découvrir la vérité.",
+   "exampleB": "Le journaliste a travaillé pendant des mois pour découvrir la vérité."
+  },
+  "es": {
+   "wordA": "descubrir",
+   "wordB": "descubrir",
+   "exampleA": "El periodista trabajó durante meses para descubrir la verdad.",
+   "exampleB": "El periodista trabajó durante meses para descubrir la verdad."
+  }
+ },
+ {
+  "id": "r008",
+  "headword": "underage",
+  "pos": "adjective",
+  "example": "Underage people are not allowed to buy alcohol.",
+  "fr": {
+   "wordA": "mineur",
+   "wordB": "mineur",
+   "exampleA": "Les mineurs n'ont pas le droit d'acheter de l'alcool.",
+   "exampleB": "Les mineurs n'ont pas le droit d'acheter de l'alcool."
+  },
+  "es": {
+   "wordA": "menor de edad",
+   "wordB": "menor de edad",
+   "exampleA": "Los menores de edad no pueden comprar alcohol.",
+   "exampleB": "Los menores de edad no pueden comprar alcohol."
+  }
+ },
+ {
+  "id": "r009",
+  "headword": "undergo",
+  "pos": "verb",
+  "example": "My grandfather had to undergo an operation on his heart.",
+  "fr": {
+   "wordA": "subir",
+   "wordB": "subir",
+   "exampleA": "Mon grand-père a dû subir une opération du cœur.",
+   "exampleB": "Mon grand-père a dû subir une opération du cœur."
+  },
+  "es": {
+   "wordA": "someterse a",
+   "wordB": "someterse a",
+   "exampleA": "Mi abuelo tuvo que someterse a una operación de corazón.",
+   "exampleB": "Mi abuelo tuvo que someterse a una operación de corazón."
+  }
+ },
+ {
+  "id": "r010",
+  "headword": "underline",
+  "pos": "verb",
+  "example": "Please underline the most important words in the text.",
+  "fr": {
+   "wordA": "souligner",
+   "wordB": "souligner",
+   "exampleA": "Soulignez les mots les plus importants du texte, s'il vous plaît.",
+   "exampleB": "Soulignez les mots les plus importants du texte, s'il vous plaît."
+  },
+  "es": {
+   "wordA": "subrayar",
+   "wordB": "subrayar",
+   "exampleA": "Por favor, subraya las palabras más importantes del texto.",
+   "exampleB": "Subrayad las palabras más importantes del texto, por favor."
+  }
+ },
+ {
+  "id": "r011",
+  "headword": "Monday",
+  "pos": "noun",
+  "example": "Monday is the first day of the week.",
+  "fr": {
+   "wordA": "la couverture",
+   "wordB": "lundi",
+   "exampleA": "Lundi est le premier jour de la semaine.",
+   "exampleB": "Lundi est le premier jour de la semaine."
+  },
+  "es": {
+   "wordA": "el lunes",
+   "wordB": "el lunes",
+   "exampleA": "El lunes es el primer día de la semana.",
+   "exampleB": "El lunes es el primer día de la semana."
+  }
+ },
+ {
+  "id": "r012",
+  "headword": "underneath",
+  "pos": "preposition",
+  "example": "The cat is sleeping underneath the table.",
+  "fr": {
+   "wordA": "sous",
+   "wordB": "sous",
+   "exampleA": "Le chat dort sous la table.",
+   "exampleB": "Le chat dort sous la table."
+  },
+  "es": {
+   "wordA": "debajo de",
+   "wordB": "debajo de",
+   "exampleA": "El gato está durmiendo debajo de la mesa.",
+   "exampleB": "El gato está durmiendo debajo de la mesa."
+  }
+ },
+ {
+  "id": "r013",
+  "headword": "underpants",
+  "pos": "noun",
+  "example": "I packed five pairs of underpants for the trip.",
+  "fr": {
+   "wordA": "le slip",
+   "wordB": "le slip",
+   "exampleA": "J'ai mis cinq slips dans ma valise pour le voyage.",
+   "exampleB": "J'ai mis cinq slips dans ma valise pour le voyage."
+  },
+  "es": {
+   "wordA": "los calzoncillos",
+   "wordB": "los calzoncillos",
+   "exampleA": "Metí cinco calzoncillos en la maleta para el viaje.",
+   "exampleB": "Metí cinco calzoncillos en la maleta para el viaje."
+  }
+ },
+ {
+  "id": "r014",
+  "headword": "undo",
+  "pos": "verb",
+  "example": "Can you help me undo the buttons on my coat?",
+  "fr": {
+   "wordA": "défaire",
+   "wordB": "défaire",
+   "exampleA": "Tu peux m'aider à défaire les boutons de mon manteau ?",
+   "exampleB": "Tu peux m'aider à défaire les boutons de mon manteau ?"
+  },
+  "es": {
+   "wordA": "desabrochar",
+   "wordB": "desabrochar",
+   "exampleA": "¿Me ayudas a desabrochar los botones del abrigo?",
+   "exampleB": "¿Me ayudas a desabrochar los botones del abrigo?"
+  }
+ },
+ {
+  "id": "r015",
+  "headword": "undress",
+  "pos": "verb",
+  "example": "He was so tired that he went to bed without undressing.",
+  "fr": {
+   "wordA": "se déshabiller",
+   "wordB": "se déshabiller",
+   "exampleA": "Il était si fatigué qu'il s'est couché sans se déshabiller.",
+   "exampleB": "Il était si fatigué qu'il s'est couché sans se déshabiller."
+  },
+  "es": {
+   "wordA": "desvestirse",
+   "wordB": "desvestirse",
+   "exampleA": "Estaba tan cansado que se acostó sin desvestirse.",
+   "exampleB": "Estaba tan cansado que se acostó sin desvestirse."
+  }
+ },
+ {
+  "id": "r016",
+  "headword": "unemployed",
+  "pos": "adjective",
+  "example": "My brother has been unemployed since the factory closed.",
+  "fr": {
+   "wordA": "au chômage",
+   "wordB": "au chômage",
+   "exampleA": "Mon frère est au chômage depuis la fermeture de l'usine.",
+   "exampleB": "Mon frère est au chômage depuis la fermeture de l'usine."
+  },
+  "es": {
+   "wordA": "en paro",
+   "wordB": "en paro",
+   "exampleA": "Mi hermano está en paro desde que cerró la fábrica.",
+   "exampleB": "Mi hermano está en paro desde que cerró la fábrica."
+  }
+ },
+ {
+  "id": "r017",
+  "headword": "collection",
+  "pos": "noun",
+  "example": "My brother has a big stamp collection.",
+  "fr": {
+   "wordA": "la collection",
+   "wordB": "la collection",
+   "exampleA": "Mon frère a une grande collection de timbres.",
+   "exampleB": "Mon frère a une grande collection de timbres."
+  },
+  "es": {
+   "wordA": "decir",
+   "wordB": "la colección",
+   "exampleA": "Mi hermano tiene una gran colección de sellos.",
+   "exampleB": "Mi hermano tiene una gran colección de sellos."
+  }
+ },
+ {
+  "id": "r018",
+  "headword": "unemployment",
+  "pos": "noun",
+  "example": "Unemployment is very high among young people in this region.",
+  "fr": {
+   "wordA": "le chômage",
+   "wordB": "le chômage",
+   "exampleA": "Le chômage est très élevé chez les jeunes dans cette région.",
+   "exampleB": "Le chômage est très élevé chez les jeunes de cette région."
+  },
+  "es": {
+   "wordA": "el paro",
+   "wordB": "el paro",
+   "exampleA": "El paro es muy alto entre los jóvenes de esta región.",
+   "exampleB": "El paro es muy alto entre los jóvenes de esta región."
+  }
+ },
+ {
+  "id": "r019",
+  "headword": "unexpected",
+  "pos": "adjective",
+  "example": "We had an unexpected visit from my aunt on Sunday.",
+  "fr": {
+   "wordA": "inattendu",
+   "wordB": "inattendu",
+   "exampleA": "Nous avons eu une visite inattendue de ma tante dimanche.",
+   "exampleB": "Nous avons eu une visite inattendue de ma tante dimanche."
+  },
+  "es": {
+   "wordA": "inesperado",
+   "wordB": "inesperado",
+   "exampleA": "El domingo tuvimos una visita inesperada de mi tía.",
+   "exampleB": "El domingo tuvimos una visita inesperada de mi tía."
+  }
+ },
+ {
+  "id": "r020",
+  "headword": "unexpectedly",
+  "pos": "adverb",
+  "example": "My old friend arrived unexpectedly at my door last night.",
+  "fr": {
+   "wordA": "à l'improviste",
+   "wordB": "à l'improviste",
+   "exampleA": "Mon vieil ami est arrivé chez moi à l'improviste hier soir.",
+   "exampleB": "Mon vieil ami est arrivé chez moi à l'improviste hier soir."
+  },
+  "es": {
+   "wordA": "inesperadamente",
+   "wordB": "de improviso",
+   "exampleA": "Mi viejo amigo se presentó inesperadamente en mi casa anoche.",
+   "exampleB": "Mi viejo amigo se presentó en mi puerta de improviso anoche."
+  }
+ },
+ {
+  "id": "r021",
+  "headword": "ball",
+  "pos": "noun",
+  "example": "The children play with a ball.",
+  "fr": {
+   "wordA": "le ballon",
+   "wordB": "le ballon",
+   "exampleA": "Les enfants jouent avec un ballon.",
+   "exampleB": "Les enfants jouent avec un ballon."
+  },
+  "es": {
+   "wordA": "la pelota",
+   "wordB": "la pelota",
+   "exampleA": "Lo siento. Llego tarde.",
+   "exampleB": "Los niños juegan con una pelota."
+  }
+ },
+ {
+  "id": "r022",
+  "headword": "unfairly",
+  "pos": "adverb",
+  "example": "She felt that the teacher had treated her unfairly.",
+  "fr": {
+   "wordA": "injustement",
+   "wordB": "injustement",
+   "exampleA": "Elle avait l'impression que le professeur l'avait traitée injustement.",
+   "exampleB": "Elle avait l'impression que le professeur l'avait traitée injustement."
+  },
+  "es": {
+   "wordA": "injustamente",
+   "wordB": "injustamente",
+   "exampleA": "Sentía que el profesor la había tratado injustamente.",
+   "exampleB": "Sentía que el profesor la había tratado injustamente."
+  }
+ },
+ {
+  "id": "r023",
+  "headword": "dance",
+  "pos": "noun",
+  "example": "I have a dog.",
+  "fr": {
+   "wordA": "la danse",
+   "wordB": "la danse",
+   "exampleA": "Le tango est une danse d'Argentine.",
+   "exampleB": "Le tango est une danse d'Argentine."
+  },
+  "es": {
+   "wordA": "el baile",
+   "wordB": "el baile",
+   "exampleA": "El tango es un baile de Argentina.",
+   "exampleB": "El tango es un baile de Argentina."
+  }
+ },
+ {
+  "id": "r024",
+  "headword": "unfit",
+  "pos": "adjective",
+  "example": "I stopped doing sport and now I am very unfit.",
+  "fr": {
+   "wordA": "pas en forme",
+   "wordB": "en mauvaise forme",
+   "exampleA": "J'ai arrêté le sport et maintenant je ne suis pas du tout en forme.",
+   "exampleB": "J'ai arrêté le sport et maintenant je suis en très mauvaise forme."
+  },
+  "es": {
+   "wordA": "en baja forma",
+   "wordB": "en baja forma",
+   "exampleA": "Dejé de hacer deporte y ahora estoy en muy baja forma.",
+   "exampleB": "Dejé de hacer deporte y ahora estoy en muy baja forma."
+  }
+ },
+ {
+  "id": "r025",
+  "headword": "unfold",
+  "pos": "verb",
+  "example": "She unfolded the map and put it on the table.",
+  "fr": {
+   "wordA": "déplier",
+   "wordB": "déplier",
+   "exampleA": "Elle a déplié la carte et l'a posée sur la table.",
+   "exampleB": "Elle a déplié la carte et l'a posée sur la table."
+  },
+  "es": {
+   "wordA": "desplegar",
+   "wordB": "desplegar",
+   "exampleA": "Desplegó el mapa y lo puso sobre la mesa.",
+   "exampleB": "Desplegó el mapa y lo puso sobre la mesa."
+  }
+ },
+ {
+  "id": "r026",
+  "headword": "unfortunate",
+  "pos": "adjective",
+  "example": "It was unfortunate that it rained on the day of the wedding.",
+  "fr": {
+   "wordA": "malheureux",
+   "wordB": "regrettable",
+   "exampleA": "C'est dommage qu'il ait plu le jour du mariage.",
+   "exampleB": "C'était regrettable qu'il pleuve le jour du mariage."
+  },
+  "es": {
+   "wordA": "desafortunado",
+   "wordB": "una lástima",
+   "exampleA": "Fue una pena que lloviera el día de la boda.",
+   "exampleB": "Fue una lástima que lloviera el día de la boda."
+  }
+ },
+ {
+  "id": "r027",
+  "headword": "unfriendly",
+  "pos": "adjective",
+  "example": "The waiter was unfriendly and didn't smile once.",
+  "fr": {
+   "wordA": "peu aimable",
+   "wordB": "peu aimable",
+   "exampleA": "Le serveur était désagréable et n'a pas souri une seule fois.",
+   "exampleB": "Le serveur était peu aimable et n'a pas souri une seule fois."
+  },
+  "es": {
+   "wordA": "antipático",
+   "wordB": "antipático",
+   "exampleA": "El camarero era antipático y no sonrió ni una vez.",
+   "exampleB": "El camarero era antipático y no sonrió ni una vez."
+  }
+ },
+ {
+  "id": "r028",
+  "headword": "unheard",
+  "pos": "adjective",
+  "example": "Her complaints went unheard because nobody listened to her.",
+  "fr": {
+   "wordA": "ignoré",
+   "wordB": "non entendu",
+   "exampleA": "Ses plaintes sont restées lettre morte car personne ne l'écoutait.",
+   "exampleB": "Ses plaintes sont restées sans réponse parce que personne ne l'écoutait."
+  },
+  "es": {
+   "wordA": "desoído",
+   "wordB": "no escuchado",
+   "exampleA": "Sus quejas no fueron escuchadas porque nadie le hacía caso.",
+   "exampleB": "Sus quejas no fueron escuchadas porque nadie le hacía caso."
+  }
+ },
+ {
+  "id": "r029",
+  "headword": "unify",
+  "pos": "verb",
+  "example": "The new leader wants to unify the different groups in the party.",
+  "fr": {
+   "wordA": "unifier",
+   "wordB": "unifier",
+   "exampleA": "Le nouveau dirigeant veut unifier les différents groupes du parti.",
+   "exampleB": "Le nouveau dirigeant veut unifier les différents groupes du parti."
+  },
+  "es": {
+   "wordA": "unificar",
+   "wordB": "unificar",
+   "exampleA": "El nuevo líder quiere unificar los distintos grupos del partido.",
+   "exampleB": "El nuevo líder quiere unificar los distintos grupos del partido."
+  }
+ },
+ {
+  "id": "r030",
+  "headword": "uninterested",
+  "pos": "adjective",
+  "example": "The students looked bored and uninterested in the lesson.",
+  "fr": {
+   "wordA": "indifférent",
+   "wordB": "indifférent",
+   "exampleA": "Les élèves avaient l'air de s'ennuyer et de ne pas s'intéresser au cours.",
+   "exampleB": "Les élèves avaient l'air de s'ennuyer et de ne pas s'intéresser au cours."
+  },
+  "es": {
+   "wordA": "desinteresado",
+   "wordB": "desinteresado",
+   "exampleA": "Los alumnos parecían aburridos y sin ningún interés por la clase.",
+   "exampleB": "Los alumnos parecían aburridos y sin interés por la clase."
+  }
+ },
+ {
+  "id": "r031",
+  "headword": "uninteresting",
+  "pos": "adjective",
+  "example": "The film was so uninteresting that I fell asleep.",
+  "fr": {
+   "wordA": "inintéressant",
+   "wordB": "inintéressant",
+   "exampleA": "Le film était tellement inintéressant que je me suis endormi.",
+   "exampleB": "Le film était tellement inintéressant que je me suis endormi."
+  },
+  "es": {
+   "wordA": "poco interesante",
+   "wordB": "aburrido",
+   "exampleA": "La película era tan poco interesante que me quedé dormido.",
+   "exampleB": "La película era tan poco interesante que me quedé dormido."
+  }
+ },
+ {
+  "id": "r032",
+  "headword": "union",
+  "pos": "noun",
+  "example": "The workers joined a union to ask for better pay.",
+  "fr": {
+   "wordA": "le syndicat",
+   "wordB": "le syndicat",
+   "exampleA": "Les ouvriers se sont syndiqués pour demander de meilleurs salaires.",
+   "exampleB": "Les ouvriers ont adhéré à un syndicat pour demander de meilleurs salaires."
+  },
+  "es": {
+   "wordA": "el sindicato",
+   "wordB": "el sindicato",
+   "exampleA": "Los trabajadores se afiliaron a un sindicato para pedir mejores sueldos.",
+   "exampleB": "Los trabajadores se afiliaron a un sindicato para pedir mejores sueldos."
+  }
+ },
+ {
+  "id": "r033",
+  "headword": "unique",
+  "pos": "adjective",
+  "example": "Every person's fingerprints are unique.",
+  "fr": {
+   "wordA": "unique",
+   "wordB": "unique",
+   "exampleA": "Les empreintes digitales de chaque personne sont uniques.",
+   "exampleB": "Les empreintes digitales de chaque personne sont uniques."
+  },
+  "es": {
+   "wordA": "único",
+   "wordB": "único",
+   "exampleA": "Las huellas dactilares de cada persona son únicas.",
+   "exampleB": "Las huellas dactilares de cada persona son únicas."
+  }
+ },
+ {
+  "id": "r034",
+  "headword": "unite",
+  "pos": "verb",
+  "example": "The bad news helped to unite the whole family.",
+  "fr": {
+   "wordA": "unir",
+   "wordB": "unir",
+   "exampleA": "La mauvaise nouvelle a aidé à unir toute la famille.",
+   "exampleB": "La mauvaise nouvelle a aidé à unir toute la famille."
+  },
+  "es": {
+   "wordA": "unir",
+   "wordB": "unir",
+   "exampleA": "La mala noticia ayudó a unir a toda la familia.",
+   "exampleB": "La mala noticia ayudó a unir a toda la familia."
+  }
+ },
+ {
+  "id": "r035",
+  "headword": "universe",
+  "pos": "noun",
+  "example": "Scientists believe the universe is about fourteen billion years old.",
+  "fr": {
+   "wordA": "l'univers",
+   "wordB": "l'univers",
+   "exampleA": "Les scientifiques pensent que l'univers a environ quatorze milliards d'années.",
+   "exampleB": "Les scientifiques pensent que l'univers a environ quatorze milliards d'années."
+  },
+  "es": {
+   "wordA": "el universo",
+   "wordB": "el universo",
+   "exampleA": "Los científicos creen que el universo tiene unos catorce mil millones de años.",
+   "exampleB": "Los científicos creen que el universo tiene unos catorce mil millones de años."
+  }
+ },
+ {
+  "id": "r036",
+  "headword": "unless",
+  "pos": "conjunction",
+  "example": "You won't pass the exam unless you study harder.",
+  "fr": {
+   "wordA": "à moins que",
+   "wordB": "à moins que",
+   "exampleA": "Tu ne réussiras pas l'examen si tu ne travailles pas plus.",
+   "exampleB": "Tu ne réussiras pas l'examen à moins de travailler davantage."
+  },
+  "es": {
+   "wordA": "a menos que",
+   "wordB": "a menos que",
+   "exampleA": "No aprobarás el examen a menos que estudies más.",
+   "exampleB": "No aprobarás el examen a menos que estudies más."
+  }
+ },
+ {
+  "id": "r037",
+  "headword": "hour",
+  "pos": "noun",
+  "example": "The film is two hours long.",
+  "fr": {
+   "wordA": "l'heure",
+   "wordB": "l'heure",
+   "exampleA": "Le livre a une couverture rouge.",
+   "exampleB": "Le film dure deux heures."
+  },
+  "es": {
+   "wordA": "la hora",
+   "wordB": "la hora",
+   "exampleA": "La película dura dos horas.",
+   "exampleB": "La película dura dos horas."
+  }
+ },
+ {
+  "id": "r038",
+  "headword": "unlikely",
+  "pos": "adjective",
+  "example": "It is unlikely to snow in Seville in April.",
+  "fr": {
+   "wordA": "peu probable",
+   "wordB": "peu probable",
+   "exampleA": "Il est peu probable qu'il neige à Séville en avril.",
+   "exampleB": "Il est peu probable qu'il neige à Séville en avril."
+  },
+  "es": {
+   "wordA": "poco probable",
+   "wordB": "poco probable",
+   "exampleA": "Es poco probable que nieve en Sevilla en abril.",
+   "exampleB": "Es poco probable que nieve en Sevilla en abril."
+  }
+ },
+ {
+  "id": "r039",
+  "headword": "unlucky",
+  "pos": "adjective",
+  "example": "He was unlucky to break his leg on the first day of his holiday.",
+  "fr": {
+   "wordA": "malchanceux",
+   "wordB": "malchanceux",
+   "exampleA": "Il n'a pas eu de chance de se casser la jambe le premier jour des vacances.",
+   "exampleB": "Il n'a pas eu de chance de se casser la jambe le premier jour de ses vacances."
+  },
+  "es": {
+   "wordA": "desafortunado",
+   "wordB": "tener mala suerte",
+   "exampleA": "Tuvo mala suerte al romperse la pierna el primer día de vacaciones.",
+   "exampleB": "Tuvo mala suerte de romperse la pierna el primer día de vacaciones."
+  }
+ },
+ {
+  "id": "r040",
+  "headword": "unpack",
+  "pos": "verb",
+  "example": "I was too tired to unpack my suitcase after the flight.",
+  "fr": {
+   "wordA": "défaire",
+   "wordB": "défaire (une valise)",
+   "exampleA": "J'étais trop fatigué pour défaire ma valise après le vol.",
+   "exampleB": "J'étais trop fatigué pour défaire ma valise après le vol."
+  },
+  "es": {
+   "wordA": "deshacer",
+   "wordB": "deshacer (la maleta)",
+   "exampleA": "Estaba demasiado cansado para deshacer la maleta después del vuelo.",
+   "exampleB": "Estaba demasiado cansado para deshacer la maleta después del vuelo."
+  }
+ },
+ {
+  "id": "r041",
+  "headword": "unpredictable",
+  "pos": "adjective",
+  "example": "The weather in the mountains is very unpredictable.",
+  "fr": {
+   "wordA": "imprévisible",
+   "wordB": "imprévisible",
+   "exampleA": "Le temps en montagne est très imprévisible.",
+   "exampleB": "Le temps à la montagne est très imprévisible."
+  },
+  "es": {
+   "wordA": "imprevisible",
+   "wordB": "impredecible",
+   "exampleA": "El tiempo en la montaña es muy imprevisible.",
+   "exampleB": "El tiempo en la montaña es muy impredecible."
+  }
+ },
+ {
+  "id": "r042",
+  "headword": "unrelated",
+  "pos": "adjective",
+  "example": "The two accidents happened on the same day, but they were unrelated.",
+  "fr": {
+   "wordA": "sans rapport",
+   "wordB": "sans rapport",
+   "exampleA": "Les deux accidents ont eu lieu le même jour, mais ils n'avaient aucun rapport.",
+   "exampleB": "Les deux accidents ont eu lieu le même jour, mais ils n'avaient aucun rapport."
+  },
+  "es": {
+   "wordA": "sin relación",
+   "wordB": "sin relación",
+   "exampleA": "Los dos accidentes ocurrieron el mismo día, pero no tenían relación.",
+   "exampleB": "Los dos accidentes ocurrieron el mismo día, pero no tenían relación."
+  }
+ },
+ {
+  "id": "r043",
+  "headword": "untidy",
+  "pos": "adjective",
+  "example": "My son's bedroom is always untidy, with clothes everywhere.",
+  "fr": {
+   "wordA": "en désordre",
+   "wordB": "en désordre",
+   "exampleA": "La chambre de mon fils est toujours en désordre, avec des vêtements partout.",
+   "exampleB": "La chambre de mon fils est toujours en désordre, avec des vêtements partout."
+  },
+  "es": {
+   "wordA": "desordenado",
+   "wordB": "desordenado",
+   "exampleA": "El cuarto de mi hijo siempre está desordenado, con ropa por todas partes.",
+   "exampleB": "La habitación de mi hijo siempre está desordenada, con ropa por todas partes."
+  }
+ },
+ {
+  "id": "r044",
+  "headword": "until",
+  "pos": "conjunction",
+  "example": "Wait here until I come back.",
+  "fr": {
+   "wordA": "jusqu'à ce que",
+   "wordB": "jusqu'à ce que",
+   "exampleA": "Attends ici jusqu'à ce que je revienne.",
+   "exampleB": "Attends ici jusqu'à ce que je revienne."
+  },
+  "es": {
+   "wordA": "hasta que",
+   "wordB": "hasta que",
+   "exampleA": "Espera aquí hasta que vuelva.",
+   "exampleB": "Espera aquí hasta que vuelva."
+  }
+ },
+ {
+  "id": "r045",
+  "headword": "unusually",
+  "pos": "adverb",
+  "example": "It was unusually hot for the beginning of March.",
+  "fr": {
+   "wordA": "exceptionnellement",
+   "wordB": "exceptionnellement",
+   "exampleA": "Il faisait exceptionnellement chaud pour un début mars.",
+   "exampleB": "Il faisait exceptionnellement chaud pour un début de mars."
+  },
+  "es": {
+   "wordA": "inusualmente",
+   "wordB": "inusualmente",
+   "exampleA": "Hacía un calor poco habitual para principios de marzo.",
+   "exampleB": "Hacía un calor poco habitual para principios de marzo."
+  }
+ },
+ {
+  "id": "r046",
+  "headword": "unwanted",
+  "pos": "adjective",
+  "example": "We gave all our unwanted clothes to a charity shop.",
+  "fr": {
+   "wordA": "dont on ne veut plus",
+   "wordB": "dont on ne veut plus",
+   "exampleA": "Nous avons donné tous les vêtements dont nous ne voulions plus à une boutique solidaire.",
+   "exampleB": "Nous avons donné tous les vêtements dont nous ne voulions plus à une boutique solidaire."
+  },
+  "es": {
+   "wordA": "que no se quiere",
+   "wordB": "que no se quiere",
+   "exampleA": "Dimos toda la ropa que ya no queríamos a una tienda solidaria.",
+   "exampleB": "Dimos toda la ropa que ya no queríamos a una tienda solidaria."
+  }
+ },
+ {
+  "id": "r047",
+  "headword": "unwell",
+  "pos": "adjective",
+  "example": "She felt unwell, so she stayed at home and rested.",
+  "fr": {
+   "wordA": "souffrant",
+   "wordB": "souffrant",
+   "exampleA": "Elle ne se sentait pas bien, alors elle est restée chez elle pour se reposer.",
+   "exampleB": "Elle ne se sentait pas bien, alors elle est restée à la maison pour se reposer."
+  },
+  "es": {
+   "wordA": "indispuesto",
+   "wordB": "indispuesto",
+   "exampleA": "No se encontraba bien, así que se quedó en casa descansando.",
+   "exampleB": "No se encontraba bien, así que se quedó en casa descansando."
+  }
+ },
+ {
+  "id": "r048",
+  "headword": "update",
+  "pos": "verb",
+  "example": "You should update the software on your phone regularly.",
+  "fr": {
+   "wordA": "mettre à jour",
+   "wordB": "mettre à jour",
+   "exampleA": "Tu devrais mettre à jour le logiciel de ton téléphone régulièrement.",
+   "exampleB": "Tu devrais mettre à jour régulièrement les logiciels de ton téléphone."
+  },
+  "es": {
+   "wordA": "actualizar",
+   "wordB": "actualizar",
+   "exampleA": "Deberías actualizar el software del móvil con regularidad.",
+   "exampleB": "Deberías actualizar el software del móvil con regularidad."
+  }
+ },
+ {
+  "id": "r049",
+  "headword": "uplifted",
+  "pos": "adjective",
+  "example": "After talking to her friend, she felt uplifted and happy again.",
+  "fr": {
+   "wordA": "réconforté",
+   "wordB": "réconforté",
+   "exampleA": "Après avoir parlé à son amie, elle s'est sentie réconfortée et de nouveau heureuse.",
+   "exampleB": "Après avoir parlé à son amie, elle s'est sentie réconfortée et de nouveau heureuse."
+  },
+  "es": {
+   "wordA": "animado",
+   "wordB": "animado",
+   "exampleA": "Después de hablar con su amiga, se sintió animada y feliz otra vez.",
+   "exampleB": "Después de hablar con su amiga, se sintió animada y feliz otra vez."
+  }
+ },
+ {
+  "id": "r050",
+  "headword": "upload",
+  "pos": "verb",
+  "example": "I will upload the photos from the party tonight.",
+  "fr": {
+   "wordA": "mettre en ligne",
+   "wordB": "mettre en ligne",
+   "exampleA": "Je mettrai les photos de la fête en ligne ce soir.",
+   "exampleB": "Je mettrai en ligne les photos de la fête ce soir."
+  },
+  "es": {
+   "wordA": "subir",
+   "wordB": "subir",
+   "exampleA": "Esta noche subiré las fotos de la fiesta.",
+   "exampleB": "Esta noche subiré las fotos de la fiesta."
+  }
+ },
+ {
+  "id": "r051",
+  "headword": "upper",
+  "pos": "adjective",
+  "example": "The children sleep on the upper floor of the house.",
+  "fr": {
+   "wordA": "supérieur",
+   "wordB": "supérieur",
+   "exampleA": "Les enfants dorment à l'étage supérieur de la maison.",
+   "exampleB": "Les enfants dorment à l'étage supérieur de la maison."
+  },
+  "es": {
+   "wordA": "superior",
+   "wordB": "superior",
+   "exampleA": "Los niños duermen en la planta superior de la casa.",
+   "exampleB": "Los niños duermen en la planta superior de la casa."
+  }
+ },
+ {
+  "id": "r052",
+  "headword": "upstairs",
+  "pos": "adjective",
+  "example": "The upstairs bathroom has a large bath.",
+  "fr": {
+   "wordA": "du haut",
+   "wordB": "de l'étage",
+   "exampleA": "La salle de bains du haut a une grande baignoire.",
+   "exampleB": "La salle de bains de l'étage a une grande baignoire."
+  },
+  "es": {
+   "wordA": "de arriba",
+   "wordB": "de arriba",
+   "exampleA": "El baño de arriba tiene una bañera grande.",
+   "exampleB": "El baño de arriba tiene una bañera grande."
+  }
+ },
+ {
+  "id": "r053",
+  "headword": "upstairs",
+  "pos": "noun",
+  "example": "The upstairs of the house needs painting.",
+  "fr": {
+   "wordA": "l'étage",
+   "wordB": "l'étage",
+   "exampleA": "L'étage de la maison a besoin d'être repeint.",
+   "exampleB": "L'étage de la maison a besoin d'être repeint."
+  },
+  "es": {
+   "wordA": "el piso de arriba",
+   "wordB": "el piso de arriba",
+   "exampleA": "El piso de arriba de la casa necesita una mano de pintura.",
+   "exampleB": "Hay que pintar la planta de arriba de la casa."
+  }
+ },
+ {
+  "id": "r054",
+  "headword": "up-to-date",
+  "pos": "adjective",
+  "example": "This website gives up-to-date information about train times.",
+  "fr": {
+   "wordA": "à jour",
+   "wordB": "à jour",
+   "exampleA": "Ce site donne des informations à jour sur les horaires des trains.",
+   "exampleB": "Ce site donne des informations à jour sur les horaires des trains."
+  },
+  "es": {
+   "wordA": "actualizado",
+   "wordB": "actualizado",
+   "exampleA": "Esta web ofrece información actualizada sobre los horarios de los trenes.",
+   "exampleB": "Esta web ofrece información actualizada sobre los horarios de los trenes."
+  }
+ },
+ {
+  "id": "r055",
+  "headword": "upward",
+  "pos": "adjective",
+  "example": "There has been an upward trend in prices this year.",
+  "fr": {
+   "wordA": "à la hausse",
+   "wordB": "à la hausse",
+   "exampleA": "Les prix ont suivi une tendance à la hausse cette année.",
+   "exampleB": "Les prix ont suivi une tendance à la hausse cette année."
+  },
+  "es": {
+   "wordA": "al alza",
+   "wordB": "al alza",
+   "exampleA": "Este año los precios han tenido una tendencia al alza.",
+   "exampleB": "Este año ha habido una tendencia al alza en los precios."
+  }
+ },
+ {
+  "id": "r056",
+  "headword": "urge",
+  "pos": "noun",
+  "example": "I had a sudden urge to eat some chocolate.",
+  "fr": {
+   "wordA": "l'envie",
+   "wordB": "l'envie",
+   "exampleA": "J'ai eu une envie soudaine de manger du chocolat.",
+   "exampleB": "J'ai eu une envie soudaine de manger du chocolat."
+  },
+  "es": {
+   "wordA": "las ganas",
+   "wordB": "las ganas",
+   "exampleA": "De repente me entraron ganas de comer chocolate.",
+   "exampleB": "De repente me entraron ganas de comer chocolate."
+  }
+ },
+ {
+  "id": "r057",
+  "headword": "urgent",
+  "pos": "adjective",
+  "example": "Please call me back, it's urgent.",
+  "fr": {
+   "wordA": "urgent",
+   "wordB": "urgent",
+   "exampleA": "Rappelle-moi, s'il te plaît, c'est urgent.",
+   "exampleB": "Rappelle-moi, s'il te plaît, c'est urgent."
+  },
+  "es": {
+   "wordA": "urgente",
+   "wordB": "urgente",
+   "exampleA": "Llámame, por favor, es urgente.",
+   "exampleB": "Llámame, por favor, es urgente."
+  }
+ },
+ {
+  "id": "r058",
+  "headword": "usage",
+  "pos": "noun",
+  "example": "Our water usage goes up a lot in the summer.",
+  "fr": {
+   "wordA": "la consommation",
+   "wordB": "la consommation",
+   "exampleA": "Notre consommation d'eau augmente beaucoup en été.",
+   "exampleB": "Notre consommation d'eau augmente beaucoup en été."
+  },
+  "es": {
+   "wordA": "el consumo",
+   "wordB": "el consumo",
+   "exampleA": "Nuestro consumo de agua sube mucho en verano.",
+   "exampleB": "Nuestro consumo de agua sube mucho en verano."
+  }
+ },
+ {
+  "id": "r059",
+  "headword": "used to",
+  "pos": "modal auxiliary",
+  "example": "I used to play football every weekend when I was young.",
+  "fr": {
+   "wordA": "avoir l'habitude de",
+   "wordB": "avoir l'habitude de (passé)",
+   "exampleA": "Quand j'étais jeune, je jouais au foot tous les week-ends.",
+   "exampleB": "Quand j'étais jeune, je jouais au foot tous les week-ends."
+  },
+  "es": {
+   "wordA": "soler",
+   "wordB": "solía",
+   "exampleA": "De joven solía jugar al fútbol todos los fines de semana.",
+   "exampleB": "Cuando era joven, jugaba al fútbol todos los fines de semana."
+  }
+ },
+ {
+  "id": "r060",
+  "headword": "useless",
+  "pos": "adjective",
+  "example": "This old umbrella is useless because it has a big hole.",
+  "fr": {
+   "wordA": "inutile",
+   "wordB": "inutile",
+   "exampleA": "Ce vieux parapluie ne sert à rien parce qu'il a un gros trou.",
+   "exampleB": "Ce vieux parapluie est inutile parce qu'il a un grand trou."
+  },
+  "es": {
+   "wordA": "inútil",
+   "wordB": "inútil",
+   "exampleA": "Este paraguas viejo no sirve para nada porque tiene un agujero grande.",
+   "exampleB": "Este paraguas viejo no sirve para nada porque tiene un agujero enorme."
+  }
+ },
+ {
+  "id": "r061",
+  "headword": "vacancy",
+  "pos": "noun",
+  "example": "There is a vacancy for a cook at the new restaurant.",
+  "fr": {
+   "wordA": "le poste vacant",
+   "wordB": "le poste vacant",
+   "exampleA": "Le nouveau restaurant recrute un cuisinier.",
+   "exampleB": "Il y a un poste de cuisinier à pourvoir dans le nouveau restaurant."
+  },
+  "es": {
+   "wordA": "la vacante",
+   "wordB": "la vacante",
+   "exampleA": "Hay una vacante de cocinero en el restaurante nuevo.",
+   "exampleB": "Hay una vacante de cocinero en el nuevo restaurante."
+  }
+ },
+ {
+  "id": "r062",
+  "headword": "vague",
+  "pos": "adjective",
+  "example": "He gave only a vague answer, so I still don't understand.",
+  "fr": {
+   "wordA": "vague",
+   "wordB": "vague",
+   "exampleA": "Il n'a donné qu'une réponse vague, donc je ne comprends toujours pas.",
+   "exampleB": "Il n'a donné qu'une réponse vague, alors je ne comprends toujours pas."
+  },
+  "es": {
+   "wordA": "vago",
+   "wordB": "vago",
+   "exampleA": "Solo me dio una respuesta vaga, así que sigo sin entenderlo.",
+   "exampleB": "Solo dio una respuesta vaga, así que sigo sin entenderlo."
+  }
+ },
+ {
+  "id": "r063",
+  "headword": "vain",
+  "pos": "adjective",
+  "example": "He is so vain that he looks in every mirror he passes.",
+  "fr": {
+   "wordA": "vaniteux",
+   "wordB": "vaniteux",
+   "exampleA": "Il est si vaniteux qu'il se regarde dans chaque miroir devant lequel il passe.",
+   "exampleB": "Il est tellement vaniteux qu'il se regarde dans chaque miroir qu'il croise."
+  },
+  "es": {
+   "wordA": "vanidoso",
+   "wordB": "vanidoso",
+   "exampleA": "Es tan vanidoso que se mira en todos los espejos por los que pasa.",
+   "exampleB": "Es tan vanidoso que se mira en todos los espejos por los que pasa."
+  }
+ },
+ {
+  "id": "r064",
+  "headword": "valuable",
+  "pos": "adjective",
+  "example": "Keep your valuable things, like jewellery, in the hotel safe.",
+  "fr": {
+   "wordA": "de valeur",
+   "wordB": "précieux",
+   "exampleA": "Gardez vos objets de valeur, comme les bijoux, dans le coffre de l'hôtel.",
+   "exampleB": "Gardez vos objets précieux, comme les bijoux, dans le coffre de l'hôtel."
+  },
+  "es": {
+   "wordA": "de valor",
+   "wordB": "valioso",
+   "exampleA": "Guarde sus objetos de valor, como las joyas, en la caja fuerte del hotel.",
+   "exampleB": "Guarde sus objetos valiosos, como las joyas, en la caja fuerte del hotel."
+  }
+ },
+ {
+  "id": "r065",
+  "headword": "van",
+  "pos": "noun",
+  "example": "We rented a van to move all our furniture.",
+  "fr": {
+   "wordA": "la camionnette",
+   "wordB": "la camionnette",
+   "exampleA": "Nous avons loué une camionnette pour déménager tous nos meubles.",
+   "exampleB": "Nous avons loué une camionnette pour déménager tous nos meubles."
+  },
+  "es": {
+   "wordA": "la furgoneta",
+   "wordB": "la furgoneta",
+   "exampleA": "Alquilamos una furgoneta para llevar todos nuestros muebles.",
+   "exampleB": "Alquilamos una furgoneta para trasladar todos los muebles."
+  }
+ },
+ {
+  "id": "r066",
+  "headword": "variety",
+  "pos": "noun",
+  "example": "The market sells a wide variety of fruit and vegetables.",
+  "fr": {
+   "wordA": "la variété",
+   "wordB": "la variété",
+   "exampleA": "Le marché vend une grande variété de fruits et légumes.",
+   "exampleB": "Le marché propose une grande variété de fruits et légumes."
+  },
+  "es": {
+   "wordA": "la variedad",
+   "wordB": "la variedad",
+   "exampleA": "El mercado vende una gran variedad de frutas y verduras.",
+   "exampleB": "En el mercado venden una gran variedad de frutas y verduras."
+  }
+ },
+ {
+  "id": "r067",
+  "headword": "various",
+  "pos": "adjective",
+  "example": "She has lived in various countries, including Italy and Japan.",
+  "fr": {
+   "wordA": "divers",
+   "wordB": "divers",
+   "exampleA": "Elle a vécu dans divers pays, dont l'Italie et le Japon.",
+   "exampleB": "Elle a vécu dans divers pays, dont l'Italie et le Japon."
+  },
+  "es": {
+   "wordA": "varios",
+   "wordB": "varios",
+   "exampleA": "Ha vivido en varios países, entre ellos Italia y Japón.",
+   "exampleB": "Ha vivido en varios países, entre ellos Italia y Japón."
+  }
+ },
+ {
+  "id": "r068",
+  "headword": "vary",
+  "pos": "verb",
+  "example": "Prices vary from shop to shop, so compare them first.",
+  "fr": {
+   "wordA": "varier",
+   "wordB": "varier",
+   "exampleA": "Les prix varient d'un magasin à l'autre, alors compare-les d'abord.",
+   "exampleB": "Les prix varient d'un magasin à l'autre, alors compare-les d'abord."
+  },
+  "es": {
+   "wordA": "variar",
+   "wordB": "variar",
+   "exampleA": "Los precios varían de una tienda a otra, así que compáralos primero.",
+   "exampleB": "Los precios varían de una tienda a otra, así que compáralos antes."
+  }
+ },
+ {
+  "id": "r069",
+  "headword": "vast",
+  "pos": "adjective",
+  "example": "The desert is a vast area with almost no people.",
+  "fr": {
+   "wordA": "immense",
+   "wordB": "vaste",
+   "exampleA": "Le désert est une zone immense presque sans habitants.",
+   "exampleB": "Le désert est une vaste région presque sans habitants."
+  },
+  "es": {
+   "wordA": "vasto",
+   "wordB": "inmenso",
+   "exampleA": "El desierto es una zona inmensa casi sin gente.",
+   "exampleB": "El desierto es una zona inmensa casi sin gente."
+  }
+ },
+ {
+  "id": "r070",
+  "headword": "vegetarian",
+  "pos": "adjective",
+  "example": "This restaurant has a good choice of vegetarian dishes.",
+  "fr": {
+   "wordA": "végétarien",
+   "wordB": "végétarien",
+   "exampleA": "Ce restaurant propose un bon choix de plats végétariens.",
+   "exampleB": "Ce restaurant propose un bon choix de plats végétariens."
+  },
+  "es": {
+   "wordA": "vegetariano",
+   "wordB": "vegetariano",
+   "exampleA": "Este restaurante tiene una buena selección de platos vegetarianos.",
+   "exampleB": "Este restaurante tiene una buena selección de platos vegetarianos."
+  }
+ },
+ {
+  "id": "r071",
+  "headword": "vegetarian",
+  "pos": "noun",
+  "example": "My sister is a vegetarian, so she never eats meat.",
+  "fr": {
+   "wordA": "le végétarien",
+   "wordB": "le végétarien",
+   "exampleA": "Ma sœur est végétarienne, donc elle ne mange jamais de viande.",
+   "exampleB": "Ma sœur est végétarienne, donc elle ne mange jamais de viande."
+  },
+  "es": {
+   "wordA": "el vegetariano",
+   "wordB": "el vegetariano",
+   "exampleA": "Mi hermana es vegetariana, así que nunca come carne.",
+   "exampleB": "Mi hermana es vegetariana, así que nunca come carne."
+  }
+ },
+ {
+  "id": "r072",
+  "headword": "vehicle",
+  "pos": "noun",
+  "example": "No vehicles are allowed in the town centre on Sundays.",
+  "fr": {
+   "wordA": "le véhicule",
+   "wordB": "le véhicule",
+   "exampleA": "Aucun véhicule n'est autorisé dans le centre-ville le dimanche.",
+   "exampleB": "Aucun véhicule n'est autorisé dans le centre-ville le dimanche."
+  },
+  "es": {
+   "wordA": "el vehículo",
+   "wordB": "el vehículo",
+   "exampleA": "Los domingos no se permite la entrada de vehículos en el centro.",
+   "exampleB": "Los domingos no se permite la entrada de vehículos en el centro."
+  }
+ },
+ {
+  "id": "r073",
+  "headword": "vein",
+  "pos": "noun",
+  "example": "The nurse took some blood from a vein in my arm.",
+  "fr": {
+   "wordA": "la veine",
+   "wordB": "la veine",
+   "exampleA": "L'infirmière m'a fait une prise de sang dans une veine du bras.",
+   "exampleB": "L'infirmière m'a fait une prise de sang dans une veine du bras."
+  },
+  "es": {
+   "wordA": "la vena",
+   "wordB": "la vena",
+   "exampleA": "La enfermera me sacó sangre de una vena del brazo.",
+   "exampleB": "La enfermera me sacó sangre de una vena del brazo."
+  }
+ },
+ {
+  "id": "r074",
+  "headword": "vessel",
+  "pos": "noun",
+  "example": "The museum has an old clay vessel for carrying water.",
+  "fr": {
+   "wordA": "le récipient",
+   "wordB": "le récipient",
+   "exampleA": "Le musée possède un ancien récipient en terre cuite pour transporter l'eau.",
+   "exampleB": "Le musée possède un vieux récipient en terre cuite pour transporter l'eau."
+  },
+  "es": {
+   "wordA": "la vasija",
+   "wordB": "la vasija",
+   "exampleA": "El museo tiene una antigua vasija de barro para llevar agua.",
+   "exampleB": "El museo tiene una vasija antigua de barro para llevar agua."
+  }
+ },
+ {
+  "id": "r075",
+  "headword": "vet",
+  "pos": "noun",
+  "example": "We took our dog to the vet because he was ill.",
+  "fr": {
+   "wordA": "le vétérinaire",
+   "wordB": "le vétérinaire",
+   "exampleA": "Nous avons emmené notre chien chez le vétérinaire parce qu'il était malade.",
+   "exampleB": "Nous avons emmené notre chien chez le vétérinaire parce qu'il était malade."
+  },
+  "es": {
+   "wordA": "el veterinario",
+   "wordB": "el veterinario",
+   "exampleA": "Llevamos al perro al veterinario porque estaba enfermo.",
+   "exampleB": "Llevamos al perro al veterinario porque estaba enfermo."
+  }
+ },
+ {
+  "id": "r076",
+  "headword": "via",
+  "pos": "preposition",
+  "example": "We flew to Tokyo via Dubai.",
+  "fr": {
+   "wordA": "via",
+   "wordB": "via",
+   "exampleA": "Nous sommes allés à Tokyo en avion via Dubaï.",
+   "exampleB": "Nous avons pris l'avion pour Tokyo via Dubaï."
+  },
+  "es": {
+   "wordA": "vía",
+   "wordB": "vía",
+   "exampleA": "Volamos a Tokio vía Dubái.",
+   "exampleB": "Volamos a Tokio vía Dubái."
+  }
+ },
+ {
+  "id": "r077",
+  "headword": "vice",
+  "pos": "adjective",
+  "example": "She was elected vice captain of the school football team.",
+  "fr": {
+   "wordA": "vice-",
+   "wordB": "vice-",
+   "exampleA": "Elle a été élue vice-capitaine de l'équipe de foot de l'école.",
+   "exampleB": "Elle a été élue vice-capitaine de l'équipe de foot de l'école."
+  },
+  "es": {
+   "wordA": "vice-",
+   "wordB": "vice-",
+   "exampleA": "La eligieron vicecapitana del equipo de fútbol del colegio.",
+   "exampleB": "La eligieron vicecapitana del equipo de fútbol del colegio."
+  }
+ },
+ {
+  "id": "r078",
+  "headword": "vice president",
+  "pos": "noun",
+  "example": "The vice president will lead the meeting while the president is away.",
+  "fr": {
+   "wordA": "le vice-président",
+   "wordB": "le vice-président",
+   "exampleA": "Le vice-président dirigera la réunion pendant l'absence du président.",
+   "exampleB": "Le vice-président dirigera la réunion pendant l'absence du président."
+  },
+  "es": {
+   "wordA": "el vicepresidente",
+   "wordB": "el vicepresidente",
+   "exampleA": "El vicepresidente dirigirá la reunión mientras el presidente esté fuera.",
+   "exampleB": "El vicepresidente dirigirá la reunión mientras el presidente esté fuera."
+  }
+ },
+ {
+  "id": "r079",
+  "headword": "victim",
+  "pos": "noun",
+  "example": "The police are looking for the victim's family.",
+  "fr": {
+   "wordA": "la victime",
+   "wordB": "la victime",
+   "exampleA": "La police recherche la famille de la victime.",
+   "exampleB": "La police recherche la famille de la victime."
+  },
+  "es": {
+   "wordA": "la víctima",
+   "wordB": "la víctima",
+   "exampleA": "La policía está buscando a la familia de la víctima.",
+   "exampleB": "La policía busca a la familia de la víctima."
+  }
+ },
+ {
+  "id": "r080",
+  "headword": "victory",
+  "pos": "noun",
+  "example": "The fans celebrated the team's victory in the streets.",
+  "fr": {
+   "wordA": "la victoire",
+   "wordB": "la victoire",
+   "exampleA": "Les supporters ont fêté la victoire de l'équipe dans les rues.",
+   "exampleB": "Les supporters ont fêté la victoire de l'équipe dans les rues."
+  },
+  "es": {
+   "wordA": "la victoria",
+   "wordB": "la victoria",
+   "exampleA": "Los aficionados celebraron la victoria del equipo en las calles.",
+   "exampleB": "Los aficionados celebraron la victoria del equipo en las calles."
+  }
+ },
+ {
+  "id": "r081",
+  "headword": "video clip",
+  "pos": "noun",
+  "example": "She shared a funny video clip of her cat online.",
+  "fr": {
+   "wordA": "la vidéo",
+   "wordB": "la vidéo",
+   "exampleA": "Elle a partagé en ligne une vidéo drôle de son chat.",
+   "exampleB": "Elle a partagé en ligne une petite vidéo drôle de son chat."
+  },
+  "es": {
+   "wordA": "el vídeo",
+   "wordB": "el vídeo",
+   "exampleA": "Compartió en internet un vídeo gracioso de su gato.",
+   "exampleB": "Compartió en internet un vídeo gracioso de su gato."
+  }
+ },
+ {
+  "id": "r082",
+  "headword": "view",
+  "pos": "verb",
+  "example": "Thousands of people viewed the paintings at the exhibition.",
+  "fr": {
+   "wordA": "voir",
+   "wordB": "voir",
+   "exampleA": "Des milliers de personnes ont vu les tableaux à l'exposition.",
+   "exampleB": "Des milliers de personnes ont vu les tableaux à l'exposition."
+  },
+  "es": {
+   "wordA": "ver",
+   "wordB": "ver",
+   "exampleA": "Miles de personas vieron los cuadros en la exposición.",
+   "exampleB": "Miles de personas vieron los cuadros en la exposición."
+  }
+ },
+ {
+  "id": "r083",
+  "headword": "viewpoint",
+  "pos": "noun",
+  "example": "From my viewpoint, the new plan is too expensive.",
+  "fr": {
+   "wordA": "le point de vue",
+   "wordB": "le point de vue",
+   "exampleA": "De mon point de vue, le nouveau projet est trop cher.",
+   "exampleB": "De mon point de vue, le nouveau projet coûte trop cher."
+  },
+  "es": {
+   "wordA": "el punto de vista",
+   "wordB": "el punto de vista",
+   "exampleA": "Desde mi punto de vista, el nuevo plan es demasiado caro.",
+   "exampleB": "Desde mi punto de vista, el nuevo plan es demasiado caro."
+  }
+ },
+ {
+  "id": "r084",
+  "headword": "violence",
+  "pos": "noun",
+  "example": "There is too much violence in some video games.",
+  "fr": {
+   "wordA": "la violence",
+   "wordB": "la violence",
+   "exampleA": "Il y a trop de violence dans certains jeux vidéo.",
+   "exampleB": "Il y a trop de violence dans certains jeux vidéo."
+  },
+  "es": {
+   "wordA": "la violencia",
+   "wordB": "la violencia",
+   "exampleA": "Hay demasiada violencia en algunos videojuegos.",
+   "exampleB": "Hay demasiada violencia en algunos videojuegos."
+  }
+ },
+ {
+  "id": "r085",
+  "headword": "violently",
+  "pos": "adverb",
+  "example": "The boat shook violently during the storm.",
+  "fr": {
+   "wordA": "violemment",
+   "wordB": "violemment",
+   "exampleA": "Le bateau a été violemment secoué pendant la tempête.",
+   "exampleB": "Le bateau a été violemment secoué pendant la tempête."
+  },
+  "es": {
+   "wordA": "violentamente",
+   "wordB": "violentamente",
+   "exampleA": "El barco se sacudió violentamente durante la tormenta.",
+   "exampleB": "El barco se sacudió violentamente durante la tormenta."
+  }
+ },
+ {
+  "id": "r086",
+  "headword": "virtual",
+  "pos": "adjective",
+  "example": "With these glasses you can take a virtual tour of the museum.",
+  "fr": {
+   "wordA": "virtuel",
+   "wordB": "virtuel",
+   "exampleA": "Avec ces lunettes, on peut faire une visite virtuelle du musée.",
+   "exampleB": "Avec ces lunettes, on peut faire une visite virtuelle du musée."
+  },
+  "es": {
+   "wordA": "virtual",
+   "wordB": "virtual",
+   "exampleA": "Con estas gafas puedes hacer una visita virtual al museo.",
+   "exampleB": "Con estas gafas puedes hacer una visita virtual al museo."
+  }
+ },
+ {
+  "id": "r087",
+  "headword": "virus",
+  "pos": "noun",
+  "example": "I caught a virus and had to stay in bed for a week.",
+  "fr": {
+   "wordA": "le virus",
+   "wordB": "le virus",
+   "exampleA": "J'ai attrapé un virus et j'ai dû rester au lit pendant une semaine.",
+   "exampleB": "J'ai attrapé un virus et j'ai dû rester au lit pendant une semaine."
+  },
+  "es": {
+   "wordA": "el virus",
+   "wordB": "el virus",
+   "exampleA": "Pillé un virus y tuve que quedarme en cama una semana.",
+   "exampleB": "Pillé un virus y tuve que quedarme una semana en la cama."
+  }
+ },
+ {
+  "id": "r088",
+  "headword": "visa",
+  "pos": "noun",
+  "example": "You need a visa to travel to some countries.",
+  "fr": {
+   "wordA": "le visa",
+   "wordB": "le visa",
+   "exampleA": "Il faut un visa pour voyager dans certains pays.",
+   "exampleB": "Il faut un visa pour voyager dans certains pays."
+  },
+  "es": {
+   "wordA": "el visado",
+   "wordB": "el visado",
+   "exampleA": "Para viajar a algunos países se necesita visado.",
+   "exampleB": "Para viajar a algunos países hace falta un visado."
+  }
+ },
+ {
+  "id": "r089",
+  "headword": "visible",
+  "pos": "adjective",
+  "example": "On a clear day, the mountains are visible from the beach.",
+  "fr": {
+   "wordA": "visible",
+   "wordB": "visible",
+   "exampleA": "Par temps clair, on voit les montagnes depuis la plage.",
+   "exampleB": "Par temps clair, les montagnes sont visibles depuis la plage."
+  },
+  "es": {
+   "wordA": "visible",
+   "wordB": "visible",
+   "exampleA": "En un día despejado, las montañas se ven desde la playa.",
+   "exampleB": "Los días despejados, las montañas se ven desde la playa."
+  }
+ },
+ {
+  "id": "r090",
+  "headword": "vision",
+  "pos": "noun",
+  "example": "My grandmother has poor vision and needs strong glasses.",
+  "fr": {
+   "wordA": "la vue",
+   "wordB": "la vue",
+   "exampleA": "Ma grand-mère a une mauvaise vue et a besoin de lunettes fortes.",
+   "exampleB": "Ma grand-mère a une mauvaise vue et a besoin de lunettes très fortes."
+  },
+  "es": {
+   "wordA": "la vista",
+   "wordB": "la vista",
+   "exampleA": "Mi abuela tiene mala vista y necesita gafas muy fuertes.",
+   "exampleB": "Mi abuela tiene mala vista y necesita gafas muy graduadas."
+  }
+ },
+ {
+  "id": "r091",
+  "headword": "visual",
+  "pos": "adjective",
+  "example": "The teacher uses pictures and other visual aids in class.",
+  "fr": {
+   "wordA": "visuel",
+   "wordB": "visuel",
+   "exampleA": "Le professeur utilise des images et d'autres supports visuels en classe.",
+   "exampleB": "Le professeur utilise des images et d'autres supports visuels en classe."
+  },
+  "es": {
+   "wordA": "visual",
+   "wordB": "visual",
+   "exampleA": "El profesor usa imágenes y otros apoyos visuales en clase.",
+   "exampleB": "El profesor usa imágenes y otros recursos visuales en clase."
+  }
+ },
+ {
+  "id": "r092",
+  "headword": "visually",
+  "pos": "adverb",
+  "example": "The film is visually beautiful, but the story is boring.",
+  "fr": {
+   "wordA": "visuellement",
+   "wordB": "visuellement",
+   "exampleA": "Le film est visuellement magnifique, mais l'histoire est ennuyeuse.",
+   "exampleB": "Le film est visuellement magnifique, mais l'histoire est ennuyeuse."
+  },
+  "es": {
+   "wordA": "visualmente",
+   "wordB": "visualmente",
+   "exampleA": "La película es visualmente preciosa, pero la historia es aburrida.",
+   "exampleB": "La película es visualmente preciosa, pero la historia es aburrida."
+  }
+ },
+ {
+  "id": "r093",
+  "headword": "vivid",
+  "pos": "adjective",
+  "example": "I have vivid memories of my first day at school.",
+  "fr": {
+   "wordA": "vif",
+   "wordB": "vif",
+   "exampleA": "J'ai des souvenirs très vifs de mon premier jour d'école.",
+   "exampleB": "J'ai des souvenirs très nets de mon premier jour d'école."
+  },
+  "es": {
+   "wordA": "vívido",
+   "wordB": "vívido",
+   "exampleA": "Tengo recuerdos muy vívidos de mi primer día de colegio.",
+   "exampleB": "Tengo recuerdos muy vívidos de mi primer día de colegio."
+  }
+ },
+ {
+  "id": "r094",
+  "headword": "vividly",
+  "pos": "adverb",
+  "example": "I vividly remember the day my sister was born.",
+  "fr": {
+   "wordA": "très nettement",
+   "wordB": "clairement",
+   "exampleA": "Je me souviens très nettement du jour où ma sœur est née.",
+   "exampleB": "Je me souviens très clairement du jour où ma sœur est née."
+  },
+  "es": {
+   "wordA": "con claridad",
+   "wordB": "vívidamente",
+   "exampleA": "Recuerdo con mucha claridad el día en que nació mi hermana.",
+   "exampleB": "Recuerdo con total claridad el día en que nació mi hermana."
+  }
+ },
+ {
+  "id": "r095",
+  "headword": "volcano",
+  "pos": "noun",
+  "example": "The volcano has not erupted for over a hundred years.",
+  "fr": {
+   "wordA": "le volcan",
+   "wordB": "le volcan",
+   "exampleA": "Le volcan n'est pas entré en éruption depuis plus de cent ans.",
+   "exampleB": "Le volcan n'est pas entré en éruption depuis plus de cent ans."
+  },
+  "es": {
+   "wordA": "el volcán",
+   "wordB": "el volcán",
+   "exampleA": "El volcán no ha entrado en erupción desde hace más de cien años.",
+   "exampleB": "El volcán no ha entrado en erupción desde hace más de cien años."
+  }
+ },
+ {
+  "id": "r096",
+  "headword": "volume",
+  "pos": "noun",
+  "example": "The library has the first volume of the story, but not the second.",
+  "fr": {
+   "wordA": "le tome",
+   "wordB": "le tome",
+   "exampleA": "La bibliothèque a le premier tome de l'histoire, mais pas le deuxième.",
+   "exampleB": "La bibliothèque a le premier tome de l'histoire, mais pas le deuxième."
+  },
+  "es": {
+   "wordA": "el tomo",
+   "wordB": "el tomo",
+   "exampleA": "La biblioteca tiene el primer tomo de la historia, pero no el segundo.",
+   "exampleB": "La biblioteca tiene el primer tomo de la historia, pero no el segundo."
+  }
+ },
+ {
+  "id": "r097",
+  "headword": "volunteer",
+  "pos": "verb",
+  "example": "She volunteers at the animal shelter every Saturday.",
+  "fr": {
+   "wordA": "faire du bénévolat",
+   "wordB": "faire du bénévolat",
+   "exampleA": "Elle fait du bénévolat au refuge pour animaux tous les samedis.",
+   "exampleB": "Elle fait du bénévolat au refuge pour animaux tous les samedis."
+  },
+  "es": {
+   "wordA": "hacer voluntariado",
+   "wordB": "hacer voluntariado",
+   "exampleA": "Hace voluntariado en el refugio de animales todos los sábados.",
+   "exampleB": "Hace voluntariado en el refugio de animales todos los sábados."
+  }
+ },
+ {
+  "id": "r098",
+  "headword": "vote",
+  "pos": "verb",
+  "example": "Everyone over eighteen can vote in the election.",
+  "fr": {
+   "wordA": "voter",
+   "wordB": "voter",
+   "exampleA": "Toutes les personnes de plus de dix-huit ans peuvent voter à l'élection.",
+   "exampleB": "Toute personne de plus de dix-huit ans peut voter à l'élection."
+  },
+  "es": {
+   "wordA": "votar",
+   "wordB": "votar",
+   "exampleA": "Todos los mayores de dieciocho años pueden votar en las elecciones.",
+   "exampleB": "Todos los mayores de dieciocho años pueden votar en las elecciones."
+  }
+ },
+ {
+  "id": "r099",
+  "headword": "vowel",
+  "pos": "noun",
+  "example": "In English, the letter a is a vowel and b is not.",
+  "fr": {
+   "wordA": "la voyelle",
+   "wordB": "la voyelle",
+   "exampleA": "En anglais, la lettre a est une voyelle, mais pas le b.",
+   "exampleB": "En anglais, la lettre a est une voyelle et le b ne l'est pas."
+  },
+  "es": {
+   "wordA": "la vocal",
+   "wordB": "la vocal",
+   "exampleA": "En inglés, la letra a es una vocal y la b no.",
+   "exampleB": "En inglés, la letra a es una vocal y la b no."
+  }
+ },
+ {
+  "id": "r100",
+  "headword": "voyage",
+  "pos": "noun",
+  "example": "The voyage across the ocean took three weeks by ship.",
+  "fr": {
+   "wordA": "la traversée",
+   "wordB": "la traversée",
+   "exampleA": "La traversée de l'océan en bateau a duré trois semaines.",
+   "exampleB": "La traversée de l'océan en bateau a duré trois semaines."
+  },
+  "es": {
+   "wordA": "la travesía",
+   "wordB": "la travesía",
+   "exampleA": "La travesía del océano en barco duró tres semanas.",
+   "exampleB": "La travesía del océano en barco duró tres semanas."
+  }
+ },
+ {
+  "id": "r101",
+  "headword": "wagon",
+  "pos": "noun",
+  "example": "The farmer loaded the hay onto a wagon pulled by two horses.",
+  "fr": {
+   "wordA": "la charrette",
+   "wordB": "la charrette",
+   "exampleA": "Le fermier a chargé le foin sur une charrette tirée par deux chevaux.",
+   "exampleB": "Le fermier a chargé le foin sur une charrette tirée par deux chevaux."
+  },
+  "es": {
+   "wordA": "el carro",
+   "wordB": "el carro",
+   "exampleA": "El granjero cargó el heno en un carro tirado por dos caballos.",
+   "exampleB": "El granjero cargó el heno en un carro tirado por dos caballos."
+  }
+ }
+]

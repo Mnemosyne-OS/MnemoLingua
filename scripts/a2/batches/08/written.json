@@ -1,0 +1,1224 @@
+[
+ {
+  "id": "issue-n",
+  "example": "We talked about environmental issues in class today.",
+  "gloss": {
+   "fr": "la question",
+   "es": "el tema"
+  },
+  "exampleGloss": {
+   "fr": "Nous avons parlé de questions environnementales en classe aujourd'hui.",
+   "es": "Hoy hemos hablado de temas medioambientales en clase."
+  },
+  "topic": "school"
+ },
+ {
+  "id": "it-n",
+  "example": "My brother works in IT; he fixes computers.",
+  "gloss": {
+   "fr": "l'informatique",
+   "es": "la informática"
+  },
+  "exampleGloss": {
+   "fr": "Mon frère travaille dans l'informatique : il répare des ordinateurs.",
+   "es": "Mi hermano trabaja en informática; arregla ordenadores."
+  },
+  "topic": "work"
+ },
+ {
+  "id": "itself-pron",
+  "example": "The cat cleaned itself after eating.",
+  "gloss": {
+   "fr": "lui-même",
+   "es": "sí mismo"
+  },
+  "exampleGloss": {
+   "fr": "Le chat a fait sa toilette après avoir mangé.",
+   "es": "El gato se lavó después de comer."
+  },
+  "topic": "smallwords"
+ },
+ {
+  "id": "jam-n",
+  "example": "I like bread with butter and strawberry jam.",
+  "gloss": {
+   "fr": "la confiture",
+   "es": "la mermelada"
+  },
+  "exampleGloss": {
+   "fr": "J'aime le pain avec du beurre et de la confiture de fraises.",
+   "es": "Me gusta el pan con mantequilla y mermelada de fresa."
+  },
+  "topic": "food"
+ },
+ {
+  "id": "jelly-n",
+  "example": "The children ate red jelly at the party.",
+  "gloss": {
+   "fr": "la gelée",
+   "es": "la gelatina"
+  },
+  "exampleGloss": {
+   "fr": "Les enfants ont mangé de la gelée rouge à la fête.",
+   "es": "Los niños comieron gelatina roja en la fiesta."
+  },
+  "topic": "food"
+ },
+ {
+  "id": "joke-n",
+  "example": "My dad told a funny joke, and we all laughed.",
+  "gloss": {
+   "fr": "la blague",
+   "es": "el chiste"
+  },
+  "exampleGloss": {
+   "fr": "Mon père a raconté une blague drôle et nous avons tous ri.",
+   "es": "Mi padre contó un chiste gracioso y todos nos reímos."
+  },
+  "topic": "leisure"
+ },
+ {
+  "id": "journey-n",
+  "example": "The journey from London to Paris takes two hours.",
+  "gloss": {
+   "fr": "le trajet",
+   "es": "el viaje"
+  },
+  "exampleGloss": {
+   "fr": "Le trajet de Londres à Paris dure deux heures.",
+   "es": "El viaje de Londres a París dura dos horas."
+  },
+  "topic": "transport"
+ },
+ {
+  "id": "joy-n",
+  "example": "She cried with joy when she saw her baby.",
+  "gloss": {
+   "fr": "la joie",
+   "es": "la alegría"
+  },
+  "exampleGloss": {
+   "fr": "Elle a pleuré de joie en voyant son bébé.",
+   "es": "Lloró de alegría al ver a su bebé."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "junior-adj",
+  "example": "My son is ten, so he plays in the junior team.",
+  "gloss": {
+   "fr": "junior",
+   "es": "infantil"
+  },
+  "exampleGloss": {
+   "fr": "Mon fils a dix ans, donc il joue dans l'équipe junior.",
+   "es": "Mi hijo tiene diez años, así que juega en el equipo infantil."
+  },
+  "topic": "leisure"
+ },
+ {
+  "id": "junk-n",
+  "example": "The garage is full of old junk.",
+  "gloss": {
+   "fr": "les vieilleries",
+   "es": "los trastos"
+  },
+  "exampleGloss": {
+   "fr": "Le garage est plein de vieilleries.",
+   "es": "El garaje está lleno de trastos viejos."
+  },
+  "topic": "home"
+ },
+ {
+  "id": "killer-n",
+  "example": "The police caught the killer last night.",
+  "gloss": {
+   "fr": "le meurtrier",
+   "es": "el asesino"
+  },
+  "exampleGloss": {
+   "fr": "La police a arrêté le meurtrier hier soir.",
+   "es": "La policía detuvo al asesino anoche."
+  },
+  "topic": "people"
+ },
+ {
+  "id": "kilo-n",
+  "example": "I bought a kilo of apples at the market.",
+  "gloss": {
+   "fr": "le kilo",
+   "es": "el kilo"
+  },
+  "exampleGloss": {
+   "fr": "J'ai acheté un kilo de pommes au marché.",
+   "es": "Compré un kilo de manzanas en el mercado."
+  },
+  "topic": "shopping"
+ },
+ {
+  "id": "kilogram-n",
+  "example": "This bag of rice weighs one kilogram.",
+  "gloss": {
+   "fr": "le kilogramme",
+   "es": "el kilogramo"
+  },
+  "exampleGloss": {
+   "fr": "Ce sac de riz pèse un kilogramme.",
+   "es": "Esta bolsa de arroz pesa un kilogramo."
+  },
+  "topic": "shopping"
+ },
+ {
+  "id": "kilometer-n",
+  "example": "My school is two kilometers from my house.",
+  "gloss": {
+   "fr": "le kilomètre",
+   "es": "el kilómetro"
+  },
+  "exampleGloss": {
+   "fr": "Mon école est à deux kilomètres de chez moi.",
+   "es": "Mi colegio está a dos kilómetros de mi casa."
+  },
+  "topic": "transport"
+ },
+ {
+  "id": "kind-adj",
+  "example": "It was very kind of you to help me.",
+  "gloss": {
+   "fr": "gentil",
+   "es": "amable"
+  },
+  "exampleGloss": {
+   "fr": "C'était très gentil de ta part de m'aider.",
+   "es": "Fue muy amable por tu parte ayudarme."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "kindly-adj",
+  "example": "A kindly old man showed us the way.",
+  "gloss": {
+   "fr": "bienveillant",
+   "es": "bondadoso"
+  },
+  "exampleGloss": {
+   "fr": "Un vieil homme bienveillant nous a montré le chemin.",
+   "es": "Un anciano bondadoso nos indicó el camino."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "kingdom-n",
+  "example": "The king ruled a small kingdom by the sea.",
+  "gloss": {
+   "fr": "le royaume",
+   "es": "el reino"
+  },
+  "exampleGloss": {
+   "fr": "Le roi régnait sur un petit royaume au bord de la mer.",
+   "es": "El rey gobernaba un pequeño reino junto al mar."
+  },
+  "topic": "people"
+ },
+ {
+  "id": "kit-n",
+  "example": "Don't forget your football kit for the match.",
+  "gloss": {
+   "fr": "la tenue",
+   "es": "la equipación"
+  },
+  "exampleGloss": {
+   "fr": "N'oublie pas ta tenue de foot pour le match.",
+   "es": "No olvides la equipación de fútbol para el partido."
+  },
+  "topic": "leisure"
+ },
+ {
+  "id": "knock-n",
+  "example": "I heard a knock at the door.",
+  "gloss": {
+   "fr": "le coup",
+   "es": "el golpe"
+  },
+  "exampleGloss": {
+   "fr": "J'ai entendu un coup à la porte.",
+   "es": "Oí un golpe en la puerta."
+  },
+  "topic": "home"
+ },
+ {
+  "id": "knowledge-n",
+  "example": "She has a good knowledge of history.",
+  "gloss": {
+   "fr": "les connaissances",
+   "es": "los conocimientos"
+  },
+  "exampleGloss": {
+   "fr": "Elle a de bonnes connaissances en histoire.",
+   "es": "Tiene buenos conocimientos de historia."
+  },
+  "topic": "school"
+ },
+ {
+  "id": "labor-n",
+  "example": "Building a house takes a lot of labor and time.",
+  "gloss": {
+   "fr": "le travail",
+   "es": "el trabajo"
+  },
+  "exampleGloss": {
+   "fr": "Construire une maison demande beaucoup de travail et de temps.",
+   "es": "Construir una casa exige mucho trabajo y tiempo."
+  },
+  "topic": "work"
+ },
+ {
+  "id": "lack-n",
+  "example": "I feel tired because of lack of sleep.",
+  "gloss": {
+   "fr": "le manque",
+   "es": "la falta"
+  },
+  "exampleGloss": {
+   "fr": "Je suis fatigué à cause du manque de sommeil.",
+   "es": "Estoy cansado por la falta de sueño."
+  },
+  "topic": "body"
+ },
+ {
+  "id": "lake-n",
+  "example": "We swam in the lake near our house.",
+  "gloss": {
+   "fr": "le lac",
+   "es": "el lago"
+  },
+  "exampleGloss": {
+   "fr": "Nous avons nagé dans le lac près de chez nous.",
+   "es": "Nadamos en el lago que hay cerca de casa."
+  },
+  "topic": "nature"
+ },
+ {
+  "id": "lamp-n",
+  "example": "Turn on the lamp; I can't read in the dark.",
+  "gloss": {
+   "fr": "la lampe",
+   "es": "la lámpara"
+  },
+  "exampleGloss": {
+   "fr": "Allume la lampe, je n'arrive pas à lire dans le noir.",
+   "es": "Enciende la lámpara; no puedo leer a oscuras."
+  },
+  "topic": "home"
+ },
+ {
+  "id": "land-v",
+  "example": "The plane landed in Madrid at six o'clock.",
+  "gloss": {
+   "fr": "atterrir",
+   "es": "aterrizar"
+  },
+  "exampleGloss": {
+   "fr": "L'avion a atterri à Madrid à six heures.",
+   "es": "El avión aterrizó en Madrid a las seis."
+  },
+  "topic": "transport"
+ },
+ {
+  "id": "landscape-n",
+  "example": "The landscape in the mountains is beautiful.",
+  "gloss": {
+   "fr": "le paysage",
+   "es": "el paisaje"
+  },
+  "exampleGloss": {
+   "fr": "Le paysage à la montagne est magnifique.",
+   "es": "El paisaje de la montaña es precioso."
+  },
+  "topic": "nature"
+ },
+ {
+  "id": "lane-n",
+  "example": "We walked down a narrow lane between the fields.",
+  "gloss": {
+   "fr": "le chemin",
+   "es": "el camino"
+  },
+  "exampleGloss": {
+   "fr": "Nous avons marché sur un petit chemin entre les champs.",
+   "es": "Caminamos por un camino estrecho entre los campos."
+  },
+  "topic": "transport"
+ },
+ {
+  "id": "last-det",
+  "example": "I saw him last week.",
+  "gloss": {
+   "fr": "dernier",
+   "es": "pasado"
+  },
+  "exampleGloss": {
+   "fr": "Je l'ai vu la semaine dernière.",
+   "es": "Lo vi la semana pasada."
+  },
+  "topic": "time"
+ },
+ {
+  "id": "last-pron",
+  "example": "She was the last to arrive at the party.",
+  "gloss": {
+   "fr": "le dernier",
+   "es": "el último"
+  },
+  "exampleGloss": {
+   "fr": "Elle a été la dernière à arriver à la fête.",
+   "es": "Fue la última en llegar a la fiesta."
+  },
+  "topic": "smallwords"
+ },
+ {
+  "id": "latest-adj",
+  "example": "Have you seen the latest film by that director?",
+  "gloss": {
+   "fr": "dernier",
+   "es": "último"
+  },
+  "exampleGloss": {
+   "fr": "Tu as vu le dernier film de ce réalisateur ?",
+   "es": "¿Has visto la última película de ese director?"
+  },
+  "topic": "time"
+ },
+ {
+  "id": "latter-adv",
+  "example": "We go on holiday in the latter half of July.",
+  "gloss": {
+   "fr": "second",
+   "es": "segundo"
+  },
+  "exampleGloss": {
+   "fr": "Nous partons en vacances dans la seconde moitié de juillet.",
+   "es": "Nos vamos de vacaciones en la segunda mitad de julio."
+  },
+  "topic": "time"
+ },
+ {
+  "id": "latter-pron",
+  "example": "I have a cat and a dog; the latter is very noisy.",
+  "gloss": {
+   "fr": "ce dernier",
+   "es": "este último"
+  },
+  "exampleGloss": {
+   "fr": "J'ai un chat et un chien ; ce dernier est très bruyant.",
+   "es": "Tengo un gato y un perro; este último es muy ruidoso."
+  },
+  "topic": "smallwords"
+ },
+ {
+  "id": "law-n",
+  "example": "In this country, the law says you must wear a seat belt.",
+  "gloss": {
+   "fr": "la loi",
+   "es": "la ley"
+  },
+  "exampleGloss": {
+   "fr": "Dans ce pays, la loi oblige à porter la ceinture de sécurité.",
+   "es": "En este país, la ley obliga a llevar el cinturón de seguridad."
+  },
+  "topic": "people"
+ },
+ {
+  "id": "lawyer-n",
+  "example": "She is a lawyer and works in a big office.",
+  "gloss": {
+   "fr": "l'avocat",
+   "es": "el abogado"
+  },
+  "exampleGloss": {
+   "fr": "Elle est avocate et travaille dans un grand cabinet.",
+   "es": "Es abogada y trabaja en un gran despacho."
+  },
+  "topic": "people"
+ },
+ {
+  "id": "laziness-n",
+  "example": "His laziness made the teacher angry.",
+  "gloss": {
+   "fr": "la paresse",
+   "es": "la pereza"
+  },
+  "exampleGloss": {
+   "fr": "Sa paresse a mis le professeur en colère.",
+   "es": "Su pereza enfadó al profesor."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "lead-n",
+  "example": "Keep your dog on a lead in the park.",
+  "gloss": {
+   "fr": "la laisse",
+   "es": "la correa"
+  },
+  "exampleGloss": {
+   "fr": "Gardez votre chien en laisse dans le parc.",
+   "es": "Lleva al perro con correa en el parque."
+  },
+  "topic": "animals"
+ },
+ {
+  "id": "learner-n",
+  "example": "This dictionary is for learners of English.",
+  "gloss": {
+   "fr": "l'apprenant",
+   "es": "el estudiante"
+  },
+  "exampleGloss": {
+   "fr": "Ce dictionnaire est destiné aux apprenants d'anglais.",
+   "es": "Este diccionario es para estudiantes de inglés."
+  },
+  "topic": "school"
+ },
+ {
+  "id": "least-det",
+  "example": "He has the least money of all my friends.",
+  "gloss": {
+   "fr": "le moins de",
+   "es": "menos"
+  },
+  "exampleGloss": {
+   "fr": "C'est lui qui a le moins d'argent de tous mes amis.",
+   "es": "Es el que menos dinero tiene de todos mis amigos."
+  },
+  "topic": "smallwords"
+ },
+ {
+  "id": "leather-n",
+  "example": "I bought a black leather jacket.",
+  "gloss": {
+   "fr": "le cuir",
+   "es": "el cuero"
+  },
+  "exampleGloss": {
+   "fr": "J'ai acheté une veste en cuir noire.",
+   "es": "Me compré una chaqueta de cuero negra."
+  },
+  "topic": "clothes"
+ },
+ {
+  "id": "left-adv",
+  "example": "Turn left at the end of the street.",
+  "gloss": {
+   "fr": "à gauche",
+   "es": "a la izquierda"
+  },
+  "exampleGloss": {
+   "fr": "Tournez à gauche au bout de la rue.",
+   "es": "Gire a la izquierda al final de la calle."
+  },
+  "topic": "smallwords"
+ },
+ {
+  "id": "left-n",
+  "example": "The bank is on the left, next to the café.",
+  "gloss": {
+   "fr": "la gauche",
+   "es": "la izquierda"
+  },
+  "exampleGloss": {
+   "fr": "La banque est sur la gauche, à côté du café.",
+   "es": "El banco está a la izquierda, al lado de la cafetería."
+  },
+  "topic": "town"
+ },
+ {
+  "id": "left-hand-adj",
+  "example": "In Britain, people drive on the left-hand side of the road.",
+  "gloss": {
+   "fr": "gauche",
+   "es": "izquierdo"
+  },
+  "exampleGloss": {
+   "fr": "En Grande-Bretagne, on roule sur le côté gauche de la route.",
+   "es": "En Gran Bretaña se conduce por el lado izquierdo de la carretera."
+  },
+  "topic": "transport"
+ },
+ {
+  "id": "leisure-n",
+  "example": "I don't have much leisure time during the week.",
+  "gloss": {
+   "fr": "les loisirs",
+   "es": "el ocio"
+  },
+  "exampleGloss": {
+   "fr": "Je n'ai pas beaucoup de temps pour mes loisirs en semaine.",
+   "es": "No tengo mucho tiempo de ocio durante la semana."
+  },
+  "topic": "leisure"
+ },
+ {
+  "id": "lemon-n",
+  "example": "I put a slice of lemon in my water.",
+  "gloss": {
+   "fr": "le citron",
+   "es": "el limón"
+  },
+  "exampleGloss": {
+   "fr": "J'ai mis une rondelle de citron dans mon eau.",
+   "es": "Me puse una rodaja de limón en el agua."
+  },
+  "topic": "food"
+ },
+ {
+  "id": "lemonade-n",
+  "example": "On hot days, we drink cold lemonade.",
+  "gloss": {
+   "fr": "la limonade",
+   "es": "la limonada"
+  },
+  "exampleGloss": {
+   "fr": "Les jours de chaleur, nous buvons de la limonade bien fraîche.",
+   "es": "Los días de calor bebemos limonada fría."
+  },
+  "topic": "food"
+ },
+ {
+  "id": "lend-v",
+  "example": "Can you lend me your pen for a minute?",
+  "gloss": {
+   "fr": "prêter",
+   "es": "prestar"
+  },
+  "exampleGloss": {
+   "fr": "Tu peux me prêter ton stylo une minute ?",
+   "es": "¿Me prestas tu boli un minuto?"
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "less-adv",
+  "example": "I want to work less and travel more.",
+  "gloss": {
+   "fr": "moins",
+   "es": "menos"
+  },
+  "exampleGloss": {
+   "fr": "Je veux travailler moins et voyager plus.",
+   "es": "Quiero trabajar menos y viajar más."
+  },
+  "topic": "smallwords"
+ },
+ {
+  "id": "less-det",
+  "example": "Please put less sugar in my coffee.",
+  "gloss": {
+   "fr": "moins de",
+   "es": "menos"
+  },
+  "exampleGloss": {
+   "fr": "Mets moins de sucre dans mon café, s'il te plaît.",
+   "es": "Ponme menos azúcar en el café, por favor."
+  },
+  "topic": "smallwords"
+ },
+ {
+  "id": "less-pron",
+  "example": "He ate a lot, but I ate less.",
+  "gloss": {
+   "fr": "moins",
+   "es": "menos"
+  },
+  "exampleGloss": {
+   "fr": "Il a beaucoup mangé, mais moi, j'ai mangé moins.",
+   "es": "Él comió mucho, pero yo comí menos."
+  },
+  "topic": "smallwords"
+ },
+ {
+  "id": "level-n",
+  "example": "This English course is for students at beginner level.",
+  "gloss": {
+   "fr": "le niveau",
+   "es": "el nivel"
+  },
+  "exampleGloss": {
+   "fr": "Ce cours d'anglais est pour les élèves de niveau débutant.",
+   "es": "Este curso de inglés es para alumnos de nivel principiante."
+  },
+  "topic": "school"
+ },
+ {
+  "id": "liberty-n",
+  "example": "The prisoners wanted their liberty more than anything.",
+  "gloss": {
+   "fr": "la liberté",
+   "es": "la libertad"
+  },
+  "exampleGloss": {
+   "fr": "Les prisonniers voulaient leur liberté plus que tout.",
+   "es": "Los presos querían su libertad más que nada."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "license-v",
+  "example": "This shop is licensed to sell alcohol.",
+  "gloss": {
+   "fr": "accorder une licence",
+   "es": "dar licencia"
+  },
+  "exampleGloss": {
+   "fr": "Ce magasin a une licence pour vendre de l'alcool.",
+   "es": "Esta tienda tiene licencia para vender alcohol."
+  },
+  "topic": "work"
+ },
+ {
+  "id": "lie-v",
+  "example": "I like to lie on the grass in the sun.",
+  "gloss": {
+   "fr": "s'allonger",
+   "es": "tumbarse"
+  },
+  "exampleGloss": {
+   "fr": "J'aime m'allonger sur l'herbe au soleil.",
+   "es": "Me gusta tumbarme en la hierba al sol."
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "lifestyle-n",
+  "example": "He has a healthy lifestyle: he eats well and runs daily.",
+  "gloss": {
+   "fr": "le mode de vie",
+   "es": "el estilo de vida"
+  },
+  "exampleGloss": {
+   "fr": "Il a un mode de vie sain : il mange bien et court tous les jours.",
+   "es": "Lleva un estilo de vida sano: come bien y corre todos los días."
+  },
+  "topic": "people"
+ },
+ {
+  "id": "likely-adj",
+  "example": "It is likely to rain this afternoon.",
+  "gloss": {
+   "fr": "probable",
+   "es": "probable"
+  },
+  "exampleGloss": {
+   "fr": "Il va probablement pleuvoir cet après-midi.",
+   "es": "Es probable que llueva esta tarde."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "lip-n",
+  "example": "My lips are dry because of the cold wind.",
+  "gloss": {
+   "fr": "la lèvre",
+   "es": "el labio"
+  },
+  "exampleGloss": {
+   "fr": "J'ai les lèvres sèches à cause du vent froid.",
+   "es": "Tengo los labios secos por el viento frío."
+  },
+  "topic": "body"
+ },
+ {
+  "id": "liter-n",
+  "example": "I drink two liters of water every day.",
+  "gloss": {
+   "fr": "le litre",
+   "es": "el litro"
+  },
+  "exampleGloss": {
+   "fr": "Je bois deux litres d'eau par jour.",
+   "es": "Bebo dos litros de agua al día."
+  },
+  "topic": "food"
+ },
+ {
+  "id": "lively-adj",
+  "example": "The market is very lively on Saturday mornings.",
+  "gloss": {
+   "fr": "animé",
+   "es": "animado"
+  },
+  "exampleGloss": {
+   "fr": "Le marché est très animé le samedi matin.",
+   "es": "El mercado está muy animado los sábados por la mañana."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "load-n",
+  "example": "The truck carried a heavy load of wood.",
+  "gloss": {
+   "fr": "le chargement",
+   "es": "la carga"
+  },
+  "exampleGloss": {
+   "fr": "Le camion transportait un lourd chargement de bois.",
+   "es": "El camión llevaba una carga pesada de madera."
+  },
+  "topic": "transport"
+ },
+ {
+  "id": "local-adj",
+  "example": "We buy our vegetables from local farmers.",
+  "gloss": {
+   "fr": "local",
+   "es": "local"
+  },
+  "exampleGloss": {
+   "fr": "Nous achetons nos légumes à des agriculteurs locaux.",
+   "es": "Compramos la verdura a agricultores locales."
+  },
+  "topic": "town"
+ },
+ {
+  "id": "lock-n",
+  "example": "I put a new lock on the front door.",
+  "gloss": {
+   "fr": "la serrure",
+   "es": "la cerradura"
+  },
+  "exampleGloss": {
+   "fr": "J'ai mis une nouvelle serrure sur la porte d'entrée.",
+   "es": "Puse una cerradura nueva en la puerta de entrada."
+  },
+  "topic": "home"
+ },
+ {
+  "id": "logical-adj",
+  "example": "Your answer is logical, so it is probably right.",
+  "gloss": {
+   "fr": "logique",
+   "es": "lógico"
+  },
+  "exampleGloss": {
+   "fr": "Ta réponse est logique, donc elle est sûrement juste.",
+   "es": "Tu respuesta es lógica, así que seguramente es correcta."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "long-adv",
+  "example": "Did you wait long for the bus?",
+  "gloss": {
+   "fr": "longtemps",
+   "es": "mucho tiempo"
+  },
+  "exampleGloss": {
+   "fr": "Tu as attendu le bus longtemps ?",
+   "es": "¿Esperaste mucho tiempo el autobús?"
+  },
+  "topic": "time"
+ },
+ {
+  "id": "loose-adj",
+  "example": "These trousers are too loose; I need a belt.",
+  "gloss": {
+   "fr": "large",
+   "es": "ancho"
+  },
+  "exampleGloss": {
+   "fr": "Ce pantalon est trop large, j'ai besoin d'une ceinture.",
+   "es": "Estos pantalones me quedan muy anchos; necesito un cinturón."
+  },
+  "topic": "clothes"
+ },
+ {
+  "id": "lose-v",
+  "example": "I lost my keys yesterday and couldn't open the door.",
+  "gloss": {
+   "fr": "perdre",
+   "es": "perder"
+  },
+  "exampleGloss": {
+   "fr": "J'ai perdu mes clés hier et je n'ai pas pu ouvrir la porte.",
+   "es": "Ayer perdí las llaves y no pude abrir la puerta."
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "lost-adj",
+  "example": "We were lost in the city, so we asked for directions.",
+  "gloss": {
+   "fr": "perdu",
+   "es": "perdido"
+  },
+  "exampleGloss": {
+   "fr": "Nous étions perdus en ville, alors nous avons demandé notre chemin.",
+   "es": "Estábamos perdidos en la ciudad, así que preguntamos el camino."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "lot-n",
+  "example": "We have lots of time before the train leaves.",
+  "gloss": {
+   "fr": "beaucoup",
+   "es": "mucho"
+  },
+  "exampleGloss": {
+   "fr": "Nous avons beaucoup de temps avant le départ du train.",
+   "es": "Tenemos mucho tiempo antes de que salga el tren."
+  },
+  "topic": "smallwords"
+ },
+ {
+  "id": "loudly-adv",
+  "example": "Please don't talk loudly in the library.",
+  "gloss": {
+   "fr": "fort",
+   "es": "alto"
+  },
+  "exampleGloss": {
+   "fr": "Ne parlez pas fort à la bibliothèque, s'il vous plaît.",
+   "es": "Por favor, no habléis alto en la biblioteca."
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "lover-n",
+  "example": "The two lovers walked hand in hand by the river.",
+  "gloss": {
+   "fr": "l'amoureux",
+   "es": "el enamorado"
+  },
+  "exampleGloss": {
+   "fr": "Les deux amoureux se promenaient main dans la main au bord de la rivière.",
+   "es": "Los dos enamorados paseaban de la mano junto al río."
+  },
+  "topic": "people"
+ },
+ {
+  "id": "low-adj",
+  "example": "The table is too low for me.",
+  "gloss": {
+   "fr": "bas",
+   "es": "bajo"
+  },
+  "exampleGloss": {
+   "fr": "La table est trop basse pour moi.",
+   "es": "La mesa es demasiado baja para mí."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "low-adv",
+  "example": "The plane flew low over the houses.",
+  "gloss": {
+   "fr": "bas",
+   "es": "bajo"
+  },
+  "exampleGloss": {
+   "fr": "L'avion volait bas au-dessus des maisons.",
+   "es": "El avión volaba bajo sobre las casas."
+  },
+  "topic": "smallwords"
+ },
+ {
+  "id": "luckily-adv",
+  "example": "Luckily, the rain stopped before the match.",
+  "gloss": {
+   "fr": "heureusement",
+   "es": "por suerte"
+  },
+  "exampleGloss": {
+   "fr": "Heureusement, la pluie s'est arrêtée avant le match.",
+   "es": "Por suerte, la lluvia paró antes del partido."
+  },
+  "topic": "smallwords"
+ },
+ {
+  "id": "lunchtime-n",
+  "example": "I usually go for a walk at lunchtime.",
+  "gloss": {
+   "fr": "l'heure du déjeuner",
+   "es": "la hora de comer"
+  },
+  "exampleGloss": {
+   "fr": "D'habitude, je vais me promener à l'heure du déjeuner.",
+   "es": "Normalmente salgo a pasear a la hora de comer."
+  },
+  "topic": "time"
+ },
+ {
+  "id": "lyric-adj",
+  "example": "She writes lyric poems about love.",
+  "gloss": {
+   "fr": "lyrique",
+   "es": "lírico"
+  },
+  "exampleGloss": {
+   "fr": "Elle écrit des poèmes lyriques sur l'amour.",
+   "es": "Escribe poemas líricos sobre el amor."
+  },
+  "topic": "leisure"
+ },
+ {
+  "id": "mad-adj",
+  "example": "My mum was mad at me because I was late.",
+  "gloss": {
+   "fr": "fâché",
+   "es": "enfadado"
+  },
+  "exampleGloss": {
+   "fr": "Ma mère était fâchée contre moi parce que j'étais en retard.",
+   "es": "Mi madre estaba enfadada conmigo porque llegué tarde."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "magic-adj",
+  "example": "In the story, the boy finds a magic box.",
+  "gloss": {
+   "fr": "magique",
+   "es": "mágico"
+  },
+  "exampleGloss": {
+   "fr": "Dans l'histoire, le garçon trouve une boîte magique.",
+   "es": "En la historia, el niño encuentra una caja mágica."
+  },
+  "topic": "leisure"
+ },
+ {
+  "id": "magic-n",
+  "example": "Small children often believe in magic.",
+  "gloss": {
+   "fr": "la magie",
+   "es": "la magia"
+  },
+  "exampleGloss": {
+   "fr": "Les petits enfants croient souvent à la magie.",
+   "es": "Los niños pequeños suelen creer en la magia."
+  },
+  "topic": "leisure"
+ },
+ {
+  "id": "main-course-n",
+  "example": "For the main course, I had chicken with potatoes.",
+  "gloss": {
+   "fr": "le plat principal",
+   "es": "el plato principal"
+  },
+  "exampleGloss": {
+   "fr": "En plat principal, j'ai pris du poulet avec des pommes de terre.",
+   "es": "De plato principal, comí pollo con patatas."
+  },
+  "topic": "food"
+ },
+ {
+  "id": "mainly-adv",
+  "example": "The people in this village are mainly farmers.",
+  "gloss": {
+   "fr": "principalement",
+   "es": "principalmente"
+  },
+  "exampleGloss": {
+   "fr": "Les habitants de ce village sont principalement des agriculteurs.",
+   "es": "Los habitantes de este pueblo son principalmente agricultores."
+  },
+  "topic": "smallwords"
+ },
+ {
+  "id": "major-adj",
+  "example": "Traffic is a major problem in big cities.",
+  "gloss": {
+   "fr": "majeur",
+   "es": "importante"
+  },
+  "exampleGloss": {
+   "fr": "La circulation est un problème majeur dans les grandes villes.",
+   "es": "El tráfico es un problema importante en las grandes ciudades."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "maker-n",
+  "example": "Who is the maker of this phone?",
+  "gloss": {
+   "fr": "le fabricant",
+   "es": "el fabricante"
+  },
+  "exampleGloss": {
+   "fr": "Qui est le fabricant de ce téléphone ?",
+   "es": "¿Quién es el fabricante de este teléfono?"
+  },
+  "topic": "people"
+ },
+ {
+  "id": "make-up-n",
+  "example": "She puts on make-up before she goes out.",
+  "gloss": {
+   "fr": "le maquillage",
+   "es": "el maquillaje"
+  },
+  "exampleGloss": {
+   "fr": "Elle se maquille avant de sortir.",
+   "es": "Se maquilla antes de salir."
+  },
+  "topic": "body"
+ },
+ {
+  "id": "male-n",
+  "example": "The male has brighter feathers than the female.",
+  "gloss": {
+   "fr": "le mâle",
+   "es": "el macho"
+  },
+  "exampleGloss": {
+   "fr": "Le mâle a des plumes plus colorées que la femelle.",
+   "es": "El macho tiene las plumas más vivas que la hembra."
+  },
+  "topic": "animals"
+ },
+ {
+  "id": "mall-n",
+  "example": "We went shopping at the new mall on Saturday.",
+  "gloss": {
+   "fr": "le centre commercial",
+   "es": "el centro comercial"
+  },
+  "exampleGloss": {
+   "fr": "Samedi, nous sommes allés faire du shopping au nouveau centre commercial.",
+   "es": "El sábado fuimos de compras al nuevo centro comercial."
+  },
+  "topic": "town"
+ },
+ {
+  "id": "manage-v",
+  "example": "The box was heavy, but I managed to carry it.",
+  "gloss": {
+   "fr": "réussir à",
+   "es": "conseguir"
+  },
+  "exampleGloss": {
+   "fr": "La boîte était lourde, mais j'ai réussi à la porter.",
+   "es": "La caja pesaba mucho, pero conseguí llevarla."
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "manager-n",
+  "example": "I asked to speak to the manager of the hotel.",
+  "gloss": {
+   "fr": "le directeur",
+   "es": "el director"
+  },
+  "exampleGloss": {
+   "fr": "J'ai demandé à parler au directeur de l'hôtel.",
+   "es": "Pedí hablar con el director del hotel."
+  },
+  "topic": "people"
+ },
+ {
+  "id": "manner-n",
+  "example": "She spoke in a calm and friendly manner.",
+  "gloss": {
+   "fr": "la manière",
+   "es": "la manera"
+  },
+  "exampleGloss": {
+   "fr": "Elle a parlé d'une manière calme et aimable.",
+   "es": "Habló de manera tranquila y amable."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "mark-n",
+  "example": "I got a good mark in my English test.",
+  "gloss": {
+   "fr": "la note",
+   "es": "la nota"
+  },
+  "exampleGloss": {
+   "fr": "J'ai eu une bonne note à mon contrôle d'anglais.",
+   "es": "Saqué buena nota en el examen de inglés."
+  },
+  "topic": "school"
+ },
+ {
+  "id": "mark-v",
+  "example": "The teacher marked our tests over the weekend.",
+  "gloss": {
+   "fr": "corriger",
+   "es": "corregir"
+  },
+  "exampleGloss": {
+   "fr": "Le professeur a corrigé nos contrôles pendant le week-end.",
+   "es": "El profesor corrigió nuestros exámenes durante el fin de semana."
+  },
+  "topic": "school"
+ },
+ {
+  "id": "market-n",
+  "example": "Every Sunday, I buy fresh fruit at the market.",
+  "gloss": {
+   "fr": "le marché",
+   "es": "el mercado"
+  },
+  "exampleGloss": {
+   "fr": "Tous les dimanches, j'achète des fruits frais au marché.",
+   "es": "Todos los domingos compro fruta fresca en el mercado."
+  },
+  "topic": "shopping"
+ },
+ {
+  "id": "married-adj",
+  "example": "My sister is married and has two children.",
+  "gloss": {
+   "fr": "marié",
+   "es": "casado"
+  },
+  "exampleGloss": {
+   "fr": "Ma sœur est mariée et a deux enfants.",
+   "es": "Mi hermana está casada y tiene dos hijos."
+  },
+  "topic": "people"
+ },
+ {
+  "id": "marry-v",
+  "example": "He wants to marry his girlfriend next year.",
+  "gloss": {
+   "fr": "épouser",
+   "es": "casarse con"
+  },
+  "exampleGloss": {
+   "fr": "Il veut épouser sa copine l'année prochaine.",
+   "es": "Quiere casarse con su novia el año que viene."
+  },
+  "topic": "people"
+ },
+ {
+  "id": "marvelous-adj",
+  "example": "We had a marvelous holiday by the sea.",
+  "gloss": {
+   "fr": "merveilleux",
+   "es": "maravilloso"
+  },
+  "exampleGloss": {
+   "fr": "Nous avons passé des vacances merveilleuses au bord de la mer.",
+   "es": "Pasamos unas vacaciones maravillosas en la playa."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "material-n",
+  "example": "This dress is made of a soft material.",
+  "gloss": {
+   "fr": "le tissu",
+   "es": "la tela"
+  },
+  "exampleGloss": {
+   "fr": "Cette robe est faite dans un tissu doux.",
+   "es": "Este vestido está hecho de una tela suave."
+  },
+  "topic": "clothes"
+ }
+]

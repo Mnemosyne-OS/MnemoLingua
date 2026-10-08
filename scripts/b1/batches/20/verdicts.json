@@ -1,0 +1,394 @@
+{
+ "decoys": {
+  "caught": 6,
+  "total": 6,
+  "missed": []
+ },
+ "toReview": 2,
+ "cards": {
+  "religion-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "religious-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "rely-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "remainder-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "remark-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "remarkable-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "remedy-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "remembrance-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "remote-control-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "remove-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "renew-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "repay-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "repeatedly-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "reply-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "report-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "representative-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "reproduce-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "republic-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "reputation-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "request-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "require-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "requirement-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "rescue-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "rescue-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "researcher-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "resemble-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "reservation-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "reserve-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "reserve-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "resident-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "residential-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "resist-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "resolve-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "resort-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "resource-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "respect-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "respect-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "respectable-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "respond-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "responsibility-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "responsible-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "rest-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "rest-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "restore-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "restrict-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "result-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "retail-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "retain-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "retell-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "retrospect-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "reunification-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "reunify-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "revise-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "revision-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "reward-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "rewrite-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "rid-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "riddle-v": {
+   "check": "to-review",
+   "problems": [
+    "english: 'riddled with' (verb sense of riddle) is above B1 level"
+   ]
+  },
+  "ridiculous-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "ripe-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "rise-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "rise-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "risk-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "roadside-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "robot-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "rolling-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "room-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "rotten-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "rough-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "round-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "round-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "routine-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "rubber-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "rubbish-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "rudely-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "ruin-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "runaway-n": {
+   "check": "to-review",
+   "problems": [
+    "es word: 'fugitivo' suggests fleeing the law; a runaway youth is 'fugado'"
+   ]
+  },
+  "runway-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "rush-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "sacred-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "sadness-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "safari-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "safeguard-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "safely-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "safety-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "salesman-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "salmon-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "sand-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "sandal-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "satellite-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "satisfaction-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "satisfied-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "saucepan-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "saucer-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "scan-n": {
+   "check": "two-pass",
+   "problems": []
+  }
+ }
+}

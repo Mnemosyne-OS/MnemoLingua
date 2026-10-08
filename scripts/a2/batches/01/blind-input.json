@@ -1,0 +1,566 @@
+[
+ {
+  "id": "ability-n",
+  "headword": "ability",
+  "pos": "noun",
+  "example": "She has the ability to speak four languages."
+ },
+ {
+  "id": "abroad-adv",
+  "headword": "abroad",
+  "pos": "adverb",
+  "example": "My sister lives abroad, in Canada."
+ },
+ {
+  "id": "accept-v",
+  "headword": "accept",
+  "pos": "verb",
+  "example": "She accepted my invitation to the party."
+ },
+ {
+  "id": "acceptable-adj",
+  "headword": "acceptable",
+  "pos": "adjective",
+  "example": "Your homework is acceptable, but it could be better."
+ },
+ {
+  "id": "accident-n",
+  "headword": "accident",
+  "pos": "noun",
+  "example": "He broke his leg in a car accident."
+ },
+ {
+  "id": "account-n",
+  "headword": "account",
+  "pos": "noun",
+  "example": "I opened a bank account to save money."
+ },
+ {
+  "id": "achieve-v",
+  "headword": "achieve",
+  "pos": "verb",
+  "example": "She worked hard and achieved her goal."
+ },
+ {
+  "id": "across-adv",
+  "headword": "across",
+  "pos": "adverb",
+  "example": "The road was busy, so we ran across quickly."
+ },
+ {
+  "id": "across-prep",
+  "headword": "across",
+  "pos": "preposition",
+  "example": "We walked across the bridge to the old town."
+ },
+ {
+  "id": "act-n",
+  "headword": "act",
+  "pos": "noun",
+  "example": "The second act of the play was very funny."
+ },
+ {
+  "id": "actually-adv",
+  "headword": "actually",
+  "pos": "adverb",
+  "example": "I thought he was French, but actually he's Belgian."
+ },
+ {
+  "id": "addition-n",
+  "headword": "addition",
+  "pos": "noun",
+  "example": "Addition is easy: two plus two is four."
+ },
+ {
+  "id": "additional-adj",
+  "headword": "additional",
+  "pos": "adjective",
+  "example": "We need an additional chair for our guest."
+ },
+ {
+  "id": "adjective-n",
+  "headword": "adjective",
+  "pos": "noun",
+  "example": "In \"a big house\", the word \"big\" is an adjective."
+ },
+ {
+  "id": "adjust-v",
+  "headword": "adjust",
+  "pos": "verb",
+  "example": "You can adjust the seat to make it higher."
+ },
+ {
+  "id": "admire-v",
+  "headword": "admire",
+  "pos": "verb",
+  "example": "I really admire my mother for her courage."
+ },
+ {
+  "id": "admit-v",
+  "headword": "admit",
+  "pos": "verb",
+  "example": "He admitted that he broke the window."
+ },
+ {
+  "id": "adult-adj",
+  "headword": "adult",
+  "pos": "adjective",
+  "example": "She has two adult children who live in Paris."
+ },
+ {
+  "id": "adult-n",
+  "headword": "adult",
+  "pos": "noun",
+  "example": "Tickets cost ten euros for adults and five for children."
+ },
+ {
+  "id": "advanced-adj",
+  "headword": "advanced",
+  "pos": "adjective",
+  "example": "This class is for advanced students, not beginners."
+ },
+ {
+  "id": "advantage-n",
+  "headword": "advantage",
+  "pos": "noun",
+  "example": "A big advantage of this job is the long holidays."
+ },
+ {
+  "id": "adventure-n",
+  "headword": "adventure",
+  "pos": "noun",
+  "example": "The children had a great adventure in the forest."
+ },
+ {
+  "id": "advertisement-n",
+  "headword": "advertisement",
+  "pos": "noun",
+  "example": "I saw an advertisement for a new phone on TV."
+ },
+ {
+  "id": "advertising-n",
+  "headword": "advertising",
+  "pos": "noun",
+  "example": "The company spends a lot of money on advertising."
+ },
+ {
+  "id": "advice-n",
+  "headword": "advice",
+  "pos": "noun",
+  "example": "My teacher gave me some good advice about my exams."
+ },
+ {
+  "id": "advise-v",
+  "headword": "advise",
+  "pos": "verb",
+  "example": "The doctor advised me to drink more water."
+ },
+ {
+  "id": "affair-n",
+  "headword": "affair",
+  "pos": "noun",
+  "example": "He never talks about his private affairs at work."
+ },
+ {
+  "id": "after-adv",
+  "headword": "after",
+  "pos": "adverb",
+  "example": "She left at six, and I left soon after."
+ },
+ {
+  "id": "against-prep",
+  "headword": "against",
+  "pos": "preposition",
+  "example": "Our team played against Spain last night."
+ },
+ {
+  "id": "aged-adj",
+  "headword": "aged",
+  "pos": "adjective",
+  "example": "They have two children, aged five and eight."
+ },
+ {
+  "id": "agency-n",
+  "headword": "agency",
+  "pos": "noun",
+  "example": "We booked our holiday at a travel agency."
+ },
+ {
+  "id": "agent-n",
+  "headword": "agent",
+  "pos": "noun",
+  "example": "The travel agent found us a cheap hotel."
+ },
+ {
+  "id": "ahead-adv",
+  "headword": "ahead",
+  "pos": "adverb",
+  "example": "You walk ahead, and I will follow you."
+ },
+ {
+  "id": "air-n",
+  "headword": "air",
+  "pos": "noun",
+  "example": "Open the window and let some fresh air in."
+ },
+ {
+  "id": "aisle-n",
+  "headword": "aisle",
+  "pos": "noun",
+  "example": "I'd like a seat next to the aisle on the plane, please."
+ },
+ {
+  "id": "alarm-n",
+  "headword": "alarm",
+  "pos": "noun",
+  "example": "The fire alarm rang and everyone left the building."
+ },
+ {
+  "id": "alarm-clock-n",
+  "headword": "alarm clock",
+  "pos": "noun",
+  "example": "My alarm clock rings at seven every morning."
+ },
+ {
+  "id": "alive-adj",
+  "headword": "alive",
+  "pos": "adjective",
+  "example": "The fish was still alive when we caught it."
+ },
+ {
+  "id": "all-adv",
+  "headword": "all",
+  "pos": "adverb",
+  "example": "She was all alone in the big house."
+ },
+ {
+  "id": "allow-v",
+  "headword": "allow",
+  "pos": "verb",
+  "example": "My parents don't allow me to stay out late."
+ },
+ {
+  "id": "alone-adj",
+  "headword": "alone",
+  "pos": "adjective",
+  "example": "He doesn't like being alone at night."
+ },
+ {
+  "id": "along-prep",
+  "headword": "along",
+  "pos": "preposition",
+  "example": "We walked along the beach at sunset."
+ },
+ {
+  "id": "alright-adj",
+  "headword": "alright",
+  "pos": "adjective",
+  "example": "Are you alright? You look tired."
+ },
+ {
+  "id": "alright-adv",
+  "headword": "alright",
+  "pos": "adverb",
+  "example": "The test went alright, and I think I passed."
+ },
+ {
+  "id": "although-conj",
+  "headword": "although",
+  "pos": "conjunction",
+  "example": "Although it was raining, we went to the park."
+ },
+ {
+  "id": "ambition-n",
+  "headword": "ambition",
+  "pos": "noun",
+  "example": "Her ambition is to become a doctor."
+ },
+ {
+  "id": "among-prep",
+  "headword": "among",
+  "pos": "preposition",
+  "example": "I found my keys among the old newspapers."
+ },
+ {
+  "id": "amused-adj",
+  "headword": "amused",
+  "pos": "adjective",
+  "example": "The children were amused by the funny clown."
+ },
+ {
+  "id": "amusement-n",
+  "headword": "amusement",
+  "pos": "noun",
+  "example": "He watched the playing kittens with amusement."
+ },
+ {
+  "id": "ancestor-n",
+  "headword": "ancestor",
+  "pos": "noun",
+  "example": "My ancestors came from a small village in Italy."
+ },
+ {
+  "id": "ancient-adj",
+  "headword": "ancient",
+  "pos": "adjective",
+  "example": "We visited the ancient temples in Greece."
+ },
+ {
+  "id": "angel-n",
+  "headword": "angel",
+  "pos": "noun",
+  "example": "The little girl dressed as an angel with white wings."
+ },
+ {
+  "id": "angrily-adv",
+  "headword": "angrily",
+  "pos": "adverb",
+  "example": "\"Go away!\" he shouted angrily."
+ },
+ {
+  "id": "ankle-n",
+  "headword": "ankle",
+  "pos": "noun",
+  "example": "She fell down the stairs and hurt her ankle."
+ },
+ {
+  "id": "anniversary-n",
+  "headword": "anniversary",
+  "pos": "noun",
+  "example": "My parents celebrated their wedding anniversary in a restaurant."
+ },
+ {
+  "id": "annoy-v",
+  "headword": "annoy",
+  "pos": "verb",
+  "example": "My little brother always annoys me when I study."
+ },
+ {
+  "id": "annoying-adj",
+  "headword": "annoying",
+  "pos": "adjective",
+  "example": "The noise from the street is really annoying."
+ },
+ {
+  "id": "another-pron",
+  "headword": "another",
+  "pos": "pronoun",
+  "example": "This biscuit is delicious. Can I have another?"
+ },
+ {
+  "id": "anxious-adj",
+  "headword": "anxious",
+  "pos": "adjective",
+  "example": "She was anxious before her driving test."
+ },
+ {
+  "id": "anymore-adv",
+  "headword": "anymore",
+  "pos": "adverb",
+  "example": "He doesn't live here anymore."
+ },
+ {
+  "id": "anyway-adv",
+  "headword": "anyway",
+  "pos": "adverb",
+  "example": "It was raining, but we went out anyway."
+ },
+ {
+  "id": "anywhere-adv",
+  "headword": "anywhere",
+  "pos": "adverb",
+  "example": "I can't find my glasses anywhere."
+ },
+ {
+  "id": "apart-adv",
+  "headword": "apart",
+  "pos": "adverb",
+  "example": "My parents live apart now, in different towns."
+ },
+ {
+  "id": "apartment-n",
+  "headword": "apartment",
+  "pos": "noun",
+  "example": "They live in a small apartment in the city centre."
+ },
+ {
+  "id": "apologize-v",
+  "headword": "apologize",
+  "pos": "verb",
+  "example": "He apologized for being late to the meeting."
+ },
+ {
+  "id": "apparently-adv",
+  "headword": "apparently",
+  "pos": "adverb",
+  "example": "Apparently, the shop is closed on Mondays."
+ },
+ {
+  "id": "appear-v",
+  "headword": "appear",
+  "pos": "verb",
+  "example": "A man suddenly appeared at the door."
+ },
+ {
+  "id": "appearance-n",
+  "headword": "appearance",
+  "pos": "noun",
+  "example": "He changed his appearance with a new haircut."
+ },
+ {
+  "id": "apply-v",
+  "headword": "apply",
+  "pos": "verb",
+  "example": "She applied for a job at the hospital."
+ },
+ {
+  "id": "appointment-n",
+  "headword": "appointment",
+  "pos": "noun",
+  "example": "I have an appointment with my manager at ten."
+ },
+ {
+  "id": "appreciate-v",
+  "headword": "appreciate",
+  "pos": "verb",
+  "example": "I really appreciate your help with my homework."
+ },
+ {
+  "id": "appropriate-adj",
+  "headword": "appropriate",
+  "pos": "adjective",
+  "example": "Jeans are not appropriate for a job interview."
+ },
+ {
+  "id": "architecture-n",
+  "headword": "architecture",
+  "pos": "noun",
+  "example": "I love the old architecture of this city."
+ },
+ {
+  "id": "area-n",
+  "headword": "area",
+  "pos": "noun",
+  "example": "We live in a quiet area near the park."
+ },
+ {
+  "id": "argue-v",
+  "headword": "argue",
+  "pos": "verb",
+  "example": "My brother and I often argue about the TV."
+ },
+ {
+  "id": "argument-n",
+  "headword": "argument",
+  "pos": "noun",
+  "example": "They had an argument about money last night."
+ },
+ {
+  "id": "armchair-n",
+  "headword": "armchair",
+  "pos": "noun",
+  "example": "Grandpa is sleeping in his armchair by the window."
+ },
+ {
+  "id": "armed-adj",
+  "headword": "armed",
+  "pos": "adjective",
+  "example": "The police caught the armed man near the bank."
+ },
+ {
+  "id": "around-adv",
+  "headword": "around",
+  "pos": "adverb",
+  "example": "The children were running around in the garden."
+ },
+ {
+  "id": "artificial-adj",
+  "headword": "artificial",
+  "pos": "adjective",
+  "example": "These flowers aren't real; they're artificial."
+ },
+ {
+  "id": "as-conj",
+  "headword": "as",
+  "pos": "conjunction",
+  "example": "As it was late, we took a taxi home."
+ },
+ {
+  "id": "asleep-adj",
+  "headword": "asleep",
+  "pos": "adjective",
+  "example": "The baby is asleep, so please be quiet."
+ },
+ {
+  "id": "assistant-adj",
+  "headword": "assistant",
+  "pos": "adjective",
+  "example": "She works as an assistant manager in a hotel."
+ },
+ {
+  "id": "association-n",
+  "headword": "association",
+  "pos": "noun",
+  "example": "He joined a sports association in his town."
+ },
+ {
+  "id": "astronaut-n",
+  "headword": "astronaut",
+  "pos": "noun",
+  "example": "The astronaut spent six months in space."
+ },
+ {
+  "id": "athlete-n",
+  "headword": "athlete",
+  "pos": "noun",
+  "example": "The athlete won a gold medal at the Olympics."
+ },
+ {
+  "id": "atom-n",
+  "headword": "atom",
+  "pos": "noun",
+  "example": "Everything around us is made of very small atoms."
+ },
+ {
+  "id": "attack-n",
+  "headword": "attack",
+  "pos": "noun",
+  "example": "The soldiers began their attack on the city at night."
+ },
+ {
+  "id": "attack-v",
+  "headword": "attack",
+  "pos": "verb",
+  "example": "The big dog attacked a small cat in the street."
+ },
+ {
+  "id": "attempt-n",
+  "headword": "attempt",
+  "pos": "noun",
+  "example": "He passed his driving test at the first attempt."
+ },
+ {
+  "id": "attention-n",
+  "headword": "attention",
+  "pos": "noun",
+  "example": "Please pay attention to the teacher."
+ },
+ {
+  "id": "attitude-n",
+  "headword": "attitude",
+  "pos": "noun",
+  "example": "She has a positive attitude to life."
+ },
+ {
+  "id": "attractive-adj",
+  "headword": "attractive",
+  "pos": "adjective",
+  "example": "He's a very attractive man with beautiful eyes."
+ },
+ {
+  "id": "audience-n",
+  "headword": "audience",
+  "pos": "noun",
+  "example": "The audience clapped at the end of the concert."
+ }
+]

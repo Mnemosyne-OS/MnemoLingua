@@ -1,0 +1,390 @@
+{
+ "decoys": {
+  "caught": 6,
+  "total": 6,
+  "missed": []
+ },
+ "toReview": 0,
+ "cards": {
+  "fix-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "flash-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "flat-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "flavor-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "float-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "flock-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "flood-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "flow-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "flow-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "flu-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "fluent-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "fluently-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "flunk-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "flute-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "fold-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "fold-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "folk-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "fond-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "fondness-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "fool-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "foolish-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "foot-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "forbidden-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "forecast-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "forehead-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "forgive-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "form-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "formal-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "formally-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "format-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "format-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "former-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "formula-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "forth-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "fortnight-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "fortunate-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "foundation-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "fountain-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "fragment-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "freely-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "freezer-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "freezing-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "frequency-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "frequent-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "frequently-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "freshman-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "friendliness-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "fright-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "frost-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "frozen-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "frustrated-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "frustration-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "fry-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "frying-pan-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "fuel-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "full-stop-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "full-time-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "full-time-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "function-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "fund-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "fund-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "funeral-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "fur-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "furnish-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "further-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "furthermore-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "furthest-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "fuss-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "future-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "gain-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "gain-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "gall-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "gallon-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "gap-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "gardening-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "garment-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "gay-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "gee-interj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "gene-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "general-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "general-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "generally-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "generate-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "generous-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "genetic-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "genetically-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "genetics-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "gentleman-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "geographical-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "geography-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "geology-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "gesture-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "giant-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "gifted-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "giggle-n": {
+   "check": "two-pass",
+   "problems": []
+  }
+ }
+}

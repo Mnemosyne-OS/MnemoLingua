@@ -1,0 +1,1237 @@
+[
+ {
+  "id": "person-n",
+  "example": "She is a very kind person.",
+  "gloss": {
+   "fr": "la personne",
+   "es": "la persona"
+  },
+  "exampleGloss": {
+   "fr": "C'est une personne très gentille.",
+   "es": "Es una persona muy amable."
+  },
+  "topic": "people"
+ },
+ {
+  "id": "personal-adj",
+  "example": "This is my personal phone, not my work phone.",
+  "gloss": {
+   "fr": "personnel",
+   "es": "personal"
+  },
+  "exampleGloss": {
+   "fr": "C'est mon téléphone personnel, pas mon téléphone de travail.",
+   "es": "Este es mi móvil personal, no el del trabajo."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "pet-n",
+  "example": "We have a pet cat at home.",
+  "gloss": {
+   "fr": "l'animal de compagnie",
+   "es": "la mascota"
+  },
+  "exampleGloss": {
+   "fr": "Nous avons un chat comme animal de compagnie.",
+   "es": "Tenemos un gato como mascota en casa."
+  },
+  "topic": "animals"
+ },
+ {
+  "id": "phone-n",
+  "example": "My phone is in my bag.",
+  "gloss": {
+   "fr": "le téléphone",
+   "es": "el teléfono"
+  },
+  "exampleGloss": {
+   "fr": "Mon téléphone est dans mon sac.",
+   "es": "Mi móvil está en mi bolso."
+  },
+  "topic": "home"
+ },
+ {
+  "id": "phone-v",
+  "example": "I phone my mother every Sunday.",
+  "gloss": {
+   "fr": "téléphoner",
+   "es": "llamar por teléfono"
+  },
+  "exampleGloss": {
+   "fr": "Je téléphone à ma mère tous les dimanches.",
+   "es": "Llamo a mi madre todos los domingos."
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "piano-n",
+  "example": "My sister plays the piano.",
+  "gloss": {
+   "fr": "le piano",
+   "es": "el piano"
+  },
+  "exampleGloss": {
+   "fr": "Ma sœur joue du piano.",
+   "es": "Mi hermana toca el piano."
+  },
+  "topic": "leisure"
+ },
+ {
+  "id": "pick-v",
+  "example": "Pick a card, please.",
+  "gloss": {
+   "fr": "choisir",
+   "es": "elegir"
+  },
+  "exampleGloss": {
+   "fr": "Choisis une carte, s'il te plaît.",
+   "es": "Elige una carta, por favor."
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "picnic-n",
+  "example": "We eat our picnic in the park.",
+  "gloss": {
+   "fr": "le pique-nique",
+   "es": "el picnic"
+  },
+  "exampleGloss": {
+   "fr": "Nous mangeons notre pique-nique au parc.",
+   "es": "Comemos nuestro picnic en el parque."
+  },
+  "topic": "leisure"
+ },
+ {
+  "id": "picture-n",
+  "example": "Look at this picture of my dog.",
+  "gloss": {
+   "fr": "la photo",
+   "es": "la foto"
+  },
+  "exampleGloss": {
+   "fr": "Regarde cette photo de mon chien.",
+   "es": "Mira esta foto de mi perro."
+  },
+  "topic": "leisure"
+ },
+ {
+  "id": "piece-n",
+  "example": "Can I have a piece of cake?",
+  "gloss": {
+   "fr": "le morceau",
+   "es": "el trozo"
+  },
+  "exampleGloss": {
+   "fr": "Je peux avoir un morceau de gâteau ?",
+   "es": "¿Me das un trozo de tarta?"
+  },
+  "topic": "food"
+ },
+ {
+  "id": "pig-n",
+  "example": "The pig is pink and fat.",
+  "gloss": {
+   "fr": "le cochon",
+   "es": "el cerdo"
+  },
+  "exampleGloss": {
+   "fr": "Le cochon est rose et gros.",
+   "es": "El cerdo es rosa y gordo."
+  },
+  "topic": "animals"
+ },
+ {
+  "id": "pink-adj",
+  "example": "She has a pink dress.",
+  "gloss": {
+   "fr": "rose",
+   "es": "rosa"
+  },
+  "exampleGloss": {
+   "fr": "Elle a une robe rose.",
+   "es": "Tiene un vestido rosa."
+  },
+  "topic": "nature"
+ },
+ {
+  "id": "pizza-n",
+  "example": "We eat pizza on Friday night.",
+  "gloss": {
+   "fr": "la pizza",
+   "es": "la pizza"
+  },
+  "exampleGloss": {
+   "fr": "Nous mangeons une pizza le vendredi soir.",
+   "es": "Cenamos pizza los viernes por la noche."
+  },
+  "topic": "food"
+ },
+ {
+  "id": "place-n",
+  "example": "This café is my favourite place in town.",
+  "gloss": {
+   "fr": "l'endroit",
+   "es": "el sitio"
+  },
+  "exampleGloss": {
+   "fr": "Ce café est mon endroit préféré en ville.",
+   "es": "Esta cafetería es mi sitio favorito de la ciudad."
+  },
+  "topic": "town"
+ },
+ {
+  "id": "plan-n",
+  "example": "What is your plan for the holidays?",
+  "gloss": {
+   "fr": "le projet",
+   "es": "el plan"
+  },
+  "exampleGloss": {
+   "fr": "Quels sont tes projets pour les vacances ?",
+   "es": "¿Qué planes tienes para las vacaciones?"
+  },
+  "topic": "leisure"
+ },
+ {
+  "id": "play-n",
+  "example": "We watch a play at the theatre.",
+  "gloss": {
+   "fr": "la pièce de théâtre",
+   "es": "la obra de teatro"
+  },
+  "exampleGloss": {
+   "fr": "Nous regardons une pièce au théâtre.",
+   "es": "Vemos una obra en el teatro."
+  },
+  "topic": "leisure"
+ },
+ {
+  "id": "play-v",
+  "example": "The children play in the garden.",
+  "gloss": {
+   "fr": "jouer",
+   "es": "jugar"
+  },
+  "exampleGloss": {
+   "fr": "Les enfants jouent dans le jardin.",
+   "es": "Los niños juegan en el jardín."
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "player-n",
+  "example": "He is a good football player.",
+  "gloss": {
+   "fr": "le joueur",
+   "es": "el jugador"
+  },
+  "exampleGloss": {
+   "fr": "C'est un bon joueur de football.",
+   "es": "Es un buen jugador de fútbol."
+  },
+  "topic": "leisure"
+ },
+ {
+  "id": "please-adv",
+  "example": "A coffee, please.",
+  "gloss": {
+   "fr": "s'il vous plaît",
+   "es": "por favor"
+  },
+  "exampleGloss": {
+   "fr": "Un café, s'il vous plaît.",
+   "es": "Un café, por favor."
+  },
+  "topic": "smallwords"
+ },
+ {
+  "id": "pleasure-n",
+  "example": "It is a pleasure to meet you.",
+  "gloss": {
+   "fr": "le plaisir",
+   "es": "el placer"
+  },
+  "exampleGloss": {
+   "fr": "C'est un plaisir de vous rencontrer.",
+   "es": "Es un placer conocerte."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "pocket-n",
+  "example": "My keys are in my pocket.",
+  "gloss": {
+   "fr": "la poche",
+   "es": "el bolsillo"
+  },
+  "exampleGloss": {
+   "fr": "Mes clés sont dans ma poche.",
+   "es": "Mis llaves están en el bolsillo."
+  },
+  "topic": "clothes"
+ },
+ {
+  "id": "poem-n",
+  "example": "The children read a short poem in class.",
+  "gloss": {
+   "fr": "le poème",
+   "es": "el poema"
+  },
+  "exampleGloss": {
+   "fr": "Les enfants lisent un petit poème en classe.",
+   "es": "Los niños leen un poema corto en clase."
+  },
+  "topic": "school"
+ },
+ {
+  "id": "point-n",
+  "example": "Our team has ten points.",
+  "gloss": {
+   "fr": "le point",
+   "es": "el punto"
+  },
+  "exampleGloss": {
+   "fr": "Notre équipe a dix points.",
+   "es": "Nuestro equipo tiene diez puntos."
+  },
+  "topic": "leisure"
+ },
+ {
+  "id": "pollution-n",
+  "example": "The cars make a lot of pollution.",
+  "gloss": {
+   "fr": "la pollution",
+   "es": "la contaminación"
+  },
+  "exampleGloss": {
+   "fr": "Les voitures font beaucoup de pollution.",
+   "es": "Los coches contaminan mucho."
+  },
+  "topic": "nature"
+ },
+ {
+  "id": "pool-n",
+  "example": "We swim in the pool every Saturday.",
+  "gloss": {
+   "fr": "la piscine",
+   "es": "la piscina"
+  },
+  "exampleGloss": {
+   "fr": "Nous nageons à la piscine tous les samedis.",
+   "es": "Nadamos en la piscina todos los sábados."
+  },
+  "topic": "town"
+ },
+ {
+  "id": "pop-n",
+  "example": "I listen to pop on the radio.",
+  "gloss": {
+   "fr": "la pop",
+   "es": "el pop"
+  },
+  "exampleGloss": {
+   "fr": "J'écoute de la pop à la radio.",
+   "es": "Escucho pop en la radio."
+  },
+  "topic": "leisure"
+ },
+ {
+  "id": "post-n",
+  "example": "The post comes at nine in the morning.",
+  "gloss": {
+   "fr": "le courrier",
+   "es": "el correo"
+  },
+  "exampleGloss": {
+   "fr": "Le courrier arrive à neuf heures du matin.",
+   "es": "El correo llega a las nueve de la mañana."
+  },
+  "topic": "town"
+ },
+ {
+  "id": "poster-n",
+  "example": "There is a big poster on my bedroom wall.",
+  "gloss": {
+   "fr": "le poster",
+   "es": "el póster"
+  },
+  "exampleGloss": {
+   "fr": "Il y a un grand poster au mur de ma chambre.",
+   "es": "Hay un póster grande en la pared de mi habitación."
+  },
+  "topic": "home"
+ },
+ {
+  "id": "potato-n",
+  "example": "I eat potatoes with my fish.",
+  "gloss": {
+   "fr": "la pomme de terre",
+   "es": "la patata"
+  },
+  "exampleGloss": {
+   "fr": "Je mange des pommes de terre avec mon poisson.",
+   "es": "Como patatas con el pescado."
+  },
+  "topic": "food"
+ },
+ {
+  "id": "practice-n",
+  "example": "I have football practice on Monday.",
+  "gloss": {
+   "fr": "l'entraînement",
+   "es": "el entrenamiento"
+  },
+  "exampleGloss": {
+   "fr": "J'ai entraînement de foot le lundi.",
+   "es": "Tengo entrenamiento de fútbol el lunes."
+  },
+  "topic": "leisure"
+ },
+ {
+  "id": "practice-v",
+  "example": "I practise the guitar every day.",
+  "gloss": {
+   "fr": "s'entraîner, pratiquer",
+   "es": "practicar"
+  },
+  "exampleGloss": {
+   "fr": "Je m'entraîne à la guitare tous les jours.",
+   "es": "Practico la guitarra todos los días."
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "pray-v",
+  "example": "They pray in the church on Sunday.",
+  "gloss": {
+   "fr": "prier",
+   "es": "rezar"
+  },
+  "exampleGloss": {
+   "fr": "Ils prient à l'église le dimanche.",
+   "es": "Rezan en la iglesia los domingos."
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "present-n",
+  "example": "This present is for your birthday.",
+  "gloss": {
+   "fr": "le cadeau",
+   "es": "el regalo"
+  },
+  "exampleGloss": {
+   "fr": "Ce cadeau est pour ton anniversaire.",
+   "es": "Este regalo es para tu cumpleaños."
+  },
+  "topic": "shopping"
+ },
+ {
+  "id": "pretty-adj",
+  "example": "Your garden is very pretty.",
+  "gloss": {
+   "fr": "joli",
+   "es": "bonito"
+  },
+  "exampleGloss": {
+   "fr": "Ton jardin est très joli.",
+   "es": "Tu jardín es muy bonito."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "price-n",
+  "example": "The price of this shirt is ten euros.",
+  "gloss": {
+   "fr": "le prix",
+   "es": "el precio"
+  },
+  "exampleGloss": {
+   "fr": "Le prix de cette chemise est de dix euros.",
+   "es": "El precio de esta camisa es de diez euros."
+  },
+  "topic": "shopping"
+ },
+ {
+  "id": "princess-n",
+  "example": "The princess lives in a big castle.",
+  "gloss": {
+   "fr": "la princesse",
+   "es": "la princesa"
+  },
+  "exampleGloss": {
+   "fr": "La princesse habite dans un grand château.",
+   "es": "La princesa vive en un castillo grande."
+  },
+  "topic": "people"
+ },
+ {
+  "id": "problem-n",
+  "example": "My car does not start. I have a problem.",
+  "gloss": {
+   "fr": "le problème",
+   "es": "el problema"
+  },
+  "exampleGloss": {
+   "fr": "Ma voiture ne démarre pas. J'ai un problème.",
+   "es": "Mi coche no arranca. Tengo un problema."
+  },
+  "topic": "people"
+ },
+ {
+  "id": "program-n",
+  "example": "I watch a funny program on TV.",
+  "gloss": {
+   "fr": "l'émission",
+   "es": "el programa"
+  },
+  "exampleGloss": {
+   "fr": "Je regarde une émission drôle à la télé.",
+   "es": "Veo un programa divertido en la tele."
+  },
+  "topic": "leisure"
+ },
+ {
+  "id": "purple-n",
+  "example": "Purple is my favourite colour.",
+  "gloss": {
+   "fr": "le violet",
+   "es": "el morado"
+  },
+  "exampleGloss": {
+   "fr": "Le violet est ma couleur préférée.",
+   "es": "El morado es mi color favorito."
+  },
+  "topic": "nature"
+ },
+ {
+  "id": "push-v",
+  "example": "Push the door to open it.",
+  "gloss": {
+   "fr": "pousser",
+   "es": "empujar"
+  },
+  "exampleGloss": {
+   "fr": "Pousse la porte pour l'ouvrir.",
+   "es": "Empuja la puerta para abrirla."
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "put-v",
+  "example": "I put the milk in the fridge.",
+  "gloss": {
+   "fr": "mettre",
+   "es": "poner"
+  },
+  "exampleGloss": {
+   "fr": "Je mets le lait au frigo.",
+   "es": "Pongo la leche en la nevera."
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "quarter-n",
+  "example": "It is a quarter past three.",
+  "gloss": {
+   "fr": "le quart",
+   "es": "el cuarto"
+  },
+  "exampleGloss": {
+   "fr": "Il est trois heures et quart.",
+   "es": "Son las tres y cuarto."
+  },
+  "topic": "time"
+ },
+ {
+  "id": "question-n",
+  "example": "Can I ask you a question?",
+  "gloss": {
+   "fr": "la question",
+   "es": "la pregunta"
+  },
+  "exampleGloss": {
+   "fr": "Je peux te poser une question ?",
+   "es": "¿Puedo hacerte una pregunta?"
+  },
+  "topic": "school"
+ },
+ {
+  "id": "quickly-adv",
+  "example": "He runs very quickly.",
+  "gloss": {
+   "fr": "vite, rapidement",
+   "es": "rápidamente"
+  },
+  "exampleGloss": {
+   "fr": "Il court très vite.",
+   "es": "Corre muy rápido."
+  },
+  "topic": "smallwords"
+ },
+ {
+  "id": "quiet-adj",
+  "example": "The library is very quiet.",
+  "gloss": {
+   "fr": "calme, silencieux",
+   "es": "tranquilo, silencioso"
+  },
+  "exampleGloss": {
+   "fr": "La bibliothèque est très calme.",
+   "es": "La biblioteca es muy tranquila."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "radio-n",
+  "example": "I listen to the radio in the car.",
+  "gloss": {
+   "fr": "la radio",
+   "es": "la radio"
+  },
+  "exampleGloss": {
+   "fr": "J'écoute la radio dans la voiture.",
+   "es": "Escucho la radio en el coche."
+  },
+  "topic": "leisure"
+ },
+ {
+  "id": "rain-n",
+  "example": "Take an umbrella. There is a lot of rain.",
+  "gloss": {
+   "fr": "la pluie",
+   "es": "la lluvia"
+  },
+  "exampleGloss": {
+   "fr": "Prends un parapluie. Il y a beaucoup de pluie.",
+   "es": "Coge un paraguas. Hay mucha lluvia."
+  },
+  "topic": "nature"
+ },
+ {
+  "id": "rain-v",
+  "example": "It rains a lot in November.",
+  "gloss": {
+   "fr": "pleuvoir",
+   "es": "llover"
+  },
+  "exampleGloss": {
+   "fr": "Il pleut beaucoup en novembre.",
+   "es": "Llueve mucho en noviembre."
+  },
+  "topic": "nature"
+ },
+ {
+  "id": "rainy-adj",
+  "example": "It is a rainy day, so we stay home.",
+  "gloss": {
+   "fr": "pluvieux",
+   "es": "lluvioso"
+  },
+  "exampleGloss": {
+   "fr": "C'est un jour de pluie, alors nous restons à la maison.",
+   "es": "Es un día lluvioso, así que nos quedamos en casa."
+  },
+  "topic": "nature"
+ },
+ {
+  "id": "rat-n",
+  "example": "A big rat lives under the house.",
+  "gloss": {
+   "fr": "le rat",
+   "es": "la rata"
+  },
+  "exampleGloss": {
+   "fr": "Un gros rat vit sous la maison.",
+   "es": "Una rata grande vive debajo de la casa."
+  },
+  "topic": "animals"
+ },
+ {
+  "id": "re-be",
+  "example": "We're happy today.",
+  "gloss": {
+   "fr": "sommes, êtes, sont",
+   "es": "estamos, estáis, están"
+  },
+  "exampleGloss": {
+   "fr": "Nous sommes contents aujourd'hui.",
+   "es": "Hoy estamos contentos."
+  },
+  "topic": "smallwords"
+ },
+ {
+  "id": "read-v",
+  "example": "I read a book in bed.",
+  "gloss": {
+   "fr": "lire",
+   "es": "leer"
+  },
+  "exampleGloss": {
+   "fr": "Je lis un livre au lit.",
+   "es": "Leo un libro en la cama."
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "reader-n",
+  "example": "My son is a good reader. He loves books.",
+  "gloss": {
+   "fr": "le lecteur",
+   "es": "el lector"
+  },
+  "exampleGloss": {
+   "fr": "Mon fils est un bon lecteur. Il adore les livres.",
+   "es": "Mi hijo es un buen lector. Le encantan los libros."
+  },
+  "topic": "leisure"
+ },
+ {
+  "id": "reading-n",
+  "example": "Reading is my favourite hobby.",
+  "gloss": {
+   "fr": "la lecture",
+   "es": "la lectura"
+  },
+  "exampleGloss": {
+   "fr": "La lecture est mon loisir préféré.",
+   "es": "La lectura es mi afición favorita."
+  },
+  "topic": "leisure"
+ },
+ {
+  "id": "ready-adj",
+  "example": "Dinner is ready. Come and eat!",
+  "gloss": {
+   "fr": "prêt",
+   "es": "listo"
+  },
+  "exampleGloss": {
+   "fr": "Le dîner est prêt. Venez manger !",
+   "es": "La cena está lista. ¡Venid a comer!"
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "real-adv",
+  "example": "This soup is real good.",
+  "gloss": {
+   "fr": "vraiment",
+   "es": "muy, de verdad"
+  },
+  "exampleGloss": {
+   "fr": "Cette soupe est vraiment bonne.",
+   "es": "Esta sopa está muy buena."
+  },
+  "topic": "smallwords"
+ },
+ {
+  "id": "really-adv",
+  "example": "I really like this song.",
+  "gloss": {
+   "fr": "vraiment",
+   "es": "de verdad, mucho"
+  },
+  "exampleGloss": {
+   "fr": "J'aime vraiment cette chanson.",
+   "es": "Me gusta mucho esta canción."
+  },
+  "topic": "smallwords"
+ },
+ {
+  "id": "reason-n",
+  "example": "Tell me the reason. Why are you sad?",
+  "gloss": {
+   "fr": "la raison",
+   "es": "la razón"
+  },
+  "exampleGloss": {
+   "fr": "Dis-moi la raison. Pourquoi es-tu triste ?",
+   "es": "Dime la razón. ¿Por qué estás triste?"
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "red-adj",
+  "example": "I have a red car.",
+  "gloss": {
+   "fr": "rouge",
+   "es": "rojo"
+  },
+  "exampleGloss": {
+   "fr": "J'ai une voiture rouge.",
+   "es": "Tengo un coche rojo."
+  },
+  "topic": "nature"
+ },
+ {
+  "id": "remember-v",
+  "example": "I remember your name.",
+  "gloss": {
+   "fr": "se souvenir de",
+   "es": "recordar"
+  },
+  "exampleGloss": {
+   "fr": "Je me souviens de ton nom.",
+   "es": "Recuerdo tu nombre."
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "repeat-v",
+  "example": "Can you repeat that, please?",
+  "gloss": {
+   "fr": "répéter",
+   "es": "repetir"
+  },
+  "exampleGloss": {
+   "fr": "Vous pouvez répéter, s'il vous plaît ?",
+   "es": "¿Puede repetirlo, por favor?"
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "reporter-n",
+  "example": "The reporter writes for a newspaper.",
+  "gloss": {
+   "fr": "le journaliste",
+   "es": "el periodista"
+  },
+  "exampleGloss": {
+   "fr": "Le journaliste écrit pour un journal.",
+   "es": "El periodista escribe para un periódico."
+  },
+  "topic": "people"
+ },
+ {
+  "id": "restaurant-n",
+  "example": "We have dinner at a restaurant.",
+  "gloss": {
+   "fr": "le restaurant",
+   "es": "el restaurante"
+  },
+  "exampleGloss": {
+   "fr": "Nous dînons au restaurant.",
+   "es": "Cenamos en un restaurante."
+  },
+  "topic": "town"
+ },
+ {
+  "id": "result-n",
+  "example": "My test result is very good.",
+  "gloss": {
+   "fr": "le résultat",
+   "es": "el resultado"
+  },
+  "exampleGloss": {
+   "fr": "Mon résultat au test est très bon.",
+   "es": "El resultado de mi examen es muy bueno."
+  },
+  "topic": "school"
+ },
+ {
+  "id": "review-n",
+  "example": "We have a review lesson before the test.",
+  "gloss": {
+   "fr": "la révision",
+   "es": "el repaso"
+  },
+  "exampleGloss": {
+   "fr": "Nous avons un cours de révision avant le contrôle.",
+   "es": "Tenemos una clase de repaso antes del examen."
+  },
+  "topic": "school"
+ },
+ {
+  "id": "rice-n",
+  "example": "I eat rice with chicken.",
+  "gloss": {
+   "fr": "le riz",
+   "es": "el arroz"
+  },
+  "exampleGloss": {
+   "fr": "Je mange du riz avec du poulet.",
+   "es": "Como arroz con pollo."
+  },
+  "topic": "food"
+ },
+ {
+  "id": "rich-adj",
+  "example": "He is rich. He has three big houses.",
+  "gloss": {
+   "fr": "riche",
+   "es": "rico"
+  },
+  "exampleGloss": {
+   "fr": "Il est riche. Il a trois grandes maisons.",
+   "es": "Es rico. Tiene tres casas grandes."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "ride-n",
+  "example": "We go for a bike ride on Sunday.",
+  "gloss": {
+   "fr": "la balade",
+   "es": "el paseo"
+  },
+  "exampleGloss": {
+   "fr": "Nous faisons une balade à vélo le dimanche.",
+   "es": "Damos un paseo en bici los domingos."
+  },
+  "topic": "transport"
+ },
+ {
+  "id": "ride-v",
+  "example": "I ride my bike to school.",
+  "gloss": {
+   "fr": "aller à (vélo, cheval)",
+   "es": "montar en"
+  },
+  "exampleGloss": {
+   "fr": "Je vais à l'école à vélo.",
+   "es": "Voy al colegio en bici."
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "right-adj",
+  "example": "Yes, that is the right answer.",
+  "gloss": {
+   "fr": "bon, correct",
+   "es": "correcto"
+  },
+  "exampleGloss": {
+   "fr": "Oui, c'est la bonne réponse.",
+   "es": "Sí, esa es la respuesta correcta."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "right-adv",
+  "example": "Turn right at the bank.",
+  "gloss": {
+   "fr": "à droite",
+   "es": "a la derecha"
+  },
+  "exampleGloss": {
+   "fr": "Tournez à droite à la banque.",
+   "es": "Gire a la derecha en el banco."
+  },
+  "topic": "smallwords"
+ },
+ {
+  "id": "ring-v",
+  "example": "The phone rings. Can you answer it?",
+  "gloss": {
+   "fr": "sonner",
+   "es": "sonar"
+  },
+  "exampleGloss": {
+   "fr": "Le téléphone sonne. Tu peux répondre ?",
+   "es": "Suena el teléfono. ¿Puedes contestar?"
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "river-n",
+  "example": "The river goes through the town.",
+  "gloss": {
+   "fr": "la rivière",
+   "es": "el río"
+  },
+  "exampleGloss": {
+   "fr": "La rivière traverse la ville.",
+   "es": "El río pasa por la ciudad."
+  },
+  "topic": "nature"
+ },
+ {
+  "id": "role-n",
+  "example": "She has the main role in the film.",
+  "gloss": {
+   "fr": "le rôle",
+   "es": "el papel"
+  },
+  "exampleGloss": {
+   "fr": "Elle a le rôle principal dans le film.",
+   "es": "Tiene el papel principal en la película."
+  },
+  "topic": "leisure"
+ },
+ {
+  "id": "room-n",
+  "example": "Our house has five rooms.",
+  "gloss": {
+   "fr": "la pièce",
+   "es": "la habitación"
+  },
+  "exampleGloss": {
+   "fr": "Notre maison a cinq pièces.",
+   "es": "Nuestra casa tiene cinco habitaciones."
+  },
+  "topic": "home"
+ },
+ {
+  "id": "row-n",
+  "example": "We sit in the front row.",
+  "gloss": {
+   "fr": "le rang",
+   "es": "la fila"
+  },
+  "exampleGloss": {
+   "fr": "Nous sommes assis au premier rang.",
+   "es": "Nos sentamos en la primera fila."
+  },
+  "topic": "transport"
+ },
+ {
+  "id": "rude-adj",
+  "example": "Do not shout at people. It is rude.",
+  "gloss": {
+   "fr": "impoli",
+   "es": "maleducado"
+  },
+  "exampleGloss": {
+   "fr": "Ne crie pas sur les gens. C'est impoli.",
+   "es": "No grites a la gente. Es de mala educación."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "rule-n",
+  "example": "The rule in class is no phones.",
+  "gloss": {
+   "fr": "la règle",
+   "es": "la regla"
+  },
+  "exampleGloss": {
+   "fr": "En classe, la règle, c'est pas de téléphone.",
+   "es": "La norma en clase es: nada de móviles."
+  },
+  "topic": "school"
+ },
+ {
+  "id": "ruler-n",
+  "example": "I draw a line with my ruler.",
+  "gloss": {
+   "fr": "la règle",
+   "es": "la regla"
+  },
+  "exampleGloss": {
+   "fr": "Je trace un trait avec ma règle.",
+   "es": "Dibujo una línea con la regla."
+  },
+  "topic": "school"
+ },
+ {
+  "id": "run-n",
+  "example": "I go for a run every morning.",
+  "gloss": {
+   "fr": "le footing",
+   "es": "la carrera"
+  },
+  "exampleGloss": {
+   "fr": "Je fais un footing tous les matins.",
+   "es": "Salgo a correr todas las mañanas."
+  },
+  "topic": "leisure"
+ },
+ {
+  "id": "run-v",
+  "example": "The dog runs in the park.",
+  "gloss": {
+   "fr": "courir",
+   "es": "correr"
+  },
+  "exampleGloss": {
+   "fr": "Le chien court dans le parc.",
+   "es": "El perro corre por el parque."
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "s-be",
+  "example": "She's my sister.",
+  "gloss": {
+   "fr": "est",
+   "es": "es, está"
+  },
+  "exampleGloss": {
+   "fr": "C'est ma sœur.",
+   "es": "Es mi hermana."
+  },
+  "topic": "smallwords"
+ },
+ {
+  "id": "sad-adj",
+  "example": "He is sad because his cat is ill.",
+  "gloss": {
+   "fr": "triste",
+   "es": "triste"
+  },
+  "exampleGloss": {
+   "fr": "Il est triste parce que son chat est malade.",
+   "es": "Está triste porque su gato está enfermo."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "sailor-n",
+  "example": "The sailor works on a big ship.",
+  "gloss": {
+   "fr": "le marin",
+   "es": "el marinero"
+  },
+  "exampleGloss": {
+   "fr": "Le marin travaille sur un grand bateau.",
+   "es": "El marinero trabaja en un barco grande."
+  },
+  "topic": "people"
+ },
+ {
+  "id": "salad-n",
+  "example": "I have a green salad for lunch.",
+  "gloss": {
+   "fr": "la salade",
+   "es": "la ensalada"
+  },
+  "exampleGloss": {
+   "fr": "Je mange une salade verte à midi.",
+   "es": "Como una ensalada verde a mediodía."
+  },
+  "topic": "food"
+ },
+ {
+  "id": "same-adj",
+  "example": "We are in the same class.",
+  "gloss": {
+   "fr": "même",
+   "es": "mismo"
+  },
+  "exampleGloss": {
+   "fr": "Nous sommes dans la même classe.",
+   "es": "Estamos en la misma clase."
+  },
+  "topic": "smallwords"
+ },
+ {
+  "id": "same-adv",
+  "example": "The two sisters look the same.",
+  "gloss": {
+   "fr": "pareil",
+   "es": "igual"
+  },
+  "exampleGloss": {
+   "fr": "Les deux sœurs se ressemblent trait pour trait.",
+   "es": "Las dos hermanas son iguales."
+  },
+  "topic": "smallwords"
+ },
+ {
+  "id": "same-pron",
+  "example": "I want the same as my friend.",
+  "gloss": {
+   "fr": "la même chose",
+   "es": "lo mismo"
+  },
+  "exampleGloss": {
+   "fr": "Je veux la même chose que mon ami.",
+   "es": "Quiero lo mismo que mi amigo."
+  },
+  "topic": "smallwords"
+ },
+ {
+  "id": "sandwich-n",
+  "example": "I eat a cheese sandwich for lunch.",
+  "gloss": {
+   "fr": "le sandwich",
+   "es": "el sándwich"
+  },
+  "exampleGloss": {
+   "fr": "Je mange un sandwich au fromage à midi.",
+   "es": "Como un sándwich de queso a mediodía."
+  },
+  "topic": "food"
+ },
+ {
+  "id": "saturday-n",
+  "example": "I do not work on Saturday.",
+  "gloss": {
+   "fr": "le samedi",
+   "es": "el sábado"
+  },
+  "exampleGloss": {
+   "fr": "Je ne travaille pas le samedi.",
+   "es": "No trabajo los sábados."
+  },
+  "topic": "time"
+ },
+ {
+  "id": "save-v",
+  "example": "I save money for a new bike.",
+  "gloss": {
+   "fr": "économiser",
+   "es": "ahorrar"
+  },
+  "exampleGloss": {
+   "fr": "J'économise pour un nouveau vélo.",
+   "es": "Ahorro dinero para una bici nueva."
+  },
+  "topic": "shopping"
+ },
+ {
+  "id": "saw-n",
+  "example": "My dad cuts the wood with a saw.",
+  "gloss": {
+   "fr": "la scie",
+   "es": "la sierra"
+  },
+  "exampleGloss": {
+   "fr": "Mon père coupe le bois avec une scie.",
+   "es": "Mi padre corta la madera con una sierra."
+  },
+  "topic": "home"
+ },
+ {
+  "id": "say-v",
+  "example": "Say hello to your mother.",
+  "gloss": {
+   "fr": "dire",
+   "es": "decir"
+  },
+  "exampleGloss": {
+   "fr": "Dis bonjour à ta mère.",
+   "es": "Saluda a tu madre de mi parte."
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "school-n",
+  "example": "The children go to school at eight.",
+  "gloss": {
+   "fr": "l'école",
+   "es": "el colegio"
+  },
+  "exampleGloss": {
+   "fr": "Les enfants vont à l'école à huit heures.",
+   "es": "Los niños van al colegio a las ocho."
+  },
+  "topic": "school"
+ },
+ {
+  "id": "science-n",
+  "example": "In science class, we learn about plants.",
+  "gloss": {
+   "fr": "les sciences",
+   "es": "las ciencias"
+  },
+  "exampleGloss": {
+   "fr": "En cours de sciences, on étudie les plantes.",
+   "es": "En clase de ciencias aprendemos sobre las plantas."
+  },
+  "topic": "school"
+ }
+]

@@ -1,0 +1,552 @@
+[
+ {
+  "id": "evenly-adv",
+  "headword": "evenly",
+  "pos": "adverb"
+ },
+ {
+  "id": "eventually-adv",
+  "headword": "eventually",
+  "pos": "adverb"
+ },
+ {
+  "id": "evident-adj",
+  "headword": "evident",
+  "pos": "adjective"
+ },
+ {
+  "id": "exact-adj",
+  "headword": "exact",
+  "pos": "adjective"
+ },
+ {
+  "id": "examination-n",
+  "headword": "examination",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Education"
+  ]
+ },
+ {
+  "id": "examine-v",
+  "headword": "examine",
+  "pos": "verb"
+ },
+ {
+  "id": "examiner-n",
+  "headword": "examiner",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "excellence-n",
+  "headword": "excellence",
+  "pos": "noun"
+ },
+ {
+  "id": "excess-n",
+  "headword": "excess",
+  "pos": "noun"
+ },
+ {
+  "id": "exchange-v",
+  "headword": "exchange",
+  "pos": "verb"
+ },
+ {
+  "id": "exchange-rate-n",
+  "headword": "exchange rate",
+  "pos": "noun"
+ },
+ {
+  "id": "excitedly-adv",
+  "headword": "excitedly",
+  "pos": "adverb"
+ },
+ {
+  "id": "excitement-n",
+  "headword": "excitement",
+  "pos": "noun",
+  "sourceTopics": [
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "exclusive-adj",
+  "headword": "exclusive",
+  "pos": "adjective"
+ },
+ {
+  "id": "excuse-v",
+  "headword": "excuse",
+  "pos": "verb"
+ },
+ {
+  "id": "exhausted-adj",
+  "headword": "exhausted",
+  "pos": "adjective"
+ },
+ {
+  "id": "existence-n",
+  "headword": "existence",
+  "pos": "noun"
+ },
+ {
+  "id": "exit-n",
+  "headword": "exit",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "exit-v",
+  "headword": "exit",
+  "pos": "verb"
+ },
+ {
+  "id": "expand-v",
+  "headword": "expand",
+  "pos": "verb"
+ },
+ {
+  "id": "expense-n",
+  "headword": "expense",
+  "pos": "noun",
+  "sourceTopics": [
+   "Shopping",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "experience-v",
+  "headword": "experience",
+  "pos": "verb"
+ },
+ {
+  "id": "experienced-adj",
+  "headword": "experienced",
+  "pos": "adjective"
+ },
+ {
+  "id": "experiment-n",
+  "headword": "experiment",
+  "pos": "noun"
+ },
+ {
+  "id": "exploration-n",
+  "headword": "exploration",
+  "pos": "noun"
+ },
+ {
+  "id": "explosion-n",
+  "headword": "explosion",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs"
+  ]
+ },
+ {
+  "id": "expose-v",
+  "headword": "expose",
+  "pos": "verb"
+ },
+ {
+  "id": "express-v",
+  "headword": "express",
+  "pos": "verb"
+ },
+ {
+  "id": "extend-v",
+  "headword": "extend",
+  "pos": "verb"
+ },
+ {
+  "id": "extensively-adv",
+  "headword": "extensively",
+  "pos": "adverb"
+ },
+ {
+  "id": "extent-n",
+  "headword": "extent",
+  "pos": "noun"
+ },
+ {
+  "id": "extinct-adj",
+  "headword": "extinct",
+  "pos": "adjective"
+ },
+ {
+  "id": "extinction-n",
+  "headword": "extinction",
+  "pos": "noun"
+ },
+ {
+  "id": "extra-n",
+  "headword": "extra",
+  "pos": "noun"
+ },
+ {
+  "id": "extraordinary-adj",
+  "headword": "extraordinary",
+  "pos": "adjective"
+ },
+ {
+  "id": "extreme-adj",
+  "headword": "extreme",
+  "pos": "adjective"
+ },
+ {
+  "id": "extreme-sports-n",
+  "headword": "extreme sports",
+  "pos": "noun"
+ },
+ {
+  "id": "eyesight-n",
+  "headword": "eyesight",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel and services vocab"
+  ]
+ },
+ {
+  "id": "face-to-face-adv",
+  "headword": "face to face",
+  "pos": "adverb"
+ },
+ {
+  "id": "face-to-face-adj",
+  "headword": "face-to-face",
+  "pos": "adjective"
+ },
+ {
+  "id": "facility-n",
+  "headword": "facility",
+  "pos": "noun"
+ },
+ {
+  "id": "fade-v",
+  "headword": "fade",
+  "pos": "verb"
+ },
+ {
+  "id": "failure-n",
+  "headword": "failure",
+  "pos": "noun"
+ },
+ {
+  "id": "faint-adj",
+  "headword": "faint",
+  "pos": "adjective"
+ },
+ {
+  "id": "fair-n",
+  "headword": "fair",
+  "pos": "noun"
+ },
+ {
+  "id": "faithful-adj",
+  "headword": "faithful",
+  "pos": "adjective"
+ },
+ {
+  "id": "fake-adj",
+  "headword": "fake",
+  "pos": "adjective"
+ },
+ {
+  "id": "fall-n",
+  "headword": "fall",
+  "pos": "noun"
+ },
+ {
+  "id": "fallen-adj",
+  "headword": "fallen",
+  "pos": "adjective"
+ },
+ {
+  "id": "fancy-n",
+  "headword": "fancy",
+  "pos": "noun"
+ },
+ {
+  "id": "fancy-v",
+  "headword": "fancy",
+  "pos": "verb"
+ },
+ {
+  "id": "fantasy-n",
+  "headword": "fantasy",
+  "pos": "noun",
+  "sourceTopics": [
+   "Books and literature",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "faraway-adj",
+  "headword": "faraway",
+  "pos": "adjective"
+ },
+ {
+  "id": "farewell-n",
+  "headword": "farewell",
+  "pos": "noun"
+ },
+ {
+  "id": "farming-n",
+  "headword": "farming",
+  "pos": "noun"
+ },
+ {
+  "id": "farmland-n",
+  "headword": "farmland",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping"
+  ]
+ },
+ {
+  "id": "farther-adv",
+  "headword": "farther",
+  "pos": "adverb"
+ },
+ {
+  "id": "farthest-adv",
+  "headword": "farthest",
+  "pos": "adverb"
+ },
+ {
+  "id": "fascinate-v",
+  "headword": "fascinate",
+  "pos": "verb"
+ },
+ {
+  "id": "fashionable-adj",
+  "headword": "fashionable",
+  "pos": "adjective"
+ },
+ {
+  "id": "fasten-v",
+  "headword": "fasten",
+  "pos": "verb"
+ },
+ {
+  "id": "favorable-adj",
+  "headword": "favorable",
+  "pos": "adjective",
+  "variants": [
+   "favourable"
+  ]
+ },
+ {
+  "id": "fax-n",
+  "headword": "fax",
+  "pos": "noun"
+ },
+ {
+  "id": "fax-v",
+  "headword": "fax",
+  "pos": "verb"
+ },
+ {
+  "id": "feast-n",
+  "headword": "feast",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "feed-v",
+  "headword": "feed",
+  "pos": "verb"
+ },
+ {
+  "id": "fellow-n",
+  "headword": "fellow",
+  "pos": "noun"
+ },
+ {
+  "id": "ferry-n",
+  "headword": "ferry",
+  "pos": "noun",
+  "sourceTopics": [
+   "Ways of travelling",
+   "Travel"
+  ]
+ },
+ {
+  "id": "festive-adj",
+  "headword": "festive",
+  "pos": "adjective"
+ },
+ {
+  "id": "fetch-v",
+  "headword": "fetch",
+  "pos": "verb"
+ },
+ {
+  "id": "feverishly-adv",
+  "headword": "feverishly",
+  "pos": "adverb"
+ },
+ {
+  "id": "few-pron",
+  "headword": "few",
+  "pos": "pronoun"
+ },
+ {
+  "id": "fifth-n",
+  "headword": "fifth",
+  "pos": "noun"
+ },
+ {
+  "id": "fight-v",
+  "headword": "fight",
+  "pos": "verb"
+ },
+ {
+  "id": "filling-n",
+  "headword": "filling",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "film-v",
+  "headword": "film",
+  "pos": "verb"
+ },
+ {
+  "id": "film-maker-n",
+  "headword": "film-maker",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "filter-n",
+  "headword": "filter",
+  "pos": "noun"
+ },
+ {
+  "id": "finance-v",
+  "headword": "finance",
+  "pos": "verb"
+ },
+ {
+  "id": "financial-adj",
+  "headword": "financial",
+  "pos": "adjective"
+ },
+ {
+  "id": "finding-n",
+  "headword": "finding",
+  "pos": "noun"
+ },
+ {
+  "id": "fine-n",
+  "headword": "fine",
+  "pos": "noun"
+ },
+ {
+  "id": "finger-n",
+  "headword": "finger",
+  "pos": "noun",
+  "sourceTopics": [
+   "Health and body care"
+  ]
+ },
+ {
+  "id": "fire-station-n",
+  "headword": "fire station",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "Services"
+  ]
+ },
+ {
+  "id": "firefighter-n",
+  "headword": "firefighter",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs"
+  ]
+ },
+ {
+  "id": "firework-n",
+  "headword": "firework",
+  "pos": "noun",
+  "sourceTopics": [
+   "Hobbies and pastimes"
+  ]
+ },
+ {
+  "id": "firm-adj",
+  "headword": "firm",
+  "pos": "adjective"
+ },
+ {
+  "id": "firm-n",
+  "headword": "firm",
+  "pos": "noun",
+  "sourceTopics": [
+   "Film",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "firmly-adv",
+  "headword": "firmly",
+  "pos": "adverb"
+ },
+ {
+  "id": "first-floor-n",
+  "headword": "first floor",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "first-lady-n",
+  "headword": "first lady",
+  "pos": "noun"
+ },
+ {
+  "id": "first-floor-adj",
+  "headword": "first-floor",
+  "pos": "adjective"
+ },
+ {
+  "id": "fish-v",
+  "headword": "fish",
+  "pos": "verb"
+ },
+ {
+  "id": "fit-v",
+  "headword": "fit",
+  "pos": "verb"
+ },
+ {
+  "id": "fitness-n",
+  "headword": "fitness",
+  "pos": "noun",
+  "sourceTopics": [
+   "Leisure activities",
+   "Free time, entertainment"
+  ]
+ }
+]

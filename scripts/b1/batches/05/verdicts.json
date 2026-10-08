@@ -1,0 +1,390 @@
+{
+ "decoys": {
+  "caught": 6,
+  "total": 6,
+  "missed": []
+ },
+ "toReview": 0,
+ "cards": {
+  "classify-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "clear-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "click-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "cliff-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "climate-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "climber-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "clinic-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "clip-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "closely-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "coal-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "coast-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "coastal-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "cod-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "coffin-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "collapse-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "collar-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "columnist-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "combination-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "combine-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "comedian-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "comedy-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "comet-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "comfort-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "comma-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "command-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "comment-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "commercial-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "commit-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "common-sense-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "commonly-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "companion-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "comparison-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "compete-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "competitive-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "competitor-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "complement-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "complete-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "completely-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "complex-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "complicate-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "complicated-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "compliment-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "compose-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "composition-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "compound-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "compromise-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "concentration-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "concept-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "concerned-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "conclude-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "conclusion-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "conduct-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "confidence-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "confirm-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "confirmation-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "conflict-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "confusing-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "confusion-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "congratulate-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "connect-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "connection-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "conquer-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "conscious-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "consequently-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "conservation-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "conservative-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "considerable-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "consideration-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "consonant-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "constantly-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "constitute-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "constitution-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "construct-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "construction-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "consume-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "consumer-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "consumption-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "contain-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "content-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "continual-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "continually-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "continuous-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "continuously-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "contrary-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "contribute-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "contribution-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "control-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "controversial-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "convey-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "convince-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "copyright-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "correction-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "cotton-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "cough-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "council-n": {
+   "check": "two-pass",
+   "problems": []
+  }
+ }
+}

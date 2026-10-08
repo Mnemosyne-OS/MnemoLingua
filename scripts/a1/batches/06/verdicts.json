@@ -1,0 +1,392 @@
+{
+ "decoys": {
+  "caught": 6,
+  "total": 6,
+  "missed": []
+ },
+ "toReview": 1,
+ "cards": {
+  "juice-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "july-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "jump-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "june-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "just-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "key-adj": {
+   "check": "to-review",
+   "problems": [
+    "english: 'key' as an adjective meaning essential ('a key part') is above A1 level; the noun sense is the A1 one"
+   ]
+  },
+  "key-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "kick-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "kick-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "kid-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "kill-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "kind-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "king-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "kiss-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "kitchen-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "knee-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "knife-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "know-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "lady-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "language-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "large-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "last-name-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "late-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "late-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "later-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "lazy-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "leader-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "leaf-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "learn-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "leave-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "left-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "leg-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "lesson-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "let-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "letter-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "life-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "light-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "light-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "like-prep": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "like-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "lily-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "line-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "lion-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "list-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "listen-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "little-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "live-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "living-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "living-room-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "lonely-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "long-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "look-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "look-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "lot-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "lot-pron": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "love-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "lovely-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "luck-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "lucky-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "lunch-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "m-be": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "machine-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "magazine-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "mail-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "make-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "many-det": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "many-pron": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "map-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "march-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "match-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "math-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "matter-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "may-modal": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "may-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "maybe-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "meal-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "mean-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "meat-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "medicine-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "meet-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "meeting-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "memory-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "merry-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "message-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "middle-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "mind-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "mine-pron": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "minute-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "miss-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "miss-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "mobile-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "mobile-phone-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "mom-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "moment-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "mommy-n": {
+   "check": "two-pass",
+   "problems": []
+  }
+ }
+}

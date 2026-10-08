@@ -1,0 +1,392 @@
+{
+ "decoys": {
+  "caught": 6,
+  "total": 6,
+  "missed": []
+ },
+ "toReview": 1,
+ "cards": {
+  "sea-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "seat-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "second-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "section-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "see-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "self-n": {
+   "check": "to-review",
+   "problems": [
+    "english: 'be your true self' is abstract and above A1 level"
+   ]
+  },
+  "sell-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "sentence-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "september-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "set-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "share-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "she-pron": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "sheep-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "shelf-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "ship-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "shirt-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "shoe-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "shop-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "shopping-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "short-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "should-modal": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "shoulder-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "show-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "shower-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "shy-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "sick-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "side-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "sight-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "sign-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "sing-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "sir-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "sister-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "sit-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "site-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "size-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "skill-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "skirt-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "sky-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "sleep-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "slow-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "smart-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "smell-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "smile-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "smith-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "smoke-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "smoking-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "snake-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "snow-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "snowy-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "so-conj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "social-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "sofa-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "solve-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "some-det": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "some-pron": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "someone-pron": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "something-pron": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "son-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "song-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "soon-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "soup-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "speak-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "special-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "speech-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "spell-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "spend-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "sport-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "spot-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "spring-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "spy-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "stand-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "star-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "start-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "start-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "station-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "stay-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "step-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "still-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "stone-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "stop-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "store-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "story-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "straight-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "strange-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "street-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "strict-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "strong-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "student-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "study-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "subject-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "successful-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "sugar-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "suggestion-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "sum-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "summer-n": {
+   "check": "two-pass",
+   "problems": []
+  }
+ }
+}

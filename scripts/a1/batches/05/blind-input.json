@@ -1,0 +1,572 @@
+[
+ {
+  "id": "grape-n",
+  "headword": "grape",
+  "pos": "noun",
+  "example": "I eat green grapes."
+ },
+ {
+  "id": "grass-n",
+  "headword": "grass",
+  "pos": "noun",
+  "example": "The grass in the park is green."
+ },
+ {
+  "id": "gray-adj",
+  "headword": "gray",
+  "pos": "adjective",
+  "example": "The sky is gray today."
+ },
+ {
+  "id": "gray-n",
+  "headword": "gray",
+  "pos": "noun",
+  "example": "Gray is my favorite color."
+ },
+ {
+  "id": "great-adj",
+  "headword": "great",
+  "pos": "adjective",
+  "example": "This film is great!"
+ },
+ {
+  "id": "green-adj",
+  "headword": "green",
+  "pos": "adjective",
+  "example": "The leaves are green."
+ },
+ {
+  "id": "greet-v",
+  "headword": "greet",
+  "pos": "verb",
+  "example": "I greet my teacher with a smile."
+ },
+ {
+  "id": "ground-n",
+  "headword": "ground",
+  "pos": "noun",
+  "example": "The ball is on the ground."
+ },
+ {
+  "id": "group-n",
+  "headword": "group",
+  "pos": "noun",
+  "example": "A group of children plays in the park."
+ },
+ {
+  "id": "grow-v",
+  "headword": "grow",
+  "pos": "verb",
+  "example": "Plants grow in the sun."
+ },
+ {
+  "id": "guest-n",
+  "headword": "guest",
+  "pos": "noun",
+  "example": "We have a guest for dinner tonight."
+ },
+ {
+  "id": "guitar-n",
+  "headword": "guitar",
+  "pos": "noun",
+  "example": "My brother plays the guitar."
+ },
+ {
+  "id": "guy-n",
+  "headword": "guy",
+  "pos": "noun",
+  "example": "He is a nice guy."
+ },
+ {
+  "id": "habit-n",
+  "headword": "habit",
+  "pos": "noun",
+  "example": "Running every morning is a good habit."
+ },
+ {
+  "id": "had-have",
+  "headword": "had",
+  "pos": "have-verb",
+  "example": "I had a dog last year."
+ },
+ {
+  "id": "hair-n",
+  "headword": "hair",
+  "pos": "noun",
+  "example": "She has long black hair."
+ },
+ {
+  "id": "haircut-n",
+  "headword": "haircut",
+  "pos": "noun",
+  "example": "I need a haircut."
+ },
+ {
+  "id": "half-n",
+  "headword": "half",
+  "pos": "noun",
+  "example": "I eat half of the pizza."
+ },
+ {
+  "id": "hall-n",
+  "headword": "hall",
+  "pos": "noun",
+  "example": "Leave your shoes in the hall."
+ },
+ {
+  "id": "hamburger-n",
+  "headword": "hamburger",
+  "pos": "noun",
+  "example": "I want a hamburger and chips."
+ },
+ {
+  "id": "handsome-adj",
+  "headword": "handsome",
+  "pos": "adjective",
+  "example": "Her husband is tall and handsome."
+ },
+ {
+  "id": "happen-v",
+  "headword": "happen",
+  "pos": "verb",
+  "example": "What happens at the end of the film?"
+ },
+ {
+  "id": "happy-adj",
+  "headword": "happy",
+  "pos": "adjective",
+  "example": "I am happy because it is my birthday."
+ },
+ {
+  "id": "hard-adj",
+  "headword": "hard",
+  "pos": "adjective",
+  "example": "This exercise is very hard."
+ },
+ {
+  "id": "hard-adv",
+  "headword": "hard",
+  "pos": "adverb",
+  "example": "My mother works very hard."
+ },
+ {
+  "id": "has-have",
+  "headword": "has",
+  "pos": "have-verb",
+  "example": "She has two brothers."
+ },
+ {
+  "id": "hat-n",
+  "headword": "hat",
+  "pos": "noun",
+  "example": "He wears a hat in the sun."
+ },
+ {
+  "id": "have-have",
+  "headword": "have",
+  "pos": "have-verb",
+  "example": "I have a cat and a dog."
+ },
+ {
+  "id": "have-to-modal",
+  "headword": "have to",
+  "pos": "modal auxiliary",
+  "example": "I have to go to school today."
+ },
+ {
+  "id": "he-pron",
+  "headword": "he",
+  "pos": "pronoun",
+  "example": "He lives in London."
+ },
+ {
+  "id": "headache-n",
+  "headword": "headache",
+  "pos": "noun",
+  "example": "I have a headache today."
+ },
+ {
+  "id": "health-n",
+  "headword": "health",
+  "pos": "noun",
+  "example": "Sport is good for your health."
+ },
+ {
+  "id": "healthy-adj",
+  "headword": "healthy",
+  "pos": "adjective",
+  "example": "Fruit is healthy food."
+ },
+ {
+  "id": "hear-v",
+  "headword": "hear",
+  "pos": "verb",
+  "example": "I hear a dog outside."
+ },
+ {
+  "id": "heart-n",
+  "headword": "heart",
+  "pos": "noun",
+  "example": "Your heart is in your chest."
+ },
+ {
+  "id": "heavy-adj",
+  "headword": "heavy",
+  "pos": "adjective",
+  "example": "This bag is very heavy."
+ },
+ {
+  "id": "hello-n",
+  "headword": "hello",
+  "pos": "noun",
+  "example": "She says hello to her teacher."
+ },
+ {
+  "id": "help-v",
+  "headword": "help",
+  "pos": "verb",
+  "example": "Can you help me, please?"
+ },
+ {
+  "id": "her-det",
+  "headword": "her",
+  "pos": "determiner",
+  "example": "Her bag is red."
+ },
+ {
+  "id": "her-pron",
+  "headword": "her",
+  "pos": "pronoun",
+  "example": "I see her every day."
+ },
+ {
+  "id": "hers-pron",
+  "headword": "hers",
+  "pos": "pronoun",
+  "example": "This book is hers."
+ },
+ {
+  "id": "hi-interj",
+  "headword": "hi",
+  "pos": "interjection",
+  "example": "Hi, my name is Tom."
+ },
+ {
+  "id": "hide-v",
+  "headword": "hide",
+  "pos": "verb",
+  "example": "The cat hides under the bed."
+ },
+ {
+  "id": "high-adj",
+  "headword": "high",
+  "pos": "adjective",
+  "example": "The mountain is very high."
+ },
+ {
+  "id": "hill-n",
+  "headword": "hill",
+  "pos": "noun",
+  "example": "Our house is on a hill."
+ },
+ {
+  "id": "him-pron",
+  "headword": "him",
+  "pos": "pronoun",
+  "example": "I talk to him every day."
+ },
+ {
+  "id": "his-det",
+  "headword": "his",
+  "pos": "determiner",
+  "example": "His car is blue."
+ },
+ {
+  "id": "his-pron",
+  "headword": "his",
+  "pos": "pronoun",
+  "example": "That bike is his."
+ },
+ {
+  "id": "history-n",
+  "headword": "history",
+  "pos": "noun",
+  "example": "History is my favorite subject at school."
+ },
+ {
+  "id": "hobby-n",
+  "headword": "hobby",
+  "pos": "noun",
+  "example": "My hobby is painting."
+ },
+ {
+  "id": "hole-n",
+  "headword": "hole",
+  "pos": "noun",
+  "example": "The dog makes a hole in the garden."
+ },
+ {
+  "id": "holiday-n",
+  "headword": "holiday",
+  "pos": "noun",
+  "example": "We go to the beach on holiday."
+ },
+ {
+  "id": "home-n",
+  "headword": "home",
+  "pos": "noun",
+  "example": "My home is near the school."
+ },
+ {
+  "id": "hometown-n",
+  "headword": "hometown",
+  "pos": "noun",
+  "example": "My hometown is small and very quiet."
+ },
+ {
+  "id": "homework-n",
+  "headword": "homework",
+  "pos": "noun",
+  "example": "I do my homework after school."
+ },
+ {
+  "id": "hope-n",
+  "headword": "hope",
+  "pos": "noun",
+  "example": "Her words give me hope."
+ },
+ {
+  "id": "horse-n",
+  "headword": "horse",
+  "pos": "noun",
+  "example": "The horse runs in the field."
+ },
+ {
+  "id": "hospital-n",
+  "headword": "hospital",
+  "pos": "noun",
+  "example": "The doctor works at the hospital."
+ },
+ {
+  "id": "hot-adj",
+  "headword": "hot",
+  "pos": "adjective",
+  "example": "The soup is very hot."
+ },
+ {
+  "id": "hotel-n",
+  "headword": "hotel",
+  "pos": "noun",
+  "example": "We sleep in a hotel by the sea."
+ },
+ {
+  "id": "house-n",
+  "headword": "house",
+  "pos": "noun",
+  "example": "We live in a big house with a garden."
+ },
+ {
+  "id": "how-adv",
+  "headword": "how",
+  "pos": "adverb",
+  "example": "How are you today?"
+ },
+ {
+  "id": "hungry-adj",
+  "headword": "hungry",
+  "pos": "adjective",
+  "example": "I am hungry. Let's eat!"
+ },
+ {
+  "id": "hurry-n",
+  "headword": "hurry",
+  "pos": "noun",
+  "example": "I am in a hurry today."
+ },
+ {
+  "id": "hurt-v",
+  "headword": "hurt",
+  "pos": "verb",
+  "example": "My leg hurts."
+ },
+ {
+  "id": "husband-n",
+  "headword": "husband",
+  "pos": "noun",
+  "example": "Her husband is a doctor."
+ },
+ {
+  "id": "i-pron",
+  "headword": "I",
+  "pos": "pronoun",
+  "example": "I am a student."
+ },
+ {
+  "id": "ice-n",
+  "headword": "ice",
+  "pos": "noun",
+  "example": "I want ice in my drink."
+ },
+ {
+  "id": "ice-cream-n",
+  "headword": "ice cream",
+  "pos": "noun",
+  "example": "Children love chocolate ice cream."
+ },
+ {
+  "id": "idea-n",
+  "headword": "idea",
+  "pos": "noun",
+  "example": "That is a good idea!"
+ },
+ {
+  "id": "if-conj",
+  "headword": "if",
+  "pos": "conjunction",
+  "example": "If it rains, I stay at home."
+ },
+ {
+  "id": "imagine-v",
+  "headword": "imagine",
+  "pos": "verb",
+  "example": "Close your eyes and imagine the sea."
+ },
+ {
+  "id": "important-adj",
+  "headword": "important",
+  "pos": "adjective",
+  "example": "Water is very important for life."
+ },
+ {
+  "id": "in-prep",
+  "headword": "in",
+  "pos": "preposition",
+  "example": "The milk is in the fridge."
+ },
+ {
+  "id": "information-n",
+  "headword": "information",
+  "pos": "noun",
+  "example": "The website has information about the museum."
+ },
+ {
+  "id": "inside-prep",
+  "headword": "inside",
+  "pos": "preposition",
+  "example": "The cat sleeps inside the box."
+ },
+ {
+  "id": "interested-adj",
+  "headword": "interested",
+  "pos": "adjective",
+  "example": "I am interested in music."
+ },
+ {
+  "id": "interesting-adj",
+  "headword": "interesting",
+  "pos": "adjective",
+  "example": "This book is very interesting."
+ },
+ {
+  "id": "internet-n",
+  "headword": "Internet",
+  "pos": "noun",
+  "example": "I read the news on the Internet."
+ },
+ {
+  "id": "interview-n",
+  "headword": "interview",
+  "pos": "noun",
+  "example": "I have a job interview tomorrow."
+ },
+ {
+  "id": "into-prep",
+  "headword": "into",
+  "pos": "preposition",
+  "example": "She goes into the shop."
+ },
+ {
+  "id": "introduce-v",
+  "headword": "introduce",
+  "pos": "verb",
+  "example": "I introduce my sister to my friends."
+ },
+ {
+  "id": "is-be",
+  "headword": "is",
+  "pos": "be-verb",
+  "example": "The sky is blue."
+ },
+ {
+  "id": "island-n",
+  "headword": "island",
+  "pos": "noun",
+  "example": "Mallorca is a beautiful island."
+ },
+ {
+  "id": "it-pron",
+  "headword": "it",
+  "pos": "pronoun",
+  "example": "Where is my phone? It is on the table."
+ },
+ {
+  "id": "item-n",
+  "headword": "item",
+  "pos": "noun",
+  "example": "There are ten items on the list."
+ },
+ {
+  "id": "its-det",
+  "headword": "its",
+  "pos": "determiner",
+  "example": "The dog eats its food."
+ },
+ {
+  "id": "its-pron",
+  "headword": "its",
+  "pos": "pronoun",
+  "example": "The dog has a bed of its own."
+ },
+ {
+  "id": "jacket-n",
+  "headword": "jacket",
+  "pos": "noun",
+  "example": "Put on your jacket. It is cold."
+ },
+ {
+  "id": "january-n",
+  "headword": "January",
+  "pos": "noun",
+  "example": "January is the first month of the year."
+ },
+ {
+  "id": "jet-n",
+  "headword": "jet",
+  "pos": "noun",
+  "example": "The jet flies very fast."
+ },
+ {
+  "id": "jewelry-n",
+  "headword": "jewelry",
+  "pos": "noun",
+  "example": "She wears a lot of gold jewelry."
+ },
+ {
+  "id": "job-n",
+  "headword": "job",
+  "pos": "noun",
+  "example": "I like my new job."
+ },
+ {
+  "id": "join-v",
+  "headword": "join",
+  "pos": "verb",
+  "example": "Come and join our team!"
+ },
+ {
+  "id": "judge-v",
+  "headword": "judge",
+  "pos": "verb",
+  "example": "Please do not judge people by their clothes."
+ }
+]

@@ -1,0 +1,571 @@
+[
+ {
+  "id": "fix-v",
+  "headword": "fix",
+  "pos": "verb"
+ },
+ {
+  "id": "flash-adj",
+  "headword": "flash",
+  "pos": "adjective"
+ },
+ {
+  "id": "flat-adj",
+  "headword": "flat",
+  "pos": "adjective"
+ },
+ {
+  "id": "flavor-n",
+  "headword": "flavor",
+  "pos": "noun",
+  "variants": [
+   "flavour"
+  ],
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "float-v",
+  "headword": "float",
+  "pos": "verb"
+ },
+ {
+  "id": "flock-n",
+  "headword": "flock",
+  "pos": "noun",
+  "sourceTopics": [
+   "Collocation"
+  ]
+ },
+ {
+  "id": "flood-v",
+  "headword": "flood",
+  "pos": "verb"
+ },
+ {
+  "id": "flow-n",
+  "headword": "flow",
+  "pos": "noun"
+ },
+ {
+  "id": "flow-v",
+  "headword": "flow",
+  "pos": "verb"
+ },
+ {
+  "id": "flu-n",
+  "headword": "flu",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel and services vocab",
+   "Health and body care"
+  ]
+ },
+ {
+  "id": "fluent-adj",
+  "headword": "fluent",
+  "pos": "adjective"
+ },
+ {
+  "id": "fluently-adv",
+  "headword": "fluently",
+  "pos": "adverb"
+ },
+ {
+  "id": "flunk-v",
+  "headword": "flunk",
+  "pos": "verb",
+  "sourceTopics": [
+   "Education"
+  ]
+ },
+ {
+  "id": "flute-n",
+  "headword": "flute",
+  "pos": "noun"
+ },
+ {
+  "id": "fold-n",
+  "headword": "fold",
+  "pos": "noun"
+ },
+ {
+  "id": "fold-v",
+  "headword": "fold",
+  "pos": "verb"
+ },
+ {
+  "id": "folk-n",
+  "headword": "folk",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "fond-adj",
+  "headword": "fond",
+  "pos": "adjective"
+ },
+ {
+  "id": "fondness-n",
+  "headword": "fondness",
+  "pos": "noun"
+ },
+ {
+  "id": "fool-v",
+  "headword": "fool",
+  "pos": "verb"
+ },
+ {
+  "id": "foolish-adj",
+  "headword": "foolish",
+  "pos": "adjective"
+ },
+ {
+  "id": "foot-n",
+  "headword": "foot",
+  "pos": "noun",
+  "sourceTopics": [
+   "Health and body care"
+  ]
+ },
+ {
+  "id": "forbidden-adj",
+  "headword": "forbidden",
+  "pos": "adjective"
+ },
+ {
+  "id": "forecast-n",
+  "headword": "forecast",
+  "pos": "noun"
+ },
+ {
+  "id": "forehead-n",
+  "headword": "forehead",
+  "pos": "noun"
+ },
+ {
+  "id": "forgive-v",
+  "headword": "forgive",
+  "pos": "verb"
+ },
+ {
+  "id": "form-v",
+  "headword": "form",
+  "pos": "verb"
+ },
+ {
+  "id": "formal-adj",
+  "headword": "formal",
+  "pos": "adjective"
+ },
+ {
+  "id": "formally-adv",
+  "headword": "formally",
+  "pos": "adverb"
+ },
+ {
+  "id": "format-n",
+  "headword": "format",
+  "pos": "noun"
+ },
+ {
+  "id": "format-v",
+  "headword": "format",
+  "pos": "verb"
+ },
+ {
+  "id": "former-adj",
+  "headword": "former",
+  "pos": "adjective"
+ },
+ {
+  "id": "formula-n",
+  "headword": "formula",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education"
+  ]
+ },
+ {
+  "id": "forth-adv",
+  "headword": "forth",
+  "pos": "adverb"
+ },
+ {
+  "id": "fortnight-n",
+  "headword": "fortnight",
+  "pos": "noun"
+ },
+ {
+  "id": "fortunate-adj",
+  "headword": "fortunate",
+  "pos": "adjective"
+ },
+ {
+  "id": "foundation-n",
+  "headword": "foundation",
+  "pos": "noun"
+ },
+ {
+  "id": "fountain-n",
+  "headword": "fountain",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "Places"
+  ]
+ },
+ {
+  "id": "fragment-n",
+  "headword": "fragment",
+  "pos": "noun"
+ },
+ {
+  "id": "freely-adv",
+  "headword": "freely",
+  "pos": "adverb"
+ },
+ {
+  "id": "freezer-n",
+  "headword": "freezer",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "freezing-adj",
+  "headword": "freezing",
+  "pos": "adjective"
+ },
+ {
+  "id": "frequency-n",
+  "headword": "frequency",
+  "pos": "noun"
+ },
+ {
+  "id": "frequent-adj",
+  "headword": "frequent",
+  "pos": "adjective"
+ },
+ {
+  "id": "frequently-adv",
+  "headword": "frequently",
+  "pos": "adverb"
+ },
+ {
+  "id": "freshman-n",
+  "headword": "freshman",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "friendliness-n",
+  "headword": "friendliness",
+  "pos": "noun",
+  "sourceTopics": [
+   "Personal information",
+   "Relations with other people"
+  ]
+ },
+ {
+  "id": "fright-n",
+  "headword": "fright",
+  "pos": "noun"
+ },
+ {
+  "id": "frost-n",
+  "headword": "frost",
+  "pos": "noun",
+  "sourceTopics": [
+   "Weather"
+  ]
+ },
+ {
+  "id": "frozen-adj",
+  "headword": "frozen",
+  "pos": "adjective"
+ },
+ {
+  "id": "frustrated-adj",
+  "headword": "frustrated",
+  "pos": "adjective"
+ },
+ {
+  "id": "frustration-n",
+  "headword": "frustration",
+  "pos": "noun"
+ },
+ {
+  "id": "fry-v",
+  "headword": "fry",
+  "pos": "verb"
+ },
+ {
+  "id": "frying-pan-n",
+  "headword": "frying pan",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "fuel-n",
+  "headword": "fuel",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs"
+  ]
+ },
+ {
+  "id": "full-stop-n",
+  "headword": "full stop",
+  "pos": "noun"
+ },
+ {
+  "id": "full-time-adj",
+  "headword": "full-time",
+  "pos": "adjective"
+ },
+ {
+  "id": "full-time-adv",
+  "headword": "full-time",
+  "pos": "adverb"
+ },
+ {
+  "id": "function-n",
+  "headword": "function",
+  "pos": "noun"
+ },
+ {
+  "id": "fund-n",
+  "headword": "fund",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs"
+  ]
+ },
+ {
+  "id": "fund-v",
+  "headword": "fund",
+  "pos": "verb"
+ },
+ {
+  "id": "funeral-n",
+  "headword": "funeral",
+  "pos": "noun",
+  "sourceTopics": [
+   "Daily life"
+  ]
+ },
+ {
+  "id": "fur-n",
+  "headword": "fur",
+  "pos": "noun",
+  "sourceTopics": [
+   "Clothes",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "furnish-v",
+  "headword": "furnish",
+  "pos": "verb"
+ },
+ {
+  "id": "further-adv",
+  "headword": "further",
+  "pos": "adverb"
+ },
+ {
+  "id": "furthermore-adv",
+  "headword": "furthermore",
+  "pos": "adverb"
+ },
+ {
+  "id": "furthest-adv",
+  "headword": "furthest",
+  "pos": "adverb"
+ },
+ {
+  "id": "fuss-n",
+  "headword": "fuss",
+  "pos": "noun"
+ },
+ {
+  "id": "future-adj",
+  "headword": "future",
+  "pos": "adjective"
+ },
+ {
+  "id": "gain-n",
+  "headword": "gain",
+  "pos": "noun"
+ },
+ {
+  "id": "gain-v",
+  "headword": "gain",
+  "pos": "verb"
+ },
+ {
+  "id": "gall-n",
+  "headword": "gall",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel and services vocab"
+  ]
+ },
+ {
+  "id": "gallon-n",
+  "headword": "gallon",
+  "pos": "noun"
+ },
+ {
+  "id": "gap-n",
+  "headword": "gap",
+  "pos": "noun"
+ },
+ {
+  "id": "gardening-n",
+  "headword": "gardening",
+  "pos": "noun",
+  "sourceTopics": [
+   "Hobbies and pastimes",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "garment-n",
+  "headword": "garment",
+  "pos": "noun",
+  "sourceTopics": [
+   "Clothes"
+  ]
+ },
+ {
+  "id": "gay-adj",
+  "headword": "gay",
+  "pos": "adjective"
+ },
+ {
+  "id": "gee-interj",
+  "headword": "gee",
+  "pos": "interjection"
+ },
+ {
+  "id": "gene-n",
+  "headword": "gene",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education"
+  ]
+ },
+ {
+  "id": "general-adj",
+  "headword": "general",
+  "pos": "adjective"
+ },
+ {
+  "id": "general-n",
+  "headword": "general",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs"
+  ]
+ },
+ {
+  "id": "generally-adv",
+  "headword": "generally",
+  "pos": "adverb"
+ },
+ {
+  "id": "generate-v",
+  "headword": "generate",
+  "pos": "verb"
+ },
+ {
+  "id": "generous-adj",
+  "headword": "generous",
+  "pos": "adjective"
+ },
+ {
+  "id": "genetic-adj",
+  "headword": "genetic",
+  "pos": "adjective"
+ },
+ {
+  "id": "genetically-adv",
+  "headword": "genetically",
+  "pos": "adverb"
+ },
+ {
+  "id": "genetics-n",
+  "headword": "genetics",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Education"
+  ]
+ },
+ {
+  "id": "gentleman-n",
+  "headword": "gentleman",
+  "pos": "noun",
+  "sourceTopics": [
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "geographical-adj",
+  "headword": "geographical",
+  "pos": "adjective"
+ },
+ {
+  "id": "geography-n",
+  "headword": "geography",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Education"
+  ]
+ },
+ {
+  "id": "geology-n",
+  "headword": "geology",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Education"
+  ]
+ },
+ {
+  "id": "gesture-n",
+  "headword": "gesture",
+  "pos": "noun"
+ },
+ {
+  "id": "giant-adj",
+  "headword": "giant",
+  "pos": "adjective"
+ },
+ {
+  "id": "gifted-adj",
+  "headword": "gifted",
+  "pos": "adjective"
+ },
+ {
+  "id": "giggle-n",
+  "headword": "giggle",
+  "pos": "noun"
+ }
+]

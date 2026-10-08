@@ -1,0 +1,1237 @@
+[
+ {
+  "id": "near-adv",
+  "example": "Come near so you can see the picture better.",
+  "gloss": {
+   "fr": "près",
+   "es": "cerca"
+  },
+  "exampleGloss": {
+   "fr": "Approche-toi pour mieux voir la photo.",
+   "es": "Acércate para ver mejor la foto."
+  },
+  "topic": "smallwords"
+ },
+ {
+  "id": "nearby-adj",
+  "example": "We had lunch in a nearby restaurant.",
+  "gloss": {
+   "fr": "proche",
+   "es": "cercano"
+  },
+  "exampleGloss": {
+   "fr": "Nous avons déjeuné dans un restaurant tout proche.",
+   "es": "Comimos en un restaurante cercano."
+  },
+  "topic": "town"
+ },
+ {
+  "id": "nearby-adv",
+  "example": "My parents live nearby, so I visit them often.",
+  "gloss": {
+   "fr": "tout près",
+   "es": "cerca"
+  },
+  "exampleGloss": {
+   "fr": "Mes parents habitent tout près, alors je leur rends souvent visite.",
+   "es": "Mis padres viven cerca, así que los visito a menudo."
+  },
+  "topic": "town"
+ },
+ {
+  "id": "necklace-n",
+  "example": "She wore a silver necklace with a small heart.",
+  "gloss": {
+   "fr": "le collier",
+   "es": "el collar"
+  },
+  "exampleGloss": {
+   "fr": "Elle portait un collier en argent avec un petit cœur.",
+   "es": "Llevaba un collar de plata con un pequeño corazón."
+  },
+  "topic": "clothes"
+ },
+ {
+  "id": "nectar-n",
+  "example": "Bees collect nectar from flowers to make honey.",
+  "gloss": {
+   "fr": "le nectar",
+   "es": "el néctar"
+  },
+  "exampleGloss": {
+   "fr": "Les abeilles récoltent le nectar des fleurs pour faire du miel.",
+   "es": "Las abejas recogen el néctar de las flores para hacer miel."
+  },
+  "topic": "nature"
+ },
+ {
+  "id": "needle-n",
+  "example": "I need a needle and some thread to fix this button.",
+  "gloss": {
+   "fr": "l'aiguille",
+   "es": "la aguja"
+  },
+  "exampleGloss": {
+   "fr": "J'ai besoin d'une aiguille et de fil pour recoudre ce bouton.",
+   "es": "Necesito una aguja e hilo para coser este botón."
+  },
+  "topic": "home"
+ },
+ {
+  "id": "negotiate-v",
+  "example": "The workers negotiated a better salary with their boss.",
+  "gloss": {
+   "fr": "négocier",
+   "es": "negociar"
+  },
+  "exampleGloss": {
+   "fr": "Les ouvriers ont négocié un meilleur salaire avec leur patron.",
+   "es": "Los trabajadores negociaron un sueldo mejor con su jefe."
+  },
+  "topic": "work"
+ },
+ {
+  "id": "negotiation-n",
+  "example": "After long negotiations, the two companies signed the contract.",
+  "gloss": {
+   "fr": "la négociation",
+   "es": "la negociación"
+  },
+  "exampleGloss": {
+   "fr": "Après de longues négociations, les deux entreprises ont signé le contrat.",
+   "es": "Después de largas negociaciones, las dos empresas firmaron el contrato."
+  },
+  "topic": "work"
+ },
+ {
+  "id": "neighborhood-n",
+  "example": "We live in a quiet neighborhood with a lot of parks.",
+  "gloss": {
+   "fr": "le quartier",
+   "es": "el barrio"
+  },
+  "exampleGloss": {
+   "fr": "Nous habitons dans un quartier calme avec beaucoup de parcs.",
+   "es": "Vivimos en un barrio tranquilo con muchos parques."
+  },
+  "topic": "town"
+ },
+ {
+  "id": "nephew-n",
+  "example": "My nephew is my sister's son.",
+  "gloss": {
+   "fr": "le neveu",
+   "es": "el sobrino"
+  },
+  "exampleGloss": {
+   "fr": "Mon neveu est le fils de ma sœur.",
+   "es": "Mi sobrino es el hijo de mi hermana."
+  },
+  "topic": "people"
+ },
+ {
+  "id": "nervousness-n",
+  "example": "He couldn't hide his nervousness before the job interview.",
+  "gloss": {
+   "fr": "la nervosité",
+   "es": "el nerviosismo"
+  },
+  "exampleGloss": {
+   "fr": "Il n'arrivait pas à cacher sa nervosité avant l'entretien d'embauche.",
+   "es": "No podía ocultar su nerviosismo antes de la entrevista de trabajo."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "ness-n",
+  "example": "We walked to the end of the ness to see the sea.",
+  "gloss": {
+   "fr": "le cap",
+   "es": "el cabo"
+  },
+  "exampleGloss": {
+   "fr": "Nous avons marché jusqu'au bout du cap pour voir la mer.",
+   "es": "Caminamos hasta el final del cabo para ver el mar."
+  },
+  "topic": "nature"
+ },
+ {
+  "id": "net-n",
+  "example": "The fishermen pulled the net full of fish onto the boat.",
+  "gloss": {
+   "fr": "le filet",
+   "es": "la red"
+  },
+  "exampleGloss": {
+   "fr": "Les pêcheurs ont remonté le filet plein de poissons sur le bateau.",
+   "es": "Los pescadores subieron al barco la red llena de peces."
+  },
+  "topic": "work"
+ },
+ {
+  "id": "network-n",
+  "example": "The city has a good network of buses and trams.",
+  "gloss": {
+   "fr": "le réseau",
+   "es": "la red"
+  },
+  "exampleGloss": {
+   "fr": "La ville a un bon réseau de bus et de tramways.",
+   "es": "La ciudad tiene una buena red de autobuses y tranvías."
+  },
+  "topic": "transport"
+ },
+ {
+  "id": "neutral-adj",
+  "example": "I don't want to take sides; I'll stay neutral.",
+  "gloss": {
+   "fr": "neutre",
+   "es": "neutral"
+  },
+  "exampleGloss": {
+   "fr": "Je ne veux pas prendre parti ; je vais rester neutre.",
+   "es": "No quiero tomar partido; me mantendré neutral."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "nevertheless-adv",
+  "example": "It was raining; nevertheless, we went for a walk.",
+  "gloss": {
+   "fr": "néanmoins",
+   "es": "sin embargo"
+  },
+  "exampleGloss": {
+   "fr": "Il pleuvait ; néanmoins, nous sommes allés nous promener.",
+   "es": "Llovía; sin embargo, salimos a pasear."
+  },
+  "topic": "smallwords"
+ },
+ {
+  "id": "newborn-adj",
+  "example": "The newborn baby slept all afternoon in her mother's arms.",
+  "gloss": {
+   "fr": "nouveau-né",
+   "es": "recién nacido"
+  },
+  "exampleGloss": {
+   "fr": "Le bébé nouveau-né a dormi tout l'après-midi dans les bras de sa mère.",
+   "es": "La bebé recién nacida durmió toda la tarde en brazos de su madre."
+  },
+  "topic": "people"
+ },
+ {
+  "id": "newcomer-n",
+  "example": "The teacher introduced the newcomer to the rest of the class.",
+  "gloss": {
+   "fr": "le nouveau venu",
+   "es": "el recién llegado"
+  },
+  "exampleGloss": {
+   "fr": "Le professeur a présenté le nouveau venu au reste de la classe.",
+   "es": "El profesor presentó al recién llegado al resto de la clase."
+  },
+  "topic": "people"
+ },
+ {
+  "id": "newly-adv",
+  "example": "The newly opened library is already very popular.",
+  "gloss": {
+   "fr": "nouvellement",
+   "es": "recién"
+  },
+  "exampleGloss": {
+   "fr": "La bibliothèque nouvellement ouverte a déjà beaucoup de succès.",
+   "es": "La biblioteca recién inaugurada ya tiene mucho éxito."
+  },
+  "topic": "time"
+ },
+ {
+  "id": "next-door-adv",
+  "example": "A young couple with two children lives next door.",
+  "gloss": {
+   "fr": "à côté",
+   "es": "al lado"
+  },
+  "exampleGloss": {
+   "fr": "Un jeune couple avec deux enfants habite à côté.",
+   "es": "Al lado vive una pareja joven con dos hijos."
+  },
+  "topic": "home"
+ },
+ {
+  "id": "next-door-adj",
+  "example": "Our next-door neighbour waters our plants when we're away.",
+  "gloss": {
+   "fr": "d'à côté",
+   "es": "de al lado"
+  },
+  "exampleGloss": {
+   "fr": "Notre voisin d'à côté arrose nos plantes quand nous sommes absents.",
+   "es": "Nuestro vecino de al lado nos riega las plantas cuando no estamos."
+  },
+  "topic": "home"
+ },
+ {
+  "id": "nickname-n",
+  "example": "His real name is Robert, but his nickname is Bob.",
+  "gloss": {
+   "fr": "le surnom",
+   "es": "el apodo"
+  },
+  "exampleGloss": {
+   "fr": "Son vrai prénom est Robert, mais son surnom, c'est Bob.",
+   "es": "Su nombre real es Robert, pero su apodo es Bob."
+  },
+  "topic": "people"
+ },
+ {
+  "id": "niece-n",
+  "example": "My niece is my brother's daughter.",
+  "gloss": {
+   "fr": "la nièce",
+   "es": "la sobrina"
+  },
+  "exampleGloss": {
+   "fr": "Ma nièce est la fille de mon frère.",
+   "es": "Mi sobrina es la hija de mi hermano."
+  },
+  "topic": "people"
+ },
+ {
+  "id": "nightlife-n",
+  "example": "Madrid has a great nightlife with bars open until late.",
+  "gloss": {
+   "fr": "la vie nocturne",
+   "es": "la vida nocturna"
+  },
+  "exampleGloss": {
+   "fr": "Madrid a une super vie nocturne, avec des bars ouverts tard.",
+   "es": "Madrid tiene una vida nocturna genial, con bares abiertos hasta tarde."
+  },
+  "topic": "leisure"
+ },
+ {
+  "id": "nod-n",
+  "example": "He answered my question with a small nod.",
+  "gloss": {
+   "fr": "le signe de tête",
+   "es": "el gesto con la cabeza"
+  },
+  "exampleGloss": {
+   "fr": "Il a répondu à ma question d'un petit signe de tête.",
+   "es": "Respondió a mi pregunta asintiendo levemente con la cabeza."
+  },
+  "topic": "body"
+ },
+ {
+  "id": "noisily-adv",
+  "example": "The children ran noisily down the stairs.",
+  "gloss": {
+   "fr": "bruyamment",
+   "es": "ruidosamente"
+  },
+  "exampleGloss": {
+   "fr": "Les enfants ont descendu l'escalier bruyamment en courant.",
+   "es": "Los niños bajaron las escaleras corriendo y haciendo mucho ruido."
+  },
+  "topic": "smallwords"
+ },
+ {
+  "id": "none-pron",
+  "example": "I bought three apples, but none of them were good.",
+  "gloss": {
+   "fr": "aucun",
+   "es": "ninguno"
+  },
+  "exampleGloss": {
+   "fr": "J'ai acheté trois pommes, mais aucune n'était bonne.",
+   "es": "Compré tres manzanas, pero ninguna estaba buena."
+  },
+  "topic": "smallwords"
+ },
+ {
+  "id": "nonetheless-adv",
+  "example": "The test was hard; nonetheless, most students passed.",
+  "gloss": {
+   "fr": "néanmoins",
+   "es": "no obstante"
+  },
+  "exampleGloss": {
+   "fr": "L'examen était difficile ; néanmoins, la plupart des élèves l'ont réussi.",
+   "es": "El examen era difícil; no obstante, la mayoría de los alumnos aprobó."
+  },
+  "topic": "smallwords"
+ },
+ {
+  "id": "nonsense-n",
+  "example": "Don't believe him, he's talking nonsense.",
+  "gloss": {
+   "fr": "les bêtises",
+   "es": "las tonterías"
+  },
+  "exampleGloss": {
+   "fr": "Ne le crois pas, il raconte des bêtises.",
+   "es": "No le creas, está diciendo tonterías."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "nor-conj",
+  "example": "She doesn't eat meat, nor does she drink milk.",
+  "gloss": {
+   "fr": "ni",
+   "es": "ni"
+  },
+  "exampleGloss": {
+   "fr": "Elle ne mange pas de viande, et elle ne boit pas de lait non plus.",
+   "es": "No come carne, ni tampoco bebe leche."
+  },
+  "topic": "smallwords"
+ },
+ {
+  "id": "normally-adv",
+  "example": "I normally go to work by bike.",
+  "gloss": {
+   "fr": "normalement",
+   "es": "normalmente"
+  },
+  "exampleGloss": {
+   "fr": "Normalement, je vais au travail à vélo.",
+   "es": "Normalmente voy al trabajo en bici."
+  },
+  "topic": "smallwords"
+ },
+ {
+  "id": "northeast-adj",
+  "example": "A cold northeast wind blew all day.",
+  "gloss": {
+   "fr": "du nord-est",
+   "es": "del nordeste"
+  },
+  "exampleGloss": {
+   "fr": "Un vent froid du nord-est a soufflé toute la journée.",
+   "es": "Sopló un viento frío del nordeste todo el día."
+  },
+  "topic": "nature"
+ },
+ {
+  "id": "northeast-n",
+  "example": "The storm will arrive from the northeast tonight.",
+  "gloss": {
+   "fr": "le nord-est",
+   "es": "el nordeste"
+  },
+  "exampleGloss": {
+   "fr": "La tempête arrivera par le nord-est cette nuit.",
+   "es": "La tormenta llegará esta noche por el nordeste."
+  },
+  "topic": "nature"
+ },
+ {
+  "id": "northeastern-adj",
+  "example": "They live in a small town in northeastern Spain.",
+  "gloss": {
+   "fr": "du nord-est",
+   "es": "del nordeste"
+  },
+  "exampleGloss": {
+   "fr": "Ils habitent une petite ville du nord-est de l'Espagne.",
+   "es": "Viven en un pueblo pequeño del nordeste de España."
+  },
+  "topic": "nature"
+ },
+ {
+  "id": "northern-adj",
+  "example": "It is often colder in the northern part of the country.",
+  "gloss": {
+   "fr": "du nord",
+   "es": "del norte"
+  },
+  "exampleGloss": {
+   "fr": "Il fait souvent plus froid dans le nord du pays.",
+   "es": "Suele hacer más frío en la parte norte del país."
+  },
+  "topic": "nature"
+ },
+ {
+  "id": "northwest-adj",
+  "example": "We drove along the northwest coast of France.",
+  "gloss": {
+   "fr": "nord-ouest",
+   "es": "noroeste"
+  },
+  "exampleGloss": {
+   "fr": "Nous avons longé la côte nord-ouest de la France en voiture.",
+   "es": "Recorrimos en coche la costa noroeste de Francia."
+  },
+  "topic": "nature"
+ },
+ {
+  "id": "northwest-n",
+  "example": "The city is in the northwest of the country.",
+  "gloss": {
+   "fr": "le nord-ouest",
+   "es": "el noroeste"
+  },
+  "exampleGloss": {
+   "fr": "La ville se trouve dans le nord-ouest du pays.",
+   "es": "La ciudad está en el noroeste del país."
+  },
+  "topic": "nature"
+ },
+ {
+  "id": "northwestern-adj",
+  "example": "Galicia is a region in northwestern Spain.",
+  "gloss": {
+   "fr": "du nord-ouest",
+   "es": "del noroeste"
+  },
+  "exampleGloss": {
+   "fr": "La Galice est une région du nord-ouest de l'Espagne.",
+   "es": "Galicia es una región del noroeste de España."
+  },
+  "topic": "nature"
+ },
+ {
+  "id": "notice-v",
+  "example": "Did you notice that Tom has a new haircut?",
+  "gloss": {
+   "fr": "remarquer",
+   "es": "notar"
+  },
+  "exampleGloss": {
+   "fr": "Tu as remarqué que Tom a une nouvelle coupe de cheveux ?",
+   "es": "¿Has notado que Tom tiene un corte de pelo nuevo?"
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "noticeable-adj",
+  "example": "There was a noticeable change in his health after the operation.",
+  "gloss": {
+   "fr": "visible",
+   "es": "notable"
+  },
+  "exampleGloss": {
+   "fr": "Il y a eu un changement visible de sa santé après l'opération.",
+   "es": "Hubo un cambio notable en su salud después de la operación."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "noticeboard-n",
+  "example": "The exam results are on the noticeboard outside the classroom.",
+  "gloss": {
+   "fr": "le panneau d'affichage",
+   "es": "el tablón de anuncios"
+  },
+  "exampleGloss": {
+   "fr": "Les résultats de l'examen sont sur le panneau d'affichage devant la salle.",
+   "es": "Las notas del examen están en el tablón de anuncios, fuera del aula."
+  },
+  "topic": "school"
+ },
+ {
+  "id": "notion-n",
+  "example": "I had no notion of how difficult the job would be.",
+  "gloss": {
+   "fr": "l'idée",
+   "es": "la idea"
+  },
+  "exampleGloss": {
+   "fr": "Je n'avais aucune idée de la difficulté de ce travail.",
+   "es": "No tenía ni idea de lo difícil que sería el trabajo."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "notorious-adj",
+  "example": "This road is notorious for its traffic jams.",
+  "gloss": {
+   "fr": "tristement célèbre",
+   "es": "famoso (por algo malo)"
+  },
+  "exampleGloss": {
+   "fr": "Cette route est tristement célèbre pour ses embouteillages.",
+   "es": "Esta carretera es famosa por sus atascos."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "novelist-n",
+  "example": "The novelist wrote her first book when she was twenty.",
+  "gloss": {
+   "fr": "la romancière",
+   "es": "la novelista"
+  },
+  "exampleGloss": {
+   "fr": "La romancière a écrit son premier livre à vingt ans.",
+   "es": "La novelista escribió su primer libro a los veinte años."
+  },
+  "topic": "work"
+ },
+ {
+  "id": "nowhere-adv",
+  "example": "I looked for my keys, but they were nowhere in the house.",
+  "gloss": {
+   "fr": "nulle part",
+   "es": "en ninguna parte"
+  },
+  "exampleGloss": {
+   "fr": "J'ai cherché mes clés, mais elles n'étaient nulle part dans la maison.",
+   "es": "Busqué las llaves, pero no estaban en ninguna parte de la casa."
+  },
+  "topic": "smallwords"
+ },
+ {
+  "id": "nuclear-adj",
+  "example": "France produces a lot of its electricity in nuclear power stations.",
+  "gloss": {
+   "fr": "nucléaire",
+   "es": "nuclear"
+  },
+  "exampleGloss": {
+   "fr": "La France produit une grande partie de son électricité dans des centrales nucléaires.",
+   "es": "Francia produce gran parte de su electricidad en centrales nucleares."
+  },
+  "topic": "work"
+ },
+ {
+  "id": "nucleus-n",
+  "example": "The nucleus is in the centre of the cell.",
+  "gloss": {
+   "fr": "le noyau",
+   "es": "el núcleo"
+  },
+  "exampleGloss": {
+   "fr": "Le noyau se trouve au centre de la cellule.",
+   "es": "El núcleo está en el centro de la célula."
+  },
+  "topic": "school"
+ },
+ {
+  "id": "numerous-adj",
+  "example": "I have visited Paris on numerous occasions.",
+  "gloss": {
+   "fr": "nombreux",
+   "es": "numeroso"
+  },
+  "exampleGloss": {
+   "fr": "Je suis allé à Paris à de nombreuses reprises.",
+   "es": "He visitado París en numerosas ocasiones."
+  },
+  "topic": "smallwords"
+ },
+ {
+  "id": "nurse-v",
+  "example": "She nursed her sick father at home for months.",
+  "gloss": {
+   "fr": "soigner",
+   "es": "cuidar"
+  },
+  "exampleGloss": {
+   "fr": "Elle a soigné son père malade à la maison pendant des mois.",
+   "es": "Cuidó a su padre enfermo en casa durante meses."
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "nutrient-n",
+  "example": "Plants take nutrients from the soil.",
+  "gloss": {
+   "fr": "le nutriment",
+   "es": "el nutriente"
+  },
+  "exampleGloss": {
+   "fr": "Les plantes puisent leurs nutriments dans le sol.",
+   "es": "Las plantas toman los nutrientes del suelo."
+  },
+  "topic": "food"
+ },
+ {
+  "id": "nutrition-n",
+  "example": "Good nutrition is important for growing children.",
+  "gloss": {
+   "fr": "l'alimentation",
+   "es": "la nutrición"
+  },
+  "exampleGloss": {
+   "fr": "Une bonne alimentation est importante pour les enfants qui grandissent.",
+   "es": "Una buena nutrición es importante para los niños en edad de crecimiento."
+  },
+  "topic": "food"
+ },
+ {
+  "id": "nutritious-adj",
+  "example": "Soup with vegetables is a cheap and nutritious meal.",
+  "gloss": {
+   "fr": "nutritif",
+   "es": "nutritivo"
+  },
+  "exampleGloss": {
+   "fr": "Une soupe de légumes, c'est un repas bon marché et nutritif.",
+   "es": "Una sopa de verduras es una comida barata y nutritiva."
+  },
+  "topic": "food"
+ },
+ {
+  "id": "object-n",
+  "example": "There was a strange object on the table, like a small metal box.",
+  "gloss": {
+   "fr": "l'objet",
+   "es": "el objeto"
+  },
+  "exampleGloss": {
+   "fr": "Il y avait un objet étrange sur la table, comme une petite boîte en métal.",
+   "es": "Había un objeto extraño en la mesa, como una cajita de metal."
+  },
+  "topic": "home"
+ },
+ {
+  "id": "objection-n",
+  "example": "Does anyone have an objection to the new plan?",
+  "gloss": {
+   "fr": "l'objection",
+   "es": "la objeción"
+  },
+  "exampleGloss": {
+   "fr": "Quelqu'un a-t-il une objection au nouveau projet ?",
+   "es": "¿Alguien tiene alguna objeción al nuevo plan?"
+  },
+  "topic": "work"
+ },
+ {
+  "id": "objective-n",
+  "example": "Our main objective this year is to find more customers.",
+  "gloss": {
+   "fr": "l'objectif",
+   "es": "el objetivo"
+  },
+  "exampleGloss": {
+   "fr": "Notre objectif principal cette année est de trouver plus de clients.",
+   "es": "Nuestro objetivo principal este año es conseguir más clientes."
+  },
+  "topic": "work"
+ },
+ {
+  "id": "observation-n",
+  "example": "The patient stayed in hospital one night for observation.",
+  "gloss": {
+   "fr": "l'observation",
+   "es": "la observación"
+  },
+  "exampleGloss": {
+   "fr": "Le patient est resté une nuit à l'hôpital en observation.",
+   "es": "El paciente se quedó una noche en el hospital en observación."
+  },
+  "topic": "body"
+ },
+ {
+  "id": "observe-v",
+  "example": "The students observed the birds through binoculars.",
+  "gloss": {
+   "fr": "observer",
+   "es": "observar"
+  },
+  "exampleGloss": {
+   "fr": "Les élèves ont observé les oiseaux avec des jumelles.",
+   "es": "Los alumnos observaron los pájaros con prismáticos."
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "obstacle-n",
+  "example": "Not speaking the language was the biggest obstacle to finding a job.",
+  "gloss": {
+   "fr": "l'obstacle",
+   "es": "el obstáculo"
+  },
+  "exampleGloss": {
+   "fr": "Ne pas parler la langue était le plus gros obstacle pour trouver un travail.",
+   "es": "No hablar el idioma era el mayor obstáculo para encontrar trabajo."
+  },
+  "topic": "work"
+ },
+ {
+  "id": "obtain-v",
+  "example": "You must obtain a visa before you travel to that country.",
+  "gloss": {
+   "fr": "obtenir",
+   "es": "obtener"
+  },
+  "exampleGloss": {
+   "fr": "Vous devez obtenir un visa avant de partir dans ce pays.",
+   "es": "Debes obtener un visado antes de viajar a ese país."
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "obvious-adj",
+  "example": "It was obvious that she was tired, because she kept yawning.",
+  "gloss": {
+   "fr": "évident",
+   "es": "evidente"
+  },
+  "exampleGloss": {
+   "fr": "C'était évident qu'elle était fatiguée, car elle n'arrêtait pas de bâiller.",
+   "es": "Era evidente que estaba cansada, porque no paraba de bostezar."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "obviously-adv",
+  "example": "He was obviously happy with his exam results.",
+  "gloss": {
+   "fr": "visiblement",
+   "es": "evidentemente"
+  },
+  "exampleGloss": {
+   "fr": "Il était visiblement content de ses résultats d'examen.",
+   "es": "Evidentemente, estaba contento con sus notas."
+  },
+  "topic": "smallwords"
+ },
+ {
+  "id": "occasion-n",
+  "example": "We only use the best plates on special occasions.",
+  "gloss": {
+   "fr": "l'occasion",
+   "es": "la ocasión"
+  },
+  "exampleGloss": {
+   "fr": "Nous ne sortons la plus belle vaisselle que pour les grandes occasions.",
+   "es": "Solo usamos los mejores platos en ocasiones especiales."
+  },
+  "topic": "time"
+ },
+ {
+  "id": "occasion-v",
+  "example": "The new rule occasioned a lot of discussion among the staff.",
+  "gloss": {
+   "fr": "occasionner",
+   "es": "ocasionar"
+  },
+  "exampleGloss": {
+   "fr": "La nouvelle règle a occasionné beaucoup de discussions parmi le personnel.",
+   "es": "La nueva norma ocasionó mucho debate entre el personal."
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "occasional-adj",
+  "example": "I don't smoke, but I enjoy an occasional glass of wine.",
+  "gloss": {
+   "fr": "occasionnel",
+   "es": "ocasional"
+  },
+  "exampleGloss": {
+   "fr": "Je ne fume pas, mais j'aime boire un verre de vin de temps en temps.",
+   "es": "No fumo, pero me gusta tomar una copa de vino de vez en cuando."
+  },
+  "topic": "time"
+ },
+ {
+  "id": "occasionally-adv",
+  "example": "We occasionally eat out, but usually we cook at home.",
+  "gloss": {
+   "fr": "de temps en temps",
+   "es": "de vez en cuando"
+  },
+  "exampleGloss": {
+   "fr": "De temps en temps, on mange au restaurant, mais d'habitude on cuisine à la maison.",
+   "es": "De vez en cuando comemos fuera, pero normalmente cocinamos en casa."
+  },
+  "topic": "time"
+ },
+ {
+  "id": "occupy-v",
+  "example": "Our company will occupy the second floor of the new building.",
+  "gloss": {
+   "fr": "occuper",
+   "es": "ocupar"
+  },
+  "exampleGloss": {
+   "fr": "Notre entreprise occupera le deuxième étage du nouveau bâtiment.",
+   "es": "Nuestra empresa ocupará la segunda planta del nuevo edificio."
+  },
+  "topic": "work"
+ },
+ {
+  "id": "occur-v",
+  "example": "The accident occurred at about six o'clock in the evening.",
+  "gloss": {
+   "fr": "se produire",
+   "es": "ocurrir"
+  },
+  "exampleGloss": {
+   "fr": "L'accident s'est produit vers six heures du soir.",
+   "es": "El accidente ocurrió hacia las seis de la tarde."
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "ocean-n",
+  "example": "Whales live in the deep waters of the ocean.",
+  "gloss": {
+   "fr": "l'océan",
+   "es": "el océano"
+  },
+  "exampleGloss": {
+   "fr": "Les baleines vivent dans les eaux profondes de l'océan.",
+   "es": "Las ballenas viven en las aguas profundas del océano."
+  },
+  "topic": "nature"
+ },
+ {
+  "id": "off-prep",
+  "example": "The cat jumped off the table when I came in.",
+  "gloss": {
+   "fr": "de",
+   "es": "de"
+  },
+  "exampleGloss": {
+   "fr": "Le chat a sauté de la table quand je suis entré.",
+   "es": "El gato saltó de la mesa cuando entré."
+  },
+  "topic": "smallwords"
+ },
+ {
+  "id": "offensive-adj",
+  "example": "Some people found his jokes offensive and left the room.",
+  "gloss": {
+   "fr": "choquant",
+   "es": "ofensivo"
+  },
+  "exampleGloss": {
+   "fr": "Certaines personnes ont trouvé ses blagues choquantes et sont sorties de la salle.",
+   "es": "A algunas personas sus chistes les parecieron ofensivos y salieron de la sala."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "officially-adv",
+  "example": "The new bridge will officially open next Monday.",
+  "gloss": {
+   "fr": "officiellement",
+   "es": "oficialmente"
+  },
+  "exampleGloss": {
+   "fr": "Le nouveau pont ouvrira officiellement lundi prochain.",
+   "es": "El nuevo puente se inaugurará oficialmente el próximo lunes."
+  },
+  "topic": "smallwords"
+ },
+ {
+  "id": "oily-adj",
+  "example": "The fried fish was too oily for me.",
+  "gloss": {
+   "fr": "gras",
+   "es": "aceitoso"
+  },
+  "exampleGloss": {
+   "fr": "Le poisson frit était trop gras pour moi.",
+   "es": "El pescado frito estaba demasiado aceitoso para mí."
+  },
+  "topic": "food"
+ },
+ {
+  "id": "old-fashioned-adj",
+  "example": "My grandparents' kitchen looks very old-fashioned.",
+  "gloss": {
+   "fr": "démodé",
+   "es": "anticuado"
+  },
+  "exampleGloss": {
+   "fr": "La cuisine de mes grands-parents a l'air très démodée.",
+   "es": "La cocina de mis abuelos parece muy anticuada."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "oneself-pron",
+  "example": "It is important to take care of oneself.",
+  "gloss": {
+   "fr": "soi-même",
+   "es": "uno mismo"
+  },
+  "exampleGloss": {
+   "fr": "Il est important de prendre soin de soi.",
+   "es": "Es importante cuidar de uno mismo."
+  },
+  "topic": "smallwords"
+ },
+ {
+  "id": "onstage-adj",
+  "example": "The singer changed her onstage costume three times during the concert.",
+  "gloss": {
+   "fr": "de scène",
+   "es": "de escena"
+  },
+  "exampleGloss": {
+   "fr": "La chanteuse a changé trois fois de costume de scène pendant le concert.",
+   "es": "La cantante se cambió tres veces de vestuario de escena durante el concierto."
+  },
+  "topic": "leisure"
+ },
+ {
+  "id": "onto-prep",
+  "example": "The children climbed onto the roof of the shed.",
+  "gloss": {
+   "fr": "sur",
+   "es": "sobre"
+  },
+  "exampleGloss": {
+   "fr": "Les enfants sont montés sur le toit de la cabane.",
+   "es": "Los niños se subieron al tejado del cobertizo."
+  },
+  "topic": "smallwords"
+ },
+ {
+  "id": "opening-n",
+  "example": "Hundreds of people came to the opening of the new shopping centre.",
+  "gloss": {
+   "fr": "l'inauguration",
+   "es": "la inauguración"
+  },
+  "exampleGloss": {
+   "fr": "Des centaines de personnes sont venues à l'inauguration du nouveau centre commercial.",
+   "es": "Cientos de personas acudieron a la inauguración del nuevo centro comercial."
+  },
+  "topic": "town"
+ },
+ {
+  "id": "operation-n",
+  "example": "My mother needs an operation on her knee.",
+  "gloss": {
+   "fr": "l'opération",
+   "es": "la operación"
+  },
+  "exampleGloss": {
+   "fr": "Ma mère doit se faire opérer du genou.",
+   "es": "Mi madre necesita una operación de rodilla."
+  },
+  "topic": "body"
+ },
+ {
+  "id": "opposite-adv",
+  "example": "The woman who lives opposite is a doctor.",
+  "gloss": {
+   "fr": "en face",
+   "es": "enfrente"
+  },
+  "exampleGloss": {
+   "fr": "La femme qui habite en face est médecin.",
+   "es": "La mujer que vive enfrente es médica."
+  },
+  "topic": "smallwords"
+ },
+ {
+  "id": "opposite-n",
+  "example": "Hot is the opposite of cold.",
+  "gloss": {
+   "fr": "le contraire",
+   "es": "lo contrario"
+  },
+  "exampleGloss": {
+   "fr": "Chaud est le contraire de froid.",
+   "es": "Caliente es lo contrario de frío."
+  },
+  "topic": "school"
+ },
+ {
+  "id": "opposition-n",
+  "example": "There was strong opposition to the plan to close the hospital.",
+  "gloss": {
+   "fr": "l'opposition",
+   "es": "la oposición"
+  },
+  "exampleGloss": {
+   "fr": "Il y a eu une forte opposition au projet de fermer l'hôpital.",
+   "es": "Hubo una fuerte oposición al plan de cerrar el hospital."
+  },
+  "topic": "work"
+ },
+ {
+  "id": "oppress-v",
+  "example": "The king oppressed the poor and took their land.",
+  "gloss": {
+   "fr": "opprimer",
+   "es": "oprimir"
+  },
+  "exampleGloss": {
+   "fr": "Le roi opprimait les pauvres et leur prenait leurs terres.",
+   "es": "El rey oprimía a los pobres y les quitaba sus tierras."
+  },
+  "topic": "actions"
+ },
+ {
+  "id": "oppression-n",
+  "example": "The people fought for many years against oppression.",
+  "gloss": {
+   "fr": "l'oppression",
+   "es": "la opresión"
+  },
+  "exampleGloss": {
+   "fr": "Le peuple a lutté pendant de nombreuses années contre l'oppression.",
+   "es": "El pueblo luchó durante muchos años contra la opresión."
+  },
+  "topic": "people"
+ },
+ {
+  "id": "option-n",
+  "example": "You can pay in cash or by card; both options are fine.",
+  "gloss": {
+   "fr": "l'option",
+   "es": "la opción"
+  },
+  "exampleGloss": {
+   "fr": "Vous pouvez payer en espèces ou par carte ; les deux options conviennent.",
+   "es": "Puede pagar en efectivo o con tarjeta; las dos opciones valen."
+  },
+  "topic": "shopping"
+ },
+ {
+  "id": "oral-n",
+  "example": "I have my English oral tomorrow, and I'm very nervous.",
+  "gloss": {
+   "fr": "l'oral",
+   "es": "el examen oral"
+  },
+  "exampleGloss": {
+   "fr": "J'ai mon oral d'anglais demain, et je suis très stressé.",
+   "es": "Mañana tengo el examen oral de inglés y estoy muy nervioso."
+  },
+  "topic": "school"
+ },
+ {
+  "id": "orbit-n",
+  "example": "The Moon takes about a month to complete its orbit around the Earth.",
+  "gloss": {
+   "fr": "l'orbite",
+   "es": "la órbita"
+  },
+  "exampleGloss": {
+   "fr": "La Lune met environ un mois à faire son orbite autour de la Terre.",
+   "es": "La Luna tarda casi un mes en completar su órbita alrededor de la Tierra."
+  },
+  "topic": "nature"
+ },
+ {
+  "id": "orchestra-n",
+  "example": "My cousin plays the violin in the city orchestra.",
+  "gloss": {
+   "fr": "l'orchestre",
+   "es": "la orquesta"
+  },
+  "exampleGloss": {
+   "fr": "Mon cousin joue du violon dans l'orchestre de la ville.",
+   "es": "Mi primo toca el violín en la orquesta de la ciudad."
+  },
+  "topic": "leisure"
+ },
+ {
+  "id": "orderly-adj",
+  "example": "The passengers left the plane in an orderly way.",
+  "gloss": {
+   "fr": "ordonné",
+   "es": "ordenado"
+  },
+  "exampleGloss": {
+   "fr": "Les passagers sont descendus de l'avion de façon ordonnée.",
+   "es": "Los pasajeros bajaron del avión de forma ordenada."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "ordinary-adj",
+  "example": "It was just an ordinary day, nothing special happened.",
+  "gloss": {
+   "fr": "ordinaire",
+   "es": "normal"
+  },
+  "exampleGloss": {
+   "fr": "C'était une journée ordinaire, il ne s'est rien passé de spécial.",
+   "es": "Fue un día normal; no pasó nada especial."
+  },
+  "topic": "feelings"
+ },
+ {
+  "id": "organ-n",
+  "example": "The heart is the organ that pumps blood around the body.",
+  "gloss": {
+   "fr": "l'organe",
+   "es": "el órgano"
+  },
+  "exampleGloss": {
+   "fr": "Le cœur est l'organe qui fait circuler le sang dans le corps.",
+   "es": "El corazón es el órgano que bombea la sangre por el cuerpo."
+  },
+  "topic": "body"
+ },
+ {
+  "id": "organic-adj",
+  "example": "We buy organic vegetables from a local farm.",
+  "gloss": {
+   "fr": "bio",
+   "es": "ecológico"
+  },
+  "exampleGloss": {
+   "fr": "Nous achetons des légumes bio dans une ferme du coin.",
+   "es": "Compramos verduras ecológicas en una granja de la zona."
+  },
+  "topic": "food"
+ },
+ {
+  "id": "organism-n",
+  "example": "Bacteria are very small organisms that live everywhere.",
+  "gloss": {
+   "fr": "l'organisme",
+   "es": "el organismo"
+  },
+  "exampleGloss": {
+   "fr": "Les bactéries sont de tout petits organismes qui vivent partout.",
+   "es": "Las bacterias son organismos muy pequeños que viven en todas partes."
+  },
+  "topic": "nature"
+ },
+ {
+  "id": "organization-n",
+  "example": "She works for an organization that helps homeless people.",
+  "gloss": {
+   "fr": "l'organisation",
+   "es": "la organización"
+  },
+  "exampleGloss": {
+   "fr": "Elle travaille pour une organisation qui aide les sans-abri.",
+   "es": "Trabaja para una organización que ayuda a las personas sin hogar."
+  },
+  "topic": "work"
+ },
+ {
+  "id": "origin-n",
+  "example": "The origin of this tradition is still a mystery.",
+  "gloss": {
+   "fr": "l'origine",
+   "es": "el origen"
+  },
+  "exampleGloss": {
+   "fr": "L'origine de cette tradition reste un mystère.",
+   "es": "El origen de esta tradición sigue siendo un misterio."
+  },
+  "topic": "people"
+ },
+ {
+  "id": "otherwise-adv",
+  "example": "Take an umbrella, otherwise you'll get wet.",
+  "gloss": {
+   "fr": "sinon",
+   "es": "si no"
+  },
+  "exampleGloss": {
+   "fr": "Prends un parapluie, sinon tu vas être trempé.",
+   "es": "Coge un paraguas, si no te vas a mojar."
+  },
+  "topic": "smallwords"
+ }
+]

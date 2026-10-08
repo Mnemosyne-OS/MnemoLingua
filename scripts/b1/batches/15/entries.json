@@ -1,0 +1,546 @@
+[
+ {
+  "id": "measure-n",
+  "headword": "measure",
+  "pos": "noun"
+ },
+ {
+  "id": "measure-v",
+  "headword": "measure",
+  "pos": "verb"
+ },
+ {
+  "id": "measurement-n",
+  "headword": "measurement",
+  "pos": "noun"
+ },
+ {
+  "id": "mechanic-n",
+  "headword": "mechanic",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "mechanical-adj",
+  "headword": "mechanical",
+  "pos": "adjective"
+ },
+ {
+  "id": "meditate-v",
+  "headword": "meditate",
+  "pos": "verb"
+ },
+ {
+  "id": "meditation-n",
+  "headword": "meditation",
+  "pos": "noun"
+ },
+ {
+  "id": "mediterranean-n",
+  "headword": "Mediterranean",
+  "pos": "noun"
+ },
+ {
+  "id": "medium-adj",
+  "headword": "medium",
+  "pos": "adjective"
+ },
+ {
+  "id": "medium-n",
+  "headword": "medium",
+  "pos": "noun",
+  "sourceTopics": [
+   "Media",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "melt-v",
+  "headword": "melt",
+  "pos": "verb"
+ },
+ {
+  "id": "membership-n",
+  "headword": "membership",
+  "pos": "noun",
+  "sourceTopics": [
+   "Relations with other people"
+  ]
+ },
+ {
+  "id": "memorable-adj",
+  "headword": "memorable",
+  "pos": "adjective"
+ },
+ {
+  "id": "memorize-v",
+  "headword": "memorize",
+  "pos": "verb",
+  "variants": [
+   "memorise"
+  ]
+ },
+ {
+  "id": "mend-v",
+  "headword": "mend",
+  "pos": "verb"
+ },
+ {
+  "id": "mental-adj",
+  "headword": "mental",
+  "pos": "adjective"
+ },
+ {
+  "id": "mentally-adv",
+  "headword": "mentally",
+  "pos": "adverb"
+ },
+ {
+  "id": "mention-v",
+  "headword": "mention",
+  "pos": "verb"
+ },
+ {
+  "id": "merchant-n",
+  "headword": "merchant",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Education"
+  ]
+ },
+ {
+  "id": "mere-adj",
+  "headword": "mere",
+  "pos": "adjective"
+ },
+ {
+  "id": "merely-adv",
+  "headword": "merely",
+  "pos": "adverb"
+ },
+ {
+  "id": "mess-n",
+  "headword": "mess",
+  "pos": "noun"
+ },
+ {
+  "id": "message-board-n",
+  "headword": "message board",
+  "pos": "noun"
+ },
+ {
+  "id": "messy-adj",
+  "headword": "messy",
+  "pos": "adjective"
+ },
+ {
+  "id": "middle-aged-adj",
+  "headword": "middle-aged",
+  "pos": "adjective"
+ },
+ {
+  "id": "mild-adj",
+  "headword": "mild",
+  "pos": "adjective"
+ },
+ {
+  "id": "mile-n",
+  "headword": "mile",
+  "pos": "noun"
+ },
+ {
+  "id": "mineral-n",
+  "headword": "mineral",
+  "pos": "noun"
+ },
+ {
+  "id": "minimize-v",
+  "headword": "minimize",
+  "pos": "verb",
+  "variants": [
+   "minimise"
+  ]
+ },
+ {
+  "id": "minimum-adj",
+  "headword": "minimum",
+  "pos": "adjective"
+ },
+ {
+  "id": "minimum-n",
+  "headword": "minimum",
+  "pos": "noun"
+ },
+ {
+  "id": "minor-adj",
+  "headword": "minor",
+  "pos": "adjective"
+ },
+ {
+  "id": "minority-n",
+  "headword": "minority",
+  "pos": "noun"
+ },
+ {
+  "id": "minus-prep",
+  "headword": "minus",
+  "pos": "preposition"
+ },
+ {
+  "id": "miracle-n",
+  "headword": "miracle",
+  "pos": "noun"
+ },
+ {
+  "id": "mischief-n",
+  "headword": "mischief",
+  "pos": "noun"
+ },
+ {
+  "id": "miserable-adj",
+  "headword": "miserable",
+  "pos": "adjective"
+ },
+ {
+  "id": "misery-n",
+  "headword": "misery",
+  "pos": "noun"
+ },
+ {
+  "id": "mislead-v",
+  "headword": "mislead",
+  "pos": "verb"
+ },
+ {
+  "id": "mission-n",
+  "headword": "mission",
+  "pos": "noun"
+ },
+ {
+  "id": "misty-adj",
+  "headword": "misty",
+  "pos": "adjective"
+ },
+ {
+  "id": "misunderstanding-n",
+  "headword": "misunderstanding",
+  "pos": "noun",
+  "sourceTopics": [
+   "Relations with other people"
+  ]
+ },
+ {
+  "id": "mixing-bowl-n",
+  "headword": "mixing bowl",
+  "pos": "noun"
+ },
+ {
+  "id": "modal-verb-n",
+  "headword": "modal verb",
+  "pos": "noun",
+  "variants": [
+   "modal"
+  ]
+ },
+ {
+  "id": "model-adj",
+  "headword": "model",
+  "pos": "adjective"
+ },
+ {
+  "id": "model-v",
+  "headword": "model",
+  "pos": "verb"
+ },
+ {
+  "id": "modem-n",
+  "headword": "modem",
+  "pos": "noun",
+  "sourceTopics": [
+   "Media"
+  ]
+ },
+ {
+  "id": "moderate-adj",
+  "headword": "moderate",
+  "pos": "adjective"
+ },
+ {
+  "id": "modify-v",
+  "headword": "modify",
+  "pos": "verb"
+ },
+ {
+  "id": "moisture-n",
+  "headword": "moisture",
+  "pos": "noun"
+ },
+ {
+  "id": "molecule-n",
+  "headword": "molecule",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education"
+  ]
+ },
+ {
+  "id": "monitor-n",
+  "headword": "monitor",
+  "pos": "noun"
+ },
+ {
+  "id": "monitor-v",
+  "headword": "monitor",
+  "pos": "verb"
+ },
+ {
+  "id": "monk-n",
+  "headword": "monk",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "monster-n",
+  "headword": "monster",
+  "pos": "noun"
+ },
+ {
+  "id": "monthly-adj",
+  "headword": "monthly",
+  "pos": "adjective"
+ },
+ {
+  "id": "monthly-adv",
+  "headword": "monthly",
+  "pos": "adverb"
+ },
+ {
+  "id": "monument-n",
+  "headword": "monument",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping"
+  ]
+ },
+ {
+  "id": "moral-n",
+  "headword": "moral",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education"
+  ]
+ },
+ {
+  "id": "more-adv",
+  "headword": "more",
+  "pos": "adverb"
+ },
+ {
+  "id": "moreover-adv",
+  "headword": "moreover",
+  "pos": "adverb"
+ },
+ {
+  "id": "mosquito-n",
+  "headword": "mosquito",
+  "pos": "noun"
+ },
+ {
+  "id": "moss-n",
+  "headword": "moss",
+  "pos": "noun"
+ },
+ {
+  "id": "motherland-n",
+  "headword": "motherland",
+  "pos": "noun",
+  "sourceTopics": [
+   "Nationalities and countries",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "motionless-adj",
+  "headword": "motionless",
+  "pos": "adjective"
+ },
+ {
+  "id": "motivate-v",
+  "headword": "motivate",
+  "pos": "verb"
+ },
+ {
+  "id": "motivation-n",
+  "headword": "motivation",
+  "pos": "noun"
+ },
+ {
+  "id": "motive-n",
+  "headword": "motive",
+  "pos": "noun"
+ },
+ {
+  "id": "motor-n",
+  "headword": "motor",
+  "pos": "noun",
+  "sourceTopics": [
+   "Ways of travelling",
+   "Travel"
+  ]
+ },
+ {
+  "id": "motorcycle-n",
+  "headword": "motorcycle",
+  "pos": "noun",
+  "sourceTopics": [
+   "Ways of travelling",
+   "Travel"
+  ]
+ },
+ {
+  "id": "motto-n",
+  "headword": "motto",
+  "pos": "noun"
+ },
+ {
+  "id": "mount-n",
+  "headword": "mount",
+  "pos": "noun"
+ },
+ {
+  "id": "mountaintop-n",
+  "headword": "mountaintop",
+  "pos": "noun"
+ },
+ {
+  "id": "mourn-v",
+  "headword": "mourn",
+  "pos": "verb"
+ },
+ {
+  "id": "movement-n",
+  "headword": "movement",
+  "pos": "noun"
+ },
+ {
+  "id": "mud-n",
+  "headword": "mud",
+  "pos": "noun"
+ },
+ {
+  "id": "mule-n",
+  "headword": "mule",
+  "pos": "noun"
+ },
+ {
+  "id": "murder-v",
+  "headword": "murder",
+  "pos": "verb"
+ },
+ {
+  "id": "murderer-n",
+  "headword": "murderer",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs",
+   "Relations with other people"
+  ]
+ },
+ {
+  "id": "muscle-n",
+  "headword": "muscle",
+  "pos": "noun",
+  "sourceTopics": [
+   "Health and body care"
+  ]
+ },
+ {
+  "id": "mustard-n",
+  "headword": "mustard",
+  "pos": "noun"
+ },
+ {
+  "id": "mutual-adj",
+  "headword": "mutual",
+  "pos": "adjective"
+ },
+ {
+  "id": "myth-n",
+  "headword": "myth",
+  "pos": "noun",
+  "sourceTopics": [
+   "Books and literature",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "nail-n",
+  "headword": "nail",
+  "pos": "noun",
+  "sourceTopics": [
+   "Health and body care"
+  ]
+ },
+ {
+  "id": "naked-adj",
+  "headword": "naked",
+  "pos": "adjective"
+ },
+ {
+  "id": "name-v",
+  "headword": "name",
+  "pos": "verb"
+ },
+ {
+  "id": "nap-n",
+  "headword": "nap",
+  "pos": "noun"
+ },
+ {
+  "id": "narrate-v",
+  "headword": "narrate",
+  "pos": "verb"
+ },
+ {
+  "id": "narrative-adj",
+  "headword": "narrative",
+  "pos": "adjective"
+ },
+ {
+  "id": "narrow-adj",
+  "headword": "narrow",
+  "pos": "adjective"
+ },
+ {
+  "id": "nasty-adj",
+  "headword": "nasty",
+  "pos": "adjective"
+ },
+ {
+  "id": "nationalist-n",
+  "headword": "nationalist",
+  "pos": "noun"
+ },
+ {
+  "id": "naturally-adv",
+  "headword": "naturally",
+  "pos": "adverb"
+ },
+ {
+  "id": "navy-blue-adj",
+  "headword": "navy blue",
+  "pos": "adjective"
+ },
+ {
+  "id": "near-adj",
+  "headword": "near",
+  "pos": "adjective"
+ }
+]

@@ -1,0 +1,572 @@
+[
+ {
+  "id": "juice-n",
+  "headword": "juice",
+  "pos": "noun",
+  "example": "I drink orange juice for breakfast."
+ },
+ {
+  "id": "july-n",
+  "headword": "July",
+  "pos": "noun",
+  "example": "My birthday is in July."
+ },
+ {
+  "id": "jump-v",
+  "headword": "jump",
+  "pos": "verb",
+  "example": "The cat jumps on the table."
+ },
+ {
+  "id": "june-n",
+  "headword": "June",
+  "pos": "noun",
+  "example": "School finishes in June."
+ },
+ {
+  "id": "just-adv",
+  "headword": "just",
+  "pos": "adverb",
+  "example": "I just want a cup of tea."
+ },
+ {
+  "id": "key-adj",
+  "headword": "key",
+  "pos": "adjective",
+  "example": "Sleep is a key part of good health."
+ },
+ {
+  "id": "key-n",
+  "headword": "key",
+  "pos": "noun",
+  "example": "I open the door with my key."
+ },
+ {
+  "id": "kick-n",
+  "headword": "kick",
+  "pos": "noun",
+  "example": "He gives the ball a big kick."
+ },
+ {
+  "id": "kick-v",
+  "headword": "kick",
+  "pos": "verb",
+  "example": "He kicks the ball to me."
+ },
+ {
+  "id": "kid-n",
+  "headword": "kid",
+  "pos": "noun",
+  "example": "The kids play in the park."
+ },
+ {
+  "id": "kill-v",
+  "headword": "kill",
+  "pos": "verb",
+  "example": "Cats kill mice."
+ },
+ {
+  "id": "kind-n",
+  "headword": "kind",
+  "pos": "noun",
+  "example": "What kind of music do you like?"
+ },
+ {
+  "id": "king-n",
+  "headword": "king",
+  "pos": "noun",
+  "example": "The king lives in a big castle."
+ },
+ {
+  "id": "kiss-n",
+  "headword": "kiss",
+  "pos": "noun",
+  "example": "She gives her baby a kiss."
+ },
+ {
+  "id": "kitchen-n",
+  "headword": "kitchen",
+  "pos": "noun",
+  "example": "We cook dinner in the kitchen."
+ },
+ {
+  "id": "knee-n",
+  "headword": "knee",
+  "pos": "noun",
+  "example": "I fall and hurt my knee."
+ },
+ {
+  "id": "knife-n",
+  "headword": "knife",
+  "pos": "noun",
+  "example": "I cut the bread with a knife."
+ },
+ {
+  "id": "know-v",
+  "headword": "know",
+  "pos": "verb",
+  "example": "I know your sister. She is my friend."
+ },
+ {
+  "id": "lady-n",
+  "headword": "lady",
+  "pos": "noun",
+  "example": "An old lady lives next door."
+ },
+ {
+  "id": "language-n",
+  "headword": "language",
+  "pos": "noun",
+  "example": "I speak two languages, English and Spanish."
+ },
+ {
+  "id": "large-adj",
+  "headword": "large",
+  "pos": "adjective",
+  "example": "They live in a large house with ten rooms."
+ },
+ {
+  "id": "last-name-n",
+  "headword": "last name",
+  "pos": "noun",
+  "example": "My first name is Anna, my last name is Smith."
+ },
+ {
+  "id": "late-adj",
+  "headword": "late",
+  "pos": "adjective",
+  "example": "The bus is late again today."
+ },
+ {
+  "id": "late-adv",
+  "headword": "late",
+  "pos": "adverb",
+  "example": "I go to bed late on Saturdays."
+ },
+ {
+  "id": "later-adv",
+  "headword": "later",
+  "pos": "adverb",
+  "example": "I am busy now. I can help you later."
+ },
+ {
+  "id": "lazy-adj",
+  "headword": "lazy",
+  "pos": "adjective",
+  "example": "My brother is lazy. He sleeps all day."
+ },
+ {
+  "id": "leader-n",
+  "headword": "leader",
+  "pos": "noun",
+  "example": "She is the leader of our team."
+ },
+ {
+  "id": "leaf-n",
+  "headword": "leaf",
+  "pos": "noun",
+  "example": "In autumn, the leaf falls from the tree."
+ },
+ {
+  "id": "learn-v",
+  "headword": "learn",
+  "pos": "verb",
+  "example": "I learn English at school."
+ },
+ {
+  "id": "leave-v",
+  "headword": "leave",
+  "pos": "verb",
+  "example": "I leave home at eight every morning."
+ },
+ {
+  "id": "left-adj",
+  "headword": "left",
+  "pos": "adjective",
+  "example": "I write with my left hand."
+ },
+ {
+  "id": "leg-n",
+  "headword": "leg",
+  "pos": "noun",
+  "example": "My leg hurts after the long walk."
+ },
+ {
+  "id": "lesson-n",
+  "headword": "lesson",
+  "pos": "noun",
+  "example": "Our English lesson starts at nine."
+ },
+ {
+  "id": "let-v",
+  "headword": "let",
+  "pos": "verb",
+  "example": "My mum lets me play outside."
+ },
+ {
+  "id": "letter-n",
+  "headword": "letter",
+  "pos": "noun",
+  "example": "I write a letter to my grandmother."
+ },
+ {
+  "id": "life-n",
+  "headword": "life",
+  "pos": "noun",
+  "example": "My life in the big city is busy."
+ },
+ {
+  "id": "light-adj",
+  "headword": "light",
+  "pos": "adjective",
+  "example": "My bag is very light. It is empty."
+ },
+ {
+  "id": "light-n",
+  "headword": "light",
+  "pos": "noun",
+  "example": "It is dark. Please turn on the light."
+ },
+ {
+  "id": "like-prep",
+  "headword": "like",
+  "pos": "preposition",
+  "example": "She sings like a bird."
+ },
+ {
+  "id": "like-v",
+  "headword": "like",
+  "pos": "verb",
+  "example": "I like pizza and ice cream."
+ },
+ {
+  "id": "lily-n",
+  "headword": "lily",
+  "pos": "noun",
+  "example": "A lily is a big white flower."
+ },
+ {
+  "id": "line-n",
+  "headword": "line",
+  "pos": "noun",
+  "example": "Draw a line under your name."
+ },
+ {
+  "id": "lion-n",
+  "headword": "lion",
+  "pos": "noun",
+  "example": "The lion is a big wild cat."
+ },
+ {
+  "id": "list-n",
+  "headword": "list",
+  "pos": "noun",
+  "example": "I write a shopping list: milk, eggs, bread."
+ },
+ {
+  "id": "listen-v",
+  "headword": "listen",
+  "pos": "verb",
+  "example": "I listen to music on the bus."
+ },
+ {
+  "id": "little-adv",
+  "headword": "little",
+  "pos": "adverb",
+  "example": "He is tired because he sleeps very little."
+ },
+ {
+  "id": "live-v",
+  "headword": "live",
+  "pos": "verb",
+  "example": "I live in a small flat in London."
+ },
+ {
+  "id": "living-adj",
+  "headword": "living",
+  "pos": "adjective",
+  "example": "Plants and animals are living things."
+ },
+ {
+  "id": "living-room-n",
+  "headword": "living room",
+  "pos": "noun",
+  "example": "We watch TV in the living room."
+ },
+ {
+  "id": "lonely-adj",
+  "headword": "lonely",
+  "pos": "adjective",
+  "example": "She lives alone and feels lonely."
+ },
+ {
+  "id": "long-adj",
+  "headword": "long",
+  "pos": "adjective",
+  "example": "She has long black hair."
+ },
+ {
+  "id": "look-n",
+  "headword": "look",
+  "pos": "noun",
+  "example": "Have a look at my new photos."
+ },
+ {
+  "id": "look-v",
+  "headword": "look",
+  "pos": "verb",
+  "example": "Look at the birds in the sky!"
+ },
+ {
+  "id": "lot-adv",
+  "headword": "lot",
+  "pos": "adverb",
+  "example": "She talks a lot in class."
+ },
+ {
+  "id": "lot-pron",
+  "headword": "lot",
+  "pos": "pronoun",
+  "example": "I have a lot to do today."
+ },
+ {
+  "id": "love-v",
+  "headword": "love",
+  "pos": "verb",
+  "example": "I love my little dog."
+ },
+ {
+  "id": "lovely-adj",
+  "headword": "lovely",
+  "pos": "adjective",
+  "example": "What a lovely dress! It is very pretty."
+ },
+ {
+  "id": "luck-n",
+  "headword": "luck",
+  "pos": "noun",
+  "example": "Good luck with your exam tomorrow!"
+ },
+ {
+  "id": "lucky-adj",
+  "headword": "lucky",
+  "pos": "adjective",
+  "example": "I am lucky to have good friends."
+ },
+ {
+  "id": "lunch-n",
+  "headword": "lunch",
+  "pos": "noun",
+  "example": "We have lunch at one o'clock."
+ },
+ {
+  "id": "m-be",
+  "headword": "'m",
+  "pos": "be-verb",
+  "example": "I'm Tom and I'm ten years old."
+ },
+ {
+  "id": "machine-n",
+  "headword": "machine",
+  "pos": "noun",
+  "example": "The coffee machine is in the kitchen."
+ },
+ {
+  "id": "magazine-n",
+  "headword": "magazine",
+  "pos": "noun",
+  "example": "I read a magazine about cars."
+ },
+ {
+  "id": "mail-n",
+  "headword": "mail",
+  "pos": "noun",
+  "example": "The mail comes every morning at ten."
+ },
+ {
+  "id": "make-v",
+  "headword": "make",
+  "pos": "verb",
+  "example": "I make a cake for her birthday."
+ },
+ {
+  "id": "many-det",
+  "headword": "many",
+  "pos": "determiner",
+  "example": "I have many friends at school."
+ },
+ {
+  "id": "many-pron",
+  "headword": "many",
+  "pos": "pronoun",
+  "example": "Many of my friends live near me."
+ },
+ {
+  "id": "map-n",
+  "headword": "map",
+  "pos": "noun",
+  "example": "We look at the map to find the station."
+ },
+ {
+  "id": "march-n",
+  "headword": "March",
+  "pos": "noun",
+  "example": "Spring starts in March."
+ },
+ {
+  "id": "match-n",
+  "headword": "match",
+  "pos": "noun",
+  "example": "We watch a football match on TV."
+ },
+ {
+  "id": "math-n",
+  "headword": "math",
+  "pos": "noun",
+  "example": "Math is my favourite subject at school."
+ },
+ {
+  "id": "matter-n",
+  "headword": "matter",
+  "pos": "noun",
+  "example": "You look sad. What is the matter?"
+ },
+ {
+  "id": "may-modal",
+  "headword": "may",
+  "pos": "modal auxiliary",
+  "example": "May I open the window, please?"
+ },
+ {
+  "id": "may-n",
+  "headword": "May",
+  "pos": "noun",
+  "example": "The weather is warm in May."
+ },
+ {
+  "id": "maybe-adv",
+  "headword": "maybe",
+  "pos": "adverb",
+  "example": "Maybe she is at home now."
+ },
+ {
+  "id": "meal-n",
+  "headword": "meal",
+  "pos": "noun",
+  "example": "Dinner is my favourite meal of the day."
+ },
+ {
+  "id": "mean-v",
+  "headword": "mean",
+  "pos": "verb",
+  "example": "What does this word mean?"
+ },
+ {
+  "id": "meat-n",
+  "headword": "meat",
+  "pos": "noun",
+  "example": "I don't eat meat. I eat fish."
+ },
+ {
+  "id": "medicine-n",
+  "headword": "medicine",
+  "pos": "noun",
+  "example": "Take this medicine after dinner."
+ },
+ {
+  "id": "meet-v",
+  "headword": "meet",
+  "pos": "verb",
+  "example": "I meet my friends after school."
+ },
+ {
+  "id": "meeting-n",
+  "headword": "meeting",
+  "pos": "noun",
+  "example": "I have a meeting with my boss at nine."
+ },
+ {
+  "id": "memory-n",
+  "headword": "memory",
+  "pos": "noun",
+  "example": "I have a good memory for names."
+ },
+ {
+  "id": "merry-adj",
+  "headword": "merry",
+  "pos": "adjective",
+  "example": "Merry Christmas to you and your family!"
+ },
+ {
+  "id": "message-n",
+  "headword": "message",
+  "pos": "noun",
+  "example": "I send a message to my friend."
+ },
+ {
+  "id": "middle-adj",
+  "headword": "middle",
+  "pos": "adjective",
+  "example": "I sit in the middle seat."
+ },
+ {
+  "id": "mind-n",
+  "headword": "mind",
+  "pos": "noun",
+  "example": "Music is good for the mind."
+ },
+ {
+  "id": "mine-pron",
+  "headword": "mine",
+  "pos": "pronoun",
+  "example": "This bag is not yours. It is mine."
+ },
+ {
+  "id": "minute-n",
+  "headword": "minute",
+  "pos": "noun",
+  "example": "Wait for me. I am ready in five minutes."
+ },
+ {
+  "id": "miss-n",
+  "headword": "Miss",
+  "pos": "noun",
+  "example": "Miss Brown is our English teacher."
+ },
+ {
+  "id": "miss-v",
+  "headword": "miss",
+  "pos": "verb",
+  "example": "I live in Paris and I miss my family."
+ },
+ {
+  "id": "mobile-n",
+  "headword": "mobile",
+  "pos": "noun",
+  "example": "My mobile is in my bag."
+ },
+ {
+  "id": "mobile-phone-n",
+  "headword": "mobile phone",
+  "pos": "noun",
+  "example": "I call my mum on my mobile phone."
+ },
+ {
+  "id": "mom-n",
+  "headword": "mom",
+  "pos": "noun",
+  "example": "My mom is a doctor."
+ },
+ {
+  "id": "moment-n",
+  "headword": "moment",
+  "pos": "noun",
+  "example": "Please wait a moment. I am coming."
+ },
+ {
+  "id": "mommy-n",
+  "headword": "mommy",
+  "pos": "noun",
+  "example": "Mommy, can I have a cookie?"
+ }
+]

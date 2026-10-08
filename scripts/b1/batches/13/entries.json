@@ -1,0 +1,598 @@
+[
+ {
+  "id": "insane-adj",
+  "headword": "insane",
+  "pos": "adjective"
+ },
+ {
+  "id": "inscribe-v",
+  "headword": "inscribe",
+  "pos": "verb"
+ },
+ {
+  "id": "inscription-n",
+  "headword": "inscription",
+  "pos": "noun"
+ },
+ {
+  "id": "insight-n",
+  "headword": "insight",
+  "pos": "noun"
+ },
+ {
+  "id": "insist-v",
+  "headword": "insist",
+  "pos": "verb"
+ },
+ {
+  "id": "inspection-n",
+  "headword": "inspection",
+  "pos": "noun"
+ },
+ {
+  "id": "inspire-v",
+  "headword": "inspire",
+  "pos": "verb"
+ },
+ {
+  "id": "install-v",
+  "headword": "install",
+  "pos": "verb",
+  "variants": [
+   "instal"
+  ]
+ },
+ {
+  "id": "instance-n",
+  "headword": "instance",
+  "pos": "noun",
+  "sourceTopics": [
+   "Collocation",
+   "Language"
+  ]
+ },
+ {
+  "id": "instead-of-prep",
+  "headword": "instead of",
+  "pos": "preposition"
+ },
+ {
+  "id": "institute-n",
+  "headword": "institute",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Education"
+  ]
+ },
+ {
+  "id": "instruction-n",
+  "headword": "instruction",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "instructor-n",
+  "headword": "instructor",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs"
+  ]
+ },
+ {
+  "id": "insurance-n",
+  "headword": "insurance",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel and services vocab",
+   "Services"
+  ]
+ },
+ {
+  "id": "intend-v",
+  "headword": "intend",
+  "pos": "verb"
+ },
+ {
+  "id": "intense-adj",
+  "headword": "intense",
+  "pos": "adjective"
+ },
+ {
+  "id": "intensive-adj",
+  "headword": "intensive",
+  "pos": "adjective"
+ },
+ {
+  "id": "intention-n",
+  "headword": "intention",
+  "pos": "noun"
+ },
+ {
+  "id": "intentionally-adv",
+  "headword": "intentionally",
+  "pos": "adverb"
+ },
+ {
+  "id": "interact-v",
+  "headword": "interact",
+  "pos": "verb"
+ },
+ {
+  "id": "interaction-n",
+  "headword": "interaction",
+  "pos": "noun"
+ },
+ {
+  "id": "interest-v",
+  "headword": "interest",
+  "pos": "verb"
+ },
+ {
+  "id": "intermediate-adj",
+  "headword": "intermediate",
+  "pos": "adjective"
+ },
+ {
+  "id": "intermission-n",
+  "headword": "intermission",
+  "pos": "noun"
+ },
+ {
+  "id": "internal-adj",
+  "headword": "internal",
+  "pos": "adjective"
+ },
+ {
+  "id": "internationally-adv",
+  "headword": "internationally",
+  "pos": "adverb"
+ },
+ {
+  "id": "interrupt-v",
+  "headword": "interrupt",
+  "pos": "verb"
+ },
+ {
+  "id": "interval-n",
+  "headword": "interval",
+  "pos": "noun"
+ },
+ {
+  "id": "interview-v",
+  "headword": "interview",
+  "pos": "verb"
+ },
+ {
+  "id": "interviewee-n",
+  "headword": "interviewee",
+  "pos": "noun"
+ },
+ {
+  "id": "introduction-n",
+  "headword": "introduction",
+  "pos": "noun",
+  "sourceTopics": [
+   "Relations with other people"
+  ]
+ },
+ {
+  "id": "invasion-n",
+  "headword": "invasion",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs"
+  ]
+ },
+ {
+  "id": "invest-v",
+  "headword": "invest",
+  "pos": "verb"
+ },
+ {
+  "id": "investigation-n",
+  "headword": "investigation",
+  "pos": "noun"
+ },
+ {
+  "id": "invitation-n",
+  "headword": "invitation",
+  "pos": "noun",
+  "sourceTopics": [
+   "Relations with other people"
+  ]
+ },
+ {
+  "id": "involuntarily-adv",
+  "headword": "involuntarily",
+  "pos": "adverb"
+ },
+ {
+  "id": "involve-v",
+  "headword": "involve",
+  "pos": "verb"
+ },
+ {
+  "id": "involved-adj",
+  "headword": "involved",
+  "pos": "adjective"
+ },
+ {
+  "id": "iron-n",
+  "headword": "iron",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "iron-v",
+  "headword": "iron",
+  "pos": "verb"
+ },
+ {
+  "id": "ironing-n",
+  "headword": "ironing",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Daily life"
+  ]
+ },
+ {
+  "id": "irregular-adj",
+  "headword": "irregular",
+  "pos": "adjective"
+ },
+ {
+  "id": "irritate-v",
+  "headword": "irritate",
+  "pos": "verb"
+ },
+ {
+  "id": "isle-n",
+  "headword": "isle",
+  "pos": "noun",
+  "sourceTopics": [
+   "Nationalities and countries",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "isolation-n",
+  "headword": "isolation",
+  "pos": "noun"
+ },
+ {
+  "id": "ivory-n",
+  "headword": "ivory",
+  "pos": "noun"
+ },
+ {
+  "id": "jade-n",
+  "headword": "jade",
+  "pos": "noun",
+  "sourceTopics": [
+   "Shopping",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "jail-n",
+  "headword": "jail",
+  "pos": "noun",
+  "variants": [
+   "gaol"
+  ],
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "jar-n",
+  "headword": "jar",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "jazz-n",
+  "headword": "jazz",
+  "pos": "noun",
+  "sourceTopics": [
+   "Arts",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "jealous-adj",
+  "headword": "jealous",
+  "pos": "adjective"
+ },
+ {
+  "id": "jewel-n",
+  "headword": "jewel",
+  "pos": "noun",
+  "sourceTopics": [
+   "Shopping",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "jog-v",
+  "headword": "jog",
+  "pos": "verb"
+ },
+ {
+  "id": "jogging-n",
+  "headword": "jogging",
+  "pos": "noun",
+  "sourceTopics": [
+   "Leisure activities",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "joint-adj",
+  "headword": "joint",
+  "pos": "adjective"
+ },
+ {
+  "id": "joke-v",
+  "headword": "joke",
+  "pos": "verb"
+ },
+ {
+  "id": "journal-n",
+  "headword": "journal",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "journalist-n",
+  "headword": "journalist",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "judge-n",
+  "headword": "judge",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "judgment-n",
+  "headword": "judgment",
+  "pos": "noun",
+  "variants": [
+   "judgement"
+  ],
+  "sourceTopics": [
+   "News, lifestyles and current affairs"
+  ]
+ },
+ {
+  "id": "jug-n",
+  "headword": "jug",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "juicy-adj",
+  "headword": "juicy",
+  "pos": "adjective"
+ },
+ {
+  "id": "jumper-n",
+  "headword": "jumper",
+  "pos": "noun",
+  "sourceTopics": [
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "jungle-n",
+  "headword": "jungle",
+  "pos": "noun"
+ },
+ {
+  "id": "justice-n",
+  "headword": "justice",
+  "pos": "noun"
+ },
+ {
+  "id": "kettle-n",
+  "headword": "kettle",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "keyboard-n",
+  "headword": "keyboard",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms"
+  ]
+ },
+ {
+  "id": "kid-v",
+  "headword": "kid",
+  "pos": "verb"
+ },
+ {
+  "id": "killing-n",
+  "headword": "killing",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs",
+   "Relations with other people"
+  ]
+ },
+ {
+  "id": "kindly-adv",
+  "headword": "kindly",
+  "pos": "adverb"
+ },
+ {
+  "id": "kindness-n",
+  "headword": "kindness",
+  "pos": "noun"
+ },
+ {
+  "id": "kiss-v",
+  "headword": "kiss",
+  "pos": "verb"
+ },
+ {
+  "id": "kitten-n",
+  "headword": "kitten",
+  "pos": "noun"
+ },
+ {
+  "id": "knit-v",
+  "headword": "knit",
+  "pos": "verb"
+ },
+ {
+  "id": "knock-v",
+  "headword": "knock",
+  "pos": "verb"
+ },
+ {
+  "id": "lab-n",
+  "headword": "lab",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "laboratory-n",
+  "headword": "laboratory",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "ladder-n",
+  "headword": "ladder",
+  "pos": "noun"
+ },
+ {
+  "id": "lamb-n",
+  "headword": "lamb",
+  "pos": "noun"
+ },
+ {
+  "id": "land-n",
+  "headword": "land",
+  "pos": "noun",
+  "sourceTopics": [
+   "Nationalities and countries",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "landlord-n",
+  "headword": "landlord",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs"
+  ]
+ },
+ {
+  "id": "largely-adv",
+  "headword": "largely",
+  "pos": "adverb"
+ },
+ {
+  "id": "last-adv",
+  "headword": "last",
+  "pos": "adverb"
+ },
+ {
+  "id": "last-v",
+  "headword": "last",
+  "pos": "verb"
+ },
+ {
+  "id": "lasting-adj",
+  "headword": "lasting",
+  "pos": "adjective"
+ },
+ {
+  "id": "latecomer-n",
+  "headword": "latecomer",
+  "pos": "noun"
+ },
+ {
+  "id": "lately-adv",
+  "headword": "lately",
+  "pos": "adverb"
+ },
+ {
+  "id": "laugh-n",
+  "headword": "laugh",
+  "pos": "noun"
+ },
+ {
+  "id": "laughter-n",
+  "headword": "laughter",
+  "pos": "noun"
+ },
+ {
+  "id": "launch-v",
+  "headword": "launch",
+  "pos": "verb"
+ },
+ {
+  "id": "lawful-adj",
+  "headword": "lawful",
+  "pos": "adjective"
+ },
+ {
+  "id": "lay-v",
+  "headword": "lay",
+  "pos": "verb"
+ },
+ {
+  "id": "layer-n",
+  "headword": "layer",
+  "pos": "noun"
+ },
+ {
+  "id": "lead-adj",
+  "headword": "lead",
+  "pos": "adjective"
+ },
+ {
+  "id": "lead-v",
+  "headword": "lead",
+  "pos": "verb"
+ }
+]

@@ -1,0 +1,638 @@
+[
+ {
+  "id": "money-n",
+  "headword": "money",
+  "pos": "noun",
+  "sourceTopics": [
+   "Shopping",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "monkey-n",
+  "headword": "monkey",
+  "pos": "noun"
+ },
+ {
+  "id": "month-n",
+  "headword": "month",
+  "pos": "noun"
+ },
+ {
+  "id": "moon-n",
+  "headword": "moon",
+  "pos": "noun"
+ },
+ {
+  "id": "more-det",
+  "headword": "more",
+  "pos": "determiner"
+ },
+ {
+  "id": "more-pron",
+  "headword": "more",
+  "pos": "pronoun"
+ },
+ {
+  "id": "morning-n",
+  "headword": "morning",
+  "pos": "noun"
+ },
+ {
+  "id": "most-det",
+  "headword": "most",
+  "pos": "determiner"
+ },
+ {
+  "id": "mother-n",
+  "headword": "mother",
+  "pos": "noun",
+  "sourceTopics": [
+   "Family life",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "mountain-n",
+  "headword": "mountain",
+  "pos": "noun",
+  "sourceTopics": [
+   "Nationalities and countries",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "mouth-n",
+  "headword": "mouth",
+  "pos": "noun",
+  "sourceTopics": [
+   "Health and body care"
+  ]
+ },
+ {
+  "id": "move-n",
+  "headword": "move",
+  "pos": "noun"
+ },
+ {
+  "id": "movie-n",
+  "headword": "movie",
+  "pos": "noun",
+  "sourceTopics": [
+   "Film",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "mr-n",
+  "headword": "Mr.",
+  "pos": "noun",
+  "variants": [
+   "Mr"
+  ],
+  "sourceTopics": [
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "mrs-n",
+  "headword": "Mrs.",
+  "pos": "noun",
+  "variants": [
+   "Mrs"
+  ],
+  "sourceTopics": [
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "much-adv",
+  "headword": "much",
+  "pos": "adverb"
+ },
+ {
+  "id": "much-det",
+  "headword": "much",
+  "pos": "determiner"
+ },
+ {
+  "id": "much-pron",
+  "headword": "much",
+  "pos": "pronoun"
+ },
+ {
+  "id": "mum-n",
+  "headword": "mum",
+  "pos": "noun",
+  "sourceTopics": [
+   "Family life",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "music-n",
+  "headword": "music",
+  "pos": "noun",
+  "sourceTopics": [
+   "Hobbies and pastimes",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "must-modal",
+  "headword": "must",
+  "pos": "modal auxiliary"
+ },
+ {
+  "id": "my-det",
+  "headword": "my",
+  "pos": "determiner"
+ },
+ {
+  "id": "name-n",
+  "headword": "name",
+  "pos": "noun",
+  "sourceTopics": [
+   "Personal information",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "nationality-n",
+  "headword": "nationality",
+  "pos": "noun",
+  "sourceTopics": [
+   "Nationalities and countries",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "near-prep",
+  "headword": "near",
+  "pos": "preposition"
+ },
+ {
+  "id": "neck-n",
+  "headword": "neck",
+  "pos": "noun",
+  "sourceTopics": [
+   "Health and body care"
+  ]
+ },
+ {
+  "id": "need-modal",
+  "headword": "need",
+  "pos": "modal auxiliary"
+ },
+ {
+  "id": "neighbor-n",
+  "headword": "neighbor",
+  "pos": "noun",
+  "variants": [
+   "neighbour"
+  ],
+  "sourceTopics": [
+   "Family life",
+   "Relations with other people"
+  ]
+ },
+ {
+  "id": "never-adv",
+  "headword": "never",
+  "pos": "adverb"
+ },
+ {
+  "id": "new-adj",
+  "headword": "new",
+  "pos": "adjective"
+ },
+ {
+  "id": "newspaper-n",
+  "headword": "newspaper",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "nice-adj",
+  "headword": "nice",
+  "pos": "adjective"
+ },
+ {
+  "id": "night-n",
+  "headword": "night",
+  "pos": "noun"
+ },
+ {
+  "id": "no-adv",
+  "headword": "no",
+  "pos": "adverb"
+ },
+ {
+  "id": "no-det",
+  "headword": "no",
+  "pos": "determiner"
+ },
+ {
+  "id": "noise-n",
+  "headword": "noise",
+  "pos": "noun"
+ },
+ {
+  "id": "nose-n",
+  "headword": "nose",
+  "pos": "noun",
+  "sourceTopics": [
+   "Health and body care"
+  ]
+ },
+ {
+  "id": "not-adv",
+  "headword": "not",
+  "pos": "adverb"
+ },
+ {
+  "id": "note-n",
+  "headword": "note",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "note-v",
+  "headword": "note",
+  "pos": "verb"
+ },
+ {
+  "id": "nothing-pron",
+  "headword": "nothing",
+  "pos": "pronoun"
+ },
+ {
+  "id": "november-n",
+  "headword": "November",
+  "pos": "noun"
+ },
+ {
+  "id": "now-adv",
+  "headword": "now",
+  "pos": "adverb"
+ },
+ {
+  "id": "number-n",
+  "headword": "number",
+  "pos": "noun",
+  "sourceTopics": [
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "nurse-n",
+  "headword": "nurse",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "o-clock-adv",
+  "headword": "o'clock",
+  "pos": "adverb"
+ },
+ {
+  "id": "october-n",
+  "headword": "October",
+  "pos": "noun"
+ },
+ {
+  "id": "of-prep",
+  "headword": "of",
+  "pos": "preposition"
+ },
+ {
+  "id": "off-adj",
+  "headword": "off",
+  "pos": "adjective"
+ },
+ {
+  "id": "office-n",
+  "headword": "office",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "Services"
+  ]
+ },
+ {
+  "id": "often-adv",
+  "headword": "often",
+  "pos": "adverb"
+ },
+ {
+  "id": "ok-adj",
+  "headword": "OK",
+  "pos": "adjective",
+  "variants": [
+   "okay"
+  ]
+ },
+ {
+  "id": "ok-adv",
+  "headword": "OK",
+  "pos": "adverb",
+  "variants": [
+   "okay"
+  ]
+ },
+ {
+  "id": "old-adj",
+  "headword": "old",
+  "pos": "adjective"
+ },
+ {
+  "id": "olympics-n",
+  "headword": "Olympics",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "on-prep",
+  "headword": "on",
+  "pos": "preposition"
+ },
+ {
+  "id": "once-adv",
+  "headword": "once",
+  "pos": "adverb"
+ },
+ {
+  "id": "one-det",
+  "headword": "one",
+  "pos": "determiner"
+ },
+ {
+  "id": "only-adj",
+  "headword": "only",
+  "pos": "adjective"
+ },
+ {
+  "id": "only-adv",
+  "headword": "only",
+  "pos": "adverb"
+ },
+ {
+  "id": "open-v",
+  "headword": "open",
+  "pos": "verb"
+ },
+ {
+  "id": "opera-n",
+  "headword": "opera",
+  "pos": "noun",
+  "sourceTopics": [
+   "Hobbies and pastimes",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "or-conj",
+  "headword": "or",
+  "pos": "conjunction"
+ },
+ {
+  "id": "orange-adj",
+  "headword": "orange",
+  "pos": "adjective"
+ },
+ {
+  "id": "orange-n",
+  "headword": "orange",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "order-n",
+  "headword": "order",
+  "pos": "noun",
+  "sourceTopics": [
+   "Shopping"
+  ]
+ },
+ {
+  "id": "other-det",
+  "headword": "other",
+  "pos": "determiner"
+ },
+ {
+  "id": "our-det",
+  "headword": "our",
+  "pos": "determiner"
+ },
+ {
+  "id": "ours-pron",
+  "headword": "ours",
+  "pos": "pronoun"
+ },
+ {
+  "id": "out-adv",
+  "headword": "out",
+  "pos": "adverb"
+ },
+ {
+  "id": "over-prep",
+  "headword": "over",
+  "pos": "preposition"
+ },
+ {
+  "id": "own-adj",
+  "headword": "own",
+  "pos": "adjective"
+ },
+ {
+  "id": "owner-n",
+  "headword": "owner",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "p-m-adv",
+  "headword": "p.m.",
+  "pos": "adverb",
+  "variants": [
+   "P.M.",
+   "pm",
+   "PM"
+  ]
+ },
+ {
+  "id": "page-n",
+  "headword": "page",
+  "pos": "noun",
+  "sourceTopics": [
+   "Books and literature",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "paint-n",
+  "headword": "paint",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "paint-v",
+  "headword": "paint",
+  "pos": "verb"
+ },
+ {
+  "id": "painting-n",
+  "headword": "painting",
+  "pos": "noun",
+  "sourceTopics": [
+   "Hobbies and pastimes",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "pair-n",
+  "headword": "pair",
+  "pos": "noun"
+ },
+ {
+  "id": "palace-n",
+  "headword": "palace",
+  "pos": "noun",
+  "sourceTopics": [
+   "Nationalities and countries",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "paper-n",
+  "headword": "paper",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "paragraph-n",
+  "headword": "paragraph",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Education"
+  ]
+ },
+ {
+  "id": "pardon-n",
+  "headword": "pardon",
+  "pos": "noun"
+ },
+ {
+  "id": "parent-n",
+  "headword": "parent",
+  "pos": "noun",
+  "sourceTopics": [
+   "Family life",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "park-n",
+  "headword": "park",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "partner-n",
+  "headword": "partner",
+  "pos": "noun",
+  "sourceTopics": [
+   "Family life",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "party-n",
+  "headword": "party",
+  "pos": "noun",
+  "sourceTopics": [
+   "Hobbies and pastimes",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "past-adv",
+  "headword": "past",
+  "pos": "adverb"
+ },
+ {
+  "id": "past-prep",
+  "headword": "past",
+  "pos": "preposition"
+ },
+ {
+  "id": "pay-n",
+  "headword": "pay",
+  "pos": "noun",
+  "sourceTopics": [
+   "Shopping",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "peace-n",
+  "headword": "peace",
+  "pos": "noun"
+ },
+ {
+  "id": "pen-n",
+  "headword": "pen",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "pencil-n",
+  "headword": "pencil",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "people-n",
+  "headword": "people",
+  "pos": "noun"
+ },
+ {
+  "id": "period-n",
+  "headword": "period",
+  "pos": "noun"
+ }
+]

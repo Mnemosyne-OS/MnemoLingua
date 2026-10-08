@@ -1,0 +1,646 @@
+[
+ {
+  "id": "r001",
+  "headword": "TENSE/ASPECT: PRESENT (lexical verbs; third person & singular)",
+  "pos": "grammar (NEG. DEC.)",
+  "example": "My brother doesn't eat meat.",
+  "fr": {
+   "exampleA": "Mon frère ne mange pas de viande.",
+   "exampleB": "Mon frère ne mange pas de viande."
+  },
+  "es": {
+   "exampleA": "Mi hermano no come carne.",
+   "exampleB": "Mi hermano no come carne."
+  }
+ },
+ {
+  "id": "r002",
+  "headword": "TENSE/ASPECT: PRESENT (lexical verbs; third person & singular)",
+  "pos": "grammar (NEG. DEC.)",
+  "example": "This shop doesn't open on Sundays.",
+  "fr": {
+   "exampleA": "Ce magasin n'ouvre pas le dimanche.",
+   "exampleB": "Ce magasin n'ouvre pas le dimanche."
+  },
+  "es": {
+   "exampleA": "Esta tienda no abre los domingos.",
+   "exampleB": "Esta tienda no abre los domingos."
+  }
+ },
+ {
+  "id": "r003",
+  "headword": "TENSE/ASPECT: PRESENT PERFECT",
+  "pos": "grammar (NEG. DEC.)",
+  "example": "I haven't finished my homework yet.",
+  "fr": {
+   "exampleA": "Je n'ai pas encore fini mes devoirs.",
+   "exampleB": "Je n'ai pas encore fini mes devoirs."
+  },
+  "es": {
+   "exampleA": "Todavía no he terminado los deberes.",
+   "exampleB": "Todavía no he terminado los deberes."
+  }
+ },
+ {
+  "id": "r004",
+  "headword": "TENSE/ASPECT: PRESENT PERFECT",
+  "pos": "grammar (NEG. DEC.)",
+  "example": "She has never been to London.",
+  "fr": {
+   "exampleA": "Elle n'est jamais allée à Londres.",
+   "exampleB": "Elle n'est jamais allée à Londres."
+  },
+  "es": {
+   "exampleA": "Nunca ha estado en Londres.",
+   "exampleB": "Ella nunca ha estado en Londres."
+  }
+ },
+ {
+  "id": "r005",
+  "headword": "TENSE/ASPECT: FUTURE",
+  "pos": "grammar (NEG. DEC.)",
+  "example": "We won't be home before midnight.",
+  "fr": {
+   "exampleA": "Nous ne serons pas à la maison avant minuit.",
+   "exampleB": "Nous ne serons pas à la maison avant minuit."
+  },
+  "es": {
+   "exampleA": "No estaremos en casa antes de medianoche.",
+   "exampleB": "No estaremos en casa antes de medianoche."
+  }
+ },
+ {
+  "id": "r006",
+  "headword": "TENSE/ASPECT: FUTURE",
+  "pos": "grammar (NEG. DEC.)",
+  "example": "They aren't going to sell their house this year.",
+  "fr": {
+   "exampleA": "Ils ne vont pas vendre leur maison cette année.",
+   "exampleB": "Ils ne vont pas vendre leur maison cette année."
+  },
+  "es": {
+   "exampleA": "No van a vender su casa este año.",
+   "exampleB": "No van a vender su casa este año."
+  }
+ },
+ {
+  "id": "r007",
+  "headword": "MODAL/AUX: could",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "You could take the bus if it starts raining.",
+  "fr": {
+   "exampleA": "Tu pourrais prendre le bus s'il commence à pleuvoir.",
+   "exampleB": "Tu pourrais prendre le bus s'il commence à pleuvoir."
+  },
+  "es": {
+   "exampleA": "Podrías coger el autobús si empieza a llover.",
+   "exampleB": "Podrías coger el autobús si empieza a llover."
+  }
+ },
+ {
+  "id": "r008",
+  "headword": "-thing ADJ",
+  "pos": "grammar",
+  "example": "The two teams shook hands with each other after the match.",
+  "fr": {
+   "exampleA": "Il s'est passé quelque chose d'intéressant au travail aujourd'hui ?",
+   "exampleB": "Il s'est passé quelque chose d'intéressant au travail aujourd'hui ?"
+  },
+  "es": {
+   "exampleA": "¿Ha pasado algo interesante hoy en el trabajo?",
+   "exampleB": "¿Ha pasado algo interesante hoy en el trabajo?"
+  }
+ },
+ {
+  "id": "r009",
+  "headword": "MODAL/AUX: could",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "When I was five, I could already swim.",
+  "fr": {
+   "exampleA": "À cinq ans, je savais déjà nager.",
+   "exampleB": "À cinq ans, je savais déjà nager."
+  },
+  "es": {
+   "exampleA": "Con cinco años, ya sabía nadar.",
+   "exampleB": "Con cinco años, ya sabía nadar."
+  }
+ },
+ {
+  "id": "r010",
+  "headword": "MODAL/AUX: may",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "It may snow in the mountains tomorrow.",
+  "fr": {
+   "exampleA": "Il se peut qu'il neige en montagne demain.",
+   "exampleB": "Il se peut qu'il neige en montagne demain."
+  },
+  "es": {
+   "exampleA": "Puede que nieve en la montaña mañana.",
+   "exampleB": "Puede que nieve en la montaña mañana."
+  }
+ },
+ {
+  "id": "r011",
+  "headword": "MODAL/AUX: may",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "You may use my computer while I'm away.",
+  "fr": {
+   "exampleA": "Tu peux utiliser mon ordinateur pendant mon absence.",
+   "exampleB": "Tu peux utiliser mon ordinateur pendant mon absence."
+  },
+  "es": {
+   "exampleA": "Puedes usar mi ordenador mientras estoy fuera.",
+   "exampleB": "Puedes usar mi ordenador mientras estoy fuera."
+  }
+ },
+ {
+  "id": "r012",
+  "headword": "MODAL/AUX: must",
+  "pos": "grammar",
+  "example": "You must wear a helmet on a motorbike.",
+  "fr": {
+   "exampleA": "Il faut porter un casque à moto.",
+   "exampleB": "Il faut porter un casque à moto."
+  },
+  "es": {
+   "exampleA": "Hay que llevar casco en moto.",
+   "exampleB": "Hay que llevar casco en moto."
+  }
+ },
+ {
+  "id": "r013",
+  "headword": "MODAL/AUX: must",
+  "pos": "grammar",
+  "example": "She must be tired after such a long journey.",
+  "fr": {
+   "exampleA": "Elle doit être fatiguée après un si long voyage.",
+   "exampleB": "Elle doit être fatiguée après un si long voyage."
+  },
+  "es": {
+   "exampleA": "Debe de estar cansada después de un viaje tan largo.",
+   "exampleB": "Debe de estar cansada después de un viaje tan largo."
+  }
+ },
+ {
+  "id": "r014",
+  "headword": "MODAL/AUX: should",
+  "pos": "grammar (NEG. DEC.)",
+  "example": "You shouldn't drink coffee late in the evening.",
+  "fr": {
+   "exampleA": "Tu ne devrais pas boire de café tard le soir.",
+   "exampleB": "Tu ne devrais pas boire de café tard le soir."
+  },
+  "es": {
+   "exampleA": "No deberías tomar café tarde por la noche.",
+   "exampleB": "No deberías tomar café tarde por la noche."
+  }
+ },
+ {
+  "id": "r015",
+  "headword": "MODAL/AUX: should",
+  "pos": "grammar (NEG. DEC.)",
+  "example": "Children shouldn't play near the road.",
+  "fr": {
+   "exampleA": "Les enfants ne devraient pas jouer près de la route.",
+   "exampleB": "Les enfants ne devraient pas jouer près de la route."
+  },
+  "es": {
+   "exampleA": "Los niños no deberían jugar cerca de la carretera.",
+   "exampleB": "Los niños no deberían jugar cerca de la carretera."
+  }
+ },
+ {
+  "id": "r016",
+  "headword": "MODAL/AUX: will",
+  "pos": "grammar (NEG. DEC.)",
+  "example": "Don't worry, I won't tell anyone your secret.",
+  "fr": {
+   "exampleA": "Ne t'inquiète pas, je ne dirai ton secret à personne.",
+   "exampleB": "Ne t'inquiète pas, je ne dirai ton secret à personne."
+  },
+  "es": {
+   "exampleA": "No te preocupes, no le contaré tu secreto a nadie.",
+   "exampleB": "No te preocupes, no le contaré tu secreto a nadie."
+  }
+ },
+ {
+  "id": "r017",
+  "headword": "MODAL/AUX: will",
+  "pos": "grammar (NEG. DEC.)",
+  "example": "The car won't start this morning.",
+  "fr": {
+   "exampleA": "La voiture ne veut pas démarrer ce matin.",
+   "exampleB": "La voiture ne veut pas démarrer ce matin."
+  },
+  "es": {
+   "exampleA": "El coche no quiere arrancar esta mañana.",
+   "exampleB": "El coche no quiere arrancar esta mañana."
+  }
+ },
+ {
+  "id": "r018",
+  "headword": "These/Those N",
+  "pos": "grammar (AFF. DEC./NEG. DEC.)",
+  "example": "These shoes are more comfortable than my old ones.",
+  "fr": {
+   "exampleA": "Ces chaussures sont plus confortables que mes anciennes.",
+   "exampleB": "Ces chaussures sont plus confortables que mes anciennes."
+  },
+  "es": {
+   "exampleA": "Estos zapatos son más cómodos que los viejos.",
+   "exampleB": "Estos zapatos son más cómodos que los viejos."
+  }
+ },
+ {
+  "id": "r019",
+  "headword": "These/Those N",
+  "pos": "grammar (AFF. DEC./NEG. DEC.)",
+  "example": "Those flowers in the garden aren't real.",
+  "fr": {
+   "exampleA": "Ces fleurs-là dans le jardin ne sont pas vraies.",
+   "exampleB": "Ces fleurs-là, dans le jardin, ne sont pas vraies."
+  },
+  "es": {
+   "exampleA": "Esas flores del jardín no son de verdad.",
+   "exampleB": "Esas flores del jardín no son de verdad."
+  }
+ },
+ {
+  "id": "r020",
+  "headword": "TENSE/ASPECT: PRESENT PROGRESSIVE",
+  "pos": "grammar (NEG. DEC.)",
+  "example": "Their garden is bigger than ours.",
+  "fr": {
+   "exampleA": "Je ne travaille pas aujourd'hui parce que je me sens malade.",
+   "exampleB": "Je ne travaille pas aujourd'hui parce que je me sens malade."
+  },
+  "es": {
+   "exampleA": "Hoy no trabajo porque me encuentro mal.",
+   "exampleB": "Hoy no trabajo porque me encuentro mal."
+  }
+ },
+ {
+  "id": "r021",
+  "headword": "REFLEXIVE PRONOUNS",
+  "pos": "grammar",
+  "example": "He cut himself while he was cooking dinner.",
+  "fr": {
+   "exampleA": "Il s'est coupé en préparant le dîner.",
+   "exampleB": "Il s'est coupé en préparant le dîner."
+  },
+  "es": {
+   "exampleA": "Se cortó mientras preparaba la cena.",
+   "exampleB": "Se cortó mientras preparaba la cena."
+  }
+ },
+ {
+  "id": "r022",
+  "headword": "REFLEXIVE PRONOUNS",
+  "pos": "grammar",
+  "example": "We painted the kitchen ourselves.",
+  "fr": {
+   "exampleA": "Nous avons peint la cuisine nous-mêmes.",
+   "exampleB": "Nous avons peint la cuisine nous-mêmes."
+  },
+  "es": {
+   "exampleA": "Pintamos la cocina nosotros mismos.",
+   "exampleB": "Pintamos la cocina nosotros mismos."
+  }
+ },
+ {
+  "id": "r023",
+  "headword": "PRONOUN: others (excluding 'the",
+  "pos": "grammar",
+  "example": "Some people like the sea, but others prefer the mountains.",
+  "fr": {
+   "exampleA": "Certains aiment la mer, mais d'autres préfèrent la montagne.",
+   "exampleB": "Certains aiment la mer, mais d'autres préfèrent la montagne."
+  },
+  "es": {
+   "exampleA": "A algunos les gusta el mar, pero otros prefieren la montaña.",
+   "exampleB": "A algunos les gusta el mar, pero otros prefieren la montaña."
+  }
+ },
+ {
+  "id": "r024",
+  "headword": "PRONOUN: others (excluding 'the",
+  "pos": "grammar",
+  "example": "Be kind to others and they will help you.",
+  "fr": {
+   "exampleA": "Sois gentil avec les autres et ils t'aideront.",
+   "exampleB": "Sois gentil avec les autres et ils t'aideront."
+  },
+  "es": {
+   "exampleA": "Sé amable con los demás y te ayudarán.",
+   "exampleB": "Sé amable con los demás y te ayudarán."
+  }
+ },
+ {
+  "id": "r025",
+  "headword": "ADVERBS OF ATTITUDES: apparently/clearly/fortunately/frankly/unfortunately",
+  "pos": "grammar",
+  "example": "Fortunately, nobody was hurt in the accident.",
+  "fr": {
+   "exampleA": "Heureusement, personne n'a été blessé dans l'accident.",
+   "exampleB": "Heureusement, personne n'a été blessé dans l'accident."
+  },
+  "es": {
+   "exampleA": "Por suerte, nadie resultó herido en el accidente.",
+   "exampleB": "Por suerte, nadie resultó herido en el accidente."
+  }
+ },
+ {
+  "id": "r026",
+  "headword": "INTENSIFIED COMPARATIVES: a lot/by far/even/far/much/still",
+  "pos": "grammar",
+  "example": "The train is much faster than the bus.",
+  "fr": {
+   "exampleA": "Le train est beaucoup plus rapide que le bus.",
+   "exampleB": "Le train est beaucoup plus rapide que le bus."
+  },
+  "es": {
+   "exampleA": "No sé qué decirle.",
+   "exampleB": "El tren es mucho más rápido que el autobús."
+  }
+ },
+ {
+  "id": "r027",
+  "headword": "ADVERBS OF ATTITUDES: apparently/clearly/fortunately/frankly/unfortunately",
+  "pos": "grammar",
+  "example": "Unfortunately, the museum is closed on Mondays.",
+  "fr": {
+   "exampleA": "Malheureusement, le musée est fermé le lundi.",
+   "exampleB": "Malheureusement, le musée est fermé le lundi."
+  },
+  "es": {
+   "exampleA": "Por desgracia, el museo cierra los lunes.",
+   "exampleB": "Por desgracia, el museo cierra los lunes."
+  }
+ },
+ {
+  "id": "r028",
+  "headword": "TO-INFINITIVE: not to DO",
+  "pos": "grammar",
+  "example": "I decided not to buy the expensive jacket.",
+  "fr": {
+   "exampleA": "J'ai décidé de ne pas acheter la veste chère.",
+   "exampleB": "J'ai décidé de ne pas acheter la veste chère."
+  },
+  "es": {
+   "exampleA": "Decidí no comprar la chaqueta cara.",
+   "exampleB": "Decidí no comprar la chaqueta cara."
+  }
+ },
+ {
+  "id": "r029",
+  "headword": "TO-INFINITIVE: not to DO",
+  "pos": "grammar",
+  "example": "Try not to forget your keys again.",
+  "fr": {
+   "exampleA": "Essaie de ne pas encore oublier tes clés.",
+   "exampleB": "Essaie de ne pas oublier tes clés encore une fois."
+  },
+  "es": {
+   "exampleA": "Intenta no olvidarte las llaves otra vez.",
+   "exampleB": "Intenta no olvidarte las llaves otra vez."
+  }
+ },
+ {
+  "id": "r030",
+  "headword": "IMPERATIVE: AFFIRMATIVE (lexical verbs)",
+  "pos": "grammar (NEG. IMP)",
+  "example": "Don't touch the oven, it's very hot.",
+  "fr": {
+   "exampleA": "Ne touche pas le four, il est très chaud.",
+   "exampleB": "Ne touche pas le four, il est très chaud."
+  },
+  "es": {
+   "exampleA": "No toques el horno, está muy caliente.",
+   "exampleB": "No toques el horno, está muy caliente."
+  }
+ },
+ {
+  "id": "r031",
+  "headword": "IMPERATIVE: AFFIRMATIVE (lexical verbs)",
+  "pos": "grammar (NEG. IMP)",
+  "example": "Don't open the window during the storm.",
+  "fr": {
+   "exampleA": "N'ouvrez pas la fenêtre pendant l'orage.",
+   "exampleB": "N'ouvre pas la fenêtre pendant l'orage."
+  },
+  "es": {
+   "exampleA": "No abráis la ventana durante la tormenta.",
+   "exampleB": "No abras la ventana durante la tormenta."
+  }
+ },
+ {
+  "id": "r032",
+  "headword": "know/wonder+WH-(CLAUSE) (except for 'whether')",
+  "pos": "grammar",
+  "example": "Do you know where the station is?",
+  "fr": {
+   "exampleA": "Savez-vous où se trouve la gare ?",
+   "exampleB": "Tu sais où est la gare ?"
+  },
+  "es": {
+   "exampleA": "¿Sabe dónde está la estación?",
+   "exampleB": "¿Sabes dónde está la estación?"
+  }
+ },
+ {
+  "id": "r033",
+  "headword": "know/wonder+WH-(CLAUSE) (except for 'whether')",
+  "pos": "grammar",
+  "example": "I wonder why she didn't call me back.",
+  "fr": {
+   "exampleA": "Je me demande pourquoi elle ne m'a pas rappelé.",
+   "exampleB": "Je me demande pourquoi elle ne m'a pas rappelé."
+  },
+  "es": {
+   "exampleA": "Me pregunto por qué no me devolvió la llamada.",
+   "exampleB": "Me pregunto por qué no me devolvió la llamada."
+  }
+ },
+ {
+  "id": "r034",
+  "headword": "PASSIVE: AUX",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "You don't need to bring any food to the party.",
+  "fr": {
+   "exampleA": "Le travail doit être terminé d'ici vendredi.",
+   "exampleB": "Le travail doit être terminé d'ici vendredi."
+  },
+  "es": {
+   "exampleA": "El trabajo tiene que estar terminado para el viernes.",
+   "exampleB": "El trabajo tiene que estar terminado para el viernes."
+  }
+ },
+ {
+  "id": "r035",
+  "headword": "RELATIVE PRONOUN: NONRESTRICTIVE",
+  "pos": "grammar",
+  "example": "My sister, who lives in Paris, is a doctor.",
+  "fr": {
+   "exampleA": "Ma sœur, qui habite à Paris, est médecin.",
+   "exampleB": "Ma sœur, qui vit à Paris, est médecin."
+  },
+  "es": {
+   "exampleA": "Mi hermana, que vive en París, es médica.",
+   "exampleB": "Mi hermana, que vive en París, es médica."
+  }
+ },
+ {
+  "id": "r036",
+  "headword": "RELATIVE PRONOUN: NONRESTRICTIVE",
+  "pos": "grammar",
+  "example": "We stayed at the Grand Hotel, which has a lovely pool.",
+  "fr": {
+   "exampleA": "Nous avons séjourné au Grand Hotel, qui a une très belle piscine.",
+   "exampleB": "Nous avons logé au Grand Hôtel, qui a une très belle piscine."
+  },
+  "es": {
+   "exampleA": "Nos alojamos en el Grand Hotel, que tiene una piscina preciosa.",
+   "exampleB": "Nos alojamos en el Grand Hotel, que tiene una piscina preciosa."
+  }
+ },
+ {
+  "id": "r037",
+  "headword": "INDIRECT SPEECH: TELL",
+  "pos": "grammar",
+  "example": "She told me that she was moving to Spain.",
+  "fr": {
+   "exampleA": "Elle m'a dit qu'elle déménageait en Espagne.",
+   "exampleB": "Elle m'a dit qu'elle déménageait en Espagne."
+  },
+  "es": {
+   "exampleA": "Me dijo que se mudaba a España.",
+   "exampleB": "Me dijo que se mudaba a España."
+  }
+ },
+ {
+  "id": "r038",
+  "headword": "INDIRECT SPEECH: TELL",
+  "pos": "grammar",
+  "example": "The teacher told us the test would be easy.",
+  "fr": {
+   "exampleA": "Le professeur nous a dit que le contrôle serait facile.",
+   "exampleB": "Le professeur nous a dit que le contrôle serait facile."
+  },
+  "es": {
+   "exampleA": "El profesor nos dijo que el examen sería fácil.",
+   "exampleB": "El profesor nos dijo que el examen sería fácil."
+  }
+ },
+ {
+  "id": "r039",
+  "headword": "ASK/TELL+NP+to+INFINITIVE",
+  "pos": "grammar",
+  "example": "My mother asked me to buy some bread.",
+  "fr": {
+   "exampleA": "Ma mère m'a demandé d'acheter du pain.",
+   "exampleB": "Ma mère m'a demandé d'acheter du pain."
+  },
+  "es": {
+   "exampleA": "Mi madre me pidió que comprara pan.",
+   "exampleB": "Mi madre me pidió que comprara pan."
+  }
+ },
+ {
+  "id": "r040",
+  "headword": "ASK/TELL+NP+to+INFINITIVE",
+  "pos": "grammar",
+  "example": "The doctor told him to stay in bed.",
+  "fr": {
+   "exampleA": "Le médecin lui a dit de rester au lit.",
+   "exampleB": "Le médecin lui a dit de rester au lit."
+  },
+  "es": {
+   "exampleA": "El médico le dijo que se quedara en la cama.",
+   "exampleB": "El médico le dijo que se quedara en la cama."
+  }
+ },
+ {
+  "id": "r041",
+  "headword": "CONDITIONAL: SECOND",
+  "pos": "grammar ((SUBORDINATE CLAUSE) AFF. DEC.)",
+  "example": "If I had more money, I would travel around the world.",
+  "fr": {
+   "exampleA": "Si j'avais plus d'argent, je ferais le tour du monde.",
+   "exampleB": "Si j'avais plus d'argent, je ferais le tour du monde."
+  },
+  "es": {
+   "exampleA": "Si tuviera más dinero, daría la vuelta al mundo.",
+   "exampleB": "Si tuviera más dinero, viajaría por todo el mundo."
+  }
+ },
+ {
+  "id": "r042",
+  "headword": "here is/are",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "Here is the key to your room.",
+  "fr": {
+   "exampleA": "Voici la clé de votre chambre.",
+   "exampleB": "Voici la clé de votre chambre."
+  },
+  "es": {
+   "exampleA": "¿Ha pasado algo interesante hoy en el trabajo?",
+   "exampleB": "Aquí tiene la llave de su habitación."
+  }
+ },
+ {
+  "id": "r043",
+  "headword": "CONDITIONAL: SECOND",
+  "pos": "grammar ((SUBORDINATE CLAUSE) AFF. DEC.)",
+  "example": "If she lived closer, we would see her more often.",
+  "fr": {
+   "exampleA": "Si elle habitait plus près, nous la verrions plus souvent.",
+   "exampleB": "Si elle habitait plus près, nous la verrions plus souvent."
+  },
+  "es": {
+   "exampleA": "Si viviera más cerca, la veríamos más a menudo.",
+   "exampleB": "Si viviera más cerca, la veríamos más a menudo."
+  }
+ },
+ {
+  "id": "r044",
+  "headword": "TO-INFINITIVE: WITH NOTIONAL SUBJECT",
+  "pos": "grammar",
+  "example": "The box is too heavy for me to carry.",
+  "fr": {
+   "exampleA": "Leur jardin est plus grand que le nôtre.",
+   "exampleB": "La boîte est trop lourde pour que je la porte."
+  },
+  "es": {
+   "exampleA": "La caja pesa demasiado para que yo la lleve.",
+   "exampleB": "La caja pesa demasiado para que yo la lleve."
+  }
+ },
+ {
+  "id": "r045",
+  "headword": "GET+PAST PARTICIPLE",
+  "pos": "grammar",
+  "example": "My bike got stolen outside the library.",
+  "fr": {
+   "exampleA": "On m'a volé mon vélo devant la bibliothèque.",
+   "exampleB": "On m'a volé mon vélo devant la bibliothèque."
+  },
+  "es": {
+   "exampleA": "Me robaron la bici delante de la biblioteca.",
+   "exampleB": "Me robaron la bici delante de la biblioteca."
+  }
+ },
+ {
+  "id": "r046",
+  "headword": "GET+PAST PARTICIPLE",
+  "pos": "grammar",
+  "example": "They got married last summer.",
+  "fr": {
+   "exampleA": "Ils se sont mariés l'été dernier.",
+   "exampleB": "Ils se sont mariés l'été dernier."
+  },
+  "es": {
+   "exampleA": "Se casaron el verano pasado.",
+   "exampleB": "Se casaron el verano pasado."
+  }
+ }
+]

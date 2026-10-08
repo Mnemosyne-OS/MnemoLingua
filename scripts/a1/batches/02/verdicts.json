@@ -1,0 +1,394 @@
+{
+ "decoys": {
+  "caught": 6,
+  "total": 6,
+  "missed": []
+ },
+ "toReview": 2,
+ "cards": {
+  "birth-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "birthday-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "biscuit-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "black-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "black-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "block-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "blow-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "blue-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "blue-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "board-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "boat-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "body-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "bone-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "book-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "bookstore-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "borrow-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "both-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "both-det": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "both-pron": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "bottle-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "bottom-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "bowl-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "box-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "boy-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "boyfriend-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "bread-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "break-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "breakfast-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "breathe-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "bridge-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "bright-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "bring-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "broken-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "brother-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "brown-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "brush-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "bucket-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "build-v": {
+   "check": "to-review",
+   "problems": [
+    "english: present simple is unnatural for an ongoing action; 'They are building a new house near us.'"
+   ]
+  },
+  "building-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "burger-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "bus-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "business-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "busy-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "but-conj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "butter-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "button-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "buy-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "by-prep": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "bye-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "cafe-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "cake-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "call-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "camera-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "camp-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "can-modal": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "cap-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "car-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "card-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "care-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "careful-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "carefully-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "carry-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "cartoon-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "case-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "cat-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "catch-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "cd-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "cd-player-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "celebrate-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "celebration-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "chair-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "change-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "change-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "character-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "check-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "chicken-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "child-n": {
+   "check": "to-review",
+   "problems": [
+    "es example: 'un hijo, una niña' clashes in gender; natural is 'Tienen una hija, una niña pequeña.'"
+   ]
+  },
+  "chocolate-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "choose-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "church-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "cinema-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "circle-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "city-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "class-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "classmate-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "clean-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "clean-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "clever-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "climb-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "clock-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "close-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "close-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "closed-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "cloth-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "clothes-n": {
+   "check": "two-pass",
+   "problems": []
+  }
+ }
+}

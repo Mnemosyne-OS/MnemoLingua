@@ -1,0 +1,225 @@
+{
+ "source": "CEFR-J Grammar Profile 20180315",
+ "themes": [
+  {
+   "id": "g-past-future",
+   "items": [
+    {
+     "id": "62",
+     "level": "A2.1",
+     "item": "TENSE/ASPECT: PRESENT PERFECT",
+     "type": "AFF. DEC."
+    },
+    {
+     "id": "64-1",
+     "level": "A2.1",
+     "item": "TENSE/ASPECT: PAST (BE)",
+     "type": "NEG. DEC."
+    },
+    {
+     "id": "66",
+     "level": "A2.1",
+     "item": "TENSE/ASPECT: PAST PROGRESSIVE",
+     "type": "AFF. DEC."
+    },
+    {
+     "id": "69",
+     "level": "A2.1",
+     "item": "TENSE/ASPECT: FUTURE",
+     "type": "AFF. DEC."
+    },
+    {
+     "id": "76",
+     "level": "A2.1",
+     "item": "PASSIVE: PAST",
+     "type": "AFF. DEC."
+    }
+   ]
+  },
+  {
+   "id": "g-present",
+   "items": [
+    {
+     "id": "65-1",
+     "level": "A2.1",
+     "item": "TENSE/ASPECT: PRESENT (lexical verbs)",
+     "type": "NEG. DEC."
+    },
+    {
+     "id": "65-2",
+     "level": "A2.1",
+     "item": "TENSE/ASPECT: PRESENT (lexical verbs)",
+     "type": "AFF. INT."
+    }
+   ]
+  },
+  {
+   "id": "g-modals",
+   "items": [
+    {
+     "id": "122",
+     "level": "A2.2",
+     "item": "MODAL/AUX: be going to",
+     "type": "AFF. DEC."
+    },
+    {
+     "id": "127",
+     "level": "A2.2",
+     "item": "MODAL/AUX: have to",
+     "type": "AFF. DEC."
+    },
+    {
+     "id": "136",
+     "level": "A2",
+     "item": "MODAL/AUX: need (to)",
+     "type": ""
+    },
+    {
+     "id": "139",
+     "level": "A2.1",
+     "item": "MODAL/AUX: should",
+     "type": "AFF. DEC."
+    },
+    {
+     "id": "141",
+     "level": "A2.2",
+     "item": "MODAL/AUX: will",
+     "type": "AFF. DEC."
+    },
+    {
+     "id": "142",
+     "level": "A2.1",
+     "item": "MODAL/AUX: would",
+     "type": "AFF. DEC."
+    },
+    {
+     "id": "249",
+     "level": "A2.1",
+     "item": "FUNCTIONAL QUESTION: Can you ...?",
+     "type": "AFF. INT."
+    }
+   ]
+  },
+  {
+   "id": "g-words",
+   "items": [
+    {
+     "id": "11",
+     "level": "A2.1",
+     "item": "This/That N",
+     "type": "AFF. DEC./NEG. DEC."
+    },
+    {
+     "id": "17",
+     "level": "A2.1",
+     "item": "DETERMINER: another",
+     "type": ""
+    },
+    {
+     "id": "25",
+     "level": "A2.1",
+     "item": "INDEFINITE PRONOUN/PROP-WORDS: ones (except for 'one')",
+     "type": ""
+    }
+   ]
+  },
+  {
+   "id": "g-compare",
+   "items": [
+    {
+     "id": "18",
+     "level": "A2.2",
+     "item": "much UNCOUNTABLE NOUN",
+     "type": ""
+    },
+    {
+     "id": "39",
+     "level": "A2.2",
+     "item": "COMPARATIVE OF SUPERIORITY: more+ADJ/ADV",
+     "type": ""
+    },
+    {
+     "id": "41",
+     "level": "A2.1",
+     "item": "SUPERLATIVE OF SUPERIORITY: most+ADJ/ADV",
+     "type": ""
+    }
+   ]
+  },
+  {
+   "id": "g-sentences",
+   "items": [
+    {
+     "id": "56",
+     "level": "A2.1",
+     "item": "PHRASAL VERBS (V+NP+PARTICLE)",
+     "type": ""
+    },
+    {
+     "id": "152",
+     "level": "A2.1",
+     "item": "V+that+CLAUSE",
+     "type": ""
+    },
+    {
+     "id": "156",
+     "level": "A2.1",
+     "item": "ADVERBIAL CLAUSE: if",
+     "type": ""
+    },
+    {
+     "id": "157",
+     "level": "A2.1",
+     "item": "ADVERBIAL CLAUSE: as",
+     "type": ""
+    },
+    {
+     "id": "196-1",
+     "level": "A2.1",
+     "item": "SENTENCE PATTERN: SUBJECT+V+OBJECT",
+     "type": "NEG. DEC."
+    },
+    {
+     "id": "200",
+     "level": "A2.2",
+     "item": "INDIRECT SPEECH: SAY/EXPLAIN/REPORT",
+     "type": ""
+    },
+    {
+     "id": "202",
+     "level": "A2.1",
+     "item": "INDIRECT QUESTION: DECIDE/EXPLAIN/KNOW/LEARN/SEE/UNDERSTAND/WONDER",
+     "type": ""
+    },
+    {
+     "id": "206",
+     "level": "A2.1",
+     "item": "HAVE/LET/MAKE+NP+INFINITIVE",
+     "type": ""
+    }
+   ]
+  }
+ ],
+ "left": [
+  {
+   "id": "114",
+   "item": "VERB OBJECT V-ING",
+   "why": "verb + object + -ing (I heard him singing): perception verbs, B1 in most courses"
+  },
+  {
+   "id": "168",
+   "item": "PREMODIFYING PRESENT PARTICIPLE",
+   "why": "pre-modifying present participle: a linguist category"
+  },
+  {
+   "id": "183",
+   "item": "COMPOUND RELATIVE PRONOUN:",
+   "why": "compound relative pronoun (whatever, whoever): B1 in most courses"
+  },
+  {
+   "id": "185",
+   "item": "RELATIVE ADVERB: WITH",
+   "why": "relative adverb, unnamed in the source: no form to teach"
+  }
+ ]
+}

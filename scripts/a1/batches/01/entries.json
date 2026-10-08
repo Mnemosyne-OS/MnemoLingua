@@ -1,0 +1,610 @@
+[
+ {
+  "id": "a-m-adv",
+  "headword": "a.m.",
+  "pos": "adverb",
+  "variants": [
+   "A.M.",
+   "am",
+   "AM"
+  ]
+ },
+ {
+  "id": "about-adv",
+  "headword": "about",
+  "pos": "adverb"
+ },
+ {
+  "id": "about-prep",
+  "headword": "about",
+  "pos": "preposition"
+ },
+ {
+  "id": "above-adv",
+  "headword": "above",
+  "pos": "adverb"
+ },
+ {
+  "id": "above-prep",
+  "headword": "above",
+  "pos": "preposition"
+ },
+ {
+  "id": "action-n",
+  "headword": "action",
+  "pos": "noun"
+ },
+ {
+  "id": "activity-n",
+  "headword": "activity",
+  "pos": "noun",
+  "sourceTopics": [
+   "Leisure activities",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "actor-n",
+  "headword": "actor",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "add-v",
+  "headword": "add",
+  "pos": "verb"
+ },
+ {
+  "id": "address-n",
+  "headword": "address",
+  "pos": "noun",
+  "sourceTopics": [
+   "Personal information",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "after-prep",
+  "headword": "after",
+  "pos": "preposition"
+ },
+ {
+  "id": "afternoon-n",
+  "headword": "afternoon",
+  "pos": "noun"
+ },
+ {
+  "id": "again-adv",
+  "headword": "again",
+  "pos": "adverb"
+ },
+ {
+  "id": "age-n",
+  "headword": "age",
+  "pos": "noun",
+  "sourceTopics": [
+   "Personal information",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "ago-adv",
+  "headword": "ago",
+  "pos": "adverb"
+ },
+ {
+  "id": "agree-v",
+  "headword": "agree",
+  "pos": "verb"
+ },
+ {
+  "id": "airplane-n",
+  "headword": "airplane",
+  "pos": "noun",
+  "variants": [
+   "aeroplane"
+  ],
+  "sourceTopics": [
+   "Ways of travelling",
+   "Travel"
+  ]
+ },
+ {
+  "id": "airport-n",
+  "headword": "airport",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel and services vocab",
+   "Travel"
+  ]
+ },
+ {
+  "id": "album-n",
+  "headword": "album",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Daily life"
+  ]
+ },
+ {
+  "id": "all-det",
+  "headword": "all",
+  "pos": "determiner"
+ },
+ {
+  "id": "all-right-adj",
+  "headword": "all right",
+  "pos": "adjective"
+ },
+ {
+  "id": "all-right-adv",
+  "headword": "all right",
+  "pos": "adverb"
+ },
+ {
+  "id": "almost-adv",
+  "headword": "almost",
+  "pos": "adverb"
+ },
+ {
+  "id": "alone-adv",
+  "headword": "alone",
+  "pos": "adverb"
+ },
+ {
+  "id": "along-adv",
+  "headword": "along",
+  "pos": "adverb"
+ },
+ {
+  "id": "already-adv",
+  "headword": "already",
+  "pos": "adverb"
+ },
+ {
+  "id": "also-adv",
+  "headword": "also",
+  "pos": "adverb"
+ },
+ {
+  "id": "always-adv",
+  "headword": "always",
+  "pos": "adverb"
+ },
+ {
+  "id": "am-be",
+  "headword": "am",
+  "pos": "be-verb"
+ },
+ {
+  "id": "an-det",
+  "headword": "an",
+  "pos": "determiner"
+ },
+ {
+  "id": "angry-adj",
+  "headword": "angry",
+  "pos": "adjective"
+ },
+ {
+  "id": "animal-n",
+  "headword": "animal",
+  "pos": "noun"
+ },
+ {
+  "id": "another-det",
+  "headword": "another",
+  "pos": "determiner"
+ },
+ {
+  "id": "answer-n",
+  "headword": "answer",
+  "pos": "noun"
+ },
+ {
+  "id": "answer-v",
+  "headword": "answer",
+  "pos": "verb"
+ },
+ {
+  "id": "any-det",
+  "headword": "any",
+  "pos": "determiner"
+ },
+ {
+  "id": "any-pron",
+  "headword": "any",
+  "pos": "pronoun"
+ },
+ {
+  "id": "anybody-pron",
+  "headword": "anybody",
+  "pos": "pronoun"
+ },
+ {
+  "id": "anyone-pron",
+  "headword": "anyone",
+  "pos": "pronoun"
+ },
+ {
+  "id": "anything-pron",
+  "headword": "anything",
+  "pos": "pronoun"
+ },
+ {
+  "id": "april-n",
+  "headword": "April",
+  "pos": "noun"
+ },
+ {
+  "id": "apron-n",
+  "headword": "apron",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "are-be",
+  "headword": "are",
+  "pos": "be-verb"
+ },
+ {
+  "id": "arm-n",
+  "headword": "arm",
+  "pos": "noun",
+  "sourceTopics": [
+   "Personal information",
+   "Health and body care"
+  ]
+ },
+ {
+  "id": "around-prep",
+  "headword": "around",
+  "pos": "preposition"
+ },
+ {
+  "id": "arrive-v",
+  "headword": "arrive",
+  "pos": "verb"
+ },
+ {
+  "id": "art-n",
+  "headword": "art",
+  "pos": "noun",
+  "sourceTopics": [
+   "Hobbies and pastimes",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "article-n",
+  "headword": "article",
+  "pos": "noun",
+  "sourceTopics": [
+   "Shopping",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "as-prep",
+  "headword": "as",
+  "pos": "preposition"
+ },
+ {
+  "id": "ask-v",
+  "headword": "ask",
+  "pos": "verb"
+ },
+ {
+  "id": "august-n",
+  "headword": "August",
+  "pos": "noun"
+ },
+ {
+  "id": "aunt-n",
+  "headword": "aunt",
+  "pos": "noun",
+  "sourceTopics": [
+   "Family life",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "autumn-n",
+  "headword": "autumn",
+  "pos": "noun"
+ },
+ {
+  "id": "awake-adj",
+  "headword": "awake",
+  "pos": "adjective"
+ },
+ {
+  "id": "away-adv",
+  "headword": "away",
+  "pos": "adverb"
+ },
+ {
+  "id": "baby-n",
+  "headword": "baby",
+  "pos": "noun",
+  "sourceTopics": [
+   "Family life",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "back-adv",
+  "headword": "back",
+  "pos": "adverb"
+ },
+ {
+  "id": "back-n",
+  "headword": "back",
+  "pos": "noun",
+  "sourceTopics": [
+   "Health and body care"
+  ]
+ },
+ {
+  "id": "bad-adj",
+  "headword": "bad",
+  "pos": "adjective"
+ },
+ {
+  "id": "bag-n",
+  "headword": "bag",
+  "pos": "noun",
+  "sourceTopics": [
+   "Shopping",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "banana-n",
+  "headword": "banana",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "band-n",
+  "headword": "band",
+  "pos": "noun",
+  "sourceTopics": [
+   "Clothes",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "bank-n",
+  "headword": "bank",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "Services"
+  ]
+ },
+ {
+  "id": "bar-n",
+  "headword": "bar",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "baseball-n",
+  "headword": "baseball",
+  "pos": "noun",
+  "sourceTopics": [
+   "Hobbies and pastimes",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "basketball-n",
+  "headword": "basketball",
+  "pos": "noun",
+  "sourceTopics": [
+   "Hobbies and pastimes",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "bat-n",
+  "headword": "bat",
+  "pos": "noun",
+  "sourceTopics": [
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "bath-n",
+  "headword": "bath",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "bathroom-n",
+  "headword": "bathroom",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "be-be",
+  "headword": "be",
+  "pos": "be-verb"
+ },
+ {
+  "id": "bean-n",
+  "headword": "bean",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "bear-n",
+  "headword": "bear",
+  "pos": "noun"
+ },
+ {
+  "id": "beautiful-adj",
+  "headword": "beautiful",
+  "pos": "adjective"
+ },
+ {
+  "id": "because-conj",
+  "headword": "because",
+  "pos": "conjunction"
+ },
+ {
+  "id": "become-v",
+  "headword": "become",
+  "pos": "verb"
+ },
+ {
+  "id": "bed-n",
+  "headword": "bed",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "bedroom-n",
+  "headword": "bedroom",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "bee-n",
+  "headword": "bee",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education"
+  ]
+ },
+ {
+  "id": "beef-n",
+  "headword": "beef",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "before-adv",
+  "headword": "before",
+  "pos": "adverb"
+ },
+ {
+  "id": "begin-v",
+  "headword": "begin",
+  "pos": "verb"
+ },
+ {
+  "id": "behind-adv",
+  "headword": "behind",
+  "pos": "adverb"
+ },
+ {
+  "id": "behind-prep",
+  "headword": "behind",
+  "pos": "preposition"
+ },
+ {
+  "id": "believe-v",
+  "headword": "believe",
+  "pos": "verb"
+ },
+ {
+  "id": "bell-n",
+  "headword": "bell",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "below-adv",
+  "headword": "below",
+  "pos": "adverb"
+ },
+ {
+  "id": "below-prep",
+  "headword": "below",
+  "pos": "preposition"
+ },
+ {
+  "id": "beside-prep",
+  "headword": "beside",
+  "pos": "preposition"
+ },
+ {
+  "id": "best-adj",
+  "headword": "best",
+  "pos": "adjective"
+ },
+ {
+  "id": "best-adv",
+  "headword": "best",
+  "pos": "adverb"
+ },
+ {
+  "id": "between-prep",
+  "headword": "between",
+  "pos": "preposition"
+ },
+ {
+  "id": "bicycle-n",
+  "headword": "bicycle",
+  "pos": "noun",
+  "sourceTopics": [
+   "Leisure activities",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "big-adj",
+  "headword": "big",
+  "pos": "adjective"
+ },
+ {
+  "id": "bike-n",
+  "headword": "bike",
+  "pos": "noun",
+  "sourceTopics": [
+   "Leisure activities",
+   "Travel"
+  ]
+ },
+ {
+  "id": "bird-n",
+  "headword": "bird",
+  "pos": "noun"
+ }
+]

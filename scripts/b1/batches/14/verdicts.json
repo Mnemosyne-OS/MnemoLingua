@@ -1,0 +1,390 @@
+{
+ "decoys": {
+  "caught": 6,
+  "total": 6,
+  "missed": []
+ },
+ "toReview": 0,
+ "cards": {
+  "leadership-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "leading-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "league-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "lean-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "leap-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "least-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "leave-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "lecture-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "legal-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "legally-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "length-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "lessen-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "lettuce-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "level-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "liar-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "liberate-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "liberation-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "librarian-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "lie-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "lifeguard-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "lifelong-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "lift-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "lift-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "light-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "lighter-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "lightly-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "lightning-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "like-conj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "likeness-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "limit-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "limit-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "limitation-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "limited-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "limp-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "link-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "link-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "liquid-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "liquid-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "literary-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "literature-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "little-det": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "little-pron": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "live-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "liver-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "loaf-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "locate-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "location-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "lock-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "lodge-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "log-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "logic-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "logo-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "lorry-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "loss-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "lottery-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "loud-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "loud-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "loudspeaker-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "lovingly-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "loyal-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "loyalty-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "luggage-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "lung-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "luxury-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "magical-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "magician-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "magnificent-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "mail-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "mailbox-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "main-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "maintain-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "maintenance-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "majority-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "male-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "management-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "mankind-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "maple-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "marble-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "march-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "march-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "marine-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "marked-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "market-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "marriage-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "mash-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "mass-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "massive-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "match-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "mathematician-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "mathematics-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "maximum-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "maximum-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "mayor-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "meaningful-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "meanwhile-adv": {
+   "check": "two-pass",
+   "problems": []
+  }
+ }
+}

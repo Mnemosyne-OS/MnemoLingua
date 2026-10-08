@@ -1,0 +1,952 @@
+{
+  "bunch-n": {
+    "gloss": {
+      "fr": "le bouquet",
+      "es": "el ramo"
+    },
+    "exampleGloss": {
+      "fr": "Il a acheté un bouquet de fleurs pour sa mère.",
+      "es": "Compró un ramo de flores para su madre."
+    }
+  },
+  "burden-n": {
+    "gloss": {
+      "fr": "le fardeau",
+      "es": "la carga"
+    },
+    "exampleGloss": {
+      "fr": "Elle ne voulait pas être un fardeau pour sa famille.",
+      "es": "No quería ser una carga para su familia."
+    }
+  },
+  "bureau-n": {
+    "gloss": {
+      "fr": "le bureau",
+      "es": "la oficina"
+    },
+    "exampleGloss": {
+      "fr": "Demandez une carte gratuite au bureau d'information touristique.",
+      "es": "Pide un mapa gratis en la oficina de información turística."
+    }
+  },
+  "burglar-n": {
+    "gloss": {
+      "fr": "le cambrioleur",
+      "es": "el ladrón"
+    },
+    "exampleGloss": {
+      "fr": "Un cambrioleur est entré chez nous pendant que nous étions en vacances.",
+      "es": "Un ladrón entró en nuestra casa mientras estábamos de vacaciones."
+    }
+  },
+  "burn-v": {
+    "gloss": {
+      "fr": "se brûler",
+      "es": "quemarse"
+    },
+    "exampleGloss": {
+      "fr": "Fais attention à ne pas te brûler la main sur la poêle chaude.",
+      "es": "Ten cuidado de no quemarte la mano con la sartén caliente."
+    }
+  },
+  "burning-adj": {
+    "gloss": {
+      "fr": "en feu",
+      "es": "en llamas"
+    },
+    "exampleGloss": {
+      "fr": "Les pompiers se sont précipités dans le bâtiment en feu.",
+      "es": "Los bomberos entraron corriendo en el edificio en llamas."
+    }
+  },
+  "burst-v": {
+    "gloss": {
+      "fr": "éclater",
+      "es": "estallar"
+    },
+    "exampleGloss": {
+      "fr": "Le ballon a éclaté quand il a touché la lampe chaude.",
+      "es": "El globo estalló cuando tocó la lámpara caliente."
+    }
+  },
+  "bust-v": {
+    "gloss": {
+      "fr": "casser",
+      "es": "romper"
+    },
+    "exampleGloss": {
+      "fr": "Fais attention ou tu vas casser la fermeture éclair de ce sac.",
+      "es": "Ten cuidado o vas a romper la cremallera de esa bolsa."
+    }
+  },
+  "but-prep": {
+    "gloss": {
+      "fr": "sauf",
+      "es": "menos"
+    },
+    "exampleGloss": {
+      "fr": "Tout le monde est venu à la fête sauf Tom.",
+      "es": "Todos vinieron a la fiesta menos Tom."
+    }
+  },
+  "butcher-n": {
+    "gloss": {
+      "fr": "le boucher",
+      "es": "el carnicero"
+    },
+    "exampleGloss": {
+      "fr": "J'ai acheté du poulet chez le boucher du coin.",
+      "es": "Compré pollo en la carnicería de la esquina."
+    }
+  },
+  "buyer-n": {
+    "gloss": {
+      "fr": "l'acheteur",
+      "es": "el comprador"
+    },
+    "exampleGloss": {
+      "fr": "Nous avons enfin trouvé un acheteur pour notre vieille voiture.",
+      "es": "Por fin encontramos un comprador para nuestro coche viejo."
+    }
+  },
+  "cabbage-n": {
+    "gloss": {
+      "fr": "le chou",
+      "es": "la col"
+    },
+    "exampleGloss": {
+      "fr": "Ma grand-mère fait de la soupe au chou et aux pommes de terre.",
+      "es": "Mi abuela hace sopa de col con patatas."
+    }
+  },
+  "cabin-n": {
+    "gloss": {
+      "fr": "la cabine",
+      "es": "el camarote"
+    },
+    "exampleGloss": {
+      "fr": "Notre cabine sur le bateau avait deux petits lits.",
+      "es": "Nuestro camarote en el barco tenía dos camas pequeñas."
+    }
+  },
+  "cage-n": {
+    "gloss": {
+      "fr": "la cage",
+      "es": "la jaula"
+    },
+    "exampleGloss": {
+      "fr": "L'oiseau chante joyeusement dans sa cage.",
+      "es": "El pájaro canta feliz en su jaula."
+    }
+  },
+  "calculate-v": {
+    "gloss": {
+      "fr": "calculer",
+      "es": "calcular"
+    },
+    "exampleGloss": {
+      "fr": "Tu peux calculer combien va coûter le voyage ?",
+      "es": "¿Puedes calcular cuánto costará el viaje?"
+    }
+  },
+  "calculation-n": {
+    "gloss": {
+      "fr": "le calcul",
+      "es": "el cálculo"
+    },
+    "exampleGloss": {
+      "fr": "J'ai fait une erreur dans mon calcul, donc la réponse était fausse.",
+      "es": "Me equivoqué en el cálculo, así que el resultado estaba mal."
+    }
+  },
+  "calculator-n": {
+    "gloss": {
+      "fr": "la calculatrice",
+      "es": "la calculadora"
+    },
+    "exampleGloss": {
+      "fr": "On peut utiliser une calculatrice à l'examen de maths.",
+      "es": "Se puede usar calculadora en el examen de matemáticas."
+    }
+  },
+  "calf-n": {
+    "gloss": {
+      "fr": "le veau",
+      "es": "el ternero"
+    },
+    "exampleGloss": {
+      "fr": "La vache se tenait dans le champ avec son veau nouveau-né.",
+      "es": "La vaca estaba en el prado con su ternero recién nacido."
+    }
+  },
+  "caller-n": {
+    "gloss": {
+      "fr": "la personne qui appelle",
+      "es": "la persona que llama"
+    },
+    "exampleGloss": {
+      "fr": "La personne qui a appelé n'a pas laissé de message, donc je ne sais pas qui c'était.",
+      "es": "La persona que llamó no dejó ningún mensaje, así que no sé quién era."
+    }
+  },
+  "calm-adj": {
+    "gloss": {
+      "fr": "calme",
+      "es": "tranquilo"
+    },
+    "exampleGloss": {
+      "fr": "La mer était calme et bleue ce matin.",
+      "es": "Esta mañana el mar estaba tranquilo y azul."
+    }
+  },
+  "calmness-n": {
+    "gloss": {
+      "fr": "le calme",
+      "es": "la calma"
+    },
+    "exampleGloss": {
+      "fr": "Son calme a aidé tout le monde pendant l'urgence.",
+      "es": "Su calma ayudó a todos durante la emergencia."
+    }
+  },
+  "camel-n": {
+    "gloss": {
+      "fr": "le chameau",
+      "es": "el camello"
+    },
+    "exampleGloss": {
+      "fr": "Nous avons traversé le désert à dos de chameau.",
+      "es": "Cruzamos el desierto montados en camello."
+    }
+  },
+  "campsite-n": {
+    "gloss": {
+      "fr": "le camping",
+      "es": "el camping"
+    },
+    "exampleGloss": {
+      "fr": "Le camping était au bord d'un lac tranquille.",
+      "es": "El camping estaba junto a un lago tranquilo."
+    }
+  },
+  "canal-n": {
+    "gloss": {
+      "fr": "le canal",
+      "es": "el canal"
+    },
+    "exampleGloss": {
+      "fr": "Les bateaux avancent lentement le long du vieux canal.",
+      "es": "Los barcos avanzan despacio por el viejo canal."
+    }
+  },
+  "cancel-v": {
+    "gloss": {
+      "fr": "annuler",
+      "es": "cancelar"
+    },
+    "exampleGloss": {
+      "fr": "Ils ont dû annuler le concert parce que le chanteur était malade.",
+      "es": "Tuvieron que cancelar el concierto porque el cantante estaba enfermo."
+    }
+  },
+  "cancer-n": {
+    "gloss": {
+      "fr": "le cancer",
+      "es": "el cáncer"
+    },
+    "exampleGloss": {
+      "fr": "Fumer augmente le risque de cancer.",
+      "es": "Fumar aumenta el riesgo de cáncer."
+    }
+  },
+  "candle-n": {
+    "gloss": {
+      "fr": "la bougie",
+      "es": "la vela"
+    },
+    "exampleGloss": {
+      "fr": "Nous avons allumé une bougie quand l'électricité a été coupée.",
+      "es": "Encendimos una vela cuando se fue la luz."
+    }
+  },
+  "canned-adj": {
+    "gloss": {
+      "fr": "en conserve",
+      "es": "en lata"
+    },
+    "exampleGloss": {
+      "fr": "Nous mangeons du poisson en conserve quand nous faisons du camping.",
+      "es": "Comemos pescado en lata cuando vamos de acampada."
+    }
+  },
+  "canteen-n": {
+    "gloss": {
+      "fr": "la cantine",
+      "es": "el comedor"
+    },
+    "exampleGloss": {
+      "fr": "Les élèves déjeunent à la cantine de l'école.",
+      "es": "Los alumnos comen en el comedor del colegio."
+    }
+  },
+  "capable-adj": {
+    "gloss": {
+      "fr": "capable",
+      "es": "capaz"
+    },
+    "exampleGloss": {
+      "fr": "Elle est capable de courir dix kilomètres sans s'arrêter.",
+      "es": "Es capaz de correr diez kilómetros sin parar."
+    }
+  },
+  "capacity-n": {
+    "gloss": {
+      "fr": "la capacité",
+      "es": "el aforo"
+    },
+    "exampleGloss": {
+      "fr": "Le stade a une capacité de cinquante mille personnes.",
+      "es": "El estadio tiene un aforo de cincuenta mil personas."
+    }
+  },
+  "capsule-n": {
+    "gloss": {
+      "fr": "la gélule",
+      "es": "la cápsula"
+    },
+    "exampleGloss": {
+      "fr": "Prenez une gélule avec de l'eau après chaque repas.",
+      "es": "Tome una cápsula con agua después de cada comida."
+    }
+  },
+  "capture-n": {
+    "gloss": {
+      "fr": "la capture",
+      "es": "la captura"
+    },
+    "exampleGloss": {
+      "fr": "La capture du voleur est passée au journal du soir.",
+      "es": "La captura del ladrón salió en las noticias de la noche."
+    }
+  },
+  "capture-v": {
+    "gloss": {
+      "fr": "capturer",
+      "es": "capturar"
+    },
+    "exampleGloss": {
+      "fr": "La police a capturé le prisonnier évadé près de la frontière.",
+      "es": "La policía capturó al preso fugado cerca de la frontera."
+    }
+  },
+  "care-v": {
+    "gloss": {
+      "fr": "tenir à",
+      "es": "preocuparse por"
+    },
+    "exampleGloss": {
+      "fr": "Je tiens vraiment à mes amis et à ma famille.",
+      "es": "Me preocupo mucho por mis amigos y mi familia."
+    }
+  },
+  "career-n": {
+    "gloss": {
+      "fr": "la carrière",
+      "es": "la carrera"
+    },
+    "exampleGloss": {
+      "fr": "Il a commencé sa carrière comme instituteur dans un petit village.",
+      "es": "Empezó su carrera como maestro en un pueblo pequeño."
+    }
+  },
+  "careless-adj": {
+    "gloss": {
+      "fr": "imprudent",
+      "es": "descuidado"
+    },
+    "exampleGloss": {
+      "fr": "C'était imprudent de ta part de laisser la porte ouverte.",
+      "es": "Fue un descuido por tu parte dejar la puerta abierta."
+    }
+  },
+  "carelessly-adv": {
+    "gloss": {
+      "fr": "par négligence",
+      "es": "por descuido"
+    },
+    "exampleGloss": {
+      "fr": "Il a fait tomber son téléphone dans l'eau par négligence.",
+      "es": "Se le cayó el móvil al agua por descuido."
+    }
+  },
+  "carelessness-n": {
+    "gloss": {
+      "fr": "la négligence",
+      "es": "el descuido"
+    },
+    "exampleGloss": {
+      "fr": "L'accident s'est produit à cause de la négligence du conducteur.",
+      "es": "El accidente ocurrió por un descuido del conductor."
+    }
+  },
+  "carpet-n": {
+    "gloss": {
+      "fr": "la moquette",
+      "es": "la moqueta"
+    },
+    "exampleGloss": {
+      "fr": "Nous avons mis une nouvelle moquette dans le salon.",
+      "es": "Pusimos una moqueta nueva en el salón."
+    }
+  },
+  "carriage-n": {
+    "gloss": {
+      "fr": "la voiture",
+      "es": "el vagón"
+    },
+    "exampleGloss": {
+      "fr": "Le train avait dix voitures remplies de passagers.",
+      "es": "El tren tenía diez vagones llenos de pasajeros."
+    }
+  },
+  "carton-n": {
+    "gloss": {
+      "fr": "la brique",
+      "es": "el cartón"
+    },
+    "exampleGloss": {
+      "fr": "Il y a une brique de lait dans le frigo.",
+      "es": "Hay un cartón de leche en la nevera."
+    }
+  },
+  "cashpoint-n": {
+    "gloss": {
+      "fr": "le distributeur",
+      "es": "el cajero automático"
+    },
+    "exampleGloss": {
+      "fr": "Je dois retirer de l'argent au distributeur.",
+      "es": "Tengo que sacar dinero del cajero."
+    }
+  },
+  "casual-adj": {
+    "gloss": {
+      "fr": "décontracté",
+      "es": "informal"
+    },
+    "exampleGloss": {
+      "fr": "Le vendredi, nous pouvons porter des vêtements décontractés au bureau.",
+      "es": "Los viernes podemos ir a la oficina con ropa informal."
+    }
+  },
+  "categorize-v": {
+    "gloss": {
+      "fr": "classer",
+      "es": "clasificar"
+    },
+    "exampleGloss": {
+      "fr": "Le bibliothécaire classe les livres par sujet.",
+      "es": "El bibliotecario clasifica los libros por temas."
+    }
+  },
+  "category-n": {
+    "gloss": {
+      "fr": "la catégorie",
+      "es": "la categoría"
+    },
+    "exampleGloss": {
+      "fr": "Ce film a gagné un prix dans la catégorie meilleure comédie.",
+      "es": "Esta película ganó un premio en la categoría de mejor comedia."
+    }
+  },
+  "cattle-n": {
+    "gloss": {
+      "fr": "le bétail",
+      "es": "el ganado"
+    },
+    "exampleGloss": {
+      "fr": "Le fermier a déplacé son bétail vers un champ plus vert.",
+      "es": "El granjero llevó su ganado a un prado más verde."
+    }
+  },
+  "caution-n": {
+    "gloss": {
+      "fr": "la prudence",
+      "es": "la precaución"
+    },
+    "exampleGloss": {
+      "fr": "Les conducteurs doivent faire preuve de prudence quand les routes sont verglacées.",
+      "es": "Los conductores deben tener precaución cuando hay hielo en la carretera."
+    }
+  },
+  "cautious-adj": {
+    "gloss": {
+      "fr": "prudent",
+      "es": "prudente"
+    },
+    "exampleGloss": {
+      "fr": "C'est une conductrice prudente qui ne roule jamais trop vite.",
+      "es": "Es una conductora prudente y nunca va demasiado rápido."
+    }
+  },
+  "cave-n": {
+    "gloss": {
+      "fr": "la grotte",
+      "es": "la cueva"
+    },
+    "exampleGloss": {
+      "fr": "Nous avons exploré une grotte sombre près de la plage.",
+      "es": "Exploramos una cueva oscura cerca de la playa."
+    }
+  },
+  "cd-rom-n": {
+    "gloss": {
+      "fr": "le CD-ROM",
+      "es": "el CD-ROM"
+    },
+    "exampleGloss": {
+      "fr": "Le dictionnaire était vendu avec un CD-ROM pour l'ordinateur.",
+      "es": "El diccionario venía con un CD-ROM para el ordenador."
+    }
+  },
+  "celebrity-n": {
+    "gloss": {
+      "fr": "la célébrité",
+      "es": "el famoso"
+    },
+    "exampleGloss": {
+      "fr": "Une célébrité de la télé mangeait à la table d'à côté.",
+      "es": "Un famoso de la tele estaba comiendo en la mesa de al lado."
+    }
+  },
+  "cell-n": {
+    "gloss": {
+      "fr": "la cellule",
+      "es": "la célula"
+    },
+    "exampleGloss": {
+      "fr": "Tous les êtres vivants sont constitués de cellules.",
+      "es": "Todos los seres vivos están formados por células."
+    }
+  },
+  "central-adj": {
+    "gloss": {
+      "fr": "central",
+      "es": "céntrico"
+    },
+    "exampleGloss": {
+      "fr": "Notre hôtel est bien situé, dans le centre, près de la place principale.",
+      "es": "Nuestro hotel está en una zona céntrica, cerca de la plaza mayor."
+    }
+  },
+  "central-heating-n": {
+    "gloss": {
+      "fr": "le chauffage central",
+      "es": "la calefacción central"
+    },
+    "exampleGloss": {
+      "fr": "Notre appartement a le chauffage central, donc il fait chaud en hiver.",
+      "es": "Nuestro piso tiene calefacción central, así que en invierno se está calentito."
+    }
+  },
+  "ceremony-n": {
+    "gloss": {
+      "fr": "la cérémonie",
+      "es": "la ceremonia"
+    },
+    "exampleGloss": {
+      "fr": "La cérémonie de mariage a eu lieu dans une petite église.",
+      "es": "La ceremonia de la boda se celebró en una pequeña iglesia."
+    }
+  },
+  "certainty-n": {
+    "gloss": {
+      "fr": "la certitude",
+      "es": "la certeza"
+    },
+    "exampleGloss": {
+      "fr": "Personne ne peut dire avec certitude ce qui se passera demain.",
+      "es": "Nadie puede decir con certeza lo que pasará mañana."
+    }
+  },
+  "challenging-adj": {
+    "gloss": {
+      "fr": "exigeant",
+      "es": "exigente"
+    },
+    "exampleGloss": {
+      "fr": "Apprendre une nouvelle langue est exigeant mais amusant.",
+      "es": "Aprender un idioma nuevo es exigente pero divertido."
+    }
+  },
+  "champion-n": {
+    "gloss": {
+      "fr": "le champion",
+      "es": "el campeón"
+    },
+    "exampleGloss": {
+      "fr": "Il est devenu champion national de tennis à dix-neuf ans.",
+      "es": "Se convirtió en campeón nacional de tenis a los diecinueve años."
+    }
+  },
+  "channel-n": {
+    "gloss": {
+      "fr": "la chaîne",
+      "es": "el canal"
+    },
+    "exampleGloss": {
+      "fr": "Qu'est-ce qu'il y a sur l'autre chaîne ce soir ?",
+      "es": "¿Qué echan esta noche en el otro canal?"
+    }
+  },
+  "chaos-n": {
+    "gloss": {
+      "fr": "le chaos",
+      "es": "el caos"
+    },
+    "exampleGloss": {
+      "fr": "Après la tempête, la ville était en plein chaos.",
+      "es": "Después de la tormenta, la ciudad era un caos."
+    }
+  },
+  "characteristic-n": {
+    "gloss": {
+      "fr": "la qualité",
+      "es": "la característica"
+    },
+    "exampleGloss": {
+      "fr": "La patience est une qualité importante d'un bon professeur.",
+      "es": "La paciencia es una característica importante de un buen profesor."
+    }
+  },
+  "characterize-v": {
+    "gloss": {
+      "fr": "caractériser",
+      "es": "caracterizar"
+    },
+    "exampleGloss": {
+      "fr": "Des étés chauds et des hivers froids caractérisent cette région.",
+      "es": "Los veranos calurosos y los inviernos fríos caracterizan esta región."
+    }
+  },
+  "charge-n": {
+    "gloss": {
+      "fr": "les frais",
+      "es": "el coste"
+    },
+    "exampleGloss": {
+      "fr": "Il n'y a pas de frais pour les enfants de moins de cinq ans.",
+      "es": "Para los niños menores de cinco años no hay ningún coste."
+    }
+  },
+  "charge-v": {
+    "gloss": {
+      "fr": "facturer",
+      "es": "cobrar"
+    },
+    "exampleGloss": {
+      "fr": "Le magasin facture la livraison cinq euros.",
+      "es": "La tienda cobra cinco euros por el envío."
+    }
+  },
+  "chariot-n": {
+    "gloss": {
+      "fr": "le char",
+      "es": "el carro"
+    },
+    "exampleGloss": {
+      "fr": "Dans le film, le roi se déplaçait sur un char tiré par des chevaux.",
+      "es": "En la película, el rey iba en un carro tirado por caballos."
+    }
+  },
+  "charity-n": {
+    "gloss": {
+      "fr": "l'association caritative",
+      "es": "la organización benéfica"
+    },
+    "exampleGloss": {
+      "fr": "Nous avons donné nos vieux vêtements à une association caritative.",
+      "es": "Donamos nuestra ropa vieja a una organización benéfica."
+    }
+  },
+  "charm-n": {
+    "gloss": {
+      "fr": "le charme",
+      "es": "el encanto"
+    },
+    "exampleGloss": {
+      "fr": "Le vieux village a beaucoup de charme.",
+      "es": "El viejo pueblo tiene mucho encanto."
+    }
+  },
+  "chase-n": {
+    "gloss": {
+      "fr": "la poursuite",
+      "es": "la persecución"
+    },
+    "exampleGloss": {
+      "fr": "Le film se termine par une poursuite en voiture palpitante.",
+      "es": "La película termina con una emocionante persecución en coche."
+    }
+  },
+  "chat-n": {
+    "gloss": {
+      "fr": "la discussion",
+      "es": "la charla"
+    },
+    "exampleGloss": {
+      "fr": "J'ai eu une longue discussion avec mon voisin ce matin.",
+      "es": "Esta mañana he tenido una larga charla con mi vecino."
+    }
+  },
+  "chat-show-n": {
+    "gloss": {
+      "fr": "le talk-show",
+      "es": "el programa de entrevistas"
+    },
+    "exampleGloss": {
+      "fr": "L'acteur a parlé de son nouveau film dans un talk-show.",
+      "es": "El actor habló de su nueva película en un programa de entrevistas."
+    }
+  },
+  "check-in-counter-n": {
+    "gloss": {
+      "fr": "le comptoir d'enregistrement",
+      "es": "el mostrador de facturación"
+    },
+    "exampleGloss": {
+      "fr": "Nous avons attendu dans une longue file au comptoir d'enregistrement.",
+      "es": "Esperamos en una larga cola en el mostrador de facturación."
+    }
+  },
+  "check-in-desk-n": {
+    "gloss": {
+      "fr": "le comptoir d'enregistrement",
+      "es": "el mostrador de facturación"
+    },
+    "exampleGloss": {
+      "fr": "Veuillez vous présenter au comptoir d'enregistrement deux heures avant votre vol.",
+      "es": "Por favor, acuda al mostrador de facturación dos horas antes de su vuelo."
+    }
+  },
+  "checkout-n": {
+    "gloss": {
+      "fr": "la caisse",
+      "es": "la caja"
+    },
+    "exampleGloss": {
+      "fr": "Il y avait une longue file d'attente à la caisse du supermarché.",
+      "es": "Había una cola larga en la caja del supermercado."
+    }
+  },
+  "cheerful-adj": {
+    "gloss": {
+      "fr": "joyeux",
+      "es": "alegre"
+    },
+    "exampleGloss": {
+      "fr": "Notre nouveau voisin est toujours joyeux et sympathique.",
+      "es": "Nuestro nuevo vecino siempre está alegre y es muy simpático."
+    }
+  },
+  "chemical-n": {
+    "gloss": {
+      "fr": "le produit chimique",
+      "es": "el producto químico"
+    },
+    "exampleGloss": {
+      "fr": "Les agriculteurs utilisent moins de produits chimiques pour les fruits bio.",
+      "es": "Los agricultores usan menos productos químicos en la fruta ecológica."
+    }
+  },
+  "chemist-n": {
+    "gloss": {
+      "fr": "le pharmacien",
+      "es": "el farmacéutico"
+    },
+    "exampleGloss": {
+      "fr": "Le pharmacien m'a donné un médicament contre la toux.",
+      "es": "El farmacéutico me dio un medicamento para la tos."
+    }
+  },
+  "chemistry-n": {
+    "gloss": {
+      "fr": "la chimie",
+      "es": "la química"
+    },
+    "exampleGloss": {
+      "fr": "Nous avons fait une expérience en cours de chimie aujourd'hui.",
+      "es": "Hoy hemos hecho un experimento en la clase de química."
+    }
+  },
+  "cherish-v": {
+    "gloss": {
+      "fr": "chérir",
+      "es": "atesorar"
+    },
+    "exampleGloss": {
+      "fr": "Je chérirai toujours les souvenirs de cet été-là.",
+      "es": "Siempre atesoraré los recuerdos de aquel verano."
+    }
+  },
+  "chest-of-drawers-n": {
+    "gloss": {
+      "fr": "la commode",
+      "es": "la cómoda"
+    },
+    "exampleGloss": {
+      "fr": "Mes chaussettes sont dans le tiroir du haut de la commode.",
+      "es": "Mis calcetines están en el cajón de arriba de la cómoda."
+    }
+  },
+  "chewing-gum-n": {
+    "gloss": {
+      "fr": "le chewing-gum",
+      "es": "el chicle"
+    },
+    "exampleGloss": {
+      "fr": "S'il te plaît, ne colle pas ton chewing-gum sous la table.",
+      "es": "Por favor, no pegues el chicle debajo de la mesa."
+    }
+  },
+  "chief-adj": {
+    "gloss": {
+      "fr": "principal",
+      "es": "principal"
+    },
+    "exampleGloss": {
+      "fr": "L'argent était la raison principale de sa décision.",
+      "es": "El dinero fue el motivo principal de su decisión."
+    }
+  },
+  "choir-n": {
+    "gloss": {
+      "fr": "la chorale",
+      "es": "el coro"
+    },
+    "exampleGloss": {
+      "fr": "Elle chante dans la chorale de l'école tous les jeudis.",
+      "es": "Canta en el coro del colegio todos los jueves."
+    }
+  },
+  "choke-v": {
+    "gloss": {
+      "fr": "s'étouffer",
+      "es": "atragantarse"
+    },
+    "exampleGloss": {
+      "fr": "Le bébé a failli s'étouffer avec un petit morceau de pomme.",
+      "es": "El bebé casi se atraganta con un trocito de manzana."
+    }
+  },
+  "christian-adj": {
+    "gloss": {
+      "fr": "chrétien",
+      "es": "cristiano"
+    },
+    "exampleGloss": {
+      "fr": "Noël est une fête chrétienne importante.",
+      "es": "La Navidad es una fiesta cristiana importante."
+    }
+  },
+  "chronological-adj": {
+    "gloss": {
+      "fr": "chronologique",
+      "es": "cronológico"
+    },
+    "exampleGloss": {
+      "fr": "Mettez ces événements historiques dans l'ordre chronologique.",
+      "es": "Ordena estos acontecimientos históricos por orden cronológico."
+    }
+  },
+  "chuckle-n": {
+    "gloss": {
+      "fr": "le petit rire",
+      "es": "la risita"
+    },
+    "exampleGloss": {
+      "fr": "Il a eu un petit rire discret en lisant la blague.",
+      "es": "Soltó una risita al leer el chiste."
+    }
+  },
+  "circle-v": {
+    "gloss": {
+      "fr": "tourner autour de",
+      "es": "sobrevolar en círculos"
+    },
+    "exampleGloss": {
+      "fr": "L'avion a tourné au-dessus de l'aéroport avant d'atterrir.",
+      "es": "El avión sobrevoló el aeropuerto en círculos antes de aterrizar."
+    }
+  },
+  "circular-adj": {
+    "gloss": {
+      "fr": "circulaire",
+      "es": "circular"
+    },
+    "exampleGloss": {
+      "fr": "Nous avons suivi un sentier circulaire autour du lac.",
+      "es": "Seguimos un sendero circular alrededor del lago."
+    }
+  },
+  "circus-n": {
+    "gloss": {
+      "fr": "le cirque",
+      "es": "el circo"
+    },
+    "exampleGloss": {
+      "fr": "Les enfants ont ri des clowns au cirque.",
+      "es": "Los niños se rieron con los payasos en el circo."
+    }
+  },
+  "citizenship-n": {
+    "gloss": {
+      "fr": "la nationalité",
+      "es": "la ciudadanía"
+    },
+    "exampleGloss": {
+      "fr": "Après dix ans au Canada, elle a demandé la nationalité.",
+      "es": "Después de diez años en Canadá, solicitó la ciudadanía."
+    }
+  },
+  "civil-adj": {
+    "gloss": {
+      "fr": "civil",
+      "es": "civil"
+    },
+    "exampleGloss": {
+      "fr": "Le pays a subi une longue guerre civile.",
+      "es": "El país sufrió una larga guerra civil."
+    }
+  },
+  "civilization-n": {
+    "gloss": {
+      "fr": "la civilisation",
+      "es": "la civilización"
+    },
+    "exampleGloss": {
+      "fr": "Les anciens Égyptiens ont bâti une grande civilisation le long du Nil.",
+      "es": "Los antiguos egipcios construyeron una gran civilización a orillas del Nilo."
+    }
+  },
+  "claim-n": {
+    "gloss": {
+      "fr": "l'affirmation",
+      "es": "la afirmación"
+    },
+    "exampleGloss": {
+      "fr": "Personne n'a cru son affirmation selon laquelle il avait rencontré le président.",
+      "es": "Nadie creyó su afirmación de que había conocido al presidente."
+    }
+  },
+  "classical-adj": {
+    "gloss": {
+      "fr": "classique",
+      "es": "clásico"
+    },
+    "exampleGloss": {
+      "fr": "Mon père adore écouter de la musique classique.",
+      "es": "A mi padre le encanta escuchar música clásica."
+    }
+  }
+}

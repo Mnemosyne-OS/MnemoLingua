@@ -1,0 +1,536 @@
+[
+ {
+  "id": "classify-v",
+  "headword": "classify",
+  "pos": "verb"
+ },
+ {
+  "id": "clear-v",
+  "headword": "clear",
+  "pos": "verb"
+ },
+ {
+  "id": "click-n",
+  "headword": "click",
+  "pos": "noun"
+ },
+ {
+  "id": "cliff-n",
+  "headword": "cliff",
+  "pos": "noun"
+ },
+ {
+  "id": "climate-n",
+  "headword": "climate",
+  "pos": "noun",
+  "sourceTopics": [
+   "Weather"
+  ]
+ },
+ {
+  "id": "climber-n",
+  "headword": "climber",
+  "pos": "noun",
+  "sourceTopics": [
+   "Leisure activities",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "clinic-n",
+  "headword": "clinic",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "Health and body care"
+  ]
+ },
+ {
+  "id": "clip-n",
+  "headword": "clip",
+  "pos": "noun"
+ },
+ {
+  "id": "closely-adv",
+  "headword": "closely",
+  "pos": "adverb"
+ },
+ {
+  "id": "coal-n",
+  "headword": "coal",
+  "pos": "noun"
+ },
+ {
+  "id": "coast-v",
+  "headword": "coast",
+  "pos": "verb"
+ },
+ {
+  "id": "coastal-adj",
+  "headword": "coastal",
+  "pos": "adjective"
+ },
+ {
+  "id": "cod-n",
+  "headword": "cod",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "coffin-n",
+  "headword": "coffin",
+  "pos": "noun"
+ },
+ {
+  "id": "collapse-n",
+  "headword": "collapse",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs"
+  ]
+ },
+ {
+  "id": "collar-n",
+  "headword": "collar",
+  "pos": "noun",
+  "sourceTopics": [
+   "Clothes",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "columnist-n",
+  "headword": "columnist",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "combination-n",
+  "headword": "combination",
+  "pos": "noun"
+ },
+ {
+  "id": "combine-v",
+  "headword": "combine",
+  "pos": "verb"
+ },
+ {
+  "id": "comedian-n",
+  "headword": "comedian",
+  "pos": "noun",
+  "sourceTopics": [
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "comedy-n",
+  "headword": "comedy",
+  "pos": "noun",
+  "sourceTopics": [
+   "Hobbies and pastimes",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "comet-n",
+  "headword": "comet",
+  "pos": "noun"
+ },
+ {
+  "id": "comfort-n",
+  "headword": "comfort",
+  "pos": "noun"
+ },
+ {
+  "id": "comma-n",
+  "headword": "comma",
+  "pos": "noun"
+ },
+ {
+  "id": "command-n",
+  "headword": "command",
+  "pos": "noun"
+ },
+ {
+  "id": "comment-n",
+  "headword": "comment",
+  "pos": "noun"
+ },
+ {
+  "id": "commercial-adj",
+  "headword": "commercial",
+  "pos": "adjective"
+ },
+ {
+  "id": "commit-v",
+  "headword": "commit",
+  "pos": "verb"
+ },
+ {
+  "id": "common-sense-n",
+  "headword": "common sense",
+  "pos": "noun"
+ },
+ {
+  "id": "commonly-adv",
+  "headword": "commonly",
+  "pos": "adverb"
+ },
+ {
+  "id": "companion-n",
+  "headword": "companion",
+  "pos": "noun"
+ },
+ {
+  "id": "comparison-n",
+  "headword": "comparison",
+  "pos": "noun"
+ },
+ {
+  "id": "compete-v",
+  "headword": "compete",
+  "pos": "verb"
+ },
+ {
+  "id": "competitive-adj",
+  "headword": "competitive",
+  "pos": "adjective"
+ },
+ {
+  "id": "competitor-n",
+  "headword": "competitor",
+  "pos": "noun"
+ },
+ {
+  "id": "complement-n",
+  "headword": "complement",
+  "pos": "noun"
+ },
+ {
+  "id": "complete-v",
+  "headword": "complete",
+  "pos": "verb"
+ },
+ {
+  "id": "completely-adv",
+  "headword": "completely",
+  "pos": "adverb"
+ },
+ {
+  "id": "complex-adj",
+  "headword": "complex",
+  "pos": "adjective"
+ },
+ {
+  "id": "complicate-v",
+  "headword": "complicate",
+  "pos": "verb"
+ },
+ {
+  "id": "complicated-adj",
+  "headword": "complicated",
+  "pos": "adjective"
+ },
+ {
+  "id": "compliment-n",
+  "headword": "compliment",
+  "pos": "noun"
+ },
+ {
+  "id": "compose-v",
+  "headword": "compose",
+  "pos": "verb"
+ },
+ {
+  "id": "composition-n",
+  "headword": "composition",
+  "pos": "noun"
+ },
+ {
+  "id": "compound-n",
+  "headword": "compound",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education"
+  ]
+ },
+ {
+  "id": "compromise-n",
+  "headword": "compromise",
+  "pos": "noun"
+ },
+ {
+  "id": "concentration-n",
+  "headword": "concentration",
+  "pos": "noun"
+ },
+ {
+  "id": "concept-n",
+  "headword": "concept",
+  "pos": "noun"
+ },
+ {
+  "id": "concerned-adj",
+  "headword": "concerned",
+  "pos": "adjective"
+ },
+ {
+  "id": "conclude-v",
+  "headword": "conclude",
+  "pos": "verb"
+ },
+ {
+  "id": "conclusion-n",
+  "headword": "conclusion",
+  "pos": "noun"
+ },
+ {
+  "id": "conduct-n",
+  "headword": "conduct",
+  "pos": "noun"
+ },
+ {
+  "id": "confidence-n",
+  "headword": "confidence",
+  "pos": "noun"
+ },
+ {
+  "id": "confirm-v",
+  "headword": "confirm",
+  "pos": "verb"
+ },
+ {
+  "id": "confirmation-n",
+  "headword": "confirmation",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel and services vocab"
+  ]
+ },
+ {
+  "id": "conflict-n",
+  "headword": "conflict",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs"
+  ]
+ },
+ {
+  "id": "confusing-adj",
+  "headword": "confusing",
+  "pos": "adjective"
+ },
+ {
+  "id": "confusion-n",
+  "headword": "confusion",
+  "pos": "noun"
+ },
+ {
+  "id": "congratulate-v",
+  "headword": "congratulate",
+  "pos": "verb"
+ },
+ {
+  "id": "connect-v",
+  "headword": "connect",
+  "pos": "verb"
+ },
+ {
+  "id": "connection-n",
+  "headword": "connection",
+  "pos": "noun",
+  "variants": [
+   "connexion"
+  ]
+ },
+ {
+  "id": "conquer-v",
+  "headword": "conquer",
+  "pos": "verb"
+ },
+ {
+  "id": "conscious-adj",
+  "headword": "conscious",
+  "pos": "adjective"
+ },
+ {
+  "id": "consequently-adv",
+  "headword": "consequently",
+  "pos": "adverb"
+ },
+ {
+  "id": "conservation-n",
+  "headword": "conservation",
+  "pos": "noun"
+ },
+ {
+  "id": "conservative-adj",
+  "headword": "conservative",
+  "pos": "adjective"
+ },
+ {
+  "id": "considerable-adj",
+  "headword": "considerable",
+  "pos": "adjective"
+ },
+ {
+  "id": "consideration-n",
+  "headword": "consideration",
+  "pos": "noun"
+ },
+ {
+  "id": "consonant-n",
+  "headword": "consonant",
+  "pos": "noun"
+ },
+ {
+  "id": "constantly-adv",
+  "headword": "constantly",
+  "pos": "adverb"
+ },
+ {
+  "id": "constitute-v",
+  "headword": "constitute",
+  "pos": "verb"
+ },
+ {
+  "id": "constitution-n",
+  "headword": "constitution",
+  "pos": "noun"
+ },
+ {
+  "id": "construct-v",
+  "headword": "construct",
+  "pos": "verb"
+ },
+ {
+  "id": "construction-n",
+  "headword": "construction",
+  "pos": "noun"
+ },
+ {
+  "id": "consume-v",
+  "headword": "consume",
+  "pos": "verb"
+ },
+ {
+  "id": "consumer-n",
+  "headword": "consumer",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "consumption-n",
+  "headword": "consumption",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs"
+  ]
+ },
+ {
+  "id": "contain-v",
+  "headword": "contain",
+  "pos": "verb"
+ },
+ {
+  "id": "content-n",
+  "headword": "content",
+  "pos": "noun"
+ },
+ {
+  "id": "continual-adj",
+  "headword": "continual",
+  "pos": "adjective"
+ },
+ {
+  "id": "continually-adv",
+  "headword": "continually",
+  "pos": "adverb"
+ },
+ {
+  "id": "continuous-adj",
+  "headword": "continuous",
+  "pos": "adjective"
+ },
+ {
+  "id": "continuously-adv",
+  "headword": "continuously",
+  "pos": "adverb"
+ },
+ {
+  "id": "contrary-adj",
+  "headword": "contrary",
+  "pos": "adjective"
+ },
+ {
+  "id": "contribute-v",
+  "headword": "contribute",
+  "pos": "verb"
+ },
+ {
+  "id": "contribution-n",
+  "headword": "contribution",
+  "pos": "noun"
+ },
+ {
+  "id": "control-v",
+  "headword": "control",
+  "pos": "verb"
+ },
+ {
+  "id": "controversial-adj",
+  "headword": "controversial",
+  "pos": "adjective"
+ },
+ {
+  "id": "convey-v",
+  "headword": "convey",
+  "pos": "verb"
+ },
+ {
+  "id": "convince-v",
+  "headword": "convince",
+  "pos": "verb"
+ },
+ {
+  "id": "copyright-n",
+  "headword": "copyright",
+  "pos": "noun",
+  "sourceTopics": [
+   "Books and literature"
+  ]
+ },
+ {
+  "id": "correction-n",
+  "headword": "correction",
+  "pos": "noun"
+ },
+ {
+  "id": "cotton-n",
+  "headword": "cotton",
+  "pos": "noun",
+  "sourceTopics": [
+   "Clothes",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "cough-v",
+  "headword": "cough",
+  "pos": "verb"
+ },
+ {
+  "id": "council-n",
+  "headword": "council",
+  "pos": "noun"
+ }
+]

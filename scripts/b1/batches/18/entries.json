@@ -1,0 +1,606 @@
+[
+ {
+  "id": "plenty-pron",
+  "headword": "plenty",
+  "pos": "pronoun"
+ },
+ {
+  "id": "plug-n",
+  "headword": "plug",
+  "pos": "noun"
+ },
+ {
+  "id": "plus-conj",
+  "headword": "plus",
+  "pos": "conjunction"
+ },
+ {
+  "id": "pocket-money-n",
+  "headword": "pocket money",
+  "pos": "noun",
+  "sourceTopics": [
+   "Shopping"
+  ]
+ },
+ {
+  "id": "poet-n",
+  "headword": "poet",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "poetry-n",
+  "headword": "poetry",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "poison-n",
+  "headword": "poison",
+  "pos": "noun",
+  "sourceTopics": [
+   "Health and body care"
+  ]
+ },
+ {
+  "id": "poisonous-adj",
+  "headword": "poisonous",
+  "pos": "adjective"
+ },
+ {
+  "id": "pole-n",
+  "headword": "pole",
+  "pos": "noun"
+ },
+ {
+  "id": "policy-n",
+  "headword": "policy",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs"
+  ]
+ },
+ {
+  "id": "politely-adv",
+  "headword": "politely",
+  "pos": "adverb"
+ },
+ {
+  "id": "politician-n",
+  "headword": "politician",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "politics-n",
+  "headword": "politics",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs",
+   "Education"
+  ]
+ },
+ {
+  "id": "pollutant-n",
+  "headword": "pollutant",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs"
+  ]
+ },
+ {
+  "id": "pond-n",
+  "headword": "pond",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "popcorn-n",
+  "headword": "popcorn",
+  "pos": "noun"
+ },
+ {
+  "id": "pork-n",
+  "headword": "pork",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "port-n",
+  "headword": "port",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "Travel"
+  ]
+ },
+ {
+  "id": "positive-adj",
+  "headword": "positive",
+  "pos": "adjective"
+ },
+ {
+  "id": "positively-adv",
+  "headword": "positively",
+  "pos": "adverb"
+ },
+ {
+  "id": "possess-v",
+  "headword": "possess",
+  "pos": "verb"
+ },
+ {
+  "id": "possession-n",
+  "headword": "possession",
+  "pos": "noun"
+ },
+ {
+  "id": "possessive-adj",
+  "headword": "possessive",
+  "pos": "adjective"
+ },
+ {
+  "id": "possibility-n",
+  "headword": "possibility",
+  "pos": "noun"
+ },
+ {
+  "id": "postcard-n",
+  "headword": "postcard",
+  "pos": "noun",
+  "sourceTopics": [
+   "Media",
+   "Relations with other people"
+  ]
+ },
+ {
+  "id": "postman-n",
+  "headword": "postman",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "pot-n",
+  "headword": "pot",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "potential-n",
+  "headword": "potential",
+  "pos": "noun"
+ },
+ {
+  "id": "pottery-n",
+  "headword": "pottery",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "pound-n",
+  "headword": "pound",
+  "pos": "noun"
+ },
+ {
+  "id": "poverty-n",
+  "headword": "poverty",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs"
+  ]
+ },
+ {
+  "id": "powder-n",
+  "headword": "powder",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "practical-adj",
+  "headword": "practical",
+  "pos": "adjective"
+ },
+ {
+  "id": "praise-n",
+  "headword": "praise",
+  "pos": "noun"
+ },
+ {
+  "id": "prayer-n",
+  "headword": "prayer",
+  "pos": "noun",
+  "sourceTopics": [
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "precious-adj",
+  "headword": "precious",
+  "pos": "adjective"
+ },
+ {
+  "id": "preference-n",
+  "headword": "preference",
+  "pos": "noun",
+  "sourceTopics": [
+   "Personal information",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "prefix-n",
+  "headword": "prefix",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education"
+  ]
+ },
+ {
+  "id": "pregnant-adj",
+  "headword": "pregnant",
+  "pos": "adjective"
+ },
+ {
+  "id": "prejudice-n",
+  "headword": "prejudice",
+  "pos": "noun"
+ },
+ {
+  "id": "preparation-n",
+  "headword": "preparation",
+  "pos": "noun"
+ },
+ {
+  "id": "prepared-adj",
+  "headword": "prepared",
+  "pos": "adjective"
+ },
+ {
+  "id": "preposition-n",
+  "headword": "preposition",
+  "pos": "noun"
+ },
+ {
+  "id": "preschool-adj",
+  "headword": "preschool",
+  "pos": "adjective"
+ },
+ {
+  "id": "prescription-n",
+  "headword": "prescription",
+  "pos": "noun"
+ },
+ {
+  "id": "presence-n",
+  "headword": "presence",
+  "pos": "noun"
+ },
+ {
+  "id": "present-adj",
+  "headword": "present",
+  "pos": "adjective"
+ },
+ {
+  "id": "presentation-n",
+  "headword": "presentation",
+  "pos": "noun"
+ },
+ {
+  "id": "preservation-n",
+  "headword": "preservation",
+  "pos": "noun"
+ },
+ {
+  "id": "preserve-v",
+  "headword": "preserve",
+  "pos": "verb"
+ },
+ {
+  "id": "president-n",
+  "headword": "president",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "press-n",
+  "headword": "press",
+  "pos": "noun"
+ },
+ {
+  "id": "press-v",
+  "headword": "press",
+  "pos": "verb"
+ },
+ {
+  "id": "previous-adj",
+  "headword": "previous",
+  "pos": "adjective"
+ },
+ {
+  "id": "priest-n",
+  "headword": "priest",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "primarily-adv",
+  "headword": "primarily",
+  "pos": "adverb"
+ },
+ {
+  "id": "primary-school-n",
+  "headword": "primary school",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Education"
+  ]
+ },
+ {
+  "id": "primitive-adj",
+  "headword": "primitive",
+  "pos": "adjective"
+ },
+ {
+  "id": "principle-n",
+  "headword": "principle",
+  "pos": "noun"
+ },
+ {
+  "id": "print-n",
+  "headword": "print",
+  "pos": "noun",
+  "sourceTopics": [
+   "Media"
+  ]
+ },
+ {
+  "id": "prison-n",
+  "headword": "prison",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "prisoner-n",
+  "headword": "prisoner",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs",
+   "Relations with other people"
+  ]
+ },
+ {
+  "id": "privacy-n",
+  "headword": "privacy",
+  "pos": "noun"
+ },
+ {
+  "id": "prize-n",
+  "headword": "prize",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs"
+  ]
+ },
+ {
+  "id": "probability-n",
+  "headword": "probability",
+  "pos": "noun"
+ },
+ {
+  "id": "proceed-v",
+  "headword": "proceed",
+  "pos": "verb"
+ },
+ {
+  "id": "process-n",
+  "headword": "process",
+  "pos": "noun"
+ },
+ {
+  "id": "proclaim-v",
+  "headword": "proclaim",
+  "pos": "verb"
+ },
+ {
+  "id": "procrastination-n",
+  "headword": "procrastination",
+  "pos": "noun"
+ },
+ {
+  "id": "producer-n",
+  "headword": "producer",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "productive-adj",
+  "headword": "productive",
+  "pos": "adjective"
+ },
+ {
+  "id": "profession-n",
+  "headword": "profession",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "professor-n",
+  "headword": "professor",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "program-v",
+  "headword": "program",
+  "pos": "verb",
+  "variants": [
+   "programme"
+  ]
+ },
+ {
+  "id": "progress-n",
+  "headword": "progress",
+  "pos": "noun"
+ },
+ {
+  "id": "prohibition-n",
+  "headword": "prohibition",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs"
+  ]
+ },
+ {
+  "id": "prominent-adj",
+  "headword": "prominent",
+  "pos": "adjective"
+ },
+ {
+  "id": "promise-v",
+  "headword": "promise",
+  "pos": "verb"
+ },
+ {
+  "id": "promote-v",
+  "headword": "promote",
+  "pos": "verb"
+ },
+ {
+  "id": "promotion-n",
+  "headword": "promotion",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs"
+  ]
+ },
+ {
+  "id": "pronoun-n",
+  "headword": "pronoun",
+  "pos": "noun"
+ },
+ {
+  "id": "proof-n",
+  "headword": "proof",
+  "pos": "noun"
+ },
+ {
+  "id": "properly-adv",
+  "headword": "properly",
+  "pos": "adverb"
+ },
+ {
+  "id": "property-n",
+  "headword": "property",
+  "pos": "noun",
+  "sourceTopics": [
+   "Personal information"
+  ]
+ },
+ {
+  "id": "proportion-n",
+  "headword": "proportion",
+  "pos": "noun"
+ },
+ {
+  "id": "proposal-n",
+  "headword": "proposal",
+  "pos": "noun",
+  "sourceTopics": [
+   "Relations with other people"
+  ]
+ },
+ {
+  "id": "propose-v",
+  "headword": "propose",
+  "pos": "verb"
+ },
+ {
+  "id": "prosperity-n",
+  "headword": "prosperity",
+  "pos": "noun"
+ },
+ {
+  "id": "prosperous-adj",
+  "headword": "prosperous",
+  "pos": "adjective"
+ },
+ {
+  "id": "protect-v",
+  "headword": "protect",
+  "pos": "verb"
+ },
+ {
+  "id": "protection-n",
+  "headword": "protection",
+  "pos": "noun"
+ },
+ {
+  "id": "protective-adj",
+  "headword": "protective",
+  "pos": "adjective"
+ },
+ {
+  "id": "protest-n",
+  "headword": "protest",
+  "pos": "noun",
+  "sourceTopics": [
+   "Relations with other people"
+  ]
+ },
+ {
+  "id": "proud-adj",
+  "headword": "proud",
+  "pos": "adjective"
+ },
+ {
+  "id": "prove-v",
+  "headword": "prove",
+  "pos": "verb"
+ }
+]

@@ -1,0 +1,608 @@
+[
+ {
+  "id": "can-n",
+  "headword": "can",
+  "pos": "noun",
+  "sourceTopics": [
+   "Shopping"
+  ]
+ },
+ {
+  "id": "capital-n",
+  "headword": "capital",
+  "pos": "noun",
+  "sourceTopics": [
+   "Places"
+  ]
+ },
+ {
+  "id": "capital-letter-n",
+  "headword": "capital letter",
+  "pos": "noun",
+  "sourceTopics": [
+   "Language"
+  ]
+ },
+ {
+  "id": "captain-n",
+  "headword": "captain",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "car-park-n",
+  "headword": "car park",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel"
+  ]
+ },
+ {
+  "id": "carrot-n",
+  "headword": "carrot",
+  "pos": "noun",
+  "sourceTopics": [
+   "Shopping"
+  ]
+ },
+ {
+  "id": "cash-n",
+  "headword": "cash",
+  "pos": "noun",
+  "sourceTopics": [
+   "Shopping",
+   "Services"
+  ]
+ },
+ {
+  "id": "cassette-n",
+  "headword": "cassette",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "castle-n",
+  "headword": "castle",
+  "pos": "noun",
+  "sourceTopics": [
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "cause-v",
+  "headword": "cause",
+  "pos": "verb"
+ },
+ {
+  "id": "cent-n",
+  "headword": "cent",
+  "pos": "noun"
+ },
+ {
+  "id": "center-n",
+  "headword": "center",
+  "pos": "noun",
+  "variants": [
+   "centre"
+  ]
+ },
+ {
+  "id": "centimeter-n",
+  "headword": "centimeter",
+  "pos": "noun",
+  "variants": [
+   "centimetre"
+  ]
+ },
+ {
+  "id": "century-n",
+  "headword": "century",
+  "pos": "noun"
+ },
+ {
+  "id": "cereal-n",
+  "headword": "cereal",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "certain-adj",
+  "headword": "certain",
+  "pos": "adjective"
+ },
+ {
+  "id": "certainly-adv",
+  "headword": "certainly",
+  "pos": "adverb"
+ },
+ {
+  "id": "chain-n",
+  "headword": "chain",
+  "pos": "noun"
+ },
+ {
+  "id": "chairman-n",
+  "headword": "chairman",
+  "pos": "noun"
+ },
+ {
+  "id": "challenge-n",
+  "headword": "challenge",
+  "pos": "noun"
+ },
+ {
+  "id": "champagne-n",
+  "headword": "champagne",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "championship-n",
+  "headword": "championship",
+  "pos": "noun"
+ },
+ {
+  "id": "chance-n",
+  "headword": "chance",
+  "pos": "noun"
+ },
+ {
+  "id": "chapter-n",
+  "headword": "chapter",
+  "pos": "noun",
+  "sourceTopics": [
+   "Books and literature",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "chart-n",
+  "headword": "chart",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Education"
+  ]
+ },
+ {
+  "id": "chat-v",
+  "headword": "chat",
+  "pos": "verb"
+ },
+ {
+  "id": "cheap-adj",
+  "headword": "cheap",
+  "pos": "adjective"
+ },
+ {
+  "id": "check-v",
+  "headword": "check",
+  "pos": "verb"
+ },
+ {
+  "id": "cheek-n",
+  "headword": "cheek",
+  "pos": "noun",
+  "sourceTopics": [
+   "Health and body care"
+  ]
+ },
+ {
+  "id": "cheer-v",
+  "headword": "cheer",
+  "pos": "verb"
+ },
+ {
+  "id": "chef-n",
+  "headword": "chef",
+  "pos": "noun",
+  "sourceTopics": [
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "chemical-adj",
+  "headword": "chemical",
+  "pos": "adjective"
+ },
+ {
+  "id": "cheque-n",
+  "headword": "cheque",
+  "pos": "noun",
+  "sourceTopics": [
+   "Services"
+  ]
+ },
+ {
+  "id": "chess-n",
+  "headword": "chess",
+  "pos": "noun",
+  "sourceTopics": [
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "chest-n",
+  "headword": "chest",
+  "pos": "noun",
+  "sourceTopics": [
+   "Health and body care"
+  ]
+ },
+ {
+  "id": "childhood-n",
+  "headword": "childhood",
+  "pos": "noun"
+ },
+ {
+  "id": "chili-n",
+  "headword": "chili",
+  "pos": "noun",
+  "variants": [
+   "chilli"
+  ],
+  "sourceTopics": [
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "chimpanzee-n",
+  "headword": "chimpanzee",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education"
+  ]
+ },
+ {
+  "id": "chin-n",
+  "headword": "chin",
+  "pos": "noun",
+  "sourceTopics": [
+   "Health and body care"
+  ]
+ },
+ {
+  "id": "chirp-n",
+  "headword": "chirp",
+  "pos": "noun"
+ },
+ {
+  "id": "choice-n",
+  "headword": "choice",
+  "pos": "noun"
+ },
+ {
+  "id": "cigarette-n",
+  "headword": "cigarette",
+  "pos": "noun",
+  "sourceTopics": [
+   "Hobbies and pastimes",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "citizen-n",
+  "headword": "citizen",
+  "pos": "noun",
+  "sourceTopics": [
+   "Nationalities and countries"
+  ]
+ },
+ {
+  "id": "claim-v",
+  "headword": "claim",
+  "pos": "verb"
+ },
+ {
+  "id": "classic-adj",
+  "headword": "classic",
+  "pos": "adjective"
+ },
+ {
+  "id": "classical-music-n",
+  "headword": "classical music",
+  "pos": "noun"
+ },
+ {
+  "id": "cleaner-n",
+  "headword": "cleaner",
+  "pos": "noun",
+  "sourceTopics": [
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "clear-adj",
+  "headword": "clear",
+  "pos": "adjective"
+ },
+ {
+  "id": "clearly-adv",
+  "headword": "clearly",
+  "pos": "adverb"
+ },
+ {
+  "id": "clerk-n",
+  "headword": "clerk",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "click-v",
+  "headword": "click",
+  "pos": "verb"
+ },
+ {
+  "id": "climb-v",
+  "headword": "climb",
+  "pos": "verb"
+ },
+ {
+  "id": "climbing-n",
+  "headword": "climbing",
+  "pos": "noun",
+  "sourceTopics": [
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "clone-v",
+  "headword": "clone",
+  "pos": "verb"
+ },
+ {
+  "id": "clown-n",
+  "headword": "clown",
+  "pos": "noun"
+ },
+ {
+  "id": "clue-n",
+  "headword": "clue",
+  "pos": "noun",
+  "sourceTopics": [
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "coast-n",
+  "headword": "coast",
+  "pos": "noun",
+  "sourceTopics": [
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "coin-n",
+  "headword": "coin",
+  "pos": "noun",
+  "sourceTopics": [
+   "Shopping",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "cola-n",
+  "headword": "cola",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "colorful-adj",
+  "headword": "colorful",
+  "pos": "adjective",
+  "variants": [
+   "colourful"
+  ],
+  "sourceTopics": [
+   "Colours"
+  ]
+ },
+ {
+  "id": "column-n",
+  "headword": "column",
+  "pos": "noun"
+ },
+ {
+  "id": "comb-n",
+  "headword": "comb",
+  "pos": "noun",
+  "sourceTopics": [
+   "Shopping"
+  ]
+ },
+ {
+  "id": "comfortable-adj",
+  "headword": "comfortable",
+  "pos": "adjective"
+ },
+ {
+  "id": "comic-adj",
+  "headword": "comic",
+  "pos": "adjective"
+ },
+ {
+  "id": "comic-n",
+  "headword": "comic",
+  "pos": "noun",
+  "sourceTopics": [
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "commitment-n",
+  "headword": "commitment",
+  "pos": "noun"
+ },
+ {
+  "id": "committee-n",
+  "headword": "committee",
+  "pos": "noun"
+ },
+ {
+  "id": "common-adj",
+  "headword": "common",
+  "pos": "adjective"
+ },
+ {
+  "id": "communicate-v",
+  "headword": "communicate",
+  "pos": "verb"
+ },
+ {
+  "id": "communication-n",
+  "headword": "communication",
+  "pos": "noun"
+ },
+ {
+  "id": "company-n",
+  "headword": "company",
+  "pos": "noun"
+ },
+ {
+  "id": "comparative-n",
+  "headword": "comparative",
+  "pos": "noun"
+ },
+ {
+  "id": "compare-v",
+  "headword": "compare",
+  "pos": "verb"
+ },
+ {
+  "id": "competition-n",
+  "headword": "competition",
+  "pos": "noun"
+ },
+ {
+  "id": "complain-v",
+  "headword": "complain",
+  "pos": "verb"
+ },
+ {
+  "id": "complaint-n",
+  "headword": "complaint",
+  "pos": "noun"
+ },
+ {
+  "id": "complete-adj",
+  "headword": "complete",
+  "pos": "adjective"
+ },
+ {
+  "id": "composer-n",
+  "headword": "composer",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "concentrate-v",
+  "headword": "concentrate",
+  "pos": "verb"
+ },
+ {
+  "id": "concern-n",
+  "headword": "concern",
+  "pos": "noun"
+ },
+ {
+  "id": "condition-n",
+  "headword": "condition",
+  "pos": "noun"
+ },
+ {
+  "id": "confident-adj",
+  "headword": "confident",
+  "pos": "adjective"
+ },
+ {
+  "id": "confuse-v",
+  "headword": "confuse",
+  "pos": "verb"
+ },
+ {
+  "id": "confused-adj",
+  "headword": "confused",
+  "pos": "adjective"
+ },
+ {
+  "id": "consequence-n",
+  "headword": "consequence",
+  "pos": "noun"
+ },
+ {
+  "id": "consider-v",
+  "headword": "consider",
+  "pos": "verb"
+ },
+ {
+  "id": "consist-v",
+  "headword": "consist",
+  "pos": "verb"
+ },
+ {
+  "id": "contact-n",
+  "headword": "contact",
+  "pos": "noun"
+ },
+ {
+  "id": "contact-v",
+  "headword": "contact",
+  "pos": "verb"
+ },
+ {
+  "id": "container-n",
+  "headword": "container",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "context-n",
+  "headword": "context",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Language"
+  ]
+ },
+ {
+  "id": "continent-n",
+  "headword": "continent",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Places"
+  ]
+ },
+ {
+  "id": "continue-v",
+  "headword": "continue",
+  "pos": "verb"
+ },
+ {
+  "id": "contrast-n",
+  "headword": "contrast",
+  "pos": "noun"
+ }
+]

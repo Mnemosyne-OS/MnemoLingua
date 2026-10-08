@@ -1,0 +1,281 @@
+{
+ "source": "CEFR-J Grammar Profile 20180315",
+ "themes": [
+  {
+   "id": "g-present",
+   "items": [
+    {
+     "id": "60-1",
+     "level": "B1.1",
+     "item": "TENSE/ASPECT: PRESENT (lexical verbs; third person & singular)",
+     "type": "NEG. DEC."
+    },
+    {
+     "id": "61-1",
+     "level": "B1.1",
+     "item": "TENSE/ASPECT: PRESENT PROGRESSIVE",
+     "type": "NEG. DEC."
+    }
+   ]
+  },
+  {
+   "id": "g-past-future",
+   "items": [
+    {
+     "id": "62-1",
+     "level": "B1.1",
+     "item": "TENSE/ASPECT: PRESENT PERFECT",
+     "type": "NEG. DEC."
+    },
+    {
+     "id": "67",
+     "level": "B1.2",
+     "item": "TENSE/ASPECT: PAST PERFECT",
+     "type": "AFF. DEC."
+    },
+    {
+     "id": "69-1",
+     "level": "B1.1",
+     "item": "TENSE/ASPECT: FUTURE",
+     "type": "NEG. DEC."
+    }
+   ]
+  },
+  {
+   "id": "g-modals",
+   "items": [
+    {
+     "id": "121",
+     "level": "B1.1",
+     "item": "MODAL/AUX: be able to",
+     "type": "AFF. DEC."
+    },
+    {
+     "id": "124",
+     "level": "B1.1",
+     "item": "MODAL/AUX: could",
+     "type": "AFF. DEC."
+    },
+    {
+     "id": "124-1",
+     "level": "B1.1",
+     "item": "MODAL/AUX: could",
+     "type": "NEG. DEC."
+    },
+    {
+     "id": "129",
+     "level": "B1.1",
+     "item": "MODAL/AUX: may",
+     "type": "AFF. DEC."
+    },
+    {
+     "id": "132",
+     "level": "B1",
+     "item": "MODAL/AUX: might",
+     "type": ""
+    },
+    {
+     "id": "135",
+     "level": "B1",
+     "item": "MODAL/AUX: must",
+     "type": ""
+    },
+    {
+     "id": "136-1",
+     "level": "B1",
+     "item": "MODAL/AUX: need (to)",
+     "type": ""
+    },
+    {
+     "id": "139-1",
+     "level": "B1.2",
+     "item": "MODAL/AUX: should",
+     "type": "NEG. DEC."
+    },
+    {
+     "id": "140",
+     "level": "B1.1",
+     "item": "MODAL/AUX: used to",
+     "type": "AFF. DEC."
+    },
+    {
+     "id": "141-1",
+     "level": "B1.1",
+     "item": "MODAL/AUX: will",
+     "type": "NEG. DEC."
+    },
+    {
+     "id": "99",
+     "level": "B1.2",
+     "item": "BE to DO",
+     "type": "AFF. DEC."
+    }
+   ]
+  },
+  {
+   "id": "g-words",
+   "items": [
+    {
+     "id": "12",
+     "level": "B1.2",
+     "item": "These/Those N",
+     "type": "AFF. DEC./NEG. DEC."
+    },
+    {
+     "id": "22",
+     "level": "B1.2",
+     "item": "POSSESSIVE PRONOUNS (except for 'his' and 'its')",
+     "type": ""
+    },
+    {
+     "id": "23",
+     "level": "B1.1",
+     "item": "REFLEXIVE PRONOUNS",
+     "type": ""
+    },
+    {
+     "id": "27",
+     "level": "B1.2",
+     "item": "RECIPROCAL PRONOUN: each other",
+     "type": ""
+    },
+    {
+     "id": "29",
+     "level": "B1.1",
+     "item": "PRONOUN: others (excluding 'the",
+     "type": ""
+    },
+    {
+     "id": "31",
+     "level": "B1.1",
+     "item": "-thing ADJ",
+     "type": ""
+    }
+   ]
+  },
+  {
+   "id": "g-compare",
+   "items": [
+    {
+     "id": "34",
+     "level": "B1.2",
+     "item": "ADVERBS OF ATTITUDES: apparently/clearly/fortunately/frankly/unfortunately",
+     "type": ""
+    },
+    {
+     "id": "51",
+     "level": "B1.1",
+     "item": "INTENSIFIED COMPARATIVES: a lot/by far/even/far/much/still",
+     "type": ""
+    }
+   ]
+  },
+  {
+   "id": "g-sentences",
+   "items": [
+    {
+     "id": "89",
+     "level": "B1.2",
+     "item": "TO-INFINITIVE: not to DO",
+     "type": ""
+    },
+    {
+     "id": "93",
+     "level": "B1.1",
+     "item": "TO-INFINITIVE: WITH NOTIONAL SUBJECT",
+     "type": ""
+    },
+    {
+     "id": "117-1",
+     "level": "B1.1",
+     "item": "IMPERATIVE: AFFIRMATIVE (lexical verbs)",
+     "type": "NEG. IMP"
+    },
+    {
+     "id": "149",
+     "level": "B1.1",
+     "item": "here is/are",
+     "type": "AFF. DEC."
+    },
+    {
+     "id": "153",
+     "level": "B1.1",
+     "item": "know/wonder+WH-(CLAUSE) (except for 'whether')",
+     "type": ""
+    },
+    {
+     "id": "167",
+     "level": "B1.1",
+     "item": "WH-+to+INFINITIVE",
+     "type": ""
+    },
+    {
+     "id": "181",
+     "level": "B1.1",
+     "item": "RELATIVE PRONOUN: NONRESTRICTIVE",
+     "type": ""
+    },
+    {
+     "id": "186",
+     "level": "B1.1",
+     "item": "RELATIVE ADVERB: WITHOUT ANTECEDENT",
+     "type": ""
+    },
+    {
+     "id": "201",
+     "level": "B1.2",
+     "item": "INDIRECT SPEECH: TELL",
+     "type": ""
+    },
+    {
+     "id": "203",
+     "level": "B1.1",
+     "item": "INDIRECT QUESTION: ASK/REMIND/SHOW/TEACH/TELL",
+     "type": ""
+    },
+    {
+     "id": "209",
+     "level": "B1.1",
+     "item": "ASK/TELL+NP+to+INFINITIVE",
+     "type": ""
+    },
+    {
+     "id": "213",
+     "level": "B1.1",
+     "item": "PARTICIPIAL CONSTRUCTION: PRESENT PARTICIPLE",
+     "type": "(SUBORDINATE CLAUSE) AFF. DEC."
+    },
+    {
+     "id": "215",
+     "level": "B1.2",
+     "item": "CONDITIONAL: SECOND",
+     "type": "(SUBORDINATE CLAUSE) AFF. DEC."
+    },
+    {
+     "id": "82",
+     "level": "B1.2",
+     "item": "PASSIVE: AUX",
+     "type": "AFF. DEC."
+    },
+    {
+     "id": "87",
+     "level": "B1.2",
+     "item": "GET+PAST PARTICIPLE",
+     "type": ""
+    }
+   ]
+  }
+ ],
+ "left": [
+  {
+   "id": "2",
+   "item": "You are",
+   "why": "\"You are\": already taught in A1 (the verb be), CEFR-J places it at B1.1"
+  },
+  {
+   "id": "194",
+   "item": "SENTENCE PATTERN: SUBJECT+V",
+   "why": "subject + verb: every sentence already shows it"
+  }
+ ]
+}

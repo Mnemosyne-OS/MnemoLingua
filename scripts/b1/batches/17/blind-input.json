@@ -1,0 +1,572 @@
+[
+ {
+  "id": "ought-to-modal",
+  "headword": "ought to",
+  "pos": "modal auxiliary",
+  "example": "You ought to call your mother more often."
+ },
+ {
+  "id": "outdoor-adj",
+  "headword": "outdoor",
+  "pos": "adjective",
+  "example": "The hotel has a large outdoor swimming pool."
+ },
+ {
+  "id": "outdoors-adv",
+  "headword": "outdoors",
+  "pos": "adverb",
+  "example": "The children love playing outdoors when the weather is nice."
+ },
+ {
+  "id": "outer-adj",
+  "headword": "outer",
+  "pos": "adjective",
+  "example": "Remove the outer leaves of the cabbage before you cook it."
+ },
+ {
+  "id": "outlaw-n",
+  "headword": "outlaw",
+  "pos": "noun",
+  "example": "In the old film, the outlaw escaped from the police."
+ },
+ {
+  "id": "outline-v",
+  "headword": "outline",
+  "pos": "verb",
+  "example": "The manager outlined the plan for next year in the meeting."
+ },
+ {
+  "id": "out-of-date-adj",
+  "headword": "out-of-date",
+  "pos": "adjective",
+  "example": "This map is out-of-date, so some roads are missing."
+ },
+ {
+  "id": "outstanding-adj",
+  "headword": "outstanding",
+  "pos": "adjective",
+  "example": "She is an outstanding student and always gets the best marks."
+ },
+ {
+  "id": "outward-adj",
+  "headword": "outward",
+  "pos": "adjective",
+  "example": "The outward journey took three hours, but the return was faster."
+ },
+ {
+  "id": "outweigh-v",
+  "headword": "outweigh",
+  "pos": "verb",
+  "example": "For me, the advantages of city life outweigh the disadvantages."
+ },
+ {
+  "id": "overcome-v",
+  "headword": "overcome",
+  "pos": "verb",
+  "example": "He worked hard to overcome his fear of flying."
+ },
+ {
+  "id": "overjoyed-adj",
+  "headword": "overjoyed",
+  "pos": "adjective",
+  "example": "We were overjoyed when our daughter was born."
+ },
+ {
+  "id": "overnight-adj",
+  "headword": "overnight",
+  "pos": "adjective",
+  "example": "We took an overnight train from Paris to Rome."
+ },
+ {
+  "id": "overnight-adv",
+  "headword": "overnight",
+  "pos": "adverb",
+  "example": "Leave the beans in water overnight and cook them tomorrow."
+ },
+ {
+  "id": "overwhelm-v",
+  "headword": "overwhelm",
+  "pos": "verb",
+  "example": "So much homework can overwhelm young students."
+ },
+ {
+  "id": "overwhelming-adj",
+  "headword": "overwhelming",
+  "pos": "adjective",
+  "example": "The response to our appeal for help was overwhelming."
+ },
+ {
+  "id": "overwork-n",
+  "headword": "overwork",
+  "pos": "noun",
+  "example": "The doctor said his headaches were caused by overwork."
+ },
+ {
+  "id": "owe-v",
+  "headword": "owe",
+  "pos": "verb",
+  "example": "I owe my brother twenty euros for the concert ticket."
+ },
+ {
+  "id": "owing-adj",
+  "headword": "owing",
+  "pos": "adjective",
+  "example": "There is still fifty pounds owing on the bill."
+ },
+ {
+  "id": "own-v",
+  "headword": "own",
+  "pos": "verb",
+  "example": "My parents own a small house near the sea."
+ },
+ {
+  "id": "oxygen-n",
+  "headword": "oxygen",
+  "pos": "noun",
+  "example": "Plants produce oxygen, which we need to breathe."
+ },
+ {
+  "id": "pace-n",
+  "headword": "pace",
+  "pos": "noun",
+  "example": "She walked at a fast pace to catch the bus."
+ },
+ {
+  "id": "package-n",
+  "headword": "package",
+  "pos": "noun",
+  "example": "A package arrived for you this morning from the post office."
+ },
+ {
+  "id": "packing-n",
+  "headword": "packing",
+  "pos": "noun",
+  "example": "I always do my packing the night before a trip."
+ },
+ {
+  "id": "paddle-n",
+  "headword": "paddle",
+  "pos": "noun",
+  "example": "He lost his paddle, so the canoe floated away."
+ },
+ {
+  "id": "paid-adj",
+  "headword": "paid",
+  "pos": "adjective",
+  "example": "Workers here get four weeks of paid holiday every year."
+ },
+ {
+  "id": "pain-n",
+  "headword": "pain",
+  "pos": "noun",
+  "example": "I have a sharp pain in my back."
+ },
+ {
+  "id": "painful-adj",
+  "headword": "painful",
+  "pos": "adjective",
+  "example": "My knee was very painful after the football match."
+ },
+ {
+  "id": "pale-adj",
+  "headword": "pale",
+  "pos": "adjective",
+  "example": "You look pale today. Are you feeling ill?"
+ },
+ {
+  "id": "palm-n",
+  "headword": "palm",
+  "pos": "noun",
+  "example": "She held the small bird gently in the palm of her hand."
+ },
+ {
+  "id": "parachute-n",
+  "headword": "parachute",
+  "pos": "noun",
+  "example": "The soldier jumped from the plane and opened his parachute."
+ },
+ {
+  "id": "paradise-n",
+  "headword": "paradise",
+  "pos": "noun",
+  "example": "With its white beaches, the island is a paradise for tourists."
+ },
+ {
+  "id": "paralyze-v",
+  "headword": "paralyze",
+  "pos": "verb",
+  "example": "The accident paralyzed his legs, so he uses a wheelchair."
+ },
+ {
+  "id": "parcel-n",
+  "headword": "parcel",
+  "pos": "noun",
+  "example": "I sent a parcel to my cousin for her birthday."
+ },
+ {
+  "id": "pardon-v",
+  "headword": "pardon",
+  "pos": "verb",
+  "example": "The president decided to pardon the old prisoner."
+ },
+ {
+  "id": "parental-adj",
+  "headword": "parental",
+  "pos": "adjective",
+  "example": "Children under twelve need parental permission to join the club."
+ },
+ {
+  "id": "parking-n",
+  "headword": "parking",
+  "pos": "noun",
+  "example": "Parking is free in the town centre on Sundays."
+ },
+ {
+  "id": "parrot-n",
+  "headword": "parrot",
+  "pos": "noun",
+  "example": "Our parrot can say hello in three languages."
+ },
+ {
+  "id": "partial-adj",
+  "headword": "partial",
+  "pos": "adjective",
+  "example": "The plan was only a partial success because some people left."
+ },
+ {
+  "id": "participant-n",
+  "headword": "participant",
+  "pos": "noun",
+  "example": "Each participant in the race received a medal."
+ },
+ {
+  "id": "participate-v",
+  "headword": "participate",
+  "pos": "verb",
+  "example": "All students must participate in the school sports day."
+ },
+ {
+  "id": "participle-n",
+  "headword": "participle",
+  "pos": "noun",
+  "example": "The past participle of the verb 'go' is 'gone'."
+ },
+ {
+  "id": "particularly-adv",
+  "headword": "particularly",
+  "pos": "adverb",
+  "example": "I like all fruit, but I particularly love strawberries."
+ },
+ {
+  "id": "part-time-adj",
+  "headword": "part-time",
+  "pos": "adjective",
+  "example": "She has a part-time job in a café at weekends."
+ },
+ {
+  "id": "part-time-adv",
+  "headword": "part-time",
+  "pos": "adverb",
+  "example": "My father works part-time now, only three days a week."
+ },
+ {
+  "id": "passion-n",
+  "headword": "passion",
+  "pos": "noun",
+  "example": "Music has always been his greatest passion."
+ },
+ {
+  "id": "passive-adj",
+  "headword": "passive",
+  "pos": "adjective",
+  "example": "He is too passive and never says what he wants."
+ },
+ {
+  "id": "passport-n",
+  "headword": "passport",
+  "pos": "noun",
+  "example": "Don't forget your passport when you go to the airport."
+ },
+ {
+  "id": "password-n",
+  "headword": "password",
+  "pos": "noun",
+  "example": "Choose a strong password for your email account."
+ },
+ {
+  "id": "past-adj",
+  "headword": "past",
+  "pos": "adjective",
+  "example": "It has rained a lot in the past few days."
+ },
+ {
+  "id": "patience-n",
+  "headword": "patience",
+  "pos": "noun",
+  "example": "Teaching small children takes a lot of patience."
+ },
+ {
+  "id": "patient-adj",
+  "headword": "patient",
+  "pos": "adjective",
+  "example": "Please be patient, the doctor will see you soon."
+ },
+ {
+  "id": "patrol-n",
+  "headword": "patrol",
+  "pos": "noun",
+  "example": "A police patrol drives through the area every night."
+ },
+ {
+  "id": "pattern-n",
+  "headword": "pattern",
+  "pos": "noun",
+  "example": "Her dress has a pattern of small red flowers."
+ },
+ {
+  "id": "pause-n",
+  "headword": "pause",
+  "pos": "noun",
+  "example": "There was a long pause before she answered the question."
+ },
+ {
+  "id": "pause-v",
+  "headword": "pause",
+  "pos": "verb",
+  "example": "He paused for a moment and then continued his speech."
+ },
+ {
+  "id": "peanut-n",
+  "headword": "peanut",
+  "pos": "noun",
+  "example": "My brother can't eat peanuts because he is allergic."
+ },
+ {
+  "id": "peculiar-adj",
+  "headword": "peculiar",
+  "pos": "adjective",
+  "example": "There is a peculiar smell in the kitchen. What is it?"
+ },
+ {
+  "id": "penniless-adj",
+  "headword": "penniless",
+  "pos": "adjective",
+  "example": "He lost his job and was soon penniless."
+ },
+ {
+  "id": "penny-n",
+  "headword": "penny",
+  "pos": "noun",
+  "example": "The sweet cost only one penny when my grandfather was young."
+ },
+ {
+  "id": "per-prep",
+  "headword": "per",
+  "pos": "preposition",
+  "example": "The tickets cost ten euros per person."
+ },
+ {
+  "id": "percent-n",
+  "headword": "percent",
+  "pos": "noun",
+  "example": "Only twenty percent of the students passed the difficult exam."
+ },
+ {
+  "id": "performer-n",
+  "headword": "performer",
+  "pos": "noun",
+  "example": "The street performer played the guitar and sang for the crowd."
+ },
+ {
+  "id": "permanent-adj",
+  "headword": "permanent",
+  "pos": "adjective",
+  "example": "After six months, she got a permanent job at the bank."
+ },
+ {
+  "id": "permanently-adv",
+  "headword": "permanently",
+  "pos": "adverb",
+  "example": "They left Spain and moved permanently to Canada."
+ },
+ {
+  "id": "permit-v",
+  "headword": "permit",
+  "pos": "verb",
+  "example": "The rules do not permit smoking inside the building."
+ },
+ {
+  "id": "personally-adv",
+  "headword": "personally",
+  "pos": "adverb",
+  "example": "Personally, I prefer tea to coffee."
+ },
+ {
+  "id": "persuade-v",
+  "headword": "persuade",
+  "pos": "verb",
+  "example": "I tried to persuade my friend to come to the party."
+ },
+ {
+  "id": "persuasive-adj",
+  "headword": "persuasive",
+  "pos": "adjective",
+  "example": "Her arguments were so persuasive that everyone agreed with her."
+ },
+ {
+  "id": "phantom-adj",
+  "headword": "phantom",
+  "pos": "adjective",
+  "example": "The old castle is famous for its phantom knight."
+ },
+ {
+  "id": "pharmacy-n",
+  "headword": "pharmacy",
+  "pos": "noun",
+  "example": "I bought some medicine for my cold at the pharmacy."
+ },
+ {
+  "id": "phenomenon-n",
+  "headword": "phenomenon",
+  "pos": "noun",
+  "example": "A rainbow is a natural phenomenon caused by light and rain."
+ },
+ {
+  "id": "philosopher-n",
+  "headword": "philosopher",
+  "pos": "noun",
+  "example": "Socrates was a famous philosopher from ancient Greece."
+ },
+ {
+  "id": "philosophy-n",
+  "headword": "philosophy",
+  "pos": "noun",
+  "example": "She studies philosophy at university because she loves big questions."
+ },
+ {
+  "id": "phoenix-n",
+  "headword": "phoenix",
+  "pos": "noun",
+  "example": "In the story, the phoenix burns and is born again from the fire."
+ },
+ {
+  "id": "photocopy-n",
+  "headword": "photocopy",
+  "pos": "noun",
+  "example": "Can you make a photocopy of this page for me?"
+ },
+ {
+  "id": "phrasal-verb-n",
+  "headword": "phrasal verb",
+  "pos": "noun",
+  "example": "'Give up' is a common phrasal verb that means 'stop'."
+ },
+ {
+  "id": "phrase-n",
+  "headword": "phrase",
+  "pos": "noun",
+  "example": "Learn some useful phrases before you travel abroad."
+ },
+ {
+  "id": "physics-n",
+  "headword": "physics",
+  "pos": "noun",
+  "example": "In physics, we learned why things fall to the ground."
+ },
+ {
+  "id": "pick-n",
+  "headword": "pick",
+  "pos": "noun",
+  "example": "There are many cakes here, so take your pick."
+ },
+ {
+  "id": "pie-n",
+  "headword": "pie",
+  "pos": "noun",
+  "example": "My grandmother makes a delicious apple pie every Sunday."
+ },
+ {
+  "id": "piety-n",
+  "headword": "piety",
+  "pos": "noun",
+  "example": "The old monk was known for his piety and kindness."
+ },
+ {
+  "id": "pillow-n",
+  "headword": "pillow",
+  "pos": "noun",
+  "example": "I can't sleep well without a soft pillow."
+ },
+ {
+  "id": "pin-v",
+  "headword": "pin",
+  "pos": "verb",
+  "example": "Can you pin this notice on the wall, please?"
+ },
+ {
+  "id": "pineapple-n",
+  "headword": "pineapple",
+  "pos": "noun",
+  "example": "We had fresh pineapple for dessert after dinner."
+ },
+ {
+  "id": "pipe-n",
+  "headword": "pipe",
+  "pos": "noun",
+  "example": "Water was coming out of a broken pipe under the sink."
+ },
+ {
+  "id": "pit-n",
+  "headword": "pit",
+  "pos": "noun",
+  "example": "The workers dug a deep pit to plant the tree."
+ },
+ {
+  "id": "place-v",
+  "headword": "place",
+  "pos": "verb",
+  "example": "Please place your bags on the table by the door."
+ },
+ {
+  "id": "plain-adj",
+  "headword": "plain",
+  "pos": "adjective",
+  "example": "She wore a plain white shirt with no pattern."
+ },
+ {
+  "id": "plan-v",
+  "headword": "plan",
+  "pos": "verb",
+  "example": "We plan to visit Italy next summer."
+ },
+ {
+  "id": "plant-v",
+  "headword": "plant",
+  "pos": "verb",
+  "example": "In spring, we plant tomatoes in the garden."
+ },
+ {
+  "id": "plastic-n",
+  "headword": "plastic",
+  "pos": "noun",
+  "example": "These toys are made of plastic, so they are very light."
+ },
+ {
+  "id": "platform-n",
+  "headword": "platform",
+  "pos": "noun",
+  "example": "The train to London leaves from platform four."
+ },
+ {
+  "id": "pleasantly-adv",
+  "headword": "pleasantly",
+  "pos": "adverb",
+  "example": "I was pleasantly surprised by how good the food was."
+ },
+ {
+  "id": "please-v",
+  "headword": "please",
+  "pos": "verb",
+  "example": "It is hard to please everyone in a big family."
+ }
+]

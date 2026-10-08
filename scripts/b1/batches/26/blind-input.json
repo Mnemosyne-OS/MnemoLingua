@@ -1,0 +1,428 @@
+[
+ {
+  "id": "wake-v",
+  "headword": "wake",
+  "pos": "verb",
+  "example": "Please be quiet or you will wake the baby."
+ },
+ {
+  "id": "ward-n",
+  "headword": "ward",
+  "pos": "noun",
+  "example": "My aunt is in the children's ward of the hospital."
+ },
+ {
+  "id": "wardrobe-n",
+  "headword": "wardrobe",
+  "pos": "noun",
+  "example": "Hang your shirts in the wardrobe so they don't get creased."
+ },
+ {
+  "id": "warm-v",
+  "headword": "warm",
+  "pos": "verb",
+  "example": "Come and warm your hands by the fire."
+ },
+ {
+  "id": "warmly-adv",
+  "headword": "warmly",
+  "pos": "adverb",
+  "example": "Our hosts welcomed us warmly when we arrived."
+ },
+ {
+  "id": "warmth-n",
+  "headword": "warmth",
+  "pos": "noun",
+  "example": "We sat in the garden and enjoyed the warmth of the sun."
+ },
+ {
+  "id": "warn-v",
+  "headword": "warn",
+  "pos": "verb",
+  "example": "I warned him that the road was icy, but he didn't listen."
+ },
+ {
+  "id": "warning-n",
+  "headword": "warning",
+  "pos": "noun",
+  "example": "There is a warning on the packet about the dangers of smoking."
+ },
+ {
+  "id": "warranty-n",
+  "headword": "warranty",
+  "pos": "noun",
+  "example": "The new washing machine has a two-year warranty."
+ },
+ {
+  "id": "warrior-n",
+  "headword": "warrior",
+  "pos": "noun",
+  "example": "In the story, a brave warrior fights to protect his village."
+ },
+ {
+  "id": "washbowl-n",
+  "headword": "washbowl",
+  "pos": "noun",
+  "example": "She filled the washbowl with warm water to wash her face."
+ },
+ {
+  "id": "waste-adj",
+  "headword": "waste",
+  "pos": "adjective",
+  "example": "Please put all waste paper in the blue bin."
+ },
+ {
+  "id": "waste-n",
+  "headword": "waste",
+  "pos": "noun",
+  "example": "Watching that film was a complete waste of time."
+ },
+ {
+  "id": "waste-v",
+  "headword": "waste",
+  "pos": "verb",
+  "example": "Don't waste water when you brush your teeth."
+ },
+ {
+  "id": "wasteful-adj",
+  "headword": "wasteful",
+  "pos": "adjective",
+  "example": "It is wasteful to leave the lights on all night."
+ },
+ {
+  "id": "waterfall-n",
+  "headword": "waterfall",
+  "pos": "noun",
+  "example": "We walked through the forest to see the famous waterfall."
+ },
+ {
+  "id": "wave-v",
+  "headword": "wave",
+  "pos": "verb",
+  "example": "The children waved goodbye to their grandparents from the train."
+ },
+ {
+  "id": "wax-n",
+  "headword": "wax",
+  "pos": "noun",
+  "example": "The candles are made of wax from local bees."
+ },
+ {
+  "id": "wax-v",
+  "headword": "wax",
+  "pos": "verb",
+  "example": "He waxes his car every month to keep it shiny."
+ },
+ {
+  "id": "weakness-n",
+  "headword": "weakness",
+  "pos": "noun",
+  "example": "Chocolate is my biggest weakness."
+ },
+ {
+  "id": "weapon-n",
+  "headword": "weapon",
+  "pos": "noun",
+  "example": "The police found a weapon hidden in the car."
+ },
+ {
+  "id": "weather-forecast-n",
+  "headword": "weather forecast",
+  "pos": "noun",
+  "example": "The weather forecast says it will rain tomorrow."
+ },
+ {
+  "id": "webcam-n",
+  "headword": "webcam",
+  "pos": "noun",
+  "example": "I use my webcam to talk to my family abroad."
+ },
+ {
+  "id": "weird-adj",
+  "headword": "weird",
+  "pos": "adjective",
+  "example": "I heard a weird noise in the kitchen last night."
+ },
+ {
+  "id": "welcome-adj",
+  "headword": "welcome",
+  "pos": "adjective",
+  "example": "You are always welcome at our house."
+ },
+ {
+  "id": "well-dressed-adj",
+  "headword": "well-dressed",
+  "pos": "adjective",
+  "example": "Everyone at the wedding was very well-dressed."
+ },
+ {
+  "id": "westward-adv",
+  "headword": "westward",
+  "pos": "adverb",
+  "example": "The ship sailed westward towards America."
+ },
+ {
+  "id": "wetland-n",
+  "headword": "wetland",
+  "pos": "noun",
+  "example": "Many birds live in the wetland near the river."
+ },
+ {
+  "id": "whale-n",
+  "headword": "whale",
+  "pos": "noun",
+  "example": "We saw a huge whale from the boat."
+ },
+ {
+  "id": "whatever-pron",
+  "headword": "whatever",
+  "pos": "pronoun",
+  "example": "You can eat whatever you want from the fridge."
+ },
+ {
+  "id": "whenever-adv",
+  "headword": "whenever",
+  "pos": "adverb",
+  "example": "Come and visit us whenever."
+ },
+ {
+  "id": "whenever-conj",
+  "headword": "whenever",
+  "pos": "conjunction",
+  "example": "Whenever I hear this song, I think of my summer in Spain."
+ },
+ {
+  "id": "wherever-conj",
+  "headword": "wherever",
+  "pos": "conjunction",
+  "example": "My dog follows me wherever I go."
+ },
+ {
+  "id": "whether-conj",
+  "headword": "whether",
+  "pos": "conjunction",
+  "example": "I don't know whether she will come to the party."
+ },
+ {
+  "id": "whichever-det",
+  "headword": "whichever",
+  "pos": "determiner",
+  "example": "Take whichever seat you like."
+ },
+ {
+  "id": "while-n",
+  "headword": "while",
+  "pos": "noun",
+  "example": "We waited for a while, but the bus didn't come."
+ },
+ {
+  "id": "whisper-n",
+  "headword": "whisper",
+  "pos": "noun",
+  "example": "She spoke in a whisper so the baby wouldn't wake up."
+ },
+ {
+  "id": "whistle-n",
+  "headword": "whistle",
+  "pos": "noun",
+  "example": "The referee blew his whistle at the end of the match."
+ },
+ {
+  "id": "whoever-pron",
+  "headword": "whoever",
+  "pos": "pronoun",
+  "example": "Whoever finishes first can go home early."
+ },
+ {
+  "id": "whole-n",
+  "headword": "whole",
+  "pos": "noun",
+  "example": "I spent the whole of the summer working in a café."
+ },
+ {
+  "id": "widespread-adj",
+  "headword": "widespread",
+  "pos": "adjective",
+  "example": "The use of mobile phones is widespread among teenagers."
+ },
+ {
+  "id": "wildlife-n",
+  "headword": "wildlife",
+  "pos": "noun",
+  "example": "The park protects the wildlife of the area, such as deer and eagles."
+ },
+ {
+  "id": "wildly-adv",
+  "headword": "wildly",
+  "pos": "adverb",
+  "example": "The fans cheered wildly when their team scored."
+ },
+ {
+  "id": "willingness-n",
+  "headword": "willingness",
+  "pos": "noun",
+  "example": "The boss liked his willingness to work at weekends."
+ },
+ {
+  "id": "windscreen-n",
+  "headword": "windscreen",
+  "pos": "noun",
+  "example": "A small stone hit the windscreen of our car on the motorway."
+ },
+ {
+  "id": "windsurfing-n",
+  "headword": "windsurfing",
+  "pos": "noun",
+  "example": "We tried windsurfing on the lake, but I kept falling in."
+ },
+ {
+  "id": "wing-n",
+  "headword": "wing",
+  "pos": "noun",
+  "example": "The bird had hurt its wing and couldn't fly."
+ },
+ {
+  "id": "wire-n",
+  "headword": "wire",
+  "pos": "noun",
+  "example": "Be careful, that electric wire is dangerous."
+ },
+ {
+  "id": "wither-v",
+  "headword": "wither",
+  "pos": "verb",
+  "example": "The flowers withered because nobody watered them."
+ },
+ {
+  "id": "witness-v",
+  "headword": "witness",
+  "pos": "verb",
+  "example": "Several people witnessed the accident and called the police."
+ },
+ {
+  "id": "wizard-adj",
+  "headword": "wizard",
+  "pos": "adjective",
+  "example": "My son wore a wizard hat and cape to the party."
+ },
+ {
+  "id": "wonder-n",
+  "headword": "wonder",
+  "pos": "noun",
+  "example": "The children looked at the snow with wonder."
+ },
+ {
+  "id": "working-adj",
+  "headword": "working",
+  "pos": "adjective",
+  "example": "Working conditions in the factory have improved a lot."
+ },
+ {
+  "id": "workout-n",
+  "headword": "workout",
+  "pos": "noun",
+  "example": "I do a short workout every morning before breakfast."
+ },
+ {
+  "id": "workplace-n",
+  "headword": "workplace",
+  "pos": "noun",
+  "example": "Smoking is not allowed in the workplace."
+ },
+ {
+  "id": "workshop-n",
+  "headword": "workshop",
+  "pos": "noun",
+  "example": "My uncle repairs old bikes in his workshop."
+ },
+ {
+  "id": "worn-adj",
+  "headword": "worn",
+  "pos": "adjective",
+  "example": "His shoes were old and worn, so he bought new ones."
+ },
+ {
+  "id": "worst-n",
+  "headword": "worst",
+  "pos": "noun",
+  "example": "Don't worry, the worst is over now."
+ },
+ {
+  "id": "worth-adj",
+  "headword": "worth",
+  "pos": "adjective",
+  "example": "The museum is worth visiting if you have time."
+ },
+ {
+  "id": "worthwhile-adj",
+  "headword": "worthwhile",
+  "pos": "adjective",
+  "example": "Learning a language is hard, but it is very worthwhile."
+ },
+ {
+  "id": "worthy-adj",
+  "headword": "worthy",
+  "pos": "adjective",
+  "example": "She is a worthy winner because she worked so hard."
+ },
+ {
+  "id": "wound-n",
+  "headword": "wound",
+  "pos": "noun",
+  "example": "The doctor cleaned the wound on his leg."
+ },
+ {
+  "id": "wrap-n",
+  "headword": "wrap",
+  "pos": "noun",
+  "example": "She put a warm wrap around her shoulders."
+ },
+ {
+  "id": "wrap-v",
+  "headword": "wrap",
+  "pos": "verb",
+  "example": "I need some paper to wrap this present."
+ },
+ {
+  "id": "wrapping-n",
+  "headword": "wrapping",
+  "pos": "noun",
+  "example": "The children tore the wrapping off their presents."
+ },
+ {
+  "id": "wrist-n",
+  "headword": "wrist",
+  "pos": "noun",
+  "example": "She fell on the ice and broke her wrist."
+ },
+ {
+  "id": "wristwatch-n",
+  "headword": "wristwatch",
+  "pos": "noun",
+  "example": "My grandfather gave me his old wristwatch."
+ },
+ {
+  "id": "written-adj",
+  "headword": "written",
+  "pos": "adjective",
+  "example": "Tomorrow we have a written exam and then a speaking test."
+ },
+ {
+  "id": "yell-n",
+  "headword": "yell",
+  "pos": "noun",
+  "example": "He gave a loud yell when the ball hit his foot."
+ },
+ {
+  "id": "yet-conj",
+  "headword": "yet",
+  "pos": "conjunction",
+  "example": "The hotel was small, yet very comfortable."
+ },
+ {
+  "id": "yoga-n",
+  "headword": "yoga",
+  "pos": "noun",
+  "example": "My mother does yoga twice a week to relax."
+ }
+]

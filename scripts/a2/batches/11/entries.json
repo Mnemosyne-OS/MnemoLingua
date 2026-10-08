@@ -1,0 +1,555 @@
+[
+ {
+  "id": "pressure-n",
+  "headword": "pressure",
+  "pos": "noun"
+ },
+ {
+  "id": "pretend-v",
+  "headword": "pretend",
+  "pos": "verb"
+ },
+ {
+  "id": "pretty-adv",
+  "headword": "pretty",
+  "pos": "adverb"
+ },
+ {
+  "id": "prevent-v",
+  "headword": "prevent",
+  "pos": "verb"
+ },
+ {
+  "id": "pride-n",
+  "headword": "pride",
+  "pos": "noun"
+ },
+ {
+  "id": "principal-adj",
+  "headword": "principal",
+  "pos": "adjective"
+ },
+ {
+  "id": "print-v",
+  "headword": "print",
+  "pos": "verb"
+ },
+ {
+  "id": "printer-n",
+  "headword": "printer",
+  "pos": "noun",
+  "sourceTopics": [
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "private-adj",
+  "headword": "private",
+  "pos": "adjective"
+ },
+ {
+  "id": "pro-n",
+  "headword": "pro",
+  "pos": "noun"
+ },
+ {
+  "id": "probably-adv",
+  "headword": "probably",
+  "pos": "adverb"
+ },
+ {
+  "id": "produce-v",
+  "headword": "produce",
+  "pos": "verb"
+ },
+ {
+  "id": "product-n",
+  "headword": "product",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs"
+  ]
+ },
+ {
+  "id": "production-n",
+  "headword": "production",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs"
+  ]
+ },
+ {
+  "id": "professional-adj",
+  "headword": "professional",
+  "pos": "adjective"
+ },
+ {
+  "id": "progressive-adj",
+  "headword": "progressive",
+  "pos": "adjective"
+ },
+ {
+  "id": "promise-n",
+  "headword": "promise",
+  "pos": "noun"
+ },
+ {
+  "id": "pronounce-v",
+  "headword": "pronounce",
+  "pos": "verb"
+ },
+ {
+  "id": "pronunciation-n",
+  "headword": "pronunciation",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Language"
+  ]
+ },
+ {
+  "id": "proper-adj",
+  "headword": "proper",
+  "pos": "adjective"
+ },
+ {
+  "id": "provide-v",
+  "headword": "provide",
+  "pos": "verb"
+ },
+ {
+  "id": "psychologist-n",
+  "headword": "psychologist",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "public-n",
+  "headword": "public",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs"
+  ]
+ },
+ {
+  "id": "publish-v",
+  "headword": "publish",
+  "pos": "verb"
+ },
+ {
+  "id": "pull-v",
+  "headword": "pull",
+  "pos": "verb"
+ },
+ {
+  "id": "punctuation-n",
+  "headword": "punctuation",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Language"
+  ]
+ },
+ {
+  "id": "purple-adj",
+  "headword": "purple",
+  "pos": "adjective"
+ },
+ {
+  "id": "purpose-n",
+  "headword": "purpose",
+  "pos": "noun"
+ },
+ {
+  "id": "pursue-v",
+  "headword": "pursue",
+  "pos": "verb"
+ },
+ {
+  "id": "quality-n",
+  "headword": "quality",
+  "pos": "noun"
+ },
+ {
+  "id": "queen-n",
+  "headword": "queen",
+  "pos": "noun",
+  "sourceTopics": [
+   "Relations with other people"
+  ]
+ },
+ {
+  "id": "quick-adj",
+  "headword": "quick",
+  "pos": "adjective"
+ },
+ {
+  "id": "quietly-adv",
+  "headword": "quietly",
+  "pos": "adverb"
+ },
+ {
+  "id": "quit-v",
+  "headword": "quit",
+  "pos": "verb"
+ },
+ {
+  "id": "quite-adv",
+  "headword": "quite",
+  "pos": "adverb"
+ },
+ {
+  "id": "quiz-n",
+  "headword": "quiz",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Education"
+  ]
+ },
+ {
+  "id": "racket-n",
+  "headword": "racket",
+  "pos": "noun",
+  "sourceTopics": [
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "raincoat-n",
+  "headword": "raincoat",
+  "pos": "noun",
+  "sourceTopics": [
+   "Shopping"
+  ]
+ },
+ {
+  "id": "raise-v",
+  "headword": "raise",
+  "pos": "verb"
+ },
+ {
+  "id": "range-n",
+  "headword": "range",
+  "pos": "noun"
+ },
+ {
+  "id": "rap-n",
+  "headword": "rap",
+  "pos": "noun",
+  "sourceTopics": [
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "rate-n",
+  "headword": "rate",
+  "pos": "noun"
+ },
+ {
+  "id": "rather-adv",
+  "headword": "rather",
+  "pos": "adverb"
+ },
+ {
+  "id": "rating-n",
+  "headword": "rating",
+  "pos": "noun"
+ },
+ {
+  "id": "raw-adj",
+  "headword": "raw",
+  "pos": "adjective"
+ },
+ {
+  "id": "ray-n",
+  "headword": "ray",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs"
+  ]
+ },
+ {
+  "id": "reach-v",
+  "headword": "reach",
+  "pos": "verb"
+ },
+ {
+  "id": "realize-v",
+  "headword": "realize",
+  "pos": "verb",
+  "variants": [
+   "realise"
+  ]
+ },
+ {
+  "id": "receipt-n",
+  "headword": "receipt",
+  "pos": "noun",
+  "sourceTopics": [
+   "Shopping"
+  ]
+ },
+ {
+  "id": "receive-v",
+  "headword": "receive",
+  "pos": "verb"
+ },
+ {
+  "id": "recent-adj",
+  "headword": "recent",
+  "pos": "adjective"
+ },
+ {
+  "id": "recently-adv",
+  "headword": "recently",
+  "pos": "adverb"
+ },
+ {
+  "id": "receptionist-n",
+  "headword": "receptionist",
+  "pos": "noun",
+  "sourceTopics": [
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "record-v",
+  "headword": "record",
+  "pos": "verb"
+ },
+ {
+  "id": "recycle-v",
+  "headword": "recycle",
+  "pos": "verb"
+ },
+ {
+  "id": "red-n",
+  "headword": "red",
+  "pos": "noun"
+ },
+ {
+  "id": "refer-v",
+  "headword": "refer",
+  "pos": "verb"
+ },
+ {
+  "id": "reflect-v",
+  "headword": "reflect",
+  "pos": "verb"
+ },
+ {
+  "id": "refrigerator-n",
+  "headword": "refrigerator",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "regret-v",
+  "headword": "regret",
+  "pos": "verb"
+ },
+ {
+  "id": "regular-adj",
+  "headword": "regular",
+  "pos": "adjective"
+ },
+ {
+  "id": "regularly-adv",
+  "headword": "regularly",
+  "pos": "adverb"
+ },
+ {
+  "id": "relax-v",
+  "headword": "relax",
+  "pos": "verb"
+ },
+ {
+  "id": "relaxed-adj",
+  "headword": "relaxed",
+  "pos": "adjective"
+ },
+ {
+  "id": "release-n",
+  "headword": "release",
+  "pos": "noun"
+ },
+ {
+  "id": "remain-v",
+  "headword": "remain",
+  "pos": "verb"
+ },
+ {
+  "id": "remind-v",
+  "headword": "remind",
+  "pos": "verb"
+ },
+ {
+  "id": "remote-adj",
+  "headword": "remote",
+  "pos": "adjective"
+ },
+ {
+  "id": "rent-n",
+  "headword": "rent",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel and services vocab",
+   "Services"
+  ]
+ },
+ {
+  "id": "rent-v",
+  "headword": "rent",
+  "pos": "verb"
+ },
+ {
+  "id": "repair-n",
+  "headword": "repair",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel and services vocab"
+  ]
+ },
+ {
+  "id": "repair-v",
+  "headword": "repair",
+  "pos": "verb"
+ },
+ {
+  "id": "replace-v",
+  "headword": "replace",
+  "pos": "verb"
+ },
+ {
+  "id": "reply-n",
+  "headword": "reply",
+  "pos": "noun"
+ },
+ {
+  "id": "report-n",
+  "headword": "report",
+  "pos": "noun"
+ },
+ {
+  "id": "represent-v",
+  "headword": "represent",
+  "pos": "verb"
+ },
+ {
+  "id": "request-n",
+  "headword": "request",
+  "pos": "noun"
+ },
+ {
+  "id": "research-n",
+  "headword": "research",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Education"
+  ]
+ },
+ {
+  "id": "response-n",
+  "headword": "response",
+  "pos": "noun"
+ },
+ {
+  "id": "retire-v",
+  "headword": "retire",
+  "pos": "verb"
+ },
+ {
+  "id": "retired-adj",
+  "headword": "retired",
+  "pos": "adjective"
+ },
+ {
+  "id": "return-n",
+  "headword": "return",
+  "pos": "noun"
+ },
+ {
+  "id": "return-v",
+  "headword": "return",
+  "pos": "verb"
+ },
+ {
+  "id": "reunion-n",
+  "headword": "reunion",
+  "pos": "noun"
+ },
+ {
+  "id": "reveal-v",
+  "headword": "reveal",
+  "pos": "verb"
+ },
+ {
+  "id": "rhythm-n",
+  "headword": "rhythm",
+  "pos": "noun",
+  "sourceTopics": [
+   "Arts",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "right-n",
+  "headword": "right",
+  "pos": "noun"
+ },
+ {
+  "id": "right-hand-adj",
+  "headword": "right-hand",
+  "pos": "adjective"
+ },
+ {
+  "id": "ring-n",
+  "headword": "ring",
+  "pos": "noun",
+  "sourceTopics": [
+   "Clothes",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "road-n",
+  "headword": "road",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "Places"
+  ]
+ },
+ {
+  "id": "roast-v",
+  "headword": "roast",
+  "pos": "verb"
+ },
+ {
+  "id": "rob-v",
+  "headword": "rob",
+  "pos": "verb"
+ },
+ {
+  "id": "robbery-n",
+  "headword": "robbery",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs",
+   "Relations with other people"
+  ]
+ },
+ {
+  "id": "robin-n",
+  "headword": "robin",
+  "pos": "noun"
+ }
+]

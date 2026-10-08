@@ -1,0 +1,591 @@
+[
+ {
+  "id": "ability-n",
+  "headword": "ability",
+  "pos": "noun"
+ },
+ {
+  "id": "abroad-adv",
+  "headword": "abroad",
+  "pos": "adverb"
+ },
+ {
+  "id": "accept-v",
+  "headword": "accept",
+  "pos": "verb"
+ },
+ {
+  "id": "acceptable-adj",
+  "headword": "acceptable",
+  "pos": "adjective"
+ },
+ {
+  "id": "accident-n",
+  "headword": "accident",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs",
+   "Health and body care"
+  ]
+ },
+ {
+  "id": "account-n",
+  "headword": "account",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "Services"
+  ]
+ },
+ {
+  "id": "achieve-v",
+  "headword": "achieve",
+  "pos": "verb"
+ },
+ {
+  "id": "across-adv",
+  "headword": "across",
+  "pos": "adverb"
+ },
+ {
+  "id": "across-prep",
+  "headword": "across",
+  "pos": "preposition"
+ },
+ {
+  "id": "act-n",
+  "headword": "act",
+  "pos": "noun",
+  "sourceTopics": [
+   "Hobbies and pastimes",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "actually-adv",
+  "headword": "actually",
+  "pos": "adverb"
+ },
+ {
+  "id": "addition-n",
+  "headword": "addition",
+  "pos": "noun",
+  "sourceTopics": [
+   "Collocation",
+   "Language"
+  ]
+ },
+ {
+  "id": "additional-adj",
+  "headword": "additional",
+  "pos": "adjective"
+ },
+ {
+  "id": "adjective-n",
+  "headword": "adjective",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Language"
+  ]
+ },
+ {
+  "id": "adjust-v",
+  "headword": "adjust",
+  "pos": "verb"
+ },
+ {
+  "id": "admire-v",
+  "headword": "admire",
+  "pos": "verb"
+ },
+ {
+  "id": "admit-v",
+  "headword": "admit",
+  "pos": "verb"
+ },
+ {
+  "id": "adult-adj",
+  "headword": "adult",
+  "pos": "adjective"
+ },
+ {
+  "id": "adult-n",
+  "headword": "adult",
+  "pos": "noun",
+  "sourceTopics": [
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "advanced-adj",
+  "headword": "advanced",
+  "pos": "adjective"
+ },
+ {
+  "id": "advantage-n",
+  "headword": "advantage",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs"
+  ]
+ },
+ {
+  "id": "adventure-n",
+  "headword": "adventure",
+  "pos": "noun",
+  "sourceTopics": [
+   "Books and literature",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "advertisement-n",
+  "headword": "advertisement",
+  "pos": "noun",
+  "sourceTopics": [
+   "Shopping",
+   "Services"
+  ]
+ },
+ {
+  "id": "advertising-n",
+  "headword": "advertising",
+  "pos": "noun",
+  "sourceTopics": [
+   "Shopping",
+   "Services"
+  ]
+ },
+ {
+  "id": "advice-n",
+  "headword": "advice",
+  "pos": "noun"
+ },
+ {
+  "id": "advise-v",
+  "headword": "advise",
+  "pos": "verb"
+ },
+ {
+  "id": "affair-n",
+  "headword": "affair",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs"
+  ]
+ },
+ {
+  "id": "after-adv",
+  "headword": "after",
+  "pos": "adverb"
+ },
+ {
+  "id": "against-prep",
+  "headword": "against",
+  "pos": "preposition"
+ },
+ {
+  "id": "aged-adj",
+  "headword": "aged",
+  "pos": "adjective"
+ },
+ {
+  "id": "agency-n",
+  "headword": "agency",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel and services vocab",
+   "Travel"
+  ]
+ },
+ {
+  "id": "agent-n",
+  "headword": "agent",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "Services"
+  ]
+ },
+ {
+  "id": "ahead-adv",
+  "headword": "ahead",
+  "pos": "adverb"
+ },
+ {
+  "id": "air-n",
+  "headword": "air",
+  "pos": "noun"
+ },
+ {
+  "id": "aisle-n",
+  "headword": "aisle",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel and services vocab",
+   "Travel"
+  ]
+ },
+ {
+  "id": "alarm-n",
+  "headword": "alarm",
+  "pos": "noun"
+ },
+ {
+  "id": "alarm-clock-n",
+  "headword": "alarm clock",
+  "pos": "noun",
+  "sourceTopics": [
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "alive-adj",
+  "headword": "alive",
+  "pos": "adjective"
+ },
+ {
+  "id": "all-adv",
+  "headword": "all",
+  "pos": "adverb"
+ },
+ {
+  "id": "allow-v",
+  "headword": "allow",
+  "pos": "verb"
+ },
+ {
+  "id": "alone-adj",
+  "headword": "alone",
+  "pos": "adjective"
+ },
+ {
+  "id": "along-prep",
+  "headword": "along",
+  "pos": "preposition"
+ },
+ {
+  "id": "alright-adj",
+  "headword": "alright",
+  "pos": "adjective"
+ },
+ {
+  "id": "alright-adv",
+  "headword": "alright",
+  "pos": "adverb"
+ },
+ {
+  "id": "although-conj",
+  "headword": "although",
+  "pos": "conjunction"
+ },
+ {
+  "id": "ambition-n",
+  "headword": "ambition",
+  "pos": "noun"
+ },
+ {
+  "id": "among-prep",
+  "headword": "among",
+  "pos": "preposition"
+ },
+ {
+  "id": "amused-adj",
+  "headword": "amused",
+  "pos": "adjective"
+ },
+ {
+  "id": "amusement-n",
+  "headword": "amusement",
+  "pos": "noun",
+  "sourceTopics": [
+   "Hobbies and pastimes",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "ancestor-n",
+  "headword": "ancestor",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Relations with other people"
+  ]
+ },
+ {
+  "id": "ancient-adj",
+  "headword": "ancient",
+  "pos": "adjective"
+ },
+ {
+  "id": "angel-n",
+  "headword": "angel",
+  "pos": "noun",
+  "sourceTopics": [
+   "Books and literature",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "angrily-adv",
+  "headword": "angrily",
+  "pos": "adverb"
+ },
+ {
+  "id": "ankle-n",
+  "headword": "ankle",
+  "pos": "noun",
+  "sourceTopics": [
+   "Personal information",
+   "Health and body care"
+  ]
+ },
+ {
+  "id": "anniversary-n",
+  "headword": "anniversary",
+  "pos": "noun",
+  "sourceTopics": [
+   "Family life",
+   "Daily life"
+  ]
+ },
+ {
+  "id": "annoy-v",
+  "headword": "annoy",
+  "pos": "verb"
+ },
+ {
+  "id": "annoying-adj",
+  "headword": "annoying",
+  "pos": "adjective"
+ },
+ {
+  "id": "another-pron",
+  "headword": "another",
+  "pos": "pronoun"
+ },
+ {
+  "id": "anxious-adj",
+  "headword": "anxious",
+  "pos": "adjective"
+ },
+ {
+  "id": "anymore-adv",
+  "headword": "anymore",
+  "pos": "adverb"
+ },
+ {
+  "id": "anyway-adv",
+  "headword": "anyway",
+  "pos": "adverb"
+ },
+ {
+  "id": "anywhere-adv",
+  "headword": "anywhere",
+  "pos": "adverb"
+ },
+ {
+  "id": "apart-adv",
+  "headword": "apart",
+  "pos": "adverb"
+ },
+ {
+  "id": "apartment-n",
+  "headword": "apartment",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "Places"
+  ]
+ },
+ {
+  "id": "apologize-v",
+  "headword": "apologize",
+  "pos": "verb",
+  "variants": [
+   "apologise"
+  ]
+ },
+ {
+  "id": "apparently-adv",
+  "headword": "apparently",
+  "pos": "adverb"
+ },
+ {
+  "id": "appear-v",
+  "headword": "appear",
+  "pos": "verb"
+ },
+ {
+  "id": "appearance-n",
+  "headword": "appearance",
+  "pos": "noun"
+ },
+ {
+  "id": "apply-v",
+  "headword": "apply",
+  "pos": "verb"
+ },
+ {
+  "id": "appointment-n",
+  "headword": "appointment",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs"
+  ]
+ },
+ {
+  "id": "appreciate-v",
+  "headword": "appreciate",
+  "pos": "verb"
+ },
+ {
+  "id": "appropriate-adj",
+  "headword": "appropriate",
+  "pos": "adjective"
+ },
+ {
+  "id": "architecture-n",
+  "headword": "architecture",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "area-n",
+  "headword": "area",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel and services vocab"
+  ]
+ },
+ {
+  "id": "argue-v",
+  "headword": "argue",
+  "pos": "verb"
+ },
+ {
+  "id": "argument-n",
+  "headword": "argument",
+  "pos": "noun"
+ },
+ {
+  "id": "armchair-n",
+  "headword": "armchair",
+  "pos": "noun",
+  "sourceTopics": [
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "armed-adj",
+  "headword": "armed",
+  "pos": "adjective"
+ },
+ {
+  "id": "around-adv",
+  "headword": "around",
+  "pos": "adverb"
+ },
+ {
+  "id": "artificial-adj",
+  "headword": "artificial",
+  "pos": "adjective"
+ },
+ {
+  "id": "as-conj",
+  "headword": "as",
+  "pos": "conjunction"
+ },
+ {
+  "id": "asleep-adj",
+  "headword": "asleep",
+  "pos": "adjective"
+ },
+ {
+  "id": "assistant-adj",
+  "headword": "assistant",
+  "pos": "adjective"
+ },
+ {
+  "id": "association-n",
+  "headword": "association",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "Relations with other people"
+  ]
+ },
+ {
+  "id": "astronaut-n",
+  "headword": "astronaut",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "athlete-n",
+  "headword": "athlete",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "atom-n",
+  "headword": "atom",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education"
+  ]
+ },
+ {
+  "id": "attack-n",
+  "headword": "attack",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs",
+   "Relations with other people"
+  ]
+ },
+ {
+  "id": "attack-v",
+  "headword": "attack",
+  "pos": "verb"
+ },
+ {
+  "id": "attempt-n",
+  "headword": "attempt",
+  "pos": "noun"
+ },
+ {
+  "id": "attention-n",
+  "headword": "attention",
+  "pos": "noun"
+ },
+ {
+  "id": "attitude-n",
+  "headword": "attitude",
+  "pos": "noun"
+ },
+ {
+  "id": "attractive-adj",
+  "headword": "attractive",
+  "pos": "adjective"
+ },
+ {
+  "id": "audience-n",
+  "headword": "audience",
+  "pos": "noun",
+  "sourceTopics": [
+   "Media",
+   "Free time, entertainment"
+  ]
+ }
+]

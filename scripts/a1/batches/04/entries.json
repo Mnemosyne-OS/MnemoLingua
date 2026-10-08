@@ -1,0 +1,632 @@
+[
+ {
+  "id": "evening-n",
+  "headword": "evening",
+  "pos": "noun"
+ },
+ {
+  "id": "event-n",
+  "headword": "event",
+  "pos": "noun",
+  "sourceTopics": [
+   "Hobbies and pastimes",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "every-det",
+  "headword": "every",
+  "pos": "determiner"
+ },
+ {
+  "id": "everybody-pron",
+  "headword": "everybody",
+  "pos": "pronoun"
+ },
+ {
+  "id": "everyday-adj",
+  "headword": "everyday",
+  "pos": "adjective"
+ },
+ {
+  "id": "everything-pron",
+  "headword": "everything",
+  "pos": "pronoun"
+ },
+ {
+  "id": "everywhere-adv",
+  "headword": "everywhere",
+  "pos": "adverb"
+ },
+ {
+  "id": "example-n",
+  "headword": "example",
+  "pos": "noun"
+ },
+ {
+  "id": "excellent-adj",
+  "headword": "excellent",
+  "pos": "adjective"
+ },
+ {
+  "id": "excited-adj",
+  "headword": "excited",
+  "pos": "adjective"
+ },
+ {
+  "id": "exciting-adj",
+  "headword": "exciting",
+  "pos": "adjective"
+ },
+ {
+  "id": "excuse-n",
+  "headword": "excuse",
+  "pos": "noun"
+ },
+ {
+  "id": "exercise-v",
+  "headword": "exercise",
+  "pos": "verb"
+ },
+ {
+  "id": "expensive-adj",
+  "headword": "expensive",
+  "pos": "adjective"
+ },
+ {
+  "id": "eye-n",
+  "headword": "eye",
+  "pos": "noun",
+  "sourceTopics": [
+   "Health and body care"
+  ]
+ },
+ {
+  "id": "factory-n",
+  "headword": "factory",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "fair-adj",
+  "headword": "fair",
+  "pos": "adjective"
+ },
+ {
+  "id": "fairy-n",
+  "headword": "fairy",
+  "pos": "noun",
+  "sourceTopics": [
+   "Books and literature"
+  ]
+ },
+ {
+  "id": "false-adj",
+  "headword": "false",
+  "pos": "adjective"
+ },
+ {
+  "id": "family-n",
+  "headword": "family",
+  "pos": "noun",
+  "sourceTopics": [
+   "Family life",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "famous-adj",
+  "headword": "famous",
+  "pos": "adjective"
+ },
+ {
+  "id": "fan-n",
+  "headword": "fan",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "farm-n",
+  "headword": "farm",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "farmer-n",
+  "headword": "farmer",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "fast-adj",
+  "headword": "fast",
+  "pos": "adjective"
+ },
+ {
+  "id": "fat-adj",
+  "headword": "fat",
+  "pos": "adjective"
+ },
+ {
+  "id": "father-n",
+  "headword": "father",
+  "pos": "noun",
+  "sourceTopics": [
+   "Family life",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "favorite-adj",
+  "headword": "favorite",
+  "pos": "adjective",
+  "variants": [
+   "favourite"
+  ]
+ },
+ {
+  "id": "favorite-n",
+  "headword": "favorite",
+  "pos": "noun",
+  "variants": [
+   "favourite"
+  ],
+  "sourceTopics": [
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "february-n",
+  "headword": "February",
+  "pos": "noun"
+ },
+ {
+  "id": "feed-n",
+  "headword": "feed",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "feel-v",
+  "headword": "feel",
+  "pos": "verb"
+ },
+ {
+  "id": "feeling-n",
+  "headword": "feeling",
+  "pos": "noun"
+ },
+ {
+  "id": "festival-n",
+  "headword": "festival",
+  "pos": "noun",
+  "sourceTopics": [
+   "Leisure activities",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "fever-n",
+  "headword": "fever",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel and services vocab",
+   "Health and body care"
+  ]
+ },
+ {
+  "id": "fight-n",
+  "headword": "fight",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs",
+   "Relations with other people"
+  ]
+ },
+ {
+  "id": "file-n",
+  "headword": "file",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms"
+  ]
+ },
+ {
+  "id": "fill-v",
+  "headword": "fill",
+  "pos": "verb"
+ },
+ {
+  "id": "find-v",
+  "headword": "find",
+  "pos": "verb"
+ },
+ {
+  "id": "fine-adj",
+  "headword": "fine",
+  "pos": "adjective"
+ },
+ {
+  "id": "finish-n",
+  "headword": "finish",
+  "pos": "noun"
+ },
+ {
+  "id": "finish-v",
+  "headword": "finish",
+  "pos": "verb"
+ },
+ {
+  "id": "fire-n",
+  "headword": "fire",
+  "pos": "noun"
+ },
+ {
+  "id": "first-adj",
+  "headword": "first",
+  "pos": "adjective"
+ },
+ {
+  "id": "first-adv",
+  "headword": "first",
+  "pos": "adverb"
+ },
+ {
+  "id": "fishing-n",
+  "headword": "fishing",
+  "pos": "noun",
+  "sourceTopics": [
+   "Leisure activities",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "flag-n",
+  "headword": "flag",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping"
+  ]
+ },
+ {
+  "id": "flat-n",
+  "headword": "flat",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "floor-n",
+  "headword": "floor",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "flower-n",
+  "headword": "flower",
+  "pos": "noun"
+ },
+ {
+  "id": "fly-n",
+  "headword": "fly",
+  "pos": "noun",
+  "sourceTopics": [
+   "Ways of travelling"
+  ]
+ },
+ {
+  "id": "fly-v",
+  "headword": "fly",
+  "pos": "verb"
+ },
+ {
+  "id": "focus-v",
+  "headword": "focus",
+  "pos": "verb"
+ },
+ {
+  "id": "foggy-adj",
+  "headword": "foggy",
+  "pos": "adjective"
+ },
+ {
+  "id": "following-adj",
+  "headword": "following",
+  "pos": "adjective"
+ },
+ {
+  "id": "football-n",
+  "headword": "football",
+  "pos": "noun",
+  "sourceTopics": [
+   "Hobbies and pastimes",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "for-prep",
+  "headword": "for",
+  "pos": "preposition"
+ },
+ {
+  "id": "foreign-adj",
+  "headword": "foreign",
+  "pos": "adjective"
+ },
+ {
+  "id": "foreigner-n",
+  "headword": "foreigner",
+  "pos": "noun",
+  "sourceTopics": [
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "forget-v",
+  "headword": "forget",
+  "pos": "verb"
+ },
+ {
+  "id": "form-n",
+  "headword": "form",
+  "pos": "noun"
+ },
+ {
+  "id": "free-adj",
+  "headword": "free",
+  "pos": "adjective"
+ },
+ {
+  "id": "friday-n",
+  "headword": "Friday",
+  "pos": "noun"
+ },
+ {
+  "id": "friend-n",
+  "headword": "friend",
+  "pos": "noun",
+  "sourceTopics": [
+   "Personal information",
+   "Relations with other people"
+  ]
+ },
+ {
+  "id": "frog-n",
+  "headword": "frog",
+  "pos": "noun"
+ },
+ {
+  "id": "front-adj",
+  "headword": "front",
+  "pos": "adjective"
+ },
+ {
+  "id": "fruit-n",
+  "headword": "fruit",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "full-adj",
+  "headword": "full",
+  "pos": "adjective"
+ },
+ {
+  "id": "fun-adj",
+  "headword": "fun",
+  "pos": "adjective"
+ },
+ {
+  "id": "fun-n",
+  "headword": "fun",
+  "pos": "noun",
+  "sourceTopics": [
+   "Adjectives: personality, description, feelings"
+  ]
+ },
+ {
+  "id": "funny-adj",
+  "headword": "funny",
+  "pos": "adjective"
+ },
+ {
+  "id": "future-n",
+  "headword": "future",
+  "pos": "noun"
+ },
+ {
+  "id": "game-n",
+  "headword": "game",
+  "pos": "noun",
+  "sourceTopics": [
+   "Hobbies and pastimes",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "garbage-n",
+  "headword": "garbage",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "garden-n",
+  "headword": "garden",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "ghost-n",
+  "headword": "ghost",
+  "pos": "noun"
+ },
+ {
+  "id": "gift-n",
+  "headword": "gift",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "girl-n",
+  "headword": "girl",
+  "pos": "noun",
+  "sourceTopics": [
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "girlfriend-n",
+  "headword": "girlfriend",
+  "pos": "noun",
+  "sourceTopics": [
+   "Personal information",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "give-v",
+  "headword": "give",
+  "pos": "verb"
+ },
+ {
+  "id": "glad-adj",
+  "headword": "glad",
+  "pos": "adjective"
+ },
+ {
+  "id": "glass-n",
+  "headword": "glass",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "glasses-n",
+  "headword": "glasses",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "go-v",
+  "headword": "go",
+  "pos": "verb"
+ },
+ {
+  "id": "goal-n",
+  "headword": "goal",
+  "pos": "noun",
+  "sourceTopics": [
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "good-adj",
+  "headword": "good",
+  "pos": "adjective"
+ },
+ {
+  "id": "good-afternoon-interj",
+  "headword": "good afternoon",
+  "pos": "interjection"
+ },
+ {
+  "id": "good-morning-interj",
+  "headword": "good morning",
+  "pos": "interjection"
+ },
+ {
+  "id": "good-night-interj",
+  "headword": "good night",
+  "pos": "interjection"
+ },
+ {
+  "id": "grade-n",
+  "headword": "grade",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education"
+  ]
+ },
+ {
+  "id": "grammar-n",
+  "headword": "grammar",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Education"
+  ]
+ },
+ {
+  "id": "grandfather-n",
+  "headword": "grandfather",
+  "pos": "noun",
+  "sourceTopics": [
+   "Family life",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "grandma-n",
+  "headword": "grandma",
+  "pos": "noun",
+  "sourceTopics": [
+   "Family life",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "grandmother-n",
+  "headword": "grandmother",
+  "pos": "noun",
+  "sourceTopics": [
+   "Family life",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "grandpa-n",
+  "headword": "grandpa",
+  "pos": "noun",
+  "sourceTopics": [
+   "Family life",
+   "Personal identification"
+  ]
+ }
+]

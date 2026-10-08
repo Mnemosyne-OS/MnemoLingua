@@ -1,0 +1,572 @@
+[
+ {
+  "id": "cloudy-adj",
+  "headword": "cloudy",
+  "pos": "adjective",
+  "example": "It is cloudy today, so there is no sun."
+ },
+ {
+  "id": "club-n",
+  "headword": "club",
+  "pos": "noun",
+  "example": "I go to a chess club on Fridays."
+ },
+ {
+  "id": "coach-n",
+  "headword": "coach",
+  "pos": "noun",
+  "example": "We travel to London by coach."
+ },
+ {
+  "id": "coat-n",
+  "headword": "coat",
+  "pos": "noun",
+  "example": "It is cold, so I wear my coat."
+ },
+ {
+  "id": "code-n",
+  "headword": "code",
+  "pos": "noun",
+  "example": "The code for the door is 1234."
+ },
+ {
+  "id": "coffee-n",
+  "headword": "coffee",
+  "pos": "noun",
+  "example": "I drink a cup of coffee every morning."
+ },
+ {
+  "id": "coke-n",
+  "headword": "coke",
+  "pos": "noun",
+  "example": "Can I have a Coke with ice, please?"
+ },
+ {
+  "id": "cold-adj",
+  "headword": "cold",
+  "pos": "adjective",
+  "example": "The water in the sea is very cold."
+ },
+ {
+  "id": "cold-n",
+  "headword": "cold",
+  "pos": "noun",
+  "example": "I don't like the cold in winter."
+ },
+ {
+  "id": "collect-v",
+  "headword": "collect",
+  "pos": "verb",
+  "example": "My brother collects stamps from many countries."
+ },
+ {
+  "id": "college-n",
+  "headword": "college",
+  "pos": "noun",
+  "example": "My sister studies art at college."
+ },
+ {
+  "id": "color-n",
+  "headword": "color",
+  "pos": "noun",
+  "example": "Blue is my favorite color."
+ },
+ {
+  "id": "color-v",
+  "headword": "color",
+  "pos": "verb",
+  "example": "The children color the flowers red and yellow."
+ },
+ {
+  "id": "come-v",
+  "headword": "come",
+  "pos": "verb",
+  "example": "My friends come to my house on Saturdays."
+ },
+ {
+  "id": "computer-n",
+  "headword": "computer",
+  "pos": "noun",
+  "example": "I write emails on my computer."
+ },
+ {
+  "id": "concert-n",
+  "headword": "concert",
+  "pos": "noun",
+  "example": "We listen to music at a big concert."
+ },
+ {
+  "id": "contest-n",
+  "headword": "contest",
+  "pos": "noun",
+  "example": "She sings very well and wins the contest."
+ },
+ {
+  "id": "conversation-n",
+  "headword": "conversation",
+  "pos": "noun",
+  "example": "I have a long conversation with my mother."
+ },
+ {
+  "id": "cook-n",
+  "headword": "cook",
+  "pos": "noun",
+  "example": "My dad is a very good cook."
+ },
+ {
+  "id": "cook-v",
+  "headword": "cook",
+  "pos": "verb",
+  "example": "I cook pasta for dinner."
+ },
+ {
+  "id": "cool-adj",
+  "headword": "cool",
+  "pos": "adjective",
+  "example": "The evening is cool after a hot day."
+ },
+ {
+  "id": "cop-n",
+  "headword": "cop",
+  "pos": "noun",
+  "example": "The cop stops the fast car."
+ },
+ {
+  "id": "copy-n",
+  "headword": "copy",
+  "pos": "noun",
+  "example": "The teacher gives each student a copy of the text."
+ },
+ {
+  "id": "corn-n",
+  "headword": "corn",
+  "pos": "noun",
+  "example": "We eat corn with our chicken."
+ },
+ {
+  "id": "corner-n",
+  "headword": "corner",
+  "pos": "noun",
+  "example": "The TV is in the corner of the room."
+ },
+ {
+  "id": "correct-adj",
+  "headword": "correct",
+  "pos": "adjective",
+  "example": "Your answer is correct. Well done!"
+ },
+ {
+  "id": "couch-n",
+  "headword": "couch",
+  "pos": "noun",
+  "example": "We sit on the couch and watch TV."
+ },
+ {
+  "id": "could-modal",
+  "headword": "could",
+  "pos": "modal auxiliary",
+  "example": "Could you open the window, please?"
+ },
+ {
+  "id": "course-n",
+  "headword": "course",
+  "pos": "noun",
+  "example": "I do an English course on Mondays."
+ },
+ {
+  "id": "cousin-n",
+  "headword": "cousin",
+  "pos": "noun",
+  "example": "My cousin is the son of my aunt."
+ },
+ {
+  "id": "cow-n",
+  "headword": "cow",
+  "pos": "noun",
+  "example": "The cow eats grass and gives milk."
+ },
+ {
+  "id": "cream-n",
+  "headword": "cream",
+  "pos": "noun",
+  "example": "I like strawberries with cream."
+ },
+ {
+  "id": "credit-card-n",
+  "headword": "credit card",
+  "pos": "noun",
+  "example": "I pay for my shoes with my credit card."
+ },
+ {
+  "id": "cry-n",
+  "headword": "cry",
+  "pos": "noun",
+  "example": "We hear a loud cry in the street."
+ },
+ {
+  "id": "culture-n",
+  "headword": "culture",
+  "pos": "noun",
+  "example": "I love the food and culture of Japan."
+ },
+ {
+  "id": "cup-n",
+  "headword": "cup",
+  "pos": "noun",
+  "example": "I drink my tea from a big cup."
+ },
+ {
+  "id": "cut-v",
+  "headword": "cut",
+  "pos": "verb",
+  "example": "I cut the bread with a knife."
+ },
+ {
+  "id": "cute-adj",
+  "headword": "cute",
+  "pos": "adjective",
+  "example": "Your little puppy is very cute."
+ },
+ {
+  "id": "dad-n",
+  "headword": "dad",
+  "pos": "noun",
+  "example": "My dad is a teacher."
+ },
+ {
+  "id": "daddy-n",
+  "headword": "daddy",
+  "pos": "noun",
+  "example": "Daddy, can you read me a story?"
+ },
+ {
+  "id": "dance-v",
+  "headword": "dance",
+  "pos": "verb",
+  "example": "We dance to the music at the party."
+ },
+ {
+  "id": "dancing-n",
+  "headword": "dancing",
+  "pos": "noun",
+  "example": "Dancing is my favorite hobby."
+ },
+ {
+  "id": "dark-adj",
+  "headword": "dark",
+  "pos": "adjective",
+  "example": "The room is dark. Please turn on the light."
+ },
+ {
+  "id": "date-n",
+  "headword": "date",
+  "pos": "noun",
+  "example": "What is the date today?"
+ },
+ {
+  "id": "daughter-n",
+  "headword": "daughter",
+  "pos": "noun",
+  "example": "They have a son and a daughter."
+ },
+ {
+  "id": "day-n",
+  "headword": "day",
+  "pos": "noun",
+  "example": "There are seven days in a week."
+ },
+ {
+  "id": "dear-adj",
+  "headword": "dear",
+  "pos": "adjective",
+  "example": "Dear Anna, thank you for your letter."
+ },
+ {
+  "id": "december-n",
+  "headword": "December",
+  "pos": "noun",
+  "example": "Christmas is in December."
+ },
+ {
+  "id": "delicious-adj",
+  "headword": "delicious",
+  "pos": "adjective",
+  "example": "This chocolate cake is delicious!"
+ },
+ {
+  "id": "describe-v",
+  "headword": "describe",
+  "pos": "verb",
+  "example": "Please describe your house in three sentences."
+ },
+ {
+  "id": "desk-n",
+  "headword": "desk",
+  "pos": "noun",
+  "example": "My computer and my books are on my desk."
+ },
+ {
+  "id": "dictionary-n",
+  "headword": "dictionary",
+  "pos": "noun",
+  "example": "I look for new words in my dictionary."
+ },
+ {
+  "id": "did-do",
+  "headword": "did",
+  "pos": "do-verb",
+  "example": "Did you go to school yesterday?"
+ },
+ {
+  "id": "difference-n",
+  "headword": "difference",
+  "pos": "noun",
+  "example": "What is the difference between these two bags?"
+ },
+ {
+  "id": "different-adj",
+  "headword": "different",
+  "pos": "adjective",
+  "example": "My sister and I are very different."
+ },
+ {
+  "id": "difficult-adj",
+  "headword": "difficult",
+  "pos": "adjective",
+  "example": "This test is very difficult for me."
+ },
+ {
+  "id": "dig-n",
+  "headword": "dig",
+  "pos": "noun",
+  "example": "At the dig, people find very old pots."
+ },
+ {
+  "id": "dining-room-n",
+  "headword": "dining room",
+  "pos": "noun",
+  "example": "We eat dinner in the dining room."
+ },
+ {
+  "id": "dinner-n",
+  "headword": "dinner",
+  "pos": "noun",
+  "example": "We have dinner at eight o'clock."
+ },
+ {
+  "id": "dirty-adj",
+  "headword": "dirty",
+  "pos": "adjective",
+  "example": "My shoes are dirty after the walk."
+ },
+ {
+  "id": "dish-n",
+  "headword": "dish",
+  "pos": "noun",
+  "example": "The dish is hot from the oven."
+ },
+ {
+  "id": "do-do",
+  "headword": "do",
+  "pos": "do-verb",
+  "example": "Do you like pizza?"
+ },
+ {
+  "id": "doctor-n",
+  "headword": "doctor",
+  "pos": "noun",
+  "example": "I am sick, so I see the doctor."
+ },
+ {
+  "id": "does-do",
+  "headword": "does",
+  "pos": "do-verb",
+  "example": "Does your brother speak French?"
+ },
+ {
+  "id": "dog-n",
+  "headword": "dog",
+  "pos": "noun",
+  "example": "My dog runs in the park every day."
+ },
+ {
+  "id": "doing-do",
+  "headword": "doing",
+  "pos": "do-verb",
+  "example": "What are you doing now?"
+ },
+ {
+  "id": "doll-n",
+  "headword": "doll",
+  "pos": "noun",
+  "example": "The little girl plays with her doll."
+ },
+ {
+  "id": "dollar-n",
+  "headword": "dollar",
+  "pos": "noun",
+  "example": "This book costs ten dollars."
+ },
+ {
+  "id": "door-n",
+  "headword": "door",
+  "pos": "noun",
+  "example": "Please close the door when you go out."
+ },
+ {
+  "id": "down-adv",
+  "headword": "down",
+  "pos": "adverb",
+  "example": "Look down! There is a dog under the table."
+ },
+ {
+  "id": "draw-v",
+  "headword": "draw",
+  "pos": "verb",
+  "example": "I draw a picture of my cat."
+ },
+ {
+  "id": "dream-n",
+  "headword": "dream",
+  "pos": "noun",
+  "example": "I have a nice dream every night."
+ },
+ {
+  "id": "dress-n",
+  "headword": "dress",
+  "pos": "noun",
+  "example": "She wears a red dress to the party."
+ },
+ {
+  "id": "drink-n",
+  "headword": "drink",
+  "pos": "noun",
+  "example": "It is hot. Can I have a cold drink?"
+ },
+ {
+  "id": "drink-v",
+  "headword": "drink",
+  "pos": "verb",
+  "example": "I drink a glass of milk every morning."
+ },
+ {
+  "id": "drive-n",
+  "headword": "drive",
+  "pos": "noun",
+  "example": "On Sundays we go for a drive in the country."
+ },
+ {
+  "id": "driver-n",
+  "headword": "driver",
+  "pos": "noun",
+  "example": "The bus driver says hello to everyone."
+ },
+ {
+  "id": "drop-v",
+  "headword": "drop",
+  "pos": "verb",
+  "example": "Be careful! Don't drop the eggs."
+ },
+ {
+  "id": "drum-n",
+  "headword": "drum",
+  "pos": "noun",
+  "example": "The boy plays a big drum in the band."
+ },
+ {
+  "id": "dry-adj",
+  "headword": "dry",
+  "pos": "adjective",
+  "example": "The weather is hot and dry in summer."
+ },
+ {
+  "id": "dvd-n",
+  "headword": "DVD",
+  "pos": "noun",
+  "example": "We watch a film on DVD tonight."
+ },
+ {
+  "id": "each-det",
+  "headword": "each",
+  "pos": "determiner",
+  "example": "Each student has a book."
+ },
+ {
+  "id": "each-pron",
+  "headword": "each",
+  "pos": "pronoun",
+  "example": "The apples cost one euro each."
+ },
+ {
+  "id": "each-other-pron",
+  "headword": "each other",
+  "pos": "pronoun",
+  "example": "Tom and Anna love each other."
+ },
+ {
+  "id": "ear-n",
+  "headword": "ear",
+  "pos": "noun",
+  "example": "I listen to music with one ear."
+ },
+ {
+  "id": "early-adv",
+  "headword": "early",
+  "pos": "adverb",
+  "example": "I get up early, at six o'clock."
+ },
+ {
+  "id": "easy-adj",
+  "headword": "easy",
+  "pos": "adjective",
+  "example": "This exercise is easy. I finish it fast."
+ },
+ {
+  "id": "eat-v",
+  "headword": "eat",
+  "pos": "verb",
+  "example": "We eat lunch at one o'clock."
+ },
+ {
+  "id": "egg-n",
+  "headword": "egg",
+  "pos": "noun",
+  "example": "I have an egg and bread for breakfast."
+ },
+ {
+  "id": "either-adv",
+  "headword": "either",
+  "pos": "adverb",
+  "example": "I don't eat meat. My sister doesn't either."
+ },
+ {
+  "id": "else-adv",
+  "headword": "else",
+  "pos": "adverb",
+  "example": "Do you want anything else?"
+ },
+ {
+  "id": "email-n",
+  "headword": "email",
+  "pos": "noun",
+  "example": "I write an email to my friend."
+ },
+ {
+  "id": "end-n",
+  "headword": "end",
+  "pos": "noun",
+  "example": "The end of the film is very sad."
+ },
+ {
+  "id": "engineer-n",
+  "headword": "engineer",
+  "pos": "noun",
+  "example": "My mother is an engineer. She builds bridges."
+ },
+ {
+  "id": "enjoy-v",
+  "headword": "enjoy",
+  "pos": "verb",
+  "example": "I enjoy reading books in bed."
+ }
+]

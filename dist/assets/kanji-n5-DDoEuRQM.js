@@ -1,0 +1,1 @@
+const e="ja-kanji-n5",n="ja",i=1,o=null,d=null,t="2026-10-07",c={source:"kanjidic2",jlpt:4},s=[],a={id:e,lang:n,version:1,reviewedBy:null,reviewedAt:null,checkedAt:t,pack:c,themes:s};export{t as checkedAt,a as default,e as id,n as lang,c as pack,d as reviewedAt,o as reviewedBy,s as themes,i as version};

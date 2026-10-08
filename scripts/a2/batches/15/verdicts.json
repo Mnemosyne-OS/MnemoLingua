@@ -1,0 +1,382 @@
+{
+ "decoys": {
+  "caught": 6,
+  "total": 6,
+  "missed": []
+ },
+ "toReview": 2,
+ "cards": {
+  "understand-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "underwater-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "uneasy-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "unfair-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "unforgettable-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "unfortunately-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "unhappy-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "unhealthy-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "uniform-adj": {
+   "check": "to-review",
+   "problems": [
+    "english: \"uniform\" as an adjective is above A2 and awkward here; learners would say \"all the same\""
+   ]
+  },
+  "uniform-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "unimportant-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "unit-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "university-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "unknown-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "unlike-adj": {
+   "check": "to-review",
+   "problems": [
+    "english: \"unlike\" as a predicative adjective (\"are completely unlike\") is archaic/unnatural and not A2"
+   ]
+  },
+  "unnecessary-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "unpleasant-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "unusual-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "up-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "upon-prep": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "upset-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "upstairs-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "use-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "used-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "useful-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "usual-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "valley-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "value-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "verb-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "video-game-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "view-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "village-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "violent-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "violin-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "visitor-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "vocabulary-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "voice-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "walking-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "wallet-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "wander-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "washing-machine-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "washing-up-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "wave-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "weak-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "wealth-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "web-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "web-page-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "website-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "wedding-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "weekday-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "weekly-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "weekly-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "weep-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "weigh-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "weight-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "well-known-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "west-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "west-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "west-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "wet-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "whatever-det": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "wheelchair-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "while-conj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "whole-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "whom-pron": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "wide-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "wide-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "widely-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "wild-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "windy-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "wine-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "winner-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "wisdom-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "wise-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "wish-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "within-prep": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "without-prep": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "wonder-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "wood-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "wooden-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "wool-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "worldwide-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "worried-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "worry-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "worse-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "worse-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "worst-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "writing-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "wrong-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "yeah-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "youth-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "zone-n": {
+   "check": "two-pass",
+   "problems": []
+  }
+ }
+}

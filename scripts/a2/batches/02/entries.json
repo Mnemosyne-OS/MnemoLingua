@@ -1,0 +1,641 @@
+[
+ {
+  "id": "audio-adj",
+  "headword": "audio",
+  "pos": "adjective"
+ },
+ {
+  "id": "author-n",
+  "headword": "author",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "automatic-adj",
+  "headword": "automatic",
+  "pos": "adjective"
+ },
+ {
+  "id": "automatically-adv",
+  "headword": "automatically",
+  "pos": "adverb"
+ },
+ {
+  "id": "average-adj",
+  "headword": "average",
+  "pos": "adjective"
+ },
+ {
+  "id": "average-n",
+  "headword": "average",
+  "pos": "noun"
+ },
+ {
+  "id": "avoid-v",
+  "headword": "avoid",
+  "pos": "verb"
+ },
+ {
+  "id": "award-n",
+  "headword": "award",
+  "pos": "noun",
+  "sourceTopics": [
+   "Media",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "awful-adj",
+  "headword": "awful",
+  "pos": "adjective"
+ },
+ {
+  "id": "back-adj",
+  "headword": "back",
+  "pos": "adjective"
+ },
+ {
+  "id": "background-n",
+  "headword": "background",
+  "pos": "noun",
+  "sourceTopics": [
+   "Personal information"
+  ]
+ },
+ {
+  "id": "badly-adv",
+  "headword": "badly",
+  "pos": "adverb"
+ },
+ {
+  "id": "badminton-n",
+  "headword": "badminton",
+  "pos": "noun",
+  "sourceTopics": [
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "bake-v",
+  "headword": "bake",
+  "pos": "verb"
+ },
+ {
+  "id": "balcony-n",
+  "headword": "balcony",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "balloon-n",
+  "headword": "balloon",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping"
+  ]
+ },
+ {
+  "id": "bank-v",
+  "headword": "bank",
+  "pos": "verb"
+ },
+ {
+  "id": "banking-n",
+  "headword": "banking",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel and services vocab",
+   "Services"
+  ]
+ },
+ {
+  "id": "barbecue-n",
+  "headword": "barbecue",
+  "pos": "noun",
+  "sourceTopics": [
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "barber-n",
+  "headword": "barber",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "Services"
+  ]
+ },
+ {
+  "id": "bargain-n",
+  "headword": "bargain",
+  "pos": "noun",
+  "sourceTopics": [
+   "Shopping",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "base-n",
+  "headword": "base",
+  "pos": "noun"
+ },
+ {
+  "id": "basic-adj",
+  "headword": "basic",
+  "pos": "adjective"
+ },
+ {
+  "id": "basically-adv",
+  "headword": "basically",
+  "pos": "adverb"
+ },
+ {
+  "id": "basket-n",
+  "headword": "basket",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "batch-n",
+  "headword": "batch",
+  "pos": "noun",
+  "sourceTopics": [
+   "Collocation",
+   "Language"
+  ]
+ },
+ {
+  "id": "battery-n",
+  "headword": "battery",
+  "pos": "noun"
+ },
+ {
+  "id": "bay-n",
+  "headword": "bay",
+  "pos": "noun",
+  "sourceTopics": [
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "bear-v",
+  "headword": "bear",
+  "pos": "verb"
+ },
+ {
+  "id": "beauty-n",
+  "headword": "beauty",
+  "pos": "noun",
+  "sourceTopics": [
+   "Hobbies and pastimes",
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "been-be",
+  "headword": "been",
+  "pos": "be-verb"
+ },
+ {
+  "id": "beer-n",
+  "headword": "beer",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "before-conj",
+  "headword": "before",
+  "pos": "conjunction"
+ },
+ {
+  "id": "beg-v",
+  "headword": "beg",
+  "pos": "verb"
+ },
+ {
+  "id": "beginner-n",
+  "headword": "beginner",
+  "pos": "noun",
+  "sourceTopics": [
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "beginning-n",
+  "headword": "beginning",
+  "pos": "noun"
+ },
+ {
+  "id": "behavior-n",
+  "headword": "behavior",
+  "pos": "noun",
+  "variants": [
+   "behaviour"
+  ]
+ },
+ {
+  "id": "being-n",
+  "headword": "being",
+  "pos": "noun",
+  "sourceTopics": [
+   "Collocation",
+   "Language"
+  ]
+ },
+ {
+  "id": "belly-n",
+  "headword": "belly",
+  "pos": "noun"
+ },
+ {
+  "id": "belong-v",
+  "headword": "belong",
+  "pos": "verb"
+ },
+ {
+  "id": "belt-n",
+  "headword": "belt",
+  "pos": "noun",
+  "sourceTopics": [
+   "Shopping"
+  ]
+ },
+ {
+  "id": "bench-n",
+  "headword": "bench",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "bend-v",
+  "headword": "bend",
+  "pos": "verb"
+ },
+ {
+  "id": "besides-adv",
+  "headword": "besides",
+  "pos": "adverb"
+ },
+ {
+  "id": "better-adv",
+  "headword": "better",
+  "pos": "adverb"
+ },
+ {
+  "id": "beyond-prep",
+  "headword": "beyond",
+  "pos": "preposition"
+ },
+ {
+  "id": "bill-n",
+  "headword": "bill",
+  "pos": "noun",
+  "sourceTopics": [
+   "Shopping",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "bit-n",
+  "headword": "bit",
+  "pos": "noun",
+  "sourceTopics": [
+   "Collocation",
+   "Language"
+  ]
+ },
+ {
+  "id": "bite-n",
+  "headword": "bite",
+  "pos": "noun"
+ },
+ {
+  "id": "blackboard-n",
+  "headword": "blackboard",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Education"
+  ]
+ },
+ {
+  "id": "blame-v",
+  "headword": "blame",
+  "pos": "verb"
+ },
+ {
+  "id": "blanket-n",
+  "headword": "blanket",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "blonde-adj",
+  "headword": "blonde",
+  "pos": "adjective"
+ },
+ {
+  "id": "blood-n",
+  "headword": "blood",
+  "pos": "noun"
+ },
+ {
+  "id": "bloom-n",
+  "headword": "bloom",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping"
+  ]
+ },
+ {
+  "id": "blow-n",
+  "headword": "blow",
+  "pos": "noun"
+ },
+ {
+  "id": "board-game-n",
+  "headword": "board game",
+  "pos": "noun",
+  "sourceTopics": [
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "boil-v",
+  "headword": "boil",
+  "pos": "verb"
+ },
+ {
+  "id": "boiled-adj",
+  "headword": "boiled",
+  "pos": "adjective"
+ },
+ {
+  "id": "bonus-n",
+  "headword": "bonus",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Services"
+  ]
+ },
+ {
+  "id": "bookcase-n",
+  "headword": "bookcase",
+  "pos": "noun",
+  "sourceTopics": [
+   "Shopping"
+  ]
+ },
+ {
+  "id": "bookshelf-n",
+  "headword": "bookshelf",
+  "pos": "noun",
+  "sourceTopics": [
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "bookshop-n",
+  "headword": "bookshop",
+  "pos": "noun",
+  "sourceTopics": [
+   "Shopping"
+  ]
+ },
+ {
+  "id": "bored-adj",
+  "headword": "bored",
+  "pos": "adjective"
+ },
+ {
+  "id": "boss-n",
+  "headword": "boss",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "bother-v",
+  "headword": "bother",
+  "pos": "verb"
+ },
+ {
+  "id": "bra-n",
+  "headword": "bra",
+  "pos": "noun",
+  "sourceTopics": [
+   "Clothes",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "brainstorm-n",
+  "headword": "brainstorm",
+  "pos": "noun"
+ },
+ {
+  "id": "brake-n",
+  "headword": "brake",
+  "pos": "noun"
+ },
+ {
+  "id": "branch-n",
+  "headword": "branch",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "Services"
+  ]
+ },
+ {
+  "id": "brand-n",
+  "headword": "brand",
+  "pos": "noun",
+  "sourceTopics": [
+   "Shopping",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "brave-adj",
+  "headword": "brave",
+  "pos": "adjective"
+ },
+ {
+  "id": "break-n",
+  "headword": "break",
+  "pos": "noun"
+ },
+ {
+  "id": "breeze-n",
+  "headword": "breeze",
+  "pos": "noun",
+  "sourceTopics": [
+   "Weather"
+  ]
+ },
+ {
+  "id": "bride-n",
+  "headword": "bride",
+  "pos": "noun",
+  "sourceTopics": [
+   "Family life",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "brilliant-adj",
+  "headword": "brilliant",
+  "pos": "adjective"
+ },
+ {
+  "id": "brown-n",
+  "headword": "brown",
+  "pos": "noun"
+ },
+ {
+  "id": "budget-n",
+  "headword": "budget",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Services"
+  ]
+ },
+ {
+  "id": "bug-n",
+  "headword": "bug",
+  "pos": "noun"
+ },
+ {
+  "id": "bulb-n",
+  "headword": "bulb",
+  "pos": "noun"
+ },
+ {
+  "id": "burn-n",
+  "headword": "burn",
+  "pos": "noun"
+ },
+ {
+  "id": "bury-v",
+  "headword": "bury",
+  "pos": "verb"
+ },
+ {
+  "id": "bus-station-n",
+  "headword": "bus station",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel"
+  ]
+ },
+ {
+  "id": "bus-stop-n",
+  "headword": "bus stop",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel"
+  ]
+ },
+ {
+  "id": "bush-n",
+  "headword": "bush",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "Places"
+  ]
+ },
+ {
+  "id": "businessman-n",
+  "headword": "businessman",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "businesswoman-n",
+  "headword": "businesswoman",
+  "pos": "noun",
+  "sourceTopics": [
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "cab-n",
+  "headword": "cab",
+  "pos": "noun",
+  "sourceTopics": [
+   "Ways of travelling",
+   "Travel"
+  ]
+ },
+ {
+  "id": "cafeteria-n",
+  "headword": "cafeteria",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "calendar-n",
+  "headword": "calendar",
+  "pos": "noun",
+  "sourceTopics": [
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "call-v",
+  "headword": "call",
+  "pos": "verb"
+ },
+ {
+  "id": "camp-v",
+  "headword": "camp",
+  "pos": "verb"
+ },
+ {
+  "id": "camping-n",
+  "headword": "camping",
+  "pos": "noun",
+  "sourceTopics": [
+   "Free time, entertainment"
+  ]
+ },
+ {
+  "id": "campus-n",
+  "headword": "campus",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Education"
+  ]
+ }
+]

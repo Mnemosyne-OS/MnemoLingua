@@ -1,0 +1,572 @@
+[
+ {
+  "id": "scare-v",
+  "headword": "scare",
+  "pos": "verb",
+  "example": "Loud thunder can scare small children at night."
+ },
+ {
+  "id": "scared-adj",
+  "headword": "scared",
+  "pos": "adjective",
+  "example": "My sister is scared of spiders and never touches them."
+ },
+ {
+  "id": "scary-adj",
+  "headword": "scary",
+  "pos": "adjective",
+  "example": "We watched a scary film and couldn't sleep afterwards."
+ },
+ {
+  "id": "scatter-v",
+  "headword": "scatter",
+  "pos": "verb",
+  "example": "The wind scattered the leaves all over the garden."
+ },
+ {
+  "id": "scenic-adj",
+  "headword": "scenic",
+  "pos": "adjective",
+  "example": "We took the scenic road along the coast to enjoy the views."
+ },
+ {
+  "id": "scholar-n",
+  "headword": "scholar",
+  "pos": "noun",
+  "example": "The old scholar spent his life studying ancient Greek texts."
+ },
+ {
+  "id": "scholarship-n",
+  "headword": "scholarship",
+  "pos": "noun",
+  "example": "She won a scholarship, so her university studies are free."
+ },
+ {
+  "id": "schoolmate-n",
+  "headword": "schoolmate",
+  "pos": "noun",
+  "example": "I met an old schoolmate who sat next to me in class."
+ },
+ {
+  "id": "schoolteacher-n",
+  "headword": "schoolteacher",
+  "pos": "noun",
+  "example": "My aunt is a schoolteacher and teaches young children to read."
+ },
+ {
+  "id": "science-fiction-n",
+  "headword": "science fiction",
+  "pos": "noun",
+  "example": "He loves science fiction, especially stories about travel to other planets."
+ },
+ {
+  "id": "scold-v",
+  "headword": "scold",
+  "pos": "verb",
+  "example": "The teacher scolded the boys for being late again."
+ },
+ {
+  "id": "scope-n",
+  "headword": "scope",
+  "pos": "noun",
+  "example": "This question is outside the scope of our project."
+ },
+ {
+  "id": "score-n",
+  "headword": "score",
+  "pos": "noun",
+  "example": "She got a score of ninety percent on the English test."
+ },
+ {
+  "id": "score-v",
+  "headword": "score",
+  "pos": "verb",
+  "example": "Our best player scored two goals in the second half."
+ },
+ {
+  "id": "scratch-n",
+  "headword": "scratch",
+  "pos": "noun",
+  "example": "The cat left a long scratch on my arm."
+ },
+ {
+  "id": "scream-v",
+  "headword": "scream",
+  "pos": "verb",
+  "example": "People screamed when the roller coaster suddenly dropped."
+ },
+ {
+  "id": "sculpture-n",
+  "headword": "sculpture",
+  "pos": "noun",
+  "example": "There is a large stone sculpture of a horse in the park."
+ },
+ {
+  "id": "search-v",
+  "headword": "search",
+  "pos": "verb",
+  "example": "We searched the whole house for my keys."
+ },
+ {
+  "id": "season-n",
+  "headword": "season",
+  "pos": "noun",
+  "example": "Summer is my favourite season because the days are long."
+ },
+ {
+  "id": "seawater-n",
+  "headword": "seawater",
+  "pos": "noun",
+  "example": "You can't drink seawater because it contains too much salt."
+ },
+ {
+  "id": "seaweed-n",
+  "headword": "seaweed",
+  "pos": "noun",
+  "example": "In Japan, people often eat rice wrapped in seaweed."
+ },
+ {
+  "id": "second-adv",
+  "headword": "second",
+  "pos": "adverb",
+  "example": "First, the hotel is too expensive; second, it is far from the beach."
+ },
+ {
+  "id": "secondary-school-n",
+  "headword": "secondary school",
+  "pos": "noun",
+  "example": "Children start secondary school when they are about eleven."
+ },
+ {
+  "id": "second-hand-adj",
+  "headword": "second-hand",
+  "pos": "adjective",
+  "example": "I bought a second-hand car because new ones are too expensive."
+ },
+ {
+  "id": "second-hand-adv",
+  "headword": "second-hand",
+  "pos": "adverb",
+  "example": "Students often buy their books second-hand to save money."
+ },
+ {
+  "id": "secret-adj",
+  "headword": "secret",
+  "pos": "adjective",
+  "example": "They kept the party secret until her birthday."
+ },
+ {
+  "id": "secretly-adv",
+  "headword": "secretly",
+  "pos": "adverb",
+  "example": "He secretly read his sister's diary while she was out."
+ },
+ {
+  "id": "secure-adj",
+  "headword": "secure",
+  "pos": "adjective",
+  "example": "Keep your passport in a secure place, like the hotel safe."
+ },
+ {
+  "id": "security-n",
+  "headword": "security",
+  "pos": "noun",
+  "example": "Airport security checked our bags very carefully."
+ },
+ {
+  "id": "seize-v",
+  "headword": "seize",
+  "pos": "verb",
+  "example": "The police seized the stolen phones from the shop."
+ },
+ {
+  "id": "select-adj",
+  "headword": "select",
+  "pos": "adjective",
+  "example": "Only a select group of students was invited to meet the president."
+ },
+ {
+  "id": "selection-n",
+  "headword": "selection",
+  "pos": "noun",
+  "example": "The shop has a large selection of cheeses from France."
+ },
+ {
+  "id": "selfish-adj",
+  "headword": "selfish",
+  "pos": "adjective",
+  "example": "It was selfish of him to eat all the cake alone."
+ },
+ {
+  "id": "self-service-adj",
+  "headword": "self-service",
+  "pos": "adjective",
+  "example": "It's a self-service restaurant, so you carry your own tray."
+ },
+ {
+  "id": "sensation-n",
+  "headword": "sensation",
+  "pos": "noun",
+  "example": "I had a strange sensation in my fingers after the cold swim."
+ },
+ {
+  "id": "separation-n",
+  "headword": "separation",
+  "pos": "noun",
+  "example": "After a long separation, the two brothers were happy to meet again."
+ },
+ {
+  "id": "sequence-n",
+  "headword": "sequence",
+  "pos": "noun",
+  "example": "Put the pictures in the right sequence to tell the story."
+ },
+ {
+  "id": "series-n",
+  "headword": "series",
+  "pos": "noun",
+  "example": "We watched the whole TV series in one weekend."
+ },
+ {
+  "id": "serious-adj",
+  "headword": "serious",
+  "pos": "adjective",
+  "example": "Nobody was hurt, but it was a serious accident."
+ },
+ {
+  "id": "server-n",
+  "headword": "server",
+  "pos": "noun",
+  "example": "The website was down because the server stopped working."
+ },
+ {
+  "id": "service-n",
+  "headword": "service",
+  "pos": "noun",
+  "example": "The food was good, but the service in the restaurant was slow."
+ },
+ {
+  "id": "service-v",
+  "headword": "service",
+  "pos": "verb",
+  "example": "The garage will service my car before our long trip."
+ },
+ {
+  "id": "session-n",
+  "headword": "session",
+  "pos": "noun",
+  "example": "The training session lasts two hours every Monday evening."
+ },
+ {
+  "id": "setting-n",
+  "headword": "setting",
+  "pos": "noun",
+  "example": "The story has a beautiful setting in a small mountain village."
+ },
+ {
+  "id": "settle-v",
+  "headword": "settle",
+  "pos": "verb",
+  "example": "My grandparents settled in Canada after the war."
+ },
+ {
+  "id": "settlement-n",
+  "headword": "settlement",
+  "pos": "noun",
+  "example": "The first settlement on the island was a small fishing village."
+ },
+ {
+  "id": "settler-n",
+  "headword": "settler",
+  "pos": "noun",
+  "example": "The early settlers built their houses from wood near the river."
+ },
+ {
+  "id": "severe-adj",
+  "headword": "severe",
+  "pos": "adjective",
+  "example": "The severe storm closed all the roads in the north."
+ },
+ {
+  "id": "severely-adv",
+  "headword": "severely",
+  "pos": "adverb",
+  "example": "The old bridge was severely damaged by the flood."
+ },
+ {
+  "id": "sex-n",
+  "headword": "sex",
+  "pos": "noun",
+  "example": "Please write your name, age and sex on the form."
+ },
+ {
+  "id": "shadow-v",
+  "headword": "shadow",
+  "pos": "verb",
+  "example": "The police shadowed the man for three days before arresting him."
+ },
+ {
+  "id": "shadowy-adj",
+  "headword": "shadowy",
+  "pos": "adjective",
+  "example": "A shadowy figure stood at the end of the dark street."
+ },
+ {
+  "id": "shake-v",
+  "headword": "shake",
+  "pos": "verb",
+  "example": "Shake the bottle well before you pour the juice."
+ },
+ {
+  "id": "shallow-adj",
+  "headword": "shallow",
+  "pos": "adjective",
+  "example": "The water is shallow here, so small children can play safely."
+ },
+ {
+  "id": "shame-n",
+  "headword": "shame",
+  "pos": "noun",
+  "example": "He felt deep shame after lying to his best friend."
+ },
+ {
+  "id": "shameful-adj",
+  "headword": "shameful",
+  "pos": "adjective",
+  "example": "Leaving the dog alone in the hot car was shameful."
+ },
+ {
+  "id": "shape-v",
+  "headword": "shape",
+  "pos": "verb",
+  "example": "She shaped the clay into a small bowl."
+ },
+ {
+  "id": "sharp-adj",
+  "headword": "sharp",
+  "pos": "adjective",
+  "example": "Be careful, that knife is very sharp."
+ },
+ {
+  "id": "shave-v",
+  "headword": "shave",
+  "pos": "verb",
+  "example": "My dad shaves every morning before breakfast."
+ },
+ {
+  "id": "sheer-adj",
+  "headword": "sheer",
+  "pos": "adjective",
+  "example": "She won the race through sheer hard work."
+ },
+ {
+  "id": "sheet-n",
+  "headword": "sheet",
+  "pos": "noun",
+  "example": "I put clean sheets on the bed this morning."
+ },
+ {
+  "id": "shelter-n",
+  "headword": "shelter",
+  "pos": "noun",
+  "example": "We found shelter from the rain under a big tree."
+ },
+ {
+  "id": "sheriff-n",
+  "headword": "sheriff",
+  "pos": "noun",
+  "example": "The sheriff arrested the thief in the small American town."
+ },
+ {
+  "id": "shift-v",
+  "headword": "shift",
+  "pos": "verb",
+  "example": "Can you help me shift this heavy table to the window?"
+ },
+ {
+  "id": "shiny-adj",
+  "headword": "shiny",
+  "pos": "adjective",
+  "example": "He cleaned his shoes until they were shiny."
+ },
+ {
+  "id": "ship-v",
+  "headword": "ship",
+  "pos": "verb",
+  "example": "The company will ship your order within three days."
+ },
+ {
+  "id": "shiver-v",
+  "headword": "shiver",
+  "pos": "verb",
+  "example": "We shivered at the bus stop in the freezing wind."
+ },
+ {
+  "id": "shocked-adj",
+  "headword": "shocked",
+  "pos": "adjective",
+  "example": "I was shocked when I saw the price of the tickets."
+ },
+ {
+  "id": "shocking-adj",
+  "headword": "shocking",
+  "pos": "adjective",
+  "example": "The news about the accident was shocking."
+ },
+ {
+  "id": "shop-v",
+  "headword": "shop",
+  "pos": "verb",
+  "example": "We usually shop for food on Saturday morning."
+ },
+ {
+  "id": "shopper-n",
+  "headword": "shopper",
+  "pos": "noun",
+  "example": "The streets were full of shoppers before Christmas."
+ },
+ {
+  "id": "shortage-n",
+  "headword": "shortage",
+  "pos": "noun",
+  "example": "There is a shortage of water in the village this summer."
+ },
+ {
+  "id": "shortly-adv",
+  "headword": "shortly",
+  "pos": "adverb",
+  "example": "The doctor will see you shortly, please take a seat."
+ },
+ {
+  "id": "shout-v",
+  "headword": "shout",
+  "pos": "verb",
+  "example": "Don't shout, I can hear you perfectly."
+ },
+ {
+  "id": "shrimp-n",
+  "headword": "shrimp",
+  "pos": "noun",
+  "example": "I ordered a salad with grilled shrimp and lemon."
+ },
+ {
+  "id": "shut-adj",
+  "headword": "shut",
+  "pos": "adjective",
+  "example": "The bank is shut on Sundays, so go on Monday."
+ },
+ {
+  "id": "sickness-n",
+  "headword": "sickness",
+  "pos": "noun",
+  "example": "She took a pill for travel sickness before the boat trip."
+ },
+ {
+  "id": "sidewalk-n",
+  "headword": "sidewalk",
+  "pos": "noun",
+  "example": "Children should walk on the sidewalk, not in the road."
+ },
+ {
+  "id": "sigh-n",
+  "headword": "sigh",
+  "pos": "noun",
+  "example": "She gave a long sigh and closed her tired eyes."
+ },
+ {
+  "id": "sign-v",
+  "headword": "sign",
+  "pos": "verb",
+  "example": "Please sign your name at the bottom of the page."
+ },
+ {
+  "id": "signal-n",
+  "headword": "signal",
+  "pos": "noun",
+  "example": "I can't call you because there is no signal here."
+ },
+ {
+  "id": "signature-n",
+  "headword": "signature",
+  "pos": "noun",
+  "example": "The letter is not valid without your signature."
+ },
+ {
+  "id": "significance-n",
+  "headword": "significance",
+  "pos": "noun",
+  "example": "Few people understood the significance of his discovery at the time."
+ },
+ {
+  "id": "signpost-n",
+  "headword": "signpost",
+  "pos": "noun",
+  "example": "Follow the signpost to the beach and turn left."
+ },
+ {
+  "id": "silent-adj",
+  "headword": "silent",
+  "pos": "adjective",
+  "example": "The classroom was silent during the exam."
+ },
+ {
+  "id": "silk-n",
+  "headword": "silk",
+  "pos": "noun",
+  "example": "Her scarf is made of soft silk from China."
+ },
+ {
+  "id": "similarity-n",
+  "headword": "similarity",
+  "pos": "noun",
+  "example": "There is a strong similarity between the two sisters."
+ },
+ {
+  "id": "similarly-adv",
+  "headword": "similarly",
+  "pos": "adverb",
+  "example": "The twins dress similarly, so people often confuse them."
+ },
+ {
+  "id": "simplify-v",
+  "headword": "simplify",
+  "pos": "verb",
+  "example": "Short sentences simplify the text for young readers."
+ },
+ {
+  "id": "simultaneously-adv",
+  "headword": "simultaneously",
+  "pos": "adverb",
+  "example": "Two people answered the phone simultaneously and laughed."
+ },
+ {
+  "id": "since-conj",
+  "headword": "since",
+  "pos": "conjunction",
+  "example": "I have lived in this town since I was a child."
+ },
+ {
+  "id": "single-n",
+  "headword": "single",
+  "pos": "noun",
+  "example": "The club organises parties for singles who want to meet people."
+ },
+ {
+  "id": "sink-v",
+  "headword": "sink",
+  "pos": "verb",
+  "example": "If you drop a stone in the lake, it will sink."
+ },
+ {
+  "id": "skate-v",
+  "headword": "skate",
+  "pos": "verb",
+  "example": "In winter we skate on the frozen lake."
+ },
+ {
+  "id": "skeleton-n",
+  "headword": "skeleton",
+  "pos": "noun",
+  "example": "The human skeleton has more than two hundred bones."
+ }
+]

@@ -1,0 +1,952 @@
+{
+ "department-n": {
+  "gloss": {
+   "fr": "le service",
+   "es": "el departamento"
+  },
+  "exampleGloss": {
+   "fr": "Elle travaille au service commercial d'une grande entreprise.",
+   "es": "Trabaja en el departamento de ventas de una gran empresa."
+  }
+ },
+ "departure-n": {
+  "gloss": {
+   "fr": "le départ",
+   "es": "la salida"
+  },
+  "exampleGloss": {
+   "fr": "Notre départ est à sept heures du matin.",
+   "es": "Salimos a las siete de la mañana."
+  }
+ },
+ "dependent-adj": {
+  "gloss": {
+   "fr": "dépendant",
+   "es": "dependiente"
+  },
+  "exampleGloss": {
+   "fr": "Les jeunes enfants dépendent de leurs parents pour tout.",
+   "es": "Los niños pequeños dependen de sus padres para todo."
+  }
+ },
+ "deposit-n": {
+  "gloss": {
+   "fr": "la caution",
+   "es": "la fianza"
+  },
+  "exampleGloss": {
+   "fr": "Nous avons versé une caution de deux cents euros pour l'appartement.",
+   "es": "Pagamos una fianza de doscientos euros por el piso."
+  }
+ },
+ "depressed-adj": {
+  "gloss": {
+   "fr": "déprimé",
+   "es": "deprimido"
+  },
+  "exampleGloss": {
+   "fr": "Il s'est senti déprimé après avoir perdu son travail.",
+   "es": "Se sintió deprimido después de perder el trabajo."
+  }
+ },
+ "depressing-adj": {
+  "gloss": {
+   "fr": "déprimant",
+   "es": "deprimente"
+  },
+  "exampleGloss": {
+   "fr": "Les informations à la télé sont souvent déprimantes.",
+   "es": "Las noticias de la tele suelen ser deprimentes."
+  }
+ },
+ "depression-n": {
+  "gloss": {
+   "fr": "la dépression",
+   "es": "la depresión"
+  },
+  "exampleGloss": {
+   "fr": "Elle a souffert de dépression pendant de nombreuses années.",
+   "es": "Sufrió depresión durante muchos años."
+  }
+ },
+ "deprive-v": {
+  "gloss": {
+   "fr": "priver",
+   "es": "privar"
+  },
+  "exampleGloss": {
+   "fr": "Le bruit de la rue nous a empêchés de dormir.",
+   "es": "El ruido de la calle no nos dejó dormir."
+  }
+ },
+ "depth-n": {
+  "gloss": {
+   "fr": "la profondeur",
+   "es": "la profundidad"
+  },
+  "exampleGloss": {
+   "fr": "La profondeur du lac est d'environ trente mètres.",
+   "es": "La profundidad del lago es de unos treinta metros."
+  }
+ },
+ "derive-v": {
+  "gloss": {
+   "fr": "venir de",
+   "es": "derivar de"
+  },
+  "exampleGloss": {
+   "fr": "Beaucoup de mots anglais viennent du latin.",
+   "es": "Muchas palabras inglesas derivan del latín."
+  }
+ },
+ "deserve-v": {
+  "gloss": {
+   "fr": "mériter",
+   "es": "merecer"
+  },
+  "exampleGloss": {
+   "fr": "Tu as beaucoup travaillé, alors tu mérites des vacances.",
+   "es": "Has trabajado mucho, así que te mereces unas vacaciones."
+  }
+ },
+ "design-v": {
+  "gloss": {
+   "fr": "concevoir",
+   "es": "diseñar"
+  },
+  "exampleGloss": {
+   "fr": "Elle a conçu toute la maison elle-même.",
+   "es": "Diseñó toda la casa ella misma."
+  }
+ },
+ "designer-n": {
+  "gloss": {
+   "fr": "le designer",
+   "es": "el diseñador"
+  },
+  "exampleGloss": {
+   "fr": "Il travaille comme designer pour un constructeur automobile.",
+   "es": "Trabaja como diseñador para una empresa de coches."
+  }
+ },
+ "desire-n": {
+  "gloss": {
+   "fr": "le désir",
+   "es": "el deseo"
+  },
+  "exampleGloss": {
+   "fr": "Il a une grande envie de faire le tour du monde.",
+   "es": "Tiene un gran deseo de viajar por todo el mundo."
+  }
+ },
+ "despair-n": {
+  "gloss": {
+   "fr": "le désespoir",
+   "es": "la desesperación"
+  },
+  "exampleGloss": {
+   "fr": "Elle a pleuré de désespoir quand elle a perdu son passeport.",
+   "es": "Lloró desesperada cuando perdió el pasaporte."
+  }
+ },
+ "desperate-adj": {
+  "gloss": {
+   "fr": "désespéré",
+   "es": "desesperado"
+  },
+  "exampleGloss": {
+   "fr": "La famille était désespérée après que l'incendie a détruit sa maison.",
+   "es": "La familia estaba desesperada después de que el incendio destruyera su casa."
+  }
+ },
+ "despite-prep": {
+  "gloss": {
+   "fr": "malgré",
+   "es": "a pesar de"
+  },
+  "exampleGloss": {
+   "fr": "Nous sommes allés à la plage malgré la pluie.",
+   "es": "Fuimos a la playa a pesar de la lluvia."
+  }
+ },
+ "destination-n": {
+  "gloss": {
+   "fr": "la destination",
+   "es": "el destino"
+  },
+  "exampleGloss": {
+   "fr": "Rome est une destination très prisée des touristes.",
+   "es": "Roma es un destino muy popular entre los turistas."
+  }
+ },
+ "destruction-n": {
+  "gloss": {
+   "fr": "la destruction",
+   "es": "la destrucción"
+  },
+  "exampleGloss": {
+   "fr": "La tempête a provoqué la destruction de nombreux vieux arbres.",
+   "es": "La tormenta provocó la destrucción de muchos árboles viejos."
+  }
+ },
+ "destructive-adj": {
+  "gloss": {
+   "fr": "destructeur",
+   "es": "destructivo"
+  },
+  "exampleGloss": {
+   "fr": "Les vents forts peuvent être très destructeurs près de la côte.",
+   "es": "Los vientos fuertes pueden ser muy destructivos cerca de la costa."
+  }
+ },
+ "detective-n": {
+  "gloss": {
+   "fr": "l'inspecteur",
+   "es": "el detective"
+  },
+  "exampleGloss": {
+   "fr": "L'inspecteur a retrouvé le voleur au bout de deux jours.",
+   "es": "El detective encontró al ladrón al cabo de dos días."
+  }
+ },
+ "determination-n": {
+  "gloss": {
+   "fr": "la détermination",
+   "es": "la determinación"
+  },
+  "exampleGloss": {
+   "fr": "Grâce à une grande détermination, elle a réussi tous ses examens.",
+   "es": "Con mucha determinación, aprobó todos los exámenes."
+  }
+ },
+ "determine-v": {
+  "gloss": {
+   "fr": "décider",
+   "es": "determinar"
+  },
+  "exampleGloss": {
+   "fr": "C'est la météo qui décidera si nous jouons dehors.",
+   "es": "El tiempo determinará si jugamos fuera."
+  }
+ },
+ "devastate-v": {
+  "gloss": {
+   "fr": "dévaster",
+   "es": "arrasar"
+  },
+  "exampleGloss": {
+   "fr": "La tempête a dévasté le petit village au bord de la mer.",
+   "es": "La tormenta arrasó el pequeño pueblo junto al mar."
+  }
+ },
+ "devastating-adj": {
+  "gloss": {
+   "fr": "dévastateur",
+   "es": "devastador"
+  },
+  "exampleGloss": {
+   "fr": "L'incendie a eu un effet dévastateur sur la forêt.",
+   "es": "El incendio tuvo un efecto devastador en el bosque."
+  }
+ },
+ "development-n": {
+  "gloss": {
+   "fr": "le développement",
+   "es": "el desarrollo"
+  },
+  "exampleGloss": {
+   "fr": "Le sommeil est très important pour le développement de l'enfant.",
+   "es": "El sueño es muy importante para el desarrollo de un niño."
+  }
+ },
+ "device-n": {
+  "gloss": {
+   "fr": "l'appareil",
+   "es": "el aparato"
+  },
+  "exampleGloss": {
+   "fr": "Ce petit appareil peut mesurer ton rythme cardiaque.",
+   "es": "Este pequeño aparato puede medir tu ritmo cardíaco."
+  }
+ },
+ "devotion-n": {
+  "gloss": {
+   "fr": "le dévouement",
+   "es": "la entrega"
+  },
+  "exampleGloss": {
+   "fr": "Son dévouement envers sa famille est évident pour tout le monde.",
+   "es": "Su entrega a su familia es evidente para todos."
+  }
+ },
+ "diagram-n": {
+  "gloss": {
+   "fr": "le schéma",
+   "es": "el esquema"
+  },
+  "exampleGloss": {
+   "fr": "Le professeur a dessiné un schéma du cœur au tableau.",
+   "es": "El profesor dibujó un esquema del corazón en la pizarra."
+  }
+ },
+ "dial-n": {
+  "gloss": {
+   "fr": "le bouton",
+   "es": "el mando"
+  },
+  "exampleGloss": {
+   "fr": "Tourne le bouton du four sur 180 degrés.",
+   "es": "Gira el mando del horno hasta 180 grados."
+  }
+ },
+ "dial-v": {
+  "gloss": {
+   "fr": "composer",
+   "es": "marcar"
+  },
+  "exampleGloss": {
+   "fr": "Composez le 112 en cas d'urgence.",
+   "es": "Marca el 112 si hay una emergencia."
+  }
+ },
+ "dialog-n": {
+  "gloss": {
+   "fr": "le dialogue",
+   "es": "el diálogo"
+  },
+  "exampleGloss": {
+   "fr": "Lisez le dialogue et répondez aux questions.",
+   "es": "Lee el diálogo y responde a las preguntas."
+  }
+ },
+ "diameter-n": {
+  "gloss": {
+   "fr": "le diamètre",
+   "es": "el diámetro"
+  },
+  "exampleGloss": {
+   "fr": "La table ronde fait un mètre de diamètre.",
+   "es": "La mesa redonda tiene un metro de diámetro."
+  }
+ },
+ "diaper-n": {
+  "gloss": {
+   "fr": "la couche",
+   "es": "el pañal"
+  },
+  "exampleGloss": {
+   "fr": "Le bébé pleure parce qu'il a besoin d'une couche propre.",
+   "es": "El bebé llora porque necesita un pañal limpio."
+  }
+ },
+ "differ-v": {
+  "gloss": {
+   "fr": "différer",
+   "es": "diferir"
+  },
+  "exampleGloss": {
+   "fr": "Nos goûts en musique diffèrent beaucoup.",
+   "es": "Nuestros gustos musicales difieren mucho."
+  }
+ },
+ "dig-v": {
+  "gloss": {
+   "fr": "creuser",
+   "es": "cavar"
+  },
+  "exampleGloss": {
+   "fr": "Le chien aime creuser des trous dans le jardin.",
+   "es": "Al perro le gusta hacer agujeros en el jardín."
+  }
+ },
+ "digital-adj": {
+  "gloss": {
+   "fr": "numérique",
+   "es": "digital"
+  },
+  "exampleGloss": {
+   "fr": "Je prends toutes mes photos avec un appareil numérique.",
+   "es": "Hago todas mis fotos con una cámara digital."
+  }
+ },
+ "diligence-n": {
+  "gloss": {
+   "fr": "le sérieux",
+   "es": "la diligencia"
+  },
+  "exampleGloss": {
+   "fr": "Elle a mené à bien ce projet difficile avec beaucoup de sérieux.",
+   "es": "Terminó el difícil proyecto con gran dedicación."
+  }
+ },
+ "diligent-adj": {
+  "gloss": {
+   "fr": "appliqué",
+   "es": "aplicado"
+  },
+  "exampleGloss": {
+   "fr": "C'est un élève appliqué qui fait toujours ses devoirs.",
+   "es": "Es un alumno aplicado que siempre hace los deberes."
+  }
+ },
+ "dioxide-n": {
+  "gloss": {
+   "fr": "le dioxyde",
+   "es": "el dióxido"
+  },
+  "exampleGloss": {
+   "fr": "Les voitures produisent du dioxyde de carbone, qui est mauvais pour l'air.",
+   "es": "Los coches producen dióxido de carbono, que es malo para el aire."
+  }
+ },
+ "direct-v": {
+  "gloss": {
+   "fr": "réaliser",
+   "es": "dirigir"
+  },
+  "exampleGloss": {
+   "fr": "L'année dernière, elle a réalisé un court-métrage sur son village.",
+   "es": "El año pasado dirigió un cortometraje sobre su pueblo."
+  }
+ },
+ "directly-adv": {
+  "gloss": {
+   "fr": "directement",
+   "es": "directamente"
+  },
+  "exampleGloss": {
+   "fr": "Ce bus va directement à l'aéroport.",
+   "es": "Este autobús va directo al aeropuerto."
+  }
+ },
+ "dirt-n": {
+  "gloss": {
+   "fr": "la terre",
+   "es": "la tierra"
+  },
+  "exampleGloss": {
+   "fr": "Il avait de la terre sur les mains après avoir travaillé au jardin.",
+   "es": "Tenía tierra en las manos después de trabajar en el jardín."
+  }
+ },
+ "disability-n": {
+  "gloss": {
+   "fr": "le handicap",
+   "es": "la discapacidad"
+  },
+  "exampleGloss": {
+   "fr": "Le bâtiment a un ascenseur pour les personnes en situation de handicap.",
+   "es": "El edificio tiene ascensor para personas con discapacidad."
+  }
+ },
+ "disable-v": {
+  "gloss": {
+   "fr": "désactiver",
+   "es": "desactivar"
+  },
+  "exampleGloss": {
+   "fr": "Tu peux désactiver l'appareil photo dans les réglages du téléphone.",
+   "es": "Puedes desactivar la cámara en los ajustes del móvil."
+  }
+ },
+ "disabled-adj": {
+  "gloss": {
+   "fr": "handicapé",
+   "es": "con discapacidad"
+  },
+  "exampleGloss": {
+   "fr": "Il y a une place de parking pour les conducteurs handicapés près de la porte.",
+   "es": "Hay una plaza de aparcamiento para conductores con discapacidad cerca de la puerta."
+  }
+ },
+ "disagreement-n": {
+  "gloss": {
+   "fr": "le désaccord",
+   "es": "el desacuerdo"
+  },
+  "exampleGloss": {
+   "fr": "Nous avons eu un petit désaccord à propos d'argent.",
+   "es": "Tuvimos un pequeño desacuerdo por dinero."
+  }
+ },
+ "disappoint-v": {
+  "gloss": {
+   "fr": "décevoir",
+   "es": "decepcionar"
+  },
+  "exampleGloss": {
+   "fr": "Je ne veux pas décevoir mes parents.",
+   "es": "No quiero decepcionar a mis padres."
+  }
+ },
+ "disappointment-n": {
+  "gloss": {
+   "fr": "la déception",
+   "es": "la decepción"
+  },
+  "exampleGloss": {
+   "fr": "Le nouveau film a été une grosse déception.",
+   "es": "La nueva película fue una gran decepción."
+  }
+ },
+ "disaster-n": {
+  "gloss": {
+   "fr": "la catastrophe",
+   "es": "el desastre"
+  },
+  "exampleGloss": {
+   "fr": "L'inondation a été une catastrophe pour les agriculteurs.",
+   "es": "La inundación fue un desastre para los agricultores."
+  }
+ },
+ "disastrous-adj": {
+  "gloss": {
+   "fr": "catastrophique",
+   "es": "desastroso"
+  },
+  "exampleGloss": {
+   "fr": "Nos vacances ont été catastrophiques parce qu'il a plu tous les jours.",
+   "es": "Nuestras vacaciones fueron desastrosas porque llovió todos los días."
+  }
+ },
+ "disc-jockey-n": {
+  "gloss": {
+   "fr": "le disc-jockey",
+   "es": "el pinchadiscos"
+  },
+  "exampleGloss": {
+   "fr": "Le disc-jockey a passé de la musique toute la nuit à la fête.",
+   "es": "El pinchadiscos puso música toda la noche en la fiesta."
+  }
+ },
+ "discomfort-n": {
+  "gloss": {
+   "fr": "la gêne",
+   "es": "las molestias"
+  },
+  "exampleGloss": {
+   "fr": "Vous ressentirez peut-être une légère gêne après l'opération.",
+   "es": "Puede que sientas algunas molestias después de la operación."
+  }
+ },
+ "discount-n": {
+  "gloss": {
+   "fr": "la réduction",
+   "es": "el descuento"
+  },
+  "exampleGloss": {
+   "fr": "Les étudiants ont dix pour cent de réduction dans ce magasin.",
+   "es": "Los estudiantes tienen un diez por ciento de descuento en esta tienda."
+  }
+ },
+ "discourage-v": {
+  "gloss": {
+   "fr": "décourager",
+   "es": "desanimar"
+  },
+  "exampleGloss": {
+   "fr": "Ne te laisse pas décourager par une mauvaise note.",
+   "es": "No dejes que una mala nota te desanime."
+  }
+ },
+ "discovery-n": {
+  "gloss": {
+   "fr": "la découverte",
+   "es": "el descubrimiento"
+  },
+  "exampleGloss": {
+   "fr": "La découverte du nouveau médicament a sauvé de nombreuses vies.",
+   "es": "El descubrimiento del nuevo medicamento salvó muchas vidas."
+  }
+ },
+ "discrimination-n": {
+  "gloss": {
+   "fr": "la discrimination",
+   "es": "la discriminación"
+  },
+  "exampleGloss": {
+   "fr": "La discrimination envers les femmes au travail est interdite par la loi.",
+   "es": "La discriminación contra las mujeres en el trabajo va contra la ley."
+  }
+ },
+ "disease-n": {
+  "gloss": {
+   "fr": "la maladie",
+   "es": "la enfermedad"
+  },
+  "exampleGloss": {
+   "fr": "Les maladies cardiaques sont fréquentes chez les personnes âgées.",
+   "es": "Las enfermedades del corazón son frecuentes en las personas mayores."
+  }
+ },
+ "disgusting-adj": {
+  "gloss": {
+   "fr": "dégoûtant",
+   "es": "asqueroso"
+  },
+  "exampleGloss": {
+   "fr": "Cette soupe a un goût dégoûtant.",
+   "es": "Esta sopa sabe asquerosa."
+  }
+ },
+ "dishwasher-n": {
+  "gloss": {
+   "fr": "le lave-vaisselle",
+   "es": "el lavavajillas"
+  },
+  "exampleGloss": {
+   "fr": "Mets les assiettes sales dans le lave-vaisselle, s'il te plaît.",
+   "es": "Mete los platos sucios en el lavavajillas, por favor."
+  }
+ },
+ "disk-n": {
+  "gloss": {
+   "fr": "le disque",
+   "es": "el disco"
+  },
+  "exampleGloss": {
+   "fr": "Je garde toutes mes vieilles photos sur un disque dur.",
+   "es": "Guardo todas mis fotos antiguas en un disco duro."
+  }
+ },
+ "dislike-v": {
+  "gloss": {
+   "fr": "ne pas aimer",
+   "es": "no gustar"
+  },
+  "exampleGloss": {
+   "fr": "Je n'aime pas me lever tôt le dimanche.",
+   "es": "No me gusta levantarme temprano los domingos."
+  }
+ },
+ "display-v": {
+  "gloss": {
+   "fr": "exposer",
+   "es": "exponer"
+  },
+  "exampleGloss": {
+   "fr": "Le magasin expose ses nouveaux vêtements en vitrine.",
+   "es": "La tienda expone su ropa nueva en el escaparate."
+  }
+ },
+ "dissolve-v": {
+  "gloss": {
+   "fr": "se dissoudre",
+   "es": "disolverse"
+  },
+  "exampleGloss": {
+   "fr": "Le sucre se dissout vite dans le thé chaud.",
+   "es": "El azúcar se disuelve rápido en el té caliente."
+  }
+ },
+ "distance-n": {
+  "gloss": {
+   "fr": "la distance",
+   "es": "la distancia"
+  },
+  "exampleGloss": {
+   "fr": "La distance entre ma maison et l'école est de deux kilomètres.",
+   "es": "La distancia de mi casa al colegio es de dos kilómetros."
+  }
+ },
+ "distant-adj": {
+  "gloss": {
+   "fr": "lointain",
+   "es": "lejano"
+  },
+  "exampleGloss": {
+   "fr": "Nous entendions de la musique au loin, venant du village.",
+   "es": "Oíamos a lo lejos la música del pueblo."
+  }
+ },
+ "distinction-n": {
+  "gloss": {
+   "fr": "la distinction",
+   "es": "la diferencia"
+  },
+  "exampleGloss": {
+   "fr": "Il y a une nette distinction entre les deux mots.",
+   "es": "Hay una clara diferencia entre las dos palabras."
+  }
+ },
+ "distinctly-adv": {
+  "gloss": {
+   "fr": "très bien",
+   "es": "perfectamente"
+  },
+  "exampleGloss": {
+   "fr": "Je me souviens très bien d'avoir fermé la porte d'entrée à clé.",
+   "es": "Recuerdo perfectamente haber cerrado la puerta de casa con llave."
+  }
+ },
+ "distinguish-v": {
+  "gloss": {
+   "fr": "distinguer",
+   "es": "distinguir"
+  },
+  "exampleGloss": {
+   "fr": "Tu arrives à distinguer les jumeaux l'un de l'autre ?",
+   "es": "¿Sabes distinguir a los gemelos?"
+  }
+ },
+ "distribute-v": {
+  "gloss": {
+   "fr": "distribuer",
+   "es": "repartir"
+  },
+  "exampleGloss": {
+   "fr": "Des bénévoles ont distribué de la nourriture aux familles pauvres.",
+   "es": "Unos voluntarios repartieron comida a las familias pobres."
+  }
+ },
+ "distribution-n": {
+  "gloss": {
+   "fr": "la distribution",
+   "es": "la distribución"
+  },
+  "exampleGloss": {
+   "fr": "L'entreprise s'occupe de la distribution des aliments aux supermarchés.",
+   "es": "La empresa se encarga de la distribución de alimentos a los supermercados."
+  }
+ },
+ "district-n": {
+  "gloss": {
+   "fr": "le quartier",
+   "es": "el barrio"
+  },
+  "exampleGloss": {
+   "fr": "Nous habitons dans un quartier calme près du parc.",
+   "es": "Vivimos en un barrio tranquilo cerca del parque."
+  }
+ },
+ "disturbance-n": {
+  "gloss": {
+   "fr": "la nuisance",
+   "es": "la molestia"
+  },
+  "exampleGloss": {
+   "fr": "La musique forte était une nuisance pour nos voisins.",
+   "es": "La música alta era una molestia para nuestros vecinos."
+  }
+ },
+ "dive-n": {
+  "gloss": {
+   "fr": "le plongeon",
+   "es": "el salto"
+  },
+  "exampleGloss": {
+   "fr": "Il a fait un plongeon parfait dans la piscine.",
+   "es": "Hizo un salto perfecto a la piscina."
+  }
+ },
+ "dive-v": {
+  "gloss": {
+   "fr": "plonger",
+   "es": "tirarse de cabeza"
+  },
+  "exampleGloss": {
+   "fr": "En été, les enfants adorent plonger dans le lac.",
+   "es": "En verano, a los niños les encanta tirarse de cabeza al lago."
+  }
+ },
+ "diver-n": {
+  "gloss": {
+   "fr": "le plongeur",
+   "es": "el buzo"
+  },
+  "exampleGloss": {
+   "fr": "Le plongeur a trouvé un vieux navire au fond de la mer.",
+   "es": "El buzo encontró un barco antiguo en el fondo del mar."
+  }
+ },
+ "diverse-adj": {
+  "gloss": {
+   "fr": "diversifié",
+   "es": "diverso"
+  },
+  "exampleGloss": {
+   "fr": "Londres a une population très diversifiée.",
+   "es": "Londres tiene una población muy diversa."
+  }
+ },
+ "divide-n": {
+  "gloss": {
+   "fr": "le fossé",
+   "es": "la brecha"
+  },
+  "exampleGloss": {
+   "fr": "Il y a un grand fossé entre riches et pauvres dans la ville.",
+   "es": "Hay una gran brecha entre ricos y pobres en la ciudad."
+  }
+ },
+ "divine-adj": {
+  "gloss": {
+   "fr": "divin",
+   "es": "divino"
+  },
+  "exampleGloss": {
+   "fr": "Beaucoup de gens croient en une puissance divine qui a créé le monde.",
+   "es": "Mucha gente cree en un poder divino que creó el mundo."
+  }
+ },
+ "diving-n": {
+  "gloss": {
+   "fr": "la plongée",
+   "es": "el buceo"
+  },
+  "exampleGloss": {
+   "fr": "La plongée est mon sport préféré en vacances.",
+   "es": "El buceo es mi deporte favorito en vacaciones."
+  }
+ },
+ "divorced-adj": {
+  "gloss": {
+   "fr": "divorcé",
+   "es": "divorciado"
+  },
+  "exampleGloss": {
+   "fr": "Mes parents sont divorcés, mais ils sont restés amis.",
+   "es": "Mis padres están divorciados, pero siguen siendo amigos."
+  }
+ },
+ "dj-n": {
+  "gloss": {
+   "fr": "le DJ",
+   "es": "el DJ"
+  },
+  "exampleGloss": {
+   "fr": "Mon frère travaille comme DJ dans une boîte de nuit.",
+   "es": "Mi hermano trabaja de DJ en una discoteca."
+  }
+ },
+ "doc-n": {
+  "gloss": {
+   "fr": "le doc",
+   "es": "el documento"
+  },
+  "exampleGloss": {
+   "fr": "J'ai partagé le doc avec toute l'équipe ce matin.",
+   "es": "Esta mañana compartí el documento con todo el equipo."
+  }
+ },
+ "document-n": {
+  "gloss": {
+   "fr": "le document",
+   "es": "el documento"
+  },
+  "exampleGloss": {
+   "fr": "Imprime le document et apporte-le en cours demain.",
+   "es": "Imprime el documento y tráelo mañana a clase."
+  }
+ },
+ "documentary-n": {
+  "gloss": {
+   "fr": "le documentaire",
+   "es": "el documental"
+  },
+  "exampleGloss": {
+   "fr": "Hier soir, nous avons regardé un documentaire sur les baleines.",
+   "es": "Anoche vimos un documental sobre las ballenas."
+  }
+ },
+ "dolphin-n": {
+  "gloss": {
+   "fr": "le dauphin",
+   "es": "el delfín"
+  },
+  "exampleGloss": {
+   "fr": "Nous avons vu un dauphin nager à côté de notre bateau.",
+   "es": "Vimos un delfín nadando al lado de nuestro barco."
+  }
+ },
+ "dot-n": {
+  "gloss": {
+   "fr": "le point",
+   "es": "el punto"
+  },
+  "exampleGloss": {
+   "fr": "Dessine un petit point au milieu de la page.",
+   "es": "Dibuja un puntito en el centro de la hoja."
+  }
+ },
+ "downstairs-adj": {
+  "gloss": {
+   "fr": "du rez-de-chaussée",
+   "es": "de abajo"
+  },
+  "exampleGloss": {
+   "fr": "La salle de bains du rez-de-chaussée est à côté de la cuisine.",
+   "es": "El baño de abajo está al lado de la cocina."
+  }
+ },
+ "downward-adj": {
+  "gloss": {
+   "fr": "descendant",
+   "es": "descendente"
+  },
+  "exampleGloss": {
+   "fr": "Le chemin descend en pente douce jusqu'à la rivière.",
+   "es": "El camino baja con una ligera pendiente hasta el río."
+  }
+ },
+ "doze-n": {
+  "gloss": {
+   "fr": "le petit somme",
+   "es": "la cabezada"
+  },
+  "exampleGloss": {
+   "fr": "Papi a fait un petit somme sur le canapé après le déjeuner.",
+   "es": "El abuelo echó una cabezada en el sofá después de comer."
+  }
+ },
+ "dozen-det": {
+  "gloss": {
+   "fr": "une douzaine de",
+   "es": "una docena de"
+  },
+  "exampleGloss": {
+   "fr": "Elle a acheté une douzaine d'œufs au marché.",
+   "es": "Compró una docena de huevos en el mercado."
+  }
+ },
+ "dozen-n": {
+  "gloss": {
+   "fr": "la douzaine",
+   "es": "la docena"
+  },
+  "exampleGloss": {
+   "fr": "Les œufs sont moins chers si on les achète à la douzaine.",
+   "es": "Los huevos salen más baratos si los compras por docenas."
+  }
+ },
+ "drag-v": {
+  "gloss": {
+   "fr": "traîner",
+   "es": "arrastrar"
+  },
+  "exampleGloss": {
+   "fr": "Il a traîné la lourde caisse sur le sol.",
+   "es": "Arrastró la caja pesada por el suelo."
+  }
+ },
+ "dramatic-adj": {
+  "gloss": {
+   "fr": "spectaculaire",
+   "es": "drástico"
+  },
+  "exampleGloss": {
+   "fr": "Le temps a changé de façon spectaculaire pendant la nuit.",
+   "es": "El tiempo cambió de forma drástica durante la noche."
+  }
+ },
+ "drown-v": {
+  "gloss": {
+   "fr": "se noyer",
+   "es": "ahogarse"
+  },
+  "exampleGloss": {
+   "fr": "Il a failli se noyer quand il est tombé dans la rivière.",
+   "es": "Casi se ahoga cuando se cayó al río."
+  }
+ }
+}

@@ -1,0 +1,390 @@
+{
+ "decoys": {
+  "caught": 6,
+  "total": 6,
+  "missed": []
+ },
+ "toReview": 0,
+ "cards": {
+  "proverb-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "provided-conj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "psychological-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "pub-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "public-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "public-transport-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "publicly-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "publisher-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "pullover-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "pump-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "punish-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "punishment-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "pupil-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "puppy-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "pure-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "purify-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "purse-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "push-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "puzzle-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "quake-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "qualified-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "qualify-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "quality-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "quantity-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "question-mark-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "questionnaire-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "queue-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "race-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "race-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "racial-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "radiation-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "rage-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "rail-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "railroad-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "railway-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "rainfall-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "rainforest-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "rank-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "rap-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "rapid-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "rapidly-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "rare-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "rarely-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "raspberry-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "ration-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "rational-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "razor-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "reach-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "react-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "realistic-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "reality-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "rearrange-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "reasonable-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "rebuild-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "recall-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "reception-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "recite-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "reclaim-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "recognize-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "recommend-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "record-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "recording-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "recover-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "recovery-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "recycled-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "recycling-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "reduce-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "reduction-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "reef-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "referee-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "reflection-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "refreshments-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "refund-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "refusal-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "refuse-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "refuse-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "regain-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "regard-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "regarding-prep": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "region-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "regional-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "register-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "register-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "registration-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "regulation-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "reject-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "relate-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "relation-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "relationship-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "relative-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "relative-n": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "relatively-adv": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "relaxing-adj": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "release-v": {
+   "check": "two-pass",
+   "problems": []
+  },
+  "reliable-adj": {
+   "check": "two-pass",
+   "problems": []
+  }
+ }
+}

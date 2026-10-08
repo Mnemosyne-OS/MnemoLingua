@@ -1,0 +1,572 @@
+[
+ {
+  "id": "birth-n",
+  "headword": "birth",
+  "pos": "noun",
+  "example": "What is your date of birth?"
+ },
+ {
+  "id": "birthday-n",
+  "headword": "birthday",
+  "pos": "noun",
+  "example": "Today is my birthday, and I am ten."
+ },
+ {
+  "id": "biscuit-n",
+  "headword": "biscuit",
+  "pos": "noun",
+  "example": "I eat a biscuit with my tea."
+ },
+ {
+  "id": "black-adj",
+  "headword": "black",
+  "pos": "adjective",
+  "example": "I have a black cat."
+ },
+ {
+  "id": "black-n",
+  "headword": "black",
+  "pos": "noun",
+  "example": "Black is my favourite colour."
+ },
+ {
+  "id": "block-n",
+  "headword": "block",
+  "pos": "noun",
+  "example": "I live in a big block of flats."
+ },
+ {
+  "id": "blow-v",
+  "headword": "blow",
+  "pos": "verb",
+  "example": "The wind blows hard today."
+ },
+ {
+  "id": "blue-adj",
+  "headword": "blue",
+  "pos": "adjective",
+  "example": "The sky is blue today."
+ },
+ {
+  "id": "blue-n",
+  "headword": "blue",
+  "pos": "noun",
+  "example": "Blue is a nice colour."
+ },
+ {
+  "id": "board-n",
+  "headword": "board",
+  "pos": "noun",
+  "example": "The teacher writes on the board."
+ },
+ {
+  "id": "boat-n",
+  "headword": "boat",
+  "pos": "noun",
+  "example": "We cross the river by boat."
+ },
+ {
+  "id": "body-n",
+  "headword": "body",
+  "pos": "noun",
+  "example": "Sport is good for your body."
+ },
+ {
+  "id": "bone-n",
+  "headword": "bone",
+  "pos": "noun",
+  "example": "The dog has a big bone."
+ },
+ {
+  "id": "book-n",
+  "headword": "book",
+  "pos": "noun",
+  "example": "I read a book every night."
+ },
+ {
+  "id": "bookstore-n",
+  "headword": "bookstore",
+  "pos": "noun",
+  "example": "I buy my books at the bookstore."
+ },
+ {
+  "id": "borrow-v",
+  "headword": "borrow",
+  "pos": "verb",
+  "example": "Can I borrow your pen, please?"
+ },
+ {
+  "id": "both-adv",
+  "headword": "both",
+  "pos": "adverb",
+  "example": "She is both tall and kind."
+ },
+ {
+  "id": "both-det",
+  "headword": "both",
+  "pos": "determiner",
+  "example": "Both girls are my sisters."
+ },
+ {
+  "id": "both-pron",
+  "headword": "both",
+  "pos": "pronoun",
+  "example": "I have two cats and I love both."
+ },
+ {
+  "id": "bottle-n",
+  "headword": "bottle",
+  "pos": "noun",
+  "example": "I buy a bottle of water."
+ },
+ {
+  "id": "bottom-n",
+  "headword": "bottom",
+  "pos": "noun",
+  "example": "My keys are at the bottom of my bag."
+ },
+ {
+  "id": "bowl-n",
+  "headword": "bowl",
+  "pos": "noun",
+  "example": "I eat my soup from a bowl."
+ },
+ {
+  "id": "box-n",
+  "headword": "box",
+  "pos": "noun",
+  "example": "The toys are in a big box."
+ },
+ {
+  "id": "boy-n",
+  "headword": "boy",
+  "pos": "noun",
+  "example": "The boy plays football with his dad."
+ },
+ {
+  "id": "boyfriend-n",
+  "headword": "boyfriend",
+  "pos": "noun",
+  "example": "Her boyfriend gives her flowers."
+ },
+ {
+  "id": "bread-n",
+  "headword": "bread",
+  "pos": "noun",
+  "example": "I buy bread every morning."
+ },
+ {
+  "id": "break-v",
+  "headword": "break",
+  "pos": "verb",
+  "example": "Be careful, don't break the glass!"
+ },
+ {
+  "id": "breakfast-n",
+  "headword": "breakfast",
+  "pos": "noun",
+  "example": "I have eggs for breakfast."
+ },
+ {
+  "id": "breathe-v",
+  "headword": "breathe",
+  "pos": "verb",
+  "example": "Breathe in slowly through your nose."
+ },
+ {
+  "id": "bridge-n",
+  "headword": "bridge",
+  "pos": "noun",
+  "example": "There is a bridge over the river."
+ },
+ {
+  "id": "bright-adj",
+  "headword": "bright",
+  "pos": "adjective",
+  "example": "The sun is very bright today."
+ },
+ {
+  "id": "bring-v",
+  "headword": "bring",
+  "pos": "verb",
+  "example": "Please bring your book to class."
+ },
+ {
+  "id": "broken-adj",
+  "headword": "broken",
+  "pos": "adjective",
+  "example": "My phone is broken."
+ },
+ {
+  "id": "brother-n",
+  "headword": "brother",
+  "pos": "noun",
+  "example": "My brother is older than me."
+ },
+ {
+  "id": "brown-adj",
+  "headword": "brown",
+  "pos": "adjective",
+  "example": "He has brown eyes."
+ },
+ {
+  "id": "brush-v",
+  "headword": "brush",
+  "pos": "verb",
+  "example": "I brush my teeth every morning."
+ },
+ {
+  "id": "bucket-n",
+  "headword": "bucket",
+  "pos": "noun",
+  "example": "I fill the bucket with water."
+ },
+ {
+  "id": "build-v",
+  "headword": "build",
+  "pos": "verb",
+  "example": "They build a new house near us."
+ },
+ {
+  "id": "building-n",
+  "headword": "building",
+  "pos": "noun",
+  "example": "My office is in a tall building."
+ },
+ {
+  "id": "burger-n",
+  "headword": "burger",
+  "pos": "noun",
+  "example": "I want a burger and chips."
+ },
+ {
+  "id": "bus-n",
+  "headword": "bus",
+  "pos": "noun",
+  "example": "I go to school by bus."
+ },
+ {
+  "id": "business-n",
+  "headword": "business",
+  "pos": "noun",
+  "example": "My father has a small business."
+ },
+ {
+  "id": "busy-adj",
+  "headword": "busy",
+  "pos": "adjective",
+  "example": "I am very busy at work today."
+ },
+ {
+  "id": "but-conj",
+  "headword": "but",
+  "pos": "conjunction",
+  "example": "I like tea, but I don't like coffee."
+ },
+ {
+  "id": "butter-n",
+  "headword": "butter",
+  "pos": "noun",
+  "example": "I put butter on my bread."
+ },
+ {
+  "id": "button-n",
+  "headword": "button",
+  "pos": "noun",
+  "example": "My shirt has white buttons."
+ },
+ {
+  "id": "buy-v",
+  "headword": "buy",
+  "pos": "verb",
+  "example": "I buy fruit at the market."
+ },
+ {
+  "id": "by-prep",
+  "headword": "by",
+  "pos": "preposition",
+  "example": "I go to work by car."
+ },
+ {
+  "id": "bye-n",
+  "headword": "bye",
+  "pos": "noun",
+  "example": "She says bye and leaves the room."
+ },
+ {
+  "id": "cafe-n",
+  "headword": "cafe",
+  "pos": "noun",
+  "example": "We drink coffee in a small cafe."
+ },
+ {
+  "id": "cake-n",
+  "headword": "cake",
+  "pos": "noun",
+  "example": "Mum makes a chocolate cake for me."
+ },
+ {
+  "id": "call-n",
+  "headword": "call",
+  "pos": "noun",
+  "example": "I have a phone call from my mum."
+ },
+ {
+  "id": "camera-n",
+  "headword": "camera",
+  "pos": "noun",
+  "example": "I take photos with my new camera."
+ },
+ {
+  "id": "camp-n",
+  "headword": "camp",
+  "pos": "noun",
+  "example": "In summer, the children go to camp."
+ },
+ {
+  "id": "can-modal",
+  "headword": "can",
+  "pos": "modal auxiliary",
+  "example": "I can swim, but I can't ski."
+ },
+ {
+  "id": "cap-n",
+  "headword": "cap",
+  "pos": "noun",
+  "example": "He wears a red cap in the sun."
+ },
+ {
+  "id": "car-n",
+  "headword": "car",
+  "pos": "noun",
+  "example": "My mother drives a small car."
+ },
+ {
+  "id": "card-n",
+  "headword": "card",
+  "pos": "noun",
+  "example": "I pay by card in the shop."
+ },
+ {
+  "id": "care-n",
+  "headword": "care",
+  "pos": "noun",
+  "example": "Babies need a lot of care."
+ },
+ {
+  "id": "careful-adj",
+  "headword": "careful",
+  "pos": "adjective",
+  "example": "Be careful, the floor is wet."
+ },
+ {
+  "id": "carefully-adv",
+  "headword": "carefully",
+  "pos": "adverb",
+  "example": "Please carry the eggs carefully."
+ },
+ {
+  "id": "carry-v",
+  "headword": "carry",
+  "pos": "verb",
+  "example": "I carry my bag to school."
+ },
+ {
+  "id": "cartoon-n",
+  "headword": "cartoon",
+  "pos": "noun",
+  "example": "My son watches cartoons after school."
+ },
+ {
+  "id": "case-n",
+  "headword": "case",
+  "pos": "noun",
+  "example": "My glasses are in their case."
+ },
+ {
+  "id": "cat-n",
+  "headword": "cat",
+  "pos": "noun",
+  "example": "Our cat sleeps on the sofa."
+ },
+ {
+  "id": "catch-v",
+  "headword": "catch",
+  "pos": "verb",
+  "example": "Catch the ball with your hands!"
+ },
+ {
+  "id": "cd-n",
+  "headword": "CD",
+  "pos": "noun",
+  "example": "I listen to a CD in the car."
+ },
+ {
+  "id": "cd-player-n",
+  "headword": "CD player",
+  "pos": "noun",
+  "example": "The CD player is next to the TV."
+ },
+ {
+  "id": "celebrate-v",
+  "headword": "celebrate",
+  "pos": "verb",
+  "example": "We celebrate my birthday at home."
+ },
+ {
+  "id": "celebration-n",
+  "headword": "celebration",
+  "pos": "noun",
+  "example": "We have a big celebration for New Year."
+ },
+ {
+  "id": "chair-n",
+  "headword": "chair",
+  "pos": "noun",
+  "example": "Please sit on this chair."
+ },
+ {
+  "id": "change-n",
+  "headword": "change",
+  "pos": "noun",
+  "example": "Here is your change, two euros."
+ },
+ {
+  "id": "change-v",
+  "headword": "change",
+  "pos": "verb",
+  "example": "I change my clothes after work."
+ },
+ {
+  "id": "character-n",
+  "headword": "character",
+  "pos": "noun",
+  "example": "Mickey is my favourite cartoon character."
+ },
+ {
+  "id": "check-n",
+  "headword": "check",
+  "pos": "noun",
+  "example": "Can we have the check, please?"
+ },
+ {
+  "id": "chicken-n",
+  "headword": "chicken",
+  "pos": "noun",
+  "example": "We eat chicken and rice for dinner."
+ },
+ {
+  "id": "child-n",
+  "headword": "child",
+  "pos": "noun",
+  "example": "They have one child, a little girl."
+ },
+ {
+  "id": "chocolate-n",
+  "headword": "chocolate",
+  "pos": "noun",
+  "example": "I love milk chocolate."
+ },
+ {
+  "id": "choose-v",
+  "headword": "choose",
+  "pos": "verb",
+  "example": "Choose a colour for your room."
+ },
+ {
+  "id": "church-n",
+  "headword": "church",
+  "pos": "noun",
+  "example": "The old church is in the town centre."
+ },
+ {
+  "id": "cinema-n",
+  "headword": "cinema",
+  "pos": "noun",
+  "example": "We watch a film at the cinema."
+ },
+ {
+  "id": "circle-n",
+  "headword": "circle",
+  "pos": "noun",
+  "example": "Draw a circle on your paper."
+ },
+ {
+  "id": "city-n",
+  "headword": "city",
+  "pos": "noun",
+  "example": "Paris is a very big city."
+ },
+ {
+  "id": "class-n",
+  "headword": "class",
+  "pos": "noun",
+  "example": "There are twenty students in my class."
+ },
+ {
+  "id": "classmate-n",
+  "headword": "classmate",
+  "pos": "noun",
+  "example": "My classmate sits next to me."
+ },
+ {
+  "id": "clean-adj",
+  "headword": "clean",
+  "pos": "adjective",
+  "example": "My room is clean now."
+ },
+ {
+  "id": "clean-v",
+  "headword": "clean",
+  "pos": "verb",
+  "example": "I clean the kitchen every Sunday."
+ },
+ {
+  "id": "clever-adj",
+  "headword": "clever",
+  "pos": "adjective",
+  "example": "My sister is very clever at maths."
+ },
+ {
+  "id": "climb-n",
+  "headword": "climb",
+  "pos": "noun",
+  "example": "The climb to the top is long."
+ },
+ {
+  "id": "clock-n",
+  "headword": "clock",
+  "pos": "noun",
+  "example": "The clock on the wall says three."
+ },
+ {
+  "id": "close-adj",
+  "headword": "close",
+  "pos": "adjective",
+  "example": "My house is close to the school."
+ },
+ {
+  "id": "close-v",
+  "headword": "close",
+  "pos": "verb",
+  "example": "Please close the door."
+ },
+ {
+  "id": "closed-adj",
+  "headword": "closed",
+  "pos": "adjective",
+  "example": "The shop is closed on Sunday."
+ },
+ {
+  "id": "cloth-n",
+  "headword": "cloth",
+  "pos": "noun",
+  "example": "I clean the table with a cloth."
+ },
+ {
+  "id": "clothes-n",
+  "headword": "clothes",
+  "pos": "noun",
+  "example": "I wash my clothes on Saturday."
+ }
+]

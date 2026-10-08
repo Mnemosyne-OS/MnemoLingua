@@ -1,0 +1,600 @@
+[
+ {
+  "id": "counseling-n",
+  "headword": "counseling",
+  "pos": "noun",
+  "variants": [
+   "counselling"
+  ]
+ },
+ {
+  "id": "count-n",
+  "headword": "count",
+  "pos": "noun"
+ },
+ {
+  "id": "counter-v",
+  "headword": "counter",
+  "pos": "verb"
+ },
+ {
+  "id": "countless-adj",
+  "headword": "countless",
+  "pos": "adjective"
+ },
+ {
+  "id": "county-n",
+  "headword": "county",
+  "pos": "noun",
+  "sourceTopics": [
+   "Nationalities and countries"
+  ]
+ },
+ {
+  "id": "courage-n",
+  "headword": "courage",
+  "pos": "noun"
+ },
+ {
+  "id": "courageous-adj",
+  "headword": "courageous",
+  "pos": "adjective"
+ },
+ {
+  "id": "courgette-n",
+  "headword": "courgette",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "craft-n",
+  "headword": "craft",
+  "pos": "noun"
+ },
+ {
+  "id": "crash-n",
+  "headword": "crash",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs",
+   "Travel"
+  ]
+ },
+ {
+  "id": "crash-v",
+  "headword": "crash",
+  "pos": "verb"
+ },
+ {
+  "id": "creator-n",
+  "headword": "creator",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "criminal-n",
+  "headword": "criminal",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs",
+   "Relations with other people"
+  ]
+ },
+ {
+  "id": "crisis-n",
+  "headword": "crisis",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs"
+  ]
+ },
+ {
+  "id": "critic-n",
+  "headword": "critic",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education"
+  ]
+ },
+ {
+  "id": "critical-adj",
+  "headword": "critical",
+  "pos": "adjective"
+ },
+ {
+  "id": "crop-n",
+  "headword": "crop",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "crossing-n",
+  "headword": "crossing",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel and services vocab",
+   "Travel"
+  ]
+ },
+ {
+  "id": "crossroads-n",
+  "headword": "crossroads",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping"
+  ]
+ },
+ {
+  "id": "crow-n",
+  "headword": "crow",
+  "pos": "noun"
+ },
+ {
+  "id": "cruel-adj",
+  "headword": "cruel",
+  "pos": "adjective"
+ },
+ {
+  "id": "crush-n",
+  "headword": "crush",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs",
+   "Travel"
+  ]
+ },
+ {
+  "id": "cucumber-n",
+  "headword": "cucumber",
+  "pos": "noun",
+  "sourceTopics": [
+   "Food and drink",
+   "Food and drink"
+  ]
+ },
+ {
+  "id": "cultivate-v",
+  "headword": "cultivate",
+  "pos": "verb"
+ },
+ {
+  "id": "cultural-adj",
+  "headword": "cultural",
+  "pos": "adjective"
+ },
+ {
+  "id": "cure-n",
+  "headword": "cure",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel and services vocab"
+  ]
+ },
+ {
+  "id": "curiosity-n",
+  "headword": "curiosity",
+  "pos": "noun",
+  "sourceTopics": [
+   "Hobbies and pastimes"
+  ]
+ },
+ {
+  "id": "curious-adj",
+  "headword": "curious",
+  "pos": "adjective"
+ },
+ {
+  "id": "curiously-adv",
+  "headword": "curiously",
+  "pos": "adverb"
+ },
+ {
+  "id": "curly-adj",
+  "headword": "curly",
+  "pos": "adjective"
+ },
+ {
+  "id": "currency-n",
+  "headword": "currency",
+  "pos": "noun",
+  "sourceTopics": [
+   "Shopping",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "current-adj",
+  "headword": "current",
+  "pos": "adjective"
+ },
+ {
+  "id": "currently-adv",
+  "headword": "currently",
+  "pos": "adverb"
+ },
+ {
+  "id": "curriculum-n",
+  "headword": "curriculum",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Education"
+  ]
+ },
+ {
+  "id": "curtain-n",
+  "headword": "curtain",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "curve-n",
+  "headword": "curve",
+  "pos": "noun"
+ },
+ {
+  "id": "cushion-n",
+  "headword": "cushion",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "customs-n",
+  "headword": "customs",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel and services vocab",
+   "Travel"
+  ]
+ },
+ {
+  "id": "cut-n",
+  "headword": "cut",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel and services vocab",
+   "Travel"
+  ]
+ },
+ {
+  "id": "cv-n",
+  "headword": "CV",
+  "pos": "noun",
+  "sourceTopics": [
+   "Personal information",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "cycle-n",
+  "headword": "cycle",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel"
+  ]
+ },
+ {
+  "id": "cycle-v",
+  "headword": "cycle",
+  "pos": "verb"
+ },
+ {
+  "id": "daisy-n",
+  "headword": "daisy",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education"
+  ]
+ },
+ {
+  "id": "damage-n",
+  "headword": "damage",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs"
+  ]
+ },
+ {
+  "id": "damage-v",
+  "headword": "damage",
+  "pos": "verb"
+ },
+ {
+  "id": "damaged-adj",
+  "headword": "damaged",
+  "pos": "adjective"
+ },
+ {
+  "id": "damp-adj",
+  "headword": "damp",
+  "pos": "adjective"
+ },
+ {
+  "id": "dangerously-adv",
+  "headword": "dangerously",
+  "pos": "adverb"
+ },
+ {
+  "id": "dare-v",
+  "headword": "dare",
+  "pos": "verb"
+ },
+ {
+  "id": "darkness-n",
+  "headword": "darkness",
+  "pos": "noun"
+ },
+ {
+  "id": "date-v",
+  "headword": "date",
+  "pos": "verb"
+ },
+ {
+  "id": "dating-n",
+  "headword": "dating",
+  "pos": "noun"
+ },
+ {
+  "id": "daze-n",
+  "headword": "daze",
+  "pos": "noun",
+  "sourceTopics": [
+   "Collocation"
+  ]
+ },
+ {
+  "id": "dazzle-n",
+  "headword": "dazzle",
+  "pos": "noun"
+ },
+ {
+  "id": "deadline-n",
+  "headword": "deadline",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education"
+  ]
+ },
+ {
+  "id": "deadly-adj",
+  "headword": "deadly",
+  "pos": "adjective"
+ },
+ {
+  "id": "deaf-adj",
+  "headword": "deaf",
+  "pos": "adjective"
+ },
+ {
+  "id": "deal-v",
+  "headword": "deal",
+  "pos": "verb"
+ },
+ {
+  "id": "dealer-n",
+  "headword": "dealer",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "debris-n",
+  "headword": "debris",
+  "pos": "noun"
+ },
+ {
+  "id": "debt-n",
+  "headword": "debt",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel and services vocab",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "decision-n",
+  "headword": "decision",
+  "pos": "noun"
+ },
+ {
+  "id": "declaration-n",
+  "headword": "declaration",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education"
+  ]
+ },
+ {
+  "id": "declare-v",
+  "headword": "declare",
+  "pos": "verb"
+ },
+ {
+  "id": "decline-n",
+  "headword": "decline",
+  "pos": "noun"
+ },
+ {
+  "id": "decrease-n",
+  "headword": "decrease",
+  "pos": "noun"
+ },
+ {
+  "id": "decrease-v",
+  "headword": "decrease",
+  "pos": "verb"
+ },
+ {
+  "id": "dedicate-v",
+  "headword": "dedicate",
+  "pos": "verb"
+ },
+ {
+  "id": "deed-n",
+  "headword": "deed",
+  "pos": "noun",
+  "sourceTopics": [
+   "Collocation"
+  ]
+ },
+ {
+  "id": "defeat-v",
+  "headword": "defeat",
+  "pos": "verb"
+ },
+ {
+  "id": "defend-v",
+  "headword": "defend",
+  "pos": "verb"
+ },
+ {
+  "id": "defender-n",
+  "headword": "defender",
+  "pos": "noun"
+ },
+ {
+  "id": "defense-n",
+  "headword": "defense",
+  "pos": "noun",
+  "variants": [
+   "defence"
+  ]
+ },
+ {
+  "id": "deficiency-n",
+  "headword": "deficiency",
+  "pos": "noun"
+ },
+ {
+  "id": "define-v",
+  "headword": "define",
+  "pos": "verb"
+ },
+ {
+  "id": "definite-adj",
+  "headword": "definite",
+  "pos": "adjective"
+ },
+ {
+  "id": "definite-article-n",
+  "headword": "definite article",
+  "pos": "noun"
+ },
+ {
+  "id": "definitely-adv",
+  "headword": "definitely",
+  "pos": "adverb"
+ },
+ {
+  "id": "definition-n",
+  "headword": "definition",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education"
+  ]
+ },
+ {
+  "id": "delay-v",
+  "headword": "delay",
+  "pos": "verb"
+ },
+ {
+  "id": "delete-v",
+  "headword": "delete",
+  "pos": "verb"
+ },
+ {
+  "id": "delicate-adj",
+  "headword": "delicate",
+  "pos": "adjective"
+ },
+ {
+  "id": "delight-n",
+  "headword": "delight",
+  "pos": "noun"
+ },
+ {
+  "id": "delighted-adj",
+  "headword": "delighted",
+  "pos": "adjective"
+ },
+ {
+  "id": "delightful-adj",
+  "headword": "delightful",
+  "pos": "adjective"
+ },
+ {
+  "id": "deliver-v",
+  "headword": "deliver",
+  "pos": "verb"
+ },
+ {
+  "id": "delivery-n",
+  "headword": "delivery",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel and services vocab",
+   "Services"
+  ]
+ },
+ {
+  "id": "demand-n",
+  "headword": "demand",
+  "pos": "noun"
+ },
+ {
+  "id": "demand-v",
+  "headword": "demand",
+  "pos": "verb"
+ },
+ {
+  "id": "democracy-n",
+  "headword": "democracy",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs"
+  ]
+ },
+ {
+  "id": "democratic-adj",
+  "headword": "democratic",
+  "pos": "adjective"
+ },
+ {
+  "id": "demonstrate-v",
+  "headword": "demonstrate",
+  "pos": "verb"
+ },
+ {
+  "id": "demonstration-n",
+  "headword": "demonstration",
+  "pos": "noun"
+ },
+ {
+  "id": "deny-v",
+  "headword": "deny",
+  "pos": "verb"
+ },
+ {
+  "id": "depart-v",
+  "headword": "depart",
+  "pos": "verb"
+ }
+]

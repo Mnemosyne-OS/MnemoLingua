@@ -1,0 +1,571 @@
+[
+ {
+  "id": "drunk-adj",
+  "headword": "drunk",
+  "pos": "adjective"
+ },
+ {
+  "id": "dude-n",
+  "headword": "dude",
+  "pos": "noun"
+ },
+ {
+  "id": "dull-adj",
+  "headword": "dull",
+  "pos": "adjective"
+ },
+ {
+  "id": "dump-n",
+  "headword": "dump",
+  "pos": "noun",
+  "sourceTopics": [
+   "Things in the town, shops and shopping"
+  ]
+ },
+ {
+  "id": "dump-v",
+  "headword": "dump",
+  "pos": "verb"
+ },
+ {
+  "id": "dustbin-n",
+  "headword": "dustbin",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "dusty-adj",
+  "headword": "dusty",
+  "pos": "adjective"
+ },
+ {
+  "id": "duty-n",
+  "headword": "duty",
+  "pos": "noun"
+ },
+ {
+  "id": "duty-free-adj",
+  "headword": "duty-free",
+  "pos": "adjective"
+ },
+ {
+  "id": "duvet-n",
+  "headword": "duvet",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms",
+   "House and home, environment"
+  ]
+ },
+ {
+  "id": "dynasty-n",
+  "headword": "dynasty",
+  "pos": "noun",
+  "sourceTopics": [
+   "Nationalities and countries"
+  ]
+ },
+ {
+  "id": "eager-adj",
+  "headword": "eager",
+  "pos": "adjective"
+ },
+ {
+  "id": "eagerness-n",
+  "headword": "eagerness",
+  "pos": "noun"
+ },
+ {
+  "id": "earache-n",
+  "headword": "earache",
+  "pos": "noun"
+ },
+ {
+  "id": "earnest-adj",
+  "headword": "earnest",
+  "pos": "adjective"
+ },
+ {
+  "id": "eastern-adj",
+  "headword": "eastern",
+  "pos": "adjective"
+ },
+ {
+  "id": "easygoing-adj",
+  "headword": "easygoing",
+  "pos": "adjective",
+  "variants": [
+   "easy-going"
+  ]
+ },
+ {
+  "id": "eco-n",
+  "headword": "eco",
+  "pos": "noun"
+ },
+ {
+  "id": "ecological-adj",
+  "headword": "ecological",
+  "pos": "adjective"
+ },
+ {
+  "id": "ecology-n",
+  "headword": "ecology",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education"
+  ]
+ },
+ {
+  "id": "economic-adj",
+  "headword": "economic",
+  "pos": "adjective"
+ },
+ {
+  "id": "economics-n",
+  "headword": "economics",
+  "pos": "noun"
+ },
+ {
+  "id": "economy-n",
+  "headword": "economy",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Daily life"
+  ]
+ },
+ {
+  "id": "ecosystem-n",
+  "headword": "ecosystem",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education"
+  ]
+ },
+ {
+  "id": "ecstasy-n",
+  "headword": "ecstasy",
+  "pos": "noun"
+ },
+ {
+  "id": "edge-n",
+  "headword": "edge",
+  "pos": "noun",
+  "sourceTopics": [
+   "Objects and rooms"
+  ]
+ },
+ {
+  "id": "edition-n",
+  "headword": "edition",
+  "pos": "noun",
+  "sourceTopics": [
+   "Books and literature"
+  ]
+ },
+ {
+  "id": "educate-v",
+  "headword": "educate",
+  "pos": "verb"
+ },
+ {
+  "id": "effective-adj",
+  "headword": "effective",
+  "pos": "adjective"
+ },
+ {
+  "id": "efficiency-n",
+  "headword": "efficiency",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs"
+  ]
+ },
+ {
+  "id": "efficient-adj",
+  "headword": "efficient",
+  "pos": "adjective"
+ },
+ {
+  "id": "either-det",
+  "headword": "either",
+  "pos": "determiner"
+ },
+ {
+  "id": "either-pron",
+  "headword": "either",
+  "pos": "pronoun"
+ },
+ {
+  "id": "elbow-n",
+  "headword": "elbow",
+  "pos": "noun"
+ },
+ {
+  "id": "election-n",
+  "headword": "election",
+  "pos": "noun",
+  "sourceTopics": [
+   "News, lifestyles and current affairs",
+   "Relations with other people"
+  ]
+ },
+ {
+  "id": "electrical-adj",
+  "headword": "electrical",
+  "pos": "adjective"
+ },
+ {
+  "id": "electricity-n",
+  "headword": "electricity",
+  "pos": "noun",
+  "sourceTopics": [
+   "Travel and services vocab",
+   "Services"
+  ]
+ },
+ {
+  "id": "electron-n",
+  "headword": "electron",
+  "pos": "noun",
+  "sourceTopics": [
+   "Technical and legal language"
+  ]
+ },
+ {
+  "id": "electronic-adj",
+  "headword": "electronic",
+  "pos": "adjective"
+ },
+ {
+  "id": "element-n",
+  "headword": "element",
+  "pos": "noun"
+ },
+ {
+  "id": "eliminate-v",
+  "headword": "eliminate",
+  "pos": "verb"
+ },
+ {
+  "id": "embarrass-v",
+  "headword": "embarrass",
+  "pos": "verb"
+ },
+ {
+  "id": "embarrassed-adj",
+  "headword": "embarrassed",
+  "pos": "adjective"
+ },
+ {
+  "id": "embarrassment-n",
+  "headword": "embarrassment",
+  "pos": "noun"
+ },
+ {
+  "id": "emerge-v",
+  "headword": "emerge",
+  "pos": "verb"
+ },
+ {
+  "id": "emotion-n",
+  "headword": "emotion",
+  "pos": "noun"
+ },
+ {
+  "id": "emotional-adj",
+  "headword": "emotional",
+  "pos": "adjective"
+ },
+ {
+  "id": "emotionally-adv",
+  "headword": "emotionally",
+  "pos": "adverb"
+ },
+ {
+  "id": "emperor-n",
+  "headword": "emperor",
+  "pos": "noun",
+  "sourceTopics": [
+   "Nationalities and countries",
+   "Relations with other people"
+  ]
+ },
+ {
+  "id": "emphasis-n",
+  "headword": "emphasis",
+  "pos": "noun"
+ },
+ {
+  "id": "emphasize-v",
+  "headword": "emphasize",
+  "pos": "verb",
+  "variants": [
+   "emphasize"
+  ]
+ },
+ {
+  "id": "empire-n",
+  "headword": "empire",
+  "pos": "noun",
+  "sourceTopics": [
+   "Nationalities and countries",
+   "Places"
+  ]
+ },
+ {
+  "id": "employment-n",
+  "headword": "employment",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "enable-v",
+  "headword": "enable",
+  "pos": "verb"
+ },
+ {
+  "id": "enclose-v",
+  "headword": "enclose",
+  "pos": "verb"
+ },
+ {
+  "id": "encounter-n",
+  "headword": "encounter",
+  "pos": "noun"
+ },
+ {
+  "id": "encouragement-n",
+  "headword": "encouragement",
+  "pos": "noun"
+ },
+ {
+  "id": "encouraging-adj",
+  "headword": "encouraging",
+  "pos": "adjective"
+ },
+ {
+  "id": "encyclopedia-n",
+  "headword": "encyclopedia",
+  "pos": "noun",
+  "variants": [
+   "encyclopaedia"
+  ],
+  "sourceTopics": [
+   "Books and literature"
+  ]
+ },
+ {
+  "id": "endanger-v",
+  "headword": "endanger",
+  "pos": "verb"
+ },
+ {
+  "id": "endless-adj",
+  "headword": "endless",
+  "pos": "adjective"
+ },
+ {
+  "id": "endure-v",
+  "headword": "endure",
+  "pos": "verb"
+ },
+ {
+  "id": "enemy-n",
+  "headword": "enemy",
+  "pos": "noun",
+  "sourceTopics": [
+   "Relations with other people"
+  ]
+ },
+ {
+  "id": "engage-v",
+  "headword": "engage",
+  "pos": "verb"
+ },
+ {
+  "id": "engaged-adj",
+  "headword": "engaged",
+  "pos": "adjective"
+ },
+ {
+  "id": "engine-n",
+  "headword": "engine",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Travel"
+  ]
+ },
+ {
+  "id": "engineering-n",
+  "headword": "engineering",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education",
+   "Daily life"
+  ]
+ },
+ {
+  "id": "englishman-n",
+  "headword": "Englishman",
+  "pos": "noun",
+  "sourceTopics": [
+   "Nationalities and countries",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "enjoyable-adj",
+  "headword": "enjoyable",
+  "pos": "adjective"
+ },
+ {
+  "id": "enjoyment-n",
+  "headword": "enjoyment",
+  "pos": "noun"
+ },
+ {
+  "id": "enrich-v",
+  "headword": "enrich",
+  "pos": "verb"
+ },
+ {
+  "id": "ensure-v",
+  "headword": "ensure",
+  "pos": "verb"
+ },
+ {
+  "id": "entertain-v",
+  "headword": "entertain",
+  "pos": "verb"
+ },
+ {
+  "id": "entertainer-n",
+  "headword": "entertainer",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "enthusiasm-n",
+  "headword": "enthusiasm",
+  "pos": "noun"
+ },
+ {
+  "id": "enthusiast-n",
+  "headword": "enthusiast",
+  "pos": "noun"
+ },
+ {
+  "id": "enthusiastic-adj",
+  "headword": "enthusiastic",
+  "pos": "adjective"
+ },
+ {
+  "id": "entire-adj",
+  "headword": "entire",
+  "pos": "adjective"
+ },
+ {
+  "id": "entirely-adv",
+  "headword": "entirely",
+  "pos": "adverb"
+ },
+ {
+  "id": "entry-n",
+  "headword": "entry",
+  "pos": "noun"
+ },
+ {
+  "id": "environmental-adj",
+  "headword": "environmental",
+  "pos": "adjective"
+ },
+ {
+  "id": "environmentalist-n",
+  "headword": "environmentalist",
+  "pos": "noun",
+  "sourceTopics": [
+   "Work and Jobs",
+   "Personal identification"
+  ]
+ },
+ {
+  "id": "equal-adj",
+  "headword": "equal",
+  "pos": "adjective"
+ },
+ {
+  "id": "equality-n",
+  "headword": "equality",
+  "pos": "noun"
+ },
+ {
+  "id": "equally-adv",
+  "headword": "equally",
+  "pos": "adverb"
+ },
+ {
+  "id": "equipment-n",
+  "headword": "equipment",
+  "pos": "noun"
+ },
+ {
+  "id": "era-n",
+  "headword": "era",
+  "pos": "noun",
+  "sourceTopics": [
+   "Education"
+  ]
+ },
+ {
+  "id": "escape-v",
+  "headword": "escape",
+  "pos": "verb"
+ },
+ {
+  "id": "essence-n",
+  "headword": "essence",
+  "pos": "noun"
+ },
+ {
+  "id": "essential-adj",
+  "headword": "essential",
+  "pos": "adjective"
+ },
+ {
+  "id": "establishment-n",
+  "headword": "establishment",
+  "pos": "noun"
+ },
+ {
+  "id": "estimate-v",
+  "headword": "estimate",
+  "pos": "verb"
+ },
+ {
+  "id": "eternal-adj",
+  "headword": "eternal",
+  "pos": "adjective"
+ },
+ {
+  "id": "eternity-n",
+  "headword": "eternity",
+  "pos": "noun"
+ },
+ {
+  "id": "even-adj",
+  "headword": "even",
+  "pos": "adjective"
+ }
+]

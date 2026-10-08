@@ -1,0 +1,618 @@
+[
+ {
+  "id": "r001",
+  "headword": "TENSE/ASPECT: PRESENT PROGRESSIVE",
+  "pos": "grammar (NEG. DEC.)",
+  "example": "I'm not working today because I feel ill.",
+  "fr": {
+   "exampleA": "Je ne travaille pas aujourd'hui parce que je me sens malade.",
+   "exampleB": "Je ne travaille pas aujourd'hui parce que je ne me sens pas bien."
+  },
+  "es": {
+   "exampleA": "Hoy no trabajo porque me encuentro mal.",
+   "exampleB": "Hoy no trabajo porque me encuentro mal."
+  }
+ },
+ {
+  "id": "r002",
+  "headword": "TENSE/ASPECT: PRESENT PROGRESSIVE",
+  "pos": "grammar (NEG. DEC.)",
+  "example": "The children aren't sleeping, they're watching TV.",
+  "fr": {
+   "exampleA": "Les enfants ne dorment pas, ils regardent la télé.",
+   "exampleB": "Les enfants ne dorment pas, ils regardent la télé."
+  },
+  "es": {
+   "exampleA": "Los niños no están durmiendo, están viendo la tele.",
+   "exampleB": "Los niños no están durmiendo, están viendo la tele."
+  }
+ },
+ {
+  "id": "r003",
+  "headword": "TENSE/ASPECT: PAST PERFECT",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "When we arrived, the film had already started.",
+  "fr": {
+   "exampleA": "Quand nous sommes arrivés, le film avait déjà commencé.",
+   "exampleB": "Quand nous sommes arrivés, le film avait déjà commencé."
+  },
+  "es": {
+   "exampleA": "Cuando llegamos, la película ya había empezado.",
+   "exampleB": "Cuando llegamos, la película ya había empezado."
+  }
+ },
+ {
+  "id": "r004",
+  "headword": "TENSE/ASPECT: PAST PERFECT",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "She had never seen snow before she moved to Canada.",
+  "fr": {
+   "exampleA": "Elle n'avait jamais vu de neige avant de s'installer au Canada.",
+   "exampleB": "Elle n'avait jamais vu la neige avant de s'installer au Canada."
+  },
+  "es": {
+   "exampleA": "Nunca había visto la nieve antes de mudarse a Canadá.",
+   "exampleB": "Nunca había visto la nieve antes de mudarse a Canadá."
+  }
+ },
+ {
+  "id": "r005",
+  "headword": "MODAL/AUX: be able to",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "After a few lessons, I was able to swim.",
+  "fr": {
+   "exampleA": "Après quelques leçons, j'ai réussi à nager.",
+   "exampleB": "Après quelques leçons, j'ai réussi à nager."
+  },
+  "es": {
+   "exampleA": "Después de unas cuantas clases, conseguí nadar.",
+   "exampleB": "Después de unas clases, conseguí nadar."
+  }
+ },
+ {
+  "id": "r006",
+  "headword": "TENSE/ASPECT: PRESENT (lexical verbs; third person & singular)",
+  "pos": "grammar (NEG. DEC.)",
+  "example": "I wonder why she didn't call me back.",
+  "fr": {
+   "exampleA": "Ce magasin n'ouvre pas le dimanche.",
+   "exampleB": "Ce magasin n'ouvre pas le dimanche."
+  },
+  "es": {
+   "exampleA": "Esta tienda no abre los domingos.",
+   "exampleB": "Esta tienda no abre los domingos."
+  }
+ },
+ {
+  "id": "r007",
+  "headword": "MODAL/AUX: be able to",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "You will be able to drive when you are eighteen.",
+  "fr": {
+   "exampleA": "Tu pourras conduire quand tu auras dix-huit ans.",
+   "exampleB": "Tu pourras conduire quand tu auras dix-huit ans."
+  },
+  "es": {
+   "exampleA": "Podrás conducir cuando tengas dieciocho años.",
+   "exampleB": "Podrás conducir cuando tengas dieciocho años."
+  }
+ },
+ {
+  "id": "r008",
+  "headword": "MODAL/AUX: could",
+  "pos": "grammar (NEG. DEC.)",
+  "example": "I couldn't sleep because of the noise outside.",
+  "fr": {
+   "exampleA": "Je n'ai pas pu dormir à cause du bruit dehors.",
+   "exampleB": "Je n'ai pas pu dormir à cause du bruit dehors."
+  },
+  "es": {
+   "exampleA": "No pude dormir por el ruido de fuera.",
+   "exampleB": "No pude dormir por el ruido de fuera."
+  }
+ },
+ {
+  "id": "r009",
+  "headword": "MODAL/AUX: could",
+  "pos": "grammar (NEG. DEC.)",
+  "example": "My grandfather couldn't read until he was twelve.",
+  "fr": {
+   "exampleA": "Mon grand-père ne savait pas lire avant ses douze ans.",
+   "exampleB": "Mon grand-père ne savait pas lire avant l'âge de douze ans."
+  },
+  "es": {
+   "exampleA": "Mi abuelo no sabía leer hasta los doce años.",
+   "exampleB": "Mi abuelo no supo leer hasta los doce años."
+  }
+ },
+ {
+  "id": "r010",
+  "headword": "ADVERBS OF ATTITUDES: apparently/clearly/fortunately/frankly/unfortunately",
+  "pos": "grammar",
+  "example": "He cut himself while he was cooking dinner.",
+  "fr": {
+   "exampleA": "Heureusement, personne n'a été blessé dans l'accident.",
+   "exampleB": "Heureusement, personne n'a été blessé dans l'accident."
+  },
+  "es": {
+   "exampleA": "Por suerte, nadie resultó herido en el accidente.",
+   "exampleB": "Por suerte, nadie resultó herido en el accidente."
+  }
+ },
+ {
+  "id": "r011",
+  "headword": "MODAL/AUX: might",
+  "pos": "grammar",
+  "example": "Take an umbrella, it might rain later.",
+  "fr": {
+   "exampleA": "Prends un parapluie, il pourrait pleuvoir plus tard.",
+   "exampleB": "Prends un parapluie, il pourrait pleuvoir plus tard."
+  },
+  "es": {
+   "exampleA": "Coge un paraguas, puede que llueva más tarde.",
+   "exampleB": "Coge un paraguas, puede que llueva más tarde."
+  }
+ },
+ {
+  "id": "r012",
+  "headword": "MODAL/AUX: might",
+  "pos": "grammar",
+  "example": "We might go to the beach this weekend.",
+  "fr": {
+   "exampleA": "On ira peut-être à la plage ce week-end.",
+   "exampleB": "On ira peut-être à la plage ce week-end."
+  },
+  "es": {
+   "exampleA": "Puede que vayamos a la playa este fin de semana.",
+   "exampleB": "A lo mejor vamos a la playa este fin de semana."
+  }
+ },
+ {
+  "id": "r013",
+  "headword": "MODAL/AUX: need (to)",
+  "pos": "grammar",
+  "example": "I need to call my bank before five o'clock.",
+  "fr": {
+   "exampleA": "Je dois appeler ma banque avant cinq heures.",
+   "exampleB": "Je dois appeler ma banque avant cinq heures."
+  },
+  "es": {
+   "exampleA": "Tengo que llamar al banco antes de las cinco.",
+   "exampleB": "Tengo que llamar al banco antes de las cinco."
+  }
+ },
+ {
+  "id": "r014",
+  "headword": "MODAL/AUX: need (to)",
+  "pos": "grammar",
+  "example": "You don't need to bring any food to the party.",
+  "fr": {
+   "exampleA": "Tu n'as pas besoin d'apporter à manger à la fête.",
+   "exampleB": "Tu n'as pas besoin d'apporter à manger à la fête."
+  },
+  "es": {
+   "exampleA": "No hace falta que traigas comida a la fiesta.",
+   "exampleB": "No hace falta que traigas comida a la fiesta."
+  }
+ },
+ {
+  "id": "r015",
+  "headword": "MODAL/AUX: used to",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "I used to play the piano when I was young.",
+  "fr": {
+   "exampleA": "Je jouais du piano quand j'étais jeune.",
+   "exampleB": "Je jouais du piano quand j'étais jeune."
+  },
+  "es": {
+   "exampleA": "Solía tocar el piano cuando era joven.",
+   "exampleB": "Cuando era joven, tocaba el piano."
+  }
+ },
+ {
+  "id": "r016",
+  "headword": "MODAL/AUX: used to",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "There used to be a cinema in this street.",
+  "fr": {
+   "exampleA": "Avant, il y avait un cinéma dans cette rue.",
+   "exampleB": "Il y avait un cinéma dans cette rue autrefois."
+  },
+  "es": {
+   "exampleA": "Antes había un cine en esta calle.",
+   "exampleB": "Antes había un cine en esta calle."
+  }
+ },
+ {
+  "id": "r017",
+  "headword": "BE to DO",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "The president is to visit our town next month.",
+  "fr": {
+   "exampleA": "Le président doit visiter notre ville le mois prochain.",
+   "exampleB": "Le président doit venir dans notre ville le mois prochain."
+  },
+  "es": {
+   "exampleA": "Está previsto que el presidente visite nuestra ciudad el mes que viene.",
+   "exampleB": "El presidente visitará nuestra ciudad el mes que viene."
+  }
+ },
+ {
+  "id": "r018",
+  "headword": "BE to DO",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "All students are to arrive at school by eight.",
+  "fr": {
+   "exampleA": "Tous les élèves doivent arriver à l'école avant huit heures.",
+   "exampleB": "Tous les élèves doivent arriver à l'école avant huit heures."
+  },
+  "es": {
+   "exampleA": "Todos los alumnos deben llegar al colegio antes de las ocho.",
+   "exampleB": "Todos los alumnos deben llegar al colegio antes de las ocho."
+  }
+ },
+ {
+  "id": "r019",
+  "headword": "POSSESSIVE PRONOUNS (except for 'his' and 'its')",
+  "pos": "grammar",
+  "example": "This isn't my phone, I think it's yours.",
+  "fr": {
+   "exampleA": "Ce n'est pas mon téléphone, je crois que c'est le tien.",
+   "exampleB": "Ce n'est pas mon téléphone, je crois que c'est le tien."
+  },
+  "es": {
+   "exampleA": "Este no es mi móvil, creo que es el tuyo.",
+   "exampleB": "Este no es mi móvil, creo que es el tuyo."
+  }
+ },
+ {
+  "id": "r020",
+  "headword": "POSSESSIVE PRONOUNS (except for 'his' and 'its')",
+  "pos": "grammar",
+  "example": "Their garden is bigger than ours.",
+  "fr": {
+   "exampleA": "Leur jardin est plus grand que le nôtre.",
+   "exampleB": "Leur jardin est plus grand que le nôtre."
+  },
+  "es": {
+   "exampleA": "Su jardín es más grande que el nuestro.",
+   "exampleB": "Su jardín es más grande que el nuestro."
+  }
+ },
+ {
+  "id": "r021",
+  "headword": "RECIPROCAL PRONOUN: each other",
+  "pos": "grammar",
+  "example": "Tom and Lisa have known each other for years.",
+  "fr": {
+   "exampleA": "Tom et Lisa se connaissent depuis des années.",
+   "exampleB": "Tom et Lisa se connaissent depuis des années."
+  },
+  "es": {
+   "exampleA": "Tom y Lisa se conocen desde hace años.",
+   "exampleB": "Tom y Lisa se conocen desde hace años."
+  }
+ },
+ {
+  "id": "r022",
+  "headword": "RECIPROCAL PRONOUN: each other",
+  "pos": "grammar",
+  "example": "The two teams shook hands with each other after the match.",
+  "fr": {
+   "exampleA": "Les deux équipes se sont serré la main après le match.",
+   "exampleB": "Les deux équipes se sont serré la main après le match."
+  },
+  "es": {
+   "exampleA": "Los dos equipos se dieron la mano después del partido.",
+   "exampleB": "Los dos equipos se dieron la mano después del partido."
+  }
+ },
+ {
+  "id": "r023",
+  "headword": "-thing ADJ",
+  "pos": "grammar",
+  "example": "I want to eat something sweet after dinner.",
+  "fr": {
+   "exampleA": "J'ai envie de manger quelque chose de sucré après le dîner.",
+   "exampleB": "J'ai envie de manger quelque chose de sucré après le dîner."
+  },
+  "es": {
+   "exampleA": "Me apetece comer algo dulce después de cenar.",
+   "exampleB": "Me apetece comer algo dulce después de cenar."
+  }
+ },
+ {
+  "id": "r024",
+  "headword": "MODAL/AUX: must",
+  "pos": "grammar",
+  "example": "She must be tired after such a long journey.",
+  "fr": {
+   "exampleA": "Il faut porter un casque à moto.",
+   "exampleB": "Elle doit être fatiguée après un si long voyage."
+  },
+  "es": {
+   "exampleA": "Debe de estar cansada después de un viaje tan largo.",
+   "exampleB": "Debe de estar cansada después de un viaje tan largo."
+  }
+ },
+ {
+  "id": "r025",
+  "headword": "-thing ADJ",
+  "pos": "grammar",
+  "example": "Did anything interesting happen at work today?",
+  "fr": {
+   "exampleA": "Il s'est passé quelque chose d'intéressant au travail aujourd'hui ?",
+   "exampleB": "Il s'est passé quelque chose d'intéressant au travail aujourd'hui ?"
+  },
+  "es": {
+   "exampleA": "¿Ha pasado algo interesante hoy en el trabajo?",
+   "exampleB": "¿Ha pasado algo interesante hoy en el trabajo?"
+  }
+ },
+ {
+  "id": "r026",
+  "headword": "INTENSIFIED COMPARATIVES: a lot/by far/even/far/much/still",
+  "pos": "grammar",
+  "example": "The train is much faster than the bus.",
+  "fr": {
+   "exampleA": "Le train est beaucoup plus rapide que le bus.",
+   "exampleB": "Le train est beaucoup plus rapide que le bus."
+  },
+  "es": {
+   "exampleA": "El tren es mucho más rápido que el autobús.",
+   "exampleB": "El tren es mucho más rápido que el autobús."
+  }
+ },
+ {
+  "id": "r027",
+  "headword": "INTENSIFIED COMPARATIVES: a lot/by far/even/far/much/still",
+  "pos": "grammar",
+  "example": "Today is even colder than yesterday.",
+  "fr": {
+   "exampleA": "Aujourd'hui, il fait encore plus froid qu'hier.",
+   "exampleB": "Aujourd'hui, il fait encore plus froid qu'hier."
+  },
+  "es": {
+   "exampleA": "Hoy hace todavía más frío que ayer.",
+   "exampleB": "Hoy hace aún más frío que ayer."
+  }
+ },
+ {
+  "id": "r028",
+  "headword": "TO-INFINITIVE: WITH NOTIONAL SUBJECT",
+  "pos": "grammar",
+  "example": "It is important for children to sleep well.",
+  "fr": {
+   "exampleA": "Il est important que les enfants dorment bien.",
+   "exampleB": "Il est important que les enfants dorment bien."
+  },
+  "es": {
+   "exampleA": "Es importante que los niños duerman bien.",
+   "exampleB": "Es importante que los niños duerman bien."
+  }
+ },
+ {
+  "id": "r029",
+  "headword": "TO-INFINITIVE: WITH NOTIONAL SUBJECT",
+  "pos": "grammar",
+  "example": "The box is too heavy for me to carry.",
+  "fr": {
+   "exampleA": "La boîte est trop lourde pour que je la porte.",
+   "exampleB": "La boîte est trop lourde pour que je la porte."
+  },
+  "es": {
+   "exampleA": "La caja pesa demasiado para que yo la lleve.",
+   "exampleB": "La caja pesa demasiado para que yo la lleve."
+  }
+ },
+ {
+  "id": "r030",
+  "headword": "here is/are",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "Here is the key to your room.",
+  "fr": {
+   "exampleA": "Voici la clé de votre chambre.",
+   "exampleB": "Voici la clé de votre chambre."
+  },
+  "es": {
+   "exampleA": "Aquí tiene la llave de su habitación.",
+   "exampleB": "Aquí tiene la llave de su habitación."
+  }
+ },
+ {
+  "id": "r031",
+  "headword": "TENSE/ASPECT: PRESENT PERFECT",
+  "pos": "grammar (NEG. DEC.)",
+  "example": "I decided not to buy the expensive jacket.",
+  "fr": {
+   "exampleA": "Elle n'est jamais allée à Londres.",
+   "exampleB": "Elle n'est jamais allée à Londres."
+  },
+  "es": {
+   "exampleA": "Ella nunca ha estado en Londres.",
+   "exampleB": "Ella nunca ha estado en Londres."
+  }
+ },
+ {
+  "id": "r032",
+  "headword": "here is/are",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "Here are the photos from our holiday.",
+  "fr": {
+   "exampleA": "Voici les photos de nos vacances.",
+   "exampleB": "Voici les photos de nos vacances."
+  },
+  "es": {
+   "exampleA": "Aquí están las fotos de nuestras vacaciones.",
+   "exampleB": "Aquí están las fotos de nuestras vacaciones."
+  }
+ },
+ {
+  "id": "r033",
+  "headword": "WH-+to+INFINITIVE",
+  "pos": "grammar",
+  "example": "I don't know what to say to her.",
+  "fr": {
+   "exampleA": "Je ne sais pas quoi lui dire.",
+   "exampleB": "Je ne sais pas quoi lui dire."
+  },
+  "es": {
+   "exampleA": "No sé qué decirle.",
+   "exampleB": "No sé qué decirle."
+  }
+ },
+ {
+  "id": "r034",
+  "headword": "WH-+to+INFINITIVE",
+  "pos": "grammar",
+  "example": "Can you show me how to use this machine?",
+  "fr": {
+   "exampleA": "Tu peux me montrer comment utiliser cette machine ?",
+   "exampleB": "Tu peux me montrer comment utiliser cette machine ?"
+  },
+  "es": {
+   "exampleA": "¿Me enseñas a usar esta máquina?",
+   "exampleB": "¿Me puedes enseñar a usar esta máquina?"
+  }
+ },
+ {
+  "id": "r035",
+  "headword": "RELATIVE ADVERB: WITHOUT ANTECEDENT",
+  "pos": "grammar",
+  "example": "This is where I lived as a child.",
+  "fr": {
+   "exampleA": "C'est ici que j'ai vécu quand j'étais enfant.",
+   "exampleB": "C'est ici que j'ai vécu quand j'étais enfant."
+  },
+  "es": {
+   "exampleA": "Aquí es donde viví de niño.",
+   "exampleB": "Aquí es donde viví de pequeño."
+  }
+ },
+ {
+  "id": "r036",
+  "headword": "MODAL/AUX: may",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "It may snow in the mountains tomorrow.",
+  "fr": {
+   "exampleA": "Il se peut qu'il neige en montagne demain.",
+   "exampleB": "Il se peut qu'il neige en montagne demain."
+  },
+  "es": {
+   "exampleA": "No toques el horno, está muy caliente.",
+   "exampleB": "Puede que nieve en la montaña mañana."
+  }
+ },
+ {
+  "id": "r037",
+  "headword": "RELATIVE ADVERB: WITHOUT ANTECEDENT",
+  "pos": "grammar",
+  "example": "I missed the bus, and that's why I was late.",
+  "fr": {
+   "exampleA": "J'ai raté le bus, c'est pour ça que j'étais en retard.",
+   "exampleB": "J'ai raté le bus, c'est pour ça que j'étais en retard."
+  },
+  "es": {
+   "exampleA": "Perdí el autobús, por eso llegué tarde.",
+   "exampleB": "Perdí el autobús, por eso llegué tarde."
+  }
+ },
+ {
+  "id": "r038",
+  "headword": "INDIRECT QUESTION: ASK/REMIND/SHOW/TEACH/TELL",
+  "pos": "grammar",
+  "example": "A tourist asked me where the museum was.",
+  "fr": {
+   "exampleA": "Un touriste m'a demandé où était le musée.",
+   "exampleB": "Un touriste m'a demandé où était le musée."
+  },
+  "es": {
+   "exampleA": "Un turista me preguntó dónde estaba el museo.",
+   "exampleB": "Un turista me preguntó dónde estaba el museo."
+  }
+ },
+ {
+  "id": "r039",
+  "headword": "INDIRECT QUESTION: ASK/REMIND/SHOW/TEACH/TELL",
+  "pos": "grammar",
+  "example": "Can you remind me what time the meeting starts?",
+  "fr": {
+   "exampleA": "Tu peux me rappeler à quelle heure commence la réunion ?",
+   "exampleB": "Tu peux me rappeler à quelle heure commence la réunion ?"
+  },
+  "es": {
+   "exampleA": "¿Me recuerdas a qué hora empieza la reunión?",
+   "exampleB": "¿Me recuerdas a qué hora empieza la reunión?"
+  }
+ },
+ {
+  "id": "r040",
+  "headword": "MODAL/AUX: will",
+  "pos": "grammar (NEG. DEC.)",
+  "example": "The car won't start this morning.",
+  "fr": {
+   "exampleA": "La voiture ne veut pas démarrer ce matin.",
+   "exampleB": "La voiture ne veut pas démarrer ce matin."
+  },
+  "es": {
+   "exampleA": "Me robaron la bici delante de la biblioteca.",
+   "exampleB": "El coche no quiere arrancar esta mañana."
+  }
+ },
+ {
+  "id": "r041",
+  "headword": "PARTICIPIAL CONSTRUCTION: PRESENT PARTICIPLE",
+  "pos": "grammar ((SUBORDINATE CLAUSE) AFF. DEC.)",
+  "example": "Walking home, I saw an old friend from school.",
+  "fr": {
+   "exampleA": "En rentrant chez moi, j'ai croisé un vieil ami d'école.",
+   "exampleB": "En rentrant à pied, j'ai vu un vieil ami d'école."
+  },
+  "es": {
+   "exampleA": "Volviendo a casa, vi a un viejo amigo del colegio.",
+   "exampleB": "Volviendo a casa, vi a un viejo amigo del colegio."
+  }
+ },
+ {
+  "id": "r042",
+  "headword": "PARTICIPIAL CONSTRUCTION: PRESENT PARTICIPLE",
+  "pos": "grammar ((SUBORDINATE CLAUSE) AFF. DEC.)",
+  "example": "Feeling tired, she went to bed early.",
+  "fr": {
+   "exampleA": "Se sentant fatiguée, elle s'est couchée tôt.",
+   "exampleB": "Comme elle se sentait fatiguée, elle s'est couchée tôt."
+  },
+  "es": {
+   "exampleA": "Como se sentía cansada, se acostó pronto.",
+   "exampleB": "Como estaba cansada, se acostó temprano."
+  }
+ },
+ {
+  "id": "r043",
+  "headword": "PASSIVE: AUX",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "The work must be finished by Friday.",
+  "fr": {
+   "exampleA": "Le travail doit être terminé d'ici vendredi.",
+   "exampleB": "Le travail doit être terminé d'ici vendredi."
+  },
+  "es": {
+   "exampleA": "El trabajo tiene que estar terminado para el viernes.",
+   "exampleB": "El trabajo tiene que estar terminado para el viernes."
+  }
+ },
+ {
+  "id": "r044",
+  "headword": "PASSIVE: AUX",
+  "pos": "grammar (AFF. DEC.)",
+  "example": "This room can be used for meetings.",
+  "fr": {
+   "exampleA": "Cette salle peut servir pour les réunions.",
+   "exampleB": "Cette salle peut être utilisée pour les réunions."
+  },
+  "es": {
+   "exampleA": "Esta sala se puede usar para reuniones.",
+   "exampleB": "Esta sala se puede usar para reuniones."
+  }
+ }
+]
