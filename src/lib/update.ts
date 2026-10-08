@@ -84,7 +84,7 @@ export function compareVersions(a: string, b: string): number {
 export type UpdateState =
   | { kind: 'unknown' }
   | { kind: 'current' }
-  | { kind: 'newer'; version: string };
+  | { kind: 'newer'; version: string; critical?: boolean };
 
 /** The published version, or null when it cannot be read. Never rejects. */
 export async function fetchPublishedVersion(fetchImpl: typeof fetch = fetch, signal?: AbortSignal): Promise<string | null> {

@@ -245,6 +245,10 @@
     "badgeNew": "v{{v}} · {{next}} disponible",
     "current": "À jour",
     "available": "La version {{v}} de MnemoLingua est disponible : ouvre le Hub de Mnemosyne pour la mettre à jour.",
-    "see": "Voir sur GitHub"
+    "see": "Voir sur GitHub",
+    "ready": "La version {{v}} de MnemoLingua est disponible.",
+    "critical": "La version {{v}} de MnemoLingua corrige un problème de sécurité.",
+    "openHub": "Ouvrir le Hub",
+    "openYourself": "Ouvre le Hub de Mnemosyne pour la mettre à jour."
   }
 }

@@ -13,10 +13,11 @@ import { Session } from './components/Session';
 import { StrokeSetup } from './components/StrokeSetup';
 import { useI18n } from './i18n/useI18n';
 import { glossLangs, indexDeck, resolveGlossLang, viewDeck } from './lib/deck';
-import { hasHost, openExternal } from './lib/host';
+import { hasHost, openExternal, sdk } from './lib/host';
 import { log } from './lib/log';
 import { strokeSourceFor } from './lib/strokes';
-import { REPO_URL, RUNNING_VERSION, useUpdateCheck } from './lib/update';
+import { REPO_URL } from './lib/update';
+import { useLinguaUpdate } from './lib/hostUpdate';
 import { useWritingData } from './lib/useWritingData';
 import { cardsDueTomorrow, nextReview, playableRecordsOf } from './lib/progress';
 import {
@@ -113,9 +114,19 @@ export default function App(): JSX.Element {
   const byId = useMemo(() => (DECK ? indexDeck(DECK) : new Map()), [DECK]);
 
   // Not under tests: a test must never reach GitHub.
-  const update = useUpdateCheck(hasHost() && import.meta.env.MODE !== 'test');
-  const seeRepo = (): void => {
-    openExternal(REPO_URL).catch((err: unknown) => log.error('update', 'link did not open', { error: String(err) }));
+  const { running, state: update, viaHost } = useLinguaUpdate(hasHost() && import.meta.env.MODE !== 'test');
+  const [hubUnheard, setHubUnheard] = useState(false);
+  const seeUpdate = (): void => {
+    if (!viaHost) {
+      openExternal(REPO_URL).catch((err: unknown) => log.error('update', 'link did not open', { error: String(err) }));
+      return;
+    }
+    sdk.showUpdateInHub()
+      .then((r) => setHubUnheard(!r?.opened))
+      .catch((err: unknown) => {
+        log.warn('update', 'the Hub could not be opened', { error: String(err) });
+        setHubUnheard(true);
+      });
   };
   const header = (
     <header className="ml-brand">
@@ -124,12 +135,12 @@ export default function App(): JSX.Element {
         <div style={{ display: 'flex', alignItems: 'center', gap: '12px', flexWrap: 'wrap' }}>
           <h1 className="ml-title">{t('app.name')}</h1>
           {update.kind === 'newer' ? (
-            <button className="ml-version ml-version-new" onClick={seeRepo} title={t('update.available', { v: update.version })}>
-              {t('update.badgeNew', { v: RUNNING_VERSION, next: update.version })}
+            <button className="ml-version ml-version-new" onClick={seeUpdate} title={t('update.available', { v: update.version })}>
+              {t('update.badgeNew', { v: running, next: update.version })}
             </button>
           ) : (
             <span className="ml-version" title={update.kind === 'current' ? t('update.current') : undefined}>
-              {t('update.badge', { v: RUNNING_VERSION })}
+              {t('update.badge', { v: running })}
             </span>
           )}
         </div>
@@ -146,9 +157,18 @@ export default function App(): JSX.Element {
       {phase.outcome === 'unreadable' && <div style={errorBox}>{t('load.unreadable')}</div>}
       {saveError && <div style={errorBox}>{t('load.saveFailed', { error: saveError })}</div>}
       {update.kind === 'newer' && (
-        <div style={noticeBox}>
-          {t('update.available', { v: update.version })}{' '}
-          <button className="ml-link" onClick={seeRepo}>{t('update.see')}</button>
+        <div style={noticeBox} role="status">
+          {viaHost ? (
+            <>
+              {t(update.critical ? 'update.critical' : 'update.ready', { v: update.version })}{' '}
+              {hubUnheard ? t('update.openYourself') : <button className="ml-link" onClick={seeUpdate}>{t('update.openHub')}</button>}
+            </>
+          ) : (
+            <>
+              {t('update.available', { v: update.version })}{' '}
+              <button className="ml-link" onClick={seeUpdate}>{t('update.see')}</button>
+            </>
+          )}
         </div>
       )}
       {cacheProblem && <div style={noticeBox}>{t('setup.notKept', { error: cacheProblem })}</div>}
