@@ -51,6 +51,8 @@ export interface DeckCard {
   /** A kanji's readings, as KANJIDIC2 writes them: on'yomi in katakana,
    *  kun'yomi in hiragana with a dot before the okurigana. */
   readings?: { on: string[]; kun: string[] };
+  /** A Chinese word's pinyin, with its tone marks (bàba). */
+  pinyin?: string;
 }
 
 /** Where a deck's word list comes from. Shown under the deck: citing it is
@@ -67,11 +69,20 @@ export interface DeckTheme {
 }
 
 /** Which dataset a pack deck is made from, and which part of it. */
-export interface DeckPack {
+export interface KanjiPack {
   source: 'kanjidic2';
   /** The OLD four-level JLPT level (4 = the list N5 grew from). */
   jlpt: number;
 }
+
+/** An HSK word list (doc 138 §16): `old` is the 2012 test, `new` HSK 3.0. */
+export interface HskPack {
+  source: 'hsk';
+  list: 'old' | 'new';
+  level: number;
+}
+
+export type DeckPack = KanjiPack | HskPack;
 
 export interface Deck {
   id: string;

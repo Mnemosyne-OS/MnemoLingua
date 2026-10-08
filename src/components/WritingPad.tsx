@@ -144,3 +144,58 @@ export function WritingPad({ strokes, label, onDone }: {
     </div>
   );
 }
+
+/** What a word is worth once each of its characters is written: known only
+ *  when every one is, points the mean of theirs. Pure, for the tests. */
+export function wordResult(results: readonly PadResult[]): PadResult {
+  if (results.length === 0) return { known: false, points: 0 };
+  return {
+    known: results.every((r) => r.known),
+    points: Math.round((results.reduce((n, r) => n + r.points, 0) / results.length) * 100) / 100,
+  };
+}
+
+/**
+ * A word on the pad (爸爸, 你好): one pad per character, in order, the
+ * characters already written drawn small beside it. A single character is the
+ * plain pad.
+ */
+export function WordPad({ strokes, label, onDone }: {
+  /** The strokes of each character of the word, in order. */
+  strokes: readonly (readonly string[])[];
+  label: string;
+  onDone: (r: PadResult) => void;
+}): JSX.Element {
+  const { t } = useI18n();
+  const [results, setResults] = useState<PadResult[]>([]);
+  const index = results.length;
+  const finish = (r: PadResult): void => {
+    const next = [...results, r];
+    setResults(next);
+    if (next.length === strokes.length) onDone(wordResult(next));
+  };
+  if (strokes.length === 1) return <WritingPad strokes={strokes[0]!} label={label} onDone={onDone} />;
+  const current = strokes[Math.min(index, strokes.length - 1)]!;
+  return (
+    <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', gap: '8px', width: '100%' }}>
+      <div style={{ display: 'flex', gap: '8px', alignItems: 'center' }}>
+        {strokes.map((s, k) => (
+          <span key={k} className={k === index ? 'ml-word-slot ml-word-slot-on' : 'ml-word-slot'}>
+            {k < index ? <Glyph strokes={s} size={44} /> : <span aria-hidden="true">{k + 1}</span>}
+          </span>
+        ))}
+      </div>
+      {index < strokes.length ? (
+        <>
+          <p style={small}>{t('write.charOf', { n: index + 1, total: strokes.length })}</p>
+          <WritingPad key={index} strokes={current} label={label} onDone={finish} />
+        </>
+      ) : (
+        <div style={{ display: 'flex', gap: '8px' }}>
+          {strokes.map((s, k) => <Glyph key={k} strokes={s} size={110} />)}
+        </div>
+      )}
+    </div>
+  );
+}
+

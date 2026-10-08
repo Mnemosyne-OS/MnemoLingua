@@ -105,3 +105,35 @@ describe('the way into the kanji (doc 138 §15)', () => {
     expect(fetchMock).toHaveBeenCalledTimes(1);
   });
 });
+
+describe('the way into Chinese (doc 138 §16)', () => {
+  const words = Array.from({ length: 60 }, (_, i) => ({
+    simplified: String.fromCodePoint(0x4e00 + i) + (i % 2 ? String.fromCodePoint(0x4f00 + i) : ''),
+    pos: ['n'],
+    forms: [{ transcriptions: { pinyin: 'yī' }, meanings: [`m${i}`] }],
+  }));
+  const HZ = JSON.stringify({ strokes: ['M 0 0 Z'], medians: [[[121, 393], [920, 401]]] });
+
+  it('one press downloads the HSK list, then the strokes of every character of its words', async () => {
+    const fetchMock = vi.fn((url: string) => Promise.resolve(
+      url.includes('complete-hsk-vocabulary') ? new Response(JSON.stringify(words)) : new Response(HZ),
+    ));
+    vi.stubGlobal('fetch', fetchMock);
+    setLang('fr');
+    render(<App />);
+    fireEvent.click(await screen.findByText('Chinois'));
+    expect(await screen.findByText(/Les sens sont en anglais/)).toBeInTheDocument();
+    expect(fetchMock).not.toHaveBeenCalled();
+    fireEvent.click(screen.getByText('Télécharger la liste et les tracés'));
+    // English only: the deck opens in English without asking (asking would save
+    // English as the learner's choice for every deck), never in a French that
+    // does not exist.
+    expect(await screen.findByText("Aujourd'hui : 0 à revoir, 10 nouvelle(s)")).toBeInTheDocument();
+    expect(screen.queryByText('Dans quelle langue veux-tu les traductions ?')).not.toBeInTheDocument();
+    const urls = fetchMock.mock.calls.map((c) => String((c as unknown[])[0]));
+    expect(urls[0]).toContain('/7ac65bf1a6387d35f1ade478906172a19311c7f9/wordlists/exclusive/old/1.json');
+    // 60 words, 30 of them two characters: 90 characters, each fetched once.
+    expect(urls.filter((u) => u.includes('hanzi-writer-data'))).toHaveLength(90);
+  });
+});
+

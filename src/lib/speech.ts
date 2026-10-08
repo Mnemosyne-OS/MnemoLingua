@@ -30,7 +30,7 @@ const VOICES_WAIT_MS = 1500;
  */
 export function pickVoice(voices: readonly VoiceInfo[], lang: string): VoiceInfo | null {
   const base = lang.toLowerCase().split('-')[0] ?? '';
-  const main: Record<string, string> = { en: 'en-us', fr: 'fr-fr', es: 'es-es', de: 'de-de', pt: 'pt-br', it: 'it-it' };
+  const main: Record<string, string> = { en: 'en-us', fr: 'fr-fr', es: 'es-es', de: 'de-de', pt: 'pt-br', it: 'it-it', ja: 'ja-jp', zh: 'zh-cn' };
   const mine = voices.filter((v) => v.lang.toLowerCase().replace('_', '-').split('-')[0] === base);
   if (mine.length === 0) return null;
   const rank = (v: VoiceInfo): number =>

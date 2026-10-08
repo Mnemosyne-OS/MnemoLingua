@@ -475,6 +475,19 @@
   text-underline-offset: 2px;
 }
 
+.ml-word-slot {
+  width: 52px;
+  height: 52px;
+  border-radius: 14px;
+  display: grid;
+  place-items: center;
+  font-size: 14px;
+  color: var(--ml-muted);
+  background: var(--ml-glass);
+  border: 1px solid var(--ml-edge);
+}
+.ml-word-slot-on { border-color: var(--ml-accent); color: var(--ml-accent); }
+
 @media (prefers-reduced-motion: reduce) {
   .ml-root *, .ml-root *::before, .ml-root *::after {
     animation: none !important;

@@ -101,6 +101,8 @@ describe('the translation language', () => {
     expect(resolveGlossLang(d, 'es', 'fr')).toBe('es');
     expect(resolveGlossLang(d, null, 'fr')).toBe('fr');
     expect(resolveGlossLang(d, null, 'en')).toBeNull();
+    const englishOnly = { ...d, lang: 'zh', themes: [{ id: 't', cards: [{ id: 'x', kind: 'glyph' as const, target: '我', gloss: { en: 'I' }, check: 'reference' as const }] }] };
+    expect(resolveGlossLang(englishOnly, 'fr', 'fr')).toBe('en');
   });
 });
 

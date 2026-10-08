@@ -15,6 +15,7 @@ import { useI18n } from './i18n/useI18n';
 import { glossLangs, indexDeck, resolveGlossLang, viewDeck } from './lib/deck';
 import { hasHost } from './lib/host';
 import { log } from './lib/log';
+import { strokeSourceFor } from './lib/strokes';
 import { useWritingData } from './lib/useWritingData';
 import { cardsDueTomorrow, nextReview, playableRecordsOf } from './lib/progress';
 import {
@@ -184,6 +185,8 @@ export default function App(): JSX.Element {
         <StrokeSetup
           total={writing.gate.strokesMissing}
           needsPack={writing.gate.needsPack}
+          pack={fileDeck.pack}
+          source={strokeSourceFor(fileDeck.lang)}
           phase={writing.gate.phase}
           onDownload={writing.download}
           onCancel={writing.cancel}

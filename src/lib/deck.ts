@@ -40,6 +40,10 @@ function readPack(raw: unknown, problems: string[]): DeckPack | undefined {
   if (isObj(raw) && raw.source === 'kanjidic2' && typeof raw.jlpt === 'number' && Number.isInteger(raw.jlpt) && raw.jlpt >= 1 && raw.jlpt <= 4) {
     return { source: 'kanjidic2', jlpt: raw.jlpt };
   }
+  if (isObj(raw) && raw.source === 'hsk' && (raw.list === 'old' || raw.list === 'new')
+    && typeof raw.level === 'number' && Number.isInteger(raw.level) && raw.level >= 1 && raw.level <= 9) {
+    return { source: 'hsk', list: raw.list, level: raw.level };
+  }
   problems.push('bad pack');
   return undefined;
 }
@@ -238,6 +242,10 @@ export function resolveGlossLang(deck: Deck, chosen: GlossLang | null, uiLang: G
   const available = glossLangs(deck);
   if (chosen && available.includes(chosen)) return chosen;
   if (available.includes(uiLang)) return uiLang;
+  // One language only (the Chinese deck is English-only, doc 138 §16): there
+  // is no choice to ask about, and asking would SAVE it as the learner's
+  // choice, switching their Japanese decks to English too.
+  if (available.length === 1) return available[0]!;
   return null;
 }
 

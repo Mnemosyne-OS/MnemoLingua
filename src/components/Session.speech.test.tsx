@@ -110,3 +110,29 @@ describe('a kana card', () => {
     expect(screen.getByText('Trait 1 sur 2')).toBeInTheDocument();
   });
 });
+
+describe('a Chinese word on the pad', () => {
+  const S = ['M10,50c20,0,60,0,90,0'];
+  function word(): QueueItem {
+    return {
+      card: { id: 'hsk-爸爸', kind: 'glyph', target: '爸爸', gloss: { en: 'dad' }, pinyin: 'bàba', check: 'reference' },
+      direction: 'produce',
+      record: { id: 'hsk-爸爸:produce', courseId: 'zh-hsk1', front: '', back: '', box: 1, dueAt: '2026-10-07', reps: 0, lapses: 0, lastSeenAt: null },
+    };
+  }
+  it('is written character after character, and its pinyin shows once written', () => {
+    installSynth([]);
+    const onAnswer = vi.fn();
+    setLang('fr');
+    render(<Session queue={[word()]} lang="en" learningName="chinois" targetLang="zh" tomorrow={() => 0} onAnswer={onAnswer} onReport={() => undefined} onLeave={() => undefined} strokesOf={() => S} />);
+    expect(screen.getByText('Caractère 1 sur 2')).toBeInTheDocument();
+    fireEvent.click(screen.getByText('Je ne sais pas'));
+    expect(screen.getByText('Caractère 2 sur 2')).toBeInTheDocument();
+    expect(screen.queryByText('Continuer')).not.toBeInTheDocument();
+    fireEvent.click(screen.getByText('Je ne sais pas'));
+    expect(screen.getByText('Pinyin : bàba')).toBeInTheDocument();
+    fireEvent.click(screen.getByText('Continuer'));
+    expect(onAnswer).toHaveBeenCalledWith(expect.objectContaining({ direction: 'produce' }), false);
+  });
+});
+

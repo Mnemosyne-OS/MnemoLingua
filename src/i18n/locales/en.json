@@ -6,7 +6,8 @@
   },
   "lang": {
     "en": "English",
-    "ja": "Japanese"
+    "ja": "Japanese",
+    "zh": "Chinese"
   },
   "host": {
     "missing": "MnemoLingua is running outside Mnemosyne OS",
@@ -52,7 +53,8 @@
     "reference": "Reference table (Hepburn romanisation), written on {{date}}. Not yet read by a native speaker.",
     "strokesSource": "Strokes: {{name}} ({{author}}), release {{tag}}, licence {{licence}}.",
     "packSource": "Meanings and readings: {{name}} ({{author}}), licence {{licence}}.",
-    "packChecked": "Meanings taken from {{name}}, which you downloaded. Not yet read by a native speaker."
+    "packChecked": "Meanings taken from {{name}}, which you downloaded. Not yet read by a native speaker.",
+    "hskSource": "Words: {{name}} ({{licence}}), meanings from {{from}} ({{meaningsLicence}})."
   },
   "theme": {
     "basics": "The basics",
@@ -91,7 +93,10 @@
     "katakana": "Katakana",
     "grade1": "First-grade kanji",
     "grade2": "Second-grade kanji",
-    "grade3plus": "Third grade and later"
+    "grade3plus": "Third grade and later",
+    "hsk-nouns": "Nouns",
+    "hsk-verbs": "Verbs",
+    "hsk-other": "Other words"
   },
   "session": {
     "recognise": "What does this mean:",
@@ -120,7 +125,8 @@
     "noVoice": "No {{lang}} voice is installed on this computer, so pronunciation is not available.",
     "readings": "Readings: {{list}}",
     "onLabel": "on",
-    "kunLabel": "kun"
+    "kunLabel": "kun",
+    "pinyin": "Pinyin: {{pinyin}}"
   },
   "glossName": {
     "en": "English",
@@ -130,7 +136,8 @@
   "deckName": {
     "en-travel": "Travel",
     "ja-kana": "Kana",
-    "ja-kanji-n5": "Kanji N5"
+    "ja-kanji-n5": "Kanji N5",
+    "zh-hsk1": "HSK 1"
   },
   "pos": {
     "noun": "noun",
@@ -154,7 +161,8 @@
   },
   "langName": {
     "en": "English",
-    "ja": "Japanese"
+    "ja": "Japanese",
+    "zh": "Chinese"
   },
   "write": {
     "read": "How do you read:",
@@ -175,7 +183,8 @@
       "start": "Stroke {{n}}: it does not start there.",
       "end": "Stroke {{n}}: it does not end there.",
       "shape": "Stroke {{n}}: not this stroke."
-    }
+    },
+    "charOf": "Character {{n}} of {{total}}"
   },
   "setup": {
     "title": "{{deck}}: writing by hand",
@@ -202,7 +211,16 @@
     "packFailed": "The dictionary could not be downloaded ({{error}}).",
     "titlePack": "{{deck}}: reading and writing kanji",
     "ledePack": "Each kanji with its meaning in your language, its readings, and its strokes one by one.",
-    "strokesWhatPack": "Then the strokes of each kanji, from {{name}}: one small file per kanji.",
-    "downloadPack": "Download the dictionary and the strokes"
+    "strokesWhatPack": "Then the strokes of each character, from {{name}}: one small file per character.",
+    "downloadPack": "Download the dictionary and the strokes",
+    "titleHsk": "{{deck}}: reading and writing the first words",
+    "ledeHsk": "Each word with its pinyin, its meaning and its characters, drawn stroke by stroke.",
+    "hskWhat": "The {{name}} list ({{author}}), about {{kb}} KB: the 150 words of HSK 1, with their pinyin and meaning.",
+    "hskLevel": "HSK 1: the list of the 2012 test, the one most learners start with.",
+    "hskEnglish": "The meanings are in English: no open source reachable from here has them in French or Spanish. They come from {{from}}.",
+    "hskLicence": "List under the {{licence}} licence, meanings from {{from}} under {{meaningsLicence}}, the source is credited.",
+    "packingHsk": "Reading the word list…",
+    "hskFailed": "The word list could not be downloaded ({{error}}).",
+    "downloadHsk": "Download the word list and the strokes"
   }
 }

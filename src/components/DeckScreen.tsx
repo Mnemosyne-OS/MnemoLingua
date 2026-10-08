@@ -12,7 +12,8 @@
 import { useI18n } from '../i18n/useI18n';
 import type { DeckView } from '../lib/deck';
 import { KANJIDIC2 } from '../lib/kanjiPack';
-import { KANJIVG } from '../lib/strokes';
+import { HSK_LIST } from '../lib/hskPack';
+import { strokeSourceFor } from '../lib/strokes';
 import { themeIcon } from '../lib/themeIcons';
 import type { CardReport, Deck, GlossLang } from '../lib/types';
 import { h2, lede, small } from '../styles';
@@ -70,7 +71,7 @@ export function DeckScreen(p: Props): JSX.Element {
               {p.deck.reviewedBy && p.deck.reviewedAt
                 ? t('deck.reviewed', { name: p.deck.reviewedBy, date: p.deck.reviewedAt })
                 : fromReference
-                  ? (p.deck.pack ? t('deck.packChecked', { name: KANJIDIC2.name }) : t('deck.reference', { date: p.deck.checkedAt }))
+                  ? (p.deck.pack ? t('deck.packChecked', { name: p.deck.pack.source === 'hsk' ? HSK_LIST.name : KANJIDIC2.name }) : t('deck.reference', { date: p.deck.checkedAt }))
                   : t('deck.checked', { date: p.deck.checkedAt })}
             </p>
           </div>
@@ -155,8 +156,9 @@ export function DeckScreen(p: Props): JSX.Element {
           </div>
         </div>
         {p.deck.source && <p style={small}>{t('deck.source', { name: p.deck.source.name, url: p.deck.source.url })}</p>}
-        {p.deck.pack && <p style={small}>{t('deck.packSource', { name: KANJIDIC2.name, author: KANJIDIC2.author, licence: KANJIDIC2.licence })}</p>}
-        {drawsStrokes && <p style={small}>{t('deck.strokesSource', { name: KANJIVG.name, author: KANJIVG.author, licence: KANJIVG.licence, tag: KANJIVG.tag })}</p>}
+        {p.deck.pack?.source === 'kanjidic2' && <p style={small}>{t('deck.packSource', { name: KANJIDIC2.name, author: KANJIDIC2.author, licence: KANJIDIC2.licence })}</p>}
+        {p.deck.pack?.source === 'hsk' && <p style={small}>{t('deck.hskSource', { name: HSK_LIST.name, licence: HSK_LIST.licence, from: HSK_LIST.meaningsFrom, meaningsLicence: HSK_LIST.meaningsLicence })}</p>}
+        {drawsStrokes && <p style={small}>{t('deck.strokesSource', { name: strokeSourceFor(p.deck.lang).name, author: strokeSourceFor(p.deck.lang).author, licence: strokeSourceFor(p.deck.lang).licence, tag: strokeSourceFor(p.deck.lang).tag })}</p>}
         {p.view.withheld > 0 && <p style={small}>{t('deck.withheld', { n: p.view.withheld })}</p>}
         {p.view.noGloss > 0 && !glossless && <p style={small}>{t('deck.noGloss', { n: p.view.noGloss })}</p>}
         {p.reports.length > 0 && (

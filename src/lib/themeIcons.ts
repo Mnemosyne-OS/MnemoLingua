@@ -15,6 +15,7 @@ const ICONS: Record<string, string> = {
   'g-past-future': '⏳', 'g-modals': '🎯',
   hiragana: '✍️', katakana: '🖌️',
   grade1: '🌱', grade2: '🌿', grade3plus: '🌳',
+  'hsk-nouns': '📦', 'hsk-verbs': '🏃', 'hsk-other': '🧩',
 };
 
 export const FALLBACK_ICON = '📚';

@@ -53,6 +53,95 @@ export function parseKanjiVg(svg: string): string[] | null {
   return out;
 }
 
+// ── Where strokes come from: one source per written language ────────────
+
+/** One dataset of strokes the learner can download. Everything the setup
+ *  screen and the credit line say about it is read from here. */
+export interface StrokeSource {
+  id: string;
+  name: string;
+  author: string;
+  /** The pinned release: part of the cache key, never mixed with another. */
+  tag: string;
+  licence: string;
+  licenceUrl: string;
+  home: string;
+  /** Average file size, for the size announced before the button. */
+  kbPerFile: number;
+  url(char: string): string;
+  parse(text: string): string[] | null;
+}
+
+/** KanjiVG, for Japanese. 2,1 KB a file: the mean of the 92 kana files,
+ *  measured on 2026-10-07. */
+export const KANJIVG_SOURCE: StrokeSource = {
+  id: 'kanjivg', ...KANJIVG, licenceUrl: KANJIVG.licenceUrl, kbPerFile: 2.1, url: svgUrl, parse: parseKanjiVg,
+};
+
+/**
+ * hanzi-writer-data, for Chinese: one JSON per character on jsDelivr (CORS
+ * open), pinned to 2.0.1. Its strokes are filled OUTLINES plus a MEDIAN per
+ * stroke; the median is the centreline, the same thing a KanjiVG path is, so
+ * only the medians are kept (`medianPath`). Graphics derived from Arphic
+ * fonts, under the Arphic Public License.
+ */
+export const HANZI_SOURCE: StrokeSource = {
+  id: 'hanzi-writer-data',
+  name: 'hanzi-writer-data',
+  author: 'Make Me a Hanzi, David Chanin',
+  tag: '2.0.1',
+  licence: 'Arphic Public License',
+  licenceUrl: 'https://github.com/chanind/hanzi-writer-data/blob/master/ARPHICPL.TXT',
+  home: 'https://github.com/chanind/hanzi-writer-data',
+  // Estimated from 我 (2 476 bytes), not measured on the whole list.
+  kbPerFile: 2.5,
+  url: (char) => `https://cdn.jsdelivr.net/npm/hanzi-writer-data@2.0.1/${encodeURIComponent(char)}.json`,
+  parse: parseHanziWriter,
+};
+
+/** The stroke source of a language, or null when it has none. */
+export function strokeSourceFor(lang: string): StrokeSource {
+  return lang === 'zh' ? HANZI_SOURCE : KANJIVG_SOURCE;
+}
+
+/**
+ * A hanzi-writer median (points in a 1024 box with the y axis pointing UP,
+ * baseline at 900) as an SVG path in the 109 box KanjiVG uses, smoothed with
+ * quadratic curves through the midpoints so it reads as a brush stroke.
+ */
+export function medianPath(points: readonly (readonly number[])[]): string | null {
+  const pts = points
+    .filter((p) => p.length >= 2 && Number.isFinite(p[0]) && Number.isFinite(p[1]))
+    .map((p) => ({ x: (p[0]! * BOX) / 1024, y: ((900 - p[1]!) * BOX) / 1024 }));
+  if (pts.length < 2) return null;
+  const f = (n: number): string => (Math.round(n * 100) / 100).toString();
+  let d = `M${f(pts[0]!.x)},${f(pts[0]!.y)}`;
+  for (let k = 1; k < pts.length - 1; k++) {
+    const mid = { x: (pts[k]!.x + pts[k + 1]!.x) / 2, y: (pts[k]!.y + pts[k + 1]!.y) / 2 };
+    d += `Q${f(pts[k]!.x)},${f(pts[k]!.y)},${f(mid.x)},${f(mid.y)}`;
+  }
+  d += `L${f(pts[pts.length - 1]!.x)},${f(pts[pts.length - 1]!.y)}`;
+  return d;
+}
+
+/** The strokes of a hanzi-writer-data file, in writing order. Null when the
+ *  file is not one, or a stroke has no usable median. */
+export function parseHanziWriter(text: string): string[] | null {
+  let raw: unknown;
+  try { raw = JSON.parse(text); } catch { return null; }
+  if (typeof raw !== 'object' || raw === null) return null;
+  const medians = (raw as { medians?: unknown }).medians;
+  if (!Array.isArray(medians) || medians.length === 0) return null;
+  const out: string[] = [];
+  for (const m of medians) {
+    if (!Array.isArray(m)) return null;
+    const d = medianPath(m as number[][]);
+    if (!d) return null;
+    out.push(d);
+  }
+  return out;
+}
+
 // ── Geometry ────────────────────────────────────────────────────────────────
 
 export interface Pt { x: number; y: number }
@@ -230,8 +319,10 @@ export async function downloadStrokes(
     fetchImpl?: typeof fetch;
     concurrency?: number;
     timeoutMs?: number;
+    source?: StrokeSource;
   } = {},
 ): Promise<DownloadResult> {
+  const source = opts.source ?? KANJIVG_SOURCE;
   const doFetch = opts.fetchImpl ?? fetch;
   const strokes: Record<string, string[]> = {};
   const failed: { char: string; error: string }[] = [];
@@ -241,9 +332,9 @@ export async function downloadStrokes(
     const deadline = AbortSignal.timeout(opts.timeoutMs ?? FILE_TIMEOUT_MS);
     const signal = opts.signal ? AbortSignal.any([opts.signal, deadline]) : deadline;
     try {
-      const res = await doFetch(svgUrl(char), { signal });
+      const res = await doFetch(source.url(char), { signal });
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
-      const parsed = parseKanjiVg(await res.text());
+      const parsed = source.parse(await res.text());
       if (!parsed) throw new Error('NO_STROKES');
       strokes[char] = parsed;
     } catch (err) {

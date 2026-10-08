@@ -14,7 +14,7 @@
  * so it cannot be pinned by a hash: what arrives is checked for its SHAPE
  * (enough kanji of the level, each with a meaning) before it becomes a deck.
  */
-import type { Deck, DeckCard, DeckPack, GlossLang } from './types';
+import type { Deck, DeckCard, GlossLang, KanjiPack } from './types';
 
 export const KANJIDIC2 = {
   name: 'KANJIDIC2',
@@ -81,7 +81,7 @@ export function packTheme(grade: number | null): string {
  * survives a new download. A meaning missing in a language stays missing (the
  * card is counted as « no translation yet »), never filled from English.
  */
-export function buildPackDeck(base: Deck, pack: DeckPack, entries: readonly KanjiEntry[]): Deck {
+export function buildPackDeck(base: Deck, pack: KanjiPack, entries: readonly KanjiEntry[]): Deck {
   const themes = new Map<string, DeckCard[]>();
   for (const e of entries) {
     const gloss: Partial<Record<GlossLang, string>> = {};

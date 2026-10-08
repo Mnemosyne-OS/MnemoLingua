@@ -15,18 +15,19 @@
  */
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import type { SetupPhase } from '../components/StrokeSetup';
-import { buildPackDeck, downloadKanjidic, packProblem, parseKanjidic, type KanjiEntry } from './kanjiPack';
+import { buildFromPack, fetchPack, packDataProblem, packKey as keyOfPack } from './packs';
 import { log } from './log';
 import { strokeCache } from './strokeCache';
-import { downloadStrokes } from './strokes';
+import { downloadStrokes, strokeSourceFor } from './strokes';
 import type { Deck } from './types';
 
-/** Characters of a deck whose strokes are drawn (glyph cards). */
+/** Characters of a deck whose strokes are drawn (glyph cards). A Chinese
+ *  card is a WORD (爸爸): each of its characters has its own strokes. */
 export function glyphChars(deck: Deck): string[] {
-  return [...new Set(deck.themes.flatMap((th) => th.cards.filter((c) => c.kind === 'glyph').map((c) => c.target)))];
+  return [...new Set(deck.themes.flatMap((th) => th.cards.filter((c) => c.kind === 'glyph').flatMap((c) => [...c.target])))];
 }
 
-const packKey = (deck: Deck): string | null => (deck.pack ? `${deck.pack.source}@jlpt${deck.pack.jlpt}` : null);
+const packKey = (deck: Deck): string | null => (deck.pack ? keyOfPack(deck.pack) : null);
 
 export type WritingGate =
   | { kind: 'none' }
@@ -53,12 +54,14 @@ export function useWritingData(raw: Deck | null): WritingData {
   const [strokes, setStrokes] = useState<Record<string, string[]>>({});
   // Each answer is keyed on the deck it was read for: an answer for another
   // deck would open this one for a frame.
-  const [packFor, setPackFor] = useState<{ deckId: string; entries: KanjiEntry[] | null } | null>(null);
+  const [packFor, setPackFor] = useState<{ deckId: string; entries: unknown[] | null } | null>(null);
   const [missingFor, setMissingFor] = useState<{ deckId: string; list: string[] } | null>(null);
   const [phase, setPhase] = useState<SetupPhase>({ kind: 'intro' });
   const [cacheProblem, setCacheProblem] = useState<string | null>(null);
   const abortRef = useRef<AbortController | null>(null);
   const rawId = raw?.id ?? null;
+  // Japanese draws from KanjiVG, Chinese from hanzi-writer-data.
+  const source = strokeSourceFor(raw?.lang ?? 'ja');
   const key = raw ? packKey(raw) : null;
 
   // 1. The dictionary of a pack deck, from this computer.
@@ -66,7 +69,7 @@ export function useWritingData(raw: Deck | null): WritingData {
     if (!raw || !key) return;
     let alive = true;
     strokeCache().readPack(key)
-      .then((entries) => { if (alive) setPackFor({ deckId: raw.id, entries: Array.isArray(entries) ? entries as KanjiEntry[] : null }); })
+      .then((entries) => { if (alive) setPackFor({ deckId: raw.id, entries: Array.isArray(entries) ? entries as unknown[] : null }); })
       .catch((err: unknown) => {
         log.warn('pack', 'this computer cannot keep the dictionary', { error: errText(err) });
         if (!alive) return;
@@ -80,7 +83,7 @@ export function useWritingData(raw: Deck | null): WritingData {
   const deck = useMemo<Deck | null>(() => {
     if (!raw) return null;
     if (!raw.pack) return raw;
-    return packEntries ? buildPackDeck(raw, raw.pack, packEntries) : null;
+    return packEntries ? buildFromPack(raw, raw.pack, packEntries) : null;
   }, [raw, packEntries]);
 
   // 2. The strokes of the deck's characters, from this computer.
@@ -90,7 +93,7 @@ export function useWritingData(raw: Deck | null): WritingData {
     if (!deck) return;
     if (chars.length === 0) { setMissing(deck.id, []); return; }
     let alive = true;
-    strokeCache().read(chars)
+    strokeCache().read(chars, source)
       .then(({ found, missing }) => {
         if (!alive) return;
         setStrokes((s) => ({ ...s, ...found }));
@@ -103,7 +106,7 @@ export function useWritingData(raw: Deck | null): WritingData {
         setMissing(deck.id, chars);
       });
     return () => { alive = false; };
-  }, [deck, chars, setMissing]);
+  }, [deck, chars, setMissing, source]);
   useEffect(() => () => abortRef.current?.abort(), []);
 
   const missing = deck && missingFor?.deckId === deck.id ? missingFor.list : null;
@@ -111,11 +114,11 @@ export function useWritingData(raw: Deck | null): WritingData {
   const fetchStrokes = async (deckId: string, todo: string[], signal: AbortSignal): Promise<void> => {
     if (todo.length === 0) { setMissing(deckId, []); setPhase({ kind: 'intro' }); return; }
     setPhase({ kind: 'downloading', done: 0, total: todo.length });
-    const { strokes: got, failed } = await downloadStrokes(todo, { signal, onProgress: (p) => setPhase({ kind: 'downloading', ...p }) });
+    const { strokes: got, failed } = await downloadStrokes(todo, { signal, source, onProgress: (p) => setPhase({ kind: 'downloading', ...p }) });
     // What arrived is kept even when the learner cancelled: it is the same
     // data, and throwing it away makes the next press fetch it again.
     if (Object.keys(got).length > 0) {
-      try { await strokeCache().write(got); } catch (err) {
+      try { await strokeCache().write(got, source); } catch (err) {
         log.warn('strokes', 'downloaded but not kept', { error: errText(err) });
         setCacheProblem(errText(err));
       }
@@ -133,10 +136,10 @@ export function useWritingData(raw: Deck | null): WritingData {
       let target = deck;
       if (raw.pack && key && !packEntries) {
         setPhase({ kind: 'packing' });
-        let entries: KanjiEntry[];
+        let entries: unknown[];
         try {
-          entries = parseKanjidic(await downloadKanjidic({ signal: ctrl.signal }), raw.pack.jlpt);
-          const problem = packProblem(entries);
+          entries = await fetchPack(raw.pack, ctrl.signal);
+          const problem = packDataProblem(raw.pack, entries);
           if (problem) throw new Error(problem);
         } catch (err) {
           if (ctrl.signal.aborted) { setPhase({ kind: 'intro' }); return; }
@@ -149,11 +152,11 @@ export function useWritingData(raw: Deck | null): WritingData {
           setCacheProblem(errText(err));
         }
         setPackFor({ deckId: raw.id, entries });
-        target = buildPackDeck(raw, raw.pack, entries);
+        target = buildFromPack(raw, raw.pack, entries);
       }
       if (!target) return;
       const all = glyphChars(target);
-      const known = await strokeCache().read(all).catch(() => ({ found: {}, missing: all }));
+      const known = await strokeCache().read(all, source).catch(() => ({ found: {}, missing: all }));
       setStrokes((s) => ({ ...s, ...known.found }));
       await fetchStrokes(target.id, known.missing, ctrl.signal);
     };

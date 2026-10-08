@@ -29,7 +29,7 @@ import { maskExample, posKey } from '../lib/deck';
 import { speak, useSpeaker } from '../lib/speech';
 import { HINT_COST, type PadResult } from '../lib/pad';
 import { kunToRomaji, onToRomaji } from '../lib/romaji';
-import { Glyph, WritingPad } from './WritingPad';
+import { Glyph, WordPad } from './WritingPad';
 import type { QueueItem } from '../lib/session';
 import type { GlossLang } from '../lib/types';
 import { h2, lede, small } from '../styles';
@@ -140,8 +140,12 @@ export function Session({ queue: initial, lang, learningName, targetLang, tomorr
         item.card.readings.kun.length > 0 ? `${t('session.kunLabel')} ${item.card.readings.kun.slice(0, 4).map(kunToRomaji).join(', ')}` : '',
       ].filter(Boolean).join(' · '),
     })
-    : null;
-  const glyphStrokes = isGlyph ? strokesOf?.(item.card.target) : undefined;
+    : item.card.pinyin ? t('session.pinyin', { pinyin: item.card.pinyin }) : null;
+  // One list of strokes per character: a Chinese card is a word (爸爸).
+  const perChar = isGlyph ? [...item.card.target].map((c) => strokesOf?.(c)) : [];
+  const glyphStrokes = perChar.length > 0 && perChar.every((s) => s !== undefined)
+    ? perChar as readonly (readonly string[])[]
+    : undefined;
   const masked = maskExample(item.card);
   const exampleGloss = item.card.example?.gloss[lang];
   const produceHint = masked
@@ -181,7 +185,9 @@ export function Session({ queue: initial, lang, learningName, targetLang, tomorr
         ) : isGlyph && item.direction === 'recognise' && glyphStrokes ? (
           // Drawn from its strokes, never a font (WritingPad.tsx). No 🔊 here:
           // hearing « あ » IS its reading, the answer.
-          <div style={{ marginTop: '16px' }}><Glyph strokes={glyphStrokes} size={160} label={t('write.glyphLabel')} /></div>
+          <div role="img" aria-label={t('write.glyphLabel')} style={{ marginTop: '16px', display: 'flex', gap: '8px', justifyContent: 'center', flexWrap: 'wrap' }}>
+            {glyphStrokes.map((s, k) => <Glyph key={k} strokes={s} size={glyphStrokes.length > 2 ? 110 : 160} />)}
+          </div>
         ) : (
           <p lang={item.direction === 'recognise' ? targetLang : lang} className="ml-front">
             {front}
@@ -196,7 +202,7 @@ export function Session({ queue: initial, lang, learningName, targetLang, tomorr
         {onPad && !glyphStrokes && <p role="alert" style={small}>{t('write.noStrokes')}</p>}
         {onPad && glyphStrokes && (
           <div style={{ marginTop: '16px', width: '100%' }}>
-            <WritingPad
+            <WordPad
               key={`${item.record.id}#${seen}`}
               strokes={glyphStrokes}
               label={gloss}

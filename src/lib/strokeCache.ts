@@ -10,21 +10,22 @@
  * 🎭 Three outcomes for a read, never two: what was found, what is missing,
  * and « the cache could not be opened » — which is not « nothing downloaded ».
  */
-import { KANJIVG } from './strokes';
+import { KANJIVG_SOURCE, type StrokeSource } from './strokes';
 import { log } from './log';
 
 const DB = 'mnemo-lingua';
 const STORE = 'strokes';
-/** The release is in the key: a new KanjiVG tag is a new download, never a
- *  mix of two releases' strokes. */
-const keyOf = (char: string): string => `kanjivg@${KANJIVG.tag}:${char}`;
+/** Source and release are in the key: a new tag is a new download, never a
+ *  mix of two releases' strokes. (`kanjivg@r20260714:あ` is the key the
+ *  first release wrote; it is unchanged.) */
+const keyOf = (char: string, src: StrokeSource): string => `${src.id}@${src.tag}:${char}`;
 
 /** How long IndexedDB may take to answer before it counts as unavailable. */
 const OPEN_TIMEOUT_MS = 5_000;
 
 export interface StrokeCache {
-  read(chars: readonly string[]): Promise<{ found: Record<string, string[]>; missing: string[] }>;
-  write(strokes: Record<string, string[]>): Promise<void>;
+  read(chars: readonly string[], source?: StrokeSource): Promise<{ found: Record<string, string[]>; missing: string[] }>;
+  write(strokes: Record<string, string[]>, source?: StrokeSource): Promise<void>;
   /** A downloaded dataset (the kanji of a level), or null when absent. */
   readPack(key: string): Promise<unknown>;
   writePack(key: string, value: unknown): Promise<void>;
@@ -62,12 +63,12 @@ function open(): Promise<IDBDatabase> {
 
 /** The real cache: survives closing the cartridge, as long as the frame's origin does. */
 export const idbStrokeCache: StrokeCache = {
-  async read(chars) {
+  async read(chars, source = KANJIVG_SOURCE) {
     const db = await open();
     const store = db.transaction(STORE, 'readonly').objectStore(STORE);
     const found: Record<string, string[]> = {};
     const missing: string[] = [];
-    const values = await withTimeout(Promise.all(chars.map((c) => req(store.get(keyOf(c))))), OPEN_TIMEOUT_MS, 'strokes read');
+    const values = await withTimeout(Promise.all(chars.map((c) => req(store.get(keyOf(c, source))))), OPEN_TIMEOUT_MS, 'strokes read');
     chars.forEach((c, k) => {
       const v: unknown = values[k];
       if (Array.isArray(v) && v.length > 0 && v.every((s) => typeof s === 'string')) found[c] = v;
@@ -75,11 +76,11 @@ export const idbStrokeCache: StrokeCache = {
     });
     return { found, missing };
   },
-  async write(strokes) {
+  async write(strokes, source = KANJIVG_SOURCE) {
     const db = await open();
     const tx = db.transaction(STORE, 'readwrite');
     const store = tx.objectStore(STORE);
-    for (const [c, s] of Object.entries(strokes)) store.put(s, keyOf(c));
+    for (const [c, s] of Object.entries(strokes)) store.put(s, keyOf(c, source));
     await withTimeout(new Promise<void>((resolve, reject) => {
       tx.oncomplete = () => resolve();
       tx.onerror = () => reject(tx.error ?? new Error('IDB_WRITE'));
@@ -114,14 +115,14 @@ export function memoryStrokeCache(): StrokeCache {
   return {
     readPack(key) { return Promise.resolve(packs.get(key) ?? null); },
     writePack(key, value) { packs.set(key, value); return Promise.resolve(); },
-    read(chars) {
+    read(chars, source = KANJIVG_SOURCE) {
       const found: Record<string, string[]> = {};
       const missing: string[] = [];
-      for (const c of chars) { const v = map.get(c); if (v) found[c] = v; else missing.push(c); }
+      for (const c of chars) { const v = map.get(keyOf(c, source)); if (v) found[c] = v; else missing.push(c); }
       return Promise.resolve({ found, missing });
     },
-    write(strokes) {
-      for (const [c, s] of Object.entries(strokes)) map.set(c, s);
+    write(strokes, source = KANJIVG_SOURCE) {
+      for (const [c, s] of Object.entries(strokes)) map.set(keyOf(c, source), s);
       return Promise.resolve();
     },
   };

@@ -96,7 +96,7 @@ describe('loadDeck', () => {
 
   it('draws the tabs from the file names: levels first, in order, then topic decks', () => {
     expect(DECK_METAS.map((m) => [m.id, m.level ?? null])).toEqual([
-      ['en-a1', 'A1'], ['en-a2', 'A2'], ['en-b1', 'B1'], ['ja-kana', null], ['ja-kanji-n5', null], ['en-travel', null],
+      ['en-a1', 'A1'], ['en-a2', 'A2'], ['en-b1', 'B1'], ['zh-hsk1', null], ['ja-kana', null], ['ja-kanji-n5', null], ['en-travel', null],
     ]);
   });
 
