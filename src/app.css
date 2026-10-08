@@ -428,6 +428,7 @@
 }
 .ml-stroke-live { stroke: var(--ml-accent); stroke-width: 4.5; }
 .ml-stroke-hint { stroke: color-mix(in srgb, var(--ml-accent) 70%, transparent); stroke-width: 6; }
+.ml-stroke-demo { stroke: var(--ml-accent); stroke-width: 6; }
 /* Drawn from its start. The base dashoffset is 0 so that, with motion
    reduced (animation removed), the stroke is simply there. */
 .ml-stroke-draw {

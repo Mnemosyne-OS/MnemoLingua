@@ -185,7 +185,10 @@
     },
     "charOf": "Character {{n}} of {{total}}",
     "discover": "New: have a look, it will come back.",
-    "gotIt": "Got it, next"
+    "gotIt": "Got it, next",
+    "watch": "Watch the strokes…",
+    "yourTurn": "Your turn: {{total}} stroke(s), in the same order.",
+    "watchAgain": "Watch again"
   },
   "setup": {
     "title": "{{deck}}: writing by hand",

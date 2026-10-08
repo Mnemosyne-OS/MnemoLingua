@@ -71,6 +71,17 @@ export function parseKanjidic(xml: string, jlpt: number): KanjiEntry[] {
   return out;
 }
 
+/**
+ * KANJIDIC2 lists, among the meanings, which RADICAL a kanji is (« radical
+ * one (no. 1) », « radical un (no. 1) »): dictionary notation, not a meaning a
+ * learner should read (seen on 一, 2026-10-08). Dropped, unless it is all
+ * there is.
+ */
+export function cleanMeanings(meanings: readonly string[]): string[] {
+  const kept = meanings.filter((m) => !/\(n[oº°]\.? ?\d+\)|^radical\b|\bradical\b.*\d/i.test(m));
+  return kept.length > 0 ? kept : [...meanings];
+}
+
 /** The themes a pack deck is cut into: the school year a kanji is taught. */
 export function packTheme(grade: number | null): string {
   return grade === 1 ? 'grade1' : grade === 2 ? 'grade2' : 'grade3plus';
@@ -86,8 +97,8 @@ export function buildPackDeck(base: Deck, pack: KanjiPack, entries: readonly Kan
   for (const e of entries) {
     const gloss: Partial<Record<GlossLang, string>> = {};
     for (const l of LANGS) {
-      const m = e.meanings[l];
-      if (m && m.length > 0) gloss[l] = m.slice(0, 3).join(', ');
+      const m = cleanMeanings(e.meanings[l] ?? []);
+      if (m.length > 0) gloss[l] = m.slice(0, 3).join(', ');
     }
     const card: DeckCard = {
       id: `kanji-${e.char}`, kind: 'glyph', target: e.char, pos: 'kanji', gloss, check: 'reference',

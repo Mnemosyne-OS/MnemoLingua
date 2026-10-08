@@ -36,12 +36,27 @@ export function Glyph({ strokes, size = 160, animate = false, label }: {
 
 const PAD = 300;
 
+/** Seconds between two strokes of the drawing, and of one stroke (app.css). */
+const STROKE_GAP_S = 0.55;
+const STROKE_DRAW_S = 0.52;
+/** How long the beginner's drawing lasts before the pad is the learner's. */
+export function demoMs(strokeCount: number): number {
+  return Math.round(((strokeCount - 1) * STROKE_GAP_S + STROKE_DRAW_S) * 1000) + 700;
+}
+
 /** The pad: turns pointer strokes into points for lib/pad.ts and reports once, when done. */
-export function WritingPad({ strokes, label, onDone }: {
+export function WritingPad({ strokes, label, onDone, demo = false }: {
   strokes: readonly string[];
   /** The character's name for screen readers (its reading). */
   label: string;
   onDone: (r: PadResult) => void;
+  /**
+   * The beginner's help (Tony, 2026-10-08: « on voit le sigle se dessiner et
+   * ensuite c'est à l'humain »): the character draws itself first, stroke by
+   * stroke, then it vanishes and the pad is the learner's. Free, never a hint:
+   * it is how a new character is taught. « Watch again » replays it.
+   */
+  demo?: boolean;
 }): JSX.Element {
   const { t, lang } = useI18n();
   const [state, dispatch] = useReducer(
@@ -53,6 +68,15 @@ export function WritingPad({ strokes, label, onDone }: {
   const drawing = useRef<Pt[] | null>(null);
   const svgRef = useRef<SVGSVGElement>(null);
   const reported = useRef(false);
+  // A counter, not a boolean: « watch again » must restart the animation.
+  const [demoRun, setDemoRun] = useState(demo ? 1 : 0);
+  const [demoing, setDemoing] = useState(demo);
+  useEffect(() => {
+    if (demoRun === 0) return;
+    setDemoing(true);
+    const timer = setTimeout(() => setDemoing(false), demoMs(strokes.length));
+    return () => clearTimeout(timer);
+  }, [demoRun, strokes.length]);
 
   // Reported once, after the render that shows the finished character.
   useEffect(() => {
@@ -69,7 +93,7 @@ export function WritingPad({ strokes, label, onDone }: {
   };
 
   const down = (e: ReactPointerEvent<SVGSVGElement>): void => {
-    if (state.done) return;
+    if (state.done || demoing) return;
     const p = toBox(e);
     if (!p) return;
     e.currentTarget.setPointerCapture(e.pointerId);
@@ -110,6 +134,15 @@ export function WritingPad({ strokes, label, onDone }: {
       >
         <line x1={BOX / 2} y1={4} x2={BOX / 2} y2={BOX - 4} className="ml-pad-guide" />
         <line x1={4} y1={BOX / 2} x2={BOX - 4} y2={BOX / 2} className="ml-pad-guide" />
+        {demoing && strokes.map((d, k) => (
+          <path
+            key={`demo-${demoRun}-${k}`}
+            d={d}
+            pathLength={1}
+            className="ml-stroke ml-stroke-demo ml-stroke-draw"
+            style={{ animationDelay: `${k * STROKE_GAP_S}s` }}
+          />
+        ))}
         {showing.map((d, k) => (
           <path
             key={`hint-${state.total}-${k}-${String(state.showing)}`}
@@ -128,15 +161,20 @@ export function WritingPad({ strokes, label, onDone }: {
       </svg>
 
       <p role="status" style={{ ...small, minHeight: '20px', textAlign: 'center' }}>
-        {state.done
+        {demoing
+          ? t('write.watch')
+          : state.done
           ? (state.gaveUp ? t('write.gaveUp') : state.total === 0 && !state.hinted ? t('write.perfect') : t('write.finished'))
           : state.last
             ? t(`write.why.${state.last}`, { n: state.index + 1 })
-            : t('write.strokeOf', { n: state.index + 1, total: strokes.length })}
+            : demo && state.index === 0 && state.total === 0
+              ? t('write.yourTurn', { total: strokes.length })
+              : t('write.strokeOf', { n: state.index + 1, total: strokes.length })}
       </p>
 
-      {!state.done && (
+      {!state.done && !demoing && (
         <div style={{ display: 'flex', gap: '12px', flexWrap: 'wrap', justifyContent: 'center' }}>
+          {demo && <button className="ml-btn ml-btn-ghost" onClick={() => setDemoRun((n) => n + 1)}>{t('write.watchAgain')}</button>}
           <button className="ml-btn ml-btn-ghost" onClick={() => dispatch({ type: 'showOrder' })}>{t('write.showOrder', { n: new Intl.NumberFormat(lang, { maximumFractionDigits: 1 }).format(HINT_COST) })}</button>
           <button className="ml-btn ml-btn-ghost" onClick={() => dispatch({ type: 'giveUp' })}>{t('write.giveUp')}</button>
         </div>
@@ -160,11 +198,13 @@ export function wordResult(results: readonly PadResult[]): PadResult {
  * characters already written drawn small beside it. A single character is the
  * plain pad.
  */
-export function WordPad({ strokes, label, onDone }: {
+export function WordPad({ strokes, label, onDone, demo = false }: {
   /** The strokes of each character of the word, in order. */
   strokes: readonly (readonly string[])[];
   label: string;
   onDone: (r: PadResult) => void;
+  /** Each character draws itself before the learner writes it (WritingPad). */
+  demo?: boolean;
 }): JSX.Element {
   const { t } = useI18n();
   const [results, setResults] = useState<PadResult[]>([]);
@@ -174,7 +214,7 @@ export function WordPad({ strokes, label, onDone }: {
     setResults(next);
     if (next.length === strokes.length) onDone(wordResult(next));
   };
-  if (strokes.length === 1) return <WritingPad strokes={strokes[0]!} label={label} onDone={onDone} />;
+  if (strokes.length === 1) return <WritingPad strokes={strokes[0]!} label={label} onDone={onDone} demo={demo} />;
   const current = strokes[Math.min(index, strokes.length - 1)]!;
   return (
     <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', gap: '8px', width: '100%' }}>
@@ -188,7 +228,7 @@ export function WordPad({ strokes, label, onDone }: {
       {index < strokes.length ? (
         <>
           <p style={small}>{t('write.charOf', { n: index + 1, total: strokes.length })}</p>
-          <WritingPad key={index} strokes={current} label={label} onDone={finish} />
+          <WritingPad key={index} strokes={current} label={label} onDone={finish} demo={demo} />
         </>
       ) : (
         <div style={{ display: 'flex', gap: '8px' }}>

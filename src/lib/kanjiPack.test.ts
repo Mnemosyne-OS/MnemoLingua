@@ -1,6 +1,6 @@
 import { gzipSync } from 'node:zlib';
 import { describe, expect, it } from 'vitest';
-import { buildPackDeck, downloadKanjidic, packProblem, parseKanjidic, type KanjiEntry } from './kanjiPack';
+import { buildPackDeck, cleanMeanings, downloadKanjidic, packProblem, parseKanjidic, type KanjiEntry } from './kanjiPack';
 import { kanaToRomaji, kunToRomaji, onToRomaji } from './romaji';
 import { parseDeck } from './deck';
 import n5 from '../decks/ja/kanji-n5.json';
@@ -74,4 +74,12 @@ describe('the KANJIDIC2 pack', () => {
     const fetchImpl = (() => Promise.resolve(new Response('', { status: 503 }))) as unknown as typeof fetch;
     await expect(downloadKanjidic({ fetchImpl })).rejects.toThrow('HTTP 503');
   });
+
+  it('drops the radical notation, which is not a meaning, unless it is all there is', () => {
+    expect(cleanMeanings(['un', 'radical un (no. 1)'])).toEqual(['un']);
+    expect(cleanMeanings(['one', 'one radical (no.1)'])).toEqual(['one']);
+    expect(cleanMeanings(['radical (no. 3)'])).toEqual(['radical (no. 3)']);
+    expect(cleanMeanings(['water'])).toEqual(['water']);
+  });
 });
+

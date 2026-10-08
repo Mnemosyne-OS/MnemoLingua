@@ -185,7 +185,10 @@
     },
     "charOf": "Carácter {{n}} de {{total}}",
     "discover": "Nuevo: míralo, volverá.",
-    "gotIt": "Visto, siguiente"
+    "gotIt": "Visto, siguiente",
+    "watch": "Mira el trazado…",
+    "yourTurn": "Te toca: {{total}} trazo(s), en el mismo orden.",
+    "watchAgain": "Ver el trazado otra vez"
   },
   "setup": {
     "title": "{{deck}}: escribir a mano",

@@ -16,7 +16,7 @@ function kana(id: string, direction: 'recognise' | 'produce'): QueueItem {
   return {
     card: { id, kind: 'glyph', target: id === 'hira-a' ? 'あ' : 'い', pos: 'hiragana', gloss: { fr: id === 'hira-a' ? 'a' : 'i' }, check: 'reference' },
     direction,
-    record: { id: `${id}:${direction}`, courseId: 'ja-kana', front: '', back: '', box: 1, dueAt: '2026-10-07', reps: 0, lapses: 0, lastSeenAt: null },
+    record: { id: `${id}:${direction}`, courseId: 'ja-kana', front: '', back: '', box: 2, dueAt: '2026-10-07', reps: 0, lapses: 0, lastSeenAt: null },
   };
 }
 

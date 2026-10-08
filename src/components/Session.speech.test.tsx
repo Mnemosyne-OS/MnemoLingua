@@ -2,6 +2,7 @@ import { afterEach, describe, expect, it, vi } from 'vitest';
 import { act, fireEvent, render, screen } from '@testing-library/react';
 import { pickVoice, type VoiceInfo } from '../lib/speech';
 import { Session } from './Session';
+import { demoMs } from './WritingPad';
 import { setLang } from '../i18n/useI18n';
 import type { QueueItem } from '../lib/session';
 
@@ -85,7 +86,7 @@ describe('a kana card', () => {
     return {
       card: { id: 'hira-a', kind: 'glyph', target: 'あ', pos: 'hiragana', gloss: { fr: 'a' }, check: 'reference' },
       direction,
-      record: { id: `hira-a:${direction}`, courseId: 'ja-kana', front: '', back: '', box: 1, dueAt: '2026-10-07', reps, lapses: 0, lastSeenAt: null },
+      record: { id: `hira-a:${direction}`, courseId: 'ja-kana', front: '', back: '', box: 2, dueAt: '2026-10-07', reps, lapses: 0, lastSeenAt: null },
     };
   }
   function mountKana(q: QueueItem[]) {
@@ -132,7 +133,7 @@ describe('a Chinese word on the pad', () => {
     return {
       card: { id: 'hsk-爸爸', kind: 'glyph', target: '爸爸', gloss: { en: 'dad' }, pinyin: 'bàba', check: 'reference' },
       direction: 'produce',
-      record: { id: 'hsk-爸爸:produce', courseId: 'zh-hsk1', front: '', back: '', box: 1, dueAt: '2026-10-07', reps: 0, lapses: 0, lastSeenAt: null },
+      record: { id: 'hsk-爸爸:produce', courseId: 'zh-hsk1', front: '', back: '', box: 2, dueAt: '2026-10-07', reps: 0, lapses: 0, lastSeenAt: null },
     };
   }
   it('is written character after character, and its pinyin shows once written', () => {
@@ -148,6 +149,42 @@ describe('a Chinese word on the pad', () => {
     expect(screen.getByText('Pinyin : bàba')).toBeInTheDocument();
     fireEvent.click(screen.getByText('Continuer'));
     expect(onAnswer).toHaveBeenCalledWith(expect.objectContaining({ direction: 'produce' }), false);
+  });
+});
+
+describe('the beginner help on the pad', () => {
+  const S = ['M10,50c20,0,60,0,90,0', 'M50,10c0,20,0,60,0,90'];
+  function boxOne(): QueueItem {
+    return {
+      card: { id: 'kanji-十', kind: 'glyph', target: '十', gloss: { fr: 'dix' }, check: 'reference' },
+      direction: 'produce',
+      record: { id: 'kanji-十:produce', courseId: 'ja-kanji-n5', front: '', back: '', box: 1, dueAt: '2026-10-07', reps: 1, lapses: 0, lastSeenAt: null },
+    };
+  }
+
+  it('in box 1 the character draws itself first, then the pad belongs to the learner, and it can be watched again for free', () => {
+    vi.useFakeTimers();
+    installSynth([]);
+    setLang('fr');
+    render(<Session queue={[boxOne()]} lang="fr" learningName="japonais" targetLang="ja" tomorrow={() => 0} onAnswer={() => undefined} onReport={() => undefined} onLeave={() => undefined} strokesOf={() => S} />);
+    expect(screen.getByText('Regarde le tracé…')).toBeInTheDocument();
+    expect(screen.queryByText('Je ne sais pas')).not.toBeInTheDocument();
+    act(() => { vi.advanceTimersByTime(demoMs(2) + 10); });
+    expect(screen.getByText('À toi : 2 trait(s), dans le même ordre.')).toBeInTheDocument();
+    fireEvent.click(screen.getByText('Revoir le tracé'));
+    expect(screen.getByText('Regarde le tracé…')).toBeInTheDocument();
+    act(() => { vi.advanceTimersByTime(demoMs(2) + 10); });
+    // Watching is not a hint: no half point is taken for it.
+    fireEvent.click(screen.getByText('Je ne sais pas'));
+    expect(screen.getByText('0 pt(s)')).toBeInTheDocument();
+  });
+
+  it('past box 1 the pad belongs to the learner at once', () => {
+    installSynth([]);
+    setLang('fr');
+    render(<Session queue={[{ ...boxOne(), record: { ...boxOne().record, box: 2 } }]} lang="fr" learningName="japonais" targetLang="ja" tomorrow={() => 0} onAnswer={() => undefined} onReport={() => undefined} onLeave={() => undefined} strokesOf={() => S} />);
+    expect(screen.queryByText('Regarde le tracé…')).not.toBeInTheDocument();
+    expect(screen.getByText('Trait 1 sur 2')).toBeInTheDocument();
   });
 });
 

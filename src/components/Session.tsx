@@ -226,6 +226,9 @@ export function Session({ queue: initial, lang, learningName, targetLang, tomorr
               strokes={glyphStrokes}
               label={gloss}
               onDone={setWritten}
+              // A character still in box 1 (new, or missed last time) is
+              // drawn for the learner first: watch, then write.
+              demo={item.record.box === 1}
             />
             {written && say(item.card.target) && <p style={{ ...small, textAlign: 'center' }}>{say(item.card.target)}</p>}
             {written && readings && <p style={{ ...small, textAlign: 'center', marginTop: '4px' }}>{readings}</p>}
