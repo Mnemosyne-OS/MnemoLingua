@@ -235,5 +235,12 @@
     "kanji1": "A kanji carries a meaning: 水 means water.",
     "kanji2": "It often has two readings: on, from Chinese and written in capitals (SUI), and kun, Japanese (mizu).",
     "kanji3": "Each new kanji is shown to you first, drawn stroke by stroke, with its meaning and readings. Then you recognise it, then you write it."
+  },
+  "update": {
+    "badge": "v{{v}}",
+    "badgeNew": "v{{v}} · {{next}} available",
+    "current": "Up to date",
+    "available": "MnemoLingua {{v}} is available: open the Mnemosyne Hub to update.",
+    "see": "See on GitHub"
   }
 }

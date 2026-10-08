@@ -62,7 +62,10 @@ export function DeckScreen(p: Props): JSX.Element {
   const intro = introKind(p.deck);
 
   return (
-    <div style={{ display: 'flex', flexDirection: 'column', gap: '24px' }}>
+    // Two columns when the window is wide (today and settings on the side, the
+    // themes beside them), one column otherwise (app.css .ml-deck).
+    <div className="ml-deck">
+      <div className="ml-deck-side">
       <section className="ml-glass ml-hero">
         <div style={{ display: 'flex', gap: '16px', alignItems: 'flex-start', justifyContent: 'space-between', flexWrap: 'wrap' }}>
           <div style={{ display: 'flex', flexDirection: 'column', gap: '4px', minWidth: 0 }}>
@@ -110,6 +113,38 @@ export function DeckScreen(p: Props): JSX.Element {
         </details>
       )}
 
+      <section className="ml-glass ml-panel" style={{ gap: '12px' }}>
+        <div style={{ display: 'flex', gap: '12px', alignItems: 'center', flexWrap: 'wrap', justifyContent: 'space-between' }}>
+          <span style={{ fontSize: '14px', fontWeight: 600 }}>{t('deck.dailyNew', { n: p.dailyNew })}</span>
+          <div className="ml-seg ml-seg-sm">
+            {[...new Set([5, 10, 15, 20, 30, p.dailyNew])].sort((a, b) => a - b).map((n) => (
+              <button key={n} className="ml-seg-btn" aria-pressed={n === p.dailyNew} onClick={() => p.onDailyNew(n)}>{n}</button>
+            ))}
+          </div>
+        </div>
+        {p.deck.source && <p style={small}>{t('deck.source', { name: p.deck.source.name, url: p.deck.source.url })}</p>}
+        {p.deck.pack?.source === 'kanjidic2' && <p style={small}>{t('deck.packSource', { name: KANJIDIC2.name, author: KANJIDIC2.author, licence: KANJIDIC2.licence })}</p>}
+        {p.deck.pack?.source === 'hsk' && <p style={small}>{t('deck.hskSource', { name: HSK_LIST.name, licence: HSK_LIST.licence })}</p>}
+        {drawsStrokes && <p style={small}>{t('deck.strokesSource', { name: strokeSourceFor(p.deck.lang).name, author: strokeSourceFor(p.deck.lang).author, licence: strokeSourceFor(p.deck.lang).licence, tag: strokeSourceFor(p.deck.lang).tag })}</p>}
+        {p.view.withheld > 0 && <p style={small}>{t('deck.withheld', { n: p.view.withheld })}</p>}
+        {p.view.noGloss > 0 && !glossless && <p style={small}>{t('deck.noGloss', { n: p.view.noGloss })}</p>}
+        {p.reports.length > 0 && (
+          <details>
+            <summary style={{ ...small, cursor: 'pointer' }}>{t('deck.reports', { n: p.reports.length })}</summary>
+            <ul style={{ listStyle: 'none', padding: 0, margin: '8px 0 0', display: 'flex', flexDirection: 'column', gap: '8px' }}>
+              {p.reports.map((r) => (
+                <li key={r.cardId} style={{ display: 'flex', gap: '8px', alignItems: 'center' }}>
+                  <span lang={p.deck.lang} style={{ flex: 1 }}>{p.targetOf(r.cardId)}</span>
+                  <button className="ml-btn ml-btn-ghost" onClick={() => p.onPutBack(r.cardId)}>{t('deck.putBack')}</button>
+                </li>
+              ))}
+            </ul>
+          </details>
+        )}
+      </section>
+      </div>
+
+      <div className="ml-deck-main">
       <section className="ml-glass ml-panel" aria-labelledby="ml-themes">
         <div style={{ display: 'flex', gap: '12px', alignItems: 'center', justifyContent: 'space-between', flexWrap: 'wrap' }}>
           <div style={{ display: 'flex', gap: '12px', alignItems: 'baseline' }}>
@@ -144,35 +179,7 @@ export function DeckScreen(p: Props): JSX.Element {
         </div>
       </section>
 
-      <section className="ml-glass ml-panel" style={{ gap: '12px' }}>
-        <div style={{ display: 'flex', gap: '12px', alignItems: 'center', flexWrap: 'wrap', justifyContent: 'space-between' }}>
-          <span style={{ fontSize: '14px', fontWeight: 600 }}>{t('deck.dailyNew', { n: p.dailyNew })}</span>
-          <div className="ml-seg ml-seg-sm">
-            {[...new Set([5, 10, 15, 20, 30, p.dailyNew])].sort((a, b) => a - b).map((n) => (
-              <button key={n} className="ml-seg-btn" aria-pressed={n === p.dailyNew} onClick={() => p.onDailyNew(n)}>{n}</button>
-            ))}
-          </div>
-        </div>
-        {p.deck.source && <p style={small}>{t('deck.source', { name: p.deck.source.name, url: p.deck.source.url })}</p>}
-        {p.deck.pack?.source === 'kanjidic2' && <p style={small}>{t('deck.packSource', { name: KANJIDIC2.name, author: KANJIDIC2.author, licence: KANJIDIC2.licence })}</p>}
-        {p.deck.pack?.source === 'hsk' && <p style={small}>{t('deck.hskSource', { name: HSK_LIST.name, licence: HSK_LIST.licence })}</p>}
-        {drawsStrokes && <p style={small}>{t('deck.strokesSource', { name: strokeSourceFor(p.deck.lang).name, author: strokeSourceFor(p.deck.lang).author, licence: strokeSourceFor(p.deck.lang).licence, tag: strokeSourceFor(p.deck.lang).tag })}</p>}
-        {p.view.withheld > 0 && <p style={small}>{t('deck.withheld', { n: p.view.withheld })}</p>}
-        {p.view.noGloss > 0 && !glossless && <p style={small}>{t('deck.noGloss', { n: p.view.noGloss })}</p>}
-        {p.reports.length > 0 && (
-          <details>
-            <summary style={{ ...small, cursor: 'pointer' }}>{t('deck.reports', { n: p.reports.length })}</summary>
-            <ul style={{ listStyle: 'none', padding: 0, margin: '8px 0 0', display: 'flex', flexDirection: 'column', gap: '8px' }}>
-              {p.reports.map((r) => (
-                <li key={r.cardId} style={{ display: 'flex', gap: '8px', alignItems: 'center' }}>
-                  <span lang={p.deck.lang} style={{ flex: 1 }}>{p.targetOf(r.cardId)}</span>
-                  <button className="ml-btn ml-btn-ghost" onClick={() => p.onPutBack(r.cardId)}>{t('deck.putBack')}</button>
-                </li>
-              ))}
-            </ul>
-          </details>
-        )}
-      </section>
+      </div>
     </div>
   );
 }

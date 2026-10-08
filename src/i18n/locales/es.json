@@ -235,5 +235,12 @@
     "kanji1": "Un kanji tiene un sentido: 水 quiere decir agua.",
     "kanji2": "A menudo tiene dos lecturas: on, que viene del chino y se escribe en mayúsculas (SUI), y kun, japonesa (mizu).",
     "kanji3": "Cada kanji nuevo se te muestra primero, trazado trazo a trazo, con su sentido y sus lecturas. Luego lo reconoces, y después lo escribes."
+  },
+  "update": {
+    "badge": "v{{v}}",
+    "badgeNew": "v{{v}} · {{next}} disponible",
+    "current": "Al día",
+    "available": "La versión {{v}} de MnemoLingua está disponible: abre el Hub de Mnemosyne para actualizarla.",
+    "see": "Ver en GitHub"
   }
 }
