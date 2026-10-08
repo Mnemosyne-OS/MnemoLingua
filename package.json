@@ -1,6 +1,6 @@
 {
   "name": "@mnemosyne-plugins/mnemo-lingua",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "private": true,
   "type": "module",
   "description": "Learn English from level A1 to B1, Japanese (the kana and the N5 kanji) and Chinese (the words of HSK 1), which you write by hand stroke by stroke. Cards come back with spaced repetition, in both directions, with their pronunciation. Japanese and Chinese need one download the first time. Then everything works offline.",

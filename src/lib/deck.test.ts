@@ -217,7 +217,7 @@ describe('maskExample', () => {
         expect([...seen.values()].filter((n) => n > 1).reduce((a, n) => a + n, 0)).toBeLessThanOrEqual(ceiling);
       }
     }
-  });
+  }, 30_000); // parses three full decks: ~0.8 s alone, past 5 s under a loaded full run
 });
 
 describe('the B1 deck', () => {

@@ -1,0 +1,13 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="MnemoLingua">
+  <defs>
+    <linearGradient id="lingua-grad" x1="6" y1="42" x2="42" y2="6" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#60a5fa"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+  </defs>
+  <path d="M7 9H27C28.7 9 30 10.3 30 12V22C30 23.7 28.7 25 27 25H15L9 30V25H7C5.3 25 4 23.7 4 22V12C4 10.3 5.3 9 7 9Z" fill="url(#lingua-grad)" fill-opacity="0.16" stroke="url(#lingua-grad)" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M34 18H41C42.7 18 44 19.3 44 21V31C44 32.7 42.7 34 41 34H39V39L33 34H23C21.3 34 20 32.7 20 31V29" stroke="url(#lingua-grad)" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M11 15H23" stroke="url(#lingua-grad)" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M11 19H19" stroke="url(#lingua-grad)" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M28 27H38" stroke="url(#lingua-grad)" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
