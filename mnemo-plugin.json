@@ -1,7 +1,7 @@
 {
   "name": "@mnemosyne-plugins/mnemo-lingua",
   "displayName": "MnemoLingua",
-  "version": "0.2.7",
+  "version": "0.2.8",
   "vendor": "Mnemosyne Labs",
   "license": "MIT",
   "category": "Research",
@@ -26,6 +26,7 @@
     "education"
   ],
   "permissions": [],
+  "repository": "https://github.com/Mnemosyne-OS/MnemoLingua",
   "updateStrategy": "git",
   "entrypoints": {
     "renderer": "index.html"
